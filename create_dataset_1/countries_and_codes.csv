@@ -1,0 +1,298 @@
+Country, Code
+Abkhazia,AB
+Afghanistan,AF
+Akrotiri and Dhekelia,AX
+Albania,AL
+Algeria,DZ
+American Samoa,AS
+Andorra,AD
+Angola,AO
+Anguilla,AI
+Antigua and Barbuda,AG
+Argentina,AR
+Armenia,AM
+Aruba,AW
+Ascension Island,AC
+Australia,AU
+Australia*,AU
+Austria,AT
+Azerbaijan,AZ
+Bahamas,BS
+Bahrain,BH
+Bangladesh,BD
+Barbados,BB
+Belarus,BY
+Belgium,BE
+Belize,BZ
+Benin,BJ
+Bermuda,BM
+Bhutan,BT
+Bolivia,BO
+Bosnia,BA
+Bosnia and Herzegovina,BA
+Bosnia-Herzegovina-Herzegovina,BA
+Bosnia-Herzegovina,BA
+Botswana,BW
+Brazil,BR
+Brunei,BN
+Bulgaria,BG
+Burkina,BF
+Burkina Faso,BF
+Burundi,BI
+Cambodia,KH
+Cameroon,CM
+Canada,CA
+Cape Verde,CV
+Cape Verde Islands,CV
+Caribbean Netherlands,BQ
+Cayman Islands,KY
+Central African Rep,CF
+Central African Republic,CF
+Central African Republic,CF
+C.A.R.,CF
+Chad,TD
+Chile,CL
+China PR,CN
+China_PR,CN
+Christmas Island,CX
+Cocos (Keeling) Islands,CC
+Colombia,CO
+Comoros,KM
+Comoros Islands,KM
+Comores,KM
+Congo DR, DR
+Congo R,CG
+Congo, CG
+Cook Islands,CK
+Costa Rica,CR
+Croatia,HR
+Cuba,CU
+Curaçao,CW
+Curacao,CW
+Cyprus,CY
+Czech,CZ
+Czech Rep,CZ
+Czech Republic,CZ
+Denmark,DK
+Diego Garcia,DG
+Djibouti,DJ
+Dominica,DM
+Dominicana,DO
+Dominican Republic,DO
+DR Congo, DR
+East Timor,EA
+Ecuador,EC
+Egypt,EG
+El Salvador,SV
+England,EN
+Eq. Guinea,GQ
+Equatorial Guinea,GQ
+Eritrea,ER
+Estonia,EE
+Eswatini,SZ
+eSwatini,SZ
+Ethiopia,ET
+Falkland Islands (Islas Malvinas),FK
+Faroe Islands,FO
+Faroe Isl,FO
+Fiji,FJ
+Finland,FI
+France,FR
+French Guiana,GF
+French Guyana,GF
+Fr.Polynesia,PF
+French Polynesia,PF
+Fr. Polynesia,PF
+Gabon,GA
+Gambia,GM
+Georgia,GE
+Germany,DE
+Ghana,GH
+Gibraltar,GI
+Greece,GR
+Greenland,GL
+Grenada,GD
+Guadeloupe,GP
+Guam,GU
+Guatemala,GT
+Guernsey,GG
+Guinea,GN
+Guinea Bissau,GW
+Guinea-Bissau,GW
+Guyana,GY
+Haiti,HT
+Honduras,HN
+Hong Kong,HK
+Hungary,HU
+Iceland,IS
+India,IN
+Indonesia,ID
+Iran,IR
+Iraq,IQ
+Ireland,IE
+Republic of Ireland,IE
+Isle of Man,IM
+Israel,IL
+Italy,IT
+Ivory Coast,CI
+Cote d'Ivoire,CI
+Jamaica,JM
+Japan,JP
+Jersey,JE
+Jordan,JO
+Kazakhstan,KZ
+Kenya,KE
+Kiribati,KI
+Kosovo,XK
+Korea Republic,KR
+Kuwait,KW
+Kyrgyzstan,KG
+Laos,LA
+Latvia,LV
+Lebanon,LB
+Lesotho,LS
+Liberia,LR
+Libya,LY
+Liechtenstein,LI
+Lithuania,LT
+Luxembourg,LU
+Macao,MF
+Macau,MF
+Madagascar,MG
+Malawi,MW
+Malaysia,MY
+Maldives,MV
+Mali,ML
+Malta,MT
+Marshall Islands,MH
+Martinique,MQ
+Mauritania,MR
+Mauritius,MU
+Mayotte,YT
+Mexico,MX
+Micronesia,FM
+Moldova,MD
+Monaco,MC
+Mongolia,MN
+Montenegro,ME
+Montserrat,MS
+Morocco,MA
+Mozambique,MZ
+Myanmar,MM
+Namibia,NA
+Nauru,NR
+Nepal,NP
+Netherlands,NL
+New Caledonia,NC
+New Zealand,NZ
+Nicaragua,NI
+Niger,NE
+Nigeria,NG
+Niue,NU
+Norfolk Island,NF
+Korea DPR,KP
+North Korea,KP
+N. Macedonia,MK
+N.Macedonia,MK
+North Macedonia,MK
+North. Ireland, NI
+Northern Ireland, NI
+Northern Mariana Islands,MP
+Norway,NO
+Oman,OM
+Pakistan,PK
+Palau,PW
+Palestine,PS
+Panama,PA
+Papua New Guinea,PG
+Paraguay,PY
+Peru,PE
+Philippines,PH
+Pitcairn Islands,PN
+Poland,PL
+Portugal,PT
+Puerto Rico,PR
+Qatar,QA
+Réunion,RE
+Romania,RO
+Russia,RU
+FUR,RU
+RSA,ZA
+Rwanda,RW
+Samoa,WS
+San Marino,SM
+São Tomé and Príncipe,ST
+Sao Tome e Principe,ST
+Sao Tome,ST
+Saudi Arabia,SA
+Scotland,SC
+Senegal,SN
+Serbia,RS
+Seychelles,SC
+Sierra Leone,SL
+Singapore,SG
+Sint Maarten,SX
+Slovakia,SK
+Slovenia,SI
+Solomon Islands,SB
+Somalia,SO
+South Africa,ZA
+South Georgia & South Sandwich Islands,GS
+South Korea,KR
+South Sudan,SS
+Spain,ES
+Sri Lanka,LK
+St. Barthélemy,BL
+St. Helena,SH
+St. Kitts and Nevis,KN
+Saint Kitts and Nevis,KN
+Saint Lucia,LC
+St. Martin,MF
+St. Pierre & Miquelon,PM
+Saint Vincent and the Grenadines,VC
+Sudan,SD
+Suriname,SR
+Svalbard & Jan Mayen,SJ
+Swaziland,SZ
+Sweden,SE
+Switzerland,CH
+Syria,SY
+Chinese Taipei,TW
+Tajikistan,TJ
+Tanzania,TZ
+Tanzania*,TZ
+Thailand,TH
+The Gambia,GM
+Timor-Leste,TL
+Togo,TG
+Tokelau,TK
+Tonga,TO
+Trinidad and Tobago,TT
+Tristan da Cunha,TA
+Tunisia,TN
+Turkey,TR
+Türkiye,TR
+Turkmenistan,TM
+Turks and Caicos Iss,TC
+Tuvalu,TV
+U.S. Outlying Islands,UM
+US Virgin Islands,VI
+Uganda,UG
+Ukraine,UA
+United Arab Emirates,AE
+UAE,AE
+United Kingdom,GB
+United States,US
+USA,US
+Uruguay,UY
+Uzbekistan,UZ
+Vanuatu,VU
+Vatican City,VA
+Venezuela,VE
+Vietnam,VN
+Wales,WA
+Wallis & Futuna,WF
+Western Sahara,EH
+Yemen,YE
+Zambia,ZM
+Zimbabwe,ZW
