@@ -1079,16 +1079,39 @@ def find_national_team_in_player_history(pagesoup_input, nationality_input):
 
 # %%
 def find_match_date_in_player_history(input_date, pagesoup_input):
+    #print(f'finding match date with {input_date} and {pagesoup_input}')
     date_found = False
 
     correctly_formatted_date = process_date_format_for_transfermarkt_lookup(input_date)
+    print('correct format date is ', correctly_formatted_date)
     
+
     # Convert the correctly_formatted_date to datetime object
     correct_date_obj = datetime.strptime(correctly_formatted_date, "%m/%d/%y")
 
+    print('date obj is ', correct_date_obj)
+
+    # if str(correct_date_obj).endswith('00:00:00'):
+    #     print('yay', str(correct_date_obj).split('00:00:00')[0])
+    #     correct_date_obj =  str(correct_date_obj).split(' 00:00:00')[0]
+    #     if('-') in correct_date_obj:
+    #         if(len(correct_date_obj.split('-')[0]) == 4):
+    #             year = correct_date_obj.split('-')[0]
+    #             correct_date_obj = f"{correct_date_obj.split('-')[1]}/{correct_date_obj.split('-')[2]}/{year[2:]}"
+    #         else:
+    #             0==0
+    #     print('converted correct date obj to', correct_date_obj)
+
     # Define function to check if a date matches or is one day before/after the given date
     def check_date(match_date, correct_date_obj):
+        if(type(correct_date_obj) == str):
+            0==0
+            # correct_date_obj = datetime.strptime(correct_date_obj, '%Y-%m-%d')
+            # correct_date_obj = correct_date_obj.strftime('%m/%d/%y')
+            # correct_date_obj = datetime.strptime(correct_date_obj, '%m/%d/%y')
         match_date_obj = datetime.strptime(match_date, "%m/%d/%y")
+        #correct_date_obj = datetime.strptime(correct_date_obj, "%m/%d/%y")
+        print('comparing ', match_date_obj, correct_date_obj)
         if (match_date_obj == correct_date_obj or 
             match_date_obj == correct_date_obj + timedelta(days=1) or 
             match_date_obj == correct_date_obj - timedelta(days=1)):
@@ -1108,7 +1131,9 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             pass
         elif len(data_row) == 12:
             match_date_row = data_row[1].text.strip()
+            print('this is in the regular date loop', match_date_row, correct_date_obj)
             if check_date(match_date_row, correct_date_obj):
+                print('it was him')
                 date_found = True
                 return True
         else:
@@ -1116,7 +1141,29 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
 
     # If not found with the original date format, switch the date format and try again
     if not date_found:
-        switched_date = correct_date_obj.strftime("%d/%m/%y")
+        # if type(correct_date_obj) == str:
+        #     correct_date_obj = datetime.strptime(correct_date_obj, "%d/%m/%y")
+        #     print('converted it is ', correct_date_obj)
+        #     switched_date = correct_date_obj.strftime("%d/%m/%y")
+        #     #print('ya it was a str')
+        #     #correct_date_obj = datetime.strptime(correct_date_obj, '%Y-%m-%d')
+        #     #switched_date = correct_date_obj.strftime('%d/%m/%y')
+        #     #print('type of switched date is ', type(switched_date))
+        #     # parts = switched_date.split('/')
+        #     # # Check if the first part begins with '0'
+        #     # if parts[0].startswith('0'):
+        #     #     parts[0] = parts[0][1:]
+
+        #     # # Check if the second part begins with '0'
+        #     # if parts[1].startswith('0'):
+        #     #     parts[1] = parts[1][1:]
+
+        #     # # Reconstruct the date string
+        #     # switched_date = '/'.join(parts)
+        # else:
+        print('switching the day and month does this: ' , correct_date_obj.strftime("%d/%m/%y"))
+        switched_date = datetime.strptime(correct_date_obj.strftime("%d/%m/%y"), "%d/%m/%y")
+        #print('switched date is ', switched_date)
         for i in range(0, len(table_test.find_all('tr'))):
             this_tr_row = table_test.find_all('tr')[i]
             data_row = this_tr_row.find_all("td", {"class": "zentriert"})
@@ -1126,7 +1173,12 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
                 pass
             elif len(data_row) == 12:
                 match_date_row = data_row[1].text.strip()
-                if check_date(match_date_row, datetime.strptime(switched_date, "%d/%m/%y")):
+                print('this is in the switched date loop', type(match_date_row), match_date_row, switched_date) #datetime.strptime(switched_date, "%m/%d/%y")
+                if check_date(match_date_row, switched_date): #datetime.strptime(switched_date, "%d/%m/%y")
+                    date_found = True
+                    return True
+                elif check_date(match_date_row, switched_date):
+                    print('worked with ', match_date_row)
                     date_found = True
                     return True
             else:
@@ -1211,6 +1263,8 @@ def multiNameMatchDateLookup(input_list_of_names, input_nationality, input_year_
 
             #print(f'looking at {currplayer_2} to find {input_year_test} in history')
             pagesoup_this_guy = players_pagesoup_dictionary[currplayer_2]
+
+            print(f'inside loop searching. player is {currplayer_2}')
 
             if(find_match_date_in_player_history(input_year_test, pagesoup_this_guy) == True):
                 second_array_test.append(currplayer_2)
