@@ -523,6 +523,16 @@ def get_names_with_conditions_values(df):
 # %% [markdown]
 # ### Helper methods
 
+def has_c_with_accent_and_capital(string):
+    pattern = r'([cćčç])([A-Z])'
+    match = re.search(pattern, string)
+    if match:
+        # Inserting a space after the 'c' with an accent
+        modified_string = re.sub(pattern, r'\1 \2', string)
+        return True, modified_string
+    else:
+        return False, string
+
 # %%
 def lookup_name(input_name, input_nationality, input_match_date, using_salaries_boolean, competition):
 
@@ -554,7 +564,14 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
         example_problem = cyrillic_to_latin(example_problem)
 
     print(f"searching for {example_problem}")
-    #remove jersey Nums and order initials correctly. 
+
+    pattern_found, example_problem = has_c_with_accent_and_capital(example_problem)
+    if pattern_found:
+        print("Pattern found in the string.")
+        print("Modified string:", example_problem)
+    else:
+        print("Pattern not found in the string.")
+
     search_name, final_tokens_name = process_string_newest_ii(example_problem, competition)
     print(f'search name: {search_name}, ft name: {final_tokens_name}')
 
@@ -1161,28 +1178,32 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
         #     # # Reconstruct the date string
         #     # switched_date = '/'.join(parts)
         # else:
-        print('switching the day and month does this: ' , correct_date_obj.strftime("%d/%m/%y"))
-        switched_date = datetime.strptime(correct_date_obj.strftime("%d/%m/%y"), "%d/%m/%y")
-        #print('switched date is ', switched_date)
-        for i in range(0, len(table_test.find_all('tr'))):
-            this_tr_row = table_test.find_all('tr')[i]
-            data_row = this_tr_row.find_all("td", {"class": "zentriert"})
-            if len(data_row) == 1:
-                pass
-            elif len(data_row) == 7:
-                pass
-            elif len(data_row) == 12:
-                match_date_row = data_row[1].text.strip()
-                print('this is in the switched date loop', type(match_date_row), match_date_row, switched_date) #datetime.strptime(switched_date, "%m/%d/%y")
-                if check_date(match_date_row, switched_date): #datetime.strptime(switched_date, "%d/%m/%y")
-                    date_found = True
-                    return True
-                elif check_date(match_date_row, switched_date):
-                    print('worked with ', match_date_row)
-                    date_found = True
-                    return True
-            else:
-                print(i, len(data_row))
+        #print('switching the day and month does this: ' , correct_date_obj.strftime("%d/%m/%y"))
+        #switched_date = datetime.strptime(correct_date_obj.strftime("%d/%m/%y"), "%d/%m/%y")
+        try: 
+            switched_date = datetime.strptime(datetime.strftime(correct_date_obj, "%d/%m/%y"), "%m/%d/%y")
+            print('switched date is ', switched_date)
+            for i in range(0, len(table_test.find_all('tr'))):
+                this_tr_row = table_test.find_all('tr')[i]
+                data_row = this_tr_row.find_all("td", {"class": "zentriert"})
+                if len(data_row) == 1:
+                    pass
+                elif len(data_row) == 7:
+                    pass
+                elif len(data_row) == 12:
+                    match_date_row = data_row[1].text.strip()
+                    print('this is in the switched date loop', type(match_date_row), match_date_row, switched_date) #datetime.strptime(switched_date, "%m/%d/%y")
+                    if check_date(match_date_row, switched_date): #datetime.strptime(switched_date, "%d/%m/%y")
+                        date_found = True
+                        return True
+                    elif check_date(match_date_row, switched_date):
+                        print('worked with ', match_date_row)
+                        date_found = True
+                        return True
+                else:
+                    print(i, len(data_row))
+        except ValueError as ve:
+            print("Error:", ve)
 
 
     if(date_found == False):
