@@ -1065,6 +1065,7 @@ def find_transfermarkt_pagesoup_player(input_playername, input_nationality_strin
                 #print('no href with', link)
     
 
+    print(url_tosplit)
     player_name_string = url_tosplit.split('/')[3]
     player_code = url_tosplit.split('/')[6]
 
