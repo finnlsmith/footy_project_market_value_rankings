@@ -90,9 +90,25 @@ def get_names_with_conditions_salary(df):
 # ### single name - string process / lookup - Functions
 
 # %%
+# def is_cyrillic(input_string):
+#     # Check if the string contains non-ASCII characters
+#     return not input_string.isascii()
 def is_cyrillic(input_string):
-    # Check if the string contains non-ASCII characters
-    return not input_string.isascii()
+    # Cyrillic Unicode range
+    cyrillic_range = range(0x0400, 0x04FF + 1)
+    # Allowed characters
+    allowed_chars = set('.\'`0123456789-' + ''.join(chr(c) for c in cyrillic_range))
+
+    # Iterate through each character in the input string
+    for char in input_string:
+        # Skip whitespace characters
+        if char.isspace():
+            continue
+        # Check if the character is not allowed
+        if char not in allowed_chars:
+            return False  # Return False if any disallowed character is found
+    
+    return True  # Return True if all characters are allowed
 
 def cyrillic_to_latin(input_string):
     try:
@@ -561,7 +577,10 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
     if(is_cyrillic(example_problem)):
         #change from cyrillic to english
         print('ride')
-        example_problem = cyrillic_to_latin(example_problem)
+        #example_problem = cyrillic_to_latin(example_problem)
+        match_type = "cyrillic"
+        return 0, match_type, example_problem
+        
 
     print(f"searching for {example_problem}")
 
@@ -572,6 +591,7 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
     else:
         print("Pattern not found in the string.")
 
+    print(example_problem, competition)
     search_name, final_tokens_name = process_string_newest_ii(example_problem, competition)
     print(f'search name: {search_name}, ft name: {final_tokens_name}')
 
@@ -1128,7 +1148,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             # correct_date_obj = datetime.strptime(correct_date_obj, '%m/%d/%y')
         match_date_obj = datetime.strptime(match_date, "%m/%d/%y")
         #correct_date_obj = datetime.strptime(correct_date_obj, "%m/%d/%y")
-        print('comparing ', match_date_obj, correct_date_obj)
+        #print('comparing ', match_date_obj, correct_date_obj)
         if (match_date_obj == correct_date_obj or 
             match_date_obj == correct_date_obj + timedelta(days=1) or 
             match_date_obj == correct_date_obj - timedelta(days=1)):
@@ -1148,7 +1168,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             pass
         elif len(data_row) == 12:
             match_date_row = data_row[1].text.strip()
-            print('this is in the regular date loop', match_date_row, correct_date_obj)
+            #print('this is in the regular date loop', match_date_row, correct_date_obj)
             if check_date(match_date_row, correct_date_obj):
                 print('it was him')
                 date_found = True
@@ -1192,7 +1212,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
                     pass
                 elif len(data_row) == 12:
                     match_date_row = data_row[1].text.strip()
-                    print('this is in the switched date loop', type(match_date_row), match_date_row, switched_date) #datetime.strptime(switched_date, "%m/%d/%y")
+                    #print('this is in the switched date loop', type(match_date_row), match_date_row, switched_date) #datetime.strptime(switched_date, "%m/%d/%y")
                     if check_date(match_date_row, switched_date): #datetime.strptime(switched_date, "%d/%m/%y")
                         date_found = True
                         return True
