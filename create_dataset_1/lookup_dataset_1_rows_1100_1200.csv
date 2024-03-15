@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,1. Чебану,cyrillic
+1,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,Igor Armaş,1300000.0,False,working,False,Igor Armaş,Arma,single
+2,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,4. Ерхан,cyrillic
+3,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,5. Головатенко,cyrillic
+4,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",300000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+5,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,"['Sergiu Cojocari', 'Andrei Cojocari', 'Serafim Cojocari']",250000.0,False,working,False,"['Sergiu Cojocari', 'Andrei Cojocari', 'Serafim Cojocari']",Cojocari,multiple
+6,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,Alexandru Gatcan,1500000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+7,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,Eugeniu Cebotaru,300000.0,False,working,False,Eugeniu Cebotaru,Cebotaru,single
+8,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,3. Патраш,cyrillic
+9,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,10. Дедов,cyrillic
+10,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Moldova,MD,2015,SUCCESS,Nicolae Milinceanu,75000.0,False,working,False,Nicolae Milinceanu,Milinceanu,single
+11,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,1. Полексич,cyrillic
+12,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,Marko Basa,1000000.0,False,working,False,Marko Basa,Basa,single
+13,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none
+14,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,Stefan Savic,12000000.0,False,working,False,Stefan Savic,Savic,single
+15,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,0,Simić,none
+16,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,4. Вукчевич С.,cyrillic
+17,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,18. Больевич В.,cyrillic
+18,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,0,Marušić,none
+19,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,Stevan Jovetic,15000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+20,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,10. Дамьянович,cyrillic
+21,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,Fatos Beqiraj,1000000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+22,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Andreas Isaksson,3000000.0,False,working,False,Andreas Isaksson,Isaksson,single
+23,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,FAIL,0,0.0,True,not done yet,False,0,3. Антонссон,cyrillic
+24,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Andreas Granqvist,6500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+25,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Martin Olsson,4000000.0,False,working,False,Martin Olsson,M Olsson,single
+26,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Emil Forsberg,700000.0,False,working,False,Emil Forsberg,Forsberg,single
+27,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",4000000.0,False,working,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+28,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",3700000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+29,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Kim Källström,2500000.0,False,working,False,Kim Källström,Kallstrom,single
+30,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Erkan Zengin,4500000.0,False,working,False,Erkan Zengin,Zengin,single
+31,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Zlatan Ibrahimović,26000000.0,False,working,False,Zlatan Ibrahimović,Ibrahimovic,single
+32,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Sweden,SE,2015,SUCCESS,Marcus Berg,3500000.0,False,working,False,Marcus Berg,M Berg,single
+33,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Robert Almer,500000.0,False,working,False,Robert Almer,Almer,single
+34,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Aleksandar Dragovic,11000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+35,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Christian Fuchs,3000000.0,False,working,False,Christian Fuchs,Fuchs,single
+36,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Martin Harnik,5000000.0,False,working,False,Martin Harnik,Harnik,single
+37,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Sebastian Prödl,3000000.0,False,working,False,Sebastian Prödl,Prödl,single
+38,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,David Alaba,35000000.0,False,working,False,David Alaba,Alaba,single
+39,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Zlatko Junuzovic,5000000.0,False,working,False,Zlatko Junuzovic,Z Junuzovic,single
+40,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Julian Baumgartlinger,4000000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+41,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Florian Klein,1500000.0,False,working,False,Florian Klein,Klein,single
+42,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Marko Arnautovic,6000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+43,556,"Euros 2016, Qualifiers",Sweden vs Austria,08.09.15,Austria,AT,2015,SUCCESS,Marc Janko,1000000.0,False,working,False,Marc Janko,M Janko,single
+44,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,1. Иеле,cyrillic
+45,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,SUCCESS,Sandro Wieser,1000000.0,False,working,False,Sandro Wieser,Wieser,single
+46,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,10. Фрик М.,cyrillic
+47,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,14. Эхри,cyrillic
+48,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,16. Рехштайнер,cyrillic
+49,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,6. Кристен,cyrillic
+50,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,7. Бюхель,cyrillic
+51,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,11. Бургмайер,cyrillic
+52,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,SUCCESS,"['Martin Büchel', 'Marcel Büchel']",0.0,False,Large Dataset said 0,False,"['Martin Büchel', 'Marcel Büchel']",M-n Buchel,multiple
+53,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,23. Польверино,cyrillic
+54,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,9. Кюне,cyrillic
+55,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Andreas Isaksson,3000000.0,False,working,False,Andreas Isaksson,Isaksson,single
+56,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Mikael Lustig,4000000.0,False,working,False,Mikael Lustig,Lustig,single
+57,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Andreas Granqvist,6500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+58,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,FAIL,0,0.0,True,not done yet,False,0,15. Антонссон,cyrillic
+59,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Martin Olsson,4000000.0,False,working,False,Martin Olsson,M Olsson,single
+60,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Kim Källström,2500000.0,False,working,False,Kim Källström,Kallstrom,single
+61,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",3700000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+62,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Jimmy Durmaz,4000000.0,False,working,False,Jimmy Durmaz,Durmaz,single
+63,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Erkan Zengin,4500000.0,False,working,False,Erkan Zengin,Zengin,single
+64,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Zlatan Ibrahimović,26000000.0,False,working,False,Zlatan Ibrahimović,Ibrahimovic,single
+65,557,"Euros 2016, Qualifiers",Liechtenstein vs Sweden,09.10.15,Sweden,SE,2015,SUCCESS,Marcus Berg,3500000.0,False,working,False,Marcus Berg,M Berg,single
+66,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,23. Кошелев,cyrillic
+67,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,Igor Armaş,1300000.0,False,working,False,Igor Armaş,Arma,single
+68,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,9. Бордиян,cyrillic
+69,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,16. Бургиу,cyrillic
+70,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",300000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+71,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,Eugeniu Cebotaru,300000.0,False,working,False,Eugeniu Cebotaru,Cebotaru,single
+72,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,14. Спэтару,cyrillic
+73,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,17. Оникэ,cyrillic
+74,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",275000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+75,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,Nicolae Milinceanu,75000.0,False,working,False,Nicolae Milinceanu,Milinceanu,single
+76,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Moldova,MD,2015,SUCCESS,Catalin Carp,300000.0,False,working,False,Catalin Carp,Carp,single
+77,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Igor Akinfeev,16000000.0,False,working,False,Igor Akinfeev,Akinfeev,single
+78,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Igor Smolnikov,5000000.0,False,working,False,Igor Smolnikov,Smolnikov,single
+79,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Aleksey Berezutskiy,2500000.0,False,working,False,Aleksey Berezutskiy,A Berezutski,single
+80,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Sergey Ignashevich,1500000.0,False,working,False,Sergey Ignashevich,Ignashevich,single
+81,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Pavel Mamaev,5000000.0,False,working,False,Pavel Mamaev,Mamayev,single
+82,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,"['Igor Denisov', 'Daniil Denisov']",12000000.0,False,working,False,"['Igor Denisov', 'Daniil Denisov']",Denisov,multiple
+83,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Roman Shirokov,3500000.0,False,working,False,Roman Shirokov,Shirokov,single
+84,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Oleg Shatov,6500000.0,False,working,False,Oleg Shatov,Shatov,single
+85,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Dmitriy Kombarov,10000000.0,False,working,False,Dmitriy Kombarov,D Kombarov,single
+86,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Aleksandr Kokorin,18000000.0,False,working,False,Aleksandr Kokorin,Kokorin,single
+87,558,"Euros 2016, Qualifiers",Moldova vs Russia,09.10.15,Russia,RU,2015,SUCCESS,Artem Dzyuba,6000000.0,False,working,False,Artem Dzyuba,Dzyuba,single
+88,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,1. Полексич,cyrillic
+89,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none
+90,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,Stefan Savic,12000000.0,False,working,False,Stefan Savic,Savic,single
+91,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,0,Simić,none
+92,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,3. Родич В.,cyrillic
+93,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,4. Вукчевич С.,cyrillic
+94,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,18. Больевич В.,cyrillic
+95,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,0,Marušić,none
+96,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,9. Вучинич,cyrillic
+97,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,Fatos Beqiraj,1000000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+98,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,500000.0,False,working,False,0,Mugoša,none
+99,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Robert Almer,500000.0,False,working,False,Robert Almer,Almer,single
+100,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Aleksandar Dragovic,11000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+101,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Christian Fuchs,3000000.0,False,working,False,Christian Fuchs,Fuchs,single
+102,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Martin Harnik,5000000.0,False,working,False,Martin Harnik,Harnik,single
+103,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Sebastian Prödl,3000000.0,False,working,False,Sebastian Prödl,Prödl,single
+104,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,David Alaba,35000000.0,False,working,False,David Alaba,Alaba,single
+105,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Zlatko Junuzovic,5000000.0,False,working,False,Zlatko Junuzovic,Z Junuzovic,single
+106,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Julian Baumgartlinger,4000000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+107,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Florian Klein,1500000.0,False,working,False,Florian Klein,Klein,single
+108,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Marko Arnautovic,6000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+109,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Austria,AT,2015,SUCCESS,Marc Janko,1000000.0,False,working,False,Marc Janko,M Janko,single
+110,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Robert Almer,500000.0,False,working,False,Robert Almer,Almer,single
+111,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Aleksandar Dragovic,11000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+112,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Christian Fuchs,3000000.0,False,working,False,Christian Fuchs,Fuchs,single
+113,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Martin Harnik,5000000.0,False,working,False,Martin Harnik,Harnik,single
+114,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Sebastian Prödl,3000000.0,False,working,False,Sebastian Prödl,Prödl,single
+115,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,David Alaba,35000000.0,False,working,False,David Alaba,Alaba,single
+116,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Zlatko Junuzovic,5000000.0,False,working,False,Zlatko Junuzovic,Z Junuzovic,single
+117,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Julian Baumgartlinger,4000000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+118,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Florian Klein,1500000.0,False,working,False,Florian Klein,Klein,single
+119,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Marko Arnautovic,6000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+120,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Austria,AT,2015,SUCCESS,Marc Janko,1000000.0,False,working,False,Marc Janko,M Janko,single
+121,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,1. Иеле,cyrillic
+122,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,SUCCESS,Daniel Kaufmann,200000.0,False,working,False,Daniel Kaufmann,D Kaufmann,single
+123,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,10. Фрик М.,cyrillic
+124,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,14. Эхри,cyrillic
+125,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,16. Рехштайнер,cyrillic
+126,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,23. Польверино,cyrillic
+127,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,SUCCESS,Sandro Wieser,1000000.0,False,working,False,Sandro Wieser,Wieser,single
+128,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,11. Бургмайер,cyrillic
+129,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,SUCCESS,"['Martin Büchel', 'Marcel Büchel']",0.0,False,Large Dataset said 0,False,"['Martin Büchel', 'Marcel Büchel']",M-n Buchel,multiple
+130,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,19. Кибер,cyrillic
+131,560,"Euros 2016, Qualifiers",Austria vs Liechtenstein,12.10.15,Liechtenstein,LI,2015,FAIL,0,0.0,True,not done yet,False,0,7. Бюхель,cyrillic
+132,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Igor Akinfeev,16000000.0,False,working,False,Igor Akinfeev,Akinfeev,single
+133,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Oleg Kuzmin,1300000.0,False,working,False,Oleg Kuzmin,Kuzmin,single
+134,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Aleksey Berezutskiy,2500000.0,False,working,False,Aleksey Berezutskiy,A Berezutski,single
+135,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Sergey Ignashevich,1500000.0,False,working,False,Sergey Ignashevich,Ignashevich,single
+136,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Oleg Shatov,6500000.0,False,working,False,Oleg Shatov,Shatov,single
+137,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,"['Igor Denisov', 'Daniil Denisov']",12000000.0,False,working,False,"['Igor Denisov', 'Daniil Denisov']",Denisov,multiple
+138,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Roman Shirokov,3500000.0,False,working,False,Roman Shirokov,Shirokov,single
+139,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Dmitriy Kombarov,10000000.0,False,working,False,Dmitriy Kombarov,D Kombarov,single
+140,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Alan Dzagoev,20000000.0,False,working,False,Alan Dzagoev,Dzagoev,single
+141,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Aleksandr Kokorin,18000000.0,False,working,False,Aleksandr Kokorin,Kokorin,single
+142,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Russia,RU,2015,SUCCESS,Artem Dzyuba,6000000.0,False,working,False,Artem Dzyuba,Dzyuba,single
+143,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,1. Миятович,cyrillic
+144,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,2. Балич,cyrillic
+145,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,3. Родич,cyrillic
+146,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,4. Вукчевич,cyrillic
+147,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,7. Мандич,cyrillic
+148,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,11. Бечирай,cyrillic
+149,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,14. Савельич,cyrillic
+150,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,15. Савич,cyrillic
+151,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,16. Кашчелан,cyrillic
+152,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,20. Николич,cyrillic
+153,561,"Euros 2016, Qualifiers",Russia vs Montenegro,12.10.15,Montenegro,ME,2015,FAIL,0,0.0,True,not done yet,False,0,22. Симч,cyrillic
+154,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Andreas Isaksson,3000000.0,False,working,False,Andreas Isaksson,Isaksson,single
+155,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Mikael Lustig,4000000.0,False,working,False,Mikael Lustig,Lustig,single
+156,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Andreas Granqvist,6500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+157,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,FAIL,0,0.0,True,not done yet,False,0,15. Антонссон,cyrillic
+158,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Martin Olsson,4000000.0,False,working,False,Martin Olsson,M Olsson,single
+159,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Oscar Lewicki,700000.0,False,working,False,Oscar Lewicki,O Lewicki,single
+160,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",4000000.0,False,working,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+161,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Kim Källström,2500000.0,False,working,False,Kim Källström,Kallstrom,single
+162,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Erkan Zengin,4500000.0,False,working,False,Erkan Zengin,Zengin,single
+163,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,Zlatan Ibrahimović,26000000.0,False,working,False,Zlatan Ibrahimović,Ibrahimovic,single
+164,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Sweden,SE,2015,SUCCESS,John Guidetti,3500000.0,False,working,False,John Guidetti,Guidetti,single
+165,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,1. Чебану,cyrillic
+166,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,4. Ерхан,cyrillic
+167,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,5. Головатенко,cyrillic
+168,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",300000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+169,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,16. Бургиу,cyrillic
+170,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,21. Потырнике,cyrillic
+171,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,SUCCESS,Eugeniu Cebotaru,300000.0,False,working,False,Eugeniu Cebotaru,Cebotaru,single
+172,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,9. Бордиян,cyrillic
+173,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,20. Время,cyrillic
+174,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,18. Патраш,cyrillic
+175,562,"Euros 2016, Qualifiers",Sweden vs Moldova,12.10.15,Moldova,MD,2015,FAIL,0,0.0,True,not done yet,False,0,19. Истрати,cyrillic
+176,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+177,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+178,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+179,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+180,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+181,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+182,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+183,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+184,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+185,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+186,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Azerbaijan,AZ,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+187,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+188,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+189,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+190,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+191,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+192,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+193,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+194,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+195,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+196,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+197,563,"Euros 2016, Qualifiers",Azerbaijan vs Bulgaria,09.09.14,Bulgaria,BG,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+198,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+199,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+200,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+201,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+202,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+203,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+204,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+205,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+206,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+207,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+208,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Croatia,HR,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+209,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+210,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+211,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+212,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+213,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+214,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+215,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+216,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+217,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+218,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+219,564,"Euros 2016, Qualifiers",Croatia vs Malta,09.09.14,Malta,MT,2014,FAIL,-,0.0,False,Null Name,False,,-,none
+220,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,12. Нюланн,cyrillic
+221,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,6. Нордтвейт,cyrillic
+222,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,7. Кинг,cyrillic
+223,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,8. Йохансен,cyrillic
+224,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,14. Абделлауи,cyrillic
+225,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,15. Шельберд,cyrillic
+226,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,16. Фло,cyrillic
+227,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,18. Нильсен,cyrillic
+228,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,19. Иттергор-Йенсен,cyrillic
+229,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,20. Меллер-Дели,cyrillic
+230,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,21. Форрен,cyrillic
+231,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Gianluigi Buffon,2000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+232,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Emanuele Giaccherini,5000000.0,False,working,False,Emanuele Giaccherini,Giaccherini,single
+233,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+234,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+235,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,FAIL,0,0.0,True,not done yet,False,0,5. Астори,cyrillic
+236,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Andrea Ranocchia,12500000.0,False,working,False,Andrea Ranocchia,Ranocchia,single
+237,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Leonardo Bonucci,20000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+238,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Daniele De Rossi,11000000.0,False,working,False,Daniele De Rossi,De Rossi,single
+239,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Alessandro Florenzi,14000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+240,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Simone Zaza,11000000.0,False,working,False,Simone Zaza,Zaza,single
+241,565,"Euros 2016, Qualifiers",Norway vs Italy,09.09.14,Italy,IT,2014,SUCCESS,Ciro Immobile,15000000.0,False,working,False,Ciro Immobile,Immobile,single
+242,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,1. Стоянов,cyrillic
+243,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,2. Попов А,cyrillic
+244,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,4. Занев,cyrillic
+245,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,5. Бодуров,cyrillic
+246,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,6. Минев,cyrillic
+247,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,9. Попов И.,cyrillic
+248,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,11. Манолев,cyrillic
+249,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,17. Миланов,cyrillic
+250,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,18. Гаджев,cyrillic
+251,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,21. Дьяков,cyrillic
+252,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,19. Мицански,cyrillic
+253,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,23. Субашич,cyrillic
+254,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,3. Праньич,cyrillic
+255,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,5. Чорлука,cyrillic
+256,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,11. Срна,cyrillic
+257,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,21. Вида,cyrillic
+258,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,4. Перишич,cyrillic
+259,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,7. Ракитич,cyrillic
+260,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,10. Модрич,cyrillic
+261,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,14. Брозович,cyrillic
+262,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,17. Манджукич,cyrillic
+263,566,"Euros 2016, Qualifiers",Bulgaria vs Croatia,10.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,18. Олич,cyrillic
+264,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Gianluigi Buffon,2000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+265,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+266,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Andrea Ranocchia,12500000.0,False,working,False,Andrea Ranocchia,Ranocchia,single
+267,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+268,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Leonardo Bonucci,20000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+269,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Giorgio Chiellini,16500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+270,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Alessandro Florenzi,14000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+271,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Claudio Marchisio,27000000.0,False,working,False,Claudio Marchisio,Marchisio,single
+272,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,FAIL,0,0.0,True,not done yet,False,0,21. Пирло,cyrillic
+273,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Simone Zaza,11000000.0,False,working,False,Simone Zaza,Zaza,single
+274,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Italy,IT,2014,SUCCESS,Ciro Immobile,15000000.0,False,working,False,Ciro Immobile,Immobile,single
+275,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,1. Агаев,cyrillic
+276,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,2. Караев,cyrillic
+277,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,5. Аллахвердиев,cyrillic
+278,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,6. Гусейнов Б.,cyrillic
+279,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,7. Абдуллаев,cyrillic
+280,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,8. Гыртымов,cyrillic
+281,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,10. Дадашов,cyrillic
+282,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,11. Алиев,cyrillic
+283,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,13. Назаров,cyrillic
+284,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,14. Садыгов,cyrillic
+285,567,"Euros 2016, Qualifiers",Italy vs Azerbaijan,10.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+286,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,1. Хогг,cyrillic
+287,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,2. Мускат З.,cyrillic
+288,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,4. Фенек П.,cyrillic
+289,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,5. Агиус,cyrillic
+290,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,6. Фенек Р.,cyrillic
+291,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,7. Фэйла,cyrillic
+292,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,8. Бриффа,cyrillic
+293,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,9. Мифсуд,cyrillic
+294,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,11. Мускат Р.,cyrillic
+295,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,13. Шембри,cyrillic
+296,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,17. Камиллери,cyrillic
+297,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,12. Нюланд,cyrillic
+298,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,5. Тетти,cyrillic
+299,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,6. Нордтвейт,cyrillic
+300,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,7. Кинг,cyrillic
+301,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,8. Йохансен,cyrillic
+302,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,10. Эльюнусси,cyrillic
+303,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,14. Эльабделлауи,cyrillic
+304,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,15. Скьелбред,cyrillic
+305,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,17. Линнес,cyrillic
+306,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,20. Меллер-Дели,cyrillic
+307,568,"Euros 2016, Qualifiers",Malta vs Norway,10.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,21. Форрен,cyrillic
+308,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,23. Субашич,cyrillic
+309,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,3. Праньич,cyrillic
+310,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,5. Чорлука,cyrillic
+311,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,7. Ракитич,cyrillic
+312,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,10. Модрич,cyrillic
+313,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,11. Срна,cyrillic
+314,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,14. Брозович,cyrillic
+315,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,17. Манджукич,cyrillic
+316,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,20. Ковачич,cyrillic
+317,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,21. Вида,cyrillic
+318,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,22. Крамарич,cyrillic
+319,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,1. Агаев,cyrillic
+320,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,2. Гараев,cyrillic
+321,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,3. Рамалданов,cyrillic
+322,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,5. Аллахвердиев,cyrillic
+323,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,6. Гусейнов,cyrillic
+324,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,7. Абдуллаев,cyrillic
+325,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,11. Алиев,cyrillic
+326,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,13. Назаров,cyrillic
+327,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,14. Садыгов,cyrillic
+328,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,18. Медведев,cyrillic
+329,569,"Euros 2016, Qualifiers",Croatia vs Azerbaijan,13.10.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+330,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,1. Хогг,cyrillic
+331,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,2. Мускат З.,cyrillic
+332,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,4. Фенек,cyrillic
+333,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,5. Агиус,cyrillic
+334,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,7. Файлла,cyrillic
+335,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,8. Бриффа,cyrillic
+336,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,9. Мифсуд,cyrillic
+337,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,11. Мускат,cyrillic
+338,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,13. Шембри,cyrillic
+339,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,15. Минтофф,cyrillic
+340,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,17. Камиллери,cyrillic
+341,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Gianluigi Buffon,2000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+342,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+343,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Manuel Pasqual,1800000.0,False,working,False,Manuel Pasqual,Pasqual,single
+344,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Leonardo Bonucci,20000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+345,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Giorgio Chiellini,16500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+346,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Antonio Candreva,25000000.0,False,working,False,Antonio Candreva,Candreva,single
+347,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Alessandro Florenzi,14000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+348,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Marco Verratti,40000000.0,False,working,False,Marco Verratti,Verratti,single
+349,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Claudio Marchisio,27000000.0,False,working,False,Claudio Marchisio,Marchisio,single
+350,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,SUCCESS,Ciro Immobile,15000000.0,False,working,False,Ciro Immobile,Immobile,single
+351,570,"Euros 2016, Qualifiers",Malta vs Italy,13.10.14,Italy,IT,2014,FAIL,0,0.0,True,not done yet,False,0,17. Пелле,cyrillic
+352,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,12. Нюланн,cyrillic
+353,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,5. Тетти,cyrillic
+354,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,6. Нордтвейт,cyrillic
+355,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,7. Кинг,cyrillic
+356,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,8. Йохансен,cyrillic
+357,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,10. Эльюнусси,cyrillic
+358,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,14. Элабделлауи,cyrillic
+359,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,15. Шельбред,cyrillic
+360,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,17. Линнес,cyrillic
+361,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,20. Меллер-Дели,cyrillic
+362,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,21. Форрен,cyrillic
+363,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,13. Михайлов,cyrillic
+364,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,2. Попов А.,cyrillic
+365,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,5. Бодуров,cyrillic
+366,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,9. Попов,cyrillic
+367,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,11. Манолев,cyrillic
+368,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,14. Минев,cyrillic
+369,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,15. Христов,cyrillic
+370,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,17. Миланов,cyrillic
+371,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,20. Тонев,cyrillic
+372,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,21. Дяков,cyrillic
+373,571,"Euros 2016, Qualifiers",Norway vs Bulgaria,13.10.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,22. Илиев,cyrillic
+374,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,23. С.Агаев,cyrillic
+375,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,4. Шюкюров,cyrillic
+376,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,5. Медведев,cyrillic
+377,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,14. Р.Садыгов,cyrillic
+378,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,15. Абышов,cyrillic
+379,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,7. Джавадов,cyrillic
+380,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,10. А.Абдуллаев,cyrillic
+381,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+382,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,20. Имамвердиев,cyrillic
+383,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,21. Юнусзаде,cyrillic
+384,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Azerbaijan,AZ,2014,FAIL,0,0.0,True,not done yet,False,0,11. Р.Алиев,cyrillic
+385,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,12. Нюланн,cyrillic
+386,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,SUCCESS,Tom Høgli,1000000.0,False,working,False,Tom Høgli,Hogli,single
+387,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,6. Нордтвейт,cyrillic
+388,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,14. Элабделлауи,cyrillic
+389,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,21. Форрен,cyrillic
+390,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+391,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,8. Йохансен,cyrillic
+392,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,SUCCESS,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",4500000.0,False,working,False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+393,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,15. Шельбред,cyrillic
+394,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,20. Меллер-Дели,cyrillic
+395,572,"Euros 2016, Qualifiers",Azerbaijan vs Norway,16.11.14,Norway,NO,2014,FAIL,0,0.0,True,not done yet,False,0,18. Нильсен,cyrillic
+396,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,1. Стоянов,cyrillic
+397,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,4. Терзиев,cyrillic
+398,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,5. Бодуров,cyrillic
+399,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,11. Манолев,cyrillic
+400,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,14. В.Минев,cyrillic
+401,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,7. Александров,cyrillic
+402,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,9. Попов,cyrillic
+403,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,17. Г.Миланов,cyrillic
+404,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,21. Дяков,cyrillic
+405,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,22. Г.Илиев,cyrillic
+406,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Bulgaria,BG,2014,FAIL,0,0.0,True,not done yet,False,0,16. Галабинов,cyrillic
+407,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,1. Хогг,cyrillic
+408,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,2. Каруана,cyrillic
+409,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,4. П.Фенек,cyrillic
+410,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,5. Агиус,cyrillic
+411,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,17. Р.Камиллери,cyrillic
+412,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,7. Файлла,cyrillic
+413,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,8. Бриффа,cyrillic
+414,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,9. Ж.Фарруджа,cyrillic
+415,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,11. Р.Мускат,cyrillic
+416,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,22. З.Мускат,cyrillic
+417,573,"Euros 2016, Qualifiers",Bulgaria vs Malta,16.11.14,Malta,MT,2014,FAIL,0,0.0,True,not done yet,False,0,13. Шембри,cyrillic
+418,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Gianluigi Buffon,2000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+419,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+420,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+421,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Manuel Pasqual,1800000.0,False,working,False,Manuel Pasqual,Pasqual,single
+422,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Andrea Ranocchia,12500000.0,False,working,False,Andrea Ranocchia,Ranocchia,single
+423,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Giorgio Chiellini,16500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+424,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Daniele De Rossi,11000000.0,False,working,False,Daniele De Rossi,De Rossi,single
+425,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Antonio Candreva,25000000.0,False,working,False,Antonio Candreva,Candreva,single
+426,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Claudio Marchisio,27000000.0,False,working,False,Claudio Marchisio,Marchisio,single
+427,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Simone Zaza,11000000.0,False,working,False,Simone Zaza,Zaza,single
+428,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Italy,IT,2014,SUCCESS,Ciro Immobile,15000000.0,False,working,False,Ciro Immobile,Immobile,single
+429,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,23. Субашич,cyrillic
+430,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,3. Праньич,cyrillic
+431,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,5. Чорлука,cyrillic
+432,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,11. Срна,cyrillic
+433,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,21. Вида,cyrillic
+434,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,4. Перишич,cyrillic
+435,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,7. Ракитич,cyrillic
+436,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,SUCCESS,Luka Modric,55000000.0,False,working,False,Luka Modric,Modric,single
+437,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,14. Брозович,cyrillic
+438,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,17. Манджукич,cyrillic
+439,574,"Euros 2016, Qualifiers",Italy vs Croatia,16.11.14,Croatia,HR,2014,FAIL,0,0.0,True,not done yet,False,0,18. Олич,cyrillic
+440,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+441,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+442,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+443,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+444,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+445,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+446,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+447,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+448,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+449,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+450,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Azerbaijan,AZ,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+451,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+452,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+453,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+454,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+455,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+456,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+457,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+458,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+459,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+460,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+461,575,"Euros 2016, Qualifiers",Azerbaijan vs Malta,28.03.15,Malta,MT,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+462,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+463,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+464,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Vedran Corluka,10000000.0,False,working,False,Vedran Corluka,Corluka,single
+465,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Darijo Srna,7000000.0,False,working,False,Darijo Srna,Srna,single
+466,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+467,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Luka Modric,55000000.0,False,working,False,Luka Modric,Modric,single
+468,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Marcelo Brozovic,5500000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+469,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Danijel Pranjic,1000000.0,False,Data Ended before season : 2015,False,Danijel Pranjic,Pranjic,single
+470,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+471,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Mario Mandzukic,22000000.0,False,working,False,Mario Mandzukic,Mandzukic,single
+472,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Croatia,HR,2015,SUCCESS,Ivica Olic,2000000.0,False,working,False,Ivica Olic,Olic,single
+473,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Ørjan Nyland,1000000.0,False,working,False,Ørjan Nyland,Nyland,single
+474,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Tom Høgli,600000.0,False,working,False,Tom Høgli,Hogli,single
+475,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Martin Linnes,1800000.0,False,working,False,Martin Linnes,Linnes,single
+476,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Vegard Forren,1600000.0,False,working,False,Vegard Forren,Forren,single
+477,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Håvard Nordtveit,6000000.0,False,working,False,Håvard Nordtveit,Nordtveit,single
+478,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Stefan Johansen,3000000.0,False,working,False,Stefan Johansen,S Johansen,single
+479,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Martin Ødegaard,4000000.0,False,working,False,Martin Ødegaard,Odegaard,single
+480,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+481,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Per Ciljan Skjelbred,3500000.0,False,working,False,Per Ciljan Skjelbred,Skjelbred,single
+482,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,Mats Møller Dæhli,0,False,Not in either dataset for currect season but present in both seasons around match,True,Mats Møller Dæhli,Moeller-Daehli,single
+483,576,"Euros 2016, Qualifiers",Croatia vs Norway,28.03.15,Norway,NO,2015,SUCCESS,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2000000.0,False,Used Large Dataset,False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+484,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,13. Михайлов,cyrillic
+485,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,SUCCESS,Nikolay Bodurov,1000000.0,False,working,False,Nikolay Bodurov,Bodurov,single
+486,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,6. Минев,cyrillic
+487,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,11. Манолев,cyrillic
+488,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,23. Александров А.,cyrillic
+489,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,7. Александров М.,cyrillic
+490,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,SUCCESS,Ivelin Popov,7500000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+491,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,17. Миланов,cyrillic
+492,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,18. Гаджев,cyrillic
+493,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,21. Дяков,cyrillic
+494,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Bulgaria,BG,2015,SUCCESS,Iliyan Mitsanski,600000.0,False,Data Ended before season : 2015,False,Iliyan Mitsanski,Mitsanski,single
+495,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Salvatore Sirigu,21500000.0,False,working,False,Salvatore Sirigu,Sirigu,single
+496,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+497,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Luca Antonelli,7000000.0,False,working,False,Luca Antonelli,Antonelli,single
+498,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Andrea Barzagli,7000000.0,False,working,False,Andrea Barzagli,Barzagli,single
+499,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+500,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Giorgio Chiellini,19000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+501,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Antonio Candreva,23000000.0,False,working,False,Antonio Candreva,Candreva,single
+502,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Marco Verratti,40000000.0,False,Used Large Dataset,False,Marco Verratti,Verratti,single
+503,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Andrea Bertolacci,12000000.0,False,Used Large Dataset,False,Andrea Bertolacci,Bertolacci,single
+504,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Simone Zaza,11000000.0,False,working,False,Simone Zaza,Zaza,single
+505,577,"Euros 2016, Qualifiers",Bulgaria vs Italy,28.03.15,Italy,IT,2015,SUCCESS,Ciro Immobile,18000000.0,False,working,False,Ciro Immobile,Immobile,single
+506,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+507,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Gordon Schildenfeld,1250000.0,False,working,False,Gordon Schildenfeld,Schildenfeld,single
+508,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+509,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Darijo Srna,7000000.0,False,working,False,Darijo Srna,Srna,single
+510,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+511,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Marcelo Brozovic,5500000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+512,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Danijel Pranjic,1000000.0,False,Data Ended before season : 2015,False,Danijel Pranjic,Pranjic,single
+513,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+514,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Mario Mandzukic,22000000.0,False,working,False,Mario Mandzukic,Mandzukic,single
+515,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,SUCCESS,Ivica Olic,2000000.0,False,working,False,Ivica Olic,Olic,single
+516,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Croatia,HR,2015,FAIL,0,0,True,not done yet,False,0,20. Ковачич,cyrillic
+517,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Gianluigi Buffon,3000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+518,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+519,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,FAIL,0,0,True,not done yet,False,0,5. Астори,cyrillic
+520,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+521,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Antonio Candreva,23000000.0,False,working,False,Antonio Candreva,Candreva,single
+522,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Marco Parolo,6500000.0,False,working,False,Marco Parolo,Parolo,single
+523,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Claudio Marchisio,25000000.0,False,working,False,Claudio Marchisio,Marchisio,single
+524,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,FAIL,0,0,True,not done yet,False,0,21. Пирло,cyrillic
+525,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,SUCCESS,Stephan El Shaarawy,18000000.0,False,working,False,Stephan El Shaarawy,El Shaarawy,single
+526,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,FAIL,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 20. Pelle",False,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",Pelle,multiple
+527,578,"Euros 2016, Qualifiers",Croatia vs Italy,12.06.15,Italy,IT,2015,FAIL,0,0,True,not done yet,False,0,15. Де Сильвестри,cyrillic
+528,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+529,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+530,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+531,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+532,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+533,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+534,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+535,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+536,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+537,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+538,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Malta,MT,2015,FAIL,-,0,False,Null Name,False,,-,none
+539,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+540,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+541,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+542,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+543,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+544,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+545,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+546,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+547,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+548,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+549,579,"Euros 2016, Qualifiers",Malta vs Bulgaria,12.06.15,Bulgaria,BG,2015,FAIL,-,0,False,Null Name,False,,-,none
+550,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+551,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+552,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+553,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+554,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+555,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+556,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+557,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+558,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+559,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+560,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Norway,NO,2015,FAIL,-,0,False,Null Name,False,,-,none
+561,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+562,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+563,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+564,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+565,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+566,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+567,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+568,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+569,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+570,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+571,580,"Euros 2016, Qualifiers",Norway vs Azerbaijan,12.06.15,Azerbaijan,AZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+572,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,1. К. Агаев,cyrillic
+573,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,2. Гараев,cyrillic
+574,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,3. Мирзабеков,cyrillic
+575,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,5. Гусейнов,cyrillic
+576,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,14. Р.Ф.Садыгов,cyrillic
+577,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,10. Р.Гурбанов,cyrillic
+578,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+579,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,21. Дашдемиров,cyrillic
+580,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,22. Исмайлов,cyrillic
+581,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,9. Курбанов,cyrillic
+582,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Azerbaijan,AZ,2015,SUCCESS,Dimitrij Nazarov,650000.0,False,working,False,Dimitrij Nazarov,D Nazarov,single
+583,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+584,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Sime Vrsaljko,7500000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+585,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+586,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Vedran Corluka,10000000.0,False,working,False,Vedran Corluka,Corluka,single
+587,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+588,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Luka Modric,55000000.0,False,working,False,Luka Modric,Modric,single
+589,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Milan Badelj,5000000.0,False,working,False,Milan Badelj,Badelj,single
+590,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Danijel Pranjic,1000000.0,False,Data Ended before season : 2015,False,Danijel Pranjic,Pranjic,single
+591,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+592,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Marko Pjaca,1500000.0,False,working,False,Marko Pjaca,Pjaca,single
+593,581,"Euros 2016, Qualifiers",Azerbaijan vs Croatia,03.09.15,Croatia,HR,2015,SUCCESS,Mario Mandzukic,22000000.0,False,working,False,Mario Mandzukic,Mandzukic,single
+594,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,12. Митрев,cyrillic
+595,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,SUCCESS,Ivelin Popov,7500000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+596,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,SUCCESS,Iliyan Mitsanski,600000.0,False,Data Ended before season : 2015,False,Iliyan Mitsanski,Mitsanski,single
+597,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,2. Бандаловски,cyrillic
+598,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,3. Александров А.,cyrillic
+599,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,5. Бодуров,cyrillic
+600,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,6. Минев,cyrillic
+601,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,11. Манолев,cyrillic
+602,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,15. Чочев,cyrillic
+603,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,17. Миланов,cyrillic
+604,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,21. Дяков,cyrillic
+605,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Ørjan Nyland,1000000.0,False,working,False,Ørjan Nyland,Nyland,single
+606,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Tom Høgli,600000.0,False,working,False,Tom Høgli,Hogli,single
+607,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Vegard Forren,1600000.0,False,working,False,Vegard Forren,Forren,single
+608,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Stefan Johansen,3000000.0,False,working,False,Stefan Johansen,S Johansen,single
+609,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,"['Jone Samuelsen', 'Martin Samuelsen']",100000.0,False,working,False,"['Jone Samuelsen', 'Martin Samuelsen']",Samuelsen,multiple
+610,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+611,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2000000.0,False,Used Large Dataset,False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+612,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,3. Ховланн,cyrillic
+613,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,SUCCESS,Markus Henriksen,4500000.0,False,working,False,Markus Henriksen,M Henriksen,single
+614,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,9. Седерлунн,cyrillic
+615,582,"Euros 2016, Qualifiers",Bulgaria vs Norway,03.09.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,19. Бергет,cyrillic
+616,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Gianluigi Buffon,3000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+617,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+618,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Manuel Pasqual,1000000.0,False,Used Large Dataset,False,Manuel Pasqual,Pasqual,single
+619,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+620,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Giorgio Chiellini,19000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+621,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Andrea Bertolacci,12000000.0,False,Used Large Dataset,False,Andrea Bertolacci,Bertolacci,single
+622,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Marco Verratti,40000000.0,False,Used Large Dataset,False,Marco Verratti,Verratti,single
+623,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,FAIL,0,0,True,not done yet,False,0,21. Пирло,cyrillic
+624,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Éder,8000000.0,False,working,False,Éder,Eder,single
+625,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,FAIL,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 20. Pelle",False,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",Pelle,multiple
+626,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Italy,IT,2015,SUCCESS,Manolo Gabbiadini,12000000.0,False,working,False,Manolo Gabbiadini,Gabbiadini,single
+627,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,1. Хогг,cyrillic
+628,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,2. Мускат А.,cyrillic
+629,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,5. Агиус,cyrillic
+630,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,6. Фенек,cyrillic
+631,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,7. Файлла,cyrillic
+632,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,8. Бриффа,cyrillic
+633,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,11. Мускат Р.,cyrillic
+634,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,13. Шембри,cyrillic
+635,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,15. Борг С.,cyrillic
+636,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,19. Эффьонг,cyrillic
+637,583,"Euros 2016, Qualifiers",Italy vs Malta,03.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,22. Мускат З.,cyrillic
+638,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,1. Хогг,cyrillic
+639,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,2. Мускат А.,cyrillic
+640,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,5. Агиус,cyrillic
+641,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,7. Файла,cyrillic
+642,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,8. Бриффа,cyrillic
+643,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,9. Мифсуд,cyrillic
+644,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,11. Мускат Р.,cyrillic
+645,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,13. Шембри,cyrillic
+646,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,15. Борг С.,cyrillic
+647,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,17. Камиллери,cyrillic
+648,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,19. Эффьонг,cyrillic
+649,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,1. Агаев К.,cyrillic
+650,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,2. Гараев,cyrillic
+651,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,3. Мирзабеков,cyrillic
+652,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,5. Гусейнов,cyrillic
+653,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,10. Гурбанов,cyrillic
+654,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,13. Назаров,cyrillic
+655,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,14. Садыгов,cyrillic
+656,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+657,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,20. Тагиев,cyrillic
+658,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,21. Дашдемиров,cyrillic
+659,584,"Euros 2016, Qualifiers",Malta vs Azerbaijan,06.09.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,22. Исмаилов,cyrillic
+660,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Ørjan Nyland,1000000.0,False,working,False,Ørjan Nyland,Nyland,single
+661,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Tom Høgli,600000.0,False,working,False,Tom Høgli,Hogli,single
+662,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,3. Ховланн,cyrillic
+663,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Vegard Forren,1600000.0,False,working,False,Vegard Forren,Forren,single
+664,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Stefan Johansen,3000000.0,False,working,False,Stefan Johansen,S Johansen,single
+665,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Markus Henriksen,4500000.0,False,working,False,Markus Henriksen,M Henriksen,single
+666,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Omar Elabdellaoui,6000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+667,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+668,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Per Ciljan Skjelbred,3500000.0,False,working,False,Per Ciljan Skjelbred,Skjelbred,single
+669,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,9. Седерлунн,cyrillic
+670,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Norway,NO,2015,SUCCESS,Jo Inge Berget,1600000.0,False,working,False,Jo Inge Berget,Berget,single
+671,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+672,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Sime Vrsaljko,7500000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+673,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+674,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Vedran Corluka,10000000.0,False,working,False,Vedran Corluka,Corluka,single
+675,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Darijo Srna,7000000.0,False,working,False,Darijo Srna,Srna,single
+676,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+677,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Luka Modric,55000000.0,False,working,False,Luka Modric,Modric,single
+678,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Marcelo Brozovic,5500000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+679,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+680,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Marko Pjaca,1500000.0,False,working,False,Marko Pjaca,Pjaca,single
+681,585,"Euros 2016, Qualifiers",Norway vs Croatia,06.09.15,Croatia,HR,2015,SUCCESS,Mario Mandzukic,22000000.0,False,working,False,Mario Mandzukic,Mandzukic,single
+682,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Gianluigi Buffon,3000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+683,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+684,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,FAIL,0,0,True,not done yet,False,0,4. Дармиан,cyrillic
+685,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+686,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Giorgio Chiellini,19000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+687,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Daniele De Rossi,18000000.0,False,working,False,Daniele De Rossi,De Rossi,single
+688,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Antonio Candreva,23000000.0,False,working,False,Antonio Candreva,Candreva,single
+689,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Marco Verratti,40000000.0,False,Used Large Dataset,False,Marco Verratti,Verratti,single
+690,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Marco Parolo,6500000.0,False,working,False,Marco Parolo,Parolo,single
+691,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,SUCCESS,Stephan El Shaarawy,18000000.0,False,working,False,Stephan El Shaarawy,El Shaarawy,single
+692,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Italy,IT,2015,FAIL,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 20. Pelle",False,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",Pelle,multiple
+693,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,12. Митрев,cyrillic
+694,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,3. Александров А.,cyrillic
+695,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,5. Бодуров,cyrillic
+696,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,6. Минев В.,cyrillic
+697,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,10. Попов,cyrillic
+698,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,14. Минев Й.,cyrillic
+699,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,15. Чочев,cyrillic
+700,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,17. Миланов,cyrillic
+701,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,19. Мицански,cyrillic
+702,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,21. Дьяков,cyrillic
+703,586,"Euros 2016, Qualifiers",Italy vs Bulgaria,06.09.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,22. Неделев,cyrillic
+704,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,1. Агаев К.,cyrillic
+705,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,SUCCESS,Badavi Hüseynov,450000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+706,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,Lookup Required,False,0,Sadygov,none
+707,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,SUCCESS,Maksim Medvedev,350000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+708,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,21. Дашдемиров,cyrillic
+709,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",500000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+710,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,SUCCESS,Eddy Israfilov,500000.0,False,working,False,Eddy Israfilov,Israfilov,single
+711,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+712,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,10. Гурбанов Р.,cyrillic
+713,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,SUCCESS,Dimitrij Nazarov,650000.0,False,working,False,Dimitrij Nazarov,D Nazarov,single
+714,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,22. Исмайлов,cyrillic
+715,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Gianluigi Buffon,3000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+716,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+717,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+718,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+719,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Giorgio Chiellini,19000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+720,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Antonio Candreva,23000000.0,False,working,False,Antonio Candreva,Candreva,single
+721,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Marco Verratti,40000000.0,False,Used Large Dataset,False,Marco Verratti,Verratti,single
+722,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Marco Parolo,6500000.0,False,working,False,Marco Parolo,Parolo,single
+723,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Stephan El Shaarawy,18000000.0,False,working,False,Stephan El Shaarawy,El Shaarawy,single
+724,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,FAIL,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 9. Pelle",False,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",Pelle,multiple
+725,587,"Euros 2016, Qualifiers",Azerbaijan vs Italy,10.10.15,Italy,IT,2015,SUCCESS,Éder,8000000.0,False,working,False,Éder,Eder,single
+726,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Ørjan Nyland,1000000.0,False,working,False,Ørjan Nyland,Nyland,single
+727,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,3. Ховланн,cyrillic
+728,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,16. Алисами,cyrillic
+729,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Vegard Forren,1600000.0,False,working,False,Vegard Forren,Forren,single
+730,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Stefan Johansen,3000000.0,False,working,False,Stefan Johansen,S Johansen,single
+731,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Markus Henriksen,4500000.0,False,working,False,Markus Henriksen,M Henriksen,single
+732,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Omar Elabdellaoui,6000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+733,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+734,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Per Ciljan Skjelbred,3500000.0,False,working,False,Per Ciljan Skjelbred,Skjelbred,single
+735,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,9. Седерлунн,cyrillic
+736,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Norway,NO,2015,SUCCESS,Jo Inge Berget,1600000.0,False,working,False,Jo Inge Berget,Berget,single
+737,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,1. Хогг,cyrillic
+738,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,2. Мускат А.,cyrillic
+739,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,7. Файлла,cyrillic
+740,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,SUCCESS,Steve Borg,350000.0,False,working,False,Steve Borg,S Borg,single
+741,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,22. Мускат З.,cyrillic
+742,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,5. Агиус Э.,cyrillic
+743,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,6. Фенек Р.,cyrillic
+744,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,8. Бриффа,cyrillic
+745,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,11. Мускат Р.,cyrillic
+746,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,19. Эффьонг,cyrillic
+747,588,"Euros 2016, Qualifiers",Norway vs Malta,10.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,13. Шембри,cyrillic
+748,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+749,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+750,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Josip Pivaric,1300000.0,False,working,False,Josip Pivaric,Pivarić,single
+751,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Vedran Corluka,10000000.0,False,working,False,Vedran Corluka,Corluka,single
+752,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Darijo Srna,7000000.0,False,working,False,Darijo Srna,Srna,single
+753,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+754,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Luka Modric,55000000.0,False,working,False,Luka Modric,Modric,single
+755,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Mateo Kovacic,22000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+756,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+757,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Marko Pjaca,1500000.0,False,working,False,Marko Pjaca,Pjaca,single
+758,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Croatia,HR,2015,SUCCESS,Nikola Kalinic,6000000.0,False,working,False,Nikola Kalinic,N Kalinic,single
+759,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,1. Митрев,cyrillic
+760,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,Миланов Ж.,cyrillic
+761,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,3. Александров А.,cyrillic
+762,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Georgi Terziev,1600000.0,False,working,False,Georgi Terziev,G Terziev,single
+763,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Strahil Popov,1500000.0,False,working,False,Strahil Popov,S Popov,single
+764,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Aleksandar Tonev,900000.0,False,working,False,Aleksandar Tonev,Tonev,single
+765,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,16. Златински,cyrillic
+766,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Simeon Slavchev,1250000.0,False,working,False,Simeon Slavchev,Slavchev,single
+767,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Todor Nedelev,500000.0,False,Used Large Dataset,False,Todor Nedelev,Nedelev,single
+768,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Ivelin Popov,7500000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+769,589,"Euros 2016, Qualifiers",Croatia vs Bulgaria,10.10.15,Bulgaria,BG,2015,SUCCESS,Dimitar Rangelov,350000.0,False,working,False,Dimitar Rangelov,Rangelov,single
+770,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,1. Митрев,cyrillic
+771,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,3. Александров А.,cyrillic
+772,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,6. Минев,cyrillic
+773,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,SUCCESS,"['Ivan Ivanov', 'Ivo Ivanov']",350000.0,False,working,False,"['Ivan Ivanov', 'Ivo Ivanov']",I Ivanov,multiple
+774,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,20. Миланов Ж.,cyrillic
+775,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,0,0,True,not done yet,False,0,16. Златински,cyrillic
+776,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,FAIL,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Georgi Milanov', 'Zhivko Milanov']",False,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Milanov,multiple
+777,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,SUCCESS,Svetoslav Dyakov,2300000.0,False,working,False,Svetoslav Dyakov,Dyakov,single
+778,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,SUCCESS,Mihail Aleksandrov,700000.0,False,working,False,Mihail Aleksandrov,M Aleksandrov,single
+779,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,SUCCESS,Ivelin Popov,7500000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+780,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Bulgaria,BG,2015,SUCCESS,Dimitar Rangelov,350000.0,False,working,False,Dimitar Rangelov,Rangelov,single
+781,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,1. Агаев К.,cyrillic
+782,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,Lookup Required,False,0,Sadygov,none
+783,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,15. Абышов,cyrillic
+784,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,SUCCESS,Maksim Medvedev,350000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+785,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",500000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+786,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,19. Амиргулиев,cyrillic
+787,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,SUCCESS,Dimitrij Nazarov,650000.0,False,working,False,Dimitrij Nazarov,D Nazarov,single
+788,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,22. Исмайлов,cyrillic
+789,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,10. Гурбанов,cyrillic
+790,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,17. Джафаров,cyrillic
+791,590,"Euros 2016, Qualifiers",Bulgaria vs Azerbaijan,13.10.15,Azerbaijan,AZ,2015,FAIL,0,0,True,not done yet,False,0,20. Мирзабеков,cyrillic
+792,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Gianluigi Buffon,3000000.0,False,working,False,Gianluigi Buffon,Buffon,single
+793,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Mattia De Sciglio,10000000.0,False,working,False,Mattia De Sciglio,De Sciglio,single
+794,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Matteo Darmian,8000000.0,False,working,False,Matteo Darmian,Darmian,single
+795,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Andrea Barzagli,7000000.0,False,working,False,Andrea Barzagli,Barzagli,single
+796,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Leonardo Bonucci,18000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+797,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Giorgio Chiellini,19000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+798,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Riccardo Montolivo,14000000.0,False,working,False,Riccardo Montolivo,Montolivo,single
+799,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Alessandro Florenzi,14000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+800,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Roberto Soriano,5000000.0,False,working,False,Roberto Soriano,R Soriano,single
+801,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,SUCCESS,Éder,8000000.0,False,working,False,Éder,Eder,single
+802,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Italy,IT,2015,FAIL,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 20. Pelle",False,"['Lorenzo Pellegrini', 'Luca Pellegrini', 'Pietro Pellegri']",Pelle,multiple
+803,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Ørjan Nyland,1000000.0,False,working,False,Ørjan Nyland,Nyland,single
+804,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Vegard Forren,1600000.0,False,working,False,Vegard Forren,Forren,single
+805,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Stefan Johansen,3000000.0,False,working,False,Stefan Johansen,S Johansen,single
+806,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Markus Henriksen,4500000.0,False,working,False,Markus Henriksen,M Henriksen,single
+807,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Omar Elabdellaoui,6000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+808,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Alexander Tettey,3500000.0,False,working,False,Alexander Tettey,Tettey,single
+809,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Per Ciljan Skjelbred,3500000.0,False,working,False,Per Ciljan Skjelbred,Skjelbred,single
+810,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,SUCCESS,Jo Inge Berget,1600000.0,False,working,False,Jo Inge Berget,Berget,single
+811,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,3. Ховланн,cyrillic
+812,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,9. Седерлунн,cyrillic
+813,591,"Euros 2016, Qualifiers",Italy vs Norway,13.10.15,Norway,NO,2015,FAIL,0,0,True,not done yet,False,0,16. Алисами,cyrillic
+814,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,1. Хогг,cyrillic
+815,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,SUCCESS,Steve Borg,350000.0,False,working,False,Steve Borg,S Borg,single
+816,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,5. Агиус Э.,cyrillic
+817,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,8. Бриффа,cyrillic
+818,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,3. Зерафа,cyrillic
+819,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,7. Файлла,cyrillic
+820,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,11. Мускат Р.,cyrillic
+821,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,13. Шембри,cyrillic
+822,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,18. Кристенсен,cyrillic
+823,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,19. Эффьонг,cyrillic
+824,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Malta,MT,2015,FAIL,0,0,True,not done yet,False,0,22. Мускат З.,cyrillic
+825,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Danijel Subasic,4750000.0,False,working,False,Danijel Subasic,Subasic,single
+826,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Domagoj Vida,5500000.0,False,working,False,Domagoj Vida,Vida,single
+827,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Josip Pivaric,1300000.0,False,working,False,Josip Pivaric,Pivarić,single
+828,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Vedran Corluka,10000000.0,False,working,False,Vedran Corluka,Corluka,single
+829,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Darijo Srna,7000000.0,False,working,False,Darijo Srna,Srna,single
+830,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Ivan Perisic,8000000.0,False,working,False,Ivan Perisic,I Perišić,single
+831,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Milan Badelj,5000000.0,False,working,False,Milan Badelj,Badelj,single
+832,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Mateo Kovacic,22000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+833,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Ivan Rakitic,30000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+834,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Marko Pjaca,1500000.0,False,working,False,Marko Pjaca,Pjaca,single
+835,592,"Euros 2016, Qualifiers",Malta vs Croatia,13.10.15,Croatia,HR,2015,SUCCESS,Nikola Kalinic,6000000.0,False,working,False,Nikola Kalinic,N Kalinic,single
+836,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+837,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+838,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+839,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+840,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+841,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+842,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+843,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+844,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+845,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+846,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+847,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+848,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+849,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+850,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+851,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+852,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+853,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+854,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+855,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+856,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+857,593,"Euros 2016, Qualifiers",Denmark vs Armenia,07.09.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+858,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+859,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+860,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+861,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+862,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+863,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+864,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+865,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+866,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+867,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+868,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+869,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+870,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+871,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+872,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+873,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+874,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+875,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+876,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+877,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+878,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+879,594,"Euros 2016, Qualifiers",Portugal vs Albania,07.09.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+880,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,1. Березовский,cyrillic
+881,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,3. Ароян,cyrillic
+882,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,4. Восканян,cyrillic
+883,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,5. Арзуманян,cyrillic
+884,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,6. Мкртчян,cyrillic
+885,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,7. Едигарян,cyrillic
+886,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,8. Пиззелли,cyrillic
+887,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,11. Саркисов,cyrillic
+888,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,13. К.Оганесян,cyrillic
+889,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,20. Айрапетян,cyrillic
+890,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Armenia,AM,2014,FAIL,0,0,True,not done yet,False,0,22. Э.Манучарян,cyrillic
+891,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,1. Стойкович,cyrillic
+892,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,5. Настасич,cyrillic
+893,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,6. Иванович,cyrillic
+894,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,11. Коларов,cyrillic
+895,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,13. С.Митрович,cyrillic
+896,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,7. Тошич,cyrillic
+897,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,8. Гудель,cyrillic
+898,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,9. Ф.Джоджевич,cyrillic
+899,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,14. Матич,cyrillic
+900,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,21. Л.Маркович,cyrillic
+901,595,"Euros 2016, Qualifiers",Armenia vs Serbia,11.10.14,Serbia,RS,2014,FAIL,0,0,True,not done yet,False,0,10. Тадич,cyrillic
+902,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,1. Бериша,cyrillic
+903,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,2. Лиля,cyrillic
+904,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,4. Хюсай,cyrillic
+905,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,7. Аголи,cyrillic
+906,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,15. Маврай,cyrillic
+907,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,3. Леняни,cyrillic
+908,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,5. Цана,cyrillic
+909,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,13. Кукели,cyrillic
+910,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,14. Джака,cyrillic
+911,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,22. Абраши,cyrillic
+912,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Albania,AL,2014,FAIL,0,0,True,not done yet,False,0,19. Балай,cyrillic
+913,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,1. Шмейхель,cyrillic
+914,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,2. Анкерсен,cyrillic
+915,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,3. Кьер,cyrillic
+916,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,5. Бойлесен,cyrillic
+917,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,12. Бьелланд,cyrillic
+918,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,7. Квист,cyrillic
+919,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,9. Крон-Дели,cyrillic
+920,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,10. Эриксен,cyrillic
+921,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,11. Беннтнер,cyrillic
+922,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,23. Хейбьерг,cyrillic
+923,596,"Euros 2016, Qualifiers",Albania vs Denmark,11.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,19. Поульсен,cyrillic
+924,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,1. Шмейхель,cyrillic
+925,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,3. Кьер,cyrillic
+926,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,4. Аггер,cyrillic
+927,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,5. Бойлесен,cyrillic
+928,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,6. Якобсен,cyrillic
+929,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,7. Квист,cyrillic
+930,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,9. Крон-Дели,cyrillic
+931,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,10. Эриксен,cyrillic
+932,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,11. Беннтнер,cyrillic
+933,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,21. Вибе,cyrillic
+934,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Denmark,DK,2014,FAIL,0,0,True,not done yet,False,0,23. Хейбьерг,cyrillic
+935,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,1. Патрисиу,cyrillic
+936,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,3. Пепе,cyrillic
+937,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,5. Элизеу,cyrillic
+938,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,6. Карьвалью Р.,cyrillic
+939,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,7. Роналду,cyrillic
+940,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,8. Моутинью,cyrillic
+941,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,10. Данни,cyrillic
+942,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,16. Карвалью В.,cyrillic
+943,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,17. Нани,cyrillic
+944,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,19. Тьягу,cyrillic
+945,597,"Euros 2016, Qualifiers",Denmark vs Portugal,14.10.14,Portugal,PT,2014,FAIL,0,0,True,not done yet,False,0,21. Седрик,cyrillic
+946,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+947,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+948,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+949,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+950,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+951,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+952,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+953,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+954,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+955,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+956,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+957,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+958,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+959,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+960,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+961,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+962,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+963,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+964,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+965,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+966,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+967,598,"Euros 2016, Qualifiers",Serbia vs Albania,14.10.14,Albania,AL,2014,FAIL,-,0,False,Null Name,False,,-,none
+968,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+969,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+970,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+971,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+972,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+973,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+974,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+975,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+976,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+977,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+978,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Portugal,PT,2014,FAIL,-,0,False,Null Name,False,,-,none
+979,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+980,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+981,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+982,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+983,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+984,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+985,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+986,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+987,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+988,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+989,599,"Euros 2016, Qualifiers",Portugal vs Armenia,14.11.14,Armenia,AM,2014,FAIL,-,0,False,Null Name,False,,-,none
+990,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+991,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+992,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+993,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+994,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+995,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+996,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+997,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+998,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+999,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+1000,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Serbia,RS,2014,FAIL,-,0,False,Null Name,False,,-,none
+1001,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1002,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1003,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1004,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1005,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1006,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1007,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1008,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1009,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1010,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1011,600,"Euros 2016, Qualifiers",Serbia vs Denmark,14.11.14,Denmark,DK,2014,FAIL,-,0,False,Null Name,False,,-,none
+1012,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1013,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1014,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1015,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1016,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1017,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1018,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1019,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1020,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1021,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1022,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Albania,AL,2015,FAIL,-,0,False,Null Name,False,,-,none
+1023,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1024,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1025,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1026,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1027,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1028,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1029,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1030,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1031,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1032,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1033,601,"Euros 2016, Qualifiers",Albania vs Armenia,29.03.15,Armenia,AM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1034,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Rui Patrício,20000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1035,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Bruno Alves,5000000.0,False,working,False,Bruno Alves,B Alves,single
+1036,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,FAIL,0,0,True,not done yet,False,0,13. Бозингва,cyrillic
+1037,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Ricardo Carvalho,1000000.0,False,working,False,Ricardo Carvalho,Ricardo Carvalho,single
+1038,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,João Moutinho,20000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+1039,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Danny,10000000.0,False,working,False,Danny,Danny,single
+1040,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Nani,12000000.0,False,working,False,Nani,Nani,single
+1041,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Eliseu,2000000.0,False,working,False,Eliseu,Eliseu,single
+1042,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Tiago Mendes,2000000.0,False,Used Large Dataset,False,Tiago Mendes,Tiago Mendes,single
+1043,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Fábio Coentrão,10000000.0,False,Used Large Dataset,False,Fábio Coentrão,Coentrão,single
+1044,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Portugal,PT,2015,SUCCESS,Cristiano Ronaldo,120000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1045,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,1. Стойкович,cyrillic
+1046,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,5. Настасич,cyrillic
+1047,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,6. Иванович,cyrillic
+1048,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,8. Петрович,cyrillic
+1049,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,9. Митрович А.,cyrillic
+1050,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,10. Тадич,cyrillic
+1051,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,11. Коларов,cyrillic
+1052,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,14. Матич,cyrillic
+1053,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,18. Баста,cyrillic
+1054,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,21. Маркович,cyrillic
+1055,602,"Euros 2016, Qualifiers",Portugal vs Serbia,29.03.15,Serbia,RS,2015,FAIL,0,0,True,not done yet,False,0,22. Ляич,cyrillic
+1056,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Roman Berezovskiy,0.0,False,Large Dataset had 0,False,Roman Berezovskiy,Berezovsky,single
+1057,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Gaël Andonian,300000.0,False,working,False,Gaël Andonian,Andonian,single
+1058,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Robert Arzumanyan,400000.0,False,working,False,Robert Arzumanyan,Arzumanyan,single
+1059,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Kamo Hovhannisyan,400000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+1060,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Hrayr Mkoyan,700000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+1061,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Levon Hayrapetyan,200000.0,False,working,False,Levon Hayrapetyan,L Hayrapetyan,single
+1062,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Henrikh Mkhitaryan,30000000.0,False,working,False,Henrikh Mkhitaryan,Mkhitaryan,single
+1063,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Karlen Mkrtchyan,400000.0,False,working,False,Karlen Mkrtchyan,K Mkrtchyan,single
+1064,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,"['Gevorg Ghazaryan', 'Arman Ghazaryan']",800000.0,False,working,False,"['Gevorg Ghazaryan', 'Arman Ghazaryan']",Ghazaryan,multiple
+1065,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Marcos Pizzelli,1100000.0,False,working,False,Marcos Pizzelli,Pizzelli,single
+1066,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Armenia,AM,2015,SUCCESS,Artur Sarkisov,700000.0,False,working,False,Artur Sarkisov,Sarkisov,single
+1067,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Rui Patrício,20000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1068,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Bruno Alves,5000000.0,False,working,False,Bruno Alves,B Alves,single
+1069,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Ricardo Carvalho,1000000.0,False,working,False,Ricardo Carvalho,Ricardo Carvalho,single
+1070,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,João Moutinho,20000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+1071,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Danny,10000000.0,False,working,False,Danny,Danny,single
+1072,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Vieirinha,6000000.0,False,working,False,Vieirinha,Vieirinha,single
+1073,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Nani,12000000.0,False,working,False,Nani,Nani,single
+1074,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Tiago Mendes,2000000.0,False,Used Large Dataset,False,Tiago Mendes,Tiago Mendes,single
+1075,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Eliseu,2000000.0,False,working,False,Eliseu,Eliseu,single
+1076,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Fábio Coentrão,10000000.0,False,Used Large Dataset,False,Fábio Coentrão,Coentrão,single
+1077,603,"Euros 2016, Qualifiers",Armenia vs Portugal,13.06.15,Portugal,PT,2015,SUCCESS,Cristiano Ronaldo,120000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1078,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1079,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1080,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1081,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1082,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1083,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1084,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1085,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1086,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1087,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1088,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Denmark,DK,2015,FAIL,-,0,False,Null Name,False,,-,none
+1089,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1090,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1091,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1092,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1093,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1094,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1095,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1096,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1097,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1098,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
+1099,604,"Euros 2016, Qualifiers",Denmark vs Serbia,13.06.15,Serbia,RS,2015,FAIL,-,0,False,Null Name,False,,-,none
