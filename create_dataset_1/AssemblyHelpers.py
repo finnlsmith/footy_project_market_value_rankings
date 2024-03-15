@@ -286,18 +286,67 @@ def add_backticks(lastname_match, original_string_nojersey):
 
     return lastname_match
 
+# def filter_matches_with_token_prefix(input_string, matching_strings):
+#     filtered_matches = []
+#     for match in matching_strings:
+#         match_words = match.split()  # Split the match string into words
+#         input_tokens = input_string.split()
+#         all_tokens_present = all(token in match_words for token in input_tokens)
+#         if all_tokens_present:
+#             filtered_matches.append(match)
+#         else:
+#             # Check if each token or its prefix is present in any word in the match
+#             if all(any(word.startswith(token) or token in word for word in match_words) for token in input_tokens):
+#                 filtered_matches.append(match)
+#     return filtered_matches
+def filter_matches_with_token_prefix(input_string, matching_strings):
+    def remove_accents_single_string(s):
+        return unidecode(s)
+
+    filtered_matches = []
+    input_string_no_accents = remove_accents_single_string(input_string)
+    input_tokens = input_string_no_accents.split()
+    
+    for match in matching_strings:
+        match_no_accents = remove_accents_single_string(match)
+        match_words = match_no_accents.split()  # Split the match string into words
+        
+        # Case-insensitive matching
+        match_lower = match_no_accents.lower()
+        input_lower = input_string_no_accents.lower()
+        
+        if input_lower in match_lower:  # Check if input string is within the match string
+            filtered_matches.append(match)
+        else:
+            all_tokens_present = all(token in match_words for token in input_tokens)
+            if all_tokens_present:
+                filtered_matches.append(match)
+            else:
+                # Check if each token or its prefix is present in any word in the match
+                if all(any(word.startswith(token) or token in word for word in match_words) for token in input_tokens):
+                    filtered_matches.append(match)
+    return filtered_matches
+
+
 def find_closest_string_newEST(input_string, string_list, input_final_tokens, ORIGINAL_NAME_STRING):
     #replace nationality name list with string_list
     #replace string_for_search with input_string 
     #replace final_tokens with input_final_tokens
     #replace input_string with ORIGINAL_NAME_STRING
+    #print('inside fcsn', 'Idrissa Gueye' in string_list)
+    #print(input_string)
     matching_end_strings = [s for s in string_list if s.endswith(input_string)]
     if matching_end_strings:
+        #print('matching strings are ', matching_end_strings)
         return matching_end_strings
-        
+    
     if len(input_final_tokens) > 1 and len(input_final_tokens[0]) <= 2:
-        start_with_end_strings = [s for s in string_list if s.startswith(input_final_tokens[0]) and s.endswith(input_string)]
+        #print('trying start with end strings')
+        #print(input_final_tokens[0])
+        start_with_end_strings = [s for s in string_list if s.startswith(input_final_tokens[0]) and s.endswith(input_final_tokens[-1])]
+        #print('results were', [s for s in string_list if s.startswith('I') and s.endswith('Gueye')])
         if start_with_end_strings:
+            print('we deed eet')
             return start_with_end_strings
 
     closest_match = get_close_matches(input_string, string_list, n=1, cutoff=0.8)
@@ -364,8 +413,14 @@ def find_closest_string_newEST(input_string, string_list, input_final_tokens, OR
                 else:
                     #print(matching_strings)
                     setofmatches = matching_strings
-                    print('this is a set here')
-                    return setofmatches
+                    print(input_string, matching_strings)
+                    setofmatches = filter_matches_with_token_prefix(input_string, matching_strings)
+                    if len(setofmatches) >= 2:
+                        print('this is a set here')
+                        return setofmatches
+                    else:
+                        #print('single', setofmatches)
+                        return setofmatches[0]
                     
         #elif(closest_match):       
         if(closest_match): #NOT GONNA GET HERE. 
@@ -573,6 +628,7 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
     #dataset_nationality = database_name[database_name['Nationality'] == f"{natl_test}"]['Name'].unique()
     dataset_nationality = database_name[database_name['Team 1 Code'] == f"{nationality_code}"]['Name'].unique()
     
+    print(example_problem)
 
     if(is_cyrillic(example_problem)):
         #change from cyrillic to english
@@ -591,7 +647,7 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
     else:
         print("Pattern not found in the string.")
 
-    print(example_problem, competition)
+    #print(example_problem, competition)
     search_name, final_tokens_name = process_string_newest_ii(example_problem, competition)
     print(f'search name: {search_name}, ft name: {final_tokens_name}')
 
@@ -602,7 +658,9 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
     else:
 
         #look their name up in the list of names from their nationality. 
+        
         result = find_closest_string_newEST(search_name, dataset_nationality, final_tokens_name, example_problem)
+        #print('results are ', result)
         if((type(result) == list) & (len(result) >= 2)):
             candidates_set = result
         elif(result[0] in dataset_nationality):
@@ -620,9 +678,14 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
             if type(match_accent_accounted) == list:
                 if len(match_accent_accounted) >= 2:
                     candidates_set = [word for word in match_accent_accounted if word in nationality_names_accents_removed]
+                    
                 else:
                     match_accent_accounted = match_accent_accounted[0]
             #print('now match is ', match_accent_accounted)
+            #print(nationality_names_accents_removed, match_accent_accounted)
+            #print(type(match_accent_accounted))
+            # if len(candidates_set) >= 2:
+            #     return candidates_set, 'multiple', search_name
             if(match_accent_accounted in nationality_names_accents_removed):
                 #print(match_accent_accounted)
                 matching_names_with_accents = find_names_with_accents(match_accent_accounted, dataset_nationality)
@@ -642,33 +705,36 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
 
                 dataset_nationality_backticks = remove_apostrophes_backticks(dataset_nationality) #dataset_nationality_updated
                 match_apostrophes_accounted = find_closest_string_newEST(search_name, dataset_nationality_backticks,final_tokens_name, example_problem)
-            
-                if(match_apostrophes_accounted in dataset_nationality_backticks):
-
-                    lastname_match = match_apostrophes_accounted.split()[-1] 
-                    original_string_nojersey = re.sub(r'^\d+(\.)?\s*', '', example_problem)
-                    correct_lastname = add_backticks(lastname_match, original_string_nojersey)
-                    correct_firstname = extract_first_name(match_apostrophes_accounted, lastname_match)
-                    
-                    correct_name_full = correct_firstname + ' ' + correct_lastname
-
-                    if(correct_name_full in dataset_nationality):
-                        print(correct_name_full)
-                        #RETURN
-                        candidate_name = correct_name_full
-                    elif(correct_name_full.replace('`', "'") in dataset_nationality):
-                        print(correct_name_full.replace('`', "'"))
-                        #RETURN
-                        candidate_name = correct_name_full.replace('`', "'")
-                    elif(type(match_apostrophes_accounted) != str):
-                        print(f'multiple names found after adding backticks: {match_apostrophes_accounted}')
-                        candidates_set = match_apostrophes_accounted
-                    else:
-                        print(f'backtick-less name found: {match_apostrophes_accounted}. But name not in original dataset')
-                
+                print(match_apostrophes_accounted)
+                if type (match_apostrophes_accounted) == list:
+                    candidates_set = match_apostrophes_accounted
                 else:
-                    0==0
-                    #print('no backtick match found:', search_name)
+                    if(match_apostrophes_accounted in dataset_nationality_backticks):
+
+                        lastname_match = match_apostrophes_accounted.split()[-1] 
+                        original_string_nojersey = re.sub(r'^\d+(\.)?\s*', '', example_problem)
+                        correct_lastname = add_backticks(lastname_match, original_string_nojersey)
+                        correct_firstname = extract_first_name(match_apostrophes_accounted, lastname_match)
+                        
+                        correct_name_full = correct_firstname + ' ' + correct_lastname
+
+                        if(correct_name_full in dataset_nationality):
+                            print(correct_name_full)
+                            #RETURN
+                            candidate_name = correct_name_full
+                        elif(correct_name_full.replace('`', "'") in dataset_nationality):
+                            print(correct_name_full.replace('`', "'"))
+                            #RETURN
+                            candidate_name = correct_name_full.replace('`', "'")
+                        elif(type(match_apostrophes_accounted) != str):
+                            print(f'multiple names found after adding backticks: {match_apostrophes_accounted}')
+                            candidates_set = match_apostrophes_accounted
+                        else:
+                            print(f'backtick-less name found: {match_apostrophes_accounted}. But name not in original dataset')
+                    
+                    else:
+                        0==0
+                        #print('no backtick match found:', search_name)
 
         if(candidate_name != ""):
             match_type = "single"
@@ -734,9 +800,8 @@ def find_money_info_from_name(input_name, input_nationality, input_match_date, u
             prev_season_that_guy = database_name[(database_name['Name'] == candidate_name) & (database_name['Season'] == (int(full_num) + 1))]
             next_season_that_guy = database_name[(database_name['Name'] == candidate_name) & (database_name['Season'] == (int(full_num) - 1))]
             thatguy_3seasons = pd.concat([that_season_that_guy, prev_season_that_guy, next_season_that_guy], ignore_index=True)
-            
             #NOT IN DB FOR YEAR BEFORE OR AFTER THE MATCH
-            if(len(thatguy_3seasons) == 0):
+            if len(thatguy_3seasons) == 0:
                 #print(f'{candidate_name} wasn\'t in the db in {full_num}, {int(full_num) + 1} or {int(full_num) - 1} ')
 
                 ###AAA
@@ -1157,25 +1222,28 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
         else:
             return False
 
-    table_test = pagesoup_input.find_all("div", {"class": "responsive-table"})[1].find_all("tbody")[0]
+    try:
+        table_test = pagesoup_input.find_all("div", {"class": "responsive-table"})[1].find_all("tbody")[0]
 
-    for i in range(0, len(table_test.find_all('tr'))):
-        this_tr_row = table_test.find_all('tr')[i]
-        data_row = this_tr_row.find_all("td", {"class": "zentriert"})
+        for i in range(0, len(table_test.find_all('tr'))):
+            this_tr_row = table_test.find_all('tr')[i]
+            data_row = this_tr_row.find_all("td", {"class": "zentriert"})
 
-        if len(data_row) == 1:
-            pass
-        elif len(data_row) == 7:
-            pass
-        elif len(data_row) == 12:
-            match_date_row = data_row[1].text.strip()
-            #print('this is in the regular date loop', match_date_row, correct_date_obj)
-            if check_date(match_date_row, correct_date_obj):
-                print('it was him')
-                date_found = True
-                return True
-        else:
-            print(i, len(data_row))
+            if len(data_row) == 1:
+                pass
+            elif len(data_row) == 7:
+                pass
+            elif len(data_row) == 12:
+                match_date_row = data_row[1].text.strip()
+                #print('this is in the regular date loop', match_date_row, correct_date_obj)
+                if check_date(match_date_row, correct_date_obj):
+                    print('it was him')
+                    date_found = True
+                    return True
+            else:
+                print(i, len(data_row))
+    except Exception as e:
+        print('there was no national team history', e)
 
     # If not found with the original date format, switch the date format and try again
     if not date_found:
