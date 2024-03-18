@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",5000000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+1,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Néstor Araújo,1800000.0,False,working,False,Néstor Araújo,N Araujo,single
+2,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Rafa Márquez,500000.0,False,working,False,Rafa Márquez,R Marquez,single
+3,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Héctor Moreno,6500000.0,False,working,False,Héctor Moreno,H Moreno,single
+4,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Miguel Layún,3000000.0,False,working,False,Miguel Layún,Layun,single
+5,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Yasser Corona,1500000.0,False,working,False,Yasser Corona,Corona Yasser,single
+6,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,FAIL,0,0.0,True,Lookup Required,False,0,Tecatito,none
+7,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Héctor Herrera,16500000.0,False,working,False,Héctor Herrera,Hec Herrera,single
+8,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Jesús Dueñas,1800000.0,False,working,False,Jesús Dueñas,Duenas,single
+9,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,SUCCESS,Raúl Jiménez,8000000.0,False,working,False,Raúl Jiménez,Raul Jimenez,single
+10,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Mexico,MX,2016,FAIL,Javier Güemez,0.0,True,Was in  DB before or after season,True,Javier Güemez,Javier Hernandez,single
+11,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Andre Blake,200000.0,False,working,False,Andre Blake,Blake,single
+12,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Michael Hector,3000000.0,False,working,False,Michael Hector,Hector,single
+13,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Wes Morgan,1500000.0,False,working,False,Wes Morgan,W Morgan,single
+14,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Adrian Mariappa,2000000.0,False,working,False,Adrian Mariappa,Mariappa,single
+15,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Jermaine Taylor,350000.0,False,working,False,Jermaine Taylor,J Taylor,single
+16,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,"['Giles Barnes', 'Dillon Barnes']",1000000.0,False,working,False,"['Giles Barnes', 'Dillon Barnes']",Barnes,multiple
+17,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Jobi McAnuff,400000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+18,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Je-Vaughn Watson,550000.0,False,working,False,Je-Vaughn Watson,Watson,single
+19,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Lee Williamson,500000.0,False,working,False,Lee Williamson,Williamson,single
+20,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Garath McCleary,1250000.0,False,working,False,Garath McCleary,Mc Cleary,single
+21,1262,Copa America 2016,Mexico vs Jamaica,10.06.16,Jamaica,JM,2016,SUCCESS,Clayton Donaldson,400000.0,False,working,False,Clayton Donaldson,Donaldson,single
+22,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,"['Jesús Corona', 'Yasser Corona']",10000000.0,False,working,False,"['Jesús Corona', 'Yasser Corona']",Corona,multiple
+23,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Diego Reyes,3500000.0,False,working,False,Diego Reyes,D Reyes,single
+24,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Jorge Torres Nilo,2800000.0,False,working,False,Jorge Torres Nilo,Torres Nilo,single
+25,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Héctor Moreno,6500000.0,False,working,False,Héctor Moreno,H Moreno,single
+26,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Paul Aguilar,2800000.0,False,working,False,Paul Aguilar,Aguilar,single
+27,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,"['Hirving Lozano', 'Adrián Lozano']",2800000.0,False,working,False,"['Hirving Lozano', 'Adrián Lozano']",Lozano,multiple
+28,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Javier Aquino,3500000.0,False,working,False,Javier Aquino,Aquino,single
+29,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Héctor Herrera,16500000.0,False,working,False,Héctor Herrera,Hec Herrera,single
+30,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Andrés Guardado,7500000.0,False,working,False,Andrés Guardado,Guardado,single
+31,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Jesús Molina,2500000.0,False,working,False,Jesús Molina,Molina,single
+32,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Mexico,MX,2016,SUCCESS,Oribe Peralta,3500000.0,False,working,False,Oribe Peralta,Peralta,single
+33,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Dani Hernández,800000.0,False,Data Ended before season : 2016,False,Dani Hernández,D Hernández,single
+34,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Wilker Ángel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Wilker Ángel,Angel,single
+35,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Sema Velázquez,300000.0,False,working,False,Sema Velázquez,Jo Velazquez,single
+36,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,"['Frank Feltscher', 'Rolf Feltscher']",400000.0,False,working,False,"['Frank Feltscher', 'Rolf Feltscher']",Feltscher,multiple
+37,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Alexander González,750000.0,False,working,False,Alexander González,Al Gonzalez,single
+38,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Tomás Rincón,8000000.0,False,Used Large Dataset,False,Tomás Rincón,T Rincon,single
+39,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,FAIL,0,0,True,not done yet,False,0,13. Сейяс,cyrillic
+40,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Alejandro Guerra,0.0,False,Large Dataset had 0,False,Alejandro Guerra,Guerra Alejandro,single
+41,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Yonathan Del Valle,1750000.0,False,Used Large Dataset,False,Yonathan Del Valle,Del Valle,single
+42,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Adalberto Peñaranda,3000000.0,False,Used Large Dataset,False,Adalberto Peñaranda,Penaranda,single
+43,1263,Copa America 2016,Mexico vs Venezuela,14.06.16,Venezuela,VE,2016,SUCCESS,Christian Santos,900000.0,False,working,False,Christian Santos,C Santos,single
+44,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Fernando Muslera,17000000.0,False,working,False,Fernando Muslera,Muslera,single
+45,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Martín Silva,0,False,Not in either dataset for currect season but present in both seasons around match,True,Martín Silva,Ma Silva,single
+46,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,José María Giménez,18000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+47,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Diego Godín,38000000.0,False,Used Large Dataset,False,Diego Godín,Godin,single
+48,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Maximiliano Pereira,8000000.0,False,working,False,Maximiliano Pereira,Maxi Pereira,single
+49,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Carlos Sánchez,5000000.0,False,working,False,Carlos Sánchez,C Sanchez,single
+50,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Nicolás Lodeiro,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nicolás Lodeiro,Lodeiro,single
+51,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Egidio Arévalo Ríos,1500000.0,False,working,False,Egidio Arévalo Ríos,Arevalo,single
+52,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Álvaro González,2500000.0,False,working,False,Álvaro González,Álvaro González,single
+53,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Edinson Cavani,42000000.0,False,working,False,Edinson Cavani,Cavani,single
+54,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Uruguay,UY,2016,SUCCESS,Abel Hernández,8000000.0,False,Used Large Dataset,False,Abel Hernández,A Hernandez,single
+55,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Andre Blake,200000.0,False,working,False,Andre Blake,Blake,single
+56,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Michael Hector,3000000.0,False,working,False,Michael Hector,Hector,single
+57,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Wes Morgan,1500000.0,False,working,False,Wes Morgan,W Morgan,single
+58,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Adrian Mariappa,2000000.0,False,working,False,Adrian Mariappa,Mariappa,single
+59,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Jermaine Taylor,350000.0,False,working,False,Jermaine Taylor,J Taylor,single
+60,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,"['Giles Barnes', 'Dillon Barnes']",1000000.0,False,working,False,"['Giles Barnes', 'Dillon Barnes']",Barnes,multiple
+61,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Jobi McAnuff,400000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+62,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Je-Vaughn Watson,550000.0,False,working,False,Je-Vaughn Watson,Watson,single
+63,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Lee Williamson,500000.0,False,working,False,Lee Williamson,Williamson,single
+64,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Garath McCleary,1250000.0,False,working,False,Garath McCleary,Mc Cleary,single
+65,1264,Copa America 2016,Uruguay vs Jamaica,14.06.16,Jamaica,JM,2016,SUCCESS,Clayton Donaldson,400000.0,False,working,False,Clayton Donaldson,Donaldson,single
+66,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Jaime Penedo,450000.0,False,working,False,Jaime Penedo,Penedo,single
+67,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,Cummings,single
+68,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Roderick Miller,5000000.0,False,Used Large Dataset,False,Roderick Miller,R Miller,single
+69,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Adolfo Machado,325000.0,False,working,False,Adolfo Machado,Machado,single
+70,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Felipe Baloy,1000000.0,False,working,False,Felipe Baloy,Baloy,single
+71,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Gabriel Gómez,225000.0,False,working,False,Gabriel Gómez,G Gomez,single
+72,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Armando Cooper,300000.0,False,working,False,Armando Cooper,Cooper,single
+73,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Alberto Quintero,0.0,False,Large Dataset had 0,False,Alberto Quintero,A Quintero,single
+74,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Aníbal Godoy,250000.0,False,working,False,Aníbal Godoy,Godoy,single
+75,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Blas Pérez,750000.0,False,working,False,Blas Pérez,B Perez,single
+76,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Panama,PA,2016,SUCCESS,Gaby Torres,500000.0,False,working,False,Gaby Torres,G Torres,single
+77,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Carlos Lampe,0.0,False,Large Dataset had 0,False,Carlos Lampe,Lampe Carlos,single
+78,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,"['Abraham Cabrera', 'Nelson Cabrera']",275000.0,False,Data Ended before season : 2016,False,"['Abraham Cabrera', 'Nelson Cabrera']",Cabrera,multiple
+79,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Martin Smedberg Dalence,400000.0,False,Data Ended before season : 2016,False,Martin Smedberg Dalence,Smedberg-Dalence,single
+80,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,FAIL,Marvin Bejarano,0,True,Was in  DB before or after season,True,Marvin Bejarano,M Bejarano,single
+81,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Ronald Eguino,-,False,Data Ended before season : 2016,False,Ronald Eguino,Eguino,single
+82,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Edward Zenteno,-,False,Data Ended before season : 2016,False,Edward Zenteno,Zenteno,single
+83,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Danny Bejarano,250000.0,False,working,False,Danny Bejarano,Da Bejarano,single
+84,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Pedro Azogue,0.0,False,Large Dataset had 0,False,Pedro Azogue,Azogue,single
+85,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,FAIL,"['Carlos Saucedo', 'Fernando Saucedo']",0,True,Online Lookup Required,False,"['Carlos Saucedo', 'Fernando Saucedo']",M Saucedo,multiple
+86,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,SUCCESS,Juan Carlos Arce,500000.0,False,working,False,Juan Carlos Arce,Arce,single
+87,1265,Copa America 2016,Panama vs Bolivia,07.06.16,Bolivia,BO,2016,FAIL,Yasmani Duk,0,True,Was in  DB before or after season,True,Yasmani Duk,Duk,single
+88,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,"['Sergio Romero', 'Cristian Romero']",5000000.0,False,working,False,"['Sergio Romero', 'Cristian Romero']",Romero,multiple
+89,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Gabriel Mercado,2500000.0,False,working,False,Gabriel Mercado,Mercado,single
+90,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Ramiro Funes Mori,12000000.0,False,Used Large Dataset,False,Ramiro Funes Mori,Funes Mori,single
+91,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Marcos Rojo,18000000.0,False,Used Large Dataset,False,Marcos Rojo,Rojo,single
+92,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Nicolás Otamendi,32000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+93,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Ángel Di María,50000000.0,False,working,False,Ángel Di María,Di Maria,single
+94,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Augusto Fernández,4000000.0,False,Used Large Dataset,False,Augusto Fernández,A Fernandez,single
+95,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Javier Mascherano,8000000.0,False,Used Large Dataset,False,Javier Mascherano,Mascherano,single
+96,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Éver Banega,15000000.0,False,working,False,Éver Banega,Banega,single
+97,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Gonzalo Higuaín,47000000.0,False,working,False,Gonzalo Higuaín,Higuain,single
+98,1266,Copa America 2016,Argentina vs Chile,07.06.16,Argentina,AR,2016,SUCCESS,Nico Gaitán,20000000.0,False,Used Large Dataset,False,Nico Gaitán,Gaitán,single
+99,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",15000000.0,False,working,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+100,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Eugenio Mena,2750000.0,False,working,False,Eugenio Mena,Mena,single
+101,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Mauricio Isla,7000000.0,False,working,False,Mauricio Isla,Isla,single
+102,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,"['Gonzalo Jara', 'Ignacio Jara']",1000000.0,False,working,False,"['Gonzalo Jara', 'Ignacio Jara']",Jara,multiple
+103,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Arturo Vidal,42000000.0,False,working,False,Arturo Vidal,Vidal,single
+104,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Jean Beausejour,4000000.0,False,working,False,Jean Beausejour,Beausejour,single
+105,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,"['Gary Medel', 'Marco Medel']",12000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+106,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Charles Aránguiz,9500000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+107,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Marcelo Díaz,2500000.0,False,working,False,Marcelo Díaz,M Diaz,single
+108,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,Alexis Sánchez,55000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+109,1266,Copa America 2016,Argentina vs Chile,07.06.16,Chile,CL,2016,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",6000000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+110,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",15000000.0,False,working,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+111,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Mauricio Isla,7000000.0,False,working,False,Mauricio Isla,Isla,single
+112,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,"['Gonzalo Jara', 'Ignacio Jara']",1000000.0,False,working,False,"['Gonzalo Jara', 'Ignacio Jara']",Jara,multiple
+113,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Arturo Vidal,42000000.0,False,working,False,Arturo Vidal,Vidal,single
+114,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Jean Beausejour,4000000.0,False,working,False,Jean Beausejour,Beausejour,single
+115,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,"['Gary Medel', 'Marco Medel']",12000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+116,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Charles Aránguiz,9500000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+117,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Pablo Hernández,3000000.0,False,working,False,Pablo Hernández,Pablo Hernandez,single
+118,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Alexis Sánchez,55000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+119,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Mauricio Pinilla,800000.0,False,Used Large Dataset,False,Mauricio Pinilla,Pinilla,single
+120,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Chile,CL,2016,SUCCESS,Fabián Orellana,3000000.0,False,Used Large Dataset,False,Fabián Orellana,Orellana,single
+121,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Carlos Lampe,0.0,False,Large Dataset had 0,False,Carlos Lampe,Lampe Carlos,single
+122,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Erwin Saavedra,0,False,Not in either dataset for currect season but present in both seasons around match,True,Erwin Saavedra,Saavedra,single
+123,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Luis Gutiérrez,0.0,False,Large Dataset had 0,False,Luis Gutiérrez,L Gutierrez,single
+124,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Martin Smedberg Dalence,400000.0,False,Data Ended before season : 2016,False,Martin Smedberg Dalence,Smedberg-Dalence,single
+125,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,FAIL,Marvin Bejarano,0,True,Was in  DB before or after season,True,Marvin Bejarano,M Bejarano,single
+126,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Ronald Eguino,-,False,Data Ended before season : 2016,False,Ronald Eguino,Eguino,single
+127,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Edward Zenteno,-,False,Data Ended before season : 2016,False,Edward Zenteno,Zenteno,single
+128,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,FAIL,Alejandro Meleán,0,True,Was in  DB before or after season,True,Alejandro Meleán,Melean,single
+129,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Raúl Castro,0.0,False,Large Dataset had 0,False,Raúl Castro,Ra Castro,single
+130,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,SUCCESS,Juan Carlos Arce,500000.0,False,working,False,Juan Carlos Arce,Arce,single
+131,1267,Copa America 2016,Chile vs Bolivia,11.06.16,Bolivia,BO,2016,FAIL,Yasmani Duk,0,True,Was in  DB before or after season,True,Yasmani Duk,Duk,single
+132,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,"['Sergio Romero', 'Cristian Romero']",5000000.0,False,working,False,"['Sergio Romero', 'Cristian Romero']",Romero,multiple
+133,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Gabriel Mercado,2500000.0,False,working,False,Gabriel Mercado,Mercado,single
+134,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Ramiro Funes Mori,12000000.0,False,Used Large Dataset,False,Ramiro Funes Mori,Funes Mori,single
+135,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Marcos Rojo,18000000.0,False,Used Large Dataset,False,Marcos Rojo,Rojo,single
+136,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Nicolás Otamendi,32000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+137,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Ángel Di María,50000000.0,False,working,False,Ángel Di María,Di Maria,single
+138,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Augusto Fernández,4000000.0,False,Used Large Dataset,False,Augusto Fernández,A Fernandez,single
+139,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Javier Mascherano,8000000.0,False,Used Large Dataset,False,Javier Mascherano,Mascherano,single
+140,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Éver Banega,15000000.0,False,working,False,Éver Banega,Banega,single
+141,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Gonzalo Higuaín,47000000.0,False,working,False,Gonzalo Higuaín,Higuain,single
+142,1268,Copa America 2016,Argentina vs Panama,11.06.16,Argentina,AR,2016,SUCCESS,Nico Gaitán,20000000.0,False,Used Large Dataset,False,Nico Gaitán,Gaitán,single
+143,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Jaime Penedo,450000.0,False,working,False,Jaime Penedo,Penedo,single
+144,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Roderick Miller,5000000.0,False,Used Large Dataset,False,Roderick Miller,R Miller,single
+145,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Adolfo Machado,325000.0,False,working,False,Adolfo Machado,Machado,single
+146,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Luis Henríquez,250000.0,False,working,False,Luis Henríquez,L Henriquez,single
+147,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Felipe Baloy,1000000.0,False,working,False,Felipe Baloy,Baloy,single
+148,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Gabriel Gómez,225000.0,False,working,False,Gabriel Gómez,G Gomez,single
+149,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Armando Cooper,300000.0,False,working,False,Armando Cooper,Cooper,single
+150,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Valentín Pimentel,0.0,False,Large Dataset had 0,False,Valentín Pimentel,Pimentel,single
+151,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Alberto Quintero,0.0,False,Large Dataset had 0,False,Alberto Quintero,A Quintero,single
+152,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Aníbal Godoy,250000.0,False,working,False,Aníbal Godoy,Godoy,single
+153,1268,Copa America 2016,Argentina vs Panama,11.06.16,Panama,PA,2016,SUCCESS,Blas Pérez,750000.0,False,working,False,Blas Pérez,B Perez,single
+154,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",15000000.0,False,working,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+155,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Mauricio Isla,7000000.0,False,working,False,Mauricio Isla,Isla,single
+156,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,"['Gonzalo Jara', 'Ignacio Jara']",1000000.0,False,working,False,"['Gonzalo Jara', 'Ignacio Jara']",Jara,multiple
+157,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,José Pedro Fuenzalida,600000.0,False,working,False,José Pedro Fuenzalida,Fuenzalida,single
+158,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Arturo Vidal,42000000.0,False,working,False,Arturo Vidal,Vidal,single
+159,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Jean Beausejour,4000000.0,False,working,False,Jean Beausejour,Beausejour,single
+160,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,"['Gary Medel', 'Marco Medel']",12000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+161,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Charles Aránguiz,9500000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+162,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Marcelo Díaz,2500000.0,False,working,False,Marcelo Díaz,M Diaz,single
+163,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,Alexis Sánchez,55000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+164,1269,Copa America 2016,Chile vs Panama,15.06.16,Chile,CL,2016,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",6000000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+165,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Jaime Penedo,450000.0,False,working,False,Jaime Penedo,Penedo,single
+166,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,Cummings,single
+167,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Roderick Miller,5000000.0,False,Used Large Dataset,False,Roderick Miller,R Miller,single
+168,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Adolfo Machado,325000.0,False,working,False,Adolfo Machado,Machado,single
+169,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Luis Henríquez,250000.0,False,working,False,Luis Henríquez,L Henriquez,single
+170,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Miguel Camargo,0.0,False,Large Dataset had 0,False,Miguel Camargo,Camargo,single
+171,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Gabriel Gómez,225000.0,False,working,False,Gabriel Gómez,G Gomez,single
+172,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Alberto Quintero,0.0,False,Large Dataset had 0,False,Alberto Quintero,A Quintero,single
+173,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luis Henríquez', 'Amílcar Henríquez']",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+174,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,Roberto Nurse,800000.0,False,working,False,Roberto Nurse,Nurse,single
+175,1269,Copa America 2016,Chile vs Panama,15.06.16,Panama,PA,2016,SUCCESS,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",175000.0,False,working,False,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",Tejada,multiple
+176,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,"['Sergio Romero', 'Cristian Romero']",5000000.0,False,working,False,"['Sergio Romero', 'Cristian Romero']",Romero,multiple
+177,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Facundo Roncaglia,5000000.0,False,Used Large Dataset,False,Facundo Roncaglia,Roncaglia,single
+178,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Ramiro Funes Mori,12000000.0,False,Used Large Dataset,False,Ramiro Funes Mori,Funes Mori,single
+179,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Victor Cuesta,150000.0,False,Data Ended before season : 2016,False,Victor Cuesta,Cuesta,single
+180,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Nicolás Otamendi,32000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+181,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Matías Kranevitter,6000000.0,False,Used Large Dataset,False,Matías Kranevitter,Kranevitter,single
+182,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Éver Banega,15000000.0,False,working,False,Éver Banega,Banega,single
+183,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Erik Lamela,25000000.0,False,Used Large Dataset,False,Erik Lamela,Lamela,single
+184,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Gonzalo Higuaín,47000000.0,False,working,False,Gonzalo Higuaín,Higuain,single
+185,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Sergio Agüero,65000000.0,False,Used Large Dataset,False,Sergio Agüero,Aguero,single
+186,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Argentina,AR,2016,SUCCESS,Ezequiel Lavezzi,20000000.0,False,Data Ended before season : 2016,False,Ezequiel Lavezzi,Lavezzi,single
+187,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Carlos Lampe,0.0,False,Large Dataset had 0,False,Carlos Lampe,Lampe Carlos,single
+188,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Erwin Saavedra,0,False,Not in either dataset for currect season but present in both seasons around match,True,Erwin Saavedra,Saavedra,single
+189,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Luis Gutiérrez,0.0,False,Large Dataset had 0,False,Luis Gutiérrez,L Gutierrez,single
+190,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,"['Abraham Cabrera', 'Nelson Cabrera']",275000.0,False,Data Ended before season : 2016,False,"['Abraham Cabrera', 'Nelson Cabrera']",Cabrera,multiple
+191,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Martin Smedberg Dalence,400000.0,False,Data Ended before season : 2016,False,Martin Smedberg Dalence,Smedberg-Dalence,single
+192,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Edward Zenteno,-,False,Data Ended before season : 2016,False,Edward Zenteno,Zenteno,single
+193,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Jhasmani Campos,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jhasmani Campos,Campos,single
+194,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,FAIL,Alejandro Meleán,0,True,Was in  DB before or after season,True,Alejandro Meleán,Melean,single
+195,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Pedro Azogue,0.0,False,Large Dataset had 0,False,Pedro Azogue,Azogue,single
+196,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,SUCCESS,Juan Carlos Arce,500000.0,False,working,False,Juan Carlos Arce,Arce,single
+197,1270,Copa America 2016,Argentina vs Bolivia,15.06.16,Bolivia,BO,2016,FAIL,Yasmani Duk,0,True,Was in  DB before or after season,True,Yasmani Duk,Duk,single
+198,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Alisson,65000000.0,False,working,False,Alisson,Alisson,single
+199,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Marquinhos,60000000.0,False,working,False,Marquinhos,Marquinhos,single
+200,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Dani Alves,3000000.0,False,working,False,Dani Alves,Daniel Alves,single
+201,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Thiago Silva,10000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+202,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Alex Sandro,50000000.0,False,working,False,Alex Sandro,Alex Sandro,single
+203,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Casemiro,70000000.0,False,working,False,Casemiro,Casimiro,single
+204,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Philippe Coutinho,140000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+205,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Roberto Firmino,80000000.0,False,working,False,Roberto Firmino,Firmino,single
+206,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Arthur Melo,50000000.0,False,working,False,Arthur Melo,Arthur Melo,single
+207,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,Gabriel Jesus,70000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+208,1272,Copa America 2019,Brazil vs Peru,07.07.19,Brazil,BR,2019,SUCCESS,"['Everton', 'Everton Ribeiro']",7000000.0,False,working,False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+209,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+210,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+211,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+212,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+213,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Carlos Zambrano,1500000.0,False,working,False,Carlos Zambrano,Zambrano,single
+214,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+215,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+216,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+217,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+218,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,André Carrillo,6000000.0,False,working,False,André Carrillo,Carrillo,single
+219,1272,Copa America 2019,Brazil vs Peru,07.07.19,Peru,PE,2019,SUCCESS,Edison Flores,400000.0,False,working,False,Edison Flores,Ed Flores,single
+220,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Franco Armani,7500000.0,False,working,False,Franco Armani,Armani,single
+221,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Juan Foyth,8000000.0,False,working,False,Juan Foyth,Foyth,single
+222,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Nicolás Tagliafico,20000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+223,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Germán Pezzella,20000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+224,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Nicolás Otamendi,35000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+225,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Leandro Paredes,25000000.0,False,working,False,Leandro Paredes,L Paredes,single
+226,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Rodrigo de Paul,18000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+227,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Giovani Lo Celso,30000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+228,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Sergio Agüero,75000000.0,False,working,False,Sergio Agüero,Aguero,single
+229,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Lionel Messi,160000000.0,False,working,False,Lionel Messi,Messi,single
+230,1273,Copa America 2019,Argentina vs Chile,06.07.19,Argentina,AR,2019,SUCCESS,Paulo Dybala,110000000.0,False,working,False,Paulo Dybala,Dybala,single
+231,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+232,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Mauricio Isla,2000000.0,False,working,False,Mauricio Isla,Isla,single
+233,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,FAIL,0,0,True,not done yet,False,0,5. Диас П.,cyrillic
+234,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+235,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,"['Gonzalo Jara', 'Ignacio Jara']",700000.0,False,Data Ended before season : 2019,False,"['Gonzalo Jara', 'Ignacio Jara']",Jara,multiple
+236,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+237,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Arturo Vidal,20000000.0,False,working,False,Arturo Vidal,Vidal,single
+238,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Jean Beausejour,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean Beausejour,Beausejour,single
+239,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+240,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+241,1273,Copa America 2019,Argentina vs Chile,06.07.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+242,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+243,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+244,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+245,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+246,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+247,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+248,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+249,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+250,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+251,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+252,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Brazil,BR,2019,FAIL,-,0,False,Null Name,False,,-,none
+253,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+254,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+255,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+256,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+257,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+258,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+259,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+260,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+261,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+262,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+263,1274,Copa America 2019,Brazil vs Argentina,03.07.19,Argentina,AR,2019,FAIL,-,0,False,Null Name,False,,-,none
+264,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+265,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Guillermo Maripán,3000000.0,False,working,False,Guillermo Maripán,Maripán,single
+266,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Mauricio Isla,2000000.0,False,working,False,Mauricio Isla,Isla,single
+267,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+268,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+269,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,José Pedro Fuenzalida,0,False,Not in either dataset for currect season but present in both seasons around match,True,José Pedro Fuenzalida,Fuenzalida,single
+270,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Arturo Vidal,20000000.0,False,working,False,Arturo Vidal,Vidal,single
+271,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Jean Beausejour,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean Beausejour,Beausejour,single
+272,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+273,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+274,1275,Copa America 2019,Chile vs Peru,04.07.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+275,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+276,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+277,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+278,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+279,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Carlos Zambrano,1500000.0,False,working,False,Carlos Zambrano,Zambrano,single
+280,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+281,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+282,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+283,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+284,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,André Carrillo,6000000.0,False,working,False,André Carrillo,Carrillo,single
+285,1275,Copa America 2019,Chile vs Peru,04.07.19,Peru,PE,2019,SUCCESS,Edison Flores,400000.0,False,working,False,Edison Flores,Ed Flores,single
+286,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Alisson,65000000.0,False,working,False,Alisson,Alisson,single
+287,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Marquinhos,60000000.0,False,working,False,Marquinhos,Marquinhos,single
+288,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Filipe Luís,18000000.0,False,Data Ended before season : 2019,False,Filipe Luís,L Filipe,single
+289,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Dani Alves,3000000.0,False,working,False,Dani Alves,Daniel Alves,single
+290,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Thiago Silva,10000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+291,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Philippe Coutinho,140000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+292,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Allan,50000000.0,False,working,False,Allan,Allan,single
+293,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Roberto Firmino,80000000.0,False,working,False,Roberto Firmino,Firmino,single
+294,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Arthur Melo,50000000.0,False,working,False,Arthur Melo,Arthur Melo,single
+295,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,Gabriel Jesus,70000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+296,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Brazil,BR,2019,SUCCESS,"['Everton', 'Everton Ribeiro']",7000000.0,False,working,False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+297,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Gatito Fernández,2500000.0,False,working,False,Gatito Fernández,Gatito Fernández,single
+298,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Iván Piris,1250000.0,False,working,False,Iván Piris,I Piris,single
+299,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,"['Fabián Balbuena', 'Nery Balbuena']",6000000.0,False,working,False,"['Fabián Balbuena', 'Nery Balbuena']",Balbuena,multiple
+300,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Júnior Alonso,3000000.0,False,working,False,Júnior Alonso,J Alonso,single
+301,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",100000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+302,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Gustavo Gómez,4000000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+303,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Celso Ortiz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Celso Ortiz,C Ortiz,single
+304,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Hernán Pérez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Hernán Pérez,Her Perez,single
+305,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Miguel Almirón,15000000.0,False,working,False,Miguel Almirón,Almirón,single
+306,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Richard Sánchez,0.0,False,Large Dataset had 0,False,Richard Sánchez,R Sanchez,single
+307,1276,Copa America 2019,Brazil vs Paraguay,28.06.19,Paraguay,PY,2019,SUCCESS,Derlis González,4500000.0,False,working,False,Derlis González,D Gonzalez,single
+308,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+309,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Jhon Chancellor,750000.0,False,working,False,Jhon Chancellor,Chancellor,single
+310,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Luis Mago,400000.0,False,working,False,Luis Mago,Mago,single
+311,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Roberto Rosales,2000000.0,False,working,False,Roberto Rosales,Rosales,single
+312,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Ronald Hernández,300000.0,False,working,False,Ronald Hernández,R Hernández,single
+313,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,"['Júnior Moreno', 'Johan Moreno']",650000.0,False,working,False,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+314,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Yangel Herrera,1000000.0,False,working,False,Yangel Herrera,Ya Herrera,single
+315,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Tomás Rincón,8000000.0,False,working,False,Tomás Rincón,T Rincon,single
+316,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Jhon Murillo,1200000.0,False,working,False,Jhon Murillo,J Murillo,single
+317,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Darwin Machís,2500000.0,False,working,False,Darwin Machís,Machis,single
+318,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Ronaldo Lucena,650000.0,False,Data Ended before season : 2019,False,Ronaldo Lucena,Rondon,single
+319,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Franco Armani,7500000.0,False,working,False,Franco Armani,Armani,single
+320,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Juan Foyth,8000000.0,False,working,False,Juan Foyth,Foyth,single
+321,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Nicolás Tagliafico,20000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+322,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Germán Pezzella,20000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+323,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Nicolás Otamendi,35000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+324,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Leandro Paredes,25000000.0,False,working,False,Leandro Paredes,L Paredes,single
+325,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Marcos Acuña,15000000.0,False,working,False,Marcos Acuña,Acuña,single
+326,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Rodrigo de Paul,18000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+327,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Sergio Agüero,75000000.0,False,working,False,Sergio Agüero,Aguero,single
+328,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,Lionel Messi,160000000.0,False,working,False,Lionel Messi,Messi,single
+329,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Argentina,AR,2019,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",25000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+330,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,David Ospina,5000000.0,False,working,False,David Ospina,Ospina,single
+331,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Stefan Medina,3500000.0,False,working,False,Stefan Medina,Medina,single
+332,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+333,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,William Tesillo,1800000.0,False,working,False,William Tesillo,Tesillo,single
+334,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Yerry Mina,30000000.0,False,working,False,Yerry Mina,Mina,single
+335,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Wilmar Barrios,12000000.0,False,working,False,Wilmar Barrios,Barrios,single
+336,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,James Rodríguez,32000000.0,False,Used Large Dataset,False,James Rodríguez,J Rodríguez,single
+337,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Mateus Uribe,7500000.0,False,working,False,Mateus Uribe,Uribe,single
+338,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",25000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+339,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Radamel Falcao,4800000.0,False,Used Large Dataset,False,Radamel Falcao,Falcao,single
+340,1278,Copa America 2019,Colombia vs Chile,29.06.19,Colombia,CO,2019,SUCCESS,Roger Martínez,5000000.0,False,working,False,Roger Martínez,R Martínez,single
+341,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+342,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Guillermo Maripán,3000000.0,False,working,False,Guillermo Maripán,Maripán,single
+343,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Mauricio Isla,2000000.0,False,working,False,Mauricio Isla,Isla,single
+344,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+345,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+346,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,José Pedro Fuenzalida,0,False,Not in either dataset for currect season but present in both seasons around match,True,José Pedro Fuenzalida,Fuenzalida,single
+347,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Arturo Vidal,20000000.0,False,working,False,Arturo Vidal,Vidal,single
+348,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Jean Beausejour,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean Beausejour,Beausejour,single
+349,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+350,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+351,1278,Copa America 2019,Colombia vs Chile,29.06.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+352,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Fernando Muslera,6000000.0,False,working,False,Fernando Muslera,Muslera,single
+353,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,José María Giménez,50000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+354,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Diego Godín,25000000.0,False,working,False,Diego Godín,Godin,single
+355,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,"['Martín Cáceres', 'Sebastián Cáceres']",3000000.0,False,working,False,"['Martín Cáceres', 'Sebastián Cáceres']",Cáceres,multiple
+356,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Giovanni González,450000.0,False,working,False,Giovanni González,Gi González,single
+357,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Nahitan Nández,12500000.0,False,working,False,Nahitan Nández,N Nandez,single
+358,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Giorgian de Arrascaeta,9000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+359,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Edinson Cavani,55000000.0,False,working,False,Edinson Cavani,Cavani,single
+360,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Rodrigo Bentancur,35000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+361,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Federico Valverde,6000000.0,False,working,False,Federico Valverde,F Valverde,single
+362,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Uruguay,UY,2019,SUCCESS,Luis Suárez,60000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+363,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+364,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+365,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+366,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+367,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Carlos Zambrano,1500000.0,False,working,False,Carlos Zambrano,Zambrano,single
+368,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+369,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+370,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+371,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+372,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,André Carrillo,6000000.0,False,working,False,André Carrillo,Carrillo,single
+373,1279,Copa America 2019,Uruguay vs Peru,29.06.19,Peru,PE,2019,SUCCESS,Edison Flores,400000.0,False,working,False,Edison Flores,Ed Flores,single
+374,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Alisson,65000000.0,False,working,False,Alisson,Alisson,single
+375,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Marquinhos,60000000.0,False,working,False,Marquinhos,Marquinhos,single
+376,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Filipe Luís,18000000.0,False,Data Ended before season : 2019,False,Filipe Luís,L Filipe,single
+377,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Dani Alves,3000000.0,False,working,False,Dani Alves,Daniel Alves,single
+378,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Thiago Silva,10000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+379,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Casemiro,70000000.0,False,working,False,Casemiro,Casimiro,single
+380,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Philippe Coutinho,140000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+381,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Roberto Firmino,80000000.0,False,working,False,Roberto Firmino,Firmino,single
+382,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Fernandinho,8000000.0,False,Used Large Dataset,False,Fernandinho,Fernandinho,single
+383,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,David Neres,25000000.0,False,working,False,David Neres,Neres,single
+384,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Brazil,BR,2019,SUCCESS,Richarlison,45000000.0,False,working,False,Richarlison,Richarlison,single
+385,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Carlos Lampe,250000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+386,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Luis Haquín,0.0,False,Large Dataset had 0,False,Luis Haquín,Haquin,single
+387,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Erwin Saavedra,600000.0,False,working,False,Erwin Saavedra,Saavedra,single
+388,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Marvin Bejarano,400000.0,False,working,False,Marvin Bejarano,M Bejarano,single
+389,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Adrián Jusino,150000.0,False,working,False,Adrián Jusino,Jusino,single
+390,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Alejandro Chumacero,1800000.0,False,working,False,Alejandro Chumacero,Chumacero,single
+391,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Danny Bejarano,500000.0,False,working,False,Danny Bejarano,Da Bejarano,single
+392,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Raúl Castro,500000.0,False,working,False,Raúl Castro,Ra Castro,single
+393,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Fernando Saucedo,450000.0,False,working,False,Fernando Saucedo,F Saucedo,single
+394,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",250000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+395,1280,Copa America 2019,Brazil vs Bolivia,15.06.19,Bolivia,BO,2019,SUCCESS,Marcelo Moreno,1600000.0,False,working,False,Marcelo Moreno,M Moreno,single
+396,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+397,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Mikel Villanueva,600000.0,False,working,False,Mikel Villanueva,Villanueva,single
+398,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Jhon Chancellor,750000.0,False,working,False,Jhon Chancellor,Chancellor,single
+399,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Luis Mago,400000.0,False,working,False,Luis Mago,Mago,single
+400,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Roberto Rosales,2000000.0,False,working,False,Roberto Rosales,Rosales,single
+401,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,"['Júnior Moreno', 'Johan Moreno']",650000.0,False,working,False,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+402,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Yangel Herrera,1000000.0,False,working,False,Yangel Herrera,Ya Herrera,single
+403,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Tomás Rincón,8000000.0,False,working,False,Tomás Rincón,T Rincon,single
+404,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Jefferson Savarino,1250000.0,False,working,False,Jefferson Savarino,Savarino,single
+405,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Jhon Murillo,1200000.0,False,working,False,Jhon Murillo,J Murillo,single
+406,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Ronaldo Lucena,650000.0,False,Data Ended before season : 2019,False,Ronaldo Lucena,Rondon,single
+407,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+408,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+409,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+410,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+411,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Carlos Zambrano,1500000.0,False,working,False,Carlos Zambrano,Zambrano,single
+412,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+413,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+414,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,"['Christofer Gonzales', 'Jairsinho Gonzales']",450000.0,False,working,False,"['Christofer Gonzales', 'Jairsinho Gonzales']",C-r Gonzáles,multiple
+415,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+416,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+417,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Peru,PE,2019,SUCCESS,Jefferson Farfán,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jefferson Farfán,Farfan,single
+418,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Carlos Lampe,250000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+419,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Luis Haquín,0.0,False,Large Dataset had 0,False,Luis Haquín,Haquin,single
+420,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Erwin Saavedra,600000.0,False,working,False,Erwin Saavedra,Saavedra,single
+421,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Marvin Bejarano,400000.0,False,working,False,Marvin Bejarano,M Bejarano,single
+422,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Adrián Jusino,150000.0,False,working,False,Adrián Jusino,Jusino,single
+423,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Alejandro Chumacero,1800000.0,False,working,False,Alejandro Chumacero,Chumacero,single
+424,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Danny Bejarano,500000.0,False,working,False,Danny Bejarano,Da Bejarano,single
+425,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Raúl Castro,500000.0,False,working,False,Raúl Castro,Ra Castro,single
+426,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Fernando Saucedo,450000.0,False,working,False,Fernando Saucedo,F Saucedo,single
+427,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",250000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+428,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Bolivia,BO,2019,SUCCESS,Marcelo Moreno,1600000.0,False,working,False,Marcelo Moreno,M Moreno,single
+429,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+430,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+431,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+432,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+433,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Carlos Zambrano,1500000.0,False,working,False,Carlos Zambrano,Zambrano,single
+434,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+435,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+436,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+437,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Andy Polo,800000.0,False,working,False,Andy Polo,Polo,single
+438,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+439,1282,Copa America 2019,Bolivia vs Peru,19.06.19,Peru,PE,2019,SUCCESS,Jefferson Farfán,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jefferson Farfán,Farfan,single
+440,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Alisson,65000000.0,False,working,False,Alisson,Alisson,single
+441,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Marquinhos,60000000.0,False,working,False,Marquinhos,Marquinhos,single
+442,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Filipe Luís,18000000.0,False,Data Ended before season : 2019,False,Filipe Luís,L Filipe,single
+443,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Dani Alves,3000000.0,False,working,False,Dani Alves,Daniel Alves,single
+444,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Thiago Silva,10000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+445,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Casemiro,70000000.0,False,working,False,Casemiro,Casimiro,single
+446,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Philippe Coutinho,140000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+447,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Roberto Firmino,80000000.0,False,working,False,Roberto Firmino,Firmino,single
+448,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Arthur Melo,50000000.0,False,working,False,Arthur Melo,Arthur Melo,single
+449,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,David Neres,25000000.0,False,working,False,David Neres,Neres,single
+450,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Brazil,BR,2019,SUCCESS,Richarlison,45000000.0,False,working,False,Richarlison,Richarlison,single
+451,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+452,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Mikel Villanueva,600000.0,False,working,False,Mikel Villanueva,Villanueva,single
+453,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Roberto Rosales,2000000.0,False,working,False,Roberto Rosales,Rosales,single
+454,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Ronald Hernández,300000.0,False,working,False,Ronald Hernández,R Hernández,single
+455,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,"['Júnior Moreno', 'Johan Moreno']",650000.0,False,working,False,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+456,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Yangel Herrera,1000000.0,False,working,False,Yangel Herrera,Ya Herrera,single
+457,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Tomás Rincón,8000000.0,False,working,False,Tomás Rincón,T Rincon,single
+458,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Jhon Murillo,1200000.0,False,working,False,Jhon Murillo,J Murillo,single
+459,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Yordan Osorio,1000000.0,False,working,False,Yordan Osorio,Y Osorio,single
+460,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Darwin Machís,2500000.0,False,working,False,Darwin Machís,Machis,single
+461,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Ronaldo Lucena,650000.0,False,Data Ended before season : 2019,False,Ronaldo Lucena,Rondon,single
+462,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Carlos Lampe,250000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+463,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Luis Haquín,0.0,False,Large Dataset had 0,False,Luis Haquín,Haquin,single
+464,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Marvin Bejarano,400000.0,False,working,False,Marvin Bejarano,M Bejarano,single
+465,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Adrián Jusino,150000.0,False,working,False,Adrián Jusino,Jusino,single
+466,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Danny Bejarano,500000.0,False,working,False,Danny Bejarano,Da Bejarano,single
+467,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Cristian Arano,0.0,False,Large Dataset had 0,False,Cristian Arano,Arano,single
+468,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Fernando Saucedo,450000.0,False,working,False,Fernando Saucedo,F Saucedo,single
+469,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",250000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+470,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,FAIL,0,0,True,not done yet,False,0,19. Вака Р.,cyrillic
+471,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Leonardo Vaca,0.0,False,Large Dataset had 0,False,Leonardo Vaca,L Vaca,single
+472,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Bolivia,BO,2019,SUCCESS,Marcelo Moreno,1600000.0,False,working,False,Marcelo Moreno,M Moreno,single
+473,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+474,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Jhon Chancellor,750000.0,False,working,False,Jhon Chancellor,Chancellor,single
+475,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Luis Mago,400000.0,False,working,False,Luis Mago,Mago,single
+476,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Roberto Rosales,2000000.0,False,working,False,Roberto Rosales,Rosales,single
+477,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Ronald Hernández,300000.0,False,working,False,Ronald Hernández,R Hernández,single
+478,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,"['Júnior Moreno', 'Johan Moreno']",650000.0,False,working,False,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+479,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Tomás Rincón,8000000.0,False,working,False,Tomás Rincón,T Rincon,single
+480,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Jefferson Savarino,1250000.0,False,working,False,Jefferson Savarino,Savarino,single
+481,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Juanpi,1500000.0,False,working,False,Juanpi,Juanpi,single
+482,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Darwin Machís,2500000.0,False,working,False,Darwin Machís,Machis,single
+483,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Ronaldo Lucena,650000.0,False,Data Ended before season : 2019,False,Ronaldo Lucena,Rondon,single
+484,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Pedro Gallese,1500000.0,False,working,False,Pedro Gallese,Gallese,single
+485,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Luis Abram,1000000.0,False,working,False,Luis Abram,L Abram,single
+486,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Miguel Araujo,675000.0,False,Used Large Dataset,False,Miguel Araujo,M Araujo,single
+487,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Miguel Trauco,1750000.0,False,working,False,Miguel Trauco,Trauco,single
+488,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Yoshimar Yotún,1000000.0,False,working,False,Yoshimar Yotún,Yotun,single
+489,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Christian Cueva,5000000.0,False,working,False,Christian Cueva,Cueva,single
+490,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+491,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+492,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Andy Polo,800000.0,False,working,False,Andy Polo,Polo,single
+493,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",3000000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+494,1285,Copa America 2019,Peru vs Brazil,22.06.19,Peru,PE,2019,SUCCESS,Jefferson Farfán,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jefferson Farfán,Farfan,single
+495,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Alisson,65000000.0,False,working,False,Alisson,Alisson,single
+496,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Marquinhos,60000000.0,False,working,False,Marquinhos,Marquinhos,single
+497,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Filipe Luís,18000000.0,False,Data Ended before season : 2019,False,Filipe Luís,L Filipe,single
+498,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Dani Alves,3000000.0,False,working,False,Dani Alves,Daniel Alves,single
+499,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Thiago Silva,10000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+500,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Casemiro,70000000.0,False,working,False,Casemiro,Casimiro,single
+501,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Philippe Coutinho,140000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+502,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Roberto Firmino,80000000.0,False,working,False,Roberto Firmino,Firmino,single
+503,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Arthur Melo,50000000.0,False,working,False,Arthur Melo,Arthur Melo,single
+504,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,Gabriel Jesus,70000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+505,1285,Copa America 2019,Peru vs Brazil,22.06.19,Brazil,BR,2019,SUCCESS,"['Everton', 'Everton Ribeiro']",7000000.0,False,working,False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+506,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Franco Armani,7500000.0,False,working,False,Franco Armani,Armani,single
+507,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Nicolás Tagliafico,20000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+508,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Germán Pezzella,20000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+509,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Nicolás Otamendi,35000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+510,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Renzo Saravia,5000000.0,False,working,False,Renzo Saravia,Saravia,single
+511,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,"['Gonzalo Rodríguez', 'Guido Rodríguez']",7500000.0,False,working,False,"['Gonzalo Rodríguez', 'Guido Rodríguez']",G Rodríguez,multiple
+512,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Leandro Paredes,25000000.0,False,working,False,Leandro Paredes,L Paredes,single
+513,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Ángel Di María,32000000.0,False,Used Large Dataset,False,Ángel Di María,Di Maria,single
+514,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Giovani Lo Celso,30000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+515,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Sergio Agüero,75000000.0,False,working,False,Sergio Agüero,Aguero,single
+516,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Argentina,AR,2019,SUCCESS,Lionel Messi,160000000.0,False,working,False,Lionel Messi,Messi,single
+517,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,David Ospina,5000000.0,False,working,False,David Ospina,Ospina,single
+518,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Stefan Medina,3500000.0,False,working,False,Stefan Medina,Medina,single
+519,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+520,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,William Tesillo,1800000.0,False,working,False,William Tesillo,Tesillo,single
+521,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Yerry Mina,30000000.0,False,working,False,Yerry Mina,Mina,single
+522,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Wilmar Barrios,12000000.0,False,working,False,Wilmar Barrios,Barrios,single
+523,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,James Rodríguez,32000000.0,False,Used Large Dataset,False,James Rodríguez,J Rodríguez,single
+524,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Mateus Uribe,7500000.0,False,working,False,Mateus Uribe,Uribe,single
+525,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",25000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+526,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Radamel Falcao,4800000.0,False,Used Large Dataset,False,Radamel Falcao,Falcao,single
+527,1286,Copa America 2019,Argentina vs Colombia,16.06.19,Colombia,CO,2019,SUCCESS,Luis Muriel,8000000.0,False,working,False,Luis Muriel,Muriel,single
+528,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Gatito Fernández,2500000.0,False,working,False,Gatito Fernández,Gatito Fernández,single
+529,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,"['Fabián Balbuena', 'Nery Balbuena']",6000000.0,False,working,False,"['Fabián Balbuena', 'Nery Balbuena']",Balbuena,multiple
+530,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Bruno Valdez,3500000.0,False,working,False,Bruno Valdez,B Valdez,single
+531,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",100000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+532,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Júnior Alonso,3000000.0,False,working,False,Júnior Alonso,J Alonso,single
+533,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,FAIL,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 8. Rojas Ju.",False,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",Ju Rojas,multiple
+534,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Celso Ortiz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Celso Ortiz,C Ortiz,single
+535,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Hernán Pérez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Hernán Pérez,Her Perez,single
+536,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Miguel Almirón,15000000.0,False,working,False,Miguel Almirón,Almirón,single
+537,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,SUCCESS,Cecilio Domínguez,2500000.0,False,Data Ended before season : 2019,False,Cecilio Domínguez,C Domínguez,single
+538,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Paraguay,PY,2019,FAIL,"['Luis Cardozo', 'Óscar Cardozo']",0,True,Online Lookup Required,False,"['Luis Cardozo', 'Óscar Cardozo']",O Cardozo,multiple
+539,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Saad Al-Sheeb,450000.0,False,working,False,Saad Al-Sheeb,Al Sheeb,single
+540,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Abdelkarim Hassan,800000.0,False,working,False,Abdelkarim Hassan,Hassan Abdelkarim,single
+541,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Tarek Salman,350000.0,False,working,False,Tarek Salman,Salman,single
+542,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Assim Madibo,450000.0,False,working,False,Assim Madibo,Madibo,single
+543,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Bassam Al-Rawi,400000.0,False,working,False,Bassam Al-Rawi,Al-Rawi,single
+544,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,FAIL,0,0,True,Lookup Required,False,0,Ró-Ró,none
+545,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Abdulaziz Hatem,600000.0,False,working,False,Abdulaziz Hatem,Hatem,single
+546,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Boualem Khoukhi,750000.0,False,working,False,Boualem Khoukhi,Khoukhi,single
+547,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Almahdi Ali,275000.0,False,working,False,Almahdi Ali,Afif Ali,single
+548,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Hasan Al-Haydos,2000000.0,False,working,False,Hasan Al-Haydos,Al-Haydos,single
+549,1287,Copa America 2019,Paraguay vs Qatar,16.06.19,Qatar,QA,2019,SUCCESS,Almoez Ali,2400000.0,False,working,False,Almoez Ali,Ali Almoez,single
+550,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,David Ospina,5000000.0,False,working,False,David Ospina,Ospina,single
+551,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Stefan Medina,3500000.0,False,working,False,Stefan Medina,Medina,single
+552,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+553,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,William Tesillo,1800000.0,False,working,False,William Tesillo,Tesillo,single
+554,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Yerry Mina,30000000.0,False,working,False,Yerry Mina,Mina,single
+555,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Wilmar Barrios,12000000.0,False,working,False,Wilmar Barrios,Barrios,single
+556,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,James Rodríguez,32000000.0,False,Used Large Dataset,False,James Rodríguez,J Rodríguez,single
+557,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Mateus Uribe,7500000.0,False,working,False,Mateus Uribe,Uribe,single
+558,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",25000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+559,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Roger Martínez,5000000.0,False,working,False,Roger Martínez,R Martínez,single
+560,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Colombia,CO,2019,SUCCESS,Duván Zapata,22000000.0,False,working,False,Duván Zapata,D Zapata,single
+561,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Saad Al-Sheeb,450000.0,False,working,False,Saad Al-Sheeb,Al Sheeb,single
+562,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Abdelkarim Hassan,800000.0,False,working,False,Abdelkarim Hassan,Hassan Abdelkarim,single
+563,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Tarek Salman,350000.0,False,working,False,Tarek Salman,Salman,single
+564,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Assim Madibo,450000.0,False,working,False,Assim Madibo,Madibo,single
+565,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Bassam Al-Rawi,400000.0,False,working,False,Bassam Al-Rawi,Al-Rawi,single
+566,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,FAIL,0,0,True,Lookup Required,False,0,Ró-Ró,none
+567,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Abdulaziz Hatem,600000.0,False,working,False,Abdulaziz Hatem,Hatem,single
+568,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Boualem Khoukhi,750000.0,False,working,False,Boualem Khoukhi,Khoukhi,single
+569,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Hasan Al-Haydos,2000000.0,False,working,False,Hasan Al-Haydos,Al-Haydos,single
+570,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Akram Afif,3200000.0,False,working,False,Akram Afif,Ak Afif,single
+571,1288,Copa America 2019,Colombia vs Qatar,20.06.19,Qatar,QA,2019,SUCCESS,Almoez Ali,2400000.0,False,working,False,Almoez Ali,Ali Almoez,single
+572,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Franco Armani,7500000.0,False,working,False,Franco Armani,Armani,single
+573,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Nicolás Tagliafico,20000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+574,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Germán Pezzella,20000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+575,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Milton Casco,3500000.0,False,Data Ended before season : 2019,False,Milton Casco,Casco,single
+576,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Nicolás Otamendi,35000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+577,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Leandro Paredes,25000000.0,False,working,False,Leandro Paredes,L Paredes,single
+578,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Roberto Pereyra,12000000.0,False,working,False,Roberto Pereyra,R Pereyra,single
+579,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Rodrigo de Paul,18000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+580,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Giovani Lo Celso,30000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+581,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,Lionel Messi,160000000.0,False,working,False,Lionel Messi,Messi,single
+582,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Argentina,AR,2019,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",25000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+583,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Gatito Fernández,2500000.0,False,working,False,Gatito Fernández,Gatito Fernández,single
+584,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Iván Piris,1250000.0,False,working,False,Iván Piris,I Piris,single
+585,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Júnior Alonso,3000000.0,False,working,False,Júnior Alonso,J Alonso,single
+586,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",100000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+587,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Gustavo Gómez,4000000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+588,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,FAIL,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 8. Rojas Ju.",False,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",Ju Rojas,multiple
+589,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Matías Rojas,4000000.0,False,working,False,Matías Rojas,Ma Rojas,single
+590,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Miguel Almirón,15000000.0,False,working,False,Miguel Almirón,Almirón,single
+591,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Richard Sánchez,0.0,False,Large Dataset had 0,False,Richard Sánchez,R Sanchez,single
+592,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Federico Santander,4000000.0,False,Used Large Dataset,False,Federico Santander,F Santander,single
+593,1289,Copa America 2019,Argentina vs Paraguay,20.06.19,Paraguay,PY,2019,SUCCESS,Derlis González,4500000.0,False,working,False,Derlis González,D Gonzalez,single
+594,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Saad Al-Sheeb,450000.0,False,working,False,Saad Al-Sheeb,Al Sheeb,single
+595,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Tarek Salman,350000.0,False,working,False,Tarek Salman,Salman,single
+596,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Bassam Al-Rawi,400000.0,False,working,False,Bassam Al-Rawi,Al-Rawi,single
+597,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,FAIL,0,0,True,Lookup Required,False,0,Ró-Ró,none
+598,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Salem Al-Hajri,400000.0,False,working,False,Salem Al-Hajri,Al-Hajri,single
+599,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Abdulaziz Hatem,600000.0,False,working,False,Abdulaziz Hatem,Hatem,single
+600,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Boualem Khoukhi,750000.0,False,working,False,Boualem Khoukhi,Khoukhi,single
+601,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Karim Boudiaf,725000.0,False,working,False,Karim Boudiaf,Boudiaf,single
+602,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Hasan Al-Haydos,2000000.0,False,working,False,Hasan Al-Haydos,Al-Haydos,single
+603,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Akram Afif,3200000.0,False,working,False,Akram Afif,Ak Afif,single
+604,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Qatar,QA,2019,SUCCESS,Almoez Ali,2400000.0,False,working,False,Almoez Ali,Ali Almoez,single
+605,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Franco Armani,7500000.0,False,working,False,Franco Armani,Armani,single
+606,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Juan Foyth,8000000.0,False,working,False,Juan Foyth,Foyth,single
+607,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Nicolás Tagliafico,20000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+608,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Nicolás Otamendi,35000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+609,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Renzo Saravia,5000000.0,False,working,False,Renzo Saravia,Saravia,single
+610,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Leandro Paredes,25000000.0,False,working,False,Leandro Paredes,L Paredes,single
+611,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Rodrigo de Paul,18000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+612,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Giovani Lo Celso,30000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+613,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Sergio Agüero,75000000.0,False,working,False,Sergio Agüero,Aguero,single
+614,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,Lionel Messi,160000000.0,False,working,False,Lionel Messi,Messi,single
+615,1290,Copa America 2019,Qatar vs Argentina,23.06.19,Argentina,AR,2019,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",25000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+616,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Álvaro Montero,900000.0,False,working,False,Álvaro Montero,Á Montero,single
+617,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Cristián Zapata,1600000.0,False,Used Large Dataset,False,Cristián Zapata,C Zapata,single
+618,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Cristián Borja,2000000.0,False,working,False,Cristián Borja,C Borja,single
+619,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Santiago Arias,20000000.0,False,working,False,Santiago Arias,S Arias,single
+620,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Jhon Lucumí,4500000.0,False,working,False,Jhon Lucumí,Lucumí,single
+621,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Gustavo Cuéllar,0,False,Not in either dataset for currect season but present in both seasons around match,True,Gustavo Cuéllar,Cuéllar,single
+622,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Edwin Cardona,0,False,Not in either dataset for currect season but present in both seasons around match,True,Edwin Cardona,Cardona,single
+623,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Jefferson Lerma,25000000.0,False,working,False,Jefferson Lerma,Lerma,single
+624,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",25000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+625,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Radamel Falcao,4800000.0,False,Used Large Dataset,False,Radamel Falcao,Falcao,single
+626,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Colombia,CO,2019,SUCCESS,Luis Díaz,1500000.0,False,working,False,Luis Díaz,Luis Díaz,single
+627,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Gatito Fernández,2500000.0,False,working,False,Gatito Fernández,Gatito Fernández,single
+628,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Iván Piris,1250000.0,False,working,False,Iván Piris,I Piris,single
+629,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Júnior Alonso,3000000.0,False,working,False,Júnior Alonso,J Alonso,single
+630,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",100000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+631,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Gustavo Gómez,4000000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+632,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,FAIL,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 8. Rojas Ju.",False,"['Jorge Rojas', 'Robert Rojas', 'Matías Rojas']",Ju Rojas,multiple
+633,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Matías Rojas,4000000.0,False,working,False,Matías Rojas,Ma Rojas,single
+634,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Miguel Almirón,15000000.0,False,working,False,Miguel Almirón,Almirón,single
+635,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Richard Sánchez,0.0,False,Large Dataset had 0,False,Richard Sánchez,R Sanchez,single
+636,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,SUCCESS,Derlis González,4500000.0,False,working,False,Derlis González,D Gonzalez,single
+637,1291,Copa America 2019,Colombia vs Paraguay,23.06.19,Paraguay,PY,2019,FAIL,"['Luis Cardozo', 'Óscar Cardozo']",0,True,Online Lookup Required,False,"['Luis Cardozo', 'Óscar Cardozo']",O Cardozo,multiple
+638,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Fernando Muslera,6000000.0,False,working,False,Fernando Muslera,Muslera,single
+639,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,José María Giménez,50000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+640,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Diego Godín,25000000.0,False,working,False,Diego Godín,Godin,single
+641,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,"['Martín Cáceres', 'Sebastián Cáceres']",3000000.0,False,working,False,"['Martín Cáceres', 'Sebastián Cáceres']",Cáceres,multiple
+642,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Matías Vecino,25000000.0,False,working,False,Matías Vecino,Vecino,single
+643,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Nicolás Lodeiro,5500000.0,False,Data Ended before season : 2019,False,Nicolás Lodeiro,Lodeiro,single
+644,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Nahitan Nández,12500000.0,False,working,False,Nahitan Nández,N Nandez,single
+645,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Edinson Cavani,55000000.0,False,working,False,Edinson Cavani,Cavani,single
+646,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Rodrigo Bentancur,35000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+647,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Diego Laxalt,16000000.0,False,working,False,Diego Laxalt,Laxalt,single
+648,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Uruguay,UY,2019,SUCCESS,Luis Suárez,60000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+649,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Alexander Domínguez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander Domínguez,A Dominguez,single
+650,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Gabriel Achilier,1500000.0,False,Data Ended before season : 2019,False,Gabriel Achilier,Achilier,single
+651,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Arturo Mina,475000.0,False,Used Large Dataset,False,Arturo Mina,A Mina,single
+652,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Ángel Mena,2000000.0,False,working,False,Ángel Mena,Mena,single
+653,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Ayrton Preciado,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ayrton Preciado,Ay Preciado,single
+654,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Jefferson Intriago,750000.0,False,Data Ended before season : 2019,False,Jefferson Intriago,Intriago,single
+655,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,"['Antonio Valencia', 'Enner Valencia', 'Anthony Valencia']",4500000.0,False,working,False,"['Antonio Valencia', 'Enner Valencia', 'Anthony Valencia']",Valencia,multiple
+656,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Jefferson Orejuela,1750000.0,False,Data Ended before season : 2019,False,Jefferson Orejuela,Orejuela,single
+657,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Beder Caicedo,0,False,Not in either dataset for currect season but present in both seasons around match,True,Beder Caicedo,B Caicedo,single
+658,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,José Quintero,1000000.0,False,Data Ended before season : 2019,False,José Quintero,Quintero José,single
+659,1292,Copa America 2019,Uruguay vs Ecuador,17.06.19,Ecuador,EC,2019,SUCCESS,Enner Valencia,4500000.0,False,working,False,Enner Valencia,En Valencia,single
+660,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Keisuke Osako,900000.0,False,working,False,Keisuke Osako,K Osako,single
+661,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,FAIL,Daiki Sugioka,0,True,Was in  DB before or after season,True,Daiki Sugioka,Sugioka,single
+662,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Yuta Nakayama,600000.0,False,working,False,Yuta Nakayama,Y Nakayama,single
+663,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Naomichi Ueda,800000.0,False,working,False,Naomichi Ueda,N Ueda,single
+664,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Teruki Hara,50000.0,False,Data Ended before season : 2019,False,Teruki Hara,T Hara,single
+665,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Takehiro Tomiyasu,13500000.0,False,working,False,Takehiro Tomiyasu,Tomiyasu,single
+666,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Gaku Shibasaki,1200000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+667,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Takefusa Kubo,13500000.0,False,working,False,Takefusa Kubo,T Kubo,single
+668,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Daizen Maeda,800000.0,False,working,False,Daizen Maeda,Maeda,single
+669,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Shoya Nakajima,16000000.0,False,working,False,Shoya Nakajima,Nakajima,single
+670,1293,Copa America 2019,Japan vs Chile,18.06.19,Japan,JP,2019,SUCCESS,Ayase Ueda,450000.0,False,working,False,Ayase Ueda,A Ueda,single
+671,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+672,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Guillermo Maripán,3000000.0,False,working,False,Guillermo Maripán,Maripán,single
+673,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Mauricio Isla,2000000.0,False,working,False,Mauricio Isla,Isla,single
+674,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+675,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+676,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,José Pedro Fuenzalida,0,False,Not in either dataset for currect season but present in both seasons around match,True,José Pedro Fuenzalida,Fuenzalida,single
+677,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Arturo Vidal,20000000.0,False,working,False,Arturo Vidal,Vidal,single
+678,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Jean Beausejour,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean Beausejour,Beausejour,single
+679,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+680,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+681,1293,Copa America 2019,Japan vs Chile,18.06.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+682,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Fernando Muslera,6000000.0,False,working,False,Fernando Muslera,Muslera,single
+683,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,José María Giménez,50000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+684,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Diego Godín,25000000.0,False,working,False,Diego Godín,Godin,single
+685,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,"['Martín Cáceres', 'Sebastián Cáceres']",3000000.0,False,working,False,"['Martín Cáceres', 'Sebastián Cáceres']",Cáceres,multiple
+686,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Nicolás Lodeiro,5500000.0,False,Data Ended before season : 2019,False,Nicolás Lodeiro,Lodeiro,single
+687,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Nahitan Nández,12500000.0,False,working,False,Nahitan Nández,N Nandez,single
+688,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Lucas Torreira,55000000.0,False,working,False,Lucas Torreira,Torreira,single
+689,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Edinson Cavani,55000000.0,False,working,False,Edinson Cavani,Cavani,single
+690,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Rodrigo Bentancur,35000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+691,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Diego Laxalt,16000000.0,False,working,False,Diego Laxalt,Laxalt,single
+692,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Uruguay,UY,2019,SUCCESS,Luis Suárez,60000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+693,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Eiji Kawashima,150000.0,False,working,False,Eiji Kawashima,Kawashima,single
+694,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,FAIL,Daiki Sugioka,0,True,Was in  DB before or after season,True,Daiki Sugioka,Sugioka,single
+695,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Naomichi Ueda,800000.0,False,working,False,Naomichi Ueda,N Ueda,single
+696,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,FAIL,Tomoki Iwata,0,True,Was in  DB before or after season,True,Tomoki Iwata,Iwata,single
+697,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Ko Itakura,800000.0,False,working,False,Ko Itakura,Itakura,single
+698,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Takehiro Tomiyasu,13500000.0,False,working,False,Takehiro Tomiyasu,Tomiyasu,single
+699,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Gaku Shibasaki,1200000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+700,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Koji Miyoshi,1300000.0,False,working,False,Koji Miyoshi,Miyoshi,single
+701,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,"['Hiroyuki Abe', 'Hiroki Abe']",50000.0,False,Data Ended before season : 2019,False,"['Hiroyuki Abe', 'Hiroki Abe']",H Abe,multiple
+702,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Shoya Nakajima,16000000.0,False,working,False,Shoya Nakajima,Nakajima,single
+703,1294,Copa America 2019,Uruguay vs Japan,21.06.19,Japan,JP,2019,SUCCESS,Shinji Okazaki,0,False,Not in either dataset for currect season but present in both seasons around match,True,Shinji Okazaki,Okazaki,single
+704,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Alexander Domínguez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander Domínguez,A Dominguez,single
+705,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Robert Arboleda,0,False,Not in either dataset for currect season but present in both seasons around match,True,Robert Arboleda,Arboleda,single
+706,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Pedro Velasco,1200000.0,False,Data Ended before season : 2019,False,Pedro Velasco,P Velasco,single
+707,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Gabriel Achilier,1500000.0,False,Data Ended before season : 2019,False,Gabriel Achilier,Achilier,single
+708,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Cristian Ramírez,2800000.0,False,Data Ended before season : 2019,False,Cristian Ramírez,C Ramírez,single
+709,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Carlos Gruezo,1600000.0,False,Used Large Dataset,False,Carlos Gruezo,Gruezo,single
+710,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Ángel Mena,2000000.0,False,working,False,Ángel Mena,Mena,single
+711,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Jefferson Orejuela,1750000.0,False,Data Ended before season : 2019,False,Jefferson Orejuela,Orejuela,single
+712,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Jhegson Méndez,800000.0,False,working,False,Jhegson Méndez,J Méndez,single
+713,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Romario Ibarra,750000.0,False,working,False,Romario Ibarra,Ro Ibarra,single
+714,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Ecuador,EC,2019,SUCCESS,Enner Valencia,4500000.0,False,working,False,Enner Valencia,En Valencia,single
+715,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+716,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Guillermo Maripán,3000000.0,False,working,False,Guillermo Maripán,Maripán,single
+717,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Mauricio Isla,2000000.0,False,working,False,Mauricio Isla,Isla,single
+718,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+719,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+720,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,José Pedro Fuenzalida,0,False,Not in either dataset for currect season but present in both seasons around match,True,José Pedro Fuenzalida,Fuenzalida,single
+721,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Arturo Vidal,20000000.0,False,working,False,Arturo Vidal,Vidal,single
+722,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Jean Beausejour,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean Beausejour,Beausejour,single
+723,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+724,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+725,1295,Copa America 2019,Ecuador vs Chile,22.06.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+726,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Gabriel Arias,700000.0,False,working,False,Gabriel Arias,G Arias,single
+727,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Guillermo Maripán,3000000.0,False,working,False,Guillermo Maripán,Maripán,single
+728,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,FAIL,0,0,True,not done yet,False,0,5. Диас П.,cyrillic
+729,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Erick Pulgar,5000000.0,False,working,False,Erick Pulgar,Pulgar,single
+730,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,"['Gonzalo Jara', 'Ignacio Jara']",700000.0,False,Data Ended before season : 2019,False,"['Gonzalo Jara', 'Ignacio Jara']",Jara,multiple
+731,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Óscar Opazo,1000000.0,False,working,False,Óscar Opazo,Opazo,single
+732,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,"['Gary Medel', 'Marco Medel']",5000000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+733,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Charles Aránguiz,15000000.0,False,working,False,Charles Aránguiz,C Aranguiz,single
+734,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Pablo Hernández,0,False,Not in either dataset for currect season but present in both seasons around match,True,Pablo Hernández,Pablo Hernandez,single
+735,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,Alexis Sánchez,45000000.0,False,working,False,Alexis Sánchez,A Sanchez,single
+736,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Chile,CL,2019,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,working,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+737,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Fernando Muslera,6000000.0,False,working,False,Fernando Muslera,Muslera,single
+738,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,José María Giménez,50000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+739,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Diego Godín,25000000.0,False,working,False,Diego Godín,Godin,single
+740,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,"['Martín Cáceres', 'Sebastián Cáceres']",3000000.0,False,working,False,"['Martín Cáceres', 'Sebastián Cáceres']",Cáceres,multiple
+741,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Giovanni González,450000.0,False,working,False,Giovanni González,Gi González,single
+742,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Nicolás Lodeiro,5500000.0,False,Data Ended before season : 2019,False,Nicolás Lodeiro,Lodeiro,single
+743,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Giorgian de Arrascaeta,9000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+744,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Edinson Cavani,55000000.0,False,working,False,Edinson Cavani,Cavani,single
+745,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Rodrigo Bentancur,35000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+746,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Federico Valverde,6000000.0,False,working,False,Federico Valverde,F Valverde,single
+747,1296,Copa America 2019,Chile vs Uruguay,25.06.19,Uruguay,UY,2019,SUCCESS,Luis Suárez,60000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+748,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Alexander Domínguez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander Domínguez,A Dominguez,single
+749,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Robert Arboleda,0,False,Not in either dataset for currect season but present in both seasons around match,True,Robert Arboleda,Arboleda,single
+750,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Pedro Velasco,1200000.0,False,Data Ended before season : 2019,False,Pedro Velasco,P Velasco,single
+751,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Arturo Mina,475000.0,False,Used Large Dataset,False,Arturo Mina,A Mina,single
+752,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Cristian Ramírez,2800000.0,False,Data Ended before season : 2019,False,Cristian Ramírez,C Ramírez,single
+753,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Carlos Gruezo,1600000.0,False,Used Large Dataset,False,Carlos Gruezo,Gruezo,single
+754,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Ángel Mena,2000000.0,False,working,False,Ángel Mena,Mena,single
+755,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Jefferson Orejuela,1750000.0,False,Data Ended before season : 2019,False,Jefferson Orejuela,Orejuela,single
+756,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Jhegson Méndez,800000.0,False,working,False,Jhegson Méndez,J Méndez,single
+757,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Romario Ibarra,750000.0,False,working,False,Romario Ibarra,Ro Ibarra,single
+758,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Ecuador,EC,2019,SUCCESS,Enner Valencia,4500000.0,False,working,False,Enner Valencia,En Valencia,single
+759,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Eiji Kawashima,150000.0,False,working,False,Eiji Kawashima,Kawashima,single
+760,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,FAIL,Daiki Sugioka,0,True,Was in  DB before or after season,True,Daiki Sugioka,Sugioka,single
+761,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Naomichi Ueda,800000.0,False,working,False,Naomichi Ueda,N Ueda,single
+762,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,FAIL,Tomoki Iwata,0,True,Was in  DB before or after season,True,Tomoki Iwata,Iwata,single
+763,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Ko Itakura,800000.0,False,working,False,Ko Itakura,Itakura,single
+764,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Takehiro Tomiyasu,13500000.0,False,working,False,Takehiro Tomiyasu,Tomiyasu,single
+765,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Gaku Shibasaki,1200000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+766,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Koji Miyoshi,1300000.0,False,working,False,Koji Miyoshi,Miyoshi,single
+767,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Takefusa Kubo,13500000.0,False,working,False,Takefusa Kubo,T Kubo,single
+768,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Shoya Nakajima,16000000.0,False,working,False,Shoya Nakajima,Nakajima,single
+769,1297,Copa America 2019,Ecuador vs Japan,25.06.19,Japan,JP,2019,SUCCESS,Shinji Okazaki,0,False,Not in either dataset for currect season but present in both seasons around match,True,Shinji Okazaki,Okazaki,single
+770,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Ederson,56000000.0,False,working,False,Ederson,Ederson,single
+771,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+772,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+773,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Thiago Silva,4500000.0,False,working,False,Thiago Silva,Thiago Silva,single
+774,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Renan Lodi,30000000.0,False,Used Large Dataset,False,Renan Lodi,Renan Lodi,single
+775,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Casemiro,65000000.0,False,working,False,Casemiro,Casimiro,single
+776,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Lucas Paquetá,20000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+777,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+778,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+779,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,"['Everton', 'Everton Ribeiro']",15000000.0,False,Used Large Dataset,False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+780,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+781,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+782,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Gonzalo Montiel,8000000.0,False,working,False,Gonzalo Montiel,Montiel,single
+783,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Nicolás Otamendi,11000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+784,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Cristian Romero,15000000.0,False,working,False,Cristian Romero,C Romero,single
+785,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Leandro Paredes,20000000.0,False,working,False,Leandro Paredes,L Paredes,single
+786,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Rodrigo de Paul,35000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+787,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Marcos Acuña,12000000.0,False,working,False,Marcos Acuña,Acuña,single
+788,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Ángel Di María,32000000.0,False,working,False,Ángel Di María,Di Maria,single
+789,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Giovani Lo Celso,35000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+790,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+791,1299,Copa America 2021,Brazil vs Argentina,11.07.21,Argentina,AR,2021,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",70000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+792,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Camilo Vargas,2000000.0,False,working,False,Camilo Vargas,C Vargas,single
+793,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Stefan Medina,0,False,Not in either dataset for currect season but present in both seasons around match,True,Stefan Medina,Medina,single
+794,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Óscar Murillo,2500000.0,False,Data Ended before season : 2021,False,Óscar Murillo,Murillo Oscar,single
+795,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+796,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+797,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Gustavo Cuéllar,3500000.0,False,Data Ended before season : 2021,False,Gustavo Cuéllar,Cuéllar,single
+798,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+799,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Edwin Cardona,5000000.0,False,Data Ended before season : 2021,False,Edwin Cardona,Cardona,single
+800,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+801,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Luis Díaz,13000000.0,False,working,False,Luis Díaz,Luis Díaz,single
+802,1300,Copa America 2021,Colombia vs Peru,10.07.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+803,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+804,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+805,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Anderson Santamaría,2800000.0,False,working,False,Anderson Santamaría,Santamaría,single
+806,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+807,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Alexander Callens,2200000.0,False,working,False,Alexander Callens,Callens,single
+808,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Marcos López,1800000.0,False,working,False,Marcos López,M López,single
+809,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+810,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+811,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+812,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+813,1300,Copa America 2021,Colombia vs Peru,10.07.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+814,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Ederson,56000000.0,False,working,False,Ederson,Ederson,single
+815,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+816,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+817,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Thiago Silva,4500000.0,False,working,False,Thiago Silva,Thiago Silva,single
+818,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Renan Lodi,30000000.0,False,Used Large Dataset,False,Renan Lodi,Renan Lodi,single
+819,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Casemiro,65000000.0,False,working,False,Casemiro,Casimiro,single
+820,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Lucas Paquetá,20000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+821,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+822,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+823,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,"['Everton', 'Everton Ribeiro']",15000000.0,False,Used Large Dataset,False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+824,1301,Copa America 2021,Brazil vs Peru,06.07.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+825,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+826,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+827,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Anderson Santamaría,2800000.0,False,working,False,Anderson Santamaría,Santamaría,single
+828,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Miguel Trauco,1800000.0,False,working,False,Miguel Trauco,Trauco,single
+829,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Christian Ramos,275000.0,False,working,False,Christian Ramos,Ramos,single
+830,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+831,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Alexander Callens,2200000.0,False,working,False,Alexander Callens,Callens,single
+832,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+833,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+834,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+835,1301,Copa America 2021,Brazil vs Peru,06.07.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+836,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+837,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Nicolás Tagliafico,28000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+838,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Germán Pezzella,13000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+839,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Nicolás Otamendi,11000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+840,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Nahuel Molina,4000000.0,False,working,False,Nahuel Molina,N Molina,single
+841,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,"['Gonzalo Rodríguez', 'Guido Rodríguez']",12000000.0,False,working,False,"['Gonzalo Rodríguez', 'Guido Rodríguez']",G Rodríguez,multiple
+842,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Rodrigo de Paul,35000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+843,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Giovani Lo Celso,35000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+844,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+845,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,Nicolás González,16000000.0,False,working,False,Nicolás González,N Gonzalez,single
+846,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Argentina,AR,2021,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",70000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+847,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+848,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Daniel Muñoz,3600000.0,False,working,False,Daniel Muñoz,D Muñoz,single
+849,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+850,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+851,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+852,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Gustavo Cuéllar,3500000.0,False,Data Ended before season : 2021,False,Gustavo Cuéllar,Cuéllar,single
+853,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+854,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+855,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Luis Díaz,13000000.0,False,working,False,Luis Díaz,Luis Díaz,single
+856,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Rafael Borré,10000000.0,False,working,False,Rafael Borré,R Borré,single
+857,1302,Copa America 2021,Argentina vs Colombia,07.07.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+858,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+859,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+860,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Anderson Santamaría,2800000.0,False,working,False,Anderson Santamaría,Santamaría,single
+861,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Miguel Trauco,1800000.0,False,working,False,Miguel Trauco,Trauco,single
+862,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Christian Ramos,275000.0,False,working,False,Christian Ramos,Ramos,single
+863,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+864,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+865,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+866,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+867,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+868,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+869,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Antony Silva,500000.0,False,working,False,Antony Silva,A Silva,single
+870,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Júnior Alonso,0,False,Not in either dataset for currect season but present in both seasons around match,True,Júnior Alonso,J Alonso,single
+871,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,FAIL,"['Juan Espínola', 'Alberto Espínola']",0,True,Online Lookup Required,False,"['Juan Espínola', 'Alberto Espínola']",Espínola,multiple
+872,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",5000000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+873,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Gustavo Gómez,4500000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+874,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Hugo Martínez,-,False,Data Ended before season : 2021,False,Hugo Martínez,H Martínez,single
+875,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Ángel Cardozo Lucena,1500000.0,False,working,False,Ángel Cardozo Lucena,Cardozo Lucena,single
+876,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Mathías Villasanti,4000000.0,False,working,False,Mathías Villasanti,Villasanti,single
+877,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Richard Sánchez,5000000.0,False,working,False,Richard Sánchez,R Sanchez,single
+878,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Ángel Romero,3200000.0,False,working,False,Ángel Romero,Án Romero,single
+879,1303,Copa America 2021,Peru vs Paraguay,03.07.21,Paraguay,PY,2021,SUCCESS,Carlos González,0,False,Not in either dataset for currect season but present in both seasons around match,True,Carlos González,C González,single
+880,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Ederson,56000000.0,False,working,False,Ederson,Ederson,single
+881,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+882,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+883,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Thiago Silva,4500000.0,False,working,False,Thiago Silva,Thiago Silva,single
+884,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Renan Lodi,30000000.0,False,Used Large Dataset,False,Renan Lodi,Renan Lodi,single
+885,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Casemiro,65000000.0,False,working,False,Casemiro,Casimiro,single
+886,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Roberto Firmino,32000000.0,False,Used Large Dataset,False,Roberto Firmino,Firmino,single
+887,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+888,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+889,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+890,1304,Copa America 2021,Brazil vs Chile,03.07.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+891,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",1000000.0,False,Used Large Dataset,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+892,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Eugenio Mena,950000.0,False,working,False,Eugenio Mena,Mena,single
+893,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Mauricio Isla,1500000.0,False,Data Ended before season : 2021,False,Mauricio Isla,Isla,single
+894,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Erick Pulgar,6500000.0,False,Used Large Dataset,False,Erick Pulgar,Pulgar,single
+895,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Francisco Sierralta,350000.0,False,working,False,Francisco Sierralta,Sierralta,single
+896,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Sebastián Vegas,6000000.0,False,working,False,Sebastián Vegas,S Vegas,single
+897,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,"['Gary Medel', 'Marco Medel']",1500000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+898,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Arturo Vidal,2000000.0,False,Used Large Dataset,False,Arturo Vidal,Vidal,single
+899,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Charles Aránguiz,3500000.0,False,Used Large Dataset,False,Charles Aránguiz,C Aranguiz,single
+900,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,Alexis Sánchez,3500000.0,False,Used Large Dataset,False,Alexis Sánchez,A Sanchez,single
+901,1304,Copa America 2021,Brazil vs Chile,03.07.21,Chile,CL,2021,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,Data Ended before season : 2021,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+902,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Fernando Muslera,3500000.0,False,working,False,Fernando Muslera,Muslera,single
+903,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,José María Giménez,70000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+904,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Diego Godín,2500000.0,False,working,False,Diego Godín,Godin,single
+905,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Matías Viña,4000000.0,False,working,False,Matías Viña,Viña,single
+906,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Matías Vecino,12000000.0,False,working,False,Matías Vecino,Vecino,single
+907,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Nahitan Nández,13000000.0,False,Used Large Dataset,False,Nahitan Nández,N Nandez,single
+908,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Giorgian de Arrascaeta,15000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+909,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Edinson Cavani,12000000.0,False,working,False,Edinson Cavani,Cavani,single
+910,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Rodrigo Bentancur,46000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+911,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Federico Valverde,70000000.0,False,working,False,Federico Valverde,F Valverde,single
+912,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Uruguay,UY,2021,SUCCESS,Luis Suárez,18000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+913,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+914,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Daniel Muñoz,3600000.0,False,working,False,Daniel Muñoz,D Muñoz,single
+915,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+916,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+917,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+918,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Gustavo Cuéllar,3500000.0,False,Data Ended before season : 2021,False,Gustavo Cuéllar,Cuéllar,single
+919,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+920,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Luis Muriel,20000000.0,False,Used Large Dataset,False,Luis Muriel,Muriel,single
+921,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Luis Díaz,13000000.0,False,working,False,Luis Díaz,Luis Díaz,single
+922,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Rafael Borré,10000000.0,False,working,False,Rafael Borré,R Borré,single
+923,1305,Copa America 2021,Uruguay vs Colombia,04.07.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+924,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+925,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Germán Pezzella,13000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+926,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Nicolás Otamendi,11000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+927,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Nahuel Molina,4000000.0,False,working,False,Nahuel Molina,N Molina,single
+928,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Leandro Paredes,20000000.0,False,working,False,Leandro Paredes,L Paredes,single
+929,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Rodrigo de Paul,35000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+930,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Marcos Acuña,12000000.0,False,working,False,Marcos Acuña,Acuña,single
+931,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Giovani Lo Celso,35000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+932,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+933,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,Nicolás González,16000000.0,False,working,False,Nicolás González,N Gonzalez,single
+934,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Argentina,AR,2021,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",70000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+935,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Hernán Galíndez,600000.0,False,working,False,Hernán Galíndez,Galíndez,single
+936,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Robert Arboleda,1700000.0,False,working,False,Robert Arboleda,Arboleda,single
+937,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Pervis Estupiñán,15000000.0,False,working,False,Pervis Estupiñán,Estupiñán,single
+938,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Angelo Preciado,3000000.0,False,working,False,Angelo Preciado,An Preciado,single
+939,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Diego Palacios,1500000.0,False,working,False,Diego Palacios,D Palacios,single
+940,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Piero Hincapié,600000.0,False,working,False,Piero Hincapié,Hincapie,single
+941,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Carlos Gruezo,5000000.0,False,working,False,Carlos Gruezo,Gruezo,single
+942,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Ángel Mena,2500000.0,False,working,False,Ángel Mena,Mena,single
+943,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Jhegson Méndez,1000000.0,False,working,False,Jhegson Méndez,J Méndez,single
+944,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Alan Franco,2500000.0,False,working,False,Alan Franco,A Franco,single
+945,1306,Copa America 2021,Argentina vs Ecuador,04.07.21,Ecuador,EC,2021,SUCCESS,Enner Valencia,1800000.0,False,working,False,Enner Valencia,En Valencia,single
+946,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+947,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Nicolás Tagliafico,28000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+948,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Gonzalo Montiel,8000000.0,False,working,False,Gonzalo Montiel,Montiel,single
+949,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Nicolás Otamendi,11000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+950,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Lucas Martínez Quarta,10000000.0,False,working,False,Lucas Martínez Quarta,Martinez Quarta,single
+951,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Leandro Paredes,20000000.0,False,working,False,Leandro Paredes,L Paredes,single
+952,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Rodrigo de Paul,35000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+953,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Giovani Lo Celso,35000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+954,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+955,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,Nicolás González,16000000.0,False,working,False,Nicolás González,N Gonzalez,single
+956,1307,Copa America 2021,Argentina vs Chile,15.06.21,Argentina,AR,2021,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",70000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+957,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",1000000.0,False,Used Large Dataset,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+958,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Eugenio Mena,950000.0,False,working,False,Eugenio Mena,Mena,single
+959,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Guillermo Maripán,15000000.0,False,Used Large Dataset,False,Guillermo Maripán,Maripán,single
+960,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Mauricio Isla,1500000.0,False,Data Ended before season : 2021,False,Mauricio Isla,Isla,single
+961,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Erick Pulgar,6500000.0,False,Used Large Dataset,False,Erick Pulgar,Pulgar,single
+962,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,"['Gary Medel', 'Marco Medel']",1500000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+963,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Arturo Vidal,2000000.0,False,Used Large Dataset,False,Arturo Vidal,Vidal,single
+964,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Charles Aránguiz,3500000.0,False,Used Large Dataset,False,Charles Aránguiz,C Aranguiz,single
+965,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,"['Fernando Meneses', 'Jean Meneses']",5000000.0,False,working,False,"['Fernando Meneses', 'Jean Meneses']",Meneses,multiple
+966,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,Data Ended before season : 2021,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+967,1307,Copa America 2021,Argentina vs Chile,15.06.21,Chile,CL,2021,SUCCESS,Carlos Palacios,200000.0,False,Data Ended before season : 2021,False,Carlos Palacios,C Palacios,single
+968,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Antony Silva,500000.0,False,working,False,Antony Silva,A Silva,single
+969,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Júnior Alonso,0,False,Not in either dataset for currect season but present in both seasons around match,True,Júnior Alonso,J Alonso,single
+970,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,FAIL,"['Juan Espínola', 'Alberto Espínola']",0,True,Was in  DB before or after season,True,"['Juan Espínola', 'Alberto Espínola']",Espínola,multiple
+971,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",5000000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+972,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Gustavo Gómez,4500000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+973,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Miguel Almirón,16000000.0,False,working,False,Miguel Almirón,Almirón,single
+974,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,FAIL,Mateo Gamarra,0,True,Was in  DB before or after season,True,Mateo Gamarra,Romero Gamarra,single
+975,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Mathías Villasanti,4000000.0,False,working,False,Mathías Villasanti,Villasanti,single
+976,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Piris da Motta,2000000.0,False,Data Ended before season : 2021,False,Piris da Motta,Da Motta,single
+977,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Gabriel Ávalos,475000.0,False,working,False,Gabriel Ávalos,Ávalos,single
+978,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Paraguay,PY,2021,SUCCESS,Ángel Romero,3200000.0,False,working,False,Ángel Romero,Án Romero,single
+979,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Rubén Cordano,325000.0,False,working,False,Rubén Cordano,Cordano,single
+980,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Jairo Quinteros,50000.0,False,working,False,Jairo Quinteros,Quinteros,single
+981,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Adrián Jusino,400000.0,False,working,False,Adrián Jusino,Jusino,single
+982,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Erwin Saavedra,1200000.0,False,working,False,Erwin Saavedra,Saavedra,single
+983,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,"['Jorge Flores', 'Wálter Flores']",-,False,Data Ended before season : 2021,False,"['Jorge Flores', 'Wálter Flores']",En Flores,multiple
+984,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,"['José Sagredo', 'Jesús Sagredo']",0.0,False,Used Large Dataset,False,"['José Sagredo', 'Jesús Sagredo']",Sagredo,multiple
+985,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Boris Céspedes,0,False,Not in either dataset for currect season but present in both seasons around match,True,Boris Céspedes,B Cespedes,single
+986,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Danny Bejarano,0,False,Not in either dataset for currect season but present in both seasons around match,True,Danny Bejarano,Da Bejarano,single
+987,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",475000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+988,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Gilbert Álvarez,600000.0,False,Data Ended before season : 2021,False,Gilbert Álvarez,G Álvarez,single
+989,1308,Copa America 2021,Paraguay vs Bolivia,15.06.21,Bolivia,BO,2021,SUCCESS,Jaume Cuéllar,100000.0,False,working,False,Jaume Cuéllar,Cuellar Mendoza Jaume,single
+990,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",1000000.0,False,Used Large Dataset,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+991,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Eugenio Mena,950000.0,False,working,False,Eugenio Mena,Mena,single
+992,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Guillermo Maripán,15000000.0,False,Used Large Dataset,False,Guillermo Maripán,Maripán,single
+993,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Mauricio Isla,1500000.0,False,Data Ended before season : 2021,False,Mauricio Isla,Isla,single
+994,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Erick Pulgar,6500000.0,False,Used Large Dataset,False,Erick Pulgar,Pulgar,single
+995,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,"['Gary Medel', 'Marco Medel']",1500000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+996,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Arturo Vidal,2000000.0,False,Used Large Dataset,False,Arturo Vidal,Vidal,single
+997,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Charles Aránguiz,3500000.0,False,Used Large Dataset,False,Charles Aránguiz,C Aranguiz,single
+998,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,"['Fernando Meneses', 'Jean Meneses']",5000000.0,False,working,False,"['Fernando Meneses', 'Jean Meneses']",Meneses,multiple
+999,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,Data Ended before season : 2021,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+1000,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Chile,CL,2021,SUCCESS,Ben Brereton Díaz,3500000.0,False,working,False,Ben Brereton Díaz,Brereton,single
+1001,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Carlos Lampe,400000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+1002,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Jairo Quinteros,50000.0,False,working,False,Jairo Quinteros,Quinteros,single
+1003,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Adrián Jusino,400000.0,False,working,False,Adrián Jusino,Jusino,single
+1004,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Erwin Saavedra,1200000.0,False,working,False,Erwin Saavedra,Saavedra,single
+1005,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,FAIL,0,0,True,Lookup Required,False,0,Fernández Toro,none
+1006,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Diego Bejarano,550000.0,False,working,False,Diego Bejarano,Di Bejarano,single
+1007,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Ramiro Vaca,325000.0,False,working,False,Ramiro Vaca,R Vaca,single
+1008,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Jeyson Chura,0.0,False,Large Dataset had 0,False,Jeyson Chura,Chura,single
+1009,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",475000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+1010,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Juan Carlos Arce,650000.0,False,working,False,Juan Carlos Arce,Arce,single
+1011,1309,Copa America 2021,Chile vs Bolivia,19.06.21,Bolivia,BO,2021,SUCCESS,Gilbert Álvarez,600000.0,False,Data Ended before season : 2021,False,Gilbert Álvarez,G Álvarez,single
+1012,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+1013,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Nicolás Otamendi,11000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+1014,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Nahuel Molina,4000000.0,False,working,False,Nahuel Molina,N Molina,single
+1015,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Cristian Romero,15000000.0,False,working,False,Cristian Romero,C Romero,single
+1016,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,"['Gonzalo Rodríguez', 'Guido Rodríguez']",12000000.0,False,working,False,"['Gonzalo Rodríguez', 'Guido Rodríguez']",G Rodríguez,multiple
+1017,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Rodrigo de Paul,35000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+1018,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Marcos Acuña,12000000.0,False,working,False,Marcos Acuña,Acuña,single
+1019,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Giovani Lo Celso,35000000.0,False,working,False,Giovani Lo Celso,Lo Celso,single
+1020,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+1021,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,Nicolás González,16000000.0,False,working,False,Nicolás González,N Gonzalez,single
+1022,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Argentina,AR,2021,SUCCESS,"['Lautaro Martínez', 'Lisandro Martínez']",70000000.0,False,working,False,"['Lautaro Martínez', 'Lisandro Martínez']",L Martínez,multiple
+1023,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Fernando Muslera,3500000.0,False,working,False,Fernando Muslera,Muslera,single
+1024,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,José María Giménez,70000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+1025,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Diego Godín,2500000.0,False,working,False,Diego Godín,Godin,single
+1026,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Matías Viña,4000000.0,False,working,False,Matías Viña,Viña,single
+1027,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Giovanni González,1500000.0,False,Used Large Dataset,False,Giovanni González,Gi González,single
+1028,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Nicolás de la Cruz,12000000.0,False,working,False,Nicolás de la Cruz,De La Cruz,single
+1029,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Lucas Torreira,30000000.0,False,working,False,Lucas Torreira,Torreira,single
+1030,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Edinson Cavani,12000000.0,False,working,False,Edinson Cavani,Cavani,single
+1031,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Rodrigo Bentancur,46000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+1032,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Federico Valverde,70000000.0,False,working,False,Federico Valverde,F Valverde,single
+1033,1310,Copa America 2021,Argentina vs Uruguay,19.06.21,Uruguay,UY,2021,SUCCESS,Luis Suárez,18000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+1034,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Fernando Muslera,3500000.0,False,working,False,Fernando Muslera,Muslera,single
+1035,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,José María Giménez,70000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+1036,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Diego Godín,2500000.0,False,working,False,Diego Godín,Godin,single
+1037,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Matías Viña,4000000.0,False,working,False,Matías Viña,Viña,single
+1038,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Giovanni González,1500000.0,False,Used Large Dataset,False,Giovanni González,Gi González,single
+1039,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Matías Vecino,12000000.0,False,working,False,Matías Vecino,Vecino,single
+1040,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Nicolás de la Cruz,12000000.0,False,working,False,Nicolás de la Cruz,De La Cruz,single
+1041,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Giorgian de Arrascaeta,15000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+1042,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Edinson Cavani,12000000.0,False,working,False,Edinson Cavani,Cavani,single
+1043,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Federico Valverde,70000000.0,False,working,False,Federico Valverde,F Valverde,single
+1044,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Uruguay,UY,2021,SUCCESS,Luis Suárez,18000000.0,False,working,False,Luis Suárez,Luis Suarez,single
+1045,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",1000000.0,False,Used Large Dataset,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+1046,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Eugenio Mena,950000.0,False,working,False,Eugenio Mena,Mena,single
+1047,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Guillermo Maripán,15000000.0,False,Used Large Dataset,False,Guillermo Maripán,Maripán,single
+1048,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Mauricio Isla,1500000.0,False,Data Ended before season : 2021,False,Mauricio Isla,Isla,single
+1049,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Erick Pulgar,6500000.0,False,Used Large Dataset,False,Erick Pulgar,Pulgar,single
+1050,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Francisco Sierralta,350000.0,False,working,False,Francisco Sierralta,Sierralta,single
+1051,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,"['Gary Medel', 'Marco Medel']",1500000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+1052,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Arturo Vidal,2000000.0,False,Used Large Dataset,False,Arturo Vidal,Vidal,single
+1053,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Charles Aránguiz,3500000.0,False,Used Large Dataset,False,Charles Aránguiz,C Aranguiz,single
+1054,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,Data Ended before season : 2021,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+1055,1311,Copa America 2021,Uruguay vs Chile,22.06.21,Chile,CL,2021,SUCCESS,Ben Brereton Díaz,3500000.0,False,working,False,Ben Brereton Díaz,Brereton,single
+1056,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Emiliano Martínez,18000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+1057,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Nicolás Tagliafico,28000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+1058,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Germán Pezzella,13000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+1059,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Nahuel Molina,4000000.0,False,working,False,Nahuel Molina,N Molina,single
+1060,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Cristian Romero,15000000.0,False,working,False,Cristian Romero,C Romero,single
+1061,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,"['Gonzalo Rodríguez', 'Guido Rodríguez']",12000000.0,False,working,False,"['Gonzalo Rodríguez', 'Guido Rodríguez']",G Rodríguez,multiple
+1062,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Leandro Paredes,20000000.0,False,working,False,Leandro Paredes,L Paredes,single
+1063,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Ángel Di María,32000000.0,False,working,False,Ángel Di María,Di Maria,single
+1064,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Sergio Agüero,-,False,Used Large Dataset,False,Sergio Agüero,Aguero,single
+1065,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+1066,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Argentina,AR,2021,SUCCESS,Alejandro Garnacho,-,False,Used Large Dataset,False,Alejandro Garnacho,Alejandro Gomez,single
+1067,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Antony Silva,500000.0,False,working,False,Antony Silva,A Silva,single
+1068,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Júnior Alonso,0,False,Not in either dataset for currect season but present in both seasons around match,True,Júnior Alonso,J Alonso,single
+1069,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,FAIL,"['Juan Espínola', 'Alberto Espínola']",0,True,Was in  DB before or after season,True,"['Juan Espínola', 'Alberto Espínola']",Espínola,multiple
+1070,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",5000000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+1071,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Gustavo Gómez,4500000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+1072,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Miguel Almirón,16000000.0,False,working,False,Miguel Almirón,Almirón,single
+1073,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Andrés Cubas,4000000.0,False,working,False,Andrés Cubas,Cubas,single
+1074,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,FAIL,Mateo Gamarra,0,True,Was in  DB before or after season,True,Mateo Gamarra,Romero Gamarra,single
+1075,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Piris da Motta,2000000.0,False,Data Ended before season : 2021,False,Piris da Motta,Da Motta,single
+1076,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Gabriel Ávalos,475000.0,False,working,False,Gabriel Ávalos,Ávalos,single
+1077,1312,Copa America 2021,Argentina vs Paraguay,22.06.21,Paraguay,PY,2021,SUCCESS,Ángel Romero,3200000.0,False,working,False,Ángel Romero,Án Romero,single
+1078,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Carlos Lampe,400000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+1079,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Jairo Quinteros,50000.0,False,working,False,Jairo Quinteros,Quinteros,single
+1080,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Adrián Jusino,400000.0,False,working,False,Adrián Jusino,Jusino,single
+1081,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Moisés Villarroel,300000.0,False,working,False,Moisés Villarroel,Villarroel,single
+1082,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Erwin Saavedra,1200000.0,False,working,False,Erwin Saavedra,Saavedra,single
+1083,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,FAIL,0,0,True,Lookup Required,False,0,Fernández Toro,none
+1084,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Ramiro Vaca,325000.0,False,working,False,Ramiro Vaca,R Vaca,single
+1085,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Jeyson Chura,0.0,False,Large Dataset had 0,False,Jeyson Chura,Chura,single
+1086,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",475000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+1087,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Juan Carlos Arce,650000.0,False,working,False,Juan Carlos Arce,Arce,single
+1088,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Bolivia,BO,2021,SUCCESS,Rodrigo Ramallo,475000.0,False,working,False,Rodrigo Ramallo,Ramallo,single
+1089,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Fernando Muslera,3500000.0,False,working,False,Fernando Muslera,Muslera,single
+1090,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,José María Giménez,70000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+1091,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Diego Godín,2500000.0,False,working,False,Diego Godín,Godin,single
+1092,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Matías Viña,4000000.0,False,working,False,Matías Viña,Viña,single
+1093,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Matías Vecino,12000000.0,False,working,False,Matías Vecino,Vecino,single
+1094,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Nicolás de la Cruz,12000000.0,False,working,False,Nicolás de la Cruz,De La Cruz,single
+1095,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Nahitan Nández,13000000.0,False,Used Large Dataset,False,Nahitan Nández,N Nandez,single
+1096,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Giorgian de Arrascaeta,15000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+1097,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Edinson Cavani,12000000.0,False,working,False,Edinson Cavani,Cavani,single
+1098,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Federico Valverde,70000000.0,False,working,False,Federico Valverde,F Valverde,single
+1099,1313,Copa America 2021,Bolivia vs Uruguay,25.06.21,Uruguay,UY,2021,SUCCESS,Luis Suárez,18000000.0,False,working,False,Luis Suárez,Luis Suarez,single

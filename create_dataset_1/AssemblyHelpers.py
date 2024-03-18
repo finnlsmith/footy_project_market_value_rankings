@@ -419,8 +419,11 @@ def find_closest_string_newEST(input_string, string_list, input_final_tokens, OR
                         print('this is a set here')
                         return setofmatches
                     else:
-                        #print('single', setofmatches)
-                        return setofmatches[0]
+                        if setofmatches == []:
+                            return "No close match found."
+                        else:
+                            print('single', setofmatches)
+                            return setofmatches[0]
                     
         #elif(closest_match):       
         if(closest_match): #NOT GONNA GET HERE. 
@@ -595,7 +598,7 @@ def get_names_with_conditions_values(df):
 # ### Helper methods
 
 def has_c_with_accent_and_capital(string):
-    pattern = r'([cćčç])([A-Z])'
+    pattern = r'([cćčçâă])([A-Z])'
     match = re.search(pattern, string)
     if match:
         # Inserting a space after the 'c' with an accent
@@ -664,7 +667,7 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
         if((type(result) == list) & (len(result) >= 2)):
             candidates_set = result
         elif(result[0] in dataset_nationality):
-            candidate_name = result[0]
+            candidate_name = result[0] 
         elif(result in dataset_nationality):
             #print(result)
             #RETURN 
@@ -678,15 +681,21 @@ def lookup_name(input_name, input_nationality, input_match_date, using_salaries_
             if type(match_accent_accounted) == list:
                 if len(match_accent_accounted) >= 2:
                     candidates_set = [word for word in match_accent_accounted if word in nationality_names_accents_removed]
-                    
                 else:
                     match_accent_accounted = match_accent_accounted[0]
             #print('now match is ', match_accent_accounted)
             #print(nationality_names_accents_removed, match_accent_accounted)
             #print(type(match_accent_accounted))
+            print(match_accent_accounted)
             # if len(candidates_set) >= 2:
             #     return candidates_set, 'multiple', search_name
-            if(match_accent_accounted in nationality_names_accents_removed):
+
+            #check if the match_accent_accounted is a list of more than 1 length 
+
+            if ((type(match_accent_accounted) == list) & (len(match_accent_accounted) >= 2)):
+                0==0
+            
+            elif(match_accent_accounted in nationality_names_accents_removed):
                 #print(match_accent_accounted)
                 matching_names_with_accents = find_names_with_accents(match_accent_accounted, dataset_nationality)
                 if(type(matching_names_with_accents) == str):
@@ -1224,7 +1233,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
 
     try:
         table_test = pagesoup_input.find_all("div", {"class": "responsive-table"})[1].find_all("tbody")[0]
-
+        print('regular date loop.  table test is ', table_test)
         for i in range(0, len(table_test.find_all('tr'))):
             this_tr_row = table_test.find_all('tr')[i]
             data_row = this_tr_row.find_all("td", {"class": "zentriert"})
@@ -1272,6 +1281,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
         try: 
             switched_date = datetime.strptime(datetime.strftime(correct_date_obj, "%d/%m/%y"), "%m/%d/%y")
             print('switched date is ', switched_date)
+            print('table test is ', table_test)
             for i in range(0, len(table_test.find_all('tr'))):
                 this_tr_row = table_test.find_all('tr')[i]
                 data_row = this_tr_row.find_all("td", {"class": "zentriert"})
@@ -1291,9 +1301,8 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
                         return True
                 else:
                     print(i, len(data_row))
-        except ValueError as ve:
-            print("Error:", ve)
-
+        except Exception as e:
+            print('reverse loop. there was no national team history', e)
 
     if(date_found == False):
         return False
