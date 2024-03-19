@@ -1,0 +1,67 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Graham,none
+1,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Online Lookup Required,False,0,Javier,none
+2,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Bertie,none
+3,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Wiltshire,none
+4,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Medway,none
+5,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Septus,none
+6,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Wilson,none
+7,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Gallimore,none
+8,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Forbes,none
+9,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,Green,none
+10,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,British Virgin Islands,BVI,2021,FAIL,0,0.0,True,Lookup Required,False,0,FisherDel,none
+11,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Ricardo Jérez,200000.0,False,working,False,Ricardo Jérez,Jerez,single
+12,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Stheven Robles,325000.0,False,working,False,Stheven Robles,Robles,single
+13,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,José Carlos Pinto,200000.0,False,working,False,José Carlos Pinto,Pinto,single
+14,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Gerardo Gordillo,450000.0,False,working,False,Gerardo Gordillo,Gordillo,single
+15,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,"['Víctor Hernández', 'Moisés Hernández', 'Denilson Hernández', 'Bernabé Hernández']",150000.0,False,working,False,"['Víctor Hernández', 'Moisés Hernández', 'Denilson Hernández', 'Bernabé Hernández']",Hernández,multiple
+16,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,José Manuel Contreras,350000.0,False,Data Ended before season : 2021,False,José Manuel Contreras,Contreras,single
+17,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,"['Jean Márquez', 'José Márquez']",-,False,Data Ended before season : 2021,False,"['Jean Márquez', 'José Márquez']",Márquez,multiple
+18,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,"['Jonathan López', 'Minor López', 'Dennis López', 'Osmar López', 'Hamilton López', 'Fredy López', 'Henry López', 'Manuel López', 'Prins López', 'Antonio López']",500000.0,False,working,False,"['Jonathan López', 'Minor López', 'Dennis López', 'Osmar López', 'Hamilton López', 'Fredy López', 'Henry López', 'Manuel López', 'Prins López', 'Antonio López']",López,multiple
+19,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Marvin Ceballos,125000.0,False,working,False,Marvin Ceballos,Ceballos,single
+20,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Darwin Lom,50000.0,False,working,False,Darwin Lom,Lom,single
+21,4094,"World Cup 2022, Qualifiers, CONCACAF",British Virgin Islands vs Guatemala,27-Mar-21,Guatemala,GT,2021,SUCCESS,Nico Rittmeyer,150000.0,False,Data Ended before season : 2021,False,Nico Rittmeyer,Rittmeyer,single
+22,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+23,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+24,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+25,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+26,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+27,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+28,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+29,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+30,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+31,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+32,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Saint Lucia,LC,2021,FAIL,-,0,False,Null Name,False,,-,none
+33,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+34,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+35,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+36,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+37,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+38,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+39,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+40,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+41,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+42,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+43,4095,"World Cup 2022, Qualifiers, CONCACAF",Saint Lucia vs Haiti,28-Mar-21,Haiti,HT,2021,FAIL,-,0,False,Null Name,False,,-,none
+44,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",0.0,False,Large Dataset said 0,False,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",Prince,multiple
+45,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,FAIL,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Malcolm Joseph', 'Travist Joseph']",False,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",Joseph,multiple
+46,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,Sidney Lockhart,0.0,False,Large Dataset had 0,False,Sidney Lockhart,Lockhart,single
+47,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,FAIL,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Malcolm Joseph', 'Travist Joseph']",False,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",Joseph,multiple
+48,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,"['Jerome Thomas', 'Eddie Thomas', 'Briel Thomas', 'Kimani Thomas', 'Neilbert Thomas', 'Keeyan Thomas']",0.0,False,Used Large Dataset,False,"['Jerome Thomas', 'Eddie Thomas', 'Briel Thomas', 'Kimani Thomas', 'Neilbert Thomas', 'Keeyan Thomas']",Thomas,multiple
+49,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,Kelrick Walters,0.0,False,Large Dataset had 0,False,Kelrick Walters,Walters,single
+50,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,Triston Sandy,0.0,False,Large Dataset had 0,False,Triston Sandy,Sandy,single
+51,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,Fitz Jolly,0.0,False,Large Dataset had 0,False,Fitz Jolly,Jolly,single
+52,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,"['Rashid Bertrand', 'Chad Bertrand', 'Euclid Bertrand']",-,False,Data Ended before season : 2021,False,"['Rashid Bertrand', 'Chad Bertrand', 'Euclid Bertrand']",Bertrand,multiple
+53,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,SUCCESS,Erskim Williams,0.0,False,Large Dataset had 0,False,Erskim Williams,Williams,single
+54,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Dominica,DM,2021,FAIL,"['Eric Wade', 'Julian Wade']",0,True,Online Lookup Required,False,"['Eric Wade', 'Julian Wade']",Wade,multiple
+55,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,"['Orlando Mosquera', 'Kevin Mosquera']",300000.0,False,working,False,"['Orlando Mosquera', 'Kevin Mosquera']",Mosquera,multiple
+56,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,César Blackman,500000.0,False,working,False,César Blackman,Blackman,single
+57,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Hárold Cummings,500000.0,False,working,False,Hárold Cummings,Cummings,single
+58,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Andrés Andrade,1000000.0,False,working,False,Andrés Andrade,Andrade,single
+59,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Éric Davis,750000.0,False,working,False,Éric Davis,Davis,single
+60,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Aníbal Godoy,600000.0,False,working,False,Aníbal Godoy,Godoy,single
+61,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Yoel Bárcenas,1000000.0,False,working,False,Yoel Bárcenas,Bárcenas,single
+62,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,FAIL,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",False,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",Rodríguez,multiple
+63,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Miguel Camargo,300000.0,False,working,False,Miguel Camargo,Camargo,single
+64,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,César Yanis,0.0,False,Large Dataset had 0,False,César Yanis,Yanis,single
+65,4096,"World Cup 2022, Qualifiers, CONCACAF",Dominica vs Panama,28-Mar-21,Panama,PA,2021,SUCCESS,Jair Catuy,0.0,False,Large Dataset had 0,False,Jair Catuy,Catuy,single
