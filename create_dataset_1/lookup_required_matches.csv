@@ -1,0 +1,1509 @@
+,Jersey Name,Name Match,Date,Nationality,Country Code,Match ID,Competition,Match
+0,D Tošić,['Dusko Tosic'],09-10-2017,Serbia,RS,3136,"World Cup Qualifiers, Europe, 2018",Serbia vs Georgia
+1,J Næs,['Jónas Tór Naes'],13-11-2016,Faroe Islands,FO,3137,"World Cup Qualifiers, Europe, 2018",Switzerland vs Faroe Islands
+2,S Kjær,['Simon Kjaer'],01-09-2017,Denmark,DK,3138,"World Cup Qualifiers, Europe, 2018",Denmark vs Poland
+3,E Višća,['Edin Visca'],06-09-2016,Bosnia-Herzegovina-Herzegovina,BA,3139,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Estonia
+4,A Gaţcan,['Alexandru Gatcan'],12-11-2016,Moldova,MD,3140,"World Cup Qualifiers, Europe, 2018",Georgia vs Moldova
+5,A Gaţcan,['Alexandru Gatcan'],05-09-2016,Moldova,MD,3142,"World Cup Qualifiers, Europe, 2018",Wales vs Moldova
+6,S Kjær,['Simon Kjaer'],05-10-2017,Denmark,DK,3158,"World Cup Qualifiers, Europe, 2018",Montenegro vs Denmark
+7,E Bičakčić,['Ermin Bicakcic'],07-10-2016,Bosnia-Herzegovina-Herzegovina,BA,3163,"World Cup Qualifiers, Europe, 2018",Belgium vs Bosnia-Herzegovina-Herzegovina
+8,D Subašić,['Danijel Subasic'],06-10-2016,Croatia,HR,3171,"World Cup Qualifiers, Europe, 2018",Kosovo vs Croatia
+9,S Kjær,['Simon Kjaer'],26-03-2017,Denmark,DK,3173,"World Cup Qualifiers, Europe, 2018",Romania vs Denmark
+10,J Næs,['Jónas Tór Naes'],09-06-2017,Faroe Islands,FO,3174,"World Cup Qualifiers, Europe, 2018",Faroe Islands vs Switzerland
+11,Yan Junling,['Junling Yan'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+12,Gao Zhuniy,['Zhunyi Gao'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+13,Zhang Linpeng,['Linpeng Zhang'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+14,Zhu Chenjie,['Chenjie Zhu'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+15,Zheng Zheng,['Zheng Zheng'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+16,Liu Yang,['Yang Liu'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+17,Junmin Hao,['Junmin Hao'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+18,Liao Lisheng,['Lisheng Liao'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+19,Xu Xin,['Xin Xu'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+20,Liu Binbin,['Binbin Liu'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+21,Zhang Yuning,['Yuning Zhang'],24-03-2022,China PR,CN,2680,"World Cup Qualifiers, Asia, 2022",China PR vs Saudi Arabia
+22,Helio Goncalves,['Hélio'],05-09-2019,Hong Kong,HK,2691,"World Cup Qualifiers, Asia, 2022",Cambodia vs Hong Kong
+23,Choe Jin-Nam,['Jin-nam Choe'],21-11-2023,North Korea,KP,2709,"World Cup Qualifiers, Asia, 2026",Myanmar vs North Korea
+24,Kim Kuk-Bom,['Kuk-bom Kim'],21-11-2023,North Korea,KP,2709,"World Cup Qualifiers, Asia, 2026",Myanmar vs North Korea
+25,Chen Wei-chuan,['Wei-Chuan Chen'],16-11-2023,Chinese Taipei,TW,2711,"World Cup Qualifiers, Asia, 2026",Oman vs Chinese Taipei
+26,Fong Shao-chi,['Shao-Chi Fong'],16-11-2023,Chinese Taipei,TW,2711,"World Cup Qualifiers, Asia, 2026",Oman vs Chinese Taipei
+27,Chen Wei-chuan,['Wei-Chuan Chen'],21-11-2023,Chinese Taipei,TW,2717,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Malaysia
+28,Fong Shao-chi,['Shao-Chi Fong'],21-11-2023,Chinese Taipei,TW,2717,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Malaysia
+29,Chen Hao-wei,['Hao-Wei Chen'],21-11-2023,Chinese Taipei,TW,2717,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Malaysia
+30,Kim Pom Hyok,['Pom-hyok Kim'],16-11-2023,North Korea,KP,2718,"World Cup Qualifiers, Asia, 2026",Syria vs North Korea
+31,Kim Kuk-Bom,['Kuk-bom Kim'],16-11-2023,North Korea,KP,2718,"World Cup Qualifiers, Asia, 2026",Syria vs North Korea
+32,Helio Goncalves,['Hélio'],17-10-2023,Hong Kong,HK,2719,"World Cup Qualifiers, Asia, 2026",Bhutan vs Hong Kong
+33,Helio Goncalves,['Hélio'],12-10-2023,Hong Kong,HK,2720,"World Cup Qualifiers, Asia, 2026",Hong Kong vs Bhutan
+34,Fong Shao-chi,['Shao-Chi Fong'],17-10-2023,Chinese Taipei,TW,2723,"World Cup Qualifiers, Asia, 2026",Timor-Leste vs Chinese Taipei
+35,Chen Wei-chuan,['Wei-Chuan Chen'],17-10-2023,Chinese Taipei,TW,2723,"World Cup Qualifiers, Asia, 2026",Timor-Leste vs Chinese Taipei
+36,Ernan Siluane,['Ernan'],19-11-2023,Mozambique,MZ,2231,"World Cup Qualifiers, Africa, 2026",Mozambique vs Algeria
+37,Gildo Vilanculos,['Gildo'],19-11-2023,Mozambique,MZ,2231,"World Cup Qualifiers, Africa, 2026",Mozambique vs Algeria
+38,G Kalulu,['Gédéon Kalulu'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+39,C Mbemba,['Chancel Mbemba'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+40,H Inonga,['Henoc Inonga'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+41,J Kayembe,['Joris Kayembe'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+42,T Bongonda,['Théo Bongonda'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+43,A Tshibola,['Aaron Tshibola'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+44,C Pickel,['Charles Pickel'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+45,Y Wissa,['Yoane Wissa'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+46,G Diangana,['Grady Diangana'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+47,S Banza,['Simon Banza'],19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+48,Jang Hyun-Soo,['Hyun-soo Jang'],18-06-2013,South Korea,KR,2255,"World Cup Qualifiers, Asia, 2014",South Korea vs Iran
+49,Kim Kee-Hee,['Kee-hee Kim'],18-06-2013,South Korea,KR,2255,"World Cup Qualifiers, Asia, 2014",South Korea vs Iran
+50,Chang Hao-wei,['Hao-Wei Chang'],03-09-2015,Chinese Taipei,TW,2263,"World Cup Qualifiers, Asia, 2018",Iraq vs Chinese Taipei
+51,Yen Ho-shen,['Ho-Shen Yen'],03-09-2015,Chinese Taipei,TW,2263,"World Cup Qualifiers, Asia, 2018",Iraq vs Chinese Taipei
+52,Ro Hak-Su,['Hak-su Ro'],16-06-2015,North Korea,KP,2264,"World Cup Qualifiers, Asia, 2018",North Korea vs Uzbekistan
+53,Chang Hao-wei,['Hao-Wei Chang'],08-09-2015,Chinese Taipei,TW,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam
+54,Wei Yu-jen,['Yu-Jen Wei'],08-09-2015,Chinese Taipei,TW,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam
+55,Ro Hak-Su,['Hak-su Ro'],29-03-2016,North Korea,KP,2268,"World Cup Qualifiers, Asia, 2018",Philippines vs North Korea
+56,I ehić,['Ibrahim Sehic'],31-03-2021,Bosnia-Herzegovina-Herzegovina,BA,3295,"World Cup Qualifiers, Europe, 2022",Bosnia-Herzegovina-Herzegovina vs France
+57,A Murić,['Arijanet Muric'],09-10-2021,Kosovo,XK,3298,"World Cup Qualifiers, Europe, 2022",Sweden vs Kosovo
+58,K Piątek,['Krzysztof Piatek'],31-03-2021,Poland,PL,3299,"World Cup Qualifiers, Europe, 2022",England vs Poland
+59,A ćekić,['Aleksandar Scekic'],01-09-2021,Montenegro,ME,3307,"World Cup Qualifiers, Europe, 2022",Turkey vs Montenegro
+60,S Kjær,['Simon Kjaer'],31-03-2021,Denmark,DK,3318,"World Cup Qualifiers, Europe, 2022",Austria vs Denmark
+61,M Sušić,['Mateo Susic'],16-11-2021,Bosnia-Herzegovina-Herzegovina,BA,3321,"World Cup Qualifiers, Europe, 2022",Bosnia-Herzegovina-Herzegovina vs Ukraine
+62,S Kjær,['Simon Kjaer'],25-03-2021,Denmark,DK,3322,"World Cup Qualifiers, Europe, 2022",Israel vs Denmark
+63,Maliy,['Sergey Maliy'],04.09.20,Kazakhstan,KZ,1673,Nations League 2020-2021,Lithuania vs Kazakhstan
+64,Maliy,['Sergey Maliy'],07.09.20,Kazakhstan,KZ,1675,Nations League 2020-2021,Kazakhstan vs Belarus
+65,Maliy,['Sergey Maliy'],14.10.20,Kazakhstan,KZ,1680,Nations League 2020-2021,Belarus vs Kazakhstan
+66,M Ošs,['Marcis Oss'],10.10.20,Latvia,LV,1689,Nations League 2020-2021,Faroe Islands vs Latvia
+67,M Ošs,['Marcis Oss'],13.10.20,Latvia,LV,1691,Nations League 2020-2021,Latvia vs Malta
+68,V Černý,['Vaclav Cerny'],17.06.23,Czech Republic,CZ,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech
+69,V Černý,['Vaclav Cerny'],07.09.23,Czech Republic,CZ,966,"Euros 2024, Qualifiers",Czech vs Albania
+70,V Černý,['Vaclav Cerny'],12.10.23,Czech Republic,CZ,969,"Euros 2024, Qualifiers",Albania vs Czech
+71,V Černý,['Vaclav Cerny'],15.10.23,Czech Republic,CZ,971,"Euros 2024, Qualifiers",Czech vs Faroe Islands
+72,R Kidiaba,['Robert Muteba Kidiaba'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+73,I Mpeko,['Issama Mpeko'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+74,J Kimwaki,['Joël Kimwaki'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+75,C Mongongu,['Cédric Mongongu'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+76,Y Mulumbu,['Youssouf Mulumbu'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+77,C Mbemba,['Chancel Mbemba'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+78,F Mubele,['Firmin Mubele'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+79,Y Bolasie,['Yannick Bolasie'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+80,H Kage,['Hervé Kage'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+81,D Mbokani,['Dieumerci Mbokani'],18-01-2015,Congo DR,DR,3485,"African Cup of Nations, 2015",Zambia vs Congo DR
+82,Rui Gomes,['Rui'],17-01-2015,Equatorial Guinea,GQ,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo
+83,R Kidiaba,['Robert Muteba Kidiaba'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+84,I Mpeko,['Issama Mpeko'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+85,J Kimwaki,['Joël Kimwaki'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+86,C Mongongu,['Cédric Mongongu'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+87,C Mbemba,['Chancel Mbemba'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+88,C Makiadi,['Cédric Makiadi'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+89,Y Bolasie,['Yannick Bolasie'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+90,Cedrick,['Cedrick'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+91,F Mubele,['Firmin Mubele'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+92,D Mbokani,['Dieumerci Mbokani'],26-01-2015,Congo DR,DR,3490,"African Cup of Nations, 2015",Congo DR vs Tunisia
+93,R Kidiaba,['Robert Muteba Kidiaba'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+94,I Mpeko,['Issama Mpeko'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+95,G Zakuani,['Gabriel Zakuani'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+96,C Mongongu,['Cédric Mongongu'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+97,C Mbemba,['Chancel Mbemba'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+98,C Makiadi,['Cédric Makiadi'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+99,J Bokila,['Jeremy Bokila'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+100,Cedrick,['Cedrick'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+101,Y Bolasie,['Yannick Bolasie'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+102,D Mbokani,['Dieumerci Mbokani'],31-01-2015,Congo DR,DR,3492,"African Cup of Nations, 2015",Congo vs Congo DR
+103,R Kidiaba,['Robert Muteba Kidiaba'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+104,I Mpeko,['Issama Mpeko'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+105,J Kimwaki,['Joël Kimwaki'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+106,C Mongongu,['Cédric Mongongu'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+107,Y Mulumbu,['Youssouf Mulumbu'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+108,C Mbemba,['Chancel Mbemba'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+109,Cedrick,['Cedrick'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+110,Y Bolasie,['Yannick Bolasie'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+111,D Mbokani,['Dieumerci Mbokani'],22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+112,Rui Gomes,['Rui'],25-01-2015,Equatorial Guinea,GQ,3498,"African Cup of Nations, 2015",Gabon vs Equatorial Guinea
+113,L Matampi,['Ley Matampi'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+114,I Mpeko,['Issama Mpeko'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+115,M Bokadi,['Merveille Bokadi'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+116,M Tisserand,['Marcel Tisserand'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+117,L Mutambala,['Lomalisa Mutambala'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+118,R Mulumba,['Remi Mulumba'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+119,C Mbemba,['Chancel Mbemba'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+120,F Mubele,['Firmin Mubele'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+121,J Kabananga,['Junior Kabananga'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+122,D Mbokani,['Dieumerci Mbokani'],29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+123,L Matampi,['Ley Matampi'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+124,J Ikoko,['Jordan Ikoko'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+125,M Bokadi,['Merveille Bokadi'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+126,M Tisserand,['Marcel Tisserand'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+127,I Mpeko,['Issama Mpeko'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+128,C Mbemba,['Chancel Mbemba'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+129,J Maghoma,['Jacques Maghoma'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+130,J Kabananga,['Junior Kabananga'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+131,N Kebano,['Neeskens Kebano'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+132,F Mubele,['Firmin Mubele'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+133,D Mbokani,['Dieumerci Mbokani'],20-01-2017,Congo DR,DR,3513,"African Cup of Nations, 2017",Cote d'Ivoire vs Congo DR
+134,L Matampi,['Ley Matampi'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+135,I Mpeko,['Issama Mpeko'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+136,M Bokadi,['Merveille Bokadi'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+137,M Tisserand,['Marcel Tisserand'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+138,L Mutambala,['Lomalisa Mutambala'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+139,C Mbemba,['Chancel Mbemba'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+140,Y Mulumbu,['Youssouf Mulumbu'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+141,F Mubele,['Firmin Mubele'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+142,N Kebano,['Neeskens Kebano'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+143,J Kabananga,['Junior Kabananga'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+144,J Bolingi,['Jonathan Bolingi'],24-01-2017,Congo DR,DR,3523,"African Cup of Nations, 2017",Togo vs Congo DR
+145,L Matampi,['Ley Matampi'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+146,I Mpeko,['Issama Mpeko'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+147,G Zakuani,['Gabriel Zakuani'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+148,M Tisserand,['Marcel Tisserand'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+149,M Bokadi,['Merveille Bokadi'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+150,J Kabananga,['Junior Kabananga'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+151,R Mulumba,['Remi Mulumba'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+152,C Mbemba,['Chancel Mbemba'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+153,F Mubele,['Firmin Mubele'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+154,C Bakambu,['Cédric Bakambu'],16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+155,L Matampi,['Ley Matampi'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+156,I Mpeko,['Issama Mpeko'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+157,C Mbemba,['Chancel Mbemba'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+158,M Tisserand,['Marcel Tisserand'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+159,N Muzinga,['Ngonda Muzinga'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+160,C Akolo,['Chadrac Akolo'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+161,W Moke,['Wilfred Moke'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+162,Y Mulumbu,['Youssouf Mulumbu'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+163,J Maghoma,['Jacques Maghoma'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+164,J Bolingi,['Jonathan Bolingi'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+165,C Bakambu,['Cédric Bakambu'],30-06-2019,Congo DR,DR,3536,"African Cup of Nations, 2019",Zimbabwe vs Congo DR
+166,M Ošs,['Marcis Oss'],21.03.19,Latvia,LV,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia
+167,K Piątek,['Krzysztof Piatek'],24.03.19,Poland,PL,760,"Euros 2020, Qualifiers",Poland vs Latvia
+168,M Ošs,['Marcis Oss'],24.03.19,Latvia,LV,760,"Euros 2020, Qualifiers",Poland vs Latvia
+169,M Ošs,['Marcis Oss'],07.06.19,Latvia,LV,764,"Euros 2020, Qualifiers",Latvia vs Israel
+170,K Piątek,['Krzysztof Piatek'],10.06.19,Poland,PL,765,"Euros 2020, Qualifiers",Poland vs Israel
+171,M Ošs,['Marcis Oss'],10.06.19,Latvia,LV,767,"Euros 2020, Qualifiers",Latvia vs Slovenia
+172,K Piątek,['Krzysztof Piatek'],06.09.19,Poland,PL,770,"Euros 2020, Qualifiers",Slovenia vs Poland
+173,M Ošs,['Marcis Oss'],10.10.19,Latvia,LV,776,"Euros 2020, Qualifiers",Latvia vs Poland
+174,M Ošs,['Marcis Oss'],15.10.19,Latvia,LV,779,"Euros 2020, Qualifiers",Israel vs Latvia
+175,M Ošs,['Marcis Oss'],16.11.19,Latvia,LV,780,"Euros 2020, Qualifiers",Slovenia vs Latvia
+176,K Piątek,['Krzysztof Piatek'],16.11.19,Poland,PL,782,"Euros 2020, Qualifiers",Israel vs Poland
+177,M Ošs,['Marcis Oss'],19.11.19,Latvia,LV,785,"Euros 2020, Qualifiers",Latvia vs Austria
+178,D Luís,['Daniel Luis'],18-07-2015,Cuba,CU,3667,"Gold Cup, 2015",United States vs Cuba
+179,D Luís,['Daniel Luis'],15-07-2015,Cuba,CU,3670,"Gold Cup, 2015",Cuba vs Guatemala
+180,C Ruíz,['Carlos Ruiz'],15-07-2015,Guatemala,GT,3670,"Gold Cup, 2015",Cuba vs Guatemala
+181,C Ruíz,['Carlos Ruiz'],10-07-2015,Guatemala,GT,3672,"Gold Cup, 2015",Trinidad and Tobago vs Guatemala
+182,C Ruíz,['Carlos Ruiz'],13-07-2015,Guatemala,GT,3674,"Gold Cup, 2015",Guatemala vs Mexico
+183,D Luís,['Daniel Luis'],12-07-2015,Cuba,CU,3684,"Gold Cup, 2015",Trinidad and Tobago vs Cuba
+184,J Kiassumbua,['Joël Kiassumbua'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+185,C Luyindama,['Christian Luyindama'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+186,C Mbemba,['Chancel Mbemba'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+187,A Masuaku,['Arthur Masuaku'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+188,G Kakuta,['Gaël Kakuta'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+189,S Moutoussamy,['Samuel Moutoussamy'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+190,S Bastien,['Samuel Bastien'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+191,Y Bolasie,['Yannick Bolasie'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+192,D Mbokani,['Dieumerci Mbokani'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+193,B Malango,['Ben Malango'],14-11-2021,Congo DR,DR,2195,"World Cup Qualifiers, Africa, 2022",Congo DR vs Benin
+194,Ernan Siluane,['Ernan'],08-10-2021,Mozambique,MZ,2197,"World Cup Qualifiers, Africa, 2022",Cameroon vs Mozambique
+195,G Kalulu,['Gédéon Kalulu'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+196,C Mbemba,['Chancel Mbemba'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+197,H Inonga,['Henoc Inonga'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+198,J Kayembe,['Joris Kayembe'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+199,C Pickel,['Charles Pickel'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+200,S Moutoussamy,['Samuel Moutoussamy'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+201,M Elia,['Meschack Elia'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+202,G Kakuta,['Gaël Kakuta'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+203,Y Wissa,['Yoane Wissa'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+204,C Bakambu,['Cédric Bakambu'],15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+205,Ernan Siluane,['Ernan'],16-11-2023,Mozambique,MZ,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique
+206,Amadou Momade,['Amadú'],16-11-2023,Mozambique,MZ,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique
+207,Gildo Vilanculos,['Gildo'],16-11-2023,Mozambique,MZ,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique
+208,R Yapéndé,['Raphael Marc Yapende'],17-11-2023,Central African Republic,CF,2215,"World Cup Qualifiers, Africa, 2026",Comoros vs Central African Republic
+209,Yan Junling,['Junling Yan'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+210,Liu Binbin,['Binbin Liu'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+211,Zhang Linpeng,['Linpeng Zhang'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+212,Jiang Shenglong,['Shenglong Jiang'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+213,Zhu Chenjie,['Chenjie Zhu'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+214,Liu Yang,['Yang Liu'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+215,Wu Lei,['Lei Wu'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+216,Xi Wu,['Xi Wu'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+217,Wang Shangyuan,['Shangyuan Wang'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+218,Wei Shihao,['Shihao Wei'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+219,Tan Long,['Long Tan'],21-11-2023,China PR,CN,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+220,Kim Tae-Hwan,['Tae-hwan Kim'],21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+221,Kim Min-Jae,['Min-jae Kim'],21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+222,Lee Kang-In,['Kang-in Lee'],21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+223,Hwang In-Beom,['In-beom Hwang'],21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+224,Cho Gue-Sung,['Gue-sung Cho'],21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+225,Fong Shao-chi,['Shao-Chi Fong'],12-10-2023,Chinese Taipei,TW,2741,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Timor-Leste
+226,Chen Wei-chuan,['Wei-Chuan Chen'],12-10-2023,Chinese Taipei,TW,2741,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Timor-Leste
+227,Song Ui-Young,['Ui-young Song'],12-10-2023,Singapore,SG,2742,"World Cup Qualifiers, Asia, 2026",Singapore vs Guam
+228,Yan Junling,['Junling Yan'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+229,Zhang Linpeng,['Linpeng Zhang'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+230,Jiang Shenglong,['Shenglong Jiang'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+231,Zhu Chenjie,['Chenjie Zhu'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+232,Liu Binbin,['Binbin Liu'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+233,Xi Wu,['Xi Wu'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+234,Wei Shihao,['Shihao Wei'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+235,Li Lei,['Lei Li'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+236,Wu Lei,['Lei Wu'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+237,Tan Long,['Long Tan'],16-11-2023,China PR,CN,2743,"World Cup Qualifiers, Asia, 2026",Thailand vs China PR
+238,Song Ui-Young,['Ui-young Song'],21-11-2023,Singapore,SG,2744,"World Cup Qualifiers, Asia, 2026",Singapore vs Thailand
+239,Song Ui-Young,['Ui-young Song'],17-10-2023,Singapore,SG,2748,"World Cup Qualifiers, Asia, 2026",Guam vs Singapore
+240,Seol Young-Woo,['Young-woo Seol'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+241,Kim Min-Jae,['Min-jae Kim'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+242,Lee Kang-In,['Kang-in Lee'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+243,Lee Jae-Sung,['Jae-sung Lee'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+244,Hwang In-Beom,['In-beom Hwang'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+245,Cho Gue-Sung,['Gue-sung Cho'],16-11-2023,South Korea,KR,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+246,Song Ui-Young,['Ui-young Song'],16-11-2023,Singapore,SG,2758,"World Cup Qualifiers, Asia, 2026",South Korea vs Singapore
+247,M ükürov,['Mahir Shukurov'],11-10-2013,Azerbaijan,AZ,2764,"World Cup Qualifiers, Europe, 2014",Azerbaijan vs Northern Ireland
+248,E Bičakčić,['Ermin Bicakcic'],11-10-2013,Bosnia-Herzegovina-Herzegovina,BA,2768,"World Cup Qualifiers, Europe, 2014",Bosnia-Herzegovina-Herzegovina vs Liechtenstein
+249,Silvestre Varela,['Varela'],15-10-2013,Portugal,PT,2769,"World Cup Qualifiers, Europe, 2014",Portugal vs Luxembourg
+250,V Božović,['Vladimir Bozovic'],06-09-2013,Montenegro,ME,2774,"World Cup Qualifiers, Europe, 2014",Poland vs Montenegro
+251,G Vičius,['Gediminas Vicius'],10-09-2013,Lithuania,LT,2775,"World Cup Qualifiers, Europe, 2014",Lithuania vs Liechtenstein
+252,V Černý,['Vaclav Cerny'],12.06.22,Czech Republic,CZ,1726,Nations League 2022-2023,Spain vs Czech
+253,V Černý,['Vaclav Cerny'],27.09.22,Czech Republic,CZ,1731,Nations League 2022-2023,Switzerland vs Czech
+254,K Piątek,['Krzysztof Piatek'],11.06.22,Poland,PL,1748,Nations League 2022-2023,Netherlands vs Poland
+255,Zhang Linpeng,['Linpeng Zhang'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+256,Mei Fang,['Fang Mei'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+257,Xiaoting Feng,['Xiaoting Feng'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+258,Jiang Zhipeng,['Zhipeng Jiang'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+259,Xi Wu,['Xi Wu'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+260,Zhang Xizhe,['Xizhe Zhang'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+261,Yu Dabao,['Dabao Yu'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+262,Zhang Yuning,['Yuning Zhang'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+263,Gao Lin,['Lin Gao'],28-03-2017,China PR,CN,2431,"World Cup Qualifiers, Asia, 2018",Iran vs China PR
+264,Jang Hyun-Soo,['Hyun-soo Jang'],03-09-2015,South Korea,KR,2452,"World Cup Qualifiers, Asia, 2018",South Korea vs Laos
+265,Wang Dalei,['Dalei Wang'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+266,Zhang Linpeng,['Linpeng Zhang'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+267,Mei Fang,['Fang Mei'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+268,Ren Hang,['Hang Ren'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+269,Jiang Zhipeng,['Zhipeng Jiang'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+270,Wu Lei,['Lei Wu'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+271,Xi Wu,['Xi Wu'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+272,Yu Dabao,['Dabao Yu'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+273,Hanchao Yu,['Hanchao Yu'],03-09-2015,China PR,CN,2454,"World Cup Qualifiers, Asia, 2018",China PR vs Hong Kong
+274,Zhao Mingjian,['Mingjian Zhao'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+275,Zhang Linpeng,['Linpeng Zhang'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+276,Xiaoting Feng,['Xiaoting Feng'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+277,Ren Hang,['Hang Ren'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+278,Jiang Ning,['Ning Jiang'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+279,Junmin Hao,['Junmin Hao'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+280,Huang Bowen,['Bowen Huang'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+281,Li Xuepeng,['Xuepeng Li'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+282,Zhang Xizhe,['Xizhe Zhang'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+283,Wu Lei,['Lei Wu'],29-03-2016,China PR,CN,2455,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+284,Kim Kee-Hee,['Kee-hee Kim'],17-11-2015,South Korea,KR,2458,"World Cup Qualifiers, Asia, 2018",Laos vs South Korea
+285,Lee Jae-Sung,['Jae-sung Lee'],17-11-2015,South Korea,KR,2458,"World Cup Qualifiers, Asia, 2018",Laos vs South Korea
+286,Nam Tae-Hee,['Tae-hee Nam'],17-11-2015,South Korea,KR,2458,"World Cup Qualifiers, Asia, 2018",Laos vs South Korea
+287,Rakitskyi,['Yaroslav Rakitskyi'],08.09.14,Ukraine,UA,415,"Euros 2016, Qualifiers",Ukraine vs Slovakia
+288,Rakitskyi,['Yaroslav Rakitskyi'],15.11.14,Ukraine,UA,422,"Euros 2016, Qualifiers",Luxembourg vs Ukraine
+289,Rakitskyi,['Yaroslav Rakitskyi'],14.06.15,Ukraine,UA,428,"Euros 2016, Qualifiers",Ukraine vs Luxembourg
+290,Rakitskyi,['Yaroslav Rakitskyi'],05.09.15,Ukraine,UA,432,"Euros 2016, Qualifiers",Ukraine vs Belarus
+291,Rakitskyi,['Yaroslav Rakitskyi'],08.09.15,Ukraine,UA,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine
+292,Rakitskyi,['Yaroslav Rakitskyi'],09.10.15,Ukraine,UA,437,"Euros 2016, Qualifiers",North Macedonia vs Ukraine
+293,Rakitskyi,['Yaroslav Rakitskyi'],12.10.15,Ukraine,UA,442,"Euros 2016, Qualifiers",Ukraine vs Spain
+294,Zhang Linpeng,['Linpeng Zhang'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+295,Mei Fang,['Fang Mei'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+296,Xiaoting Feng,['Xiaoting Feng'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+297,Jiang Zhipeng,['Zhipeng Jiang'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+298,Junmin Hao,['Junmin Hao'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+299,Zhang Xizhe,['Xizhe Zhang'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+300,Wu Lei,['Lei Wu'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+301,Yu Dabao,['Dabao Yu'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+302,Wang Yongpo,['Yongpo Wang'],23-03-2017,China PR,CN,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+303,Jang Hyun-Soo,['Hyun-soo Jang'],23-03-2017,South Korea,KR,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+304,Kim Jin-Su,['Jin-su Kim'],23-03-2017,South Korea,KR,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+305,Nam Tae-Hee,['Tae-hee Nam'],23-03-2017,South Korea,KR,2387,"World Cup Qualifiers, Asia, 2018",China PR vs South Korea
+306,Kim Min-Jae,['Min-jae Kim'],05-09-2017,South Korea,KR,2393,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs South Korea
+307,Kim Min-Woo,['Min-woo Kim'],05-09-2017,South Korea,KR,2393,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs South Korea
+308,Jang Hyun-Soo,['Hyun-soo Jang'],05-09-2017,South Korea,KR,2393,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs South Korea
+309,Jang Hyun-Soo,['Hyun-soo Jang'],06-10-2016,South Korea,KR,2396,"World Cup Qualifiers, Asia, 2018",South Korea vs Qatar
+310,Kim Kee-Hee,['Kee-hee Kim'],06-10-2016,South Korea,KR,2396,"World Cup Qualifiers, Asia, 2018",South Korea vs Qatar
+311,Choi Chul-Soon,['Chul-soon Choi'],31-08-2017,South Korea,KR,2402,"World Cup Qualifiers, Asia, 2018",South Korea vs Iran
+312,Kim Min-Jae,['Min-jae Kim'],31-08-2017,South Korea,KR,2402,"World Cup Qualifiers, Asia, 2018",South Korea vs Iran
+313,Kim Jin-Su,['Jin-su Kim'],31-08-2017,South Korea,KR,2402,"World Cup Qualifiers, Asia, 2018",South Korea vs Iran
+314,Jang Hyun-Soo,['Hyun-soo Jang'],31-08-2017,South Korea,KR,2402,"World Cup Qualifiers, Asia, 2018",South Korea vs Iran
+315,Lee Jae-Sung,['Jae-sung Lee'],31-08-2017,South Korea,KR,2402,"World Cup Qualifiers, Asia, 2018",South Korea vs Iran
+316,Ro Hak-Su,['Hak-su Ro'],08-10-2015,North Korea,KP,2413,"World Cup Qualifiers, Asia, 2018",North Korea vs Philippines
+317,Ro Hak-Su,['Hak-su Ro'],03-09-2015,North Korea,KP,2416,"World Cup Qualifiers, Asia, 2018",Bahrain vs North Korea
+318,Jang Hyun-Soo,['Hyun-soo Jang'],01-09-2016,South Korea,KR,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+319,Kim Kee-Hee,['Kee-hee Kim'],01-09-2016,South Korea,KR,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+320,Zhang Linpeng,['Linpeng Zhang'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+321,Xiaoting Feng,['Xiaoting Feng'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+322,Li Xuepeng,['Xuepeng Li'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+323,Ren Hang,['Hang Ren'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+324,Huang Bowen,['Bowen Huang'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+325,Yu Hai,['Hai Yu'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+326,Xi Wu,['Xi Wu'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+327,Wu Lei,['Lei Wu'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+328,Sun Ke,['Ke Sun'],01-09-2016,China PR,CN,2420,"World Cup Qualifiers, Asia, 2018",South Korea vs China PR
+329,Deng Hanwen,['Hanwen Deng'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+330,Zhang Linpeng,['Linpeng Zhang'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+331,Xiaoting Feng,['Xiaoting Feng'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+332,Li Xuepeng,['Xuepeng Li'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+333,Junmin Hao,['Junmin Hao'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+334,Zhang Xizhe,['Xizhe Zhang'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+335,Hanchao Yu,['Hanchao Yu'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+336,Gao Lin,['Lin Gao'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+337,Wu Lei,['Lei Wu'],31-08-2017,China PR,CN,2421,"World Cup Qualifiers, Asia, 2018",China PR vs Uzbekistan
+338,Chen Hao-wei,['Hao-Wei Chen'],12-3-2015,Chinese Taipei,TW,2424,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Brunei
+339,Ernan Siluane,['Ernan'],03-09-2021,Mozambique,MZ,2080,"World Cup Qualifiers, Africa, 2022",Mozambique vs Cote d'Ivoire
+340,Rui Gomes,['Rui'],07-09-2021,Equatorial Guinea,GQ,2101,"World Cup Qualifiers, Africa, 2022",Equatorial Guinea vs Mauritania
+341,Ernan Siluane,['Ernan'],07-09-2021,Mozambique,MZ,2105,"World Cup Qualifiers, Africa, 2022",Malawi vs Mozambique
+342,Ernan Siluane,['Ernan'],11-10-2021,Mozambique,MZ,2109,"World Cup Qualifiers, Africa, 2022",Mozambique vs Cameroon
+343,J Kiassumbua,['Joël Kiassumbua'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+344,D Mukoko Amale,['Dieumerci Amale'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+345,C Luyindama,['Christian Luyindama'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+346,C Mbemba,['Chancel Mbemba'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+347,S Moutoussamy,['Samuel Moutoussamy'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+348,E Kayembe,['Edo Kayembe'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+349,S Bastien,['Samuel Bastien'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+350,C Akolo,['Chadrac Akolo'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+351,D Mbokani,['Dieumerci Mbokani'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+352,C Bakambu,['Cédric Bakambu'],07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+353,Rakitskyi,['Yaroslav Rakitskyi'],06.09.18,Ukraine,UA,1422,Nations League 2018-2020,Czech vs Ukraine
+354,Rakitskyi,['Yaroslav Rakitskyi'],09.09.18,Ukraine,UA,1423,Nations League 2018-2020,Ukraine vs Slovakia
+355,Rakitskyi,['Yaroslav Rakitskyi'],16.10.18,Ukraine,UA,1425,Nations League 2018-2020,Ukraine vs Czech
+356,S Kjær,['Simon Kjaer'],11-10-2016,Denmark,DK,3035,"World Cup Qualifiers, Europe, 2018",Denmark vs Montenegro
+357,A ćekić,['Aleksandar Scekic'],11-10-2016,Montenegro,ME,3035,"World Cup Qualifiers, Europe, 2018",Denmark vs Montenegro
+358,E Bičakčić,['Ermin Bicakcic'],31-08-2017,Bosnia-Herzegovina-Herzegovina,BA,3039,"World Cup Qualifiers, Europe, 2018",Cyprus vs Bosnia-Herzegovina-Herzegovina
+359,E Višća,['Edin Visca'],31-08-2017,Bosnia-Herzegovina-Herzegovina,BA,3039,"World Cup Qualifiers, Europe, 2018",Cyprus vs Bosnia-Herzegovina-Herzegovina
+360,S Kjær,['Simon Kjaer'],08-10-2017,Denmark,DK,3051,"World Cup Qualifiers, Europe, 2018",Denmark vs Romania
+361,E Bičakčić,['Ermin Bicakcic'],09-06-2017,Bosnia-Herzegovina-Herzegovina,BA,3054,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Greece
+362,E Višća,['Edin Visca'],09-06-2017,Bosnia-Herzegovina-Herzegovina,BA,3054,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Greece
+363,D Subašić,['Danijel Subasic'],12-11-2016,Croatia,HR,3056,"World Cup Qualifiers, Europe, 2018",Croatia vs Iceland
+364,Thiago Alcântara,['Thiago'],09-10-2016,Spain,ES,3059,"World Cup Qualifiers, Europe, 2018",Albania vs Spain
+365,A Gaţcan,['Alexandru Gatcan'],09-10-2016,Moldova,MD,3074,"World Cup Qualifiers, Europe, 2018",Moldova vs Republic of Ireland
+366,K Piątek,['Krzysztof Piatek'],11.10.18,Poland,PL,1412,Nations League 2018-2020,Poland vs Portugal
+367,A Barišić,['Adrian Leon Barisic'],17.06.23,Bosnia-Herzegovina,BA,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina
+368,A Barišić,['Adrian Leon Barisic'],20.06.23,Bosnia-Herzegovina,BA,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg
+369,A Barišić,['Adrian Leon Barisic'],13.10.23,Bosnia-Herzegovina,BA,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina
+370,A Barišić,['Adrian Leon Barisic'],16.10.23,Bosnia-Herzegovina,BA,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal
+371,Jang Hyun-Soo,['Hyun-soo Jang'],8-10-2015,South Korea,KR,2326,"World Cup Qualifiers, Asia, 2018",Kuwait vs South Korea
+372,Nam Tae-Hee,['Tae-hee Nam'],8-10-2015,South Korea,KR,2326,"World Cup Qualifiers, Asia, 2018",Kuwait vs South Korea
+373,Zhang Linpeng,['Linpeng Zhang'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+374,Xiaoting Feng,['Xiaoting Feng'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+375,Ren Hang,['Hang Ren'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+376,Li Xuepeng,['Xuepeng Li'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+377,Hanchao Yu,['Hanchao Yu'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+378,Zhao Xuri,['Xuri Zhao'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+379,Zhang Xizhe,['Xizhe Zhang'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+380,Zhi Xiao,['Zhi Xiao'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+381,Gao Lin,['Lin Gao'],05-09-2017,China PR,CN,2327,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+382,Choi Chul-Soon,['Chul-soon Choi'],13-06-2017,South Korea,KR,2329,"World Cup Qualifiers, Asia, 2018",Qatar vs South Korea
+383,Jang Hyun-Soo,['Hyun-soo Jang'],13-06-2017,South Korea,KR,2329,"World Cup Qualifiers, Asia, 2018",Qatar vs South Korea
+384,Kim Jin-Su,['Jin-su Kim'],13-06-2017,South Korea,KR,2329,"World Cup Qualifiers, Asia, 2018",Qatar vs South Korea
+385,Lee Jae-Sung,['Jae-sung Lee'],13-06-2017,South Korea,KR,2329,"World Cup Qualifiers, Asia, 2018",Qatar vs South Korea
+386,Wang Dalei,['Dalei Wang'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+387,Zhang Linpeng,['Linpeng Zhang'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+388,Mei Fang,['Fang Mei'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+389,Xiaoting Feng,['Xiaoting Feng'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+390,Xi Wu,['Xi Wu'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+391,Huang Bowen,['Bowen Huang'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+392,Wu Lei,['Lei Wu'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+393,Yu Dabao,['Dabao Yu'],17-11-2015,China PR,CN,2330,"World Cup Qualifiers, Asia, 2018",Hong Kong vs China PR
+394,Chen Hao-wei,['Hao-Wei Chen'],17-03-2015,Chinese Taipei,TW,2331,"World Cup Qualifiers, Asia, 2018",Brunei vs Chinese Taipei
+395,Hung Kai-chun,['Kai-Chun Huang'],12-11-2015,Chinese Taipei,TW,2333,"World Cup Qualifiers, Asia, 2018",Thailand vs Chinese Taipei
+396,Chen Hao-wei,['Hao-Wei Chen'],12-11-2015,Chinese Taipei,TW,2333,"World Cup Qualifiers, Asia, 2018",Thailand vs Chinese Taipei
+397,Yan Junling,['Junling Yan'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+398,Zhang Linpeng,['Linpeng Zhang'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+399,Mei Fang,['Fang Mei'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+400,Xiaoting Feng,['Xiaoting Feng'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+401,Jiang Zhipeng,['Zhipeng Jiang'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+402,Xi Wu,['Xi Wu'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+403,Huang Bowen,['Bowen Huang'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+404,Wu Lei,['Lei Wu'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+405,Zhang Yuning,['Yuning Zhang'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+406,Zhang Xizhe,['Xizhe Zhang'],15-11-2016,China PR,CN,2335,"World Cup Qualifiers, Asia, 2018",China PR vs Qatar
+407,Yan Junling,['Junling Yan'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+408,Zhang Chengdong,['Chengdong Zhang'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+409,Mei Fang,['Fang Mei'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+410,Ren Hang,['Hang Ren'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+411,Jiang Zhipeng,['Zhipeng Jiang'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+412,Wu Lei,['Lei Wu'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+413,Cai Huikang,['Huikang Cai'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+414,Sun Ke,['Ke Sun'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+415,Gao Lin,['Lin Gao'],16-06-2015,China PR,CN,2339,"World Cup Qualifiers, Asia, 2018",Bhutan vs China PR
+416,Zhao Mingjian,['Mingjian Zhao'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+417,Xiaoting Feng,['Xiaoting Feng'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+418,Ren Hang,['Hang Ren'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+419,Li Xuepeng,['Xuepeng Li'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+420,Jiang Ning,['Ning Jiang'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+421,Junmin Hao,['Junmin Hao'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+422,Xi Wu,['Xi Wu'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+423,Yu Hai,['Hai Yu'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+424,Wu Lei,['Lei Wu'],24-03-2016,China PR,CN,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives
+425,Wang Dalei,['Dalei Wang'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+426,Ji Xiang,['Xiang Ji'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+427,Mei Fang,['Fang Mei'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+428,Ren Hang,['Hang Ren'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+429,Yu Dabao,['Dabao Yu'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+430,Zhang Linpeng,['Linpeng Zhang'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+431,Cai Huikang,['Huikang Cai'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+432,Xi Wu,['Xi Wu'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+433,Zhang Chengdong,['Chengdong Zhang'],08-10-2015,China PR,CN,2353,"World Cup Qualifiers, Asia, 2018",Qatar vs China PR
+434,Jang Hyun-Soo,['Hyun-soo Jang'],12-11-2015,South Korea,KR,2354,"World Cup Qualifiers, Asia, 2018",South Korea vs Myanmar
+435,Kim Jin-Su,['Jin-su Kim'],12-11-2015,South Korea,KR,2354,"World Cup Qualifiers, Asia, 2018",South Korea vs Myanmar
+436,Lee Jae-Sung,['Jae-sung Lee'],12-11-2015,South Korea,KR,2354,"World Cup Qualifiers, Asia, 2018",South Korea vs Myanmar
+437,Zhang Linpeng,['Linpeng Zhang'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+438,Xiaoting Feng,['Xiaoting Feng'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+439,Li Xuepeng,['Xuepeng Li'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+440,Zhao Mingjian,['Mingjian Zhao'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+441,Yu Hai,['Hai Yu'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+442,Junmin Hao,['Junmin Hao'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+443,Huang Bowen,['Bowen Huang'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+444,Ren Hang,['Hang Ren'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+445,Wu Lei,['Lei Wu'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+446,Zhang Yuning,['Yuning Zhang'],06-09-2016,China PR,CN,2359,"World Cup Qualifiers, Asia, 2018",China PR vs Iran
+447,Yen Ho-shen,['Ho-Shen Yen'],17-11-2015,Chinese Taipei,TW,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq
+448,Hung Kai-chun,['Kai-Chun Huang'],17-11-2015,Chinese Taipei,TW,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq
+449,Chen Hao-wei,['Hao-Wei Chen'],17-11-2015,Chinese Taipei,TW,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq
+450,Chao Gu,['Chao Gu'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+451,Zhao Mingjian,['Mingjian Zhao'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+452,Zhang Linpeng,['Linpeng Zhang'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+453,Xiaoting Feng,['Xiaoting Feng'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+454,Ren Hang,['Hang Ren'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+455,Yu Hai,['Hai Yu'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+456,Huang Bowen,['Bowen Huang'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+457,Junmin Hao,['Junmin Hao'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+458,Zhang Xizhe,['Xizhe Zhang'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+459,Zhang Yuning,['Yuning Zhang'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+460,Gao Lin,['Lin Gao'],06-10-2016,China PR,CN,2372,"World Cup Qualifiers, Asia, 2018",China PR vs Syria
+461,S Kjær,['Simon Kjaer'],10-06-2017,Denmark,DK,2946,"World Cup Qualifiers, Europe, 2018",Kazakhstan vs Denmark
+462,M Sušić,['Mateo Susic'],10-10-2017,Bosnia-Herzegovina-Herzegovina,BA,2952,"World Cup Qualifiers, Europe, 2018",Estonia vs Bosnia-Herzegovina-Herzegovina
+463,D Subašić,['Danijel Subasic'],09-11-2017,Croatia,HR,2956,"World Cup Qualifiers, Europe, 2018",Croatia vs Greece
+464,D Subašić,['Danijel Subasic'],06-10-2017,Croatia,HR,2957,"World Cup Qualifiers, Europe, 2018",Croatia vs Finland
+465,J Næs,['Jónas Tór Naes'],25-03-2017,Faroe Islands,FO,2959,"World Cup Qualifiers, Europe, 2018",Andorra vs Faroe Islands
+466,E Višća,['Edin Visca'],10-10-2016,Bosnia-Herzegovina-Herzegovina,BA,2960,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Cyprus
+467,M urić,['Milan Djuric'],10-10-2016,Bosnia-Herzegovina-Herzegovina,BA,2960,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Cyprus
+468,E Višća,['Edin Visca'],03-09-2017,Bosnia-Herzegovina-Herzegovina,BA,2962,"World Cup Qualifiers, Europe, 2018",Gibraltar vs Bosnia-Herzegovina-Herzegovina
+469,M Bešić,['Muhamed Besic'],07-10-2017,Bosnia-Herzegovina-Herzegovina,BA,2963,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Belgium
+470,E Višća,['Edin Visca'],07-10-2017,Bosnia-Herzegovina-Herzegovina,BA,2963,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Belgium
+471,S Kjær,['Simon Kjaer'],08-10-2016,Denmark,DK,2966,"World Cup Qualifiers, Europe, 2018",Poland vs Denmark
+472,J Næs,['Jónas Tór Naes'],07-10-2016,Faroe Islands,FO,2969,"World Cup Qualifiers, Europe, 2018",Latvia vs Faroe Islands
+473,D Subašić,['Danijel Subasic'],09-10-2016,Croatia,HR,2975,"World Cup Qualifiers, Europe, 2018",Finland vs Croatia
+474,V Božović,['Vladimir Bozovic'],26-03-2013,Montenegro,ME,2883,"World Cup Qualifiers, Europe, 2014",Montenegro vs England
+475,M ükürov,['Mahir Shukurov'],15-10-2013,Azerbaijan,AZ,2888,"World Cup Qualifiers, Europe, 2014",Azerbaijan vs Russia
+476,G Vičius,['Gediminas Vicius'],15-10-2013,Lithuania,LT,2889,"World Cup Qualifiers, Europe, 2014",Lithuania vs Bosnia-Herzegovina-Herzegovina
+477,E Bičakčić,['Ermin Bicakcic'],15-10-2013,Bosnia-Herzegovina-Herzegovina,BA,2889,"World Cup Qualifiers, Europe, 2014",Lithuania vs Bosnia-Herzegovina-Herzegovina
+478,S Ibričić,['Senijad Ibricic'],15-10-2013,Bosnia-Herzegovina-Herzegovina,BA,2889,"World Cup Qualifiers, Europe, 2014",Lithuania vs Bosnia-Herzegovina-Herzegovina
+479,A Gaţcan,['Alexandru Gatcan'],22-03-2013,Moldova,MD,2890,"World Cup Qualifiers, Europe, 2014",Moldova vs Montenegro
+480,V Božović,['Vladimir Bozovic'],22-03-2013,Montenegro,ME,2890,"World Cup Qualifiers, Europe, 2014",Moldova vs Montenegro
+481,J Næs,['Jónas Tór Naes'],11-10-2013,Faroe Islands,FO,2891,"World Cup Qualifiers, Europe, 2014",Faroe Islands vs Kazakhstan
+482,M Čišovský,['Marian Cisovsky'],07-06-2013,Slovakia,SK,2894,"World Cup Qualifiers, Europe, 2014",Liechtenstein vs Slovakia
+483,Z Tošić,['Zoran Tosic'],06-09-2013,Serbia,RS,2897,"World Cup Qualifiers, Europe, 2014",Serbia vs Croatia
+484,J Næs,['Jónas Tór Naes'],11-06-2013,Faroe Islands,FO,2899,"World Cup Qualifiers, Europe, 2014",Sweden vs Faroe Islands
+485,A Koļinko,['Aleksandrs Kolinko'],15-10-2013,Latvia,LV,2900,"World Cup Qualifiers, Europe, 2014",Latvia vs Slovakia
+486,S esták,['Stanislav Sestak'],15-10-2013,Slovakia,SK,2900,"World Cup Qualifiers, Europe, 2014",Latvia vs Slovakia
+487,M uriš,['Michal Duris'],15-10-2013,Slovakia,SK,2900,"World Cup Qualifiers, Europe, 2014",Latvia vs Slovakia
+488,J Næs,['Jónas Tór Naes'],22-03-2013,Faroe Islands,FO,2901,"World Cup Qualifiers, Europe, 2014",Austria vs Faroe Islands
+489,G Vičius,['Gediminas Vicius'],06-09-2013,Lithuania,LT,2906,"World Cup Qualifiers, Europe, 2014",Latvia vs Lithuania
+490,Silvestre Varela,['Varela'],22-03-2013,Portugal,PT,2912,"World Cup Qualifiers, Europe, 2014",Israel vs Portugal
+491,S Kjær,['Simon Kjaer'],06-09-2013,Denmark,DK,2917,"World Cup Qualifiers, Europe, 2014",Malta vs Denmark
+492,S Kjær,['Simon Kjaer'],22-03-2013,Denmark,DK,2919,"World Cup Qualifiers, Europe, 2014",Czech Republic vs Denmark
+493,V Božović,['Vladimir Bozovic'],15-10-2013,Montenegro,ME,2924,"World Cup Qualifiers, Europe, 2014",Montenegro vs Moldova
+494,A Gaţcan,['Alexandru Gatcan'],15-10-2013,Moldova,MD,2924,"World Cup Qualifiers, Europe, 2014",Montenegro vs Moldova
+495,Maliy,['Sergey Maliy'],06.06.22,Kazakhstan,KZ,1830,Nations League 2022-2023,Slovakia vs Kazakhstan
+496,Maliy,['Sergey Maliy'],10.06.22,Kazakhstan,KZ,1833,Nations League 2022-2023,Belarus vs Kazakhstan
+497,Maliy,['Sergey Maliy'],13.06.22,Kazakhstan,KZ,1834,Nations League 2022-2023,Kazakhstan vs Slovakia
+498,Maliy,['Sergey Maliy'],22.09.22,Kazakhstan,KZ,1836,Nations League 2022-2023,Kazakhstan vs Belarus
+499,Chen Wei-chuan,['Wei-Chuan Chen'],05-09-2019,Chinese Taipei,TW,2581,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Jordan
+500,Chen Hao-wei,['Hao-Wei Chen'],05-09-2019,Chinese Taipei,TW,2581,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Jordan
+501,Chen Jui-chieh,['Jui-Chieh Chen'],05-09-2019,Chinese Taipei,TW,2581,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Jordan
+502,Kim Min-Jae,['Min-jae Kim'],12-10-2021,South Korea,KR,2587,"World Cup Qualifiers, Asia, 2022",Iran vs South Korea
+503,Lee Jae-Sung,['Jae-sung Lee'],12-10-2021,South Korea,KR,2587,"World Cup Qualifiers, Asia, 2022",Iran vs South Korea
+504,Hwang In-Beom,['In-beom Hwang'],12-10-2021,South Korea,KR,2587,"World Cup Qualifiers, Asia, 2022",Iran vs South Korea
+505,Kim Min-Jae,['Min-jae Kim'],07-09-2021,South Korea,KR,2589,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+506,Hwang In-Beom,['In-beom Hwang'],07-09-2021,South Korea,KR,2589,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+507,Lee Jae-Sung,['Jae-sung Lee'],07-09-2021,South Korea,KR,2589,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+508,Cho Gue-Sung,['Gue-sung Cho'],07-09-2021,South Korea,KR,2589,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+509,Kim Min-Jae,['Min-jae Kim'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+510,Kwon Kyung-Won,['Kyung-won Kwon'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+511,Kim Jin-Su,['Jin-su Kim'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+512,Hwang In-Beom,['In-beom Hwang'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+513,Lee Jae-Sung,['Jae-sung Lee'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+514,Cho Gue-Sung,['Gue-sung Cho'],16-11-2021,South Korea,KR,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea
+515,Chen Wei-chuan,['Wei-Chuan Chen'],14-11-2019,Chinese Taipei,TW,2595,"World Cup Qualifiers, Asia, 2022",Kuwait vs Chinese Taipei
+516,Helio Goncalves,['Hélio'],11-06-2021,Hong Kong,HK,2597,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Iraq
+517,Yan Junling,['Junling Yan'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+518,Wang Gang,['Gang Wang'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+519,Zhang Linpeng,['Linpeng Zhang'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+520,Zhu Chenjie,['Chenjie Zhu'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+521,Zheng Zheng,['Zheng Zheng'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+522,Junmin Hao,['Junmin Hao'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+523,Chi Zhongguo,['Zhongguo Chi'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+524,Xi Wu,['Xi Wu'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+525,Wu Lei,['Lei Wu'],15-10-2019,China PR,CN,2601,"World Cup Qualifiers, Asia, 2022",Philippines vs China PR
+526,Yan Junling,['Junling Yan'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+527,Zhang Linpeng,['Linpeng Zhang'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+528,Zhu Chenjie,['Chenjie Zhu'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+529,Wang Shenchao,['Shenchao Wang'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+530,Xi Wu,['Xi Wu'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+531,Xu Xin,['Xin Xu'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+532,Wu Lei,['Lei Wu'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+533,Dai Wai-Tsun,['Wai-Tsun Dai'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+534,Aloísio,['Aloísio'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+535,Alan,['Alan'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+536,Pai Shao-yu,['Shao-Yu Pai'],07-06-2021,Chinese Taipei,TW,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei
+537,Chen Wei-chuan,['Wei-Chuan Chen'],07-06-2021,Chinese Taipei,TW,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei
+538,Gao Wei-jie,['Wei-Jie Gao'],07-06-2021,Chinese Taipei,TW,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei
+539,Chen Jui-chieh,['Jui-Chieh Chen'],07-06-2021,Chinese Taipei,TW,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei
+540,Beto Goncalves,['Beto'],5-9-2019,Indonesia,ID,2611,"World Cup Qualifiers, Asia, 2022",Indonesia vs Malaysia
+541,Yan Junling,['Junling Yan'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+542,Wang Gang,['Gang Wang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+543,Zhang Linpeng,['Linpeng Zhang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+544,Wang Shenchao,['Shenchao Wang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+545,Wu Lei,['Lei Wu'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+546,Xi Wu,['Xi Wu'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+547,Zhang Xizhe,['Xizhe Zhang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+548,Liu Binbin,['Binbin Liu'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+549,Zhang Yuning,['Yuning Zhang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+550,Helio Goncalves,['Hélio'],3-6-2021,Hong Kong,HK,2614,"World Cup Qualifiers, Asia, 2022",Iran vs Hong Kong
+551,Yan Junling,['Junling Yan'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+552,Wang Gang,['Gang Wang'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+553,Zhang Linpeng,['Linpeng Zhang'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+554,Zhu Chenjie,['Chenjie Zhu'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+555,Li Shuai,['Shuai Li'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+556,Junmin Hao,['Junmin Hao'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+557,Chi Zhongguo,['Zhongguo Chi'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+558,Xi Wu,['Xi Wu'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+559,Wu Lei,['Lei Wu'],10-10-2019,China PR,CN,2619,"World Cup Qualifiers, Asia, 2022",China PR vs Guam
+560,Yan Junling,['Junling Yan'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+561,Tang Miao,['Miao Tang'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+562,Zhang Linpeng,['Linpeng Zhang'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+563,Wang Shenchao,['Shenchao Wang'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+564,Jin Jingdao,['Jingdao Jin'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+565,Xi Wu,['Xi Wu'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+566,Zhang Xizhe,['Xizhe Zhang'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+567,Wu Xinghan,['Xinghan Wu'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+568,Wu Lei,['Lei Wu'],30-05-2021,China PR,CN,2620,"World Cup Qualifiers, Asia, 2022",Guam vs China PR
+569,Helio Goncalves,['Hélio'],10-09-2019,Hong Kong,HK,2625,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Iran
+570,Pai Shao-yu,['Shao-Yu Pai'],15-06-2021,Chinese Taipei,TW,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait
+571,Hsieh Ming-yu,['Ming-Yu Hsieh'],15-06-2021,Chinese Taipei,TW,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait
+572,Lin Ming-wei,['Ming-Wei Lin'],15-06-2021,Chinese Taipei,TW,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait
+573,Chen Jui-chieh,['Jui-Chieh Chen'],15-06-2021,Chinese Taipei,TW,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait
+574,Kim Jin-Su,['Jin-su Kim'],24.11.22,South Korea,KR,346,World Cup 2022,Uruguay vs South Korea
+575,Jung Wooyoung,['Woo-young Jung'],24.11.22,South Korea,KR,346,World Cup 2022,Uruguay vs South Korea
+576,Kim Jin-Su,['Jin-su Kim'],28.11.22,South Korea,KR,348,World Cup 2022,South Korea vs Ghana
+577,Jung Wooyoung,['Woo-young Jung'],28.11.22,South Korea,KR,348,World Cup 2022,South Korea vs Ghana
+578,Kim Jin-Su,['Jin-su Kim'],02.12.22,South Korea,KR,350,World Cup 2022,South Korea vs Portugal
+579,Jung Wooyoung,['Woo-young Jung'],02.12.22,South Korea,KR,350,World Cup 2022,South Korea vs Portugal
+580,M Poté,['Mickael Pote'],12-11-2015,Benin,BJ,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso
+581,J Nsamé,['Jean-Pierre Nsame'],04-09-2017,Cameroon,CM,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria
+582,L Matampi,['Ley Matampi'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+583,I Mpeko,['Issama Mpeko'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+584,M Bokadi,['Merveille Bokadi'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+585,W Moke,['Wilfred Moke'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+586,N Muzinga,['Ngonda Muzinga'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+587,J Maghoma,['Jacques Maghoma'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+588,C Mbemba,['Chancel Mbemba'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+589,F Mubele,['Firmin Mubele'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+590,G Kakuta,['Gaël Kakuta'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+591,C Bakambu,['Cédric Bakambu'],05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+592,M Poté,['Mickael Pote'],17-11-2015,Benin,BJ,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin
+593,Gildo Vilanculos,['Gildo'],14-11-2015,Mozambique,MZ,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique
+594,L Matampi,['Ley Matampi'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+595,L Mutambala,['Lomalisa Mutambala'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+596,G Zakuani,['Gabriel Zakuani'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+597,I Mpeko,['Issama Mpeko'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+598,C Mbemba,['Chancel Mbemba'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+599,M Tisserand,['Marcel Tisserand'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+600,N Kebano,['Neeskens Kebano'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+601,Y Bolasie,['Yannick Bolasie'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+602,F Mubele,['Firmin Mubele'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+603,D Mbokani,['Dieumerci Mbokani'],13-11-2016,Congo DR,DR,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR
+604,L Matampi,['Ley Matampi'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+605,L Mutambala,['Lomalisa Mutambala'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+606,G Zakuani,['Gabriel Zakuani'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+607,I Mpeko,['Issama Mpeko'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+608,C Mbemba,['Chancel Mbemba'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+609,M Tisserand,['Marcel Tisserand'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+610,J Maghoma,['Jacques Maghoma'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+611,Y Bolasie,['Yannick Bolasie'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+612,J Bolingi,['Jonathan Bolingi'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+613,J Botaka,['Jordan Botaka'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+614,D Mbokani,['Dieumerci Mbokani'],08-10-2016,Congo DR,DR,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya
+615,M Poté,['Mickael Pote'],10-07-2019,Benin,BJ,3537,"African Cup of Nations, 2019",Senegal vs Benin
+616,L Matampi,['Ley Matampi'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+617,I Mpeko,['Issama Mpeko'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+618,C Luyindama,['Christian Luyindama'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+619,M Tisserand,['Marcel Tisserand'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+620,N Muzinga,['Ngonda Muzinga'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+621,W Moke,['Wilfred Moke'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+622,M Bokadi,['Merveille Bokadi'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+623,J Bolingi,['Jonathan Bolingi'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+624,T Mputu,['Trésor Mputu'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+625,J Maghoma,['Jacques Maghoma'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+626,C Bakambu,['Cédric Bakambu'],26-06-2019,Congo DR,DR,3552,"African Cup of Nations, 2019",Egypt vs Congo DR
+627,L Matampi,['Ley Matampi'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+628,I Mpeko,['Issama Mpeko'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+629,C Luyindama,['Christian Luyindama'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+630,M Tisserand,['Marcel Tisserand'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+631,A Masuaku,['Arthur Masuaku'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+632,M Bokadi,['Merveille Bokadi'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+633,Y Bolasie,['Yannick Bolasie'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+634,C Mbemba,['Chancel Mbemba'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+635,M Elia,['Meschack Elia'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+636,C Bakambu,['Cédric Bakambu'],22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+637,M Poté,['Mickael Pote'],05-07-2019,Benin,BJ,3560,"African Cup of Nations, 2019",Morocco vs Benin
+638,M Poté,['Mickael Pote'],25-06-2019,Benin,BJ,3581,"African Cup of Nations, 2019",Ghana vs Benin
+639,M Poté,['Mickael Pote'],29-06-2019,Benin,BJ,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau
+640,L Matampi,['Ley Matampi'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+641,I Mpeko,['Issama Mpeko'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+642,C Mbemba,['Chancel Mbemba'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+643,M Tisserand,['Marcel Tisserand'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+644,N Muzinga,['Ngonda Muzinga'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+645,C Akolo,['Chadrac Akolo'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+646,W Moke,['Wilfred Moke'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+647,Y Mulumbu,['Youssouf Mulumbu'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+648,J Maghoma,['Jacques Maghoma'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+649,B Assombalonga,['Britt Assombalonga'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+650,C Bakambu,['Cédric Bakambu'],07-07-2019,Congo DR,DR,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR
+651,Maliy,['Sergey Maliy'],24.03.22,Kazakhstan,KZ,1870,Nations League 2022-2023,Moldova vs Kazakhstan
+652,Maliy,['Sergey Maliy'],29.03.22,Kazakhstan,KZ,1871,Nations League 2022-2023,Kazakhstan vs Moldova
+653,P Mandanda,['Parfait Mandanda'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+654,C Mongongu,['Cédric Mongongu'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+655,C Mbemba,['Chancel Mbemba'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+656,P Ebunga,['Patou Simbi Ebunga'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+657,C Makiadi,['Cédric Makiadi'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+658,D Zola,['Distel Zola'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+659,Y Mulumbu,['Youssouf Mulumbu'],08-09-2013,Congo DR,DR,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR
+660,M Poté,['Mickael Pote'],08-09-2013,Benin,BJ,1893,"World Cup Qualifiers, Africa, 2014",Benin vs Rwanda
+661,B Ilič,['Branko Ilic'],07-06-2013,Slovenia,SI,2831,"World Cup Qualifiers, Europe, 2014",Iceland vs Slovenia
+662,M ükürov,['Mahir Shukurov'],07-06-2013,Azerbaijan,AZ,2832,"World Cup Qualifiers, Europe, 2014",Azerbaijan vs Luxembourg
+663,A Gaţcan,['Alexandru Gatcan'],11-10-2013,Moldova,MD,2836,"World Cup Qualifiers, Europe, 2014",Moldova vs San Marino
+664,Z Tošić,['Zoran Tosic'],22-03-2013,Serbia,RS,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia
+665,B Ilič,['Branko Ilic'],15-10-2013,Slovenia,SI,2847,"World Cup Qualifiers, Europe, 2014",Switzerland vs Slovenia
+666,B Ilič,['Branko Ilic'],10-09-2013,Slovenia,SI,2856,"World Cup Qualifiers, Europe, 2014",Cyprus vs Slovenia
+667,A Gaţcan,['Alexandru Gatcan'],07-06-2013,Moldova,MD,2860,"World Cup Qualifiers, Europe, 2014",Moldova vs Poland
+668,A Koļinko,['Aleksandrs Kolinko'],10-09-2013,Latvia,LV,2862,"World Cup Qualifiers, Europe, 2014",Greece vs Latvia
+669,A Cauņa,['Aleksandrs Cauna'],10-09-2013,Latvia,LV,2862,"World Cup Qualifiers, Europe, 2014",Greece vs Latvia
+670,Z Tošić,['Zoran Tosic'],15-10-2013,Serbia,RS,2875,"World Cup Qualifiers, Europe, 2014",Serbia vs North Macedonia
+671,M ükürov,['Mahir Shukurov'],22-03-2013,Azerbaijan,AZ,2876,"World Cup Qualifiers, Europe, 2014",Luxembourg vs Azerbaijan
+672,M Ošs,['Marcis Oss'],28.03.23,Latvia,LV,939,"Euros 2024, Qualifiers",Wales vs Latvia
+673,M Ošs,['Marcis Oss'],16.06.23,Latvia,LV,942,"Euros 2024, Qualifiers",Latvia vs Turkey
+674,M Ošs,['Marcis Oss'],19.06.23,Latvia,LV,943,"Euros 2024, Qualifiers",Armenia vs Latvia
+675,M Ošs,['Marcis Oss'],12.10.23,Latvia,LV,949,"Euros 2024, Qualifiers",Latvia vs Armenia
+676,L Matampi,['Ley Matampi'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+677,I Mpeko,['Issama Mpeko'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+678,W Moke,['Wilfred Moke'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+679,M Tisserand,['Marcel Tisserand'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+680,N Muzinga,['Ngonda Muzinga'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+681,C Mbemba,['Chancel Mbemba'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+682,J Maghoma,['Jacques Maghoma'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+683,F Mubele,['Firmin Mubele'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+684,N Kebano,['Neeskens Kebano'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+685,J Kabananga,['Junior Kabananga'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+686,J Bolingi,['Jonathan Bolingi'],11-11-2017,Congo DR,DR,1990,"World Cup Qualifiers, Africa, 2018",Congo DR vs Guinea
+687,P Mandanda,['Parfait Mandanda'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+688,C Mongongu,['Cédric Mongongu'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+689,C Mbemba,['Chancel Mbemba'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+690,I Mpeko,['Issama Mpeko'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+691,J Kimwaki,['Joël Kimwaki'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+692,J Maghoma,['Jacques Maghoma'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+693,D Mbokani,['Dieumerci Mbokani'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+694,F Mubele,['Firmin Mubele'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+695,Y Bolasie,['Yannick Bolasie'],15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+696,Rui Gomes,['Rui'],15-11-2015,Equatorial Guinea,GQ,2003,"World Cup Qualifiers, Africa, 2018",Equatorial Guinea vs Morocco
+697,L Matampi,['Ley Matampi'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+698,J Ikoko,['Jordan Ikoko'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+699,G Zakuani,['Gabriel Zakuani'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+700,I Mpeko,['Issama Mpeko'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+701,F Mubele,['Firmin Mubele'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+702,C Mbemba,['Chancel Mbemba'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+703,M Bokadi,['Merveille Bokadi'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+704,J Kabananga,['Junior Kabananga'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+705,G Kakuta,['Gaël Kakuta'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+706,C Bakambu,['Cédric Bakambu'],01-09-2017,Congo DR,DR,2015,"World Cup Qualifiers, Africa, 2018",Tunisia vs Congo DR
+707,L Matampi,['Ley Matampi'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+708,I Mpeko,['Issama Mpeko'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+709,W Moke,['Wilfred Moke'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+710,M Tisserand,['Marcel Tisserand'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+711,N Muzinga,['Ngonda Muzinga'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+712,C Mbemba,['Chancel Mbemba'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+713,J Botaka,['Jordan Botaka'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+714,N Kebano,['Neeskens Kebano'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+715,F Mubele,['Firmin Mubele'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+716,C Bakambu,['Cédric Bakambu'],07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+717,Beto Goncalves,['Beto'],10-10-2019,Indonesia,ID,2531,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Indonesia
+718,Kim Min-Jae,['Min-jae Kim'],27-01-2022,South Korea,KR,2532,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+719,Kim Jin-Su,['Jin-su Kim'],27-01-2022,South Korea,KR,2532,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+720,Hwang In-Beom,['In-beom Hwang'],27-01-2022,South Korea,KR,2532,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+721,Lee Jae-Sung,['Jae-sung Lee'],27-01-2022,South Korea,KR,2532,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+722,Cho Gue-Sung,['Gue-sung Cho'],27-01-2022,South Korea,KR,2532,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+723,Yan Junling,['Junling Yan'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+724,Tang Miao,['Miao Tang'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+725,Zhang Linpeng,['Linpeng Zhang'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+726,Wang Shenchao,['Shenchao Wang'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+727,Jin Jingdao,['Jingdao Jin'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+728,Xi Wu,['Xi Wu'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+729,Wu Lei,['Lei Wu'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+730,Zhang Xizhe,['Xizhe Zhang'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+731,Wu Xinghan,['Xinghan Wu'],15-06-2021,China PR,CN,2533,"World Cup Qualifiers, Asia, 2022",China PR vs Syria
+732,Kim Min-Jae,['Min-jae Kim'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+733,Kwon Kyung-Won,['Kyung-won Kwon'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+734,Kim Jin-Su,['Jin-su Kim'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+735,Hwang In-Beom,['In-beom Hwang'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+736,Lee Jae-Sung,['Jae-sung Lee'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+737,Cho Gue-Sung,['Gue-sung Cho'],11-11-2021,South Korea,KR,2541,"World Cup Qualifiers, Asia, 2022",South Korea vs United Arab Emirates
+738,Yan Junling,['Junling Yan'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+739,Wang Gang,['Gang Wang'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+740,Zhang Linpeng,['Linpeng Zhang'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+741,Zhu Chenjie,['Chenjie Zhu'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+742,Zheng Zheng,['Zheng Zheng'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+743,Junmin Hao,['Junmin Hao'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+744,Chi Zhongguo,['Zhongguo Chi'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+745,Xi Wu,['Xi Wu'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+746,Wu Lei,['Lei Wu'],14-11-2019,China PR,CN,2551,"World Cup Qualifiers, Asia, 2022",Syria vs China PR
+747,Kim Min-Jae,['Min-jae Kim'],10-09-2019,South Korea,KR,2555,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs South Korea
+748,Kim Jin-Su,['Jin-su Kim'],10-09-2019,South Korea,KR,2555,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs South Korea
+749,Hwang In-Beom,['In-beom Hwang'],10-09-2019,South Korea,KR,2555,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs South Korea
+750,Lee Jae-Sung,['Jae-sung Lee'],10-09-2019,South Korea,KR,2555,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs South Korea
+751,Beto Goncalves,['Beto'],15-10-2019,Indonesia,ID,2558,"World Cup Qualifiers, Asia, 2022",Indonesia vs Vietnam
+752,Yan Junling,['Junling Yan'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+753,Zhang Linpeng,['Linpeng Zhang'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+754,Zhu Chenjie,['Chenjie Zhu'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+755,Zheng Zheng,['Zheng Zheng'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+756,Gao Zhuniy,['Zhunyi Gao'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+757,Liao Lisheng,['Lisheng Liao'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+758,Xu Xin,['Xin Xu'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+759,Liu Yang,['Yang Liu'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+760,Xi Wu,['Xi Wu'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+761,Dai Wai-Tsun,['Wai-Tsun Dai'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+762,Zhang Yuning,['Yuning Zhang'],29-03-2022,China PR,CN,2562,"World Cup Qualifiers, Asia, 2022",Oman vs China PR
+763,Yan Junling,['Junling Yan'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+764,Ming Tian,['Tian Ming'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+765,Yu Dabao,['Dabao Yu'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+766,Li Lei,['Lei Li'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+767,Wu Lei,['Lei Wu'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+768,Junmin Hao,['Junmin Hao'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+769,Chi Zhongguo,['Zhongguo Chi'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+770,Liu Binbin,['Binbin Liu'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+771,Zhang Yuning,['Yuning Zhang'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+772,Alan,['Alan'],11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+773,Beto Goncalves,['Beto'],10-09-2019,Indonesia,ID,2565,"World Cup Qualifiers, Asia, 2022",Indonesia vs Thailand
+774,Yan Junling,['Junling Yan'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+775,Zhang Linpeng,['Linpeng Zhang'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+776,Wang Shenchao,['Shenchao Wang'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+777,Wang Gang,['Gang Wang'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+778,Jin Jingdao,['Jingdao Jin'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+779,Xi Wu,['Xi Wu'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+780,Yin Hongbo,['Hongbo Yin'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+781,Wu Lei,['Lei Wu'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+782,Yan Junling,['Junling Yan'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+783,Zhang Linpeng,['Linpeng Zhang'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+784,Zhu Chenjie,['Chenjie Zhu'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+785,Wang Shenchao,['Shenchao Wang'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+786,Wu Lei,['Lei Wu'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+787,Xu Xin,['Xin Xu'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+788,Xi Wu,['Xi Wu'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+789,Aloísio,['Aloísio'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+790,Alan,['Alan'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia
+791,Yan Junling,['Junling Yan'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+792,Wang Gang,['Gang Wang'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+793,Zhang Linpeng,['Linpeng Zhang'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+794,Zhu Chenjie,['Chenjie Zhu'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+795,Li Lei,['Lei Li'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+796,Chi Zhongguo,['Zhongguo Chi'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+797,Junmin Hao,['Junmin Hao'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+798,Xi Wu,['Xi Wu'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+799,Wu Lei,['Lei Wu'],10-09-2019,China PR,CN,2572,"World Cup Qualifiers, Asia, 2022",Maldives vs China PR
+800,Yan Junling,['Junling Yan'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+801,Zhang Linpeng,['Linpeng Zhang'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+802,Yu Dabao,['Dabao Yu'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+803,Wang Shenchao,['Shenchao Wang'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+804,Xi Wu,['Xi Wu'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+805,Wu Lei,['Lei Wu'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+806,Jin Jingdao,['Jingdao Jin'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+807,Zhang Xizhe,['Xizhe Zhang'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+808,Wu Xinghan,['Xinghan Wu'],02-09-2021,China PR,CN,2573,"World Cup Qualifiers, Asia, 2022",Australia vs China PR
+809,K Piątek,['Krzysztof Piatek'],04.09.20,Poland,PL,1541,Nations League 2020-2021,Netherlands vs Poland
+810,Maliy,['Sergey Maliy'],21.03.19,Kazakhstan,KZ,816,"Euros 2020, Qualifiers",Kazakhstan vs Scotland
+811,Maliy,['Sergey Maliy'],24.03.19,Kazakhstan,KZ,819,"Euros 2020, Qualifiers",Kazakhstan vs Russia
+812,Maliy,['Sergey Maliy'],08.06.19,Kazakhstan,KZ,823,"Euros 2020, Qualifiers",Belgium vs Kazakhstan
+813,Maliy,['Sergey Maliy'],11.06.19,Kazakhstan,KZ,825,"Euros 2020, Qualifiers",Kazakhstan vs San Marino
+814,Maliy,['Sergey Maliy'],06.09.19,Kazakhstan,KZ,828,"Euros 2020, Qualifiers",Cyprus vs Kazakhstan
+815,Maliy,['Sergey Maliy'],09.09.19,Kazakhstan,KZ,831,"Euros 2020, Qualifiers",Russia vs Kazakhstan
+816,Maliy,['Sergey Maliy'],10.10.19,Kazakhstan,KZ,834,"Euros 2020, Qualifiers",Kazakhstan vs Cyprus
+817,Maliy,['Sergey Maliy'],13.10.19,Kazakhstan,KZ,837,"Euros 2020, Qualifiers",Kazakhstan vs Belgium
+818,Maliy,['Sergey Maliy'],16.11.19,Kazakhstan,KZ,842,"Euros 2020, Qualifiers",San Marino vs Kazakhstan
+819,Maliy,['Sergey Maliy'],19.11.19,Kazakhstan,KZ,844,"Euros 2020, Qualifiers",Scotland vs Kazakhstan
+820,Maliy,['Sergey Maliy'],10.10.15,Kazakhstan,KZ,378,"Euros 2016, Qualifiers",Kazakhstan vs Netherlands
+821,Maliy,['Sergey Maliy'],13.10.15,Kazakhstan,KZ,380,"Euros 2016, Qualifiers",Latvia vs Kazakhstan
+822,Rui Gomes,['Rui'],12-11-2015,Equatorial Guinea,GQ,2024,"World Cup Qualifiers, Africa, 2018",Morocco vs Equatorial Guinea
+823,P Mandanda,['Parfait Mandanda'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+824,C Mbemba,['Chancel Mbemba'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+825,G Zakuani,['Gabriel Zakuani'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+826,I Mpeko,['Issama Mpeko'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+827,J Kimwaki,['Joël Kimwaki'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+828,Cedrick,['Cedrick'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+829,Y Mulumbu,['Youssouf Mulumbu'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+830,C Bakambu,['Cédric Bakambu'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+831,D Mbokani,['Dieumerci Mbokani'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+832,Y Bolasie,['Yannick Bolasie'],12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+833,J Kiassumbua,['Joël Kiassumbua'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+834,D Mukoko Amale,['Dieumerci Amale'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+835,C Luyindama,['Christian Luyindama'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+836,C Mbemba,['Chancel Mbemba'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+837,N Muzinga,['Ngonda Muzinga'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+838,C Akolo,['Chadrac Akolo'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+839,E Kayembe,['Edo Kayembe'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+840,S Bastien,['Samuel Bastien'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+841,Y Wissa,['Yoane Wissa'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+842,D Mbokani,['Dieumerci Mbokani'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+843,C Bakambu,['Cédric Bakambu'],25-03-2022,Congo DR,DR,2048,"World Cup Qualifiers, Africa, 2022",Congo DR vs Morocco
+844,J Kiassumbua,['Joël Kiassumbua'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+845,M Tisserand,['Marcel Tisserand'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+846,C Luyindama,['Christian Luyindama'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+847,C Mbemba,['Chancel Mbemba'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+848,D Mukoko Amale,['Dieumerci Amale'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+849,S Bastien,['Samuel Bastien'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+850,E Kayembe,['Edo Kayembe'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+851,A Masuaku,['Arthur Masuaku'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+852,Y Wissa,['Yoane Wissa'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+853,C Bakambu,['Cédric Bakambu'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+854,M Elia,['Meschack Elia'],29-03-2022,Congo DR,DR,2050,"World Cup Qualifiers, Africa, 2022",Morocco vs Congo DR
+855,Ernan Siluane,['Ernan'],16-11-2021,Mozambique,MZ,2051,"World Cup Qualifiers, Africa, 2022",Mozambique vs Malawi
+856,J Kiassumbua,['Joël Kiassumbua'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+857,D Mukoko Amale,['Dieumerci Amale'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+858,C Luyindama,['Christian Luyindama'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+859,C Mbemba,['Chancel Mbemba'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+860,N Muzinga,['Ngonda Muzinga'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+861,S Moutoussamy,['Samuel Moutoussamy'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+862,E Kayembe,['Edo Kayembe'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+863,S Bastien,['Samuel Bastien'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+864,C Akolo,['Chadrac Akolo'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+865,D Mbokani,['Dieumerci Mbokani'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+866,C Bakambu,['Cédric Bakambu'],10-10-2021,Congo DR,DR,2053,"World Cup Qualifiers, Africa, 2022",Madagascar vs Congo DR
+867,J Kiassumbua,['Joël Kiassumbua'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+868,D Mukoko Amale,['Dieumerci Amale'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+869,C Luyindama,['Christian Luyindama'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+870,M Tisserand,['Marcel Tisserand'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+871,N Muzinga,['Ngonda Muzinga'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+872,C Akolo,['Chadrac Akolo'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+873,C Mbemba,['Chancel Mbemba'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+874,S Moutoussamy,['Samuel Moutoussamy'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+875,Y Bolasie,['Yannick Bolasie'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+876,D Mbokani,['Dieumerci Mbokani'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+877,C Bakambu,['Cédric Bakambu'],06-09-2021,Congo DR,DR,2059,"World Cup Qualifiers, Africa, 2022",Benin vs Congo DR
+878,J Kiassumbua,['Joël Kiassumbua'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+879,D Mukoko Amale,['Dieumerci Amale'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+880,C Luyindama,['Christian Luyindama'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+881,N Muzinga,['Ngonda Muzinga'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+882,S Bastien,['Samuel Bastien'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+883,C Mbemba,['Chancel Mbemba'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+884,C Akolo,['Chadrac Akolo'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+885,G Kakuta,['Gaël Kakuta'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+886,C Bakambu,['Cédric Bakambu'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+887,D Mbokani,['Dieumerci Mbokani'],11-11-2021,Congo DR,DR,2067,"World Cup Qualifiers, Africa, 2022",Tanzania vs Congo DR
+888,S Kjær,['Simon Kjaer'],12-11-2021,Denmark,DK,3334,"World Cup Qualifiers, Europe, 2022",Denmark vs Faroe Islands
+889,M uriš,['Michal Duris'],27-03-2021,Slovakia,SK,3336,"World Cup Qualifiers, Europe, 2022",Slovakia vs Malta
+890,A Čerin,['Adam Gnezda Cerin'],07-09-2021,Slovenia,SI,3345,"World Cup Qualifiers, Europe, 2022",Croatia vs Slovenia
+891,B eško,['Benjamin Sesko'],07-09-2021,Slovenia,SI,3345,"World Cup Qualifiers, Europe, 2022",Croatia vs Slovenia
+892,I ehić,['Ibrahim Sehic'],12-10-2021,Bosnia-Herzegovina-Herzegovina,BA,3348,"World Cup Qualifiers, Europe, 2022",Ukraine vs Bosnia-Herzegovina-Herzegovina
+893,A Čerin,['Adam Gnezda Cerin'],11-10-2021,Slovenia,SI,3349,"World Cup Qualifiers, Europe, 2022",Slovenia vs Russia
+894,M Ošs,['Marcis Oss'],30-03-2021,Latvia,LV,3363,"World Cup Qualifiers, Europe, 2022",Turkey vs Latvia
+895,A Čerin,['Adam Gnezda Cerin'],04-09-2021,Slovenia,SI,3365,"World Cup Qualifiers, Europe, 2022",Slovenia vs Malta
+896,B eško,['Benjamin Sesko'],04-09-2021,Slovenia,SI,3365,"World Cup Qualifiers, Europe, 2022",Slovenia vs Malta
+897,A Murić,['Arijanet Muric'],02-09-2021,Kosovo,XK,3367,"World Cup Qualifiers, Europe, 2022",Georgia vs Kosovo
+898,A Murić,['Arijanet Muric'],05-09-2021,Kosovo,XK,3376,"World Cup Qualifiers, Europe, 2022",Kosovo vs Greece
+899,I ehić,['Ibrahim Sehic'],24-03-2021,Bosnia-Herzegovina-Herzegovina,BA,3378,"World Cup Qualifiers, Europe, 2022",Finland vs Bosnia-Herzegovina-Herzegovina
+900,V Kamešs,['Vladimirs Kamess'],27-03-2021,Latvia,LV,3380,"World Cup Qualifiers, Europe, 2022",Netherlands vs Latvia
+901,S Kjær,['Simon Kjaer'],12-10-2021,Denmark,DK,3440,"World Cup Qualifiers, Europe, 2022",Denmark vs Austria
+902,K Piątek,['Krzysztof Piatek'],28-03-2021,Poland,PL,3443,"World Cup Qualifiers, Europe, 2022",Poland vs Andorra
+903,I ehić,['Ibrahim Sehic'],07-09-2021,Bosnia-Herzegovina-Herzegovina,BA,3451,"World Cup Qualifiers, Europe, 2022",Bosnia-Herzegovina-Herzegovina vs Kazakhstan
+904,B eško,['Benjamin Sesko'],01-09-2021,Slovenia,SI,3453,"World Cup Qualifiers, Europe, 2022",Slovenia vs Slovakia
+905,A Murić,['Arijanet Muric'],14-11-2021,Kosovo,XK,3461,"World Cup Qualifiers, Europe, 2022",Greece vs Kosovo
+906,Rui Gomes,['Rui'],31-01-2015,Equatorial Guinea,GQ,3473,"African Cup of Nations, 2015",Tunisia vs Equatorial Guinea
+907,R Kidiaba,['Robert Muteba Kidiaba'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+908,I Mpeko,['Issama Mpeko'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+909,J Kimwaki,['Joël Kimwaki'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+910,G Zakuani,['Gabriel Zakuani'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+911,C Mbemba,['Chancel Mbemba'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+912,C Makiadi,['Cédric Makiadi'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+913,J Bokila,['Jeremy Bokila'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+914,Cedrick,['Cedrick'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+915,Y Bolasie,['Yannick Bolasie'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+916,D Mbokani,['Dieumerci Mbokani'],04-02-2015,Congo DR,DR,3474,"African Cup of Nations, 2015",Congo DR vs Cote d'Ivoire
+917,R Kidiaba,['Robert Muteba Kidiaba'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+918,I Mpeko,['Issama Mpeko'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+919,G Zakuani,['Gabriel Zakuani'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+920,C Mongongu,['Cédric Mongongu'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+921,C Mbemba,['Chancel Mbemba'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+922,C Makiadi,['Cédric Makiadi'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+923,Cedrick,['Cedrick'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+924,H Kage,['Hervé Kage'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+925,Y Bolasie,['Yannick Bolasie'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+926,J Bokila,['Jeremy Bokila'],07-02-2015,Congo DR,DR,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+927,Rui Gomes,['Rui'],07-02-2015,Equatorial Guinea,GQ,3477,"African Cup of Nations, 2015",Congo DR vs Equatorial Guinea
+928,Rui Gomes,['Rui'],21-01-2015,Equatorial Guinea,GQ,3481,"African Cup of Nations, 2015",Equatorial Guinea vs Burkina Faso
+929,Rui Gomes,['Rui'],05-02-2015,Equatorial Guinea,GQ,3483,"African Cup of Nations, 2015",Ghana vs Equatorial Guinea
+930,Maliy,['Sergey Maliy'],23.03.23,Kazakhstan,KZ,1017,"Euros 2024, Qualifiers",Kazakhstan vs Slovenia
+931,Maliy,['Sergey Maliy'],26.03.23,Kazakhstan,KZ,1020,"Euros 2024, Qualifiers",Kazakhstan vs Denmark
+932,Maliy,['Sergey Maliy'],17.11.23,Kazakhstan,KZ,1041,"Euros 2024, Qualifiers",Kazakhstan vs San Marino
+933,Maliy,['Sergey Maliy'],20.11.23,Kazakhstan,KZ,1044,"Euros 2024, Qualifiers",Slovenia vs Kazakhstan
+934,A ćekić,['Aleksandar Scekic'],30-03-2021,Montenegro,ME,3391,"World Cup Qualifiers, Europe, 2022",Montenegro vs Norway
+935,S Kjær,['Simon Kjaer'],07-09-2021,Denmark,DK,3399,"World Cup Qualifiers, Europe, 2022",Denmark vs Israel
+936,M Ošs,['Marcis Oss'],24-03-2021,Latvia,LV,3404,"World Cup Qualifiers, Europe, 2022",Latvia vs Montenegro
+937,V Kamešs,['Vladimirs Kamess'],24-03-2021,Latvia,LV,3404,"World Cup Qualifiers, Europe, 2022",Latvia vs Montenegro
+938,A ćekić,['Aleksandar Scekic'],24-03-2021,Montenegro,ME,3404,"World Cup Qualifiers, Europe, 2022",Latvia vs Montenegro
+939,A ćekić,['Aleksandar Scekic'],07-09-2021,Montenegro,ME,3408,"World Cup Qualifiers, Europe, 2022",Montenegro vs Latvia
+940,V Kamešs,['Vladimirs Kamess'],07-09-2021,Latvia,LV,3408,"World Cup Qualifiers, Europe, 2022",Montenegro vs Latvia
+941,M Oršić,['Mislav Orsic'],04-09-2021,Croatia,HR,3411,"World Cup Qualifiers, Europe, 2022",Slovakia vs Croatia
+942,A ćekić,['Aleksandar Scekic'],08-10-2021,Montenegro,ME,3420,"World Cup Qualifiers, Europe, 2022",Gibraltar vs Montenegro
+943,K Piątek,['Krzysztof Piatek'],15-11-2021,Poland,PL,3427,"World Cup Qualifiers, Europe, 2022",Poland vs Hungary
+944,I ehić,['Ibrahim Sehic'],09-10-2021,Bosnia-Herzegovina-Herzegovina,BA,3428,"World Cup Qualifiers, Europe, 2022",Kazakhstan vs Bosnia-Herzegovina-Herzegovina
+945,A Gaţcan,['Alexandru Gatcan'],24-03-2017,Moldova,MD,3085,"World Cup Qualifiers, Europe, 2018",Austria vs Moldova
+946,J Næs,['Jónas Tór Naes'],07-10-2017,Faroe Islands,FO,3086,"World Cup Qualifiers, Europe, 2018",Faroe Islands vs Latvia
+947,A Gaţcan,['Alexandru Gatcan'],06-10-2016,Moldova,MD,3088,"World Cup Qualifiers, Europe, 2018",Moldova vs Serbia
+948,Thiago Alcântara,['Thiago'],06-10-2017,Spain,ES,3090,"World Cup Qualifiers, Europe, 2018",Spain vs Albania
+949,A ćekić,['Aleksandar Scekic'],08-10-2016,Montenegro,ME,3091,"World Cup Qualifiers, Europe, 2018",Montenegro vs Kazakhstan
+950,A ćekić,['Aleksandar Scekic'],04-09-2016,Montenegro,ME,3092,"World Cup Qualifiers, Europe, 2018",Romania vs Montenegro
+951,S Kjær,['Simon Kjaer'],04-09-2016,Denmark,DK,3097,"World Cup Qualifiers, Europe, 2018",Denmark vs Armenia
+952,A Gaţcan,['Alexandru Gatcan'],06-10-2017,Moldova,MD,3100,"World Cup Qualifiers, Europe, 2018",Republic of Ireland vs Moldova
+953,D Subašić,['Danijel Subasic'],05-09-2017,Croatia,HR,3104,"World Cup Qualifiers, Europe, 2018",Turkey vs Croatia
+954,S Kjær,['Simon Kjaer'],04-09-2017,Denmark,DK,3105,"World Cup Qualifiers, Europe, 2018",Armenia vs Denmark
+955,Thiago Alcântara,['Thiago'],05-09-2017,Spain,ES,3116,"World Cup Qualifiers, Europe, 2018",Liechtenstein vs Spain
+956,D Subašić,['Danijel Subasic'],09-10-2017,Croatia,HR,3118,"World Cup Qualifiers, Europe, 2018",Ukraine vs Croatia
+957,Thiago Alcântara,['Thiago'],24-03-2017,Spain,ES,3119,"World Cup Qualifiers, Europe, 2018",Spain vs Israel
+958,J Næs,['Jónas Tór Naes'],10-10-2017,Faroe Islands,FO,3128,"World Cup Qualifiers, Europe, 2018",Hungary vs Faroe Islands
+959,Z Tošić,['Zoran Tosic'],26-03-2013,Serbia,RS,2783,"World Cup Qualifiers, Europe, 2014",Serbia vs Scotland
+960,J Næs,['Jónas Tór Naes'],15-10-2013,Faroe Islands,FO,2787,"World Cup Qualifiers, Europe, 2014",Faroe Islands vs Austria
+961,S Kjær,['Simon Kjaer'],11-06-2013,Denmark,DK,2788,"World Cup Qualifiers, Europe, 2014",Denmark vs Armenia
+962,S esták,['Stanislav Sestak'],10-09-2013,Slovakia,SK,2790,"World Cup Qualifiers, Europe, 2014",Slovakia vs Bosnia-Herzegovina-Herzegovina
+963,E Bičakčić,['Ermin Bicakcic'],10-09-2013,Bosnia-Herzegovina-Herzegovina,BA,2790,"World Cup Qualifiers, Europe, 2014",Slovakia vs Bosnia-Herzegovina-Herzegovina
+964,V Božović,['Vladimir Bozovic'],07-06-2013,Montenegro,ME,2793,"World Cup Qualifiers, Europe, 2014",Montenegro vs Ukraine
+965,B Ilič,['Branko Ilic'],06-09-2013,Slovenia,SI,2803,"World Cup Qualifiers, Europe, 2014",Slovenia vs Albania
+966,V Kamešs,['Vladimirs Kamess'],07-06-2013,Latvia,LV,2805,"World Cup Qualifiers, Europe, 2014",Latvia vs Bosnia-Herzegovina-Herzegovina
+967,V Kamešs,['Vladimirs Kamess'],22-03-2013,Latvia,LV,2808,"World Cup Qualifiers, Europe, 2014",Liechtenstein vs Latvia
+968,A Cauņa,['Aleksandrs Cauna'],22-03-2013,Latvia,LV,2808,"World Cup Qualifiers, Europe, 2014",Liechtenstein vs Latvia
+969,E Bičakčić,['Ermin Bicakcic'],06-09-2013,Bosnia-Herzegovina-Herzegovina,BA,2811,"World Cup Qualifiers, Europe, 2014",Bosnia-Herzegovina-Herzegovina vs Slovakia
+970,S esták,['Stanislav Sestak'],06-09-2013,Slovakia,SK,2811,"World Cup Qualifiers, Europe, 2014",Bosnia-Herzegovina-Herzegovina vs Slovakia
+971,S esták,['Stanislav Sestak'],11-10-2013,Slovakia,SK,2814,"World Cup Qualifiers, Europe, 2014",Greece vs Slovakia
+972,M ükürov,['Mahir Shukurov'],26-03-2013,Azerbaijan,AZ,2815,"World Cup Qualifiers, Europe, 2014",Azerbaijan vs Portugal
+973,J Næs,['Jónas Tór Naes'],06-09-2013,Faroe Islands,FO,2818,"World Cup Qualifiers, Europe, 2014",Kazakhstan vs Faroe Islands
+974,M ükürov,['Mahir Shukurov'],07-09-2013,Azerbaijan,AZ,2821,"World Cup Qualifiers, Europe, 2014",Israel vs Azerbaijan
+975,B Ilič,['Branko Ilic'],11-10-2013,Slovenia,SI,2823,"World Cup Qualifiers, Europe, 2014",Slovenia vs Norway
+976,S Kjær,['Simon Kjaer'],26-03-2013,Denmark,DK,2827,"World Cup Qualifiers, Europe, 2014",Denmark vs Bulgaria
+977,Yan Junling,['Junling Yan'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+978,Zhang Linpeng,['Linpeng Zhang'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+979,Zhu Chenjie,['Chenjie Zhu'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+980,Wang Shenchao,['Shenchao Wang'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+981,Wu Lei,['Lei Wu'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+982,Xu Xin,['Xin Xu'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+983,Xi Wu,['Xi Wu'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+984,Aloísio,['Aloísio'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+985,Zhang Yuning,['Yuning Zhang'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+986,Alan,['Alan'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman
+987,Helio Goncalves,['Hélio'],10-10-2019,Hong Kong,HK,2637,"World Cup Qualifiers, Asia, 2022",Iraq vs Hong Kong
+988,Chen Wei-chuan,['Wei-Chuan Chen'],19-11-2019,Chinese Taipei,TW,2644,"World Cup Qualifiers, Asia, 2022",Jordan vs Chinese Taipei
+989,Chen Jui-chieh,['Jui-Chieh Chen'],19-11-2019,Chinese Taipei,TW,2644,"World Cup Qualifiers, Asia, 2022",Jordan vs Chinese Taipei
+990,Kim Min-Jae,['Min-jae Kim'],10-10-2019,South Korea,KR,2648,"World Cup Qualifiers, Asia, 2022",South Korea vs Sri Lanka
+991,Kwon Kyung-Won,['Kyung-won Kwon'],10-10-2019,South Korea,KR,2648,"World Cup Qualifiers, Asia, 2022",South Korea vs Sri Lanka
+992,Nam Tae-Hee,['Tae-hee Nam'],10-10-2019,South Korea,KR,2648,"World Cup Qualifiers, Asia, 2022",South Korea vs Sri Lanka
+993,Lee Kang-In,['Kang-in Lee'],10-10-2019,South Korea,KR,2648,"World Cup Qualifiers, Asia, 2022",South Korea vs Sri Lanka
+994,Kim Tae-Hwan,['Tae-hwan Kim'],29-03-2022,South Korea,KR,2654,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs South Korea
+995,Kim Min-Jae,['Min-jae Kim'],29-03-2022,South Korea,KR,2654,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs South Korea
+996,Kim Jin-Su,['Jin-su Kim'],29-03-2022,South Korea,KR,2654,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs South Korea
+997,Lee Jae-Sung,['Jae-sung Lee'],29-03-2022,South Korea,KR,2654,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs South Korea
+998,Kim Tae-Hwan,['Tae-hwan Kim'],09-06-2021,South Korea,KR,2660,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs South Korea
+999,Won Du-Jae,['Du-jae Won'],09-06-2021,South Korea,KR,2660,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs South Korea
+1000,Nam Tae-Hee,['Tae-hee Nam'],09-06-2021,South Korea,KR,2660,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs South Korea
+1001,Kim Tae-Hwan,['Tae-hwan Kim'],24-03-2022,South Korea,KR,2671,"World Cup Qualifiers, Asia, 2022",South Korea vs Iran
+1002,Kim Min-Jae,['Min-jae Kim'],24-03-2022,South Korea,KR,2671,"World Cup Qualifiers, Asia, 2022",South Korea vs Iran
+1003,Kim Jin-Su,['Jin-su Kim'],24-03-2022,South Korea,KR,2671,"World Cup Qualifiers, Asia, 2022",South Korea vs Iran
+1004,Lee Jae-Sung,['Jae-sung Lee'],24-03-2022,South Korea,KR,2671,"World Cup Qualifiers, Asia, 2022",South Korea vs Iran
+1005,Kim Min-Jae,['Min-jae Kim'],02-09-2021,South Korea,KR,2677,"World Cup Qualifiers, Asia, 2022",South Korea vs Iraq
+1006,Hwang In-Beom,['In-beom Hwang'],02-09-2021,South Korea,KR,2677,"World Cup Qualifiers, Asia, 2022",South Korea vs Iraq
+1007,Lee Jae-Sung,['Jae-sung Lee'],02-09-2021,South Korea,KR,2677,"World Cup Qualifiers, Asia, 2022",South Korea vs Iraq
+1008,Kim Min-Jae,['Min-jae Kim'],14-11-2019,South Korea,KR,2678,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+1009,Kim Jin-Su,['Jin-su Kim'],14-11-2019,South Korea,KR,2678,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+1010,Hwang In-Beom,['In-beom Hwang'],14-11-2019,South Korea,KR,2678,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+1011,Lee Jae-Sung,['Jae-sung Lee'],14-11-2019,South Korea,KR,2678,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+1012,Nam Tae-Hee,['Tae-hee Nam'],14-11-2019,South Korea,KR,2678,"World Cup Qualifiers, Asia, 2022",Lebanon vs South Korea
+1013,D Subašić,['Danijel Subasic'],12-11-2017,Croatia,HR,3184,"World Cup Qualifiers, Europe, 2018",Greece vs Croatia
+1014,J Næs,['Jónas Tór Naes'],03-09-2017,Faroe Islands,FO,3188,"World Cup Qualifiers, Europe, 2018",Faroe Islands vs Andorra
+1015,S Kjær,['Simon Kjaer'],11-11-2016,Denmark,DK,3189,"World Cup Qualifiers, Europe, 2018",Denmark vs Kazakhstan
+1016,N Gyömbér,['Norbert Gyomber'],01-09-2017,Slovakia,SK,3191,"World Cup Qualifiers, Europe, 2018",Slovakia vs Slovenia
+1017,A ćekić,['Aleksandar Scekic'],11-11-2016,Montenegro,ME,3195,"World Cup Qualifiers, Europe, 2018",Armenia vs Montenegro
+1018,S Kjær,['Simon Kjaer'],14-11-2017,Denmark,DK,3206,"World Cup Qualifiers, Europe, 2018",Republic of Ireland vs Denmark
+1019,S Kjær,['Simon Kjaer'],15-11-2021,Denmark,DK,3217,"World Cup Qualifiers, Europe, 2022",Scotland vs Denmark
+1020,A ćekić,['Aleksandar Scekic'],11-10-2021,Montenegro,ME,3221,"World Cup Qualifiers, Europe, 2022",Norway vs Montenegro
+1021,A Čerin,['Adam Gnezda Cerin'],14-11-2021,Slovenia,SI,3225,"World Cup Qualifiers, Europe, 2022",Slovenia vs Cyprus
+1022,A Murić,['Arijanet Muric'],08-09-2021,Kosovo,XK,3227,"World Cup Qualifiers, Europe, 2022",Kosovo vs Spain
+1023,V Kamešs,['Vladimirs Kamess'],04-09-2021,Latvia,LV,3231,"World Cup Qualifiers, Europe, 2022",Latvia vs Norway
+1024,K Kārkliņš,['Kriss Karklins'],04-09-2021,Latvia,LV,3231,"World Cup Qualifiers, Europe, 2022",Latvia vs Norway
+1025,C Pulišić,['Christian Pulisic'],08-07-2019,United States,US,3746,"Gold Cup, 2019",Mexico vs United States
+1026,Rakitskyi,['Yaroslav Rakitskyi'],12.06.16,Ukraine,UA,1136,Euros 2016,Germany vs Ukraine
+1027,Rakitskyi,['Yaroslav Rakitskyi'],16.06.16,Ukraine,UA,1137,Euros 2016,Ukraine vs Northern Ireland
+1028,Deng Hanwen,['Hanwen Deng'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1029,Zhang Linpeng,['Linpeng Zhang'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1030,Xiaoting Feng,['Xiaoting Feng'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1031,Wang Shenchao,['Shenchao Wang'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1032,Huang Bowen,['Bowen Huang'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1033,Xi Wu,['Xi Wu'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1034,Hanchao Yu,['Hanchao Yu'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1035,Zhang Xizhe,['Xizhe Zhang'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1036,Wu Lei,['Lei Wu'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1037,Gao Lin,['Lin Gao'],13-06-2017,China PR,CN,2280,"World Cup Qualifiers, Asia, 2018",Syria vs China PR
+1038,Kim Kee-Hee,['Kee-hee Kim'],15-11-2016,South Korea,KR,2283,"World Cup Qualifiers, Asia, 2018",South Korea vs Uzbekistan
+1039,Jang Hyun-Soo,['Hyun-soo Jang'],15-11-2016,South Korea,KR,2283,"World Cup Qualifiers, Asia, 2018",South Korea vs Uzbekistan
+1040,Nam Tae-Hee,['Tae-hee Nam'],15-11-2016,South Korea,KR,2283,"World Cup Qualifiers, Asia, 2018",South Korea vs Uzbekistan
+1041,Wang Dalei,['Dalei Wang'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1042,Zhang Linpeng,['Linpeng Zhang'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1043,Mei Fang,['Fang Mei'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1044,Ren Hang,['Hang Ren'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1045,Xi Wu,['Xi Wu'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1046,Yu Dabao,['Dabao Yu'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1047,Hanchao Yu,['Hanchao Yu'],8-9-2015,China PR,CN,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR
+1048,Choi Chul-Soon,['Chul-soon Choi'],28-03-2017,South Korea,KR,2297,"World Cup Qualifiers, Asia, 2018",South Korea vs Syria
+1049,Jang Hyun-Soo,['Hyun-soo Jang'],28-03-2017,South Korea,KR,2297,"World Cup Qualifiers, Asia, 2018",South Korea vs Syria
+1050,Kim Jin-Su,['Jin-su Kim'],28-03-2017,South Korea,KR,2297,"World Cup Qualifiers, Asia, 2018",South Korea vs Syria
+1051,Nam Tae-Hee,['Tae-hee Nam'],28-03-2017,South Korea,KR,2297,"World Cup Qualifiers, Asia, 2018",South Korea vs Syria
+1052,Chen Wei-chuan,['Wei-Chuan Chen'],24-03-2016,Chinese Taipei,TW,2298,"World Cup Qualifiers, Asia, 2018",Vietnam vs Chinese Taipei
+1053,Chen Hao-wei,['Hao-Wei Chen'],24-03-2016,Chinese Taipei,TW,2298,"World Cup Qualifiers, Asia, 2018",Vietnam vs Chinese Taipei
+1054,Chang Hao-wei,['Hao-Wei Chang'],16-06-2015,Chinese Taipei,TW,2299,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Thailand
+1055,Wei Yu-jen,['Yu-Jen Wei'],16-06-2015,Chinese Taipei,TW,2299,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Thailand
+1056,Jang Hyun-Soo,['Hyun-soo Jang'],8-9-2015,South Korea,KR,2310,"World Cup Qualifiers, Asia, 2018",Lebanon vs South Korea
+1057,Kim Jin-Su,['Jin-su Kim'],8-9-2015,South Korea,KR,2310,"World Cup Qualifiers, Asia, 2018",Lebanon vs South Korea
+1058,Jang Hyun-Soo,['Hyun-soo Jang'],16-06-2015,South Korea,KR,2322,"World Cup Qualifiers, Asia, 2018",Myanmar vs South Korea
+1059,Kim Jin-Su,['Jin-su Kim'],16-06-2015,South Korea,KR,2322,"World Cup Qualifiers, Asia, 2018",Myanmar vs South Korea
+1060,Lee Jae-Sung,['Jae-sung Lee'],16-06-2015,South Korea,KR,2322,"World Cup Qualifiers, Asia, 2018",Myanmar vs South Korea
+1061,Jang Hyun-Soo,['Hyun-soo Jang'],11-10-2016,South Korea,KR,2323,"World Cup Qualifiers, Asia, 2018",Iran vs South Korea
+1062,Kim Kee-Hee,['Kee-hee Kim'],11-10-2016,South Korea,KR,2323,"World Cup Qualifiers, Asia, 2018",Iran vs South Korea
+1063,Yang Zhi,['Zhi Yang'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1064,Zhao Mingjian,['Mingjian Zhao'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1065,Xiaoting Feng,['Xiaoting Feng'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1066,Du Wei,['Wei Du'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1067,Ren Hang,['Hang Ren'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1068,Zhang Chengdong,['Chengdong Zhang'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1069,Junmin Hao,['Junmin Hao'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1070,Cai Huikang,['Huikang Cai'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1071,Sun Ke,['Ke Sun'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1072,Jiang Ning,['Ning Jiang'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1073,Wu Lei,['Lei Wu'],11-10-2016,China PR,CN,2324,"World Cup Qualifiers, Asia, 2018",Uzbekistan vs China PR
+1074,Jang Hyun-Soo,['Hyun-soo Jang'],6-9-2016,South Korea,KR,2325,"World Cup Qualifiers, Asia, 2018",Syria vs South Korea
+1075,Lee Jae-Sung,['Jae-sung Lee'],6-9-2016,South Korea,KR,2325,"World Cup Qualifiers, Asia, 2018",Syria vs South Korea
+1076,Jang Hyun-Soo,['Hyun-soo Jang'],24-03-2016,South Korea,KR,2480,"World Cup Qualifiers, Asia, 2018",South Korea vs Lebanon
+1077,Kim Kee-Hee,['Kee-hee Kim'],24-03-2016,South Korea,KR,2480,"World Cup Qualifiers, Asia, 2018",South Korea vs Lebanon
+1078,Kim Jin-Su,['Jin-su Kim'],24-03-2016,South Korea,KR,2480,"World Cup Qualifiers, Asia, 2018",South Korea vs Lebanon
+1079,Lee Jae-Sung,['Jae-sung Lee'],24-03-2016,South Korea,KR,2480,"World Cup Qualifiers, Asia, 2018",South Korea vs Lebanon
+1080,Kim Tae-Hwan,['Tae-hwan Kim'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1081,Kim Min-Jae,['Min-jae Kim'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1082,Kim Jin-Su,['Jin-su Kim'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1083,Lee Jae-Sung,['Jae-sung Lee'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1084,Hwang In-Beom,['In-beom Hwang'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1085,Cho Gue-Sung,['Gue-sung Cho'],01-02-2022,South Korea,KR,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea
+1086,Chen Wei-chuan,['Wei-Chuan Chen'],15-10-2019,Chinese Taipei,TW,2486,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Australia
+1087,Chen Hao-wei,['Hao-Wei Chen'],15-10-2019,Chinese Taipei,TW,2486,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Australia
+1088,Pai Shao-yu,['Shao-Yu Pai'],03-06-2021,Chinese Taipei,TW,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei
+1089,Chen Wei-chuan,['Wei-Chuan Chen'],03-06-2021,Chinese Taipei,TW,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei
+1090,Chen Jui-chieh,['Jui-Chieh Chen'],03-06-2021,Chinese Taipei,TW,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei
+1091,Yan Junling,['Junling Yan'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1092,Zhu Chenjie,['Chenjie Zhu'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1093,Zhang Linpeng,['Linpeng Zhang'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1094,Jin Jingdao,['Jingdao Jin'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1095,Chi Zhongguo,['Zhongguo Chi'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1096,Xi Wu,['Xi Wu'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1097,Wang Shenchao,['Shenchao Wang'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1098,Zhang Yuning,['Yuning Zhang'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1099,Wu Lei,['Lei Wu'],12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1100,Kim Min-Jae,['Min-jae Kim'],07-10-2021,South Korea,KR,2501,"World Cup Qualifiers, Asia, 2022",South Korea vs Syria
+1101,Hwang In-Beom,['In-beom Hwang'],07-10-2021,South Korea,KR,2501,"World Cup Qualifiers, Asia, 2022",South Korea vs Syria
+1102,Yan Junling,['Junling Yan'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1103,Zhang Linpeng,['Linpeng Zhang'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1104,Zhu Chenjie,['Chenjie Zhu'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1105,Zheng Zheng,['Zheng Zheng'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1106,Xu Xin,['Xin Xu'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1107,Wang Shenchao,['Shenchao Wang'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1108,Wu Lei,['Lei Wu'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1109,Xi Wu,['Xi Wu'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1110,Junmin Hao,['Junmin Hao'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1111,Zhang Yuning,['Yuning Zhang'],27-01-2022,China PR,CN,2506,"World Cup Qualifiers, Asia, 2022",Japan vs China PR
+1112,Yan Junling,['Junling Yan'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1113,Tang Miao,['Miao Tang'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1114,Zhang Linpeng,['Linpeng Zhang'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1115,Wang Shenchao,['Shenchao Wang'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1116,Jin Jingdao,['Jingdao Jin'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1117,Xi Wu,['Xi Wu'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1118,Zhang Xizhe,['Xizhe Zhang'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1119,Wu Xinghan,['Xinghan Wu'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1120,Wu Lei,['Lei Wu'],7-6-2021,China PR,CN,2507,"World Cup Qualifiers, Asia, 2022",China PR vs Philippines
+1121,Helio Goncalves,['Hélio'],15-06-2021,Hong Kong,HK,2512,"World Cup Qualifiers, Asia, 2022",Bahrain vs Hong Kong
+1122,Cheng Siu Kwang,['Siu-Kwan Cheng'],15-06-2021,Hong Kong,HK,2512,"World Cup Qualifiers, Asia, 2022",Bahrain vs Hong Kong
+1123,Chen Wei-chuan,['Wei-Chuan Chen'],10-09-2019,Chinese Taipei,TW,2514,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Nepal
+1124,Chen Hao-wei,['Hao-Wei Chen'],10-09-2019,Chinese Taipei,TW,2514,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Nepal
+1125,Chen Jui-chieh,['Jui-Chieh Chen'],10-09-2019,Chinese Taipei,TW,2514,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Nepal
+1126,Kim Min-Jae,['Min-jae Kim'],05-06-2021,South Korea,KR,2517,"World Cup Qualifiers, Asia, 2022",South Korea vs Turkmenistan
+1127,Lee Jae-Sung,['Jae-sung Lee'],05-06-2021,South Korea,KR,2517,"World Cup Qualifiers, Asia, 2022",South Korea vs Turkmenistan
+1128,Nam Tae-Hee,['Tae-hee Nam'],05-06-2021,South Korea,KR,2517,"World Cup Qualifiers, Asia, 2022",South Korea vs Turkmenistan
+1129,Lee Jae-Sung,['Jae-sung Lee'],13-06-2021,South Korea,KR,2519,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+1130,M Poté,['Mickael Pote'],10-10-2021,Benin,BJ,2126,"World Cup Qualifiers, Africa, 2022",Benin vs Tanzania
+1131,Ernan Siluane,['Ernan'],13-11-2021,Mozambique,MZ,2145,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire vs Mozambique
+1132,Gildo Vilanculos,['Gildo'],13-11-2021,Mozambique,MZ,2145,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire vs Mozambique
+1133,J Kiassumbua,['Joël Kiassumbua'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1134,D Mukoko Amale,['Dieumerci Amale'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1135,C Luyindama,['Christian Luyindama'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1136,M Tisserand,['Marcel Tisserand'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1137,N Muzinga,['Ngonda Muzinga'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1138,C Akolo,['Chadrac Akolo'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1139,C Mbemba,['Chancel Mbemba'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1140,S Moutoussamy,['Samuel Moutoussamy'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1141,Y Bolasie,['Yannick Bolasie'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1142,D Mbokani,['Dieumerci Mbokani'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1143,C Bakambu,['Cédric Bakambu'],02-09-2021,Congo DR,DR,2150,"World Cup Qualifiers, Africa, 2022",Congo DR vs Tanzania
+1144,Jang Hyunsoo,['Hyun-soo Jang'],18.06.18,South Korea,KR,270,World Cup 2018,Sweden vs South Korea
+1145,Kim Minwoo,['Min-woo Kim'],23.06.18,South Korea,KR,271,World Cup 2018,South Korea vs Mexico
+1146,Jang Hyunsoo,['Hyun-soo Jang'],23.06.18,South Korea,KR,271,World Cup 2018,South Korea vs Mexico
+1147,Moon Seonmin,['Seon-min Moon'],23.06.18,South Korea,KR,271,World Cup 2018,South Korea vs Mexico
+1148,Jang Hyunsoo,['Hyun-soo Jang'],27.06.18,South Korea,KR,273,World Cup 2018,South Korea vs Germany
+1149,Jung Wooyoung,['Woo-young Jung'],27.06.18,South Korea,KR,273,World Cup 2018,South Korea vs Germany
+1150,Moon Seonmin,['Seon-min Moon'],27.06.18,South Korea,KR,273,World Cup 2018,South Korea vs Germany
+1151,Kim Jin-Su,['Jin-su Kim'],05.12.22,South Korea,KR,301,World Cup 2022,Brazil vs South Korea
+1152,Jung Wooyoung,['Woo-young Jung'],05.12.22,South Korea,KR,301,World Cup 2022,Brazil vs South Korea
+1153,D Luís,['Daniel Luis'],20-06-2019,Cuba,CU,3728,"Gold Cup, 2019",Cuba vs Martinique
+1154,C Pulišić,['Christian Pulisic'],19-06-2019,United States,US,3729,"Gold Cup, 2019",United States vs Guyana
+1155,C Pulišić,['Christian Pulisic'],01-07-2019,United States,US,3731,"Gold Cup, 2019",United States vs Curaçao
+1156,C Pulišić,['Christian Pulisic'],23-06-2019,United States,US,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago
+1157,C Pulišić,['Christian Pulisic'],04-07-2019,United States,US,3738,"Gold Cup, 2019",Jamaica vs United States
+1158,D Subašić,['Danijel Subasic'],03-09-2017,Croatia,HR,2991,"World Cup Qualifiers, Europe, 2018",Croatia vs Kosovo
+1159,M uriš,['Michal Duris'],04-09-2016,Slovakia,SK,2992,"World Cup Qualifiers, Europe, 2018",Slovakia vs England
+1160,Thiago Alcântara,['Thiago'],11-06-2017,Spain,ES,2994,"World Cup Qualifiers, Europe, 2018",North Macedonia vs Spain
+1161,S Kjær,['Simon Kjaer'],11-11-2017,Denmark,DK,2999,"World Cup Qualifiers, Europe, 2018",Denmark vs Republic of Ireland
+1162,Thiago Alcântara,['Thiago'],05-09-2016,Spain,ES,3005,"World Cup Qualifiers, Europe, 2018",Spain vs Liechtenstein
+1163,D Subašić,['Danijel Subasic'],24-03-2017,Croatia,HR,3006,"World Cup Qualifiers, Europe, 2018",Croatia vs Ukraine
+1164,Thiago Alcântara,['Thiago'],12-11-2016,Spain,ES,3007,"World Cup Qualifiers, Europe, 2018",Spain vs North Macedonia
+1165,E Bičakčić,['Ermin Bicakcic'],25-03-2017,Bosnia-Herzegovina-Herzegovina,BA,3017,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Gibraltar
+1166,E Višća,['Edin Visca'],25-03-2017,Bosnia-Herzegovina-Herzegovina,BA,3017,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Gibraltar
+1167,J Næs,['Jónas Tór Naes'],31-08-2017,Faroe Islands,FO,3018,"World Cup Qualifiers, Europe, 2018",Portugal vs Faroe Islands
+1168,M uriš,['Michal Duris'],11-10-2016,Slovakia,SK,3021,"World Cup Qualifiers, Europe, 2018",Slovakia vs Scotland
+1169,A ćekić,['Aleksandar Scekic'],26-03-2017,Montenegro,ME,3022,"World Cup Qualifiers, Europe, 2018",Montenegro vs Poland
+1170,A ćekić,['Aleksandar Scekic'],08-10-2017,Montenegro,ME,3023,"World Cup Qualifiers, Europe, 2018",Poland vs Montenegro
+1171,M Oršić,['Mislav Orsic'],30-03-2021,Croatia,HR,3240,"World Cup Qualifiers, Europe, 2022",Croatia vs Malta
+1172,A ćekić,['Aleksandar Scekic'],04-09-2021,Montenegro,ME,3249,"World Cup Qualifiers, Europe, 2022",Netherlands vs Montenegro
+1173,S Kjær,['Simon Kjaer'],09-10-2021,Denmark,DK,3251,"World Cup Qualifiers, Europe, 2022",Moldova vs Denmark
+1174,A Čerin,['Adam Gnezda Cerin'],08-10-2021,Slovenia,SI,3255,"World Cup Qualifiers, Europe, 2022",Malta vs Slovenia
+1175,I ehić,['Ibrahim Sehic'],01-09-2021,Bosnia-Herzegovina-Herzegovina,BA,3257,"World Cup Qualifiers, Europe, 2022",France vs Bosnia-Herzegovina-Herzegovina
+1176,M Sušić,['Mateo Susic'],01-09-2021,Bosnia-Herzegovina-Herzegovina,BA,3257,"World Cup Qualifiers, Europe, 2022",France vs Bosnia-Herzegovina-Herzegovina
+1177,S Kjær,['Simon Kjaer'],01-09-2021,Denmark,DK,3264,"World Cup Qualifiers, Europe, 2022",Denmark vs Scotland
+1178,I ehić,['Ibrahim Sehic'],13-11-2021,Bosnia-Herzegovina-Herzegovina,BA,3269,"World Cup Qualifiers, Europe, 2022",Bosnia-Herzegovina-Herzegovina vs Finland
+1179,Maliy,['Sergey Maliy'],06.09.18,Kazakhstan,KZ,1488,Nations League 2018-2020,Kazakhstan vs Georgia
+1180,Maliy,['Sergey Maliy'],13.10.18,Kazakhstan,KZ,1493,Nations League 2018-2020,Latvia vs Kazakhstan
+1181,Maliy,['Sergey Maliy'],15.11.18,Kazakhstan,KZ,1496,Nations League 2018-2020,Kazakhstan vs Latvia
+1182,Maliy,['Sergey Maliy'],19.11.18,Kazakhstan,KZ,1499,Nations League 2018-2020,Georgia vs Kazakhstan
+1183,B Jógvansson-Hansen,Bárdur Hansen,13-11-2016,Faroe Islands,FO,3137,"World Cup Qualifiers, Europe, 2018",Switzerland vs Faroe Islands
+1184,R Hojayev,Resul Khozhaev,14-11-2019,Turkmenistan,TM,2686,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs North Korea
+1185,A Amanow,Arslanmurad Amanov,14-11-2019,Turkmenistan,TM,2686,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs North Korea
+1186,Nguyn Tun Anh,Tuan Anh Nguyen,29-03-2022,Vietnam,VN,2687,"World Cup Qualifiers, Asia, 2022",Japan vs Vietnam
+1187,Bùi Tin Dng,Tien Dung Bui,12-10-2021,Vietnam,VN,2698,"World Cup Qualifiers, Asia, 2022",Oman vs Vietnam
+1188,Nguyn Tin Linh,Tien Linh Nguyen,12-10-2021,Vietnam,VN,2698,"World Cup Qualifiers, Asia, 2022",Oman vs Vietnam
+1189,Bùi Tin Dng,Tien Dung Bui,14-11-2019,Vietnam,VN,2702,"World Cup Qualifiers, Asia, 2022",Vietnam vs United Arab Emirates
+1190,Nguyn Tun Anh,Tuan Anh Nguyen,14-11-2019,Vietnam,VN,2702,"World Cup Qualifiers, Asia, 2022",Vietnam vs United Arab Emirates
+1191,Nguyn Tin Linh,Tien Linh Nguyen,14-11-2019,Vietnam,VN,2702,"World Cup Qualifiers, Asia, 2022",Vietnam vs United Arab Emirates
+1192,Bùi Tin Dng,Tien Dung Bui,19-11-2019,Vietnam,VN,2704,"World Cup Qualifiers, Asia, 2022",Vietnam vs Thailand
+1193,Nguyn Tun Anh,Tuan Anh Nguyen,19-11-2019,Vietnam,VN,2704,"World Cup Qualifiers, Asia, 2022",Vietnam vs Thailand
+1194,Nguyn Tin Linh,Tien Linh Nguyen,19-11-2019,Vietnam,VN,2704,"World Cup Qualifiers, Asia, 2022",Vietnam vs Thailand
+1195,K Alijonov,Khozhiakbar Alizhonov,16-11-2023,Uzbekistan,UZ,2714,"World Cup Qualifiers, Asia, 2026",Turkmenistan vs Uzbekistan
+1196,Nguyn Tun Anh,Tuan Anh Nguyen,16-11-2023,Vietnam,VN,2716,"World Cup Qualifiers, Asia, 2026",Philippines vs Vietnam
+1197,Nguyn Thái Sn,Thai Son Nguyen,16-11-2023,Vietnam,VN,2716,"World Cup Qualifiers, Asia, 2026",Philippines vs Vietnam
+1198,Nguyn Tin Linh,Tien Linh Nguyen,16-11-2023,Vietnam,VN,2716,"World Cup Qualifiers, Asia, 2026",Philippines vs Vietnam
+1199,Nguyn Tun Anh,Tuan Anh Nguyen,21-11-2023,Vietnam,VN,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq
+1200,Nguyn Thái Sn,Thai Son Nguyen,21-11-2023,Vietnam,VN,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq
+1201,Nguyn Tin Linh,Tien Linh Nguyen,21-11-2023,Vietnam,VN,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq
+1202,K Alijonov,Khozhiakbar Alizhonov,21-11-2023,Uzbekistan,UZ,2729,"World Cup Qualifiers, Asia, 2026",Uzbekistan vs Iran
+1203,D Giorgi,Diego Gil,07-Oct-11,Venezuela,VE,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela
+1204,D Giorgi,Diego Gil,02-Jun-12,Venezuela,VE,4216,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Venezuela
+1205,D Giorgi,Diego Gil,09-Jun-12,Venezuela,VE,4221,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Chile
+1206,M Moreno,Mariano Andújar,26-Mar-13,Argentina,AR,4244,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Argentina
+1207,L Mpasi,Lionel Mpasi-Nzau,19-11-2023,Congo DR,DR,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR
+1208,W Moutou,Wilson Mootoo,17-11-2023,Mauritius,MU,2245,"World Cup Qualifiers, Africa, 2026",Cameroon vs Mauritius
+1209,W Moutou,Wilson Mootoo,21-11-2023,Mauritius,MU,2250,"World Cup Qualifiers, Africa, 2026",Mauritius vs Angola
+1210,I Inomov,Farrukh Ikromov,06-09-2013,Uzbekistan,UZ,2254,"World Cup Qualifiers, Asia, 2014",Jordan vs Uzbekistan
+1211,Nguyn Xuân Thành,Xuan Thanh Nguyen,08-09-2015,Vietnam,VN,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam
+1212,Nguyn Văn Quyt,Van Quyet Nguyen,08-09-2015,Vietnam,VN,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam
+1213,Nguyn Xuân Thành,Xuan Thanh Nguyen,08-10-2015,Vietnam,VN,2274,"World Cup Qualifiers, Asia, 2018",Vietnam vs Iraq
+1214,Mc Hng Quân,Hong Quan Mac,08-10-2015,Vietnam,VN,2274,"World Cup Qualifiers, Asia, 2018",Vietnam vs Iraq
+1215,F Niţă,Florin Niță,11-10-2021,Romania,RO,3329,"World Cup Qualifiers, Europe, 2022",Romania vs Armenia
+1216,Damașcan,['Vitalie Damaşcan'],15.11.20,Moldova,MD,1669,Nations League 2020-2021,Moldova vs Greece
+1217,Drahun,['Stanislav Dragun'],04.09.20,Belarus,BY,1674,Nations League 2020-2021,Belarus vs Albania
+1218,Drahun,['Stanislav Dragun'],07.09.20,Belarus,BY,1675,Nations League 2020-2021,Kazakhstan vs Belarus
+1219,M Woeber,Maximilian Wöber,03.06.22,Austria,AT,1709,Nations League 2022-2023,Croatia vs Austria
+1220,M Woeber,Maximilian Wöber,10.06.22,Austria,AT,1713,Nations League 2022-2023,Austria vs France
+1221,M Woeber,Maximilian Wöber,22.09.22,Austria,AT,1716,Nations League 2022-2023,France vs Austria
+1222,Damașcan,['Vitalie Damaşcan'],24.03.23,Moldova,MD,958,"Euros 2024, Qualifiers",Moldova vs Faroe Islands
+1223,Damașcan,['Vitalie Damaşcan'],27.03.23,Moldova,MD,960,"Euros 2024, Qualifiers",Moldova vs Czech
+1224,Damașcan,['Vitalie Damaşcan'],17.06.23,Moldova,MD,961,"Euros 2024, Qualifiers",Albania vs Moldova
+1225,Damașcan,['Vitalie Damaşcan'],20.06.23,Moldova,MD,964,"Euros 2024, Qualifiers",Moldova vs Poland
+1226,Damașcan,['Vitalie Damaşcan'],10.09.23,Moldova,MD,967,"Euros 2024, Qualifiers",Faroe Islands vs Moldova
+1227,M Woeber,Maximilian Wöber,24.03.23,Austria,AT,977,"Euros 2024, Qualifiers",Austria vs Azerbaijan
+1228,M Woeber,Maximilian Wöber,17.06.23,Austria,AT,982,"Euros 2024, Qualifiers",Belgium vs Austria
+1229,M Woeber,Maximilian Wöber,13.10.23,Austria,AT,990,"Euros 2024, Qualifiers",Austria vs Belgium
+1230,M Woeber,Maximilian Wöber,16.10.23,Austria,AT,991,"Euros 2024, Qualifiers",Azerbaijan vs Austria
+1231,M Woeber,Maximilian Wöber,16.11.23,Austria,AT,994,"Euros 2024, Qualifiers",Estonia vs Austria
+1232,E Agyemang-Badu,Emmanuel Badu,23-01-2015,Ghana,GH,3486,"African Cup of Nations, 2015",Ghana vs Algeria
+1233,E Agyemang-Badu,Emmanuel Badu,19-01-2015,Ghana,GH,3493,"African Cup of Nations, 2015",Ghana vs Senegal
+1234,M Manser,Mohamed Ben Mansour,18-01-2015,Tunisia,TN,3495,"African Cup of Nations, 2015",Tunisia vs Cape Verde
+1235,Gêgê,['Gegé'],18-01-2015,Cape Verde,CV,3495,"African Cup of Nations, 2015",Tunisia vs Cape Verde
+1236,Gêgê,['Gegé'],22-01-2015,Cape Verde,CV,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+1237,L Mabidi,Chikito Lema Mabidi,22-01-2015,Congo DR,DR,3496,"African Cup of Nations, 2015",Cape Verde vs Congo DR
+1238,B Barry,Vakoun Bayo,08-02-2015,Cote d'Ivoire,CI,3497,"African Cup of Nations, 2015",Cote d'Ivoire vs Ghana
+1239,P M'Poku,Paul-José Mpoku,29-01-2017,Congo DR,DR,3504,"African Cup of Nations, 2017",Congo DR vs Ghana
+1240,E Agyemang-Badu,Emmanuel Badu,25-01-2017,Ghana,GH,3515,"African Cup of Nations, 2017",Egypt vs Ghana
+1241,E Agyemang-Badu,Emmanuel Badu,04-02-2017,Ghana,GH,3518,"African Cup of Nations, 2017",Burkina Faso vs Ghana
+1242,F Nsakala,Fabrice N'Sakala,16-01-2017,Congo DR,DR,3529,"African Cup of Nations, 2017",Congo DR vs Morocco
+1243,M Woeber,Maximilian Wöber,21.03.19,Austria,AT,756,"Euros 2020, Qualifiers",Austria vs Poland
+1244,M Woeber,Maximilian Wöber,24.03.19,Austria,AT,759,"Euros 2020, Qualifiers",Israel vs Austria
+1245,M Woeber,Maximilian Wöber,19.11.19,Austria,AT,785,"Euros 2020, Qualifiers",Latvia vs Austria
+1246,Damașcan,['Vitalie Damaşcan'],08.06.19,Moldova,MD,793,"Euros 2020, Qualifiers",Moldova vs Andorra
+1247,Damașcan,['Vitalie Damaşcan'],11.06.19,Moldova,MD,796,"Euros 2020, Qualifiers",Albania vs Moldova
+1248,K Carter,Keron Clarke,09-07-2013,Trinidad and Tobago,TT,3651,"Gold Cup, 2013",El Salvador vs Trinidad and Tobago
+1249,M Adoassou,Eli Matthieu Adaoussou,10-09-2019,Chad,TD,2175,"World Cup Qualifiers, Africa, 2022",Sudan vs Chad
+1250,L Mpasi,Lionel Mpasi-Nzau,15-11-2023,Congo DR,DR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+1251,H Houbeib,El Hassan Houeibib,15-11-2023,Mauritania,MR,2208,"World Cup Qualifiers, Africa, 2026",Congo DR vs Mauritania
+1252,Abdulmunem Aleiyan,Abdulsamie Diab,21-11-2023,Libya,LY,2212,"World Cup Qualifiers, Africa, 2026",Libya vs Cameroon
+1253,Abdulmunem Aleiyan,Abdulsamie Diab,17-11-2023,Libya,LY,2216,"World Cup Qualifiers, Africa, 2026",Eswatini vs Libya
+1254,Park Yong-Woo,Yong-woo Park,21-11-2023,South Korea,KR,2732,"World Cup Qualifiers, Asia, 2026",China PR vs South Korea
+1255,A Amanow,Arslanmurad Amanov,21-11-2023,Turkmenistan,TM,2760,"World Cup Qualifiers, Asia, 2026",Hong Kong vs Turkmenistan
+1256,Mitriță,['Alexandru Mitriţă'],08.10.20,Romania,RO,624,"Euros 2020, Qualifiers",Iceland vs Romania
+1257,Karavayev,['Oleksandr Karavaev'],22.03.19,Ukraine,UA,646,"Euros 2020, Qualifiers",Portugal vs Ukraine
+1258,Karavayev,['Oleksandr Karavaev'],07.06.19,Ukraine,UA,650,"Euros 2020, Qualifiers",Ukraine vs Serbia
+1259,Karavayev,['Oleksandr Karavaev'],10.06.19,Ukraine,UA,652,"Euros 2020, Qualifiers",Ukraine vs Luxembourg
+1260,Karavayev,['Oleksandr Karavaev'],03.07.21,Ukraine,UA,1166,Euros 2020,Ukraine vs England
+1261,Karavayev,['Oleksandr Karavaev'],29.06.21,Ukraine,UA,1174,Euros 2020,Sweden vs Ukraine
+1262,Karavayev,['Oleksandr Karavaev'],13.06.21,Ukraine,UA,1188,Euros 2020,Netherlands vs Ukraine
+1263,Karavayev,['Oleksandr Karavaev'],17.06.21,Ukraine,UA,1189,Euros 2020,Ukraine vs North Macedonia
+1264,Karavayev,['Oleksandr Karavaev'],21.06.21,Ukraine,UA,1192,Euros 2020,Ukraine vs Austria
+1265,Karavayev,['Oleksandr Karavaev'],11.06.22,Ukraine,UA,1759,Nations League 2022-2023,Ukraine vs Armenia
+1266,Karavayev,['Oleksandr Karavaev'],14.06.22,Ukraine,UA,1762,Nations League 2022-2023,Ukraine vs Ireland
+1267,Karavayev,['Oleksandr Karavaev'],21.09.22,Ukraine,UA,1763,Nations League 2022-2023,Scotland vs Ukraine
+1268,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,08-10-2015,Turkmenistan,TM,2428,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs India
+1269,A Amanow,Arslanmurad Amanov,08-10-2015,Turkmenistan,TM,2428,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs India
+1270,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,12-11-2015,Turkmenistan,TM,2441,"World Cup Qualifiers, Asia, 2018",Iran vs Turkmenistan
+1271,A Amanow,Arslanmurad Amanov,12-11-2015,Turkmenistan,TM,2441,"World Cup Qualifiers, Asia, 2018",Iran vs Turkmenistan
+1272,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,13-10-2015,Turkmenistan,TM,2448,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Guam
+1273,A Amanow,Arslanmurad Amanov,13-10-2015,Turkmenistan,TM,2448,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Guam
+1274,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,16-06-2015,Turkmenistan,TM,2462,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Iran
+1275,A Amanow,Arslanmurad Amanov,16-06-2015,Turkmenistan,TM,2462,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Iran
+1276,S Ataýew,Serdaraly Ataev,16-06-2015,Turkmenistan,TM,2462,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Iran
+1277,S Pal,Subrata Paul,12-03-2015,India,IN,2464,"World Cup Qualifiers, Asia, 2018",India vs Nepal
+1278,R Baltaýew,Rakhimberdy Baltaev,29-03-2016,Turkmenistan,TM,2469,"World Cup Qualifiers, Asia, 2018",India vs Turkmenistan
+1279,A Amanow,Arslanmurad Amanov,29-03-2016,Turkmenistan,TM,2469,"World Cup Qualifiers, Asia, 2018",India vs Turkmenistan
+1280,Khacheridi Yevhen,Yevgen Khacheridi,09.10.14,Ukraine,UA,416,"Euros 2016, Qualifiers",Belarus vs Ukraine
+1281,Khacheridi Yevhen,Yevgen Khacheridi,12.10.14,Ukraine,UA,419,"Euros 2016, Qualifiers",Ukraine vs North Macedonia
+1282,Drahun,['Stanislav Dragun'],12.10.14,Belarus,BY,420,"Euros 2016, Qualifiers",Belarus vs Slovakia
+1283,Khacheridi Yevhen,Yevgen Khacheridi,15.11.14,Ukraine,UA,422,"Euros 2016, Qualifiers",Luxembourg vs Ukraine
+1284,Drahun,['Stanislav Dragun'],15.11.14,Belarus,BY,424,"Euros 2016, Qualifiers",Spain vs Belarus
+1285,Khacheridi Yevhen,Yevgen Khacheridi,27.03.15,Ukraine,UA,427,"Euros 2016, Qualifiers",Spain vs Ukraine
+1286,Khacheridi Yevhen,Yevgen Khacheridi,14.06.15,Ukraine,UA,428,"Euros 2016, Qualifiers",Ukraine vs Luxembourg
+1287,Khacheridi Yevhen,Yevgen Khacheridi,05.09.15,Ukraine,UA,432,"Euros 2016, Qualifiers",Ukraine vs Belarus
+1288,Drahun,['Stanislav Dragun'],08.09.15,Belarus,BY,434,"Euros 2016, Qualifiers",Belarus vs Luxembourg
+1289,Khacheridi Yevhen,Yevgen Khacheridi,08.09.15,Ukraine,UA,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine
+1290,Khacheridi Yevhen,Yevgen Khacheridi,09.10.15,Ukraine,UA,437,"Euros 2016, Qualifiers",North Macedonia vs Ukraine
+1291,Drahun,['Stanislav Dragun'],09.10.15,Belarus,BY,438,"Euros 2016, Qualifiers",Slovakia vs Belarus
+1292,Drahun,['Stanislav Dragun'],12.10.15,Belarus,BY,440,"Euros 2016, Qualifiers",Belarus vs North Macedonia
+1293,S Pal,Subrata Paul,16-06-2015,India,IN,2385,"World Cup Qualifiers, Asia, 2018",Guam vs India
+1294,S Pal,Subrata Paul,17-03-2015,India,IN,2395,"World Cup Qualifiers, Asia, 2018",Nepal vs India
+1295,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,11-06-2015,Turkmenistan,TM,2397,"World Cup Qualifiers, Asia, 2018",Guam vs Turkmenistan
+1296,R Baltaýew,Rakhimberdy Baltaev,11-06-2015,Turkmenistan,TM,2397,"World Cup Qualifiers, Asia, 2018",Guam vs Turkmenistan
+1297,S Ataýew,Serdaraly Ataev,11-06-2015,Turkmenistan,TM,2397,"World Cup Qualifiers, Asia, 2018",Guam vs Turkmenistan
+1298,Lng Xuân Trng,Xuan Truong Luong,29-03-2016,Vietnam,VN,2414,"World Cup Qualifiers, Asia, 2018",Iraq vs Vietnam
+1299,Nguyn Tun Anh,Tuan Anh Nguyen,29-03-2016,Vietnam,VN,2414,"World Cup Qualifiers, Asia, 2018",Iraq vs Vietnam
+1300,Menzi Masuku,Senzo Meyiwa,2016-08-04,South Africa,ZA,1329,"Olympics, 2016",Brazil vs South Africa
+1301,Menzi Masuku,Senzo Meyiwa,2016-08-10,South Africa,ZA,1333,"Olympics, 2016",South Africa vs Iraq
+1302,Astrit Ajdarević,Yasin Ayari,2016-08-04,Sweden,SE,1334,"Olympics, 2016",Sweden vs Colombia
+1303,Seth Muenfuh Sincere,Seth Mayi,2016-08-04,Nigeria,NG,1335,"Olympics, 2016",Nigeria vs Japan
+1304,Astrit Ajdarević,Yasin Ayari,2016-08-07,Sweden,SE,1336,"Olympics, 2016",Sweden vs Nigeria
+1305,Seth Muenfuh Sincere,Seth Mayi,2016-08-07,Nigeria,NG,1336,"Olympics, 2016",Sweden vs Nigeria
+1306,Astrit Ajdarević,Yasin Ayari,2016-08-10,Sweden,SE,1338,"Olympics, 2016",Japan vs Sweden
+1307,Seth Muenfuh Sincere,Seth Mayi,2016-08-10,Nigeria,NG,1339,"Olympics, 2016",Colombia vs Nigeria
+1308,F Nsakala,Fabrice N'Sakala,07-10-2021,Congo DR,DR,2115,"World Cup Qualifiers, Africa, 2022",Congo DR vs Madagascar
+1309,Karavayev,['Oleksandr Karavaev'],06.09.18,Ukraine,UA,1422,Nations League 2018-2020,Czech vs Ukraine
+1310,Karavayev,['Oleksandr Karavaev'],09.09.18,Ukraine,UA,1423,Nations League 2018-2020,Ukraine vs Slovakia
+1311,Karavayev,['Oleksandr Karavaev'],16.10.18,Ukraine,UA,1425,Nations League 2018-2020,Ukraine vs Czech
+1312,Karavayev,['Oleksandr Karavaev'],16.11.18,Ukraine,UA,1426,Nations League 2018-2020,Slovakia vs Ukraine
+1313,K Panaiy,Konstantinos Panagi,06-09-2016,Cyprus,CY,3036,"World Cup Qualifiers, Europe, 2018",Cyprus vs Belgium
+1314,K Panaiy,Konstantinos Panagi,31-08-2017,Cyprus,CY,3039,"World Cup Qualifiers, Europe, 2018",Cyprus vs Bosnia-Herzegovina-Herzegovina
+1315,K Panaiy,Konstantinos Panagi,10-10-2017,Cyprus,CY,3057,"World Cup Qualifiers, Europe, 2018",Belgium vs Cyprus
+1316,K Panaiy,Konstantinos Panagi,09-06-2017,Cyprus,CY,3064,"World Cup Qualifiers, Europe, 2018",Gibraltar vs Cyprus
+1317,Jeong Tae-uk,Tae-wook Jeong,2021-07-22,South Korea,KR,1367,"Olympics, 2020",New Zealand vs South Korea
+1318,Jeong Tae-uk,Tae-wook Jeong,2021-07-25,South Korea,KR,1370,"Olympics, 2020",Romania vs South Korea
+1319,Jeong Tae-uk,Tae-wook Jeong,2021-07-28,South Korea,KR,1372,"Olympics, 2020",South Korea vs Honduras
+1320,Kim Jin-ya,Jin-gyu Kim,2021-07-28,South Korea,KR,1372,"Olympics, 2020",South Korea vs Honduras
+1321,Jordan Torunarigha,Jonathan Tah,2021-07-28,Germany,DE,1384,"Olympics, 2020",Germany vs Ivory Coast
+1322,Kader Keïta,Karim Konaté,2021-07-28,Ivory Coast,CI,1384,"Olympics, 2020",Germany vs Ivory Coast
+1323,Jeong Tae-uk,Tae-wook Jeong,2021-07-31,South Korea,KR,1388,"Olympics, 2020",South Korea vs Mexico
+1324,Kim Jin-ya,Jin-gyu Kim,2021-07-31,South Korea,KR,1388,"Olympics, 2020",South Korea vs Mexico
+1325,Moruțan,['Olimpiu Moruţan'],15.10.23,Romania,RO,1068,"Euros 2024, Qualifiers",Romania vs Andorra
+1326,Moruțan,['Olimpiu Moruţan'],21.11.23,Romania,RO,1074,"Euros 2024, Qualifiers",Romania vs Switzerland
+1327,Boženík,['Róbert Bozeník'],11.09.23,Slovakia,SK,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein
+1328,Boženík,['Róbert Bozeník'],13.10.23,Slovakia,SK,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia
+1329,Boženík,['Róbert Bozeník'],16.11.23,Slovakia,SK,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland
+1330,Boženík,['Róbert Bozeník'],19.11.23,Slovakia,SK,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia
+1331,Bùi Tin Dng,Tien Dung Bui,13-10-2015,Vietnam,VN,2374,"World Cup Qualifiers, Asia, 2018",Vietnam vs Thailand
+1332,Mai Tin Thành,Tien Thanh Mai,13-10-2015,Vietnam,VN,2374,"World Cup Qualifiers, Asia, 2018",Vietnam vs Thailand
+1333,Mc Hng Quân,Hong Quan Mac,13-10-2015,Vietnam,VN,2374,"World Cup Qualifiers, Asia, 2018",Vietnam vs Thailand
+1334,Nguyn Văn Quyt,Van Quyet Nguyen,13-10-2015,Vietnam,VN,2374,"World Cup Qualifiers, Asia, 2018",Vietnam vs Thailand
+1335,B Jógvansson-Hansen,Bárdur Hansen,06-09-2016,Faroe Islands,FO,2937,"World Cup Qualifiers, Europe, 2018",Faroe Islands vs Hungary
+1336,K Panaiy,Konstantinos Panagi,13-11-2016,Cyprus,CY,2945,"World Cup Qualifiers, Europe, 2018",Cyprus vs Gibraltar
+1337,K Panaiy,Konstantinos Panagi,10-10-2016,Cyprus,CY,2960,"World Cup Qualifiers, Europe, 2018",Bosnia-Herzegovina-Herzegovina vs Cyprus
+1338,H Elttør,Högni Eysturoy,22-03-2013,Faroe Islands,FO,2901,"World Cup Qualifiers, Europe, 2014",Austria vs Faroe Islands
+1339,G Genghini,Federico Gennari,06-09-2013,San Marino,SM,2928,"World Cup Qualifiers, Europe, 2014",Ukraine vs San Marino
+1340,Boženík,['Róbert Bozeník'],22.09.22,Slovakia,SK,1837,Nations League 2022-2023,Slovakia vs Azerbaijan
+1341,Boženík,['Róbert Bozeník'],25.09.22,Slovakia,SK,1838,Nations League 2022-2023,Slovakia vs Belarus
+1342,Damașcan,['Vitalie Damaşcan'],22.09.22,Moldova,MD,1860,Nations League 2022-2023,Latvia vs Moldova
+1343,Damașcan,['Vitalie Damaşcan'],25.09.22,Moldova,MD,1863,Nations League 2022-2023,Moldova vs Liechtenstein
+1344,Nguyn Tun Anh,Tuan Anh Nguyen,02-09-2021,Vietnam,VN,2582,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs Vietnam
+1345,Nguyn Tin Linh,Tien Linh Nguyen,02-09-2021,Vietnam,VN,2582,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs Vietnam
+1346,Nguyn Tun Anh,Tuan Anh Nguyen,24-03-2022,Vietnam,VN,2583,"World Cup Qualifiers, Asia, 2022",Vietnam vs Oman
+1347,Nguyn Tin Linh,Tien Linh Nguyen,24-03-2022,Vietnam,VN,2583,"World Cup Qualifiers, Asia, 2022",Vietnam vs Oman
+1348,P Ekhsoni,Ekhson Pandzhshanbe,10-09-2019,Tajikistan,TJ,2585,"World Cup Qualifiers, Asia, 2022",Mongolia vs Tajikistan
+1349,K Alijonov,Khozhiakbar Alizhonov,19-11-2019,Uzbekistan,UZ,2586,"World Cup Qualifiers, Asia, 2022",Uzbekistan vs Palestine
+1350,Bùi Tin Dng,Tien Dung Bui,07-06-2021,Vietnam,VN,2593,"World Cup Qualifiers, Asia, 2022",Vietnam vs Indonesia
+1351,Nguyn Tun Anh,Tuan Anh Nguyen,07-06-2021,Vietnam,VN,2593,"World Cup Qualifiers, Asia, 2022",Vietnam vs Indonesia
+1352,Nguyn Tin Linh,Tien Linh Nguyen,07-06-2021,Vietnam,VN,2593,"World Cup Qualifiers, Asia, 2022",Vietnam vs Indonesia
+1353,Bùi Tin Dng,Tien Dung Bui,11-6-2021,Vietnam,VN,2596,"World Cup Qualifiers, Asia, 2022",Malaysia vs Vietnam
+1354,Lng Xuân Trng,Xuan Truong Luong,11-6-2021,Vietnam,VN,2596,"World Cup Qualifiers, Asia, 2022",Malaysia vs Vietnam
+1355,Nguyn Tin Linh,Tien Linh Nguyen,11-6-2021,Vietnam,VN,2596,"World Cup Qualifiers, Asia, 2022",Malaysia vs Vietnam
+1356,Bùi Tin Dng,Tien Dung Bui,01-02-2022,Vietnam,VN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+1357,Nguyn Tin Linh,Tien Linh Nguyen,01-02-2022,Vietnam,VN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR
+1358,Phm Xuân Mnh,Xuan Manh Pham,27-01-2022,Vietnam,VN,2607,"World Cup Qualifiers, Asia, 2022",Australia vs Vietnam
+1359,Bùi Tin Dng,Tien Dung Bui,27-01-2022,Vietnam,VN,2607,"World Cup Qualifiers, Asia, 2022",Australia vs Vietnam
+1360,Lê Văn Xuân,Van Xuan Le,27-01-2022,Vietnam,VN,2607,"World Cup Qualifiers, Asia, 2022",Australia vs Vietnam
+1361,Lng Xuân Trng,Xuan Truong Luong,27-01-2022,Vietnam,VN,2607,"World Cup Qualifiers, Asia, 2022",Australia vs Vietnam
+1362,A Ardhiyasa,Made Andhika,5-9-2019,Indonesia,ID,2611,"World Cup Qualifiers, Asia, 2022",Indonesia vs Malaysia
+1363,Bùi Tin Dng,Tien Dung Bui,07-10-2021,Vietnam,VN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+1364,Nguyn Tun Anh,Tuan Anh Nguyen,07-10-2021,Vietnam,VN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+1365,Nguyn Tin Linh,Tien Linh Nguyen,07-10-2021,Vietnam,VN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam
+1366,P M'Poku,Paul-José Mpoku,05-09-2017,Congo DR,DR,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia
+1367,E Agyemang-Badu,Emmanuel Badu,17-11-2015,Ghana,GH,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros
+1368,M Manser,Mohamed Ben Mansour,17-11-2015,Tunisia,TN,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania
+1369,P M'Poku,Paul-José Mpoku,22-06-2019,Congo DR,DR,3558,"African Cup of Nations, 2019",Congo DR vs Uganda
+1370,D Maria,David Martínez,05-Sep-17,Venezuela,VE,4352,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Venezuela
+1371,M Thuma,Misani Ega Thupa,07-09-2013,Botswana,BW,1888,"World Cup Qualifiers, Africa, 2014",South Africa vs Botswana
+1372,T Motlhabankwe,Thabang Mosige,07-09-2013,Botswana,BW,1888,"World Cup Qualifiers, Africa, 2014",South Africa vs Botswana
+1373,S Thompson,Tommy Songo,07-09-2013,Liberia,LR,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia
+1374,Gêgê,['Gegé'],07-09-2013,Cape Verde,CV,1904,"World Cup Qualifiers, Africa, 2014",Tunisia vs Cape Verde
+1375,B Barry,Vakoun Bayo,16-11-2013,Cote d'Ivoire,CI,1906,"World Cup Qualifiers, Africa, 2014",Senegal vs Cote d'Ivoire
+1376,B Barry,Vakoun Bayo,07-09-2013,Cote d'Ivoire,CI,1907,"World Cup Qualifiers, Africa, 2014",Cote d'Ivoire vs Morocco
+1377,B Barry,Vakoun Bayo,12-10-2013,Cote d'Ivoire,CI,1911,"World Cup Qualifiers, Africa, 2014",Cote d'Ivoire vs Senegal
+1378,Karavayev,['Oleksandr Karavaev'],10.10.20,Ukraine,UA,1582,Nations League 2020-2021,Ukraine vs Germany
+1379,Karavayev,['Oleksandr Karavaev'],13.10.20,Ukraine,UA,1583,Nations League 2020-2021,Ukraine vs Spain
+1380,Mitriță,['Alexandru Mitriţă'],14.10.20,Romania,RO,1596,Nations League 2020-2021,Romania vs Austria
+1381,Boženík,['Róbert Bozeník'],04.09.20,Slovakia,SK,1602,Nations League 2020-2021,Slovakia vs Czech
+1382,Boženík,['Róbert Bozeník'],11.10.20,Slovakia,SK,1605,Nations League 2020-2021,Scotland vs Slovakia
+1383,Boženík,['Róbert Bozeník'],14.10.20,Slovakia,SK,1608,Nations League 2020-2021,Slovakia vs Israel
+1384,Karavayev,['Oleksandr Karavaev'],26.03.23,Ukraine,UA,919,"Euros 2024, Qualifiers",England vs Ukraine
+1385,Karavayev,['Oleksandr Karavaev'],17.10.23,Ukraine,UA,932,"Euros 2024, Qualifiers",Malta vs Ukraine
+1386,M Water,Mumin Watar Yor,13-10-2015,South Sudan,SS,1973,"World Cup Qualifiers, Africa, 2018",Mauritania vs South Sudan
+1387,A Akuie,William Akio,13-10-2015,South Sudan,SS,1973,"World Cup Qualifiers, Africa, 2018",Mauritania vs South Sudan
+1388,M Water,Mumin Watar Yor,08-10-2015,South Sudan,SS,1974,"World Cup Qualifiers, Africa, 2018",South Sudan vs Mauritania
+1389,Gêgê,['Gegé'],12-11-2016,Cape Verde,CV,1985,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Burkina Faso
+1390,F Nsakala,Fabrice N'Sakala,15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+1391,J N'kololo,Jordan N'Kololo,15-11-2015,Congo DR,DR,1993,"World Cup Qualifiers, Africa, 2018",Congo DR vs Burundi
+1392,L Mabidi,Chikito Lema Mabidi,07-10-2017,Congo DR,DR,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR
+1393,E Agyemang-Badu,Emmanuel Badu,13-11-2016,Ghana,GH,2019,"World Cup Qualifiers, Africa, 2018",Egypt vs Ghana
+1394,M Dessai,Mandar Rao Desai,10-09-2019,India,IN,2534,"World Cup Qualifiers, Asia, 2022",Qatar vs India
+1395,R Hojayev,Resul Khozhaev,10-10-2019,Turkmenistan,TM,2543,"World Cup Qualifiers, Asia, 2022",Lebanon vs Turkmenistan
+1396,A Amanow,Arslanmurad Amanov,10-10-2019,Turkmenistan,TM,2543,"World Cup Qualifiers, Asia, 2022",Lebanon vs Turkmenistan
+1397,A Amanow,Arslanmurad Amanov,19-11-2019,Turkmenistan,TM,2544,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs Sri Lanka
+1398,M Dessai,Mandar Rao Desai,15-10-2019,India,IN,2546,"World Cup Qualifiers, Asia, 2022",India vs Bangladesh
+1399,K Alijonov,Khozhiakbar Alizhonov,14-11-2019,Uzbekistan,UZ,2547,"World Cup Qualifiers, Asia, 2022",Uzbekistan vs Saudi Arabia
+1400,K Alijonov,Khozhiakbar Alizhonov,10-10-2019,Uzbekistan,UZ,2549,"World Cup Qualifiers, Asia, 2022",Uzbekistan vs Yemen
+1401,Bùi Tin Dng,Tien Dung Bui,11-11-2021,Vietnam,VN,2552,"World Cup Qualifiers, Asia, 2022",Vietnam vs Japan
+1402,Nguyn Tun Anh,Tuan Anh Nguyen,11-11-2021,Vietnam,VN,2552,"World Cup Qualifiers, Asia, 2022",Vietnam vs Japan
+1403,Nguyn Tin Linh,Tien Linh Nguyen,11-11-2021,Vietnam,VN,2552,"World Cup Qualifiers, Asia, 2022",Vietnam vs Japan
+1404,K Alijonov,Khozhiakbar Alizhonov,11-06-2021,Uzbekistan,UZ,2553,"World Cup Qualifiers, Asia, 2022",Yemen vs Uzbekistan
+1405,A Amanow,Arslanmurad Amanov,10-09-2019,Turkmenistan,TM,2555,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs South Korea
+1406,Bùi Tin Dng,Tien Dung Bui,15-10-2019,Vietnam,VN,2558,"World Cup Qualifiers, Asia, 2022",Indonesia vs Vietnam
+1407,Nguyn Tin Linh,Tien Linh Nguyen,15-10-2019,Vietnam,VN,2558,"World Cup Qualifiers, Asia, 2022",Indonesia vs Vietnam
+1408,B Rejebov,Berdimurad Rezhebov,09-06-2021,Turkmenistan,TM,2559,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs Lebanon
+1409,A Amanow,Arslanmurad Amanov,09-06-2021,Turkmenistan,TM,2559,"World Cup Qualifiers, Asia, 2022",Turkmenistan vs Lebanon
+1410,Nguyn Tun Anh,Tuan Anh Nguyen,16-11-2021,Vietnam,VN,2563,"World Cup Qualifiers, Asia, 2022",Vietnam vs Saudi Arabia
+1411,Nguyn Tin Linh,Tien Linh Nguyen,16-11-2021,Vietnam,VN,2563,"World Cup Qualifiers, Asia, 2022",Vietnam vs Saudi Arabia
+1412,Li Ang,Ang Li,11-06-2021,China PR,CN,2564,"World Cup Qualifiers, Asia, 2022",China PR vs Maldives
+1413,A Ardhiyasa,Made Andhika,10-09-2019,Indonesia,ID,2565,"World Cup Qualifiers, Asia, 2022",Indonesia vs Thailand
+1414,Li Ang,Ang Li,7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan
+1415,G Batyrow,Gurbangeldy Batyrov,05-09-2019,Turkmenistan,TM,2574,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs Turkmenistan
+1416,A Amanow,Arslanmurad Amanov,05-09-2019,Turkmenistan,TM,2574,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs Turkmenistan
+1417,R Hojayev,Resul Khozhaev,05-09-2019,Turkmenistan,TM,2574,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs Turkmenistan
+1418,H Houbeib,El Hassan Houeibib,12-01-2022,Mauritania,MR,3605,"African Cup of Nations, 2021",Mauritania vs Gambia
+1419,H Houbeib,El Hassan Houeibib,16-01-2022,Mauritania,MR,3609,"African Cup of Nations, 2021",Tunisia vs Mauritania
+1420,F Nsakala,Fabrice N'Sakala,12-11-2015,Congo DR,DR,2036,"World Cup Qualifiers, Africa, 2018",Burundi vs Congo DR
+1421,F Niţă,Florin Niță,25-03-2021,Romania,RO,3352,"World Cup Qualifiers, Europe, 2022",Romania vs North Macedonia
+1422,F Niţă,Florin Niță,14-11-2021,Romania,RO,3468,"World Cup Qualifiers, Europe, 2022",Liechtenstein vs Romania
+1423,Gêgê,['Gegé'],26-01-2015,Cape Verde,CV,3484,"African Cup of Nations, 2015",Cape Verde vs Zambia
+1424,A Zuyev,Aleksandr Zuev,17.11.23,Kazakhstan,KZ,1041,"Euros 2024, Qualifiers",Kazakhstan vs San Marino
+1425,Moruțan,['Olimpiu Moruţan'],25.03.23,Romania,RO,1049,"Euros 2024, Qualifiers",Andorra vs Romania
+1426,Moruțan,['Olimpiu Moruţan'],28.03.23,Romania,RO,1051,"Euros 2024, Qualifiers",Romania vs Belarus
+1427,F Niţă,Florin Niță,02-09-2021,Romania,RO,3384,"World Cup Qualifiers, Europe, 2022",Iceland vs Romania
+1428,F Niţă,Florin Niță,08-09-2021,Romania,RO,3387,"World Cup Qualifiers, Europe, 2022",North Macedonia vs Romania
+1429,F Niţă,Florin Niță,08-10-2021,Romania,RO,3395,"World Cup Qualifiers, Europe, 2022",Germany vs Romania
+1430,F Niţă,Florin Niță,05-09-2021,Romania,RO,3416,"World Cup Qualifiers, Europe, 2022",Romania vs Liechtenstein
+1431,F Niţă,Florin Niță,11-11-2021,Romania,RO,3419,"World Cup Qualifiers, Europe, 2022",Romania vs Iceland
+1432,Damașcan,['Vitalie Damaşcan'],06.09.20,Moldova,MD,1663,Nations League 2020-2021,Slovenia vs Moldova
+1433,M Moreno,Miiko Albornoz,05-Sep-17,Chile,CL,4349,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Chile
+1434,Boženík,['Róbert Bozeník'],11.06.19,Slovakia,SK,712,"Euros 2020, Qualifiers",Azerbaijan vs Slovakia
+1435,Boženík,['Róbert Bozeník'],09.09.19,Slovakia,SK,717,"Euros 2020, Qualifiers",Hungary vs Slovakia
+1436,Boženík,['Róbert Bozeník'],10.10.19,Slovakia,SK,719,"Euros 2020, Qualifiers",Slovakia vs Wales
+1437,Boženík,['Róbert Bozeník'],16.11.19,Slovakia,SK,723,"Euros 2020, Qualifiers",Croatia vs Slovakia
+1438,Boženík,['Róbert Bozeník'],19.11.19,Slovakia,SK,725,"Euros 2020, Qualifiers",Slovakia vs Azerbaijan
+1439,Mitriță,['Alexandru Mitriţă'],23.03.19,Romania,RO,726,"Euros 2020, Qualifiers",Sweden vs Romania
+1440,Mitriță,['Alexandru Mitriţă'],15.10.19,Romania,RO,748,"Euros 2020, Qualifiers",Romania vs Norway
+1441,Mitriță,['Alexandru Mitriţă'],15.11.19,Romania,RO,752,"Euros 2020, Qualifiers",Romania vs Sweden
+1442,Bùi Tin Dng,Tien Dung Bui,10-10-2019,Vietnam,VN,2636,"World Cup Qualifiers, Asia, 2022",Vietnam vs Malaysia
+1443,Nguyn Tun Anh,Tuan Anh Nguyen,10-10-2019,Vietnam,VN,2636,"World Cup Qualifiers, Asia, 2022",Vietnam vs Malaysia
+1444,K Alijonov,Khozhiakbar Alizhonov,15-10-2019,Uzbekistan,UZ,2641,"World Cup Qualifiers, Asia, 2022",Singapore vs Uzbekistan
+1445,Bùi Tin Dng,Tien Dung Bui,07-09-2021,Vietnam,VN,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia
+1446,Nguyn Tun Anh,Tuan Anh Nguyen,07-09-2021,Vietnam,VN,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia
+1447,Nguyn Tin Linh,Tien Linh Nguyen,07-09-2021,Vietnam,VN,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia
+1448,Park Ji-Soo,Ji-su Park,09-06-2021,South Korea,KR,2660,"World Cup Qualifiers, Asia, 2022",Sri Lanka vs South Korea
+1449,Bùi Tin Dng,Tien Dung Bui,05-09-2019,Vietnam,VN,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam
+1450,Nguyn Tun Anh,Tuan Anh Nguyen,05-09-2019,Vietnam,VN,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam
+1451,Nguyn Tin Linh,Tien Linh Nguyen,05-09-2019,Vietnam,VN,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam
+1452,K Panaiy,Konstantinos Panagi,07-10-2017,Cyprus,CY,3208,"World Cup Qualifiers, Europe, 2018",Cyprus vs Greece
+1453,Khacheridi Yevhen,Yevgen Khacheridi,12.06.16,Ukraine,UA,1136,Euros 2016,Germany vs Ukraine
+1454,Khacheridi Yevhen,Yevgen Khacheridi,16.06.16,Ukraine,UA,1137,Euros 2016,Ukraine vs Northern Ireland
+1455,Khacheridi Yevhen,Yevgen Khacheridi,21.06.16,Ukraine,UA,1139,Euros 2016,Ukraine vs Poland
+1456,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,03-09-2015,Turkmenistan,TM,2281,"World Cup Qualifiers, Asia, 2018",Oman vs Turkmenistan
+1457,A Amanow,Arslanmurad Amanov,03-09-2015,Turkmenistan,TM,2281,"World Cup Qualifiers, Asia, 2018",Oman vs Turkmenistan
+1458,S Ataýew,Serdaraly Ataev,03-09-2015,Turkmenistan,TM,2281,"World Cup Qualifiers, Asia, 2018",Oman vs Turkmenistan
+1459,S Pal,Subrata Paul,11-06-2015,India,IN,2282,"World Cup Qualifiers, Asia, 2018",India vs Oman
+1460,B Hojaahmedow,Bakhtiyar Khodzhaakhmedov,17-11-2015,Turkmenistan,TM,2296,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs Oman
+1461,Lng Xuân Trng,Xuan Truong Luong,24-03-2016,Vietnam,VN,2298,"World Cup Qualifiers, Asia, 2018",Vietnam vs Chinese Taipei
+1462,Nguyn Tun Anh,Tuan Anh Nguyen,24-03-2016,Vietnam,VN,2298,"World Cup Qualifiers, Asia, 2018",Vietnam vs Chinese Taipei
+1463,Karavayev,['Oleksandr Karavaev'],14.10.19,Ukraine,UA,660,"Euros 2020, Qualifiers",Ukraine vs Portugal
+1464,Karavayev,['Oleksandr Karavaev'],17.11.19,Ukraine,UA,664,"Euros 2020, Qualifiers",Serbia vs Ukraine
+1465,Drahun,['Stanislav Dragun'],21.03.19,Belarus,BY,666,"Euros 2020, Qualifiers",Netherlands vs Belarus
+1466,Drahun,['Stanislav Dragun'],24.03.19,Belarus,BY,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus
+1467,Drahun,['Stanislav Dragun'],08.06.19,Belarus,BY,671,"Euros 2020, Qualifiers",Belarus vs Germany
+1468,Drahun,['Stanislav Dragun'],06.09.19,Belarus,BY,674,"Euros 2020, Qualifiers",Estonia vs Belarus
+1469,Drahun,['Stanislav Dragun'],10.10.19,Belarus,BY,678,"Euros 2020, Qualifiers",Belarus vs Estonia
+1470,Drahun,['Stanislav Dragun'],13.10.19,Belarus,BY,680,"Euros 2020, Qualifiers",Belarus vs Netherlands
+1471,Drahun,['Stanislav Dragun'],16.11.19,Belarus,BY,682,"Euros 2020, Qualifiers",Germany vs Belarus
+1472,Kuijt,['Dirk Kuyt'],12.07.14,Netherlands,NL,159,World Cup 2014,Brazil vs Netherlands
+1473,Kuijt,['Dirk Kuyt'],09.07.14,Netherlands,NL,161,World Cup 2014,Netherlands vs Argentina
+1474,Kuijt,['Dirk Kuyt'],05.07.14,Netherlands,NL,165,World Cup 2014,Netherlands vs Costa Rica
+1475,Kuijt,['Dirk Kuyt'],29.06.14,Netherlands,NL,168,World Cup 2014,Netherlands vs Mexico
+1476,Kuijt,['Dirk Kuyt'],23.06.14,Netherlands,NL,185,World Cup 2014,Netherlands vs Chile
+1477,Li Ang,Ang Li,12-10-2021,China PR,CN,2489,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs China PR
+1478,M Dessai,Mandar Rao Desai,14-11-2019,India,IN,2490,"World Cup Qualifiers, Asia, 2022",Afghanistan vs India
+1479,Bùi Tin Dng,Tien Dung Bui,15-06-2021,Vietnam,VN,2495,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Vietnam
+1480,Lng Xuân Trng,Xuan Truong Luong,15-06-2021,Vietnam,VN,2495,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Vietnam
+1481,Nguyn Tin Linh,Tien Linh Nguyen,15-06-2021,Vietnam,VN,2495,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Vietnam
+1482,P Ekhsoni,Ekhson Pandzhshanbe,15-06-2021,Tajikistan,TJ,2496,"World Cup Qualifiers, Asia, 2022",Tajikistan vs Myanmar
+1483,P Ekhsoni,Ekhson Pandzhshanbe,5-9-2019,Tajikistan,TJ,2513,"World Cup Qualifiers, Asia, 2022",Tajikistan vs Kyrgyzstan
+1484,B Rejebov,Berdimurad Rezhebov,05-06-2021,Turkmenistan,TM,2517,"World Cup Qualifiers, Asia, 2022",South Korea vs Turkmenistan
+1485,A Amanow,Arslanmurad Amanov,05-06-2021,Turkmenistan,TM,2517,"World Cup Qualifiers, Asia, 2022",South Korea vs Turkmenistan
+1486,Park Ji-Soo,Ji-su Park,13-06-2021,South Korea,KR,2519,"World Cup Qualifiers, Asia, 2022",South Korea vs Lebanon
+1487,K Alijonov,Khozhiakbar Alizhonov,15-06-2021,Uzbekistan,UZ,2520,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs Uzbekistan
+1488,D Komelid,Yassir Khamis Duku,08-09-2019,South Sudan,SS,2136,"World Cup Qualifiers, Africa, 2022",Equatorial Guinea vs South Sudan
+1489,D Daluri,David Alfred Urbano,08-09-2019,South Sudan,SS,2136,"World Cup Qualifiers, Africa, 2022",Equatorial Guinea vs South Sudan
+1490,H Houbeib,El Hassan Houeibib,16-11-2021,Mauritania,MR,2147,"World Cup Qualifiers, Africa, 2022",Mauritania vs Equatorial Guinea
+1491,Park Jooho,Jong-woo Park,18.06.18,South Korea,KR,270,World Cup 2018,Sweden vs South Korea
+1492,K Panaiy,Konstantinos Panagi,03-09-2017,Cyprus,CY,2983,"World Cup Qualifiers, Europe, 2018",Estonia vs Cyprus
+1493,B Jógvansson-Hansen,Bárdur Hansen,10-10-2016,Faroe Islands,FO,3013,"World Cup Qualifiers, Europe, 2018",Faroe Islands vs Portugal
+1494,K Panaiy,Konstantinos Panagi,07-10-2016,Cyprus,CY,3014,"World Cup Qualifiers, Europe, 2018",Greece vs Cyprus
+1495,K Panaiy,Konstantinos Panagi,25-03-2017,Cyprus,CY,3019,"World Cup Qualifiers, Europe, 2018",Cyprus vs Estonia
+1496,F Niţă,Florin Niță,31-03-2021,Romania,RO,3244,"World Cup Qualifiers, Europe, 2022",Armenia vs Romania
+1497,F Niţă,Florin Niță,28-03-2021,Romania,RO,3267,"World Cup Qualifiers, Europe, 2022",Romania vs Germany
+1498,Mitriță,['Alexandru Mitriţă'],07.09.18,Romania,RO,1477,Nations League 2018-2020,Romania vs Montenegro
+1499,Mitriță,['Alexandru Mitriţă'],11.10.18,Romania,RO,1480,Nations League 2018-2020,Lithuania vs Romania
+1500,Drahun,['Stanislav Dragun'],08.09.18,Belarus,BY,1500,Nations League 2018-2020,Belarus vs San Marino
+1501,Drahun,['Stanislav Dragun'],11.09.18,Belarus,BY,1503,Nations League 2018-2020,Moldova vs Belarus
+1502,Drahun,['Stanislav Dragun'],12.10.18,Belarus,BY,1504,Nations League 2018-2020,Belarus vs Luxembourg
+1503,Damașcan,['Vitalie Damaşcan'],12.10.18,Moldova,MD,1505,Nations League 2018-2020,Moldova vs San Marino
+1504,Damașcan,['Vitalie Damaşcan'],15.10.18,Moldova,MD,1506,Nations League 2018-2020,Belarus vs Moldova
+1505,Drahun,['Stanislav Dragun'],15.11.18,Belarus,BY,1509,Nations League 2018-2020,Luxembourg vs Belarus
+1506,Drahun,['Stanislav Dragun'],18.11.18,Belarus,BY,1510,Nations League 2018-2020,San Marino vs Belarus
+1507,Damașcan,['Vitalie Damaşcan'],18.11.18,Moldova,MD,1511,Nations League 2018-2020,Moldova vs Luxembourg
