@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,2700,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,12. Ли Ён,Li Yeon,['Lee Yong'],Success
+1,2701,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,13. Ку Джа Чхоль,Ku Ja Chol,['Ja-cheol Koo'],Success
+2,2702,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,14. Хан Гук Ен,Hang Guk Yeon,['Kook-young Han'],Success
+3,2703,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,16. Ки Сон Ен,Ki Sung Yeon,['Sung-yueng Ki'],Success
+4,2704,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,17. Ли Чхон Ён,Lee Cheonyoung,['Chung-yong Lee'],Success
+5,2705,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,20. Хон Джон Хо,Hong Jong Ho,['Jeong-ho Hong'],Success
+6,2706,218,World Cup 2014,22.06.14,Belgium vs Russia,2014,Belgium,BE,15. ван Буйтен,van Buyten,['Daniel Van Buyten'],Success
+7,2707,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Korea Republic,KR,1. Чон Сон Рён,Jeon Son Ryeon,['Sung-ryong Jung'],Success
+8,2708,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Korea Republic,KR,14. Хан Гуг Ён,Han Gugyoung,['Kook-young Han'],Success
+9,2709,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Korea Republic,KR,10. Пак Чу Ён,Pak Chu Yon,['Chu-young Park'],Success
+10,2710,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Algeria,DZ,2. Бугерра,Boogerra,"['Madjid Bougherra', 'Aimen Bouguerra']",Success
+11,2711,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Algeria,DZ,6. Месба,Mesbah,['Djamel Mesbah'],Success
+12,2712,219,World Cup 2014,22.06.14,South Korea vs Algeria,2014,Algeria,DZ,18. Джабу,Jabu,['Jaouen Hadjam'],Success
+13,2713,220,World Cup 2014,26.06.14,South Korea vs Belgium,2014,Korea Republic,KR,14. Хан Гуг Ён,Han Gugyoung,['Kook-young Han'],Success
+14,2714,220,World Cup 2014,26.06.14,South Korea vs Belgium,2014,Belgium,BE,15. ван Буйтен,van Buyten,['Van Buyten'],Success
+15,2715,221,World Cup 2014,26.06.14,Algeria vs Russia,2014,Algeria,DZ,6. Месба,Mesbah,['Djamel Mesbah'],Success
+16,2716,221,World Cup 2014,26.06.14,Algeria vs Russia,2014,Algeria,DZ,18. Джабу,Jabu,['Jaouen Hadjam'],Success
+17,2717,228,World Cup 2018,06.07.18,Brazil vs Belgium,2018,Brazil,BR,22. Фагнер,Fagner,['Fagner'],Success
+18,2718,231,World Cup 2018,30.06.18,France vs Argentina,2018,Argentina,AR,15. Перес Эн.,Peres En,['Enzo Pérez'],Success
+19,2719,235,World Cup 2018,02.07.18,Brazil vs Mexico,2018,Brazil,BR,22. Фагнер,Fagner,['Fagner'],Success
+20,2720,239,World Cup 2018,14.06.18,Russia vs Saudi Arabia,2018,Saudi Arabia,SA,3. Хавсави У.,U Hawsavi,['Osama Hawsawi'],Success
+21,2721,240,World Cup 2018,15.06.18,Egypt vs Uruguay,2018,Egypt,EG,2. Габр,Gabr,['Ali Gabr'],Success
+22,2722,240,World Cup 2018,15.06.18,Egypt vs Uruguay,2018,Egypt,EG,7. Фатхи А.,A Fathi,['Ahmed Fathi'],Success
+23,2723,240,World Cup 2018,15.06.18,Egypt vs Uruguay,2018,Egypt,EG,8. Хамед Т.,T Hamed,['Tarek Hamed'],Success
+24,2724,240,World Cup 2018,15.06.18,Egypt vs Uruguay,2018,Egypt,EG,9. Мохсен,Marwan Mohsen,['Marwan Mohsen'],Success
+25,2725,241,World Cup 2018,19.06.18,Russia vs Egypt,2018,Egypt,EG,2. Габр,Gabr,['Ali Gabr'],Success
+26,2726,241,World Cup 2018,19.06.18,Russia vs Egypt,2018,Egypt,EG,7. Фатхи А.,A Fathi,['Ahmed Fathi'],Success
+27,2727,241,World Cup 2018,19.06.18,Russia vs Egypt,2018,Egypt,EG,8. Хамед Т.,T Hamed,['Tarek Hamed'],Success
+28,2728,241,World Cup 2018,19.06.18,Russia vs Egypt,2018,Egypt,EG,9. Мохсен,Marwan Mohsen,['Marwan Mohsen'],Success
+29,2729,242,World Cup 2018,20.06.18,Uruguay vs Saudi Arabia,2018,Saudi Arabia,SA,3. Хавсави У.,U Hawsavi,['Osama Hawsawi'],Success
+30,2730,244,World Cup 2018,25.06.18,Saudi Arabia vs Egypt,2018,Saudi Arabia,SA,3. Хавсави У.,U Hawsavi,['Osama Hawsawi'],Success
+31,2731,244,World Cup 2018,25.06.18,Saudi Arabia vs Egypt,2018,Egypt,EG,2. Габр,Gabr,['Ali Gabr'],Success
+32,2732,244,World Cup 2018,25.06.18,Saudi Arabia vs Egypt,2018,Egypt,EG,7. Фатхи А.,A Fathi,['Ahmed Fathi'],Success
+33,2733,244,World Cup 2018,25.06.18,Saudi Arabia vs Egypt,2018,Egypt,EG,8. Хамед Т.,T Hamed,['Tarek Hamed'],Success
+34,2734,244,World Cup 2018,25.06.18,Saudi Arabia vs Egypt,2018,Egypt,EG,9. Мохсен,Marwan Mohsen,['Marwan Mohsen'],Success
+35,2735,247,World Cup 2018,20.06.18,Portugal vs Morocco,2018,Morocco,MA,4. да Кошта,da Costa,['Manuel da Costa'],Success
+36,2736,250,World Cup 2018,25.06.18,Spain vs Morocco,2018,Morocco,MA,4. да Кошта,da Costa,['Manuel da Costa'],Success
+37,2737,251,World Cup 2018,16.06.18,France vs Australia,2018,Australia,AU,5. Миллигэн,Milligan,['Mark Milligan'],Success
+38,2738,1263,Copa America 2016,14.06.16,Mexico vs Venezuela,2016,Venezuela,VE,13. Сейяс,Seijas,['Luis Manuel Seijas'],Success
+39,2739,1273,Copa America 2019,06.07.19,Argentina vs Chile,2019,Chile,CL,5. Диас П.,P Dias,['Víctor Dávila'],Success
+40,2740,1284,Copa America 2019,22.06.19,Bolivia vs Venezuela,2019,Bolivia,BO,19. Вака Р.,R Vaka,['Ramiro Vaca'],Success
+41,2741,1296,Copa America 2019,25.06.19,Chile vs Uruguay,2019,Chile,CL,5. Диас П.,P Dias,['Víctor Dávila'],Success
+42,2742,253,World Cup 2018,21.06.18,Denmark vs Australia,2018,Australia,AU,5. Миллигэн,Milligan,['Mark Milligan'],Success
+43,2743,256,World Cup 2018,26.06.18,Australia vs Peru,2018,Australia,AU,5. Миллигэн,Milligan,['Mark Milligan'],Success
+44,2744,259,World Cup 2018,21.06.18,Argentina vs Croatia,2018,Argentina,AR,15. Перес Эн.,Peres En,['Enzo Pérez'],Success
+45,2745,261,World Cup 2018,26.06.18,Nigeria vs Argentina,2018,Argentina,AR,15. Перес Эн.,Peres En,['Enzo Pérez'],Success
+46,2746,263,World Cup 2018,17.06.18,Costa Rica vs Serbia,2018,Costa Rica,CR,20. Гузман,Guzman,['David Guzmán'],Success
+47,2747,263,World Cup 2018,17.06.18,Costa Rica vs Serbia,2018,Serbia,RS,1. Стойкович,Stojkovic,"['Vladimir Stojkovic', 'Arandjel Stojkovic']",Success
+48,2748,265,World Cup 2018,22.06.18,Brazil vs Costa Rica,2018,Brazil,BR,22. Фагнер,Fagner,['Fagner'],Success
+49,2749,265,World Cup 2018,22.06.18,Brazil vs Costa Rica,2018,Costa Rica,CR,20. Гузман,Guzman,['David Guzmán'],Success
+50,2750,266,World Cup 2018,22.06.18,Serbia vs Switzerland,2018,Serbia,RS,1. Стойкович,Stojkovic,"['Vladimir Stojkovic', 'Arandjel Stojkovic']",Success
+51,2751,267,World Cup 2018,27.06.18,Serbia vs Brazil,2018,Serbia,RS,1. Стойкович,Stojkovic,"['Vladimir Stojkovic', 'Arandjel Stojkovic']",Success
+52,2752,267,World Cup 2018,27.06.18,Serbia vs Brazil,2018,Brazil,BR,22. Фагнер,Fagner,['Fagner'],Success
+53,2753,268,World Cup 2018,27.06.18,Switzerland vs Costa Rica,2018,Costa Rica,CR,20. Гузман,Guzman,['David Guzmán'],Success
+54,2754,276,World Cup 2018,18.06.18,Tunisia vs England,2018,Tunisia,TN,12. Маалул,Maalul,"['Ali Maâloul', 'Mohamed Hedi Gaaloul']",Success
+55,2755,276,World Cup 2018,18.06.18,Tunisia vs England,2018,Tunisia,TN,13. Сасси А.,A  Sassi,['Mossaab Sassi'],Success
+56,2756,277,World Cup 2018,23.06.18,Belgium vs Tunisia,2018,Tunisia,TN,12. Маалул,Maalul,"['Ali Maâloul', 'Mohamed Hedi Gaaloul']",Success
+57,2757,277,World Cup 2018,23.06.18,Belgium vs Tunisia,2018,Tunisia,TN,13. Сасси А.,A  Sassi,['Mossaab Sassi'],Success
+58,2758,280,World Cup 2018,28.06.18,Panama vs Tunisia,2018,Tunisia,TN,16. Матиути,Matiuchi,['Aymen Balbouli'],Success
+59,2759,280,World Cup 2018,28.06.18,Panama vs Tunisia,2018,Tunisia,TN,21. Наггез,Nuggez,['Hamdi Nagguez'],Success
+60,2760,280,World Cup 2018,28.06.18,Panama vs Tunisia,2018,Tunisia,TN,13. Сасси А.,A  Sassi,['Mossaab Sassi'],Success
+61,2761,282,World Cup 2018,19.06.18,Poland vs Senegal,2018,Senegal,SN,16. НДиай Х.,H NDiay,"[""Khadim N'Diaye""]",Success
+62,2762,283,World Cup 2018,24.06.18,Japan vs Senegal,2018,Senegal,SN,16. НДиай Х.,H NDiay,"[""Khadim N'Diaye""]",Success
+63,2763,284,World Cup 2018,24.06.18,Poland vs Colombia,2018,Colombia,CO,8. Агилар,Abel Aguilar,['Abel Aguilar'],Success
+64,2764,285,World Cup 2018,28.06.18,Japan vs Poland,2018,Japan,JP,20. Макино,Makino,['Tomoaki Makino'],Success
+65,2765,285,World Cup 2018,28.06.18,Japan vs Poland,2018,Japan,JP,16. Ямагучи,Yamaguchi,['Hotaru Yamaguchi'],Success
+66,2766,286,World Cup 2018,28.06.18,Senegal vs Colombia,2018,Senegal,SN,16. НДиай Х.,H NDiay,"[""Khadim N'Diaye""]",Success
+67,2767,1467,Nations League 2018-2020,09.09.18,Cyprus vs Slovenia,2018,Slovenia,SI,7. Дервишевич,Dervishevich,['Amir Dervisevic'],Success
+68,2768,1467,Nations League 2018-2020,09.09.18,Cyprus vs Slovenia,2018,Slovenia,SI,15. Чернигой,Cherniga,['Domen Crnigoj'],Success
+69,2769,1468,Nations League 2018-2020,13.10.18,Norway vs Slovenia,2018,Slovenia,SI,15. Чернигой,Cherniga,['Domen Crnigoj'],Success
+70,2770,1469,Nations League 2018-2020,13.10.18,Bulgaria vs Cyprus,2018,Cyprus,CY,4. Меркис,Merkis,['Georgios Merkis'],Success
+71,2771,1470,Nations League 2018-2020,16.10.18,Norway vs Bulgaria,2018,Bulgaria,BG,11. Бандаловски,Bandalowski,['Ivan Bandalovski'],Success
+72,2772,1471,Nations League 2018-2020,16.10.18,Slovenia vs Cyprus,2018,Slovenia,SI,15. Чернигой,Cherniga,['Domen Crnigoj'],Success
+73,2773,1471,Nations League 2018-2020,16.10.18,Slovenia vs Cyprus,2018,Cyprus,CY,4. Меркис,Merkis,['Georgios Merkis'],Success
+74,2774,1471,Nations League 2018-2020,16.10.18,Slovenia vs Cyprus,2018,Cyprus,CY,17. Маргаса,Margasa,['Renato Margaça'],Success
+75,2775,1472,Nations League 2018-2020,16.11.18,Cyprus vs Bulgaria,2018,Cyprus,CY,4. Меркис,Merkis,['Georgios Merkis'],Success
+76,2776,1472,Nations League 2018-2020,16.11.18,Cyprus vs Bulgaria,2018,Cyprus,CY,17. Маргаса,Margasa,['Renato Margaça'],Success
+77,2777,1472,Nations League 2018-2020,16.11.18,Cyprus vs Bulgaria,2018,Bulgaria,BG,1. Петков Г.,G Petkov,['Georgi Petkov'],Success
+78,2778,1473,Nations League 2018-2020,16.11.18,Slovenia vs Norway,2018,Slovenia,SI,5. Струна Ал.,String Al,['Aljaz Struna'],Success
+79,2779,1473,Nations League 2018-2020,16.11.18,Slovenia vs Norway,2018,Slovenia,SI,8. Дервишевич,Dervishevich,['Amir Dervisevic'],Success
+80,2780,1473,Nations League 2018-2020,16.11.18,Slovenia vs Norway,2018,Slovenia,SI,15. Чернигой,Cherniga,['Domen Crnigoj'],Success
+81,2781,1474,Nations League 2018-2020,19.11.18,Cyprus vs Norway,2018,Cyprus,CY,4. Меркис,Merkis,['Georgios Merkis'],Success
+82,2782,1475,Nations League 2018-2020,19.11.18,Bulgaria vs Slovenia,2018,Bulgaria,BG,1. Петков Г.,G Petkov,['Georgi Petkov'],Success
+83,2783,1475,Nations League 2018-2020,19.11.18,Bulgaria vs Slovenia,2018,Bulgaria,BG,22. Димитров Н.,N  Dimitrov,['Nikolay Dimitrov'],Success
+84,2784,1475,Nations League 2018-2020,19.11.18,Bulgaria vs Slovenia,2018,Slovenia,SI,8. Дервишевич,Dervishevich,['Amir Dervisevic'],Success
+85,2785,1476,Nations League 2018-2020,07.09.18,Lithuania vs Serbia,2018,Lithuania,LT,5. Янкаускас А.,A Yankauskas,['Algis Jankauskas'],Success
+86,2786,1477,Nations League 2018-2020,07.09.18,Romania vs Montenegro,2018,Montenegro,ME,3. Больевич В.,V Bolyevich,['Vladimir Boljevic'],Success
+87,2787,1478,Nations League 2018-2020,10.09.18,Serbia vs Romania,2018,Romania,RO,19. Цукудян,Tsukudyan,['George Țucudean'],Success
+88,2788,1480,Nations League 2018-2020,11.10.18,Lithuania vs Romania,2018,Lithuania,LT,5. Янкаускас А.,A Yankauskas,['Algis Jankauskas'],Success
+89,2789,1480,Nations League 2018-2020,11.10.18,Lithuania vs Romania,2018,Lithuania,LT,9. Шернас,Shernas,['Darvydas Sernas'],Success
+90,2790,1480,Nations League 2018-2020,11.10.18,Lithuania vs Romania,2018,Romania,RO,4. Тамаш,Tamás,"['Gabriel Tamas', 'Gabriel Tamaș']",Success
+91,2791,1480,Nations League 2018-2020,11.10.18,Lithuania vs Romania,2018,Romania,RO,19. Цукудян,Tsukudyan,['George Țucudean'],Success
+92,2792,1482,Nations League 2018-2020,14.10.18,Romania vs Serbia,2018,Romania,RO,4. Тамаш,Tamás,['Gabriel Tamaș'],Success
+93,2793,1482,Nations League 2018-2020,14.10.18,Romania vs Serbia,2018,Romania,RO,19. Цукудян,Tsukudyan,['George Țucudean'],Success
+94,2794,1483,Nations League 2018-2020,14.10.18,Lithuania vs Montenegro,2018,Lithuania,LT,20. Боровский,Borovsky,['Valdemar Borovskij'],Success
+95,2795,1487,Nations League 2018-2020,20.11.18,Montenegro vs Romania,2018,Romania,RO,19. Цукудян,Tsukudyan,['George Țucudean'],Success
+96,2796,1489,Nations League 2018-2020,06.09.18,Latvia vs Andorra,2018,Latvia,LV,6. Габов,Gabov,['Vladislavs Gabovs'],Success
+97,2797,1489,Nations League 2018-2020,06.09.18,Latvia vs Andorra,2018,Latvia,LV,8. Фертовс,Fertovs,['Aleksandrs Fertovs'],Success
+98,2798,1489,Nations League 2018-2020,06.09.18,Latvia vs Andorra,2018,Latvia,LV,10. Шабала,Valerijs Sabala,['Valerijs Sabala'],Success
+99,2799,1489,Nations League 2018-2020,06.09.18,Latvia vs Andorra,2018,Latvia,LV,16. Лукьяновс,Lukyanovs,['Ivans Lukjanovs'],Success
