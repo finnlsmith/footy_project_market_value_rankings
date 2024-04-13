@@ -1,0 +1,693 @@
+,Match ID,Match,Date,Competition,Nationality,Country Code,ORIGINAL JERSEY,Names_Found,Season,Status
+0,3179,Liechtenstein vs Italy,12-11-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+1,3179,Liechtenstein vs Italy,12-11-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+2,2694,Kyrgyzstan vs Tajikistan,19-11-2019,"World Cup Qualifiers, Asia, 2022",Tajikistan,TJ,D Ergashev,['Dzhakhongir Ergashev'],2019,Success
+3,2696,Malaysia vs Thailand,14-11-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2019,Fail
+4,2706,Laos vs Nepal,17-10-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,Multi
+5,2706,Laos vs Nepal,17-10-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,Multi
+6,2710,Maldives vs Bangladesh,12-10-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,Multi
+7,2712,Australia vs Bangladesh,16-11-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Mohamed Sohel Rana']",2023,Success
+8,2716,Philippines vs Vietnam,16-11-2023,"World Cup Qualifiers, Asia, 2026",Philippines,PH,M Ott,['Mike Ott'],2023,Success
+9,2717,Chinese Taipei vs Malaysia,21-11-2023,"World Cup Qualifiers, Asia, 2026",Malaysia,MY,A,Arif Aiman,2023,Success
+10,2719,Bhutan vs Hong Kong,17-10-2023,"World Cup Qualifiers, Asia, 2026",Bhutan,BT,T Dorji,"['Tenzin Dorji', 'Tsenda Dorji']",2023,Multi
+11,2720,Hong Kong vs Bhutan,12-10-2023,"World Cup Qualifiers, Asia, 2026",Bhutan,BT,T Dorji,"['Tenzin Dorji', 'Tsenda Dorji']",2023,Multi
+12,2720,Hong Kong vs Bhutan,12-10-2023,"World Cup Qualifiers, Asia, 2026",Bhutan,BT,T Dorji,"['Tenzin Dorji', 'Tsenda Dorji']",2023,Multi
+13,2725,Nepal vs Laos,12-10-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,Multi
+14,4198,Jamaica vs Honduras,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Kevin López']",2022,Multi
+15,4200,Ecuador vs Venezuela,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+16,4200,Ecuador vs Venezuela,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+17,4200,Ecuador vs Venezuela,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2011,Success
+18,4201,Uruguay vs Bolivia,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,['Maximiliano Pereira'],2011,Success
+19,4201,Uruguay vs Bolivia,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,['Maximiliano Pereira'],2011,Success
+20,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,['Maximiliano Pereira'],2011,Success
+21,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,['Maximiliano Pereira'],2011,Success
+22,4210,Paraguay vs Ecuador,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+23,4210,Paraguay vs Ecuador,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+24,4213,Ecuador vs Peru,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+25,4213,Ecuador vs Peru,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2011,Success
+26,4216,Uruguay vs Venezuela,02-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+27,4216,Uruguay vs Venezuela,02-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+28,4218,Argentina vs Ecuador,02-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2012,Multi
+29,4222,Uruguay vs Peru,10-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+30,4222,Uruguay vs Peru,10-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+31,4224,Colombia vs Uruguay,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+32,4224,Colombia vs Uruguay,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+33,4225,Ecuador vs Bolivia,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2012,Multi
+34,4227,Peru vs Venezuela,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Feltscher,['Frank Feltscher'],2012,Success
+35,4227,Peru vs Venezuela,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2012,Success
+36,4227,Peru vs Venezuela,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2012,Success
+37,4229,Paraguay vs Venezuela,11-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2012,Success
+38,4230,Uruguay vs Ecuador,11-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+39,4230,Uruguay vs Ecuador,11-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+40,4236,Bolivia vs Uruguay,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,Multi
+41,4237,Venezuela vs Ecuador,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2012,Multi
+42,4239,Chile vs Argentina,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Gonzalez,"['Mark González', 'Gonzalo Fierro', 'Marcos González']",2012,Fail
+43,4241,Uruguay vs Paraguay,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2013,Multi
+44,4241,Uruguay vs Paraguay,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2013,Multi
+45,4246,Venezuela vs Colombia,26-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2013,Success
+46,4248,Bolivia vs Venezuela,07-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2013,Success
+47,3997,Canada vs Dominica,16-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Lawrence,"['Kervin Lawrence', 'Aldrin Lawrence']",2015,Multi
+48,3997,Canada vs Dominica,16-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2015,Multi
+49,3997,Canada vs Dominica,16-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Lawrence,"['Kervin Lawrence', 'Aldrin Lawrence']",2015,Multi
+50,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López', 'Henry López']",2015,Multi
+51,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López', 'Henry López']",2015,Multi
+52,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Jan-Michael Williams', 'Mekeil Williams']",2015,Multi
+53,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2015,Multi
+54,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2015,Multi
+55,4015,Jamaica vs Panama,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2015,Multi
+56,4017,Saint Vincent and the Grenadines vs Guatemala,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López']",2015,Multi
+57,4017,Saint Vincent and the Grenadines vs Guatemala,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López']",2015,Multi
+58,4017,Saint Vincent and the Grenadines vs Guatemala,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López']",2015,Multi
+59,4019,Trinidad and Tobago vs USA,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Jan-Michael Williams', 'Mekeil Williams']",2015,Multi
+60,4019,Trinidad and Tobago vs USA,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2015,Multi
+61,4019,Trinidad and Tobago vs USA,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2015,Multi
+62,4021,Panama vs Costa Rica,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Henriquez,Luis Henríquez,2015,Success
+63,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,"['Shandel Samuel', 'Myron Samuel']",2016,Multi
+64,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+65,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+66,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+67,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+68,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
+69,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+70,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+71,4032,Mexico vs Canada,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Mexico,MX,Corona,"['Jesús Corona', 'Yasser Corona']",2016,Multi
+72,4034,Honduras vs Canada,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,Maynor Figueroa,2016,Success
+73,4035,Saint Vincent and the Grenadines vs USA,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
+74,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+75,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+76,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,Success
+77,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,Success
+78,4040,Guatemala vs Saint Vincent and the Grenadines,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
+79,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+80,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+81,4045,Mexico vs Honduras,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,Maynor Figueroa,2016,Success
+82,2232,Sierra Leone vs Egypt,19-11-2023,"World Cup Qualifiers, Africa, 2026",Sierra Leone,SL,A Koroma,"['Alhassan Koroma', 'Alusine Koroma']",2023,Multi
+83,2255,South Korea vs Iran,18-06-2013,"World Cup Qualifiers, Asia, 2014",South Korea,KR,Chi-Woo Kim,"['Shin-wook Kim', 'Chang-soo Kim']",2013,Multi
+84,2257,South Korea vs Uzbekistan,11-06-2013,"World Cup Qualifiers, Asia, 2014",South Korea,KR,Chi-Woo Kim,"['Shin-wook Kim', 'Chang-soo Kim']",2013,Multi
+85,2273,Saudi Arabia vs Malaysia,24-03-2016,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,Safiq Rahim,2016,Success
+86,3288,Germany vs Iceland,25-03-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,Birkir Bjarnason,2021,Success
+87,4451,Bolivia vs Brazil,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2022,Multi
+88,963,Faroe Islands vs Albania,20.06.23,"Euros 2024, Qualifiers",Faroe Islands,FO,G Sorensen,Hanus Sørensen,2023,Success
+89,3489,Cameroon vs Guinea,24-01-2015,"African Cup of Nations, 2015",Guinea,GN,I Sylla,Issiaga Sylla,2015,Success
+90,3499,Guinea vs Mali,28-01-2015,"African Cup of Nations, 2015",Guinea,GN,I Sylla,Issiaga Sylla,2015,Success
+91,3500,Ghana vs Guinea,01-02-2015,"African Cup of Nations, 2015",Guinea,GN,I Sylla,Idrissa Sylla,2015,Success
+92,3503,Gabon vs Burkina Faso,18-01-2017,"African Cup of Nations, 2017",Burkina Faso,BF,A Traoré,Abdou Traoré,2017,Success
+93,3514,Guinea-Bissau vs Burkina Faso,22-01-2017,"African Cup of Nations, 2017",Burkina Faso,BF,A Traoré,Abdou Traoré,2017,Success
+94,3516,Burkina Faso vs Tunisia,28-01-2017,"African Cup of Nations, 2017",Burkina Faso,BF,A Traoré,Abdou Traoré,2017,Success
+95,3527,Burkina Faso vs Egypt,01-02-2017,"African Cup of Nations, 2017",Burkina Faso,BF,A Traoré,Abdou Traoré,2017,Success
+96,3530,Burkina Faso vs Cameroon,14-01-2017,"African Cup of Nations, 2017",Burkina Faso,BF,A Traoré,Abdou Traoré,2017,Success
+97,1219,Brazil vs Paraguay,28.06.15,Copa America 2015,Paraguay,PY,Valdez,"['Nelson Valdez', 'Bruno Valdez']",2015,Multi
+98,1226,Uruguay vs Jamaica,13.06.15,Copa America 2015,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2015,Success
+99,1227,Argentina vs Paraguay,14.06.15,Copa America 2015,Paraguay,PY,Valdez,Nelson Valdez,2015,Success
+100,1229,Argentina vs Uruguay,17.06.15,Copa America 2015,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2015,Success
+101,1230,Uruguay vs Paraguay,20.06.15,Copa America 2015,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2015,Success
+102,1230,Uruguay vs Paraguay,20.06.15,Copa America 2015,Paraguay,PY,Valdez,"['Nelson Valdez', 'Bruno Valdez']",2015,Multi
+103,1243,United States vs Ecuador,17.06.16,Copa America 2016,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+104,1254,Brazil vs Ecuador,05.06.16,Copa America 2016,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+105,1256,Ecuador vs Peru,09.06.16,Copa America 2016,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+106,1257,Ecuador vs Haiti,13.06.16,Copa America 2016,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+107,757,Israel vs Slovenia,21.03.19,"Euros 2020, Qualifiers",Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2019,Multi
+108,759,Israel vs Austria,24.03.19,"Euros 2020, Qualifiers",Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2019,Multi
+109,764,Latvia vs Israel,07.06.19,"Euros 2020, Qualifiers",Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2019,Multi
+110,765,Poland vs Israel,10.06.19,"Euros 2020, Qualifiers",Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2019,Multi
+111,784,North Macedonia vs Israel,19.11.19,"Euros 2020, Qualifiers",Israel,IL,Harush,Ariel Harush,2019,Success
+112,2178,Egypt vs Gabon,16-11-2021,"World Cup Qualifiers, Africa, 2022",Egypt,EG,Mohamed Hamdy Sharaf,['Ayman Ashraf'],2021,Success
+113,2218,Niger vs Zambia,21-11-2023,"World Cup Qualifiers, Africa, 2026",Niger,NE,A Moumouni,"['Abdoul Madjid Moumouni', 'Abdoul Moumouni']",2023,Multi
+114,4254,Venezuela vs Uruguay,11-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2013,Success
+115,4254,Venezuela vs Uruguay,11-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2013,Multi
+116,4256,Colombia vs Ecuador,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2013,Multi
+117,4256,Colombia vs Ecuador,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2013,Multi
+118,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2013,Multi
+119,4258,Chile vs Venezuela,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2013,Success
+120,4259,Peru vs Uruguay,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,Maximiliano Pereira,2013,Success
+121,4260,Bolivia vs Ecuador,10-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2013,Multi
+122,4261,Uruguay vs Colombia,10-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,Maximiliano Pereira,2013,Success
+123,4262,Venezuela vs Peru,10-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2013,Success
+124,4264,Ecuador vs Uruguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2013,Multi
+125,4264,Ecuador vs Uruguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,Maximiliano Pereira,2013,Success
+126,4269,Chile vs Ecuador,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2013,Multi
+127,4271,Uruguay vs Argentina,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,Maximiliano Pereira,2013,Success
+128,4275,Venezuela vs Paraguay,08-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,Multi
+129,4279,Uruguay vs Colombia,13-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2015,Multi
+130,4280,Paraguay vs Argentina,13-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,Multi
+131,4283,Ecuador vs Uruguay,12-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2015,Multi
+132,4287,Peru vs Paraguay,13-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,Multi
+133,4288,Colombia vs Argentina,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,"['Macnelly Torres', 'Dani Torres']",2015,Multi
+134,4290,Uruguay vs Chile,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2015,Multi
+135,4291,Paraguay vs Bolivia,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,Multi
+136,4291,Paraguay vs Bolivia,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,"['Diego Bejarano', 'Danny Bejarano']",2015,Multi
+137,4291,Paraguay vs Bolivia,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,"['Diego Bejarano', 'Danny Bejarano']",2015,Multi
+138,4293,Bolivia vs Colombia,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+139,4293,Bolivia vs Colombia,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+140,4294,Ecuador vs Paraguay,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+141,4294,Ecuador vs Paraguay,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+142,4294,Ecuador vs Paraguay,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Benítez,"['Edgar Benítez', 'Jorge Benítez']",2016,Multi
+143,4294,Ecuador vs Paraguay,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Benítez,"['Edgar Benítez', 'Jorge Benítez']",2016,Multi
+144,4298,Colombia vs Ecuador,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+145,4298,Colombia vs Ecuador,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+146,2731,United Arab Emirates vs Nepal,16-11-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,Anjan Bista,2023,Success
+147,2734,Philippines vs Indonesia,21-11-2023,"World Cup Qualifiers, Asia, 2026",Philippines,PH,M Ott,['Mike Ott'],2023,Success
+148,2740,Bangladesh vs Lebanon,21-11-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,Multi
+149,2744,Singapore vs Thailand,21-11-2023,"World Cup Qualifiers, Asia, 2026",Singapore,SG,I Fandi,['Ikhsan Fandi'],2023,Success
+150,2745,Nepal vs Yemen,21-11-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,Multi
+151,2745,Nepal vs Yemen,21-11-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,Multi
+152,2748,Guam vs Singapore,17-10-2023,"World Cup Qualifiers, Asia, 2026",Singapore,SG,I Fandi,['Ikhsan Fandi'],2023,Success
+153,2756,Bangladesh vs Maldives,17-10-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,Multi
+154,609,Albania vs Serbia,08.10.15,"Euros 2016, Qualifiers",Serbia,RS,Tosic,"['Dusko Tosic', 'Zoran Tosic']",2015,Multi
+155,612,Serbia vs Portugal,11.10.15,"Euros 2016, Qualifiers",Serbia,RS,Tosic,"['Dusko Tosic', 'Zoran Tosic']",2015,Multi
+156,617,Hungary vs Iceland,12.11.20,"Euros 2020, Qualifiers",Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2020,Multi
+157,624,Iceland vs Romania,08.10.20,"Euros 2020, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2020,Success
+158,1732,Hungary vs England,04.06.22,Nations League 2022-2023,Hungary,HU,Ádám Nagy,['Ádám Nagy'],2022,Success
+159,1734,Italy vs Hungary,07.06.22,Nations League 2022-2023,Hungary,HU,Ádám Nagy,['Ádám Nagy'],2022,Success
+160,1737,Hungary vs Germany,11.06.22,Nations League 2022-2023,Hungary,HU,Ádám Nagy,['Ádám Nagy'],2022,Success
+161,1741,Germany vs Hungary,23.09.22,Nations League 2022-2023,Hungary,HU,Ádám Nagy,['Ádám Nagy'],2022,Success
+162,1743,Hungary vs Italy,26.09.22,Nations League 2022-2023,Hungary,HU,Ádám Nagy,['Ádám Nagy'],2022,Success
+163,1747,Wales vs Netherlands,08.06.22,Nations League 2022-2023,Wales,WA,Davies,"['Ben Davies', 'Adam Davies']",2022,Multi
+164,1749,Wales vs Belgium,11.06.22,Nations League 2022-2023,Wales,WA,Davies,Ben Davies,2022,Success
+165,1750,Netherlands vs Wales,14.06.22,Nations League 2022-2023,Wales,WA,Davies,Ben Davies,2022,Success
+166,1761,Armenia vs Scotland,14.06.22,Nations League 2022-2023,Scotland,SC,Mc Gregor,Callum McGregor,2022,Success
+167,2468,United Arab Emirates vs Malaysia,03-09-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,Safiq Rahim,2015,Success
+168,2470,Palestine vs Malaysia,12-11-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,Safiq Rahim,2015,Success
+169,444,Germany vs Scotland,07.09.14,"Euros 2016, Qualifiers",Scotland,SC,Fletcher,"['Darren Fletcher', 'Steven Fletcher']",2014,Multi
+170,466,Scotland vs Germany,07.09.15,"Euros 2016, Qualifiers",Scotland,SC,Martin,"['Russell Martin', 'Chris Martin']",2015,Multi
+171,469,Scotland vs Poland,08.10.15,"Euros 2016, Qualifiers",Scotland,SC,Martin,Russell Martin,2015,Success
+172,469,Scotland vs Poland,08.10.15,"Euros 2016, Qualifiers",Scotland,SC,Fletcher,"['Darren Fletcher', 'Steven Fletcher']",2015,Multi
+173,2376,Malaysia vs Timor-Leste,11-06-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,"['Safiq Rahim', 'Safee Sali', 'Safee Sali']",2015,Multi
+174,2377,Malaysia vs Palestine,16-06-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,"['Safiq Rahim', 'Safee Sali', 'Safee Sali']",2015,Multi
+175,2384,Cambodia vs Syria,08-09-2015,"World Cup Qualifiers, Asia, 2018",Cambodia,KH,Sos Suhana,"['Souhana Sos', 'Sok Sovan']",2015,Multi
+176,2415,Malaysia vs United Arab Emirates,17-11-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,"['Safiq Rahim', 'Safee Sali', 'Safee Sali']",2015,Multi
+177,1320,Brazil vs Peru,18.06.21,Copa America 2021,Brazil,BR,Everton Soares,['Everton'],2021,Success
+178,1326,Brazil vs Ecuador,28.06.21,Copa America 2021,Brazil,BR,Everton Soares,['Everton'],2021,Success
+179,1447,Scotland vs Albania,10.09.18,Nations League 2018-2020,Scotland,SC,Mc Gregor,Callum McGregor,2018,Success
+180,1448,Israel vs Scotland,11.10.18,Nations League 2018-2020,Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2018,Multi
+181,1448,Israel vs Scotland,11.10.18,Nations League 2018-2020,Scotland,SC,Mc Gregor,Callum McGregor,2018,Success
+182,1449,Israel vs Albania,14.10.18,Nations League 2018-2020,Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2018,Multi
+183,1450,Albania vs Scotland,17.11.18,Nations League 2018-2020,Scotland,SC,Mc Gregor,Callum McGregor,2018,Success
+184,1451,Scotland vs Israel,20.11.18,Nations League 2018-2020,Scotland,SC,Mc Gregor,Callum McGregor,2018,Success
+185,1451,Scotland vs Israel,20.11.18,Nations League 2018-2020,Israel,IL,Harush,"['Ariel Harush', 'Omri Ben Harush']",2018,Multi
+186,3043,Liechtenstein vs Israel,06-10-2017,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2017,Multi
+187,1395,Portugal vs Netherlands,09.06.19,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,Multi
+188,1397,Netherlands vs England,06.06.19,Nations League 2018-2020,Netherlands,NL,de Jong,Frenkie de Jong,2019,Success
+189,1399,France vs Netherlands,09.09.18,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2018,Multi
+190,1400,Netherlands vs Germany,13.10.18,Nations League 2018-2020,Netherlands,NL,de Jong,Frenkie de Jong,2018,Success
+191,1402,Netherlands vs France,16.11.18,Nations League 2018-2020,Netherlands,NL,de Jong,Frenkie de Jong,2018,Success
+192,1403,Germany vs Netherlands,19.11.18,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2018,Multi
+193,1405,Iceland vs Belgium,11.09.18,Nations League 2018-2020,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,Multi
+194,1406,Belgium vs Switzerland,12.10.18,Nations League 2018-2020,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,Multi
+195,1407,Iceland vs Switzerland,15.10.18,Nations League 2018-2020,Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2018,Multi
+196,1059,Andorra vs Belarus,09.09.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+197,1062,Switzerland vs Andorra,12.09.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+198,1066,Andorra vs Kosovo,12.10.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+199,1068,Romania vs Andorra,15.10.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+200,1071,Belarus vs Andorra,18.11.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+201,1076,Andorra vs Israel,21.11.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+202,2327,Qatar vs China PR,05-09-2017,"World Cup Qualifiers, Asia, 2018",Qatar,QA,Abdulkarim Salem,"['Abdulkareem Salem Al-Ali', 'Abdelkarim Hassan']",2017,Multi
+203,2375,Malaysia vs Saudi Arabia,08-09-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,Safiq Rahim,2015,Success
+204,4046,Honduras vs Panama,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+205,4046,Honduras vs Panama,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+206,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Jan-Michael Williams', 'Jomal Williams']",2016,Multi
+207,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+208,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+209,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+210,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
+211,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,Jan-Michael Williams,2016,Success
+212,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+213,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+214,4051,Panama vs Mexico,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2016,Success
+215,4051,Panama vs Mexico,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2016,Success
+216,4052,Trinidad and Tobago vs Panama,24-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,Román Torres,2017,Success
+217,4054,USA vs Honduras,24-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+218,4054,USA vs Honduras,24-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+219,4055,Honduras vs Costa Rica,28-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+220,4055,Honduras vs Costa Rica,28-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+221,4057,Panama vs USA,28-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+222,4057,Panama vs USA,28-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+223,4059,Costa Rica vs Panama,08-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+224,4060,Mexico vs Honduras,08-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+225,4060,Mexico vs Honduras,08-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+226,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+227,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+228,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+229,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+230,4065,Trinidad and Tobago vs Honduras,01-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+231,4065,Trinidad and Tobago vs Honduras,01-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+232,4067,Honduras vs USA,05-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+233,4067,Honduras vs USA,05-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+234,4069,Panama vs Trinidad and Tobago,05-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+235,4069,Panama vs Trinidad and Tobago,05-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+236,4070,USA vs Panama,06-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+237,4072,Costa Rica vs Honduras,07-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,Maynor Figueroa,2017,Success
+238,4073,Honduras vs Mexico,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+239,4073,Honduras vs Mexico,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2017,Multi
+240,4074,Panama vs Costa Rica,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+241,4074,Panama vs Costa Rica,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2017,Success
+242,4075,Trinidad and Tobago vs USA,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Alvin Jones']",2017,Multi
+243,4077,Guatemala vs Cuba,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+244,4078,Antigua and Barbuda vs Montserrat,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+245,4078,Antigua and Barbuda vs Montserrat,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+246,4078,Antigua and Barbuda vs Montserrat,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+247,4078,Antigua and Barbuda vs Montserrat,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+248,4079,Suriname vs Cayman Islands,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Lee,"['Tyler Lee', 'David Lee']",2021,Multi
+249,4080,Dominican Republic vs Dominica,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+250,4080,Dominican Republic vs Dominica,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+251,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,Success
+252,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,Multi
+253,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,Multi
+254,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+255,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+256,4088,Panama vs Barbados,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Panama,PA,Murillo,"['Amir Murillo', 'José Murillo']",2021,Multi
+257,4088,Panama vs Barbados,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Williams,Mario Williams,2021,Success
+258,4089,Anguilla vs Dominican Republic,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Díaz,['Luis Díaz'],2021,Success
+259,2949,Israel vs Liechtenstein,09-10-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+260,2949,Israel vs Liechtenstein,09-10-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+261,4097,Cuba vs Curaçao,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+262,4097,Cuba vs Curaçao,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+263,4097,Cuba vs Curaçao,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+264,4097,Cuba vs Curaçao,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+265,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,Multi
+266,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,Success
+267,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,Multi
+268,4099,Montserrat vs El Salvador,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+269,4099,Montserrat vs El Salvador,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+270,4099,Montserrat vs El Salvador,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+271,4099,Montserrat vs El Salvador,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+272,4100,Cayman Islands vs Canada,29-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,Multi
+273,4100,Cayman Islands vs Canada,29-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,Multi
+274,4108,Dominica vs Anguilla,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+275,4108,Dominica vs Anguilla,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+276,4109,Cuba vs British Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+277,4109,Cuba vs British Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+278,4110,Montserrat vs US Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+279,4110,Montserrat vs US Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+280,4110,Montserrat vs US Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,"['James Comley', 'Brandon Comley']",2021,Multi
+281,4110,Montserrat vs US Virgin Islands,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+282,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,Multi
+283,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,Multi
+284,4112,Puerto Rico vs Bahamas,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Wilfredo Rivera']",2021,Multi
+285,4112,Puerto Rico vs Bahamas,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Wilfredo Rivera']",2021,Multi
+286,4113,Antigua and Barbuda vs Grenada,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Grenada,GD,German,"['Antonio German', 'Ricardo German']",2021,Multi
+287,4117,Dominican Republic vs Barbados,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Applewhaite,"['Ackeel Applewhaite', 'Andre Applewhaite']",2021,Multi
+288,4117,Dominican Republic vs Barbados,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Applewhaite,"['Ackeel Applewhaite', 'Andre Applewhaite']",2021,Multi
+289,4120,Bahamas vs Trinidad and Tobago,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Julmis,"['Evelt Julmis', 'Peter Julmis']",2021,Multi
+290,4121,US Virgin Islands vs El Salvador,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Portillo,"['Juan Carlos Portillo', 'Isaac Portillo']",2021,Multi
+291,4121,US Virgin Islands vs El Salvador,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Portillo,"['Juan Carlos Portillo', 'Isaac Portillo']",2021,Multi
+292,4124,British Virgin Islands vs Curaçao,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+293,4124,British Virgin Islands vs Curaçao,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+294,4126,Guyana vs Puerto Rico,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Wilfredo Rivera']",2021,Multi
+295,4126,Guyana vs Puerto Rico,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Wilfredo Rivera']",2021,Multi
+296,4127,Saint Vincent and the Grenadines vs Cuba,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+297,4127,Saint Vincent and the Grenadines vs Cuba,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cuba,CU,Hernández,Aricheell Hernández,2021,Success
+298,4129,Trinidad and Tobago vs Saint Kitts and Nevis,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Trinidad and Tobago,TT,García,Judah García,2021,Success
+299,4130,Grenada vs Montserrat,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+300,4130,Grenada vs Montserrat,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Comley,James Comley,2021,Success
+301,4130,Grenada vs Montserrat,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Montserrat,MS,Taylor,"['Lyle Taylor', 'Joseph Taylor']",2021,Multi
+302,4131,El Salvador vs Antigua and Barbuda,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Portillo,"['Juan Carlos Portillo', 'Isaac Portillo']",2021,Multi
+303,4131,El Salvador vs Antigua and Barbuda,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Portillo,"['Juan Carlos Portillo', 'Isaac Portillo']",2021,Multi
+304,4132,Curaçao vs Guatemala,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+305,4132,Curaçao vs Guatemala,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+306,4133,Barbados vs Dominica,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Applewhaite,Andre Applewhaite,2021,Success
+307,4133,Barbados vs Dominica,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+308,4133,Barbados vs Dominica,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+309,4134,Bermuda vs Cayman Islands,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bermuda,BM,Bell,"['Detre Bell', 'Justin Bell']",2021,Multi
+310,4134,Bermuda vs Cayman Islands,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks']",2021,Multi
+311,4134,Bermuda vs Cayman Islands,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks']",2021,Multi
+312,4136,Panama vs Dominican Republic,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Díaz,['Luis Díaz'],2021,Success
+313,4139,Panama vs Curaçao,12-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+314,4139,Panama vs Curaçao,12-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+315,4140,Curaçao vs Panama,15-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+316,4140,Curaçao vs Panama,15-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Curaçao,CW,Bacuna,"['Leandro Bacuna', 'Juninho Bacuna']",2021,Multi
+317,4141,El Salvador vs Saint Kitts and Nevis,15-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Portillo,Isaac Portillo,2021,Success
+318,4143,Canada vs Honduras,02-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Rodríguez,Edwin Rodríguez,2021,Success
+319,4143,Canada vs Honduras,02-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Rodríguez,Edwin Rodríguez,2021,Success
+320,4147,El Salvador vs Honduras,05-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Acosta,"['Bryan Acosta', 'Danilo Acosta']",2021,Multi
+321,4147,El Salvador vs Honduras,05-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Acosta,"['Bryan Acosta', 'Danilo Acosta']",2021,Multi
+322,4401,Uruguay vs Bolivia,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,Multi
+323,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+324,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+325,4405,Uruguay vs Ecuador,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+326,4406,Argentina vs Bolivia,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+327,4406,Argentina vs Bolivia,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,"['José Sagredo', 'Jesús Sagredo']",2021,Multi
+328,4406,Argentina vs Bolivia,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,Multi
+329,4409,Ecuador vs Bolivia,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+330,4409,Ecuador vs Bolivia,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,"['José Sagredo', 'Jesús Sagredo']",2021,Multi
+331,4409,Ecuador vs Bolivia,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,Multi
+332,4409,Ecuador vs Bolivia,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,Multi
+333,4412,Paraguay vs Argentina,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,Ángel Romero,2021,Success
+334,4412,Paraguay vs Argentina,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+335,4414,Venezuela vs Ecuador,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,Multi
+336,4414,Venezuela vs Ecuador,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+337,4415,Bolivia vs Peru,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2021,Success
+338,4416,Argentina vs Uruguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+339,4416,Argentina vs Uruguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+340,4417,Chile vs Paraguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,Ángel Romero,2021,Success
+341,4418,Colombia vs Ecuador,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,Multi
+342,4418,Colombia vs Ecuador,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+343,4419,Bolivia vs Paraguay,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2021,Success
+344,4419,Bolivia vs Paraguay,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,Ramiro Vaca,2021,Success
+345,4419,Bolivia vs Paraguay,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+346,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+347,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+348,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2021,Multi
+349,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,Ayrton Preciado,2021,Success
+350,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Hurtado,"['Jan Hurtado', 'Brayan Hurtado']",2021,Multi
+351,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+352,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Rojas,"['Robert Rojas', 'Matías Rojas']",2021,Multi
+353,4425,Peru vs Bolivia,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2021,Success
+354,4425,Peru vs Bolivia,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,Ramiro Vaca,2021,Success
+355,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+356,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+357,4428,Bolivia vs Uruguay,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2021,Success
+358,4430,Venezuela vs Peru,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2021,Success
+359,4431,Argentina vs Brazil,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+360,4431,Argentina vs Brazil,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+361,4432,Chile vs Ecuador,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+362,4433,Ecuador vs Brazil,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2022,Multi
+363,4434,Paraguay vs Uruguay,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,Multi
+364,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,Success
+365,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+366,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+367,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+368,4437,Venezuela vs Bolivia,28-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,José Martínez,2022,Success
+369,4438,Bolivia vs Chile,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,Success
+370,4439,Uruguay vs Venezuela,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,Multi
+371,4439,Uruguay vs Venezuela,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,José Martínez,2022,Success
+372,4440,Argentina vs Colombia,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+373,4440,Argentina vs Colombia,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+374,4440,Argentina vs Colombia,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,"['Emiliano Martínez’, ‘Lisandro Martínez’, ‘Lautaro Martínez’]",2022,Success
+375,4441,Peru vs Ecuador,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2022,Multi
+376,4441,Peru vs Ecuador,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2022,Multi
+377,4444,Uruguay vs Peru,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,Multi
+378,4445,Brazil vs Chile,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,Success
+379,4446,Paraguay vs Ecuador,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,Angelo Preciado,2022,Success
+380,4447,Argentina vs Venezuela,25-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Correa,"['Ángel Correa', 'Joaquín Correa']",2022,Multi
+381,4447,Argentina vs Venezuela,25-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,José Martínez,2022,Success
+382,4447,Argentina vs Venezuela,25-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2022,Success
+383,4448,Peru vs Paraguay,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2022,Multi
+384,4450,Venezuela vs Colombia,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,José Martínez,2022,Success
+385,1852,Latvia vs Andorra,03.06.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+386,1852,Latvia vs Andorra,03.06.22,Nations League 2022-2023,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2022,Success
+387,1854,Latvia vs Liechtenstein,06.06.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+388,1856,Moldova vs Latvia,10.06.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+389,1857,Andorra vs Liechtenstein,10.06.22,Nations League 2022-2023,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2022,Success
+390,1858,Moldova vs Andorra,14.06.22,Nations League 2022-2023,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2022,Success
+391,1859,Liechtenstein vs Latvia,14.06.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+392,1860,Latvia vs Moldova,22.09.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+393,1861,Liechtenstein vs Andorra,22.09.22,Nations League 2022-2023,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2022,Success
+394,1862,Andorra vs Latvia,25.09.22,Nations League 2022-2023,Latvia,LV,Savaļnieks,Roberts Savalnieks,2022,Success
+395,2585,Mongolia vs Tajikistan,10-09-2019,"World Cup Qualifiers, Asia, 2022",Tajikistan,TJ,D Ergashev,['Dzhakhongir Ergashev'],2019,Success
+396,2596,Malaysia vs Vietnam,11-6-2021,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2021,Fail
+397,2606,Malaysia vs United Arab Emirates,10-09-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2019,Fail
+398,2611,Indonesia vs Malaysia,5-9-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2019,Fail
+399,305,Senegal vs Netherlands,21.11.22,World Cup 2022,Netherlands,NL,de Jong,Frenkie de Jong,2022,Success
+400,307,Netherlands vs Ecuador,25.11.22,World Cup 2022,Netherlands,NL,de Jong,Frenkie de Jong,2022,Success
+401,308,Netherlands vs Qatar,29.11.22,World Cup 2022,Netherlands,NL,de Jong,Frenkie de Jong,2022,Success
+402,316,Argentina vs Saudi Arabia,22.11.22,World Cup 2022,Argentina,AR,L Martínez,"['Lautaro Martínez', 'Lisandro Martínez']",2022,Multi
+403,319,Argentina vs Mexico,26.11.22,World Cup 2022,Argentina,AR,L Martínez,"['Lautaro Martínez', 'Lisandro Martínez']",2022,Multi
+404,341,Brazil vs Serbia,24.11.22,World Cup 2022,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+405,342,Cameroon vs Serbia,28.11.22,World Cup 2022,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+406,345,Serbia vs Switzerland,02.12.22,World Cup 2022,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+407,350,South Korea vs Portugal,02.12.22,World Cup 2022,Portugal,PT,A Silva,"['André Silva', 'António Silva']",2022,Multi
+408,1922,Namibia vs Guinea,12-11-2015,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2015,Multi
+409,1922,Namibia vs Guinea,12-11-2015,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2015,Multi
+410,1927,Guinea vs Libya,31-08-2017,"World Cup Qualifiers, Africa, 2018",Guinea,GN,A Bangoura,"['Alsény Bangoura', 'Alkhaly Bangoura']",2017,Multi
+411,1947,Guinea vs Congo DR,13-11-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2016,Multi
+412,1947,Guinea vs Congo DR,13-11-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2016,Multi
+413,1956,Lesotho vs Comoros,13-10-2015,"World Cup Qualifiers, Africa, 2018",Comoros,KM,T Youssoufa,Nakim Youssoufa,2015,Success
+414,1970,Libya vs Guinea,04-09-2017,"World Cup Qualifiers, Africa, 2018",Guinea,GN,A Bangoura,"['Alsény Bangoura', 'Alkhaly Bangoura']",2017,Multi
+415,4355,Colombia vs Paraguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,"['Carlos Sánchez', 'Davinson Sánchez']",2017,Multi
+416,4355,Colombia vs Paraguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,"['Carlos Sánchez', 'Davinson Sánchez']",2017,Multi
+417,4355,Colombia vs Paraguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"[‘Óscar Romero', 'Ángel Romero']",2017,Success
+418,4355,Colombia vs Paraguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"[‘Óscar Romero', 'Ángel Romero']",2017,Success
+419,4356,Chile vs Ecuador,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2017,Multi
+420,4358,Ecuador vs Argentina,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2017,Multi
+421,4358,Ecuador vs Argentina,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2017,Multi
+422,4359,Peru vs Colombia,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,"['Carlos Sánchez', 'Davinson Sánchez']",2017,Multi
+423,4359,Peru vs Colombia,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,"['Carlos Sánchez', 'Davinson Sánchez']",2017,Multi
+424,4360,Paraguay vs Venezuela,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,d Silva,Paulo da Silva,2017,Success
+425,4360,Paraguay vs Venezuela,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"[‘Óscar Romero', 'Ángel Romero']",2017,Success
+426,4360,Paraguay vs Venezuela,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"[‘Óscar Romero', 'Ángel Romero']",2017,Success
+427,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Rodríguez,"['Jonathan Rodríguez', 'Brian Rodríguez']",2020,Multi
+428,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,Success
+429,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,Success
+430,4366,Argentina vs Ecuador,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2020,Multi
+431,4368,Brazil vs Bolivia,09-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,"['José Sagredo', 'Jesús Sagredo']",2020,Multi
+432,4368,Brazil vs Bolivia,09-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,"['José Sagredo', 'Jesús Sagredo']",2020,Multi
+433,4369,Bolivia vs Argentina,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2020,Success
+434,4370,Ecuador vs Uruguay,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Rodríguez,"['Jonathan Rodríguez', 'Brian Rodríguez']",2020,Multi
+435,4373,Chile vs Colombia,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,Success
+436,4374,Bolivia vs Ecuador,12-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Beder Caicedo', 'Moisés Caicedo']",2020,Multi
+437,4375,Argentina vs Paraguay,12-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Rojas,"['Robert Rojas', 'Rodrigo Rojas']",2020,Multi
+438,4377,Chile vs Peru,13-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,Success
+439,4379,Ecuador vs Colombia,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,Renato Ibarra,2020,Success
+440,4380,Venezuela vs Chile,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,Success
+441,4383,Paraguay vs Bolivia,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2020,Multi
+442,4383,Paraguay vs Bolivia,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2020,Success
+443,4384,Bolivia vs Venezuela,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,Multi
+444,4385,Uruguay vs Paraguay,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+445,4385,Uruguay vs Paraguay,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+446,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+447,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+448,4388,Brazil vs Ecuador,04-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,Multi
+449,4388,Brazil vs Ecuador,04-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,Multi
+450,4389,Ecuador vs Peru,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2021,Multi
+451,4389,Ecuador vs Peru,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2021,Multi
+452,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+453,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+454,4392,Paraguay vs Brazil,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,Multi
+455,4393,Chile vs Bolivia,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,Henry Vaca,2021,Success
+456,4395,Ecuador vs Paraguay,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,Ángel Romero,2021,Success
+457,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,Alexander González,2021,Success
+458,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+459,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,Success
+460,4399,Ecuador vs Chile,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2021,Success
+461,4400,Paraguay vs Colombia,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,Ángel Romero,2021,Success
+462,1897,Nigeria vs Ethiopia,16-11-2013,"World Cup Qualifiers, Africa, 2014",Ethiopia,ET,A Girma,"['Alula Girma', 'Adane Girma']",2013,Multi
+463,1898,Sierra Leone vs Equatorial Guinea,07-09-2013,"World Cup Qualifiers, Africa, 2014",Sierra Leone,SL,M Bangura,"['Moustapha Bangura', 'Mohamed Bangura']",2013,Multi
+464,1912,Kenya vs Namibia,08-09-2013,"World Cup Qualifiers, Africa, 2014",Kenya,KE,D Ochieng,"['Duncan Ochieng', 'David Ochieng']",2013,Multi
+465,1912,Kenya vs Namibia,08-09-2013,"World Cup Qualifiers, Africa, 2014",Kenya,KE,D Ochieng,"['Duncan Ochieng', 'David Ochieng']",2013,Multi
+466,1991,Guinea vs Namibia,15-11-2015,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2015,Multi
+467,1991,Guinea vs Namibia,15-11-2015,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2015,Multi
+468,2010,Burkina Faso vs South Africa,08-10-2016,"World Cup Qualifiers, Africa, 2018",Burkina Faso,BF,A Traoré,Abdou Traoré,2016,Success
+469,2021,Guinea vs Tunisia,07-10-2017,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2017,Multi
+470,2539,Nepal vs Jordan,07-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,Multi
+471,2546,India vs Bangladesh,15-10-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,R Hasan,"['Raihan Hasan', 'Robiul Hasan', 'Riyadul Hasan Rafi', 'Riyadul Hasan Rafi']",2019,Multi
+472,2571,Qatar vs Bangladesh,04-12-2020,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2020,Success
+473,882,Cyprus vs Georgia,17.06.23,"Euros 2024, Qualifiers",Georgia,GE,Lochoschvili,"['Luka Lochoshvili', 'Giorgi Gocholeishvili']",2023,Multi
+474,891,Georgia vs Cyprus,15.10.23,"Euros 2024, Qualifiers",Georgia,GE,Lochoschvili,Luka Lochoshvili,2023,Success
+475,893,Georgia vs Scotland,16.11.23,"Euros 2024, Qualifiers",Georgia,GE,Lochoschvili,Luka Lochoshvili,2023,Success
+476,895,Spain vs Georgia,19.11.23,"Euros 2024, Qualifiers",Georgia,GE,Lochoschvili,"['Luka Lochoshvili', 'Giorgi Gocholeishvili']",2023,Multi
+477,590,Bulgaria vs Azerbaijan,13.10.15,"Euros 2016, Qualifiers",Bulgaria,BG,Milanov,"['Georgi Milanov', 'Zhivko Milanov']",2015,Multi
+478,3945,Panama vs Mexico,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+479,3945,Panama vs Mexico,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+480,3945,Panama vs Mexico,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+481,3947,Honduras vs Jamaica,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+482,3947,Honduras vs Jamaica,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,Wilson Palacios,2013,Success
+483,3947,Honduras vs Jamaica,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Martínez,Mario Martínez,2013,Success
+484,3948,USA vs Panama,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+485,3948,USA vs Panama,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,Amílcar Henríquez,2013,Success
+486,3949,USA vs Honduras,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,Wilson Palacios,2013,Success
+487,3949,USA vs Honduras,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Martínez,Mario Martínez,2013,Success
+488,3950,Costa Rica vs Panama,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+489,3950,Costa Rica vs Panama,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+490,3950,Costa Rica vs Panama,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+491,3952,Mexico vs Honduras,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+492,3952,Mexico vs Honduras,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,"['Wilson Palacios', 'Jerry Palacios']",2013,Multi
+493,3953,Panama vs Jamaica,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+494,3953,Panama vs Jamaica,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+495,3953,Panama vs Jamaica,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+496,3955,Honduras vs Panama,10-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,Boniek García,2013,Success
+497,3955,Honduras vs Panama,10-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,Wilson Palacios,2013,Success
+498,3955,Honduras vs Panama,10-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+499,3955,Honduras vs Panama,10-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+500,3955,Honduras vs Panama,10-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+501,3957,Honduras vs Costa Rica,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+502,3957,Honduras vs Costa Rica,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,Wilson Palacios,2013,Success
+503,3959,Mexico vs Panama,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+504,3959,Mexico vs Panama,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+505,3959,Mexico vs Panama,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+506,3961,Jamaica vs Honduras,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,Boniek García,2013,Success
+507,3962,Panama vs USA,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+508,3962,Panama vs USA,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+509,3962,Panama vs USA,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+510,3962,Panama vs USA,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+511,3978,Nicaragua vs Suriname,7-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua,NI,Lopez,Marlon Lopez,2015,Success
+512,3984,Dominica vs Canada,11-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Prince,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince']",2015,Multi
+513,1541,Netherlands vs Poland,04.09.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+514,1543,Netherlands vs Italy,07.09.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+515,1545,Bosnia-Herzegovina vs Netherlands,11.10.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+516,1545,Bosnia-Herzegovina vs Netherlands,11.10.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+517,1547,Italy vs Netherlands,14.10.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+518,1547,Italy vs Netherlands,14.10.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+519,1549,Netherlands vs Bosnia-Herzegovina,15.11.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+520,1549,Netherlands vs Bosnia-Herzegovina,15.11.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+521,1552,Poland vs Netherlands,18.11.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,Multi
+522,3909,Cuba vs Honduras,07-Sep-12,"World Cup 2014, Qualifiers, CONCACAF",Cuba,CU,Colomé,"['Yoel Colomé', 'Jaime Colomé']",2012,Multi
+523,3913,Guatemala vs Antigua and Barbuda,07-Sep-12,"World Cup 2014, Qualifiers, CONCACAF",Guatemala,GT,Lopez,Jonathan López,2012,Success
+524,3927,Honduras vs Canada,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2012,Multi
+525,3929,USA vs Guatemala,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Guatemala,GT,López,"['Jonathan López', 'Minor López']",2012,Multi
+526,3933,Honduras vs USA,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+527,3933,Honduras vs USA,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+528,3933,Honduras vs USA,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Martínez,Mario Martínez,2013,Success
+529,3935,Panama vs Costa Rica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+530,3935,Panama vs Costa Rica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,Multi
+531,3936,Honduras vs Mexico,22-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,Boniek García,2013,Success
+532,3936,Honduras vs Mexico,22-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Martínez,Mario Martínez,2013,Success
+533,3938,Jamaica vs Panama,22-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+534,3938,Jamaica vs Panama,22-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,Luis Henríquez,2013,Success
+535,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2013,Success
+536,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,Luis Henríquez,2013,Success
+537,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+538,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+539,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Martínez,Mario Martínez,2013,Success
+540,3943,Costa Rica vs Honduras,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+541,3943,Costa Rica vs Honduras,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,Multi
+542,3943,Costa Rica vs Honduras,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,"['Wilson Palacios', 'Jerry Palacios']",2013,Multi
+543,373,Turkey vs Latvia,03.09.15,"Euros 2016, Qualifiers",Latvia,LV,Visnakovs,"['Aleksejs Visnakovs', 'Eduards Visnakovs']",2015,Multi
+544,380,Latvia vs Kazakhstan,13.10.15,"Euros 2016, Qualifiers",Latvia,LV,Visnakovs,"['Aleksejs Visnakovs', 'Eduards Visnakovs']",2015,Multi
+545,2037,Tunisia vs Guinea,09-10-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2016,Multi
+546,2037,Tunisia vs Guinea,09-10-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,I Sylla,"['Issiaga Sylla', 'Idrissa Sylla']",2016,Multi
+547,3375,Liechtenstein vs Iceland,31-03-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,Birkir Bjarnason,2021,Success
+548,3375,Liechtenstein vs Iceland,31-03-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,Jóhann Berg Gudmundsson,['Jóhann Berg Gudmundsson'],2021,Success
+549,3377,Iceland vs Armenia,08-10-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+550,3377,Iceland vs Armenia,08-10-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+551,3383,North Macedonia vs Iceland,14-11-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+552,3383,North Macedonia vs Iceland,14-11-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+553,3478,Congo vs Burkina Faso,25-01-2015,"African Cup of Nations, 2015",Burkina Faso,BF,A Traoré,"['Alain Traoré', 'Abdou Traoré']",2015,Multi
+554,3480,Cote d'Ivoire vs Guinea,20-01-2015,"African Cup of Nations, 2015",Guinea,GN,I Sylla,Issiaga Sylla,2015,Success
+555,1049,Andorra vs Romania,25.03.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+556,1052,Kosovo vs Andorra,28.03.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,Multi
+557,3384,Iceland vs Romania,02-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+558,3384,Iceland vs Romania,02-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,Jóhann Berg Gudmundsson,['Jóhann Berg Gudmundsson'],2021,Success
+559,3384,Iceland vs Romania,02-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+560,3392,Faroe Islands vs Denmark,04-09-2021,"World Cup Qualifiers, Europe, 2022",Denmark,DK,J Bruun Larsen,['Jacob Bruun Larsen'],2021,Success
+561,3419,Romania vs Iceland,11-11-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+562,3419,Romania vs Iceland,11-11-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+563,3098,Liechtenstein vs North Macedonia,24-03-2017,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2017,Multi
+564,4301,Argentina vs Bolivia,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,"['Marvin Bejarano', 'Diego Bejarano', 'Danny Bejarano']",2016,Multi
+565,4301,Argentina vs Bolivia,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,"['Marvin Bejarano', 'Diego Bejarano', 'Danny Bejarano']",2016,Multi
+566,4302,Paraguay vs Brazil,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Benítez,"['Edgar Benítez', 'Jorge Benítez']",2016,Multi
+567,4302,Paraguay vs Brazil,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Benítez,"['Edgar Benítez', 'Jorge Benítez']",2016,Multi
+568,4303,Ecuador vs Brazil,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,Enner Valencia,2016,Success
+569,4304,Bolivia vs Peru,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+570,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+571,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+572,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,Success
+573,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,Success
+574,4309,Chile vs Bolivia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+575,4311,Brazil vs Colombia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+576,4311,Brazil vs Colombia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+577,4311,Brazil vs Colombia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,Success
+578,4312,Peru vs Ecuador,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+579,4312,Peru vs Ecuador,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+580,4313,Ecuador vs Chile,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo']",2016,Multi
+581,4313,Ecuador vs Chile,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+582,4313,Ecuador vs Chile,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+583,4315,Paraguay vs Colombia,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+584,4317,Brazil vs Bolivia,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+585,4318,Colombia vs Uruguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+586,4318,Colombia vs Uruguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,"['Érick Torres’, ‘Macnelly Torres’]",2016,Success
+587,4319,Bolivia vs Ecuador,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+588,4319,Bolivia vs Ecuador,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,Multi
+589,4319,Bolivia vs Ecuador,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+590,4319,Bolivia vs Ecuador,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2016,Multi
+591,4321,Argentina vs Paraguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2016,Success
+592,4323,Colombia vs Chile,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+593,4324,Venezuela vs Bolivia,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+594,4326,Paraguay vs Peru,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2016,Success
+595,4328,Bolivia vs Paraguay,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2016,Success
+596,4328,Bolivia vs Paraguay,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,Paulo da Silva,2016,Success
+597,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,Multi
+598,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Valencia,Enner Valencia,2016,Success
+599,4330,Argentina vs Colombia,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,"['Carlos Sánchez', 'Davinson Sánchez']",2016,Multi
+600,4330,Argentina vs Colombia,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2016,Success
+601,4333,Colombia vs Bolivia,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Zapata,"['Cristián Zapata', 'Duván Zapata']",2017,Multi
+602,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,d Silva,Paulo da Silva,2017,Success
+603,4336,Uruguay vs Brazil,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Silva,"['Martín Silva', 'Gastón Silva']",2017,Multi
+604,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Zapata,Cristián Zapata,2017,Success
+605,4342,Brazil vs Paraguay,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,d Silva,Paulo da Silva,2017,Success
+606,728,Spain vs Norway,23.03.19,"Euros 2020, Qualifiers",Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2019,Multi
+607,733,Norway vs Romania,07.06.19,"Euros 2020, Qualifiers",Norway,NO,Elyounoussi,Tarik Elyounoussi,2019,Success
+608,736,Faroe Islands vs Norway,10.06.19,"Euros 2020, Qualifiers",Norway,NO,Elyounoussi,Tarik Elyounoussi,2019,Success
+609,1769,Israel vs Iceland,02.06.22,Nations League 2022-2023,Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2022,Multi
+610,1771,Iceland vs Albania,06.06.22,Nations League 2022-2023,Iceland,IS,B Bjarnason,Birkir Bjarnason,2022,Success
+611,1771,Iceland vs Albania,06.06.22,Nations League 2022-2023,Iceland,IS,Gudjohnsen,"['Sveinn-Aron Gudjohnsen', 'Andri Gudjohnsen']",2022,Multi
+612,1775,Iceland vs Israel,13.06.22,Nations League 2022-2023,Iceland,IS,B Bjarnason,Birkir Bjarnason,2022,Success
+613,1775,Iceland vs Israel,13.06.22,Nations League 2022-2023,Iceland,IS,Gudjohnsen,"['Sveinn-Aron Gudjohnsen', 'Andri Gudjohnsen']",2022,Multi
+614,1779,Albania vs Iceland,27.09.22,Nations League 2022-2023,Iceland,IS,B Bjarnason,Birkir Bjarnason,2022,Success
+615,1792,Serbia vs Norway,02.06.22,Nations League 2022-2023,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+616,1795,Serbia vs Slovenia,05.06.22,Nations League 2022-2023,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+617,1796,Sweden vs Serbia,09.06.22,Nations League 2022-2023,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+618,1799,Slovenia vs Serbia,12.06.22,Nations League 2022-2023,Serbia,RS,Milenković,['Nikola Milenkovic'],2022,Success
+619,2636,Vietnam vs Malaysia,10-10-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2019,Fail
+620,2655,Malaysia vs Timor-Leste,07-06-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamim Yahya', 'Syahrul Azwari', 'Syawal Nordin', 'Syazwan Zaipol', 'Syazwan Andik', 'Syahmi Safari', 'Syamer Kutty', 'Syazwan Zainon', 'Syafiq Ahmad', 'Syahir Bashah']",2019,Fail
+621,2658,Myanmar vs Tajikistan,14-11-2019,"World Cup Qualifiers, Asia, 2022",Tajikistan,TJ,D Ergashev,['Dzhakhongir Ergashev'],2019,Success
+622,2670,Pakistan vs Cambodia,11-06-2019,"World Cup Qualifiers, Asia, 2022",Pakistan,PK,Y Butt,['Yaqoob Butt'],2019,Success
+623,4148,Costa Rica vs Mexico,05-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,Success
+624,4153,Honduras vs USA,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Rodríguez,Diego Rodríguez,2021,Success
+625,4154,Panama vs Mexico,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,Success
+626,4155,Honduras vs Costa Rica,07-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Rodríguez,Diego Rodríguez,2021,Success
+627,4156,USA vs Jamaica,07-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Jamaica,JM,Lowe,"['Damion Lowe', 'Jamal Lowe']",2021,Multi
+628,4162,Mexico vs Honduras,10-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Acosta,"['Bryan Acosta', 'Danilo Acosta']",2021,Multi
+629,4162,Mexico vs Honduras,10-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Acosta,"['Bryan Acosta', 'Danilo Acosta']",2021,Multi
+630,4166,El Salvador vs Mexico,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,Success
+631,4166,El Salvador vs Mexico,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,Success
+632,4169,El Salvador vs Jamaica,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,Success
+633,4174,Panama vs El Salvador,16-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,Success
+634,4177,Honduras vs Canada,27-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Kevin López']",2022,Multi
+635,4183,USA vs Honduras,02-Feb-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Kevin López']",2022,Multi
+636,4190,Panama vs Honduras,24-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Kevin López']",2022,Multi
+637,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Alexander López', 'Kevin López']",2022,Multi
+638,4196,Costa Rica vs USA,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Costa Rica,CR,Martínez,"['Alonso Martínez', 'Carlos Martínez']",2022,Multi
+639,3220,Iceland vs Liechtenstein,11-10-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+640,3220,Iceland vs Liechtenstein,11-10-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+641,3233,Armenia vs Iceland,28-03-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,Jóhann Berg Gudmundsson,['Jóhann Berg Gudmundsson'],2021,Success
+642,3233,Armenia vs Iceland,28-03-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,Birkir Bjarnason,2021,Success
+643,3758,Honduras vs Grenada,14-07-2021,"Gold Cup, 2021",Grenada,GD,R Charles-Cook,['Regan Charles-Cook'],2021,Success
+644,3763,Panama vs Grenada,21-07-2021,"Gold Cup, 2021",Grenada,GD,R Charles-Cook,['Regan Charles-Cook'],2021,Success
+645,684,Netherlands vs Estonia,19.11.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,Multi
+646,4096,Dominica vs Panama,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+647,4096,Dominica vs Panama,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2021,Multi
+648,167,Colombia vs Uruguay,28.06.14,World Cup 2014,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2014,Success
+649,194,Uruguay vs England,19.06.14,World Cup 2014,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2014,Success
+650,196,Italy vs Uruguay,24.06.14,World Cup 2014,Uruguay,UY,Álvaro Pereira,['Álvaro Pereira'],2014,Success
+651,198,Switzerland vs Ecuador,15.06.14,World Cup 2014,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2014,Multi
+652,201,Honduras vs Ecuador,21.06.14,World Cup 2014,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2014,Multi
+653,203,Ecuador vs France,25.06.14,World Cup 2014,Ecuador,EC,Valencia,"['Antonio Valencia', 'Enner Valencia']",2014,Multi
+654,2488,Nepal vs Chinese Taipei,03-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,Multi
+655,2502,Oman vs Bangladesh,14-11-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,R Hasan,"['Raihan Hasan', 'Robiul Hasan', 'Riyadul Hasan Rafi', 'Riyadul Hasan Rafi']",2019,Multi
+656,2511,Cambodia vs Pakistan,06-06-2019,"World Cup Qualifiers, Asia, 2022",Pakistan,PK,Y Butt,['Yaqoob Butt'],2019,Success
+657,2516,Nepal vs Australia,11-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,Multi
+658,2522,Tajikistan vs Japan,15-10-2019,"World Cup Qualifiers, Asia, 2022",Tajikistan,TJ,D Ergashev,['Dzhakhongir Ergashev'],2019,Success
+659,2522,Tajikistan vs Japan,15-10-2019,"World Cup Qualifiers, Asia, 2022",Tajikistan,TJ,D Ergashev,['Dzhakhongir Ergashev'],2019,Success
+660,1269,Chile vs Panama,15.06.16,Copa America 2016,Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2016,Multi
+661,275,Belgium vs Panama,18.06.18,World Cup 2018,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,Multi
+662,276,Tunisia vs England,18.06.18,World Cup 2018,Tunisia,TN,Ben Youssef,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",2018,Multi
+663,276,Tunisia vs England,18.06.18,World Cup 2018,Tunisia,TN,Ben Youssef,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",2018,Multi
+664,277,Belgium vs Tunisia,23.06.18,World Cup 2018,Belgium,BE,Hazard,Eden Hazard,2018,Success
+665,277,Belgium vs Tunisia,23.06.18,World Cup 2018,Tunisia,TN,Ben Youssef,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",2018,Multi
+666,277,Belgium vs Tunisia,23.06.18,World Cup 2018,Tunisia,TN,Ben Youssef,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",2018,Multi
+667,280,Panama vs Tunisia,28.06.18,World Cup 2018,Tunisia,TN,Ben Youssef,Fakhreddine Ben Youssef,2018,Success
+668,293,Netherlands vs Argentina,09.12.22,World Cup 2022,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2022,Multi
+669,296,Netherlands vs United States,03.12.22,World Cup 2022,Netherlands,NL,de Jong,Frenkie de Jong,2022,Success
+670,2984,Liechtenstein vs Albania,06-10-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,Marcel Büchel,2016,Success
+671,3005,Spain vs Liechtenstein,05-09-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+672,3005,Spain vs Liechtenstein,05-09-2016,"World Cup Qualifiers, Europe, 2018",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2016,Multi
+673,3270,Iceland vs Germany,08-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+674,3270,Iceland vs Germany,08-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,Jóhann Berg Gudmundsson,['Jóhann Berg Gudmundsson'],2021,Success
+675,3270,Iceland vs Germany,08-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+676,3281,Iceland vs North Macedonia,05-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+677,3281,Iceland vs North Macedonia,05-09-2021,"World Cup Qualifiers, Europe, 2022",Iceland,IS,B Bjarnason,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",2021,Multi
+678,1468,Norway vs Slovenia,13.10.18,Nations League 2018-2020,Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2018,Multi
+679,1470,Norway vs Bulgaria,16.10.18,Nations League 2018-2020,Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2018,Multi
+680,1473,Slovenia vs Norway,16.11.18,Nations League 2018-2020,Slovenia,SI,Struna,"['Andraz Struna', 'Aljaz Struna']",2018,Multi
+681,1473,Slovenia vs Norway,16.11.18,Nations League 2018-2020,Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2018,Multi
+682,1474,Cyprus vs Norway,19.11.18,Nations League 2018-2020,Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2018,Multi
+683,1475,Bulgaria vs Slovenia,19.11.18,Nations League 2018-2020,Slovenia,SI,Struna,Andraz Struna,2018,Success
+684,1476,Lithuania vs Serbia,07.09.18,Nations League 2018-2020,Serbia,RS,Milenković,Nikola Milenkovic,2018,Success
+685,1481,Montenegro vs Serbia,11.10.18,Nations League 2018-2020,Serbia,RS,Milenković,Nikola Milenkovic,2018,Success
+686,1482,Romania vs Serbia,14.10.18,Nations League 2018-2020,Serbia,RS,Milenković,Nikola Milenkovic,2018,Success
+687,1484,Serbia vs Montenegro,17.11.18,Nations League 2018-2020,Serbia,RS,Milenković,Nikola Milenkovic,2018,Success
+688,1486,Serbia vs Lithuania,20.11.18,Nations League 2018-2020,Serbia,RS,Milenković,Nikola Milenkovic,2018,Success
+689,1491,Andorra vs Kazakhstan,10.09.18,Nations League 2018-2020,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2018,Success
+690,1492,Georgia vs Andorra,13.10.18,Nations League 2018-2020,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2018,Success
+691,1497,Andorra vs Georgia,15.11.18,Nations League 2018-2020,Andorra,AD,Jesús Rubio,['Jesús Rubio'],2018,Success
