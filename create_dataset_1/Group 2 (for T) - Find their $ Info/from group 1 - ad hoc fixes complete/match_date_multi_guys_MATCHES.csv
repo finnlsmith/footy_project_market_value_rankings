@@ -63,23 +63,23 @@
 61,4019,Trinidad and Tobago vs USA,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2015,Multi
 62,4021,Panama vs Costa Rica,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Henriquez,Luis Henríquez,2015,Success
 63,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,"['Shandel Samuel', 'Myron Samuel']",2016,Multi
-64,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-65,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-66,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-67,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+64,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+65,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+66,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+67,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
 68,4028,Trinidad and Tobago vs Saint Vincent and the Grenadines,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
 69,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 70,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 71,4032,Mexico vs Canada,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Mexico,MX,Corona,"['Jesús Corona', 'Yasser Corona']",2016,Multi
 72,4034,Honduras vs Canada,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,Maynor Figueroa,2016,Success
 73,4035,Saint Vincent and the Grenadines vs USA,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
-74,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-75,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+74,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+75,4037,Trinidad and Tobago vs Guatemala,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
 76,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,Success
 77,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,Success
 78,4040,Guatemala vs Saint Vincent and the Grenadines,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,Myron Samuel,2016,Success
-79,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-80,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+79,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+80,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
 81,4045,Mexico vs Honduras,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,Maynor Figueroa,2016,Success
 82,2232,Sierra Leone vs Egypt,19-11-2023,"World Cup Qualifiers, Africa, 2026",Sierra Leone,SL,A Koroma,"['Alhassan Koroma', 'Alusine Koroma']",2023,Multi
 83,2255,South Korea vs Iran,18-06-2013,"World Cup Qualifiers, Asia, 2014",South Korea,KR,Chi-Woo Kim,"['Shin-wook Kim', 'Chang-soo Kim']",2013,Multi
@@ -206,13 +206,13 @@
 204,4046,Honduras vs Panama,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 205,4046,Honduras vs Panama,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 206,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Jan-Michael Williams', 'Jomal Williams']",2016,Multi
-207,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-208,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+207,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+208,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
 209,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 210,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Figueroa,"['Henry Figueroa', 'Maynor Figueroa']",2016,Multi
 211,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,Jan-Michael Williams,2016,Success
-212,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
-213,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,['Jermaine Jones'],2016,Success
+212,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
+213,4049,Honduras vs Trinidad and Tobago,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Kenwyne Jones']",2016,Success
 214,4051,Panama vs Mexico,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2016,Success
 215,4051,Panama vs Mexico,15-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"[‘Román Torres’, ‘Gaby Torres’] ",2016,Success
 216,4052,Trinidad and Tobago vs Panama,24-Mar-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,Román Torres,2017,Success
