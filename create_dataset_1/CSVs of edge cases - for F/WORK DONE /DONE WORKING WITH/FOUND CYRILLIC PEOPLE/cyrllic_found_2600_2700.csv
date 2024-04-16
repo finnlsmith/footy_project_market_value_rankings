@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,2600,191,World Cup 2014,24.06.14,Greece vs Ivory Coast,2014,Greece,GR,14. Салпигидис,Dimitrios Salpingidis,['Dimitrios Salpingidis'],Success
+1,2601,191,World Cup 2014,24.06.14,Greece vs Ivory Coast,2014,Ivory Coast,CI,1. Барри,Barry,['Boubacar Copa'],Success
+2,2602,192,World Cup 2014,14.06.14,Uruguay vs Costa Rica,2014,Uruguay,UY,2. Лугано,Lugano,['Diego Lugano'],Success
+3,2603,192,World Cup 2014,14.06.14,Uruguay vs Costa Rica,2014,Uruguay,UY,5. Гаргано,Gargano,['Walter Gargano'],Success
+4,2604,192,World Cup 2014,14.06.14,Uruguay vs Costa Rica,2014,Uruguay,UY,10. Форлан,Forlan,['Diego Forlán'],Success
+5,2605,193,World Cup 2014,15.06.14,England vs Italy,2014,Italy,IT,21. Пирло,Pirlo,['Andrea Pirlo'],Success
+6,2606,195,World Cup 2014,20.06.14,Italy vs Costa Rica,2014,Italy,IT,21. Пирло,Pirlo,['Andrea Pirlo'],Success
+7,2607,196,World Cup 2014,24.06.14,Italy vs Uruguay,2014,Italy,IT,21. Пирло,Pirlo,['Andrea Pirlo'],Success
+8,2608,197,World Cup 2014,24.06.14,Costa Rica vs England,2014,Costa Rica,CR,19. Миллер Рой,Miller Roy,['Roy Miller'],Success
+9,2609,197,World Cup 2014,24.06.14,Costa Rica vs England,2014,Costa Rica,CR,14. Бренес,Brenes,"['Randall Brenes', 'Jefferson Brenes']",Success
+10,2610,198,World Cup 2014,15.06.14,Switzerland vs Ecuador,2014,Ecuador,EC,2. Гуагуа,Guagua,['Jorge Guagua'],Success
+11,2611,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,18. Валладарес,Valladares,['Noel Valladares'],Success
+12,2612,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,21. Бекелес,Bekeles,['Brayan Beckeles'],Success
+13,2613,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,5. Бернардес,Bernardez,"['Marvin Bernardez', 'Victor Bernardez', 'Víctor Bernárdez', 'Marvin Bernárdez']",Success
+14,2614,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,7. Изагирре,Izaguirre,['Emilio Izaguirre'],Success
+15,2615,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,19. Гарридо Л.,L Garrido,['Luis Garrido'],Success
+16,2616,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,15. Эспиноса,Espinosa,['Róger Espinoza'],Success
+17,2617,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,11. Бенгтсон,Bengtson,['Jerry Bengtson'],Success
+18,2618,199,World Cup 2014,15.06.14,France vs Honduras,2014,Honduras,HN,13. Костли,Costley,['Carlo Costly'],Success
+19,2619,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,18. Валладарес,Valladares,['Noel Valladares'],Success
+20,2620,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,21. Бекелес,Bekeles,['Brayan Beckeles'],Success
+21,2621,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,5. Бернардес,Bernardez,"['Marvin Bernardez', 'Victor Bernardez', 'Víctor Bernárdez', 'Marvin Bernárdez']",Success
+22,2622,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,7. Изагирре,Izaguirre,['Emilio Izaguirre'],Success
+23,2623,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,14. Гарсия Б-к,Garcia Bq,['Boniek García'],Success
+24,2624,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,19. Гарридо Л.,L Garrido,['Luis Garrido'],Success
+25,2625,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,20. Кларос,Klaros,['Jorge Claros'],Success
+26,2626,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,15. Эспиноса,Espinosa,['Róger Espinoza'],Success
+27,2627,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,11. Бенгтсон,Bengtson,['Jerry Bengtson'],Success
+28,2628,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Honduras,HN,13. Костли,Costley,['Carlo Costly'],Success
+29,2629,201,World Cup 2014,21.06.14,Honduras vs Ecuador,2014,Ecuador,EC,2. Гуагуа,Guagua,['Jorge Guagua'],Success
+30,2630,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,18. Валладарес,Valladares,['Noel Valladares'],Success
+31,2631,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,6. Гарсия Х.К.,HK Garcia,['Juan Carlos García'],Success
+32,2632,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,21. Бекелес,Bekeles,['Brayan Beckeles'],Success
+33,2633,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,5. Бернардес,Bernardez,"['Marvin Bernardez', 'Victor Bernardez', 'Víctor Bernárdez', 'Marvin Bernárdez']",Success
+34,2634,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,14. Гарсия Б-к,Garcia Bq,['Boniek García'],Success
+35,2635,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,20. Кларос,Klaros,['Jorge Claros'],Success
+36,2636,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,15. Эспиноса,Espinosa,['Róger Espinoza'],Success
+37,2637,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,9. Паласиос Джр.,Palacios Jr,['Jerry Palacios'],Success
+38,2638,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,11. Бенгтсон,Bengtson,['Jerry Bengtson'],Success
+39,2639,202,World Cup 2014,25.06.14,Honduras vs Switzerland,2014,Honduras,HN,13. Костли,Costley,['Carlo Costly'],Success
+40,2640,203,World Cup 2014,25.06.14,Ecuador vs France,2014,Ecuador,EC,2. Гуагуа,Guagua,['Jorge Guagua'],Success
+41,2641,204,World Cup 2014,16.06.14,Argentina vs Bosnia-Herzegovina,2014,Argentina,AR,3. Кампаньяро,Campagnaro,['Hugo Campagnaro'],Success
+42,2642,204,World Cup 2014,16.06.14,Argentina vs Bosnia-Herzegovina,2014,Argentina,AR,11. Родригес Мак.,Rodriguez Mac,['Maxi Rodríguez'],Success
+43,2643,204,World Cup 2014,16.06.14,Argentina vs Bosnia-Herzegovina,2014,Bosnia,BA,10. Мисимович,Misimović,['Zvjezdan Misimovic'],Success
+44,2644,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,12. Хагиги А.,A  Hagigi,['Alireza Haghighi'],Success
+45,2645,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,4. Хоссейни,Hosseini,"['Seyed Jalal Hosseini', 'Seyed Mohsen Hosseini', 'Hossein Hosseini', 'Majid Hosseini', 'Seyed Mehdi Hosseini']",Success
+46,2646,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,5. Садеги,Sadeghi,"['Amirhossein Sadeghi', 'Saeid Sadeghi', 'Amirali Sadeghi']",Success
+47,2647,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,15. Монтазери,Montazeri,['Pejman Montazeri'],Success
+48,2648,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,23. Поолади,Pooladi,['Mehrdad Pooladi'],Success
+49,2649,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,6. Некунам,Nekunam,['Javad Nekounam'],Success
+50,2650,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,14. Тимотян,Timotyan,['Andranik Teymourian'],Success
+51,2651,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,21. Дежага,Dejaga,['Ashkan Dejagah'],Success
+52,2652,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Iran,IR,2. Хейдари,Heydari,['Khosro Heydari'],Success
+53,2653,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Nigeria,NG,1. Эньяма,Enyama,['Vincent Enyeama'],Success
+54,2654,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Nigeria,NG,13. Ошанива,Oshaniva,['Juwon Oshaniwa'],Success
+55,2655,205,World Cup 2014,16.06.14,Iran vs Nigeria,2014,Nigeria,NG,14. Обоабона,Oboabona,['Godfrey Oboabona'],Success
+56,2656,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,12. Хагиги А.,A  Hagigi,['Alireza Haghighi'],Success
+57,2657,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,4. Хоссейни,Hosseini,"['Seyed Jalal Hosseini', 'Seyed Mohsen Hosseini', 'Hossein Hosseini', 'Majid Hosseini', 'Seyed Mehdi Hosseini']",Success
+58,2658,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,5. Садеги,Sadeghi,"['Amirhossein Sadeghi', 'Saeid Sadeghi', 'Amirali Sadeghi']",Success
+59,2659,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,15. Монтазери,Montazeri,['Pejman Montazeri'],Success
+60,2660,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,23. Поолади,Pooladi,['Mehrdad Pooladi'],Success
+61,2661,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,6. Некунам,Nekunam,['Javad Nekounam'],Success
+62,2662,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,14. Тимотян,Timotyan,['Andranik Teymourian'],Success
+63,2663,206,World Cup 2014,21.06.14,Argentina vs Iran,2014,Iran,IR,21. Дежага,Dejaga,['Ashkan Dejagah'],Success
+64,2664,207,World Cup 2014,22.06.14,Nigeria vs Bosnia-Herzegovina,2014,Nigeria,NG,1. Эньяма,Enyama,['Vincent Enyeama'],Success
+65,2665,207,World Cup 2014,22.06.14,Nigeria vs Bosnia-Herzegovina,2014,Nigeria,NG,13. Ошанива,Oshaniva,['Juwon Oshaniwa'],Success
+66,2666,207,World Cup 2014,22.06.14,Nigeria vs Bosnia-Herzegovina,2014,Bosnia,BA,10. Мисимович,Misimović,['Zvjezdan Misimovic'],Success
+67,2667,208,World Cup 2014,25.06.14,Nigeria vs Argentina,2014,Nigeria,NG,1. Эньяма,Enyama,['Vincent Enyeama'],Success
+68,2668,208,World Cup 2014,25.06.14,Nigeria vs Argentina,2014,Nigeria,NG,13. Ошанива,Oshaniva,['Juwon Oshaniwa'],Success
+69,2669,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Bosnia,BA,21. Хаджич,Hadzic,"['Anel Hadzic', 'Irfan Hadzic']",Success
+70,2670,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,12. Хагиги А.,A  Hagigi,['Alireza Haghighi'],Success
+71,2671,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,4. Хоссейни,Hosseini,"['Seyed Jalal Hosseini', 'Seyed Mohsen Hosseini', 'Hossein Hosseini', 'Majid Hosseini', 'Seyed Mehdi Hosseini']",Success
+72,2672,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,5. Садеги,Sadeghi,"['Amirhossein Sadeghi', 'Saeid Sadeghi', 'Amirali Sadeghi']",Success
+73,2673,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,15. Монтазери,Montazeri,['Pejman Montazeri'],Success
+74,2674,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,23. Поолади,Pooladi,['Mehrdad Pooladi'],Success
+75,2675,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,6. Некунам,Nekunam,['Javad Nekounam'],Success
+76,2676,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,14. Тимотян,Timotyan,['Andranik Teymourian'],Success
+77,2677,209,World Cup 2014,25.06.14,Bosnia-Herzegovina vs Iran,2014,Iran,IR,21. Дежага,Dejaga,['Ashkan Dejagah'],Success
+78,2678,210,World Cup 2014,16.06.14,Germany vs Portugal,2014,Portugal,PT,9. Угу Алмейда,Ugu Almeida,['Hugo Almeida'],Success
+79,2679,211,World Cup 2014,17.06.14,Ghana vs United States,2014,Ghana,GH,12. Квараси,Kwarasi,['Adam Kwarasey'],Success
+80,2680,211,World Cup 2014,17.06.14,Ghana vs United States,2014,Ghana,GH,11. Мунтари,Muntari,['Sulley Muntari'],Success
+81,2681,211,World Cup 2014,17.06.14,Ghana vs United States,2014,United States,US,7. Бисли,Bisli,['DaMarcus Beasley'],Success
+82,2682,212,World Cup 2014,21.06.14,Germany vs Ghana,2014,Ghana,GH,16. Дауда,Dispute,['Fatawu Dauda'],Success
+83,2683,212,World Cup 2014,21.06.14,Germany vs Ghana,2014,Ghana,GH,23. Аффул,Afful,"['Harrison Afful', 'Samuel Afful']",Success
+84,2684,212,World Cup 2014,21.06.14,Germany vs Ghana,2014,Ghana,GH,11. Мунтари,Muntari,['Sulley Muntari'],Success
+85,2685,213,World Cup 2014,23.06.14,United States vs Portugal,2014,United States,US,7. Бисли,Bisli,['DaMarcus Beasley'],Success
+86,2686,214,World Cup 2014,26.06.14,United States vs Germany,2014,United States,US,3. Гонсалес О.,O Gonzalez,['Omar González'],Success
+87,2687,214,World Cup 2014,26.06.14,United States vs Germany,2014,United States,US,14. Дэвис,Davis,['Brad Davis'],Success
+88,2688,214,World Cup 2014,26.06.14,United States vs Germany,2014,United States,US,7. Бисли,Bisli,['DaMarcus Beasley'],Success
+89,2689,215,World Cup 2014,26.06.14,Portugal vs Ghana,2014,Portugal,PT,20. Аморим,Ruben Amorim,['Rúben Amorim'],Success
+90,2690,215,World Cup 2014,26.06.14,Portugal vs Ghana,2014,Ghana,GH,16. Дауда,Dispute,['Fatawu Dauda'],Success
+91,2691,215,World Cup 2014,26.06.14,Portugal vs Ghana,2014,Ghana,GH,23. Аффул,Afful,"['Harrison Afful', 'Samuel Afful']",Success
+92,2692,216,World Cup 2014,17.06.14,Belgium vs Algeria,2014,Belgium,BE,15. ван Буйтен,van Buyten,['Daniel Van Buyten'],Success
+93,2693,216,World Cup 2014,17.06.14,Belgium vs Algeria,2014,Algeria,DZ,2. Бугерра,Boogerra,"['Madjid Bougherra', 'Aimen Bouguerra']",Success
+94,2694,216,World Cup 2014,17.06.14,Belgium vs Algeria,2014,Algeria,DZ,19. Таидер,Taider,['Saphir Taïder'],Success
+95,2695,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,1. Чон Сон Рен,Jeon Seong Ren,['Sung-ryong Jung'],Success
+96,2696,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,3. Юн Сук Ён,Yoon Sukyeon,['Seok-yeong Yun'],Success
+97,2697,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,5. Ким Ен Гвон,Kim Yong Gwon,['Young-gwon Kim'],Success
+98,2698,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,9. Сон Хын Мин,Sung Heung Min,['Heung-min Son'],Success
+99,2699,217,World Cup 2014,18.06.14,Russia vs South Korea,2014,Korea Republic,KR,10. Пак Чу Ён,Pak Chu Yon,['Chu-young Park'],Success

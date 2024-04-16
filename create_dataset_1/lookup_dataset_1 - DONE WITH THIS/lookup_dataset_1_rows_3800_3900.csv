@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none
+1,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,FAIL,0,0.0,True,Online Lookup Required,False,0,D Tjetjinda,none
+2,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none
+3,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none
+4,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,FAIL,0,0.0,True,Online Lookup Required,False,0,A Gebhardt,none
+5,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none
+6,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,200000.0,False,working,False,0,D Hotto,none
+7,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none
+8,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,FAIL,0,0.0,True,Online Lookup Required,False,0,W Stephanus,none
+9,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shalulile,none
+10,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,25000.0,False,working,False,0,B Shilongo,none
+11,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Naby-Moussa Yattara,250000.0,False,working,False,Naby-Moussa Yattara,N Yattara,single
+12,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Lanfia Camara,150000.0,False,working,False,Lanfia Camara,L Camara,single
+13,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,"['Fodé Camara', 'Fode Camara']",0.0,False,Large Dataset said 0,False,"['Fodé Camara', 'Fode Camara']",F Camara,multiple
+14,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Sékou Condé,0.0,False,Large Dataset had 0,False,Sékou Condé,S Condé,single
+15,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,FAIL,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Issiaga Sylla', 'Idrissa Sylla']",False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+16,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Ibrahima Conté,3000000.0,False,working,False,Ibrahima Conté,I Conté,single
+17,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Naby Keïta,1000000.0,False,working,False,Naby Keïta,N Keïta,single
+18,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Fousseni Bamba,25000.0,False,working,False,Fousseni Bamba,F Bamba,single
+19,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Oumar Diop,75000.0,False,working,False,Oumar Diop,O Diop,single
+20,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,SUCCESS,Seydouba Soumah,350000.0,False,working,False,Seydouba Soumah,S Soumah,single
+21,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Guinea,GN,2015,FAIL,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Issiaga Sylla', 'Idrissa Sylla']",False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+22,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Fabien Farnolle,500000.0,False,working,False,Fabien Farnolle,F Farnolle,single
+23,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,David Kiki,400000.0,False,working,False,David Kiki,D Kiki,single
+24,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Junior Salomon,0.0,False,Large Dataset had 0,False,Junior Salomon,J Salomon,single
+25,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Khaled Adénon,300000.0,False,working,False,Khaled Adénon,K Adénon,single
+26,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+27,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,David Djigla,300000.0,False,working,False,David Djigla,D Djigla,single
+28,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Djiman Koukou,800000.0,False,working,False,Djiman Koukou,D Koukou,single
+29,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Bello Babatounde,150000.0,False,working,False,Bello Babatounde,I Bello Babatounde,single
+30,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Stéphane Sessègnon,3000000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+31,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,FAIL,0,0.0,True,Lookup Required,False,0,M Poté,none
+32,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Benin,BJ,2015,SUCCESS,Rudy Gestede,7000000.0,False,working,False,Rudy Gestede,R Gestede,single
+33,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Daouda Diakité,150000.0,False,working,False,Daouda Diakité,D Diakité,single
+34,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Issoufou Dayo,0.0,False,Large Dataset had 0,False,Issoufou Dayo,I Dayo,single
+35,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,FAIL,Mbah Koné,0.0,True,Online Lookup Required,False,Mbah Koné,M Ko,single
+36,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Steeve Yago,1250000.0,False,working,False,Steeve Yago,S Yago,single
+37,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Bakary Koné,1500000.0,False,working,False,Bakary Koné,Bakari Kone,single
+38,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Charles Kaboré,7000000.0,False,working,False,Charles Kaboré,C Kaboré,single
+39,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Djakaridja Koné,1000000.0,False,working,False,Djakaridja Koné,D Koné,single
+40,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Jonathan Pitroipa,2500000.0,False,working,False,Jonathan Pitroipa,J Pitroipa,single
+41,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Aristide Bancé,175000.0,False,working,False,Aristide Bancé,A Bancé,single
+42,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,"['Bertrand Traoré', 'Ben Traoré']",4000000.0,False,working,False,"['Bertrand Traoré', 'Ben Traoré']",B Traoré,multiple
+43,1923,"World Cup Qualifiers, Africa, 2018",Benin vs Burkina Faso,12-11-2015,Burkina Faso,BF,2015,SUCCESS,Préjuce Nakoulma,2500000.0,False,working,False,Préjuce Nakoulma,P Nakoulma,single
+44,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Ally Mustapha,0.0,False,Large Dataset had 0,False,Ally Mustapha,A Mustapha,single
+45,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,FAIL,Haji Mnoga,0.0,True,Online Lookup Required,False,Haji Mnoga,H Mngwali,single
+46,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Kelvin Yondani,0.0,False,Large Dataset had 0,False,Kelvin Yondani,K Yondani,single
+47,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Shomari Kapombe,0.0,False,Large Dataset had 0,False,Shomari Kapombe,S Kapombe,single
+48,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Himid Mao Mkami,0.0,False,Large Dataset had 0,False,Himid Mao Mkami,H Mao,single
+49,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Mrisho Ngasa,125000.0,False,working,False,Mrisho Ngasa,M Ngassa,single
+50,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Nadir Haroub Ali,0.0,False,Large Dataset had 0,False,Nadir Haroub Ali,N Haroub,single
+51,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Said Ndemla,0.0,False,Large Dataset had 0,False,Said Ndemla,S Ndemla,single
+52,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Faridi Mussa,0.0,False,Large Dataset had 0,False,Faridi Mussa,F Mussa,single
+53,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Ally Samatta,800000.0,False,working,False,Ally Samatta,M Samatta,single
+54,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Thomas Ulimwengu,150000.0,False,working,False,Thomas Ulimwengu,T Ulimwengu,single
+55,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,FAIL,Simplex Nthala,0.0,True,Was in  DB before or after season,True,Simplex Nthala,S Nthala,single
+56,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Limbikani Mzava,300000.0,False,working,False,Limbikani Mzava,L Mzava,single
+57,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Miracle Gabeya,0.0,False,Large Dataset had 0,False,Miracle Gabeya,M Gabeya,single
+58,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Stanley Sanudi,0.0,False,Large Dataset had 0,False,Stanley Sanudi,S Sanudi,single
+59,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Yamikani Fodya,0.0,False,Large Dataset had 0,False,Yamikani Fodya,Y Fodya,single
+60,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Chimango Kayira,0.0,False,Large Dataset had 0,False,Chimango Kayira,C Kayira,single
+61,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,FAIL,0,0.0,True,Lookup Required,False,0,C Kawonga,none
+62,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,FAIL,Patrick Phiri,0.0,True,Online Lookup Required,False,Patrick Phiri,G Phiri,single
+63,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,John Banda,0.0,False,Large Dataset had 0,False,John Banda,J Banda,single
+64,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Micium Mhone,100000.0,False,working,False,Micium Mhone,M Mhone,single
+65,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Robin Ngalande,100000.0,False,working,False,Robin Ngalande,R Ngalande,single
+66,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Boniface Oluoch,0.0,False,Large Dataset had 0,False,Boniface Oluoch,B Oluoch,single
+67,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Anthony Akumu,0.0,False,Large Dataset had 0,False,Anthony Akumu,A Akumu,single
+68,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Edwin Wafula,0.0,False,Large Dataset had 0,False,Edwin Wafula,E Wafula,single
+69,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,FAIL,Haron Shakava,0.0,True,Was in  DB before or after season,True,Haron Shakava,H Shakava,single
+70,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Omar Mbongi,0.0,False,Large Dataset had 0,False,Omar Mbongi,O Mbongi,single
+71,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Johanna Omolo,350000.0,False,working,False,Johanna Omolo,J Omolo,single
+72,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Kevin Kimani,50000.0,False,working,False,Kevin Kimani,K Kimani,single
+73,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Victor Wanyama,15000000.0,False,working,False,Victor Wanyama,V Wanyama,single
+74,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Clifton Miheso,25000.0,False,working,False,Clifton Miheso,C Miheso,single
+75,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,SUCCESS,Michael Olunga,125000.0,False,working,False,Michael Olunga,M Olunga,single
+76,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Kenya,KE,2015,FAIL,-,0.0,False,Null Name,False,,-,none
+77,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Vozinha,350000.0,False,working,False,Vozinha,Vózinha,single
+78,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Carlitos,400000.0,False,working,False,Carlitos,Carlitos,single
+79,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Fernando Varela,3000000.0,False,working,False,Fernando Varela,Fernando Varela,single
+80,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Jeffry Fortes,300000.0,False,working,False,Jeffry Fortes,Jeffry Fortes,single
+81,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Kay,500000.0,False,working,False,Kay,Kay,single
+82,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Calu,500000.0,False,working,False,Calu,Calú,single
+83,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Garry Rodrigues,2500000.0,False,working,False,Garry Rodrigues,Garry Rodrigues,single
+84,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Marco Soares,400000.0,False,working,False,Marco Soares,Marco Soares,single
+85,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Djaniny,2300000.0,False,working,False,Djaniny,Djaniny,single
+86,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Nuno Rocha,1000000.0,False,working,False,Nuno Rocha,Nuno Rocha,single
+87,1925,"World Cup Qualifiers, Africa, 2018",Kenya vs Cape Verde,13-11-2015,Cape Verde,CV,2015,SUCCESS,Ryan Mendes,1500000.0,False,working,False,Ryan Mendes,Ryan Mendes,single
+88,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Fabrice Ondoa,300000.0,False,working,False,Fabrice Ondoa,F Ondoa,single
+89,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Collins Fai,1000000.0,False,working,False,Collins Fai,C Fai,single
+90,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Yaya Banana,750000.0,False,working,False,Yaya Banana,Y Banana,single
+91,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Adolphe Teikeu,400000.0,False,working,False,Adolphe Teikeu,A Teikeu,single
+92,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Serge Leuko,200000.0,False,working,False,Serge Leuko,S Leuko,single
+93,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Arnaud Djoum,500000.0,False,working,False,Arnaud Djoum,A Djoum,single
+94,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Sébastien Siani,2000000.0,False,working,False,Sébastien Siani,S Siani,single
+95,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Frank Anguissa,800000.0,False,working,False,Frank Anguissa,F Anguissa,single
+96,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Fabrice Olinga,200000.0,False,working,False,Fabrice Olinga,F Olinga,single
+97,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,FAIL,0,0.0,True,Lookup Required,False,0,J Nsamé,none
+98,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Cameroon,CM,2017,SUCCESS,Benjamin Moukandjo,4500000.0,False,working,False,Benjamin Moukandjo,B Moukandjo,single
+99,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Ikechukwu Ezenwa,0.0,False,Large Dataset had 0,False,Ikechukwu Ezenwa,I Ezenwa,single
+100,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Abdullahi Shehu,500000.0,False,working,False,Abdullahi Shehu,A Shehu,single
+101,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+102,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Leon Balogun,2000000.0,False,working,False,Leon Balogun,L Balogun,single
+103,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Elderson,2000000.0,False,working,False,Elderson,Elderson,single
+104,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Wilfred Ndidi,8000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+105,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Ogenyi Onazi,5000000.0,False,working,False,Ogenyi Onazi,O Onazi,single
+106,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Victor Moses,7000000.0,False,working,False,Victor Moses,V Moses,single
+107,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,John Obi Mikel,11000000.0,False,working,False,John Obi Mikel,J Obi Mikel,single
+108,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Moses Simon,4000000.0,False,working,False,Moses Simon,M Simon,single
+109,1926,"World Cup Qualifiers, Africa, 2018",Cameroon vs Nigeria,04-09-2017,Nigeria,NG,2017,SUCCESS,Odion Ighalo,12000000.0,False,working,False,Odion Ighalo,O Ighalo,single
+110,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Naby-Moussa Yattara,250000.0,False,working,False,Naby-Moussa Yattara,N Yattara,single
+111,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,FAIL,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Alsény Bangoura', 'Alkhaly Bangoura']",False,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",A Bangoura,multiple
+112,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,"['Fodé Camara', 'Fode Camara']",5000000.0,False,Used Large Dataset,False,"['Fodé Camara', 'Fode Camara']",F Camara,multiple
+113,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Sékou Condé,300000.0,False,working,False,Sékou Condé,S Condé,single
+114,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2000000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+115,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Ousmane Baldé,200000.0,False,working,False,Ousmane Baldé,O Baldé,single
+116,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Alkhaly Bangoura,400000.0,False,working,False,Alkhaly Bangoura,Alkhali Bangoura,single
+117,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Sadio Diallo,1250000.0,False,working,False,Sadio Diallo,S Diallo,single
+118,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,Naby Keïta,11000000.0,False,working,False,Naby Keïta,N Keïta,single
+119,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,François Kamano,2500000.0,False,working,False,François Kamano,F Kamano,single
+120,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Guinea,GN,2017,SUCCESS,"['Demba Camara', 'Daouda Camara']",1000000.0,False,working,False,"['Demba Camara', 'Daouda Camara']",D Camara,multiple
+121,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Mohamed Nashnush,150000.0,False,working,False,Mohamed Nashnush,Mohamed Nashnoush,single
+122,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,FAIL,Null,0.0,False,Null Name,False,,-,none
+123,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Mouadh Abboud,-,False,Data Ended before season : 2017,False,Mouadh Abboud,Moath Abood,single
+124,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Sanad Al Warfali,0.0,False,Large Dataset had 0,False,Sanad Al Warfali,Sanad Al-Warfali,single
+125,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Motasem Sabbou,0.0,False,Large Dataset had 0,False,Motasem Sabbou,Motasem Sabbou,single
+126,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,FAIL,0,0,True,Lookup Required,False,0,Bader Ahmed,none
+127,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,FAIL,0,0,True,Lookup Required,False,0,Elmutasem El Masrati,none
+128,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Abdussalam Tubal,0.0,False,Large Dataset had 0,False,Abdussalam Tubal,Abdussalam Tubal,single
+129,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,FAIL,Muad Allafi,0,True,Online Lookup Required,False,Muad Allafi,Mouaid Alla,single
+130,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Mohammed Al-Tarhouni,0.0,False,Large Dataset had 0,False,Mohammed Al-Tarhouni,Mohamed Al Tarhouni,single
+131,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Mohamed Anis Saltou,0.0,False,Large Dataset had 0,False,Mohamed Anis Saltou,Anis Saltou,single
+132,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",100000.0,False,working,False,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",H Ko,multiple
+133,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Patrick Malo,275000.0,False,working,False,Patrick Malo,P Malo,single
+134,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Issoufou Dayo,0.0,False,Large Dataset had 0,False,Issoufou Dayo,I Dayo,single
+135,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Bakary Koné,1500000.0,False,working,False,Bakary Koné,Bakary Koné,single
+136,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,"['Yaya Coulibaly', 'Yacouba Coulibaly']",0.0,False,Large Dataset said 0,False,"['Yaya Coulibaly', 'Yacouba Coulibaly']",Y Coulibaly,multiple
+137,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Ousmane Sylla,0.0,False,Large Dataset had 0,False,Ousmane Sylla,O Sylla,single
+138,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,FAIL,Ben Traoré,0,True,Online Lookup Required,False,Ben Traoré,B Touré,single
+139,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,"['Bertrand Traoré', 'Ben Traoré']",4000000.0,False,working,False,"['Bertrand Traoré', 'Ben Traoré']",B Traoré,multiple
+140,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Alain Traoré,1000000.0,False,working,False,Alain Traoré,Alain Traoré,single
+141,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Préjuce Nakoulma,2000000.0,False,working,False,Préjuce Nakoulma,P Nakoulma,single
+142,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Aristide Bancé,175000.0,False,working,False,Aristide Bancé,A Bancé,single
+143,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Khadim N'Diaye,150000.0,False,working,False,Khadim N'Diaye,K N'Diaye,single
+144,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Lamine Gassama,1500000.0,False,working,False,Lamine Gassama,L Gassama,single
+145,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Kara Mbodj,4500000.0,False,working,False,Kara Mbodj,K Mbodji,single
+146,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Salif Sané,5000000.0,False,working,False,Salif Sané,S Sané,single
+147,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Saliou Ciss,700000.0,False,working,False,Saliou Ciss,S Ciss,single
+148,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Cheikhou Kouyaté,12000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+149,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Idrissa Gueye,11000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+150,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",600000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",I Sarr,multiple
+151,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Badou Ndiaye,4250000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+152,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Sadio Mané,30000000.0,False,working,False,Sadio Mané,S Mané,single
+153,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Senegal,SN,2017,SUCCESS,Moussa Sow,13000000.0,False,working,False,Moussa Sow,M Sow,single
+154,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+155,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+156,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,M Bokadi,none
+157,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,W Moke,none
+158,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,N Muzinga,none
+159,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,J Maghoma,none
+160,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,C Mbemba,none
+161,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,F Mubele,none
+162,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,P M'Poku,none
+163,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,G Kakuta,none
+164,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Congo DR, DR,2017,FAIL,0,0,True,Lookup Required,False,0,C Bakambu,none
+165,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Aymen Balbouli,600000.0,False,working,False,Aymen Balbouli,Balbouli,single
+166,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Hamdi Nagguez,1000000.0,False,working,False,Hamdi Nagguez,H Nagguez,single
+167,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Rami Bedoui,450000.0,False,working,False,Rami Bedoui,R Bedoui,single
+168,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Syam Ben Youssef,1750000.0,False,working,False,Syam Ben Youssef,S Ben Youssef,single
+169,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Ali Maâloul,1000000.0,False,working,False,Ali Maâloul,A Maâloul,single
+170,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Yassine Meriah,500000.0,False,working,False,Yassine Meriah,Y Meriah,single
+171,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Ghaylen Chaalali,300000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+172,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Mohamed Amine Ben Amor,650000.0,False,working,False,Mohamed Amine Ben Amor,M Ben Amor,single
+173,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Ferjani Sassi,1100000.0,False,working,False,Ferjani Sassi,F Sassi,single
+174,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,SUCCESS,Youssef Msakni,3200000.0,False,working,False,Youssef Msakni,Y Msakni,single
+175,1929,"World Cup Qualifiers, Africa, 2018",Congo DR vs Tunisia,05-09-2017,Tunisia,TN,2017,FAIL,Yoann Touzghar,0,True,Was in  DB before or after season,True,Yoann Touzghar,Y Touzghar,single
+176,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Kassaly Daouda,0.0,False,Large Dataset had 0,False,Kassaly Daouda,D Kassaly,single
+177,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Kourouma Fatoukouma,100000.0,False,working,False,Kourouma Fatoukouma,K Fatoukouma,single
+178,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Koffi Dan Kowa,250000.0,False,working,False,Koffi Dan Kowa,K Dan Kowa,single
+179,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Mohamed Chikoto,100000.0,False,working,False,Mohamed Chikoto,M Chikoto,single
+180,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Mohamed Soumaïla,150000.0,False,working,False,Mohamed Soumaïla,M Soumaïla,single
+181,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,FAIL,0,0,True,Lookup Required,False,0,A Al Faz,none
+182,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,FAIL,Hassane Adamou,0,True,Online Lookup Required,False,Hassane Adamou,D Adamou,single
+183,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Souleymane Sacko,0.0,False,Large Dataset had 0,False,Souleymane Sacko,S Sacko,single
+184,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Amadou Moutari,150000.0,False,working,False,Amadou Moutari,A Moutari,single
+185,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Mahamane Cissé,0.0,False,Large Dataset had 0,False,Mahamane Cissé,M Cissé,single
+186,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Niger,NE,2015,SUCCESS,Moussa Maazou,2000000.0,False,working,False,Moussa Maazou,M Maâzou,single
+187,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,"['Mustaf Khalib Hussein', 'Mohamed Muhamud Hussein']",0,True,Online Lookup Required,False,"['Mustaf Khalib Hussein', 'Mohamed Muhamud Hussein']",M Hussein,multiple
+188,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,SUCCESS,Abukar Nur Abdikarim,0,False,Not in either dataset for currect season but present in both seasons around match,True,Abukar Nur Abdikarim,A Abdikarim,single
+189,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,"['Abdinasir Yusuf Ahmed', 'Ahmed Said Ahmed', 'Ayub Ahmed']",0,True,Online Lookup Required,False,"['Abdinasir Yusuf Ahmed', 'Ahmed Said Ahmed', 'Ayub Ahmed']",A Ahmed,multiple
+190,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,Mahad Mohamed Haji,0,True,Was in  DB before or after season,True,Mahad Mohamed Haji,M Haji,single
+191,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,Bile Mohiyadin Burale,0,True,Was in  DB before or after season,True,Bile Mohiyadin Burale,B Burale,single
+192,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,Hassan Hussein Ibrahim,0,True,Was in  DB before or after season,True,Hassan Hussein Ibrahim,H Ibrahim,single
+193,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,"['Abas Amin Mohamed', 'Abdi Mohamed', 'Abdiwali Abdirahman Mohamed']",0,True,Online Lookup Required,False,"['Abas Amin Mohamed', 'Abdi Mohamed', 'Abdiwali Abdirahman Mohamed']",A Mohamed,multiple
+194,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,-,0,False,Null Name,False,,-,none
+195,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,-,0,False,Null Name,False,,-,none
+196,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,-,0,False,Null Name,False,,-,none
+197,1930,"World Cup Qualifiers, Africa, 2018",Niger vs Somalia,13-10-2015,Somalia,SO,2015,FAIL,-,0,False,Null Name,False,,-,none
+198,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Vozinha,600000.0,False,working,False,Vozinha,Vózinha,single
+199,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Tiago Almeida,300000.0,False,working,False,Tiago Almeida,Tiago Almeida,single
+200,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Carlos Bebé,0.0,False,Large Dataset had 0,False,Carlos Bebé,Carlos Ponck,single
+201,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Stopira,750000.0,False,working,False,Stopira,Stopira,single
+202,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Nuno Rocha,700000.0,False,working,False,Nuno Rocha,Nuno Rocha,single
+203,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Marco Soares,500000.0,False,working,False,Marco Soares,Marco Soares,single
+204,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Babanco,200000.0,False,working,False,Babanco,Babanco,single
+205,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Wuilito Fernandes,125000.0,False,working,False,Wuilito Fernandes,Wuilito Fernandes,single
+206,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Ryan Mendes,1500000.0,False,working,False,Ryan Mendes,Ryan Mendes,single
+207,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,SUCCESS,Julio Tavarès,5000000.0,False,working,False,Julio Tavarès,Júlio Tavares,single
+208,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,Cape Verde,CV,2017,FAIL,-,0,False,Null Name,False,,-,none
+209,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Ronwen Williams,800000.0,False,working,False,Ronwen Williams,R Williams,single
+210,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Ramahlwe Mphahlele,800000.0,False,working,False,Ramahlwe Mphahlele,R Mphahlele,single
+211,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Eric Mathoho,800000.0,False,working,False,Eric Mathoho,E Mathoho,single
+212,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+213,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Tebogo Langerman,450000.0,False,working,False,Tebogo Langerman,T Langerman,single
+214,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Dean Furman,750000.0,False,working,False,Dean Furman,D Furman,single
+215,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Bongani Zungu,3500000.0,False,working,False,Bongani Zungu,B Zungu,single
+216,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Themba Zwane,1000000.0,False,working,False,Themba Zwane,T Zwane,single
+217,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Lebogang Manyama,350000.0,False,working,False,Lebogang Manyama,L Manyama,single
+218,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Keagan Dolly,1500000.0,False,working,False,Keagan Dolly,K Dolly,single
+219,1931,"World Cup Qualifiers, Africa, 2018",Cape Verde vs South Africa,01-09-2017,South Africa,ZA,2017,SUCCESS,Tokelo Rantie,600000.0,False,working,False,Tokelo Rantie,T Rantie,single
+220,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Mohamed Nashnush,150000.0,False,working,False,Mohamed Nashnush,Mohamed Nashnoush,single
+221,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Mohamed El-Munir,400000.0,False,working,False,Mohamed El-Munir,Mohamed El-Munir,single
+222,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Ossama Chtiba,100000.0,False,working,False,Ossama Chtiba,Ossama Chtiba,single
+223,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Sadiq El Fitouri,0.0,False,Large Dataset had 0,False,Sadiq El Fitouri,S El Fitouri,single
+224,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,FAIL,0,0,True,Lookup Required,False,0,Elmutasem El Masrati,none
+225,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,FAIL,0,0,True,Lookup Required,False,0,Faisal Saleh,none
+226,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Mansour Al-Bourki,100000.0,False,working,False,Mansour Al-Bourki,Mansour El Borki,single
+227,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Talal Taher Farhat,0.0,False,Large Dataset had 0,False,Talal Taher Farhat,Talal Farhat,single
+228,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Hamdou El Houni,50000.0,False,working,False,Hamdou El Houni,H El Houni,single
+229,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,SUCCESS,Mohamed Ghanudi,200000.0,False,working,False,Mohamed Ghanudi,Mohamed Al Ghanodi,single
+230,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Libya,LY,2015,FAIL,-,0,False,Null Name,False,,-,none
+231,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Eric Ndayishimiye,25000.0,False,working,False,Eric Ndayishimiye,E Ndayishimiye,single
+232,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Abouba Sibomana,0.0,False,Large Dataset had 0,False,Abouba Sibomana,A Sibomana,single
+233,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Michel Rusheshangoga,0.0,False,Large Dataset had 0,False,Michel Rusheshangoga,M Rusheshangoga,single
+234,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Salomon Nirisarike,200000.0,False,working,False,Salomon Nirisarike,S Nirisarike,single
+235,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Emery Bayisenge,0.0,False,Large Dataset had 0,False,Emery Bayisenge,E Bayisenge,single
+236,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Haruna Niyonzima,150000.0,False,working,False,Haruna Niyonzima,H Niyonzima,single
+237,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Jean-Claude Iranzi,50000.0,False,working,False,Jean-Claude Iranzi,J Iranzi,single
+238,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Jean-Baptiste Mugiraneza,100000.0,False,working,False,Jean-Baptiste Mugiraneza,J Mugiraneza,single
+239,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Yannick Mukunzi,0.0,False,Large Dataset had 0,False,Yannick Mukunzi,Y Mukunzi,single
+240,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Jacques Tuyisenge,0.0,False,Large Dataset had 0,False,Jacques Tuyisenge,J Tuyisenge,single
+241,1932,"World Cup Qualifiers, Africa, 2018",Libya vs Rwanda,13-11-2015,Rwanda,RW,2015,SUCCESS,Quentin Rushenguziminega,0.0,False,Large Dataset had 0,False,Quentin Rushenguziminega,Q Rushenguziminega,single
+242,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Vozinha,350000.0,False,working,False,Vozinha,Vózinha,single
+243,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Carlitos,400000.0,False,working,False,Carlitos,Carlitos,single
+244,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Fernando Varela,3000000.0,False,working,False,Fernando Varela,Fernando Varela,single
+245,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Kay,500000.0,False,working,False,Kay,Kay,single
+246,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Tiago Almeida,750000.0,False,working,False,Tiago Almeida,Tiago Almeida,single
+247,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Calu,500000.0,False,working,False,Calu,Calú,single
+248,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Héldon,1750000.0,False,working,False,Héldon,Héldon,single
+249,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Marco Soares,400000.0,False,working,False,Marco Soares,Marco Soares,single
+250,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Djaniny,2300000.0,False,working,False,Djaniny,Djaniny,single
+251,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Odaïr Fortes,1500000.0,False,working,False,Odaïr Fortes,Odaïr Fortes,single
+252,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Cape Verde,CV,2015,SUCCESS,Platini,300000.0,False,working,False,Platini,Platini,single
+253,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Boniface Oluoch,0.0,False,Large Dataset had 0,False,Boniface Oluoch,B Oluoch,single
+254,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,David Owino,0.0,False,Large Dataset had 0,False,David Owino,D Owino,single
+255,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Edwin Wafula,0.0,False,Large Dataset had 0,False,Edwin Wafula,E Wafula,single
+256,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,FAIL,Haron Shakava,0,True,Was in  DB before or after season,True,Haron Shakava,H Shakava,single
+257,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Omar Mbongi,0.0,False,Large Dataset had 0,False,Omar Mbongi,O Mbongi,single
+258,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Collins Okoth,0.0,False,Large Dataset had 0,False,Collins Okoth,C Okoth,single
+259,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Kevin Kimani,50000.0,False,working,False,Kevin Kimani,K Kimani,single
+260,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Victor Wanyama,15000000.0,False,working,False,Victor Wanyama,V Wanyama,single
+261,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Clifton Miheso,25000.0,False,working,False,Clifton Miheso,C Miheso,single
+262,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Eric Omondi,0.0,False,Large Dataset had 0,False,Eric Omondi,E Johana Omondi,single
+263,1933,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Kenya,17-11-2015,Kenya,KE,2015,SUCCESS,Michael Olunga,125000.0,False,working,False,Michael Olunga,M Olunga,single
+264,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none
+265,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,FAIL,0,0,True,Online Lookup Required,False,0,A Gebhardt,none
+266,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none
+267,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,FAIL,0,0,True,Online Lookup Required,False,0,D Tjetjinda,none
+268,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none
+269,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none
+270,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none
+271,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,W Gome,none
+272,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,FAIL,0,0,True,Online Lookup Required,False,0,W Stephanus,none
+273,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,25000.0,False,working,False,0,B Shilongo,none
+274,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,200000.0,False,working,False,0,D Hotto,none
+275,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Alagie Nyabally,0.0,False,Large Dataset had 0,False,Alagie Nyabally,A Nyabally,single
+276,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,FAIL,"['Abdou Jammeh', 'Adama Jammeh']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Abdou Jammeh', 'Adama Jammeh']",False,"['Abdou Jammeh', 'Adama Jammeh']",A Jammeh,multiple
+277,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Abdoulie Mansally,350000.0,False,working,False,Abdoulie Mansally,A Mansally,single
+278,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Omar Colley,700000.0,False,working,False,Omar Colley,O Colley,single
+279,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,FAIL,"['Omar Jagne', 'Saihou Jagne']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar Jagne', 'Saihou Jagne']",False,"['Omar Jagne', 'Saihou Jagne']",P Jagne,multiple
+280,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Ebrima Sohna,200000.0,False,working,False,Ebrima Sohna,E Sohna,single
+281,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Hamza Barry,500000.0,False,working,False,Hamza Barry,H Barry,single
+282,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,FAIL,"['Sanna Nyassi', 'Sainey Nyassi']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sanna Nyassi', 'Sainey Nyassi']",False,"['Sanna Nyassi', 'Sainey Nyassi']",S Nyassi,multiple
+283,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Bubacarr Trawally,500000.0,False,working,False,Bubacarr Trawally,B Trawally,single
+284,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,FAIL,"['Momodou Ceesay', 'Matarr Ceesay']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Momodou Ceesay', 'Matarr Ceesay']",False,"['Momodou Ceesay', 'Matarr Ceesay']",M Ceesay,multiple
+285,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Gambia,GM,2015,SUCCESS,Pa Dibba,450000.0,False,working,False,Pa Dibba,P Dibba,single
+286,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Richard Ofori,500000.0,False,working,False,Richard Ofori,R Ofori,single
+287,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Harrison Afful,700000.0,False,working,False,Harrison Afful,H Afful,single
+288,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Kasim Adams,5750000.0,False,working,False,Kasim Adams,K Adams,single
+289,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Daniel Amartey,5000000.0,False,working,False,Daniel Amartey,D Amartey,single
+290,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Lumor Agbenyenu,2500000.0,False,working,False,Lumor Agbenyenu,L Agbenyenu,single
+291,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Ebenezer Ofori,1000000.0,False,working,False,Ebenezer Ofori,E Ofori,single
+292,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Mubarak Wakaso,1200000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+293,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,"['Edwin Gyasi', 'Emmanuel Gyasi']",600000.0,False,working,False,"['Edwin Gyasi', 'Emmanuel Gyasi']",E Gyasi,multiple
+294,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Godfred Donsah,10000000.0,False,Used Large Dataset,False,Godfred Donsah,G Donsah,single
+295,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Nana Ampomah,1500000.0,False,working,False,Nana Ampomah,N Ampomah,single
+296,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Ghana,GH,2017,SUCCESS,Raphael Dwamena,2500000.0,False,working,False,Raphael Dwamena,R Dwamena,single
+297,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Sherif Ekramy,1000000.0,False,working,False,Sherif Ekramy,Sherif Ekramy,single
+298,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Ahmed El Mohamady,4000000.0,False,working,False,Ahmed El Mohamady,Ahmed El Mohamady,single
+299,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Ali Gabr,500000.0,False,working,False,Ali Gabr,Ali Gabr,single
+300,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,FAIL,Rami Rabia,0,True,Was in  DB before or after season,True,Rami Rabia,Rami Rabia,single
+301,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Karim Hafez,900000.0,False,working,False,Karim Hafez,Karim Hafez,single
+302,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none
+303,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Mohamed Elneny,8500000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+304,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Samy Morsy,400000.0,False,working,False,Samy Morsy,Sam Morsy,single
+305,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Ramadan Sobhi,2500000.0,False,working,False,Ramadan Sobhi,Ramadan Sobhi,single
+306,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Shikabala,600000.0,False,working,False,Shikabala,Shikabala,single
+307,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,Amr Marei,150000.0,False,Data Ended before season : 2017,False,Amr Marei,Amr Marei,single
+308,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Nhlanhla Bongani Gwebu,0.0,False,Large Dataset had 0,False,Nhlanhla Bongani Gwebu,N Gwebu,single
+309,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Machawe Dlamini,0.0,False,Large Dataset had 0,False,Machawe Dlamini,Machawe Dlamini,single
+310,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Phumlani Dlamini,0.0,False,Large Dataset had 0,False,Phumlani Dlamini,Phumlani Dlamini,single
+311,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Sifiso Mabila,0.0,False,Large Dataset had 0,False,Sifiso Mabila,S Mabila,single
+312,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Sanele Mkhweli,0.0,False,Large Dataset had 0,False,Sanele Mkhweli,S Mkhweli,single
+313,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,FAIL,"['Xolani Sikhondze', 'Banele Sikhondze']",0,True,Online Lookup Required,False,"['Xolani Sikhondze', 'Banele Sikhondze']",C Skondze,multiple
+314,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Mthunzi Mkhontfo,0.0,False,Large Dataset had 0,False,Mthunzi Mkhontfo,M Mkhontfo,single
+315,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,FAIL,Menzi Sithole,0,True,Was in  DB before or after season,True,Menzi Sithole,M Sithole,single
+316,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Njabulo Ndlovu,0.0,False,Large Dataset had 0,False,Njabulo Ndlovu,N Ndlovu,single
+317,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Zweli Nxumalo,0.0,False,Large Dataset had 0,False,Zweli Nxumalo,Z Nxumalo,single
+318,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Eswatini,SZ,2015,SUCCESS,Sandile Hlatjwako,0.0,False,Large Dataset had 0,False,Sandile Hlatjwako,S Hlatjwako,single
+319,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Guedi Hassan,0.0,False,Large Dataset had 0,False,Guedi Hassan,H Guedi,single
+320,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Daher Mohamed,0,False,Not in either dataset for currect season but present in both seasons around match,True,Daher Mohamed,D Mohamed,single
+321,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Daoud Wais,0.0,False,Large Dataset had 0,False,Daoud Wais,D Wais,single
+322,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Warsama Ibrahim Aden,0.0,False,Large Dataset had 0,False,Warsama Ibrahim Aden,Ibrahim Aden,single
+323,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Abass Abaneh Kader,0.0,False,Large Dataset had 0,False,Abass Abaneh Kader,A Kader,single
+324,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Ahmed Adar Souber,0.0,False,Large Dataset had 0,False,Ahmed Adar Souber,A Souber,single
+325,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Ibrahim Said Idriss,0.0,False,Large Dataset had 0,False,Ibrahim Said Idriss,I Idriss,single
+326,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Mohamed Liban,0.0,False,Large Dataset had 0,False,Mohamed Liban,M Liban,single
+327,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Mazag Mohamed Hassan,0.0,False,Large Dataset had 0,False,Mazag Mohamed Hassan,M Mazag,single
+328,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Omar Elmi Aboubaker,0.0,False,Large Dataset had 0,False,Omar Elmi Aboubaker,Omar Aboubaker,single
+329,1936,"World Cup Qualifiers, Africa, 2018",Eswatini vs Djibouti,17-10-2015,Djibouti,DJ,2015,SUCCESS,Ahmed Hassan Moussa,0.0,False,Large Dataset had 0,False,Ahmed Hassan Moussa,A Moussa,single
+330,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Kennedy Mweene,450000.0,False,working,False,Kennedy Mweene,K Mweene,single
+331,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Adrian Chama,0.0,False,Large Dataset had 0,False,Adrian Chama,A Chama,single
+332,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Stoppila Sunzu,1500000.0,False,working,False,Stoppila Sunzu,Stoppila Sunzu,single
+333,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Ziyo Tembo,0.0,False,Large Dataset had 0,False,Ziyo Tembo,Z Tembo,single
+334,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Fackson Kapumbu,0.0,False,Large Dataset had 0,False,Fackson Kapumbu,F Kapumbu,single
+335,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Augustine Mulenga,0.0,False,Large Dataset had 0,False,Augustine Mulenga,A Mulenga,single
+336,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Enock Mwepu,5000000.0,False,Used Large Dataset,False,Enock Mwepu,E Mwepu,single
+337,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Donashano Malama,0.0,False,Large Dataset had 0,False,Donashano Malama,D Malama,single
+338,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Fashion Sakala,0.0,False,Large Dataset had 0,False,Fashion Sakala,F Sakala,single
+339,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Brian Mwila,0.0,False,Large Dataset had 0,False,Brian Mwila,B Mwila,single
+340,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Zambia,ZM,2017,SUCCESS,Patson Daka,5000000.0,False,Used Large Dataset,False,Patson Daka,P Daka,single
+341,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Fabrice Ondoa,300000.0,False,working,False,Fabrice Ondoa,F Ondoa,single
+342,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Serge Leuko,200000.0,False,working,False,Serge Leuko,S Leuko,single
+343,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Yaya Banana,750000.0,False,working,False,Yaya Banana,Y Banana,single
+344,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Michael Ngadeu,900000.0,False,working,False,Michael Ngadeu,M Ngadeu,single
+345,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,FAIL,0,0,True,Lookup Required,False,0,N Tolo,none
+346,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Frank Anguissa,800000.0,False,working,False,Frank Anguissa,F Anguissa,single
+347,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Sébastien Siani,2000000.0,False,working,False,Sébastien Siani,S Siani,single
+348,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Olivier Boumal,800000.0,False,working,False,Olivier Boumal,O Boumal,single
+349,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Nicolas Moumi Ngamaleu,500000.0,False,working,False,Nicolas Moumi Ngamaleu,N Moumi Ngamaleu,single
+350,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Vincent Aboubakar,10500000.0,False,working,False,Vincent Aboubakar,V Aboubakar,single
+351,1937,"World Cup Qualifiers, Africa, 2018",Zambia vs Cameroon,11-11-2017,Cameroon,CM,2017,SUCCESS,Clinton N'Jie,7000000.0,False,working,False,Clinton N'Jie,C N'Jie,single
+352,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Soumbeyla Diakite,200000.0,False,working,False,Soumbeyla Diakite,Soumbeïla Diakité,single
+353,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Adama Tamboura,450000.0,False,working,False,Adama Tamboura,A Tamboura,single
+354,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Molla Wagué,600000.0,False,working,False,Molla Wagué,M Wagué,single
+355,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Ousmane Coulibaly,1000000.0,False,working,False,Ousmane Coulibaly,O Coulibaly,single
+356,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,"['Salif Coulibaly', 'Senou Coulibaly', 'Souleymane Coulibaly']",250000.0,False,working,False,"['Salif Coulibaly', 'Senou Coulibaly', 'Souleymane Coulibaly']",S Coulibaly,multiple
+357,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Bakary Sako,4000000.0,False,working,False,Bakary Sako,B Sako,single
+358,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,"['Birama Touré', 'Bassala Touré']",2000000.0,False,working,False,"['Birama Touré', 'Bassala Touré']",B Touré,multiple
+359,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Sambou Yatabaré,1750000.0,False,working,False,Sambou Yatabaré,S Yatabaré,single
+360,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Yacouba Sylla,1500000.0,False,working,False,Yacouba Sylla,Y Sylla,single
+361,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,"['Abdoulay Diaby', 'Alassane Diaby']",0.0,False,Used Large Dataset,False,"['Abdoulay Diaby', 'Alassane Diaby']",A Diaby,multiple
+362,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Mali,ML,2015,SUCCESS,Cheick Diabaté,4500000.0,False,working,False,Cheick Diabaté,C Diabaté,single
+363,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Kabelo Dambe,250000.0,False,working,False,Kabelo Dambe,K Dambe,single
+364,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Boitumelo Mafoko,150000.0,False,working,False,Boitumelo Mafoko,B Mafoko,single
+365,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Mosha Gaolaolwe,0.0,False,Large Dataset had 0,False,Mosha Gaolaolwe,M Gaolaolwe,single
+366,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Tapiwa Gadibolae,0.0,False,Large Dataset had 0,False,Tapiwa Gadibolae,T Gadibolae,single
+367,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Tebogo Sosome,0.0,False,Large Dataset had 0,False,Tebogo Sosome,T Sosome,single
+368,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Lebogang Ditsele,0.0,False,Large Dataset had 0,False,Lebogang Ditsele,L Ditsele,single
+369,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Ofentse Nato,250000.0,False,working,False,Ofentse Nato,O Nato,single
+370,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Hendrick Moyo,0.0,False,Large Dataset had 0,False,Hendrick Moyo,H Moyo,single
+371,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Joel Mogorosi,175000.0,False,working,False,Joel Mogorosi,J Mogorosi,single
+372,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Kabelo Seakanyeng,0.0,False,Large Dataset had 0,False,Kabelo Seakanyeng,K Seakanyeng,single
+373,1938,"World Cup Qualifiers, Africa, 2018",Mali vs Botswana,17-11-2015,Botswana,BW,2015,SUCCESS,Mogakolodi Ngele,350000.0,False,working,False,Mogakolodi Ngele,M Ngele,single
+374,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Tarik Getnet,0.0,False,Large Dataset had 0,False,Tarik Getnet,T Getnet,single
+375,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Aschalew Tamene,0.0,False,Large Dataset had 0,False,Aschalew Tamene,A Tamene,single
+376,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,FAIL,Nejib Sani,0,True,Was in  DB before or after season,True,Nejib Sani,N Sani,single
+377,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Salahadin Bargicho,0.0,False,Large Dataset had 0,False,Salahadin Bargicho,S Bargicho,single
+378,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Seyoum Tesfaye,0.0,False,Large Dataset had 0,False,Seyoum Tesfaye,S Tesfaye,single
+379,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Bereket Yisak,0.0,False,Large Dataset had 0,False,Bereket Yisak,B Yishak,single
+380,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Gatoch Panom,0.0,False,Large Dataset had 0,False,Gatoch Panom,G Panomo,single
+381,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Shemeles Bekele,100000.0,False,working,False,Shemeles Bekele,S Bekele,single
+382,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Aschalew Girma,0.0,False,Large Dataset had 0,False,Aschalew Girma,Aschalew Girma,single
+383,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Dawit Fekadu,0.0,False,Large Dataset had 0,False,Dawit Fekadu,D Fekadu,single
+384,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Ethiopia,ET,2015,SUCCESS,Getaneh Kebede,175000.0,False,working,False,Getaneh Kebede,G Kebede,single
+385,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,C Mafoumbi,none
+386,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,D Bissiki,none
+387,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,F N'Ganga,none
+388,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,M Baudry,none
+389,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,S Babélé,none
+390,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Online Lookup Required,False,0,D Avounou,none
+391,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,D NDinga,none
+392,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none
+393,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,F Ondama,none
+394,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,SUCCESS,0,400000.0,False,working,False,0,K Koubemba,none
+395,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,FAIL,0,0,True,Lookup Required,False,0,M Nkounkou,none
+396,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Kennedy Mweene,500000.0,False,working,False,Kennedy Mweene,K Mweene,single
+397,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Benedict Chepeshi,0.0,False,Large Dataset had 0,False,Benedict Chepeshi,B Chepeshi,single
+398,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Stoppila Sunzu,2000000.0,False,working,False,Stoppila Sunzu,Stoppila Sunzu,single
+399,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Buchizya Mfune,0.0,False,Large Dataset had 0,False,Buchizya Mfune,B Mfune,single
+400,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Boyd Mkandawire,0.0,False,Large Dataset had 0,False,Boyd Mkandawire,B Mkandawire,single
+401,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Nathan Sinkala,500000.0,False,working,False,Nathan Sinkala,N Sinkala,single
+402,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Paul Katema,0.0,False,Large Dataset had 0,False,Paul Katema,P Katema,single
+403,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Lubambo Musonda,200000.0,False,working,False,Lubambo Musonda,L Musonda,single
+404,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Collins Mbesuma,350000.0,False,working,False,Collins Mbesuma,C Mbesuma,single
+405,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Winston Kalengo,0.0,False,Large Dataset had 0,False,Winston Kalengo,W Kalengo,single
+406,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Zambia,ZM,2015,SUCCESS,Evans Kangwa,150000.0,False,working,False,Evans Kangwa,E Kangwa,single
+407,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Akram Salim,50000.0,False,working,False,Akram Salim,Akram El Hadi Salim,single
+408,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Atthar Eltahir,150000.0,False,working,False,Atthar Eltahir,Athar El Tahir,single
+409,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Amier Kamal,200000.0,False,working,False,Amier Kamal,Amir Kamal,single
+410,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Mohamed Safari,0.0,False,Large Dataset had 0,False,Mohamed Safari,Mohamed Safari,single
+411,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Abdellatif Boya,200000.0,False,working,False,Abdellatif Boya,A Boya,single
+412,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Mugahid Faroug,0.0,False,Large Dataset had 0,False,Mugahid Faroug,M Faroug,single
+413,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Ramadan Agab,200000.0,False,working,False,Ramadan Agab,Ramadan Agab,single
+414,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Mohamed Koko,0.0,False,Large Dataset had 0,False,Mohamed Koko,Mohammed Koko,single
+415,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Bakri Al Madina,250000.0,False,working,False,Bakri Al Madina,Bakri Al Madina,single
+416,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,Hamza Daoud,0.0,False,Large Dataset had 0,False,Hamza Daoud,Hamza Dawood,single
+417,1940,"World Cup Qualifiers, Africa, 2018",Zambia vs Sudan,15-11-2015,Sudan,SD,2015,SUCCESS,"['Ali Abdalla', 'Faris Abdalla', 'Sofian Abdalla']",0.0,False,Large Dataset said 0,False,"['Ali Abdalla', 'Faris Abdalla', 'Sofian Abdalla']",Abu Agla Abdalla,multiple
+418,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Chrétien Andriamifehy,0.0,False,Large Dataset had 0,False,Chrétien Andriamifehy,C Andriamifehy,single
+419,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,François Andrianomenjanahary,0.0,False,Large Dataset had 0,False,François Andrianomenjanahary,F Andrianomenjanahary,single
+420,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Tahiana Randrianarisoa,0.0,False,Large Dataset had 0,False,Tahiana Randrianarisoa,T Randrianarisoa,single
+421,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Tantely Randrianiaina,0.0,False,Large Dataset had 0,False,Tantely Randrianiaina,T Randrianiaina,single
+422,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Zenith Fenolahy,0.0,False,Large Dataset had 0,False,Zenith Fenolahy,Z Fenolahy,single
+423,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Anicet,1800000.0,False,working,False,Anicet,A Anicet,single
+424,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,FAIL,0,0,True,Lookup Required,False,0,F Dafé,none
+425,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Johann Paul,200000.0,False,working,False,Johann Paul,J Paul,single
+426,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+427,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Ima Andriatsima,250000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+428,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Madagascar,MG,2015,SUCCESS,Njiva Rakotoharimalala,0.0,False,Large Dataset had 0,False,Njiva Rakotoharimalala,N Rakotoharimalala,single
+429,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Geoffrey Lembet,250000.0,False,working,False,Geoffrey Lembet,G Lembet,single
+430,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Franklin Anzité,0.0,False,Large Dataset had 0,False,Franklin Anzité,F Anzité,single
+431,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Kelly Youga,500000.0,False,working,False,Kelly Youga,K Youga,single
+432,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Brice Zimbori-Auzingoni,150000.0,False,working,False,Brice Zimbori-Auzingoni,N Zimbori,single
+433,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Salif Kéïta,250000.0,False,working,False,Salif Kéïta,S Kéïta,single
+434,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Thérence Kéthévoama,0.0,False,Large Dataset had 0,False,Thérence Kéthévoama,T Kéthévoama,single
+435,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Éloge Enza-Yamissi,250000.0,False,working,False,Éloge Enza-Yamissi,E Enza-Yamissi,single
+436,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Foxi Kethevoama,1900000.0,False,working,False,Foxi Kethevoama,F Kéthévoama,single
+437,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Junior Gourrier,0.0,False,Large Dataset had 0,False,Junior Gourrier,J Gourrier,single
+438,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Demba Malick,0.0,False,Large Dataset had 0,False,Demba Malick,D Malick,single
+439,1941,"World Cup Qualifiers, Africa, 2018",Madagascar vs Central African Republic,13-10-2015,Central African Republic,CF,2015,SUCCESS,Eudes Dagoulou,250000.0,False,working,False,Eudes Dagoulou,E Dagoulou,single
+440,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Didier Ovono,400000.0,False,working,False,Didier Ovono,D Ovono,single
+441,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Lloyd Palun,700000.0,False,working,False,Lloyd Palun,L Palun,single
+442,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Aaron Appindangoyé,500000.0,False,working,False,Aaron Appindangoyé,A Appindangoyé,single
+443,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Bruno Ecuele Manga,3000000.0,False,working,False,Bruno Ecuele Manga,B Écuélé Manga,single
+444,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Johann Obiang,900000.0,False,working,False,Johann Obiang,J Obiang,single
+445,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,André Poko,2000000.0,False,working,False,André Poko,A Poko,single
+446,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Junior Assoumou,150000.0,False,working,False,Junior Assoumou,J Assoumou,single
+447,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Junior Oto'o,350000.0,False,working,False,Junior Oto'o,J Oto'o,single
+448,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Levy Madinda,700000.0,False,working,False,Levy Madinda,L Madinda,single
+449,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Louis Ameka,0.0,False,Large Dataset had 0,False,Louis Ameka,L Ameka,single
+450,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Gabon,GA,2017,SUCCESS,Axel Méyé,300000.0,False,working,False,Axel Méyé,A Méyé,single
+451,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,"['Djigui Diarra', 'Drissa Diarra']",0.0,False,Large Dataset said 0,False,"['Djigui Diarra', 'Drissa Diarra']",D Diarra,multiple
+452,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Falaye Sacko,450000.0,False,working,False,Falaye Sacko,F Sacko,single
+453,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Molla Wagué,1500000.0,False,working,False,Molla Wagué,M Wagué,single
+454,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Mamadou Fofana,500000.0,False,working,False,Mamadou Fofana,Mamadou Fofana,single
+455,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Youssouf Koné,150000.0,False,working,False,Youssouf Koné,Y Koné,single
+456,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Diadié Samassékou,18000000.0,False,working,False,Diadié Samassékou,D Samassékou,single
+457,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Adama Traoré,7000000.0,False,working,False,Adama Traoré,Adama Malouda Traore,single
+458,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",7000000.0,False,working,False,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",A Traoré,multiple
+459,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Yves Bissouma,8000000.0,False,working,False,Yves Bissouma,Y Bissouma,single
+460,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,"['Moussa Doumbia', 'Mamadou Doumbia']",500000.0,False,working,False,"['Moussa Doumbia', 'Mamadou Doumbia']",M Doumbia,multiple
+461,1942,"World Cup Qualifiers, Africa, 2018",Gabon vs Mali,11-11-2017,Mali,ML,2017,SUCCESS,Adama Niane,3000000.0,False,working,False,Adama Niane,A Niane,single
+462,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,H Gebregziabiher,none
+463,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,A Gebregzgabhier,none
+464,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,B Golom,none
+465,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,R Andebrahan,none
+466,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,D Alexander,none
+467,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,M Negassie,none
+468,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,Y Selomon,none
+469,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Online Lookup Required,False,0,H Goitom,none
+470,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,S Berhane,none
+471,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,-,0,False,Null Name,False,,-,none
+472,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Eritrea,ER,2015,FAIL,-,0,False,Null Name,False,,-,none
+473,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Kabelo Dambe,250000.0,False,working,False,Kabelo Dambe,K Dambe,single
+474,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Boitumelo Mafoko,150000.0,False,working,False,Boitumelo Mafoko,B Mafoko,single
+475,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Galabgwe Moyana,125000.0,False,working,False,Galabgwe Moyana,G Moyana,single
+476,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Mosha Gaolaolwe,0.0,False,Large Dataset had 0,False,Mosha Gaolaolwe,M Gaolaolwe,single
+477,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Tebogo Sosome,0.0,False,Large Dataset had 0,False,Tebogo Sosome,T Sosome,single
+478,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Lebogang Ditsele,0.0,False,Large Dataset had 0,False,Lebogang Ditsele,L Ditsele,single
+479,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Ofentse Nato,250000.0,False,working,False,Ofentse Nato,O Nato,single
+480,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Hendrick Moyo,0.0,False,Large Dataset had 0,False,Hendrick Moyo,H Moyo,single
+481,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Joel Mogorosi,175000.0,False,working,False,Joel Mogorosi,J Mogorosi,single
+482,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Kabelo Seakanyeng,0.0,False,Large Dataset had 0,False,Kabelo Seakanyeng,K Seakanyeng,single
+483,1943,"World Cup Qualifiers, Africa, 2018",Eritrea vs Botswana,10-10-2015,Botswana,BW,2015,SUCCESS,Mogakolodi Ngele,350000.0,False,working,False,Mogakolodi Ngele,M Ngele,single
+484,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Daouda Diakité,150000.0,False,working,False,Daouda Diakité,D Diakité,single
+485,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Issoufou Dayo,0.0,False,Large Dataset had 0,False,Issoufou Dayo,I Dayo,single
+486,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,FAIL,Mbah Koné,0,True,Online Lookup Required,False,Mbah Koné,M Ko,single
+487,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Steeve Yago,1250000.0,False,working,False,Steeve Yago,S Yago,single
+488,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Adama Guira,500000.0,False,working,False,Adama Guira,A Guira,single
+489,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Bakary Koné,1500000.0,False,working,False,Bakary Koné,Bakari Kone,single
+490,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Charles Kaboré,7000000.0,False,working,False,Charles Kaboré,C Kaboré,single
+491,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Jonathan Pitroipa,2500000.0,False,working,False,Jonathan Pitroipa,J Pitroipa,single
+492,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Aristide Bancé,175000.0,False,working,False,Aristide Bancé,A Bancé,single
+493,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,"['Bertrand Traoré', 'Ben Traoré']",4000000.0,False,working,False,"['Bertrand Traoré', 'Ben Traoré']",B Traoré,multiple
+494,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Burkina Faso,BF,2015,SUCCESS,Préjuce Nakoulma,2500000.0,False,working,False,Préjuce Nakoulma,P Nakoulma,single
+495,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Fabien Farnolle,500000.0,False,working,False,Fabien Farnolle,F Farnolle,single
+496,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,David Kiki,400000.0,False,working,False,David Kiki,D Kiki,single
+497,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Junior Salomon,0.0,False,Large Dataset had 0,False,Junior Salomon,J Salomon,single
+498,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+499,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Djiman Koukou,800000.0,False,working,False,Djiman Koukou,D Koukou,single
+500,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Bello Babatounde,150000.0,False,working,False,Bello Babatounde,I Bello Babatounde,single
+501,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Jordan Adéoti,1250000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+502,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Stéphane Sessègnon,3000000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+503,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Frédéric Gounongbe,1500000.0,False,working,False,Frédéric Gounongbe,F Gounongbe,single
+504,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,SUCCESS,Jodel Dossou,250000.0,False,working,False,Jodel Dossou,J Dossou,single
+505,1944,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Benin,17-11-2015,Benin,BJ,2015,FAIL,0,0,True,Lookup Required,False,0,M Poté,none
+506,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,"['Abdoulaye Diallo', 'Abdou Diallo']",1000000.0,False,working,False,"['Abdoulaye Diallo', 'Abdou Diallo']",A Diallo,multiple
+507,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Kalidou Koulibaly,20000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+508,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Kara Mbodj,4500000.0,False,working,False,Kara Mbodj,K Mbodji,single
+509,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Lamine Gassama,1500000.0,False,working,False,Lamine Gassama,L Gassama,single
+510,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Saliou Ciss,800000.0,False,working,False,Saliou Ciss,S Ciss,single
+511,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Cheikhou Kouyaté,11000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+512,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Henri Saivet,5000000.0,False,working,False,Henri Saivet,H Saivet,single
+513,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Idrissa Gueye,9000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+514,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,"['Mame Diouf', 'Marc Diouf']",8000000.0,False,working,False,"['Mame Diouf', 'Marc Diouf']",M Diouf,multiple
+515,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Moussa Konaté,6250000.0,False,working,False,Moussa Konaté,M Konaté,single
+516,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Senegal,SN,2015,SUCCESS,Sadio Mané,20000000.0,False,working,False,Sadio Mané,S Mané,single
+517,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Jean Dieu Randrianasolo,0.0,False,Large Dataset had 0,False,Jean Dieu Randrianasolo,J Randrianasolo,single
+518,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,François Andrianomenjanahary,0.0,False,Large Dataset had 0,False,François Andrianomenjanahary,F Andrianomenjanahary,single
+519,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,"['Tahiana Randrianarisoa', 'Mahavy Tiana Randrianarisoa', 'Jean Dieu Randrianasolo']",0.0,False,Large Dataset said 0,False,"['Tahiana Randrianarisoa', 'Mahavy Tiana Randrianarisoa', 'Jean Dieu Randrianasolo']",G Randrianarisoa,multiple
+520,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Tobisoa Njakanirina,0.0,False,Large Dataset had 0,False,Tobisoa Njakanirina,T Njakanirina,single
+521,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Anicet,1800000.0,False,working,False,Anicet,A Anicet,single
+522,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Dina Razanakoto,0.0,False,Large Dataset had 0,False,Dina Razanakoto,D Razanakoto,single
+523,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,FAIL,0,0,True,Lookup Required,False,0,F Dafé,none
+524,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Michael Rabeson,0.0,False,Large Dataset had 0,False,Michael Rabeson,M Rabeson,single
+525,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+526,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Ima Andriatsima,250000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+527,1945,"World Cup Qualifiers, Africa, 2018",Senegal vs Madagascar,17-11-2015,Madagascar,MG,2015,SUCCESS,Njiva Rakotoharimalala,0.0,False,Large Dataset had 0,False,Njiva Rakotoharimalala,N Rakotoharimalala,single
+528,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Didier Ovono,600000.0,False,working,False,Didier Ovono,D Ovono,single
+529,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Aaron Appindangoyé,3800000.0,False,Used Large Dataset,False,Aaron Appindangoyé,A Appindangoyé,single
+530,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Henri Ndong,400000.0,False,working,False,Henri Ndong,H Ndong,single
+531,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Johann Obiang,500000.0,False,working,False,Johann Obiang,J Obiang,single
+532,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Junior Oto'o,50000.0,False,working,False,Junior Oto'o,J Oto'o,single
+533,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Didier Ndong,500000.0,False,working,False,Didier Ndong,D Ndong,single
+534,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Levy Madinda,1000000.0,False,working,False,Levy Madinda,L Madinda,single
+535,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Mario Lemina,3000000.0,False,working,False,Mario Lemina,M Lemina,single
+536,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Merlin Tandjigora,3800000.0,False,Used Large Dataset,False,Merlin Tandjigora,M Tandjigora,single
+537,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Malick Evouna,1000000.0,False,working,False,Malick Evouna,M Evouna,single
+538,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Gabon,GA,2015,SUCCESS,Pierre-Emerick Aubameyang,17000000.0,False,working,False,Pierre-Emerick Aubameyang,P Aubameyang,single
+539,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Soarito,0.0,False,Large Dataset had 0,False,Soarito,Soarito,single
+540,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Jeitoso,0.0,False,Large Dataset had 0,False,Jeitoso,Jeitoso,single
+541,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Miró,200000.0,False,working,False,Miró,Miró,single
+542,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Zainadine,1200000.0,False,working,False,Zainadine,Zainadine Júnior,single
+543,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Clésio Baúque,100000.0,False,working,False,Clésio Baúque,Clésio Bauque,single
+544,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Jumisse,200000.0,False,working,False,Jumisse,Jumisse,single
+545,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Kito,0.0,False,Large Dataset had 0,False,Kito,Kito,single
+546,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Hélder Pelembe,75000.0,False,working,False,Hélder Pelembe,Elias Pelembe,single
+547,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,FAIL,0,0,True,Lookup Required,False,0,Gildo Vilanculos,none
+548,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Hélder Pelembe,75000.0,False,working,False,Hélder Pelembe,Hélder Pelembe,single
+549,1946,"World Cup Qualifiers, Africa, 2018",Gabon vs Mozambique,14-11-2015,Mozambique,MZ,2015,SUCCESS,Reginaldo,350000.0,False,working,False,Reginaldo,Reginaldo,single
+550,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Naby-Moussa Yattara,250000.0,False,working,False,Naby-Moussa Yattara,N Yattara,single
+551,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",0.0,False,Used Large Dataset,False,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",A Bangoura,multiple
+552,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Ibrahima Condé,0.0,False,Large Dataset had 0,False,Ibrahima Condé,I Condé,single
+553,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,FAIL,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Issiaga Sylla', 'Idrissa Sylla']",False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+554,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,"['Fodé Camara', 'Fode Camara']",-,False,Used Large Dataset,False,"['Fodé Camara', 'Fode Camara']",F Camara,multiple
+555,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Naby Keïta,27000000.0,False,working,False,Naby Keïta,N Keïta,single
+556,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Seydouba Soumah,650000.0,False,working,False,Seydouba Soumah,S Soumah,single
+557,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Sadio Diallo,2000000.0,False,working,False,Sadio Diallo,S Diallo,single
+558,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,FAIL,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Issiaga Sylla', 'Idrissa Sylla']",False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+559,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,Lonsana Doumbouya,300000.0,False,working,False,Lonsana Doumbouya,L Doumbouya,single
+560,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Guinea,GN,2016,SUCCESS,"['Mamoudou Mara', 'Mohamed Mara']",600000.0,False,working,False,"['Mamoudou Mara', 'Mohamed Mara']",M Mara,multiple
+561,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+562,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,L Mutambala,none
+563,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,G Zakuani,none
+564,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+565,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,C Mbemba,none
+566,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,B Bompunga,none
+567,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,M Tisserand,none
+568,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,N Kebano,none
+569,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,Y Bolasie,none
+570,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,F Mubele,none
+571,1947,"World Cup Qualifiers, Africa, 2018",Guinea vs Congo DR,13-11-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,D Mbokani,none
+572,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Vozinha,600000.0,False,working,False,Vozinha,Vózinha,single
+573,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Tiago Almeida,300000.0,False,working,False,Tiago Almeida,Tiago Almeida,single
+574,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Fernando Varela,3000000.0,False,working,False,Fernando Varela,Fernando Varela,single
+575,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Steven Pereira,200000.0,False,working,False,Steven Pereira,Steven Pereira,single
+576,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Stopira,750000.0,False,working,False,Stopira,Stopira,single
+577,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Babanco,200000.0,False,working,False,Babanco,Babanco,single
+578,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Carlos Bebé,0.0,False,Large Dataset had 0,False,Carlos Bebé,Carlos Ponck,single
+579,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Marco Soares,500000.0,False,working,False,Marco Soares,Marco Soares,single
+580,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Héldon,1500000.0,False,working,False,Héldon,Héldon,single
+581,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Garry Rodrigues,8000000.0,False,working,False,Garry Rodrigues,Garry Rodrigues,single
+582,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Cape Verde,CV,2017,SUCCESS,Ryan Mendes,1500000.0,False,working,False,Ryan Mendes,Ryan Mendes,single
+583,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Khadim N'Diaye,150000.0,False,working,False,Khadim N'Diaye,K N'Diaye,single
+584,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Moussa Wagué,50000.0,False,working,False,Moussa Wagué,M Wagué,single
+585,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Kara Mbodj,4500000.0,False,working,False,Kara Mbodj,K Mbodji,single
+586,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Kalidou Koulibaly,28000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+587,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Adama Mbengue,3000000.0,False,Used Large Dataset,False,Adama Mbengue,A Mbengue,single
+588,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Cheikhou Kouyaté,12000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+589,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Idrissa Gueye,11000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+590,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Sadio Mané,30000000.0,False,working,False,Sadio Mané,S Mané,single
+591,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Badou Ndiaye,4250000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+592,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Keita Baldé,13000000.0,False,working,False,Keita Baldé,K Baldé,single
+593,1948,"World Cup Qualifiers, Africa, 2018",Cape Verde vs Senegal,07-10-2017,Senegal,SN,2017,SUCCESS,Diafra Sakho,12000000.0,False,working,False,Diafra Sakho,D Sakho,single
+594,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Denis Onyango,200000.0,False,working,False,Denis Onyango,D Onyango,single
+595,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Godfrey Walusimbi,0.0,False,Large Dataset had 0,False,Godfrey Walusimbi,G Walusimbi,single
+596,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Isaac Isinde,0.0,False,Large Dataset had 0,False,Isaac Isinde,I Isinde,single
+597,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Joseph Ochaya,50000.0,False,working,False,Joseph Ochaya,J Ochaya,single
+598,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Murshid Juuko,0.0,False,Large Dataset had 0,False,Murshid Juuko,M Juuko,single
+599,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Denis Iguma,0.0,False,Large Dataset had 0,False,Denis Iguma,D Iguma,single
+600,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Farouk Miya,3800000.0,False,Used Large Dataset,False,Farouk Miya,F Miya,single
+601,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Khalid Aucho,0.0,False,Large Dataset had 0,False,Khalid Aucho,K Aucho,single
+602,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Tony Mawejje,200000.0,False,working,False,Tony Mawejje,T Mawejje,single
+603,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Geofrey Massa,175000.0,False,working,False,Geofrey Massa,G Massa,single
+604,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Uganda,UG,2015,SUCCESS,Kizito,250000.0,False,working,False,Kizito,L Kizito,single
+605,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Djehani N'Guissan,0.0,False,Large Dataset had 0,False,Djehani N'Guissan,N Djehani,single
+606,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Abdoul Gafar Mamah,500000.0,False,working,False,Abdoul Gafar Mamah,A Mamah,single
+607,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,FAIL,0,0,True,Lookup Required,False,0,D Dakonam,none
+608,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Mawouna Amevor,250000.0,False,working,False,Mawouna Amevor,M Amevor,single
+609,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Serge Akakpo,600000.0,False,working,False,Serge Akakpo,S Akakpo,single
+610,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Sadat Ouro-Akoriko,225000.0,False,working,False,Sadat Ouro-Akoriko,S Ouro-Akoriko,single
+611,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Henritse Eninful,350000.0,False,working,False,Henritse Eninful,A Eninful,single
+612,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Dové Womé,600000.0,False,working,False,Dové Womé,D Womé,single
+613,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Martin Kossivi Nouwoklo,0.0,False,Large Dataset had 0,False,Martin Kossivi Nouwoklo,N Kossivi,single
+614,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Mathieu Dossevi,4000000.0,False,working,False,Mathieu Dossevi,M Dossevi,single
+615,1949,"World Cup Qualifiers, Africa, 2018",Uganda vs Togo,15-11-2015,Togo,TG,2015,SUCCESS,Serge Gakpé,2500000.0,False,working,False,Serge Gakpé,S Gakpé,single
+616,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Carl Ikeme,750000.0,False,working,False,Carl Ikeme,C Ikeme,single
+617,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,FAIL,Abdullahi Musa,0,True,Online Lookup Required,False,Abdullahi Musa,S Abdullahi,single
+618,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Austin Oboroakpo,0.0,False,Large Dataset had 0,False,Austin Oboroakpo,A Oboroakpo,single
+619,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Efe Ambrose,3750000.0,False,working,False,Efe Ambrose,E Ambrose,single
+620,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Chima Akas,3800000.0,False,Used Large Dataset,False,Chima Akas,C Akas,single
+621,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Ogenyi Onazi,7000000.0,False,working,False,Ogenyi Onazi,O Onazi,single
+622,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,FAIL,Paul Onobi,0,True,Was in  DB before or after season,True,Paul Onobi,P Onobi,single
+623,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",12000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+624,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,FAIL,0,0,True,Lookup Required,False,0,S Igboun,none
+625,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Moses Simon,600000.0,False,working,False,Moses Simon,M Simon,single
+626,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Nigeria,NG,2015,SUCCESS,Odion Ighalo,2000000.0,False,working,False,Odion Ighalo,O Ighalo,single
+627,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Nhlanhla Bongani Gwebu,0.0,False,Large Dataset had 0,False,Nhlanhla Bongani Gwebu,N Gwebu,single
+628,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Machawe Dlamini,0.0,False,Large Dataset had 0,False,Machawe Dlamini,Machawe Dlamini,single
+629,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Siyabonga Mdluli,0.0,False,Large Dataset had 0,False,Siyabonga Mdluli,S Mdluli,single
+630,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Phumlani Dlamini,0.0,False,Large Dataset had 0,False,Phumlani Dlamini,Phumlani Dlamini,single
+631,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Sanele Mkhweli,0.0,False,Large Dataset had 0,False,Sanele Mkhweli,S Mkhweli,single
+632,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Mandla Palma,0.0,False,Large Dataset had 0,False,Mandla Palma,M Palma,single
+633,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Njabulo Ndlovu,0.0,False,Large Dataset had 0,False,Njabulo Ndlovu,N Ndlovu,single
+634,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,FAIL,"['Saneliso Dlamini', 'Sibonginkhosi Dlamini', 'Sibusiso Dlamini']",0,True,Online Lookup Required,False,"['Saneliso Dlamini', 'Sibonginkhosi Dlamini', 'Sibusiso Dlamini']",S Dlamini,multiple
+635,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Zweli Nxumalo,0.0,False,Large Dataset had 0,False,Zweli Nxumalo,Z Nxumalo,single
+636,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Mthunzi Mkhontfo,0.0,False,Large Dataset had 0,False,Mthunzi Mkhontfo,M Mkhontfo,single
+637,1950,"World Cup Qualifiers, Africa, 2018",Nigeria vs Eswatini,17-11-2015,Eswatini,SZ,2015,SUCCESS,Sandile Hlatjwako,0.0,False,Large Dataset had 0,False,Sandile Hlatjwako,S Hlatjwako,single
+638,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Munir Mohamedi,700000.0,False,working,False,Munir Mohamedi,M Mohamedi,single
+639,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Nabil Dirar,2500000.0,False,working,False,Nabil Dirar,N Dirar,single
+640,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Medhi Benatia,16000000.0,False,working,False,Medhi Benatia,M Benatia,single
+641,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Romain Saïss,4000000.0,False,working,False,Romain Saïss,R Saïss,single
+642,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Achraf Hakimi,250000.0,False,working,False,Achraf Hakimi,A Hakimi,single
+643,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Karim El Ahmadi,2500000.0,False,working,False,Karim El Ahmadi,K El Ahmadi,single
+644,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Moubarak Boussoufa,2000000.0,False,working,False,Moubarak Boussoufa,M Boussoufa,single
+645,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Nordin Amrabat,4500000.0,False,working,False,Nordin Amrabat,N Amrabat,single
+646,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Younès Belhanda,7500000.0,False,working,False,Younès Belhanda,Y Belhanda,single
+647,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Hakim Ziyech,11000000.0,False,working,False,Hakim Ziyech,H Ziyech,single
+648,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Morocco,MA,2017,SUCCESS,Khalid Boutaïb,1000000.0,False,working,False,Khalid Boutaïb,K Boutaïb,single
+649,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Yves Bitseki,150000.0,False,working,False,Yves Bitseki,Y Bitseki,single
+650,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Yoann Wachter,5000000.0,False,Used Large Dataset,False,Yoann Wachter,Y Wachter,single
+651,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Aaron Appindangoyé,500000.0,False,working,False,Aaron Appindangoyé,A Appindangoyé,single
+652,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Bruno Ecuele Manga,3000000.0,False,working,False,Bruno Ecuele Manga,B Écuélé Manga,single
+653,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Stévy Nzambé,100000.0,False,working,False,Stévy Nzambé,S Nzambè,single
+654,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Denis Bouanga,1750000.0,False,working,False,Denis Bouanga,D Bouanga,single
+655,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Didier Ndong,8000000.0,False,working,False,Didier Ndong,D Ndong,single
+656,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Merlin Tandjigora,400000.0,False,Used Large Dataset,False,Merlin Tandjigora,M Tandjigora,single
+657,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Mario Lemina,15000000.0,False,working,False,Mario Lemina,M Lemina,single
+658,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Axel Méyé,300000.0,False,working,False,Axel Méyé,A Méyé,single
+659,1951,"World Cup Qualifiers, Africa, 2018",Morocco vs Gabon,07-10-2017,Gabon,GA,2017,SUCCESS,Pierre-Emerick Aubameyang,75000000.0,False,working,False,Pierre-Emerick Aubameyang,P Aubameyang,single
+660,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Kabelo Dambe,250000.0,False,working,False,Kabelo Dambe,K Dambe,single
+661,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Boitumelo Mafoko,150000.0,False,working,False,Boitumelo Mafoko,B Mafoko,single
+662,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Galabgwe Moyana,125000.0,False,working,False,Galabgwe Moyana,G Moyana,single
+663,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Mosha Gaolaolwe,0.0,False,Large Dataset had 0,False,Mosha Gaolaolwe,M Gaolaolwe,single
+664,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Tebogo Sosome,0.0,False,Large Dataset had 0,False,Tebogo Sosome,T Sosome,single
+665,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Lebogang Ditsele,0.0,False,Large Dataset had 0,False,Lebogang Ditsele,L Ditsele,single
+666,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Ofentse Nato,250000.0,False,working,False,Ofentse Nato,O Nato,single
+667,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Hendrick Moyo,0.0,False,Large Dataset had 0,False,Hendrick Moyo,H Moyo,single
+668,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Joel Mogorosi,175000.0,False,working,False,Joel Mogorosi,J Mogorosi,single
+669,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Kabelo Seakanyeng,0.0,False,Large Dataset had 0,False,Kabelo Seakanyeng,K Seakanyeng,single
+670,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Botswana,BW,2015,SUCCESS,Mogakolodi Ngele,350000.0,False,working,False,Mogakolodi Ngele,M Ngele,single
+671,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,M Weldezgi,none
+672,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,A Gebregzgabhier,none
+673,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,R Andebrahan,none
+674,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,D Alexander,none
+675,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,F Berhe,none
+676,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,M Negassie,none
+677,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,Y Selomon,none
+678,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Online Lookup Required,False,0,H Goitom,none
+679,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,S Berhane,none
+680,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,Y Sium,none
+681,1952,"World Cup Qualifiers, Africa, 2018",Botswana vs Eritrea,13-10-2015,Eritrea,ER,2015,FAIL,0,0,True,Lookup Required,False,0,A Zegeye,none
+682,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,"['Abdoulaye Diallo', 'Abdou Diallo']",1000000.0,False,working,False,"['Abdoulaye Diallo', 'Abdou Diallo']",A Diallo,multiple
+683,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Lamine Gassama,1500000.0,False,working,False,Lamine Gassama,L Gassama,single
+684,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Kara Mbodj,4000000.0,False,working,False,Kara Mbodj,K Mbodji,single
+685,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Kalidou Koulibaly,12000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+686,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Saliou Ciss,1250000.0,False,working,False,Saliou Ciss,S Ciss,single
+687,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Cheikhou Kouyaté,11000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+688,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Idrissa Gueye,9000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+689,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Mohamed Diamé,5000000.0,False,working,False,Mohamed Diamé,M Diamé,single
+690,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Sadio Mané,18000000.0,False,working,False,Sadio Mané,S Mané,single
+691,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Moussa Konaté,7000000.0,False,working,False,Moussa Konaté,M Konaté,single
+692,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Senegal,SN,2016,SUCCESS,Keita Baldé,8500000.0,False,working,False,Keita Baldé,K Baldé,single
+693,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Vozinha,175000.0,False,working,False,Vozinha,Vózinha,single
+694,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Carlitos,350000.0,False,working,False,Carlitos,Carlitos,single
+695,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Fernando Varela,3000000.0,False,working,False,Fernando Varela,Fernando Varela,single
+696,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,"['Ricardo Silva', 'Ricardo Gomes']",100000.0,False,working,False,"['Ricardo Silva', 'Ricardo Gomes']",Ricardo,multiple
+697,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Kay,500000.0,False,working,False,Kay,Kay,single
+698,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Stopira,700000.0,False,working,False,Stopira,Stopira,single
+699,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Odaïr Fortes,400000.0,False,working,False,Odaïr Fortes,Odaïr Fortes,single
+700,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Marco Soares,500000.0,False,working,False,Marco Soares,Marco Soares,single
+701,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Sérgio Semedo,800000.0,False,working,False,Sérgio Semedo,Sérgio Semedo,single
+702,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Héldon,1000000.0,False,working,False,Héldon,Héldon,single
+703,1953,"World Cup Qualifiers, Africa, 2018",Senegal vs Cape Verde,08-10-2016,Cape Verde,CV,2016,SUCCESS,Zé Luís,5000000.0,False,working,False,Zé Luís,Zé Luís,single
+704,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Sylvain Gbohouo,0.0,False,Large Dataset had 0,False,Sylvain Gbohouo,S Gbohouo,single
+705,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Serge Aurier,10000000.0,False,working,False,Serge Aurier,S Aurier,single
+706,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Ousmane Viera,3000000.0,False,working,False,Ousmane Viera,O Viera,single
+707,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Lamine Koné,2000000.0,False,working,False,Lamine Koné,L Koné,single
+708,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Arthur Boka,1500000.0,False,Used Large Dataset,False,Arthur Boka,A Boka,single
+709,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Jean-Daniel Akpa Akpro,2000000.0,False,working,False,Jean-Daniel Akpa Akpro,J Akpa Akpro,single
+710,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Geoffroy Serey Dié,3000000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+711,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Jean Michaël Seri,1200000.0,False,working,False,Jean Michaël Seri,J Seri,single
+712,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Giovanni Sio,1500000.0,False,working,False,Giovanni Sio,G Sio,single
+713,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,"['Seydou Doumbia', 'Souleyman Doumbia']",25000000.0,False,working,False,"['Seydou Doumbia', 'Souleyman Doumbia']",S Doumbia,multiple
+714,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Cote d'Ivoire,CI,2015,SUCCESS,Gervinho,17500000.0,False,working,False,Gervinho,Y Gervinho,single
+715,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Tommy Songo,0.0,False,Large Dataset had 0,False,Tommy Songo,T Songo,single
+716,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Solomon Grimes,350000.0,False,working,False,Solomon Grimes,S Grimes,single
+717,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Teah Dennis,0.0,False,Large Dataset had 0,False,Teah Dennis,T Dennis,single
+718,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Dirkir Glay,0.0,False,Large Dataset had 0,False,Dirkir Glay,D Glay,single
+719,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Adolphus Nagbe Marshall,0.0,False,Large Dataset had 0,False,Adolphus Nagbe Marshall,A Marshall,single
+720,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Dioh Williams,300000.0,False,working,False,Dioh Williams,D Williams,single
+721,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Zah Rahan Krangar,0.0,False,Large Dataset had 0,False,Zah Rahan Krangar,Z Krangar,single
+722,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Alsény Keita,0.0,False,Large Dataset had 0,False,Alsény Keita,A Keita,single
+723,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Anthony Laffor,500000.0,False,working,False,Anthony Laffor,A Laffor,single
+724,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,William Jebor,300000.0,False,working,False,William Jebor,W Jebor,single
+725,1954,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire vs Liberia,17-11-2015,Liberia,LR,2015,SUCCESS,Sam Johnson,750000.0,False,working,False,Sam Johnson,S Johnson,single
+726,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Boniface Oluoch,0.0,False,Large Dataset had 0,False,Boniface Oluoch,B Oluoch,single
+727,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,"['Brian Onyango', 'Boniface Onyango']",200000.0,False,working,False,"['Brian Onyango', 'Boniface Onyango']",B Onyango,multiple
+728,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,David Owino,0.0,False,Large Dataset had 0,False,David Owino,D Owino,single
+729,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Edwin Wafula,0.0,False,Large Dataset had 0,False,Edwin Wafula,E Wafula,single
+730,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Dennis Odhiambo,0.0,False,Large Dataset had 0,False,Dennis Odhiambo,D Odhiambo,single
+731,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Johanna Omolo,350000.0,False,working,False,Johanna Omolo,J Omolo,single
+732,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,FAIL,Kevin Amwayi,0,True,Was in  DB before or after season,True,Kevin Amwayi,K Amwayi,single
+733,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Victor Wanyama,15000000.0,False,working,False,Victor Wanyama,V Wanyama,single
+734,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Ayub Masika,500000.0,False,working,False,Ayub Masika,A Masika,single
+735,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Eric Omondi,0.0,False,Large Dataset had 0,False,Eric Omondi,E Johana Omondi,single
+736,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Kenya,KE,2015,SUCCESS,Michael Olunga,125000.0,False,working,False,Michael Olunga,M Olunga,single
+737,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Kevin Jean-Louis,0.0,False,Large Dataset had 0,False,Kevin Jean-Louis,K Jean-Louis,single
+738,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Christopher Bazerque,0.0,False,Large Dataset had 0,False,Christopher Bazerque,C Bazerque,single
+739,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Francis Rasolofonirina,0.0,False,Large Dataset had 0,False,Francis Rasolofonirina,F Rasolofonirina,single
+740,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Marco Dorza,0.0,False,Large Dataset had 0,False,Marco Dorza,M Dorza,single
+741,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Adel Langue,0.0,False,Large Dataset had 0,False,Adel Langue,A Langue,single
+742,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Colin Bell,0.0,False,Large Dataset had 0,False,Colin Bell,C Bell,single
+743,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,FAIL,Fabrice Pithia,0,True,Was in  DB before or after season,True,Fabrice Pithia,Fabien Pithia,single
+744,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Jonathan Bru,200000.0,False,working,False,Jonathan Bru,J Bru,single
+745,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Kévin Bru,600000.0,False,working,False,Kévin Bru,K Bru,single
+746,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Kevin Perticots,0.0,False,Large Dataset had 0,False,Kevin Perticots,K Perticots,single
+747,1955,"World Cup Qualifiers, Africa, 2018",Kenya vs Mauritius,11-10-2015,Mauritius,MU,2015,SUCCESS,Jonathan Justin,125000.0,False,working,False,Jonathan Justin,J Justin,single
+748,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,FAIL,Sam Ketsekile,0,True,Was in  DB before or after season,True,Sam Ketsekile,S Ketsekile,single
+749,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Bokang Mothoana,0.0,False,Large Dataset had 0,False,Bokang Mothoana,B Mothoana,single
+750,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Basia Makepe,0.0,False,Large Dataset had 0,False,Basia Makepe,B Makepe,single
+751,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Jeremea Kamela,0.0,False,Large Dataset had 0,False,Jeremea Kamela,J Kamele,single
+752,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,FAIL,"['Mohapi Ntobo', 'Moitheri Ntobo']",0,True,Online Lookup Required,False,"['Mohapi Ntobo', 'Moitheri Ntobo']",M Ntobo,multiple
+753,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Thapelo Mokhehle,0.0,False,Large Dataset had 0,False,Thapelo Mokhehle,T Mokhehle,single
+754,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Bushi Moletsane,0.0,False,Large Dataset had 0,False,Bushi Moletsane,B Moletsane,single
+755,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Ralekoti Mokhahlane,25000.0,False,working,False,Ralekoti Mokhahlane,R Mokhahlane,single
+756,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Tsoanelo Koetle,0.0,False,Large Dataset had 0,False,Tsoanelo Koetle,T Koetle,single
+757,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Emmanuel Lekhanya,0,False,Not in either dataset for currect season but present in both seasons around match,True,Emmanuel Lekhanya,E Lekhanya,single
+758,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Lesotho,LS,2015,SUCCESS,Tsepo Seturumane,0.0,False,Large Dataset had 0,False,Tsepo Seturumane,T Seturumane,single
+759,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,"['Said Ben Boina', 'Salim Ben Boina']",0.0,False,Large Dataset said 0,False,"['Said Ben Boina', 'Salim Ben Boina']",B Boina,multiple
+760,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Ibrahim Rachidi,0.0,False,Large Dataset had 0,False,Ibrahim Rachidi,I Rachidi,single
+761,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Mohamed Youssouf,450000.0,False,working,False,Mohamed Youssouf,M Youssouf,single
+762,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Arkane Mohamed,0.0,False,Large Dataset had 0,False,Arkane Mohamed,A Mohamed,single
+763,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Ibrahim Madihali,0.0,False,Large Dataset had 0,False,Ibrahim Madihali,I Madihali,single
+764,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,FAIL,Omar M'Dahoma,0,True,Was in  DB before or after season,True,Omar M'Dahoma,O M'Dahoma,single
+765,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,FAIL,"['Nakim Youssoufa', 'Camal Youssoufa', 'Youssouf Ahamadi']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Nakim Youssoufa', 'Youssouf Ahamadi']",False,"['Nakim Youssoufa', 'Camal Youssoufa', 'Youssouf Ahamadi']",T Youssoufa,multiple
+766,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Youssouf M'Changama,200000.0,False,working,False,Youssouf M'Changama,Y M'Changama,single
+767,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Ali M'Madi,400000.0,False,working,False,Ali M'Madi,A M'Madi,single
+768,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Mohamed M'Changama,300000.0,False,working,False,Mohamed M'Changama,M M'Changama,single
+769,1956,"World Cup Qualifiers, Africa, 2018",Lesotho vs Comoros,13-10-2015,Comoros,KM,2015,SUCCESS,Youssouf Ahamadi,0.0,False,Large Dataset had 0,False,Youssouf Ahamadi,Y Ahamadi,single
+770,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Itumeleng Khune,1250000.0,False,working,False,Itumeleng Khune,I Khune,single
+771,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Thamsanqa Mkhize,750000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+772,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Morgan Gould,300000.0,False,Data Ended before season : 2017,False,Morgan Gould,M Gould,single
+773,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Clayton Daniels,500000.0,False,Data Ended before season : 2017,False,Clayton Daniels,C Daniels,single
+774,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Sifiso Hlanti,850000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+775,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Bongani Zungu,3500000.0,False,working,False,Bongani Zungu,B Zungu,single
+776,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Kamohelo Mokotjo,2500000.0,False,working,False,Kamohelo Mokotjo,K Mokotjo,single
+777,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Themba Zwane,1000000.0,False,working,False,Themba Zwane,T Zwane,single
+778,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Andile Jali,1300000.0,False,working,False,Andile Jali,A Jali,single
+779,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Sibusiso Vilakazi,1000000.0,False,working,False,Sibusiso Vilakazi,S Vilakazi,single
+780,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,South Africa,ZA,2017,SUCCESS,Percy Tau,2000000.0,False,working,False,Percy Tau,P Tau,single
+781,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",100000.0,False,working,False,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",H Ko,multiple
+782,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Patrick Malo,275000.0,False,working,False,Patrick Malo,P Malo,single
+783,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Bakary Koné,1500000.0,False,working,False,Bakary Koné,Bakary Koné,single
+784,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Steeve Yago,1250000.0,False,working,False,Steeve Yago,S Yago,single
+785,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,FAIL,"['Maxime Ouattara', 'Mohamed Ouattara', 'Mohamed Lamine Ouattara']",0,True,Online Lookup Required,False,"['Maxime Ouattara', 'Mohamed Ouattara', 'Mohamed Lamine Ouattara']",M Ouattara,multiple
+786,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,FAIL,Ben Traoré,0,True,Online Lookup Required,False,Ben Traoré,B Touré,single
+787,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Charles Kaboré,7000000.0,False,working,False,Charles Kaboré,C Kaboré,single
+788,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,"['Bertrand Traoré', 'Ben Traoré']",4000000.0,False,working,False,"['Bertrand Traoré', 'Ben Traoré']",B Traoré,multiple
+789,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Alain Traoré,1000000.0,False,working,False,Alain Traoré,Alain Traoré,single
+790,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Cyrille Bayala,300000.0,False,working,False,Cyrille Bayala,C Bayala,single
+791,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Préjuce Nakoulma,2000000.0,False,working,False,Préjuce Nakoulma,P Nakoulma,single
+792,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Signori Antonio,200000.0,False,working,False,Signori Antonio,A Signori,single
+793,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Clinton Mata,150000.0,False,working,False,Clinton Mata,Clinton Mata,single
+794,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Genséric Kusunga,300000.0,False,working,False,Genséric Kusunga,G Kusunga,single
+795,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Bastos,1000000.0,False,working,False,Bastos,Bastos,single
+796,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Natael,0.0,False,Large Dataset had 0,False,Natael,Natael,single
+797,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Jonathan Buatu,3800000.0,False,Used Large Dataset,False,Jonathan Buatu,Jonathan Buatu,single
+798,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Joaquim Adão,200000.0,False,working,False,Joaquim Adão,Joaquim Adão,single
+799,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Buá,0.0,False,Large Dataset had 0,False,Buá,Buá,single
+800,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Ary Papel,250000.0,False,working,False,Ary Papel,Ary Papel,single
+801,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Gelson Dala,3800000.0,False,Used Large Dataset,False,Gelson Dala,Gelson Dala,single
+802,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,Angola,AO,2015,SUCCESS,Djalma,2500000.0,False,Used Large Dataset,False,Djalma,Djalma,single
+803,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Jackson Mabokgwane,200000.0,False,working,False,Jackson Mabokgwane,J Mabokgwane,single
+804,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Anele Ngcongca,2500000.0,False,working,False,Anele Ngcongca,A Ngcongca,single
+805,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Eric Mathoho,850000.0,False,working,False,Eric Mathoho,E Mathoho,single
+806,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Rivaldo Coetzee,750000.0,False,working,False,Rivaldo Coetzee,R Coetzee,single
+807,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Thabo Matlaba,600000.0,False,working,False,Thabo Matlaba,T Matlaba,single
+808,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Mandla Masango,350000.0,False,working,False,Mandla Masango,M Masango,single
+809,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Andile Jali,2000000.0,False,working,False,Andile Jali,A Jali,single
+810,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Bongani Zungu,500000.0,False,working,False,Bongani Zungu,B Zungu,single
+811,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Thulani Serero,3000000.0,False,working,False,Thulani Serero,T Serero,single
+812,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Tokelo Rantie,1000000.0,False,working,False,Tokelo Rantie,T Rantie,single
+813,1958,"World Cup Qualifiers, Africa, 2018",Angola vs South Africa,13-11-2015,South Africa,ZA,2015,SUCCESS,Thamsanqa Gabuza,175000.0,False,working,False,Thamsanqa Gabuza,T Gabuza,single
+814,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Djehani N'Guissan,0.0,False,Large Dataset had 0,False,Djehani N'Guissan,N Djehani,single
+815,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Abdoul Gafar Mamah,500000.0,False,working,False,Abdoul Gafar Mamah,A Mamah,single
+816,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,FAIL,0,0,True,Lookup Required,False,0,D Dakonam,none
+817,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Mawouna Amevor,250000.0,False,working,False,Mawouna Amevor,M Amevor,single
+818,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Serge Akakpo,600000.0,False,working,False,Serge Akakpo,S Akakpo,single
+819,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Sadat Ouro-Akoriko,225000.0,False,working,False,Sadat Ouro-Akoriko,S Ouro-Akoriko,single
+820,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Alaixys Romao,1000000.0,False,working,False,Alaixys Romao,A Romao,single
+821,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Lalawélé Atakora,700000.0,False,working,False,Lalawélé Atakora,L Atakora,single
+822,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Floyd Ayité,2500000.0,False,working,False,Floyd Ayité,F Ayité,single
+823,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Jonathan Ayité,600000.0,False,working,False,Jonathan Ayité,J Ayite,single
+824,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Togo,TG,2015,SUCCESS,Mathieu Dossevi,4000000.0,False,working,False,Mathieu Dossevi,M Dossevi,single
+825,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Denis Onyango,200000.0,False,working,False,Denis Onyango,D Onyango,single
+826,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Isaac Isinde,0.0,False,Large Dataset had 0,False,Isaac Isinde,I Isinde,single
+827,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Joseph Ochaya,50000.0,False,working,False,Joseph Ochaya,J Ochaya,single
+828,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Murshid Juuko,0.0,False,Large Dataset had 0,False,Murshid Juuko,M Juuko,single
+829,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Denis Iguma,0.0,False,Large Dataset had 0,False,Denis Iguma,D Iguma,single
+830,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Farouk Miya,3800000.0,False,Used Large Dataset,False,Farouk Miya,F Miya,single
+831,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Khalid Aucho,0.0,False,Large Dataset had 0,False,Khalid Aucho,K Aucho,single
+832,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Moses Oloya,0.0,False,Large Dataset had 0,False,Moses Oloya,M Oloya,single
+833,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Tony Mawejje,200000.0,False,working,False,Tony Mawejje,T Mawejje,single
+834,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Geofrey Massa,175000.0,False,working,False,Geofrey Massa,G Massa,single
+835,1959,"World Cup Qualifiers, Africa, 2018",Togo vs Uganda,12-11-2015,Uganda,UG,2015,SUCCESS,Hamis Kiiza,0.0,False,Large Dataset had 0,False,Hamis Kiiza,H Kiiza,single
+836,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Gerard Diarra,0.0,False,Large Dataset had 0,False,Gerard Diarra,G Diarra,single
+837,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Morgan Betorangal,100000.0,False,working,False,Morgan Betorangal,M Betorangal,single
+838,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Kevin Nicaise,0.0,False,Large Dataset had 0,False,Kevin Nicaise,K Nicaise,single
+839,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,César Abaya,0.0,False,Large Dataset had 0,False,César Abaya,C Abaya,single
+840,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Beadoum Mondé,0.0,False,Large Dataset had 0,False,Beadoum Mondé,B Monde,single
+841,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Herman Doumna,0.0,False,Large Dataset had 0,False,Herman Doumna,H Doumna,single
+842,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Mahamat Labbo,50000.0,False,working,False,Mahamat Labbo,M Labbo,single
+843,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,FAIL,0,0,True,Lookup Required,False,0,N Mbaiam,none
+844,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Leger Djimrangar,0.0,False,Large Dataset had 0,False,Leger Djimrangar,L Djimrangar,single
+845,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Casimir Ninga,1500000.0,False,working,False,Casimir Ninga,C Ninga,single
+846,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Chad,TD,2015,SUCCESS,Ezechiel Ndouasel,800000.0,False,working,False,Ezechiel Ndouasel,E NDouassel,single
+847,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Ahmed El Shenawy,2000000.0,False,working,False,Ahmed El Shenawy,Ahmed Al Shenawy,single
+848,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Omar Gaber,1500000.0,False,working,False,Omar Gaber,O Gaber,single
+849,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Ahmed Dowidar,400000.0,False,working,False,Ahmed Dowidar,Ahmed Dowidar,single
+850,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Ahmed Hegazy,1000000.0,False,working,False,Ahmed Hegazy,A Hegazy,single
+851,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Sabri Rahil,400000.0,False,working,False,Sabri Rahil,Sabri Rahil,single
+852,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Mohamed Elneny,6000000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+853,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Tarek Hamed,600000.0,False,working,False,Tarek Hamed,Tarek Hamed,single
+854,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,FAIL,Mahmoud Hamada,0,True,Online Lookup Required,False,Mahmoud Hamada,Mahmoud Kahraba,single
+855,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Momen Zakaria,800000.0,False,working,False,Momen Zakaria,Momen Zakaria,single
+856,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Basem Morsy,1300000.0,False,working,False,Basem Morsy,Basem Morsy,single
+857,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Ahmed Hassan,5000000.0,False,working,False,Ahmed Hassan,Ahmed Hassan,single
+858,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Brimah Razak,700000.0,False,working,False,Brimah Razak,B Razak,single
+859,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Abdul Rahman Baba,13000000.0,False,working,False,Abdul Rahman Baba,A Baba,single
+860,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Harrison Afful,850000.0,False,working,False,Harrison Afful,H Afful,single
+861,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,John Boye,2000000.0,False,working,False,John Boye,J Boye,single
+862,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Jonathan Mensah,450000.0,False,working,False,Jonathan Mensah,J Mensah,single
+863,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,FAIL,0,0,True,Lookup Required,False,0,E Agyemang-Badu,none
+864,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Mubarak Wakaso,2500000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+865,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,André Ayew,15000000.0,False,working,False,André Ayew,A Ayew,single
+866,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Asamoah Gyan,4500000.0,False,working,False,Asamoah Gyan,A Gyan,single
+867,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Jordan Ayew,7500000.0,False,working,False,Jordan Ayew,J Ayew,single
+868,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Ghana,GH,2015,SUCCESS,Solomon Asanté,250000.0,False,working,False,Solomon Asanté,S Asante,single
+869,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,"['Said Ben Boina', 'Salim Ben Boina']",0.0,False,Large Dataset said 0,False,"['Said Ben Boina', 'Salim Ben Boina']",B Boina,multiple
+870,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Chaker Alhadhur,1250000.0,False,working,False,Chaker Alhadhur,C Alhadhur,single
+871,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Ibrahim Rachidi,0.0,False,Large Dataset had 0,False,Ibrahim Rachidi,I Rachidi,single
+872,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Kassim Abdallah,800000.0,False,working,False,Kassim Abdallah,K Abdallah,single
+873,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Arkane Mohamed,0.0,False,Large Dataset had 0,False,Arkane Mohamed,A Mohamed,single
+874,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Fouad Bachirou,300000.0,False,working,False,Fouad Bachirou,F Bachirou,single
+875,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Halifa Soulé,0.0,False,Large Dataset had 0,False,Halifa Soulé,H Soulé,single
+876,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,FAIL,Omar M'Dahoma,0,True,Was in  DB before or after season,True,Omar M'Dahoma,O M'Dahoma,single
+877,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Ali M'Madi,400000.0,False,working,False,Ali M'Madi,A M'Madi,single
+878,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Ahmed Mogni,200000.0,False,working,False,Ahmed Mogni,A Mogni,single
+879,1961,"World Cup Qualifiers, Africa, 2018",Ghana vs Comoros,17-11-2015,Comoros,KM,2015,SUCCESS,Youssouf Ahamadi,0.0,False,Large Dataset had 0,False,Youssouf Ahamadi,Y Ahamadi,single
+880,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Jackson Mabokgwane,200000.0,False,working,False,Jackson Mabokgwane,J Mabokgwane,single
+881,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Thulani Hlatshwayo,600000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+882,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Eric Mathoho,850000.0,False,working,False,Eric Mathoho,E Mathoho,single
+883,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Rivaldo Coetzee,750000.0,False,working,False,Rivaldo Coetzee,R Coetzee,single
+884,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Thabo Matlaba,600000.0,False,working,False,Thabo Matlaba,T Matlaba,single
+885,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Mandla Masango,350000.0,False,working,False,Mandla Masango,M Masango,single
+886,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Dean Furman,450000.0,False,working,False,Dean Furman,D Furman,single
+887,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Bongani Zungu,500000.0,False,working,False,Bongani Zungu,B Zungu,single
+888,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Mpho Makola,450000.0,False,working,False,Mpho Makola,M Makola,single
+889,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Tokelo Rantie,1000000.0,False,working,False,Tokelo Rantie,T Rantie,single
+890,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,South Africa,ZA,2015,SUCCESS,Thamsanqa Gabuza,175000.0,False,working,False,Thamsanqa Gabuza,T Gabuza,single
+891,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Signori Antonio,200000.0,False,working,False,Signori Antonio,A Signori,single
+892,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Isaac Correia,0.0,False,Large Dataset had 0,False,Isaac Correia,Isaac Correia,single
+893,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Fabrício,150000.0,False,working,False,Fabrício,Fabrício Mafuta,single
+894,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Bastos,1000000.0,False,working,False,Bastos,Bastos,single
+895,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,FAIL,Inácio Miguel,0,True,Online Lookup Required,False,Inácio Miguel,Miguel,single
+896,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Manucho Dinis,150000.0,False,working,False,Manucho Dinis,Manucho Dinis,single
+897,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Gomito,150000.0,False,working,False,Gomito,Gomito,single
+898,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Dolly Menga,600000.0,False,working,False,Dolly Menga,Dolly Menga,single
+899,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Dário,100000.0,False,working,False,Dário,Dário,single
+900,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Fredy,1500000.0,False,working,False,Fredy,Fredy,single
+901,1962,"World Cup Qualifiers, Africa, 2018",South Africa vs Angola,17-11-2015,Angola,AO,2015,SUCCESS,Gelson Dala,3800000.0,False,Used Large Dataset,False,Gelson Dala,Gelson Dala,single
+902,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Tarik Getnet,0.0,False,Large Dataset had 0,False,Tarik Getnet,T Getnet,single
+903,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,"['Anteneh Tesfaye', 'Addisu Tesfaye']",0.0,False,Large Dataset said 0,False,"['Anteneh Tesfaye', 'Addisu Tesfaye']",A Tesfaye,multiple
+904,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Aschalew Tamene,0.0,False,Large Dataset had 0,False,Aschalew Tamene,A Tamene,single
+905,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Seyoum Tesfaye,0.0,False,Large Dataset had 0,False,Seyoum Tesfaye,S Tesfaye,single
+906,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Tekalegn Dejene,0.0,False,Large Dataset had 0,False,Tekalegn Dejene,T Dejene,single
+907,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Bereket Yisak,0.0,False,Large Dataset had 0,False,Bereket Yisak,B Yishak,single
+908,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Gatoch Panom,0.0,False,Large Dataset had 0,False,Gatoch Panom,G Panomo,single
+909,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Shemeles Bekele,100000.0,False,working,False,Shemeles Bekele,S Bekele,single
+910,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Dawit Fekadu,0.0,False,Large Dataset had 0,False,Dawit Fekadu,D Fekadu,single
+911,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Ephrem Ashamo,0.0,False,Large Dataset had 0,False,Ephrem Ashamo,E Ashamo,single
+912,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,Ethiopia,ET,2015,SUCCESS,Ramkel Lok,0.0,False,Large Dataset had 0,False,Ramkel Lok,R Lokk,single
+913,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Dungue Lima,0.0,False,Large Dataset had 0,False,Dungue Lima,Dungui,single
+914,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Ivonaldo Viegas,0.0,False,Large Dataset had 0,False,Ivonaldo Viegas,Ivonaldo Viegas,single
+915,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,FAIL,William Barbosa,0,True,Was in  DB before or after season,True,William Barbosa,William Barbosa,single
+916,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Juary Cardoso,0.0,False,Large Dataset had 0,False,Juary Cardoso,Juary,single
+917,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Jordão Diogo,400000.0,False,working,False,Jordão Diogo,Jordão Diogo,single
+918,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Joazhifel Soares,0.0,False,Large Dataset had 0,False,Joazhifel Soares,Joazhifel Soares,single
+919,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Nay,0.0,False,Large Dataset had 0,False,Nay,Nay,single
+920,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Harramiz,300000.0,False,working,False,Harramiz,Harramiz,single
+921,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Jony Ramos,0.0,False,Large Dataset had 0,False,Jony Ramos,Jony Ramos,single
+922,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Zé Varela,0.0,False,Large Dataset had 0,False,Zé Varela,José Varela,single
+923,1963,"World Cup Qualifiers, Africa, 2018",Ethiopia vs São Tomé and Príncipe,11-10-2015,São Tomé and Príncipe,ST,2015,SUCCESS,Luís Leal,1500000.0,False,working,False,Luís Leal,L Leal,single
+924,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Robert Odongkara,0.0,False,Large Dataset had 0,False,Robert Odongkara,R Odongkara,single
+925,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Nicholas Wadada,0.0,False,Large Dataset had 0,False,Nicholas Wadada,N Wadada,single
+926,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Isaac Isinde,0.0,False,Large Dataset had 0,False,Isaac Isinde,I Isinde,single
+927,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Murshid Juuko,0.0,False,Large Dataset had 0,False,Murshid Juuko,M Juuko,single
+928,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Joseph Ochaya,50000.0,False,working,False,Joseph Ochaya,J Ochaya,single
+929,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Khalid Aucho,0.0,False,Large Dataset had 0,False,Khalid Aucho,K Aucho,single
+930,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Hassan Wasswa,300000.0,False,working,False,Hassan Wasswa,H Wasswa,single
+931,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Tony Mawejje,100000.0,False,working,False,Tony Mawejje,T Mawejje,single
+932,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Moses Oloya,200000.0,False,working,False,Moses Oloya,M Oloya,single
+933,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Geofrey Massa,250000.0,False,working,False,Geofrey Massa,G Massa,single
+934,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Uganda,UG,2016,SUCCESS,Farouk Miya,5000000.0,False,Used Large Dataset,False,Farouk Miya,F Miya,single
+935,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,W Mongondza,none
+936,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,M Baudry,none
+937,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,B Moubhio,none
+938,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,B Itoua,none
+939,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,C Bakoua,none
+940,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none
+941,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,350000.0,False,working,False,0,M Ndockyt,none
+942,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,J Massengo,none
+943,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,FAIL,0,0,True,Lookup Required,False,0,K Moukassa,none
+944,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,1250000.0,False,working,False,0,D Delarge,none
+945,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,400000.0,False,working,False,0,F Doré,none
+946,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Online Lookup Required,False,0,B Mouko,none
+947,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Lookup Required,False,0,C Dikamona,none
+948,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,50000.0,False,working,False,0,F Mayembo,none
+949,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Lookup Required,False,0,V Illoy-Ayyet,none
+950,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,300000.0,False,working,False,0,T Badila,none
+951,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Lookup Required,False,0,F Ondama,none
+952,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Lookup Required,False,0,C Gandzé,none
+953,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,FAIL,0,0,True,Online Lookup Required,False,0,D Avounou,none
+954,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,D Bahamboula,none
+955,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,F Doré,none
+956,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none
+957,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Richard Ofori,500000.0,False,working,False,Richard Ofori,R Ofori,single
+958,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Harrison Afful,700000.0,False,working,False,Harrison Afful,H Afful,single
+959,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Jonathan Mensah,800000.0,False,working,False,Jonathan Mensah,J Mensah,single
+960,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Daniel Amartey,5000000.0,False,working,False,Daniel Amartey,D Amartey,single
+961,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Lumor Agbenyenu,2500000.0,False,working,False,Lumor Agbenyenu,L Agbenyenu,single
+962,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Afriyie Acquah,2000000.0,False,working,False,Afriyie Acquah,A Acquah,single
+963,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Christian Atsu,6000000.0,False,working,False,Christian Atsu,C Atsu,single
+964,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Thomas Partey,25000000.0,False,working,False,Thomas Partey,T Partey,single
+965,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Ebenezer Ofori,1000000.0,False,working,False,Ebenezer Ofori,E Ofori,single
+966,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Thomas Agyepong,250000.0,False,working,False,Thomas Agyepong,T Agyepong,single
+967,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Ghana,GH,2017,SUCCESS,Richmond Boakye,4500000.0,False,working,False,Richmond Boakye,R Boakye,single
+968,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Soarito,0.0,False,Large Dataset had 0,False,Soarito,Soarito,single
+969,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Jeitoso,0.0,False,Large Dataset had 0,False,Jeitoso,Jeitoso,single
+970,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Miró,200000.0,False,working,False,Miró,Miró,single
+971,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Reginaldo,350000.0,False,working,False,Reginaldo,Reinildo,single
+972,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Zainadine,1200000.0,False,working,False,Zainadine,Zainadine Júnior,single
+973,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Clésio Baúque,100000.0,False,working,False,Clésio Baúque,Clésio Bauque,single
+974,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Jumisse,200000.0,False,working,False,Jumisse,Jumisse,single
+975,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Kito,0.0,False,Large Dataset had 0,False,Kito,Kito,single
+976,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Hélder Pelembe,75000.0,False,working,False,Hélder Pelembe,Elias Pelembe,single
+977,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Hélder Pelembe,75000.0,False,working,False,Hélder Pelembe,Hélder Pelembe,single
+978,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Mozambique,MZ,2015,SUCCESS,Reginaldo,350000.0,False,working,False,Reginaldo,Reginaldo,single
+979,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Didier Ovono,600000.0,False,working,False,Didier Ovono,D Ovono,single
+980,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Aaron Appindangoyé,3800000.0,False,Used Large Dataset,False,Aaron Appindangoyé,A Appindangoyé,single
+981,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Benjamin Zé Ondo,225000.0,False,working,False,Benjamin Zé Ondo,B Ze Ondo,single
+982,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Henri Ndong,400000.0,False,working,False,Henri Ndong,H Ndong,single
+983,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Junior Oto'o,50000.0,False,working,False,Junior Oto'o,J Oto'o,single
+984,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Didier Ndong,500000.0,False,working,False,Didier Ndong,D Ndong,single
+985,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Guélor Kanga,2000000.0,False,working,False,Guélor Kanga,G Kanga,single
+986,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Levy Madinda,1000000.0,False,working,False,Levy Madinda,L Madinda,single
+987,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Merlin Tandjigora,3800000.0,False,Used Large Dataset,False,Merlin Tandjigora,M Tandjigora,single
+988,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Johan Lengoualama,0.0,False,Large Dataset had 0,False,Johan Lengoualama,J Lengoualama,single
+989,1966,"World Cup Qualifiers, Africa, 2018",Mozambique vs Gabon,11-11-2015,Gabon,GA,2015,SUCCESS,Malick Evouna,1000000.0,False,working,False,Malick Evouna,M Evouna,single
+990,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+991,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,L Mutambala,none
+992,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,G Zakuani,none
+993,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+994,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,C Mbemba,none
+995,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,M Tisserand,none
+996,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,J Maghoma,none
+997,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,Y Bolasie,none
+998,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,J Bolingi,none
+999,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,J Botaka,none
+1000,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Congo DR, DR,2016,FAIL,0,0,True,Lookup Required,False,0,D Mbokani,none
+1001,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Khaled El Warfali,0.0,False,Large Dataset had 0,False,Khaled El Warfali,Khalid Warfali,single
+1002,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Mohamed El-Munir,400000.0,False,working,False,Mohamed El-Munir,Mohamed El-Munir,single
+1003,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Sanad Al Warfali,0.0,False,Large Dataset had 0,False,Sanad Al Warfali,Sanad Al-Warfali,single
+1004,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Motasem Sabbou,0.0,False,Large Dataset had 0,False,Motasem Sabbou,Motasem Sabbou,single
+1005,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Ahmad Benali,3000000.0,False,working,False,Ahmad Benali,Ahmad Ahwedi,single
+1006,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,FAIL,Ali Al-Musrat,0,True,Online Lookup Required,False,Ali Al-Musrat,Ali Al Musrati,single
+1007,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,FAIL,0,0,True,Lookup Required,False,0,Faisal Saleh,none
+1008,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Nasredeen Bin Dallah,0.0,False,Large Dataset had 0,False,Nasredeen Bin Dallah,Nasser Dalah,single
+1009,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Mohamed Ghanudi,200000.0,False,working,False,Mohamed Ghanudi,Mohamed El Gadi,single
+1010,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Hamdou El Houni,350000.0,False,working,False,Hamdou El Houni,H El Houni,single
+1011,1967,"World Cup Qualifiers, Africa, 2018",Congo DR vs Libya,08-10-2016,Libya,LY,2016,SUCCESS,Mohamed Ghanudi,200000.0,False,working,False,Mohamed Ghanudi,Mohamed Al Ghanodi,single
+1012,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Aymen Balbouli,450000.0,False,working,False,Aymen Balbouli,Balbouli,single
+1013,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,"['Ammar Jemal', 'Ali Jemal']",800000.0,False,working,False,"['Ammar Jemal', 'Ali Jemal']",A Jemal,multiple
+1014,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Ali Maâloul,700000.0,False,working,False,Ali Maâloul,A Maâloul,single
+1015,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Hamza Mathlouthi,500000.0,False,working,False,Hamza Mathlouthi,H Mathlouthi,single
+1016,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Syam Ben Youssef,1600000.0,False,working,False,Syam Ben Youssef,S Ben Youssef,single
+1017,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Ferjani Sassi,800000.0,False,working,False,Ferjani Sassi,F Sassi,single
+1018,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Karim Aouadhi,300000.0,False,working,False,Karim Aouadhi,K Aouadhi,single
+1019,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,FAIL,0,0,True,Lookup Required,False,0,M Manser,none
+1020,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Yassine Chikhaoui,2000000.0,False,working,False,Yassine Chikhaoui,Y Chikhaoui,single
+1021,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Taha Yassine Khenissi,400000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+1022,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Tunisia,TN,2015,SUCCESS,Wahbi Khazri,5500000.0,False,working,False,Wahbi Khazri,W Khazri,single
+1023,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Brahim Souleymane,0.0,False,Large Dataset had 0,False,Brahim Souleymane,B Souleymane,single
+1024,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Abdoul Ba,400000.0,False,working,False,Abdoul Ba,Abdoul Ba,single
+1025,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Moustapha Diaw,0.0,False,Large Dataset had 0,False,Moustapha Diaw,M Diaw,single
+1026,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,"['Mamadou Idrissa Wade', 'Mohamed Wade']",0.0,False,Used Large Dataset,False,"['Mamadou Idrissa Wade', 'Mohamed Wade']",M Wade,multiple
+1027,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Oumar N'Diaye,0.0,False,Large Dataset had 0,False,Oumar N'Diaye,O N'Diaye,single
+1028,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Adama Ba,500000.0,False,working,False,Adama Ba,Adama Ba,single
+1029,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Diallo Guidileye,800000.0,False,working,False,Diallo Guidileye,D Guidileye,single
+1030,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Khassa Camara,250000.0,False,working,False,Khassa Camara,K Camara,single
+1031,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Yali Dellahi,0.0,False,Large Dataset had 0,False,Yali Dellahi,M Yali Dellahi,single
+1032,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,SUCCESS,Ismail Diakite,250000.0,False,working,False,Ismail Diakite,I Diakhité,single
+1033,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,17-11-2015,Mauritania,MR,2015,FAIL,0,0,True,Lookup Required,False,0,M Khalil,none
+1034,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,FAIL,Simplex Nthala,0,True,Was in  DB before or after season,True,Simplex Nthala,S Nthala,single
+1035,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Limbikani Mzava,300000.0,False,working,False,Limbikani Mzava,L Mzava,single
+1036,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Miracle Gabeya,0.0,False,Large Dataset had 0,False,Miracle Gabeya,M Gabeya,single
+1037,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Stanley Sanudi,0.0,False,Large Dataset had 0,False,Stanley Sanudi,S Sanudi,single
+1038,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Yamikani Fodya,0.0,False,Large Dataset had 0,False,Yamikani Fodya,Y Fodya,single
+1039,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Chimango Kayira,0.0,False,Large Dataset had 0,False,Chimango Kayira,C Kayira,single
+1040,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,FAIL,Patrick Phiri,0,True,Online Lookup Required,False,Patrick Phiri,G Phiri,single
+1041,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,John Banda,0.0,False,Large Dataset had 0,False,John Banda,J Banda,single
+1042,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Micium Mhone,100000.0,False,working,False,Micium Mhone,M Mhone,single
+1043,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Schumacher Kuwali,0.0,False,Large Dataset had 0,False,Schumacher Kuwali,S Kuwali,single
+1044,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Chiukepo Msowoya,225000.0,False,working,False,Chiukepo Msowoya,C Msowoya,single
+1045,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Ally Mustapha,0.0,False,Large Dataset had 0,False,Ally Mustapha,A Mustapha,single
+1046,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,FAIL,Haji Mnoga,0,True,Online Lookup Required,False,Haji Mnoga,H Mngwali,single
+1047,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Kelvin Yondani,0.0,False,Large Dataset had 0,False,Kelvin Yondani,K Yondani,single
+1048,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Shomari Kapombe,0.0,False,Large Dataset had 0,False,Shomari Kapombe,S Kapombe,single
+1049,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Himid Mao Mkami,0.0,False,Large Dataset had 0,False,Himid Mao Mkami,H Mao,single
+1050,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Nadir Haroub Ali,0.0,False,Large Dataset had 0,False,Nadir Haroub Ali,N Haroub,single
+1051,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Said Ndemla,0.0,False,Large Dataset had 0,False,Said Ndemla,S Ndemla,single
+1052,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,FAIL,0,0,True,Lookup Required,False,0,Y Abbas,none
+1053,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Faridi Mussa,0.0,False,Large Dataset had 0,False,Faridi Mussa,F Mussa,single
+1054,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Ally Samatta,800000.0,False,working,False,Ally Samatta,M Samatta,single
+1055,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Thomas Ulimwengu,150000.0,False,working,False,Thomas Ulimwengu,T Ulimwengu,single
+1056,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Mohamed Nashnush,150000.0,False,working,False,Mohamed Nashnush,Mohamed Nashnoush,single
+1057,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,FAIL,Null,0,False,Null Name,False,,-,none
+1058,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Mouadh Abboud,-,False,Data Ended before season : 2017,False,Mouadh Abboud,Moath Abood,single
+1059,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Sanad Al Warfali,0.0,False,Large Dataset had 0,False,Sanad Al Warfali,Sanad Al-Warfali,single
+1060,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Motasem Sabbou,0.0,False,Large Dataset had 0,False,Motasem Sabbou,Motasem Sabbou,single
+1061,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,FAIL,0,0,True,Lookup Required,False,0,Bader Ahmed,none
+1062,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Mohamed Ghanudi,200000.0,False,working,False,Mohamed Ghanudi,Mohamed El Gadi,single
+1063,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Mohammed Al-Tarhouni,0.0,False,Large Dataset had 0,False,Mohammed Al-Tarhouni,Mohamed Al Tarhouni,single
+1064,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,FAIL,Muad Allafi,0,True,Online Lookup Required,False,Muad Allafi,Mouaid Alla,single
+1065,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Akram Zuway,100000.0,False,working,False,Akram Zuway,Akram Zuway,single
+1066,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Hamdou El Houni,350000.0,False,working,False,Hamdou El Houni,H El Houni,single
+1067,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Naby-Moussa Yattara,250000.0,False,working,False,Naby-Moussa Yattara,N Yattara,single
+1068,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,FAIL,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Alsény Bangoura', 'Alkhaly Bangoura']]",False,"['Alsény Bangoura', 'Alkhaly Bangoura', 'Aboubacar Bangoura']",A Bangoura,multiple
+1069,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,"['Fodé Camara', 'Fode Camara']",5000000.0,False,Used Large Dataset,False,"['Fodé Camara', 'Fode Camara']",F Camara,multiple
+1070,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Ibrahima Conté,5000000.0,False,Used Large Dataset,False,Ibrahima Conté,I Conté,single
+1071,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2000000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+1072,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Ousmane Baldé,200000.0,False,working,False,Ousmane Baldé,O Baldé,single
+1073,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Sadio Diallo,1250000.0,False,working,False,Sadio Diallo,S Diallo,single
+1074,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Alkhaly Bangoura,400000.0,False,working,False,Alkhaly Bangoura,Alkhali Bangoura,single
+1075,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,Naby Keïta,11000000.0,False,working,False,Naby Keïta,N Keïta,single
+1076,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,François Kamano,2500000.0,False,working,False,François Kamano,F Kamano,single
+1077,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Guinea,GN,2017,SUCCESS,"['Demba Camara', 'Daouda Camara']",1000000.0,False,working,False,"['Demba Camara', 'Daouda Camara']",D Camara,multiple
+1078,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",100000.0,False,working,False,"['Mbah Koné', 'Hervé Koffi', 'Hillel Konaté']",H Ko,multiple
+1079,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Patrick Malo,275000.0,False,working,False,Patrick Malo,P Malo,single
+1080,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Issoufou Dayo,0.0,False,Large Dataset had 0,False,Issoufou Dayo,I Dayo,single
+1081,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Steeve Yago,1250000.0,False,working,False,Steeve Yago,S Yago,single
+1082,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,"['Yaya Coulibaly', 'Yacouba Coulibaly']",0.0,False,Large Dataset said 0,False,"['Yaya Coulibaly', 'Yacouba Coulibaly']",Y Coulibaly,multiple
+1083,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,FAIL,Ben Traoré,0,True,Online Lookup Required,False,Ben Traoré,B Touré,single
+1084,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Charles Kaboré,7000000.0,False,working,False,Charles Kaboré,C Kaboré,single
+1085,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,"['Bertrand Traoré', 'Ben Traoré']",4000000.0,False,working,False,"['Bertrand Traoré', 'Ben Traoré']",B Traoré,multiple
+1086,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Alain Traoré,1000000.0,False,working,False,Alain Traoré,Alain Traoré,single
+1087,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Hassane Bandé,5000000.0,False,Used Large Dataset,False,Hassane Bandé,H Bandé,single
+1088,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Préjuce Nakoulma,2000000.0,False,working,False,Préjuce Nakoulma,P Nakoulma,single
+1089,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Mário Évora,5000000.0,False,Used Large Dataset,False,Mário Évora,Mário Évora,single
+1090,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Steven Pereira,200000.0,False,working,False,Steven Pereira,Steven Pereira,single
+1091,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Carlos Bebé,0.0,False,Large Dataset had 0,False,Carlos Bebé,Carlos Ponck,single
+1092,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Fernando Varela,3000000.0,False,working,False,Fernando Varela,Fernando Varela,single
+1093,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Stopira,750000.0,False,working,False,Stopira,Stopira,single
+1094,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Marco Soares,500000.0,False,working,False,Marco Soares,Marco Soares,single
+1095,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Danilson da Cruz,1500000.0,False,working,False,Danilson da Cruz,Danilson,single
+1096,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Babanco,200000.0,False,working,False,Babanco,Babanco,single
+1097,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Ryan Mendes,1500000.0,False,working,False,Ryan Mendes,Ryan Mendes,single
+1098,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Garry Rodrigues,8000000.0,False,working,False,Garry Rodrigues,Garry Rodrigues,single
+1099,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Cape Verde,CV,2017,SUCCESS,Julio Tavarès,5000000.0,False,working,False,Julio Tavarès,Júlio Tavares,single

@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,"['Claudio Bravo', 'Christian Bravo']",1000000.0,False,Used Large Dataset,False,"['Claudio Bravo', 'Christian Bravo']",Bravo,multiple
+1,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Eugenio Mena,950000.0,False,working,False,Eugenio Mena,Mena,single
+2,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Mauricio Isla,1500000.0,False,Data Ended before season : 2021,False,Mauricio Isla,Isla,single
+3,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Francisco Sierralta,350000.0,False,working,False,Francisco Sierralta,Sierralta,single
+4,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,"['Tomás Alarcón', 'Williams Alarcón']",850000.0,False,working,False,"['Tomás Alarcón', 'Williams Alarcón']",Alarcón,multiple
+5,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,"['Gary Medel', 'Marco Medel']",1500000.0,False,working,False,"['Gary Medel', 'Marco Medel']",Medel,multiple
+6,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,César Pinares,1500000.0,False,Used Large Dataset,False,César Pinares,Pinares,single
+7,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Arturo Vidal,2000000.0,False,Used Large Dataset,False,Arturo Vidal,Vidal,single
+8,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Charles Aránguiz,3500000.0,False,Used Large Dataset,False,Charles Aránguiz,C Aranguiz,single
+9,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",4500000.0,False,Data Ended before season : 2021,False,"['Eduardo Vargas', 'Miguel Vargas', 'Jeisson Vargas']",Vargas,multiple
+10,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Chile,CL,2021,SUCCESS,Ben Brereton Díaz,3500000.0,False,working,False,Ben Brereton Díaz,Brereton,single
+11,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Antony Silva,500000.0,False,working,False,Antony Silva,A Silva,single
+12,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Júnior Alonso,0,False,Not in either dataset for currect season but present in both seasons around match,True,Júnior Alonso,J Alonso,single
+13,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,FAIL,"['Juan Espínola', 'Alberto Espínola']",0,True,Online Lookup Required,False,"['Juan Espínola', 'Alberto Espínola']",Espínola,multiple
+14,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,"['Santiago Arzamendia', 'Marino Arzamendia']",5000000.0,False,working,False,"['Santiago Arzamendia', 'Marino Arzamendia']",Arzamendia,multiple
+15,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Gustavo Gómez,4500000.0,False,working,False,Gustavo Gómez,Gu Gómez,single
+16,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Hugo Martínez,-,False,Data Ended before season : 2021,False,Hugo Martínez,H Martínez,single
+17,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Miguel Almirón,16000000.0,False,working,False,Miguel Almirón,Almirón,single
+18,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Ángel Cardozo Lucena,1500000.0,False,working,False,Ángel Cardozo Lucena,Cardozo Lucena,single
+19,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Mathías Villasanti,4000000.0,False,working,False,Mathías Villasanti,Villasanti,single
+20,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,"['Miguel Samudio', 'Braian Samudio']",1800000.0,False,Data Ended before season : 2021,False,"['Miguel Samudio', 'Braian Samudio']",Samudio,multiple
+21,1314,Copa America 2021,Chile vs Paraguay,25.06.21,Paraguay,PY,2021,SUCCESS,Carlos González,0,False,Not in either dataset for currect season but present in both seasons around match,True,Carlos González,C González,single
+22,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Carlos Lampe,400000.0,False,working,False,Carlos Lampe,Lampe Carlos,single
+23,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Luis Haquín,300000.0,False,working,False,Luis Haquín,Haquin,single
+24,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Adrián Jusino,400000.0,False,working,False,Adrián Jusino,Jusino,single
+25,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Erwin Saavedra,1200000.0,False,working,False,Erwin Saavedra,Saavedra,single
+26,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,FAIL,0,0,True,Lookup Required,False,0,Fernández Toro,none
+27,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Diego Bejarano,550000.0,False,working,False,Diego Bejarano,Di Bejarano,single
+28,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Boris Céspedes,0,False,Not in either dataset for currect season but present in both seasons around match,True,Boris Céspedes,B Cespedes,single
+29,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Ramiro Vaca,325000.0,False,working,False,Ramiro Vaca,R Vaca,single
+30,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Jeyson Chura,0.0,False,Large Dataset had 0,False,Jeyson Chura,Chura,single
+31,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",475000.0,False,working,False,"['Henry Justiniano', 'Leonel Justiniano', 'Guimer Justiniano']",Justiniano,multiple
+32,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Bolivia,BO,2021,SUCCESS,Gilbert Álvarez,600000.0,False,Data Ended before season : 2021,False,Gilbert Álvarez,G Álvarez,single
+33,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Franco Armani,6000000.0,False,working,False,Franco Armani,Armani,single
+34,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Gonzalo Montiel,8000000.0,False,working,False,Gonzalo Montiel,Montiel,single
+35,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Germán Pezzella,13000000.0,False,working,False,Germán Pezzella,G Pezzella,single
+36,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Lisandro Martínez,20000000.0,False,working,False,Lisandro Martínez,Li Martínez,single
+37,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,"['Gonzalo Rodríguez', 'Guido Rodríguez']",12000000.0,False,working,False,"['Gonzalo Rodríguez', 'Guido Rodríguez']",G Rodríguez,multiple
+38,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Marcos Acuña,12000000.0,False,working,False,Marcos Acuña,Acuña,single
+39,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Exequiel Palacios,18000000.0,False,working,False,Exequiel Palacios,Ex Palacios,single
+40,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Ángel Correa,40000000.0,False,working,False,Ángel Correa,Angel Correa,single
+41,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Sergio Agüero,-,False,Used Large Dataset,False,Sergio Agüero,Aguero,single
+42,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Lionel Messi,100000000.0,False,working,False,Lionel Messi,Messi,single
+43,1315,Copa America 2021,Bolivia vs Argentina,29.06.21,Argentina,AR,2021,SUCCESS,Alejandro Garnacho,-,False,Used Large Dataset,False,Alejandro Garnacho,Alejandro Gomez,single
+44,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Fernando Muslera,3500000.0,False,working,False,Fernando Muslera,Muslera,single
+45,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,José María Giménez,70000000.0,False,working,False,José María Giménez,Gimenez Jose,single
+46,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Diego Godín,2500000.0,False,working,False,Diego Godín,Godin,single
+47,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Matías Viña,4000000.0,False,working,False,Matías Viña,Viña,single
+48,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Matías Vecino,12000000.0,False,working,False,Matías Vecino,Vecino,single
+49,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Nicolás de la Cruz,12000000.0,False,working,False,Nicolás de la Cruz,De La Cruz,single
+50,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Nahitan Nández,13000000.0,False,Used Large Dataset,False,Nahitan Nández,N Nandez,single
+51,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Giorgian de Arrascaeta,15000000.0,False,working,False,Giorgian de Arrascaeta,De Arrascaeta,single
+52,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Edinson Cavani,12000000.0,False,working,False,Edinson Cavani,Cavani,single
+53,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Rodrigo Bentancur,46000000.0,False,working,False,Rodrigo Bentancur,Bentancur,single
+54,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Uruguay,UY,2021,SUCCESS,Federico Valverde,70000000.0,False,working,False,Federico Valverde,F Valverde,single
+55,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Antony Silva,500000.0,False,working,False,Antony Silva,A Silva,single
+56,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,FAIL,"['Robert Rojas', 'Rodrigo Rojas']",0,True,Online Lookup Required,False,"['Robert Rojas', 'Rodrigo Rojas']",R Rojas,multiple
+57,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Omar Alderete,6500000.0,False,working,False,Omar Alderete,Alderete,single
+58,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Júnior Alonso,0,False,Not in either dataset for currect season but present in both seasons around match,True,Júnior Alonso,J Alonso,single
+59,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,FAIL,"['Juan Espínola', 'Alberto Espínola']",0,True,Was in  DB before or after season,True,"['Juan Espínola', 'Alberto Espínola']",Espínola,multiple
+60,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Gastón Giménez,0,False,Not in either dataset for currect season but present in both seasons around match,True,Gastón Giménez,G Giménez,single
+61,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Miguel Almirón,16000000.0,False,working,False,Miguel Almirón,Almirón,single
+62,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Mathías Villasanti,4000000.0,False,working,False,Mathías Villasanti,Villasanti,single
+63,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Gabriel Ávalos,475000.0,False,working,False,Gabriel Ávalos,Ávalos,single
+64,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,Ángel Romero,3200000.0,False,working,False,Ángel Romero,Án Romero,single
+65,1316,Copa America 2021,Uruguay vs Paraguay,29.06.21,Paraguay,PY,2021,SUCCESS,"['Miguel Samudio', 'Braian Samudio']",1800000.0,False,Data Ended before season : 2021,False,"['Miguel Samudio', 'Braian Samudio']",Samudio,multiple
+66,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Alisson,80000000.0,False,working,False,Alisson,Alisson,single
+67,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+68,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+69,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Éder Militão,40000000.0,False,working,False,Éder Militão,Militão,single
+70,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Renan Lodi,30000000.0,False,Used Large Dataset,False,Renan Lodi,Renan Lodi,single
+71,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Casemiro,65000000.0,False,working,False,Casemiro,Casimiro,single
+72,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Lucas Paquetá,20000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+73,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+74,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+75,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+76,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+77,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Joel Graterol,400000.0,False,working,False,Joel Graterol,Graterol,single
+78,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Luis Mago,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Mago,Mago,single
+79,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Alexander González,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander González,Al Gonzalez,single
+80,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Adrián Martínez,200000.0,False,Data Ended before season : 2021,False,Adrián Martínez,Ad Martínez,single
+81,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,FAIL,"['Júnior Moreno', 'Johan Moreno']",0,True,Online Lookup Required,False,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+82,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Francisco La Mantia,350000.0,False,Data Ended before season : 2021,False,Francisco La Mantia,La Mantia,single
+83,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,"['Josef Martínez', 'José Martínez']",600000.0,False,working,False,"['Josef Martínez', 'José Martínez']",J Martínez,multiple
+84,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Cristian Cásseres Jr.,2000000.0,False,working,False,Cristian Cásseres Jr.,Cásseres Jr,single
+85,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Bernaldo Manzano,300000.0,False,Data Ended before season : 2021,False,Bernaldo Manzano,Manzano,single
+86,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Fernando Aristeguieta,1500000.0,False,working,False,Fernando Aristeguieta,Aristeguieta,single
+87,1317,Copa America 2021,Brazil vs Venezuela,14.06.21,Venezuela,VE,2021,SUCCESS,Yohan Cumana,250000.0,False,working,False,Yohan Cumana,Cumana,single
+88,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+89,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Óscar Murillo,2500000.0,False,Data Ended before season : 2021,False,Óscar Murillo,Murillo Oscar,single
+90,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Daniel Muñoz,3600000.0,False,working,False,Daniel Muñoz,D Muñoz,single
+91,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+92,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+93,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Edwin Cardona,5000000.0,False,Data Ended before season : 2021,False,Edwin Cardona,Cardona,single
+94,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Mateus Uribe,9000000.0,False,working,False,Mateus Uribe,Uribe,single
+95,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Yairo Moreno,8500000.0,False,working,False,Yairo Moreno,Y Moreno,single
+96,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+97,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Rafael Borré,10000000.0,False,working,False,Rafael Borré,R Borré,single
+98,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Colombia,CO,2021,SUCCESS,Miguel Borja,3200000.0,False,working,False,Miguel Borja,M Borja,single
+99,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Pedro Ortíz,1000000.0,False,Data Ended before season : 2021,False,Pedro Ortíz,P Ortíz,single
+100,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Robert Arboleda,1700000.0,False,working,False,Robert Arboleda,Arboleda,single
+101,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Pervis Estupiñán,15000000.0,False,working,False,Pervis Estupiñán,Estupiñán,single
+102,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Angelo Preciado,3000000.0,False,working,False,Angelo Preciado,An Preciado,single
+103,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Piero Hincapié,600000.0,False,working,False,Piero Hincapié,Hincapie,single
+104,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Fidel Martínez,2500000.0,False,Data Ended before season : 2021,False,Fidel Martínez,Martinez,single
+105,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Jhegson Méndez,1000000.0,False,working,False,Jhegson Méndez,J Méndez,single
+106,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,"['Marcos Caicedo', 'Moisés Caicedo']",5000000.0,False,working,False,"['Marcos Caicedo', 'Moisés Caicedo']",M Caicedo,multiple
+107,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Michael Estrada,2400000.0,False,working,False,Michael Estrada,Estrada,single
+108,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,Enner Valencia,1800000.0,False,working,False,Enner Valencia,En Valencia,single
+109,1318,Copa America 2021,Colombia vs Ecuador,14.06.21,Ecuador,EC,2021,SUCCESS,"['Joao Plata', 'Gonzalo Plata']",4000000.0,False,working,False,"['Joao Plata', 'Gonzalo Plata']",Plata,multiple
+110,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+111,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Daniel Muñoz,3600000.0,False,working,False,Daniel Muñoz,D Muñoz,single
+112,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+113,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+114,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+115,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+116,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Edwin Cardona,5000000.0,False,Data Ended before season : 2021,False,Edwin Cardona,Cardona,single
+117,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Mateus Uribe,9000000.0,False,working,False,Mateus Uribe,Uribe,single
+118,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+119,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Luis Muriel,20000000.0,False,Used Large Dataset,False,Luis Muriel,Muriel,single
+120,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+121,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+122,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Luis Mago,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Mago,Mago,single
+123,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Alexander González,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander González,Al Gonzalez,single
+124,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Adrián Martínez,200000.0,False,Data Ended before season : 2021,False,Adrián Martínez,Ad Martínez,single
+125,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,FAIL,"['Júnior Moreno', 'Johan Moreno']",0,True,Was in  DB before or after season,True,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+126,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Francisco La Mantia,350000.0,False,Data Ended before season : 2021,False,Francisco La Mantia,La Mantia,single
+127,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,"['Josef Martínez', 'José Martínez']",600000.0,False,working,False,"['Josef Martínez', 'José Martínez']",J Martínez,multiple
+128,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Cristian Cásseres Jr.,2000000.0,False,working,False,Cristian Cásseres Jr.,Cásseres Jr,single
+129,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Bernaldo Manzano,300000.0,False,Data Ended before season : 2021,False,Bernaldo Manzano,Manzano,single
+130,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Fernando Aristeguieta,1500000.0,False,working,False,Fernando Aristeguieta,Aristeguieta,single
+131,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Yohan Cumana,250000.0,False,working,False,Yohan Cumana,Cumana,single
+132,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Ederson,56000000.0,False,working,False,Ederson,Ederson,single
+133,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+134,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Éder Militão,40000000.0,False,working,False,Éder Militão,Militão,single
+135,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Fabinho,60000000.0,False,working,False,Fabinho,Fabinho,single
+136,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Thiago Silva,4500000.0,False,working,False,Thiago Silva,Thiago Silva,single
+137,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Alex Sandro,28000000.0,False,working,False,Alex Sandro,Alex Sandro,single
+138,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+139,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+140,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,FAIL,"['Everton', 'Everton Ribeiro']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Everton', 'Everton Ribeiro']",False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+141,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,B Gabriel,single
+142,1320,Copa America 2021,Brazil vs Peru,18.06.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+143,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+144,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Luis Abram,6000000.0,False,working,False,Luis Abram,L Abram,single
+145,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+146,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Christian Ramos,275000.0,False,working,False,Christian Ramos,Ramos,single
+147,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+148,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Marcos López,1800000.0,False,working,False,Marcos López,M López,single
+149,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+150,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+151,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+152,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+153,1320,Copa America 2021,Brazil vs Peru,18.06.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+154,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+155,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Sema Velázquez,250000.0,False,Used Large Dataset,False,Sema Velázquez,Jo Velazquez,single
+156,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Luis Mago,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Mago,Mago,single
+157,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Alexander González,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexander González,Al Gonzalez,single
+158,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Adrián Martínez,200000.0,False,Data Ended before season : 2021,False,Adrián Martínez,Ad Martínez,single
+159,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,FAIL,"['Júnior Moreno', 'Johan Moreno']",0,True,Was in  DB before or after season,True,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+160,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,"['Josef Martínez', 'José Martínez']",600000.0,False,working,False,"['Josef Martínez', 'José Martínez']",J Martínez,multiple
+161,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Cristian Cásseres Jr.,2000000.0,False,working,False,Cristian Cásseres Jr.,Cásseres Jr,single
+162,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Edson Castillo,0,False,Not in either dataset for currect season but present in both seasons around match,True,Edson Castillo,E Castillo,single
+163,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Fernando Aristeguieta,1500000.0,False,working,False,Fernando Aristeguieta,Aristeguieta,single
+164,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Yohan Cumana,250000.0,False,working,False,Yohan Cumana,Cumana,single
+165,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Pedro Ortíz,1000000.0,False,Data Ended before season : 2021,False,Pedro Ortíz,P Ortíz,single
+166,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Robert Arboleda,1700000.0,False,working,False,Robert Arboleda,Arboleda,single
+167,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Pervis Estupiñán,15000000.0,False,working,False,Pervis Estupiñán,Estupiñán,single
+168,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Angelo Preciado,3000000.0,False,working,False,Angelo Preciado,An Preciado,single
+169,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Piero Hincapié,600000.0,False,working,False,Piero Hincapié,Hincapie,single
+170,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Ángel Mena,2500000.0,False,working,False,Ángel Mena,Mena,single
+171,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Ayrton Preciado,1200000.0,False,working,False,Ayrton Preciado,Ay Preciado,single
+172,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Jhegson Méndez,1000000.0,False,working,False,Jhegson Méndez,J Méndez,single
+173,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Leonardo Campana,1800000.0,False,working,False,Leonardo Campana,L Campana,single
+174,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Enner Valencia,1800000.0,False,working,False,Enner Valencia,En Valencia,single
+175,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Ecuador,EC,2021,SUCCESS,Jordy Caicedo,675000.0,False,working,False,Jordy Caicedo,J Caicedo,single
+176,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+177,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Stefan Medina,0,False,Not in either dataset for currect season but present in both seasons around match,True,Stefan Medina,Medina,single
+178,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+179,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+180,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+181,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+182,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Edwin Cardona,5000000.0,False,Data Ended before season : 2021,False,Edwin Cardona,Cardona,single
+183,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Seba Pérez,1500000.0,False,Used Large Dataset,False,Seba Pérez,Seb Pérez,single
+184,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+185,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Miguel Borja,3200000.0,False,working,False,Miguel Borja,M Borja,single
+186,1322,Copa America 2021,Colombia vs Peru,21.06.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+187,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+188,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+189,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Christian Ramos,275000.0,False,working,False,Christian Ramos,Ramos,single
+190,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+191,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Alexander Callens,2200000.0,False,working,False,Alexander Callens,Callens,single
+192,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Marcos López,1800000.0,False,working,False,Marcos López,M López,single
+193,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+194,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+195,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+196,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+197,1322,Copa America 2021,Colombia vs Peru,21.06.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+198,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Hernán Galíndez,600000.0,False,working,False,Hernán Galíndez,Galíndez,single
+199,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Robert Arboleda,1700000.0,False,working,False,Robert Arboleda,Arboleda,single
+200,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Pervis Estupiñán,15000000.0,False,working,False,Pervis Estupiñán,Estupiñán,single
+201,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Angelo Preciado,3000000.0,False,working,False,Angelo Preciado,An Preciado,single
+202,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Piero Hincapié,600000.0,False,working,False,Piero Hincapié,Hincapie,single
+203,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Ayrton Preciado,1200000.0,False,working,False,Ayrton Preciado,Ay Preciado,single
+204,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Jhegson Méndez,1000000.0,False,working,False,Jhegson Méndez,J Méndez,single
+205,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Alan Franco,2500000.0,False,working,False,Alan Franco,A Franco,single
+206,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,"['Marcos Caicedo', 'Moisés Caicedo']",5000000.0,False,working,False,"['Marcos Caicedo', 'Moisés Caicedo']",M Caicedo,multiple
+207,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Damián Díaz,800000.0,False,Data Ended before season : 2021,False,Damián Díaz,Da Díaz,single
+208,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Ecuador,EC,2021,SUCCESS,Leonardo Campana,1800000.0,False,working,False,Leonardo Campana,L Campana,single
+209,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+210,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+211,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Miguel Trauco,1800000.0,False,working,False,Miguel Trauco,Trauco,single
+212,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Christian Ramos,275000.0,False,working,False,Christian Ramos,Ramos,single
+213,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+214,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Alexander Callens,2200000.0,False,working,False,Alexander Callens,Callens,single
+215,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+216,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+217,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+218,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+219,1323,Copa America 2021,Ecuador vs Peru,24.06.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+220,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Weverton,3500000.0,False,working,False,Weverton,Weverton,single
+221,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Danilo,17000000.0,False,working,False,Danilo,Danilo,single
+222,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+223,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Thiago Silva,4500000.0,False,working,False,Thiago Silva,Thiago Silva,single
+224,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Alex Sandro,28000000.0,False,working,False,Alex Sandro,Alex Sandro,single
+225,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Casemiro,65000000.0,False,working,False,Casemiro,Casimiro,single
+226,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Everton Ribeiro,6500000.0,False,working,False,Everton Ribeiro,E Ribeiro,single
+227,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Fred,20000000.0,False,working,False,Fred,Fred,single
+228,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+229,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+230,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Brazil,BR,2021,SUCCESS,Neymar,128000000.0,False,working,False,Neymar,Neymar,single
+231,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,David Ospina,5000000.0,False,Used Large Dataset,False,David Ospina,Ospina,single
+232,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Daniel Muñoz,3600000.0,False,working,False,Daniel Muñoz,D Muñoz,single
+233,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Davinson Sánchez,40000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+234,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,William Tesillo,3000000.0,False,Data Ended before season : 2021,False,William Tesillo,Tesillo,single
+235,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Yerry Mina,20000000.0,False,working,False,Yerry Mina,Mina,single
+236,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Wilmar Barrios,15000000.0,False,working,False,Wilmar Barrios,Barrios,single
+237,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Mateus Uribe,9000000.0,False,working,False,Mateus Uribe,Uribe,single
+238,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",18000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+239,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Luis Díaz,13000000.0,False,working,False,Luis Díaz,Luis Díaz,single
+240,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Rafael Borré,10000000.0,False,working,False,Rafael Borré,R Borré,single
+241,1324,Copa America 2021,Brazil vs Colombia,24.06.21,Colombia,CO,2021,SUCCESS,Duván Zapata,28000000.0,False,Used Large Dataset,False,Duván Zapata,D Zapata,single
+242,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,FAIL,Edgar Jiménez,0,True,Online Lookup Required,False,Edgar Jiménez,Farinez,single
+243,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Nahuel Ferraresi,700000.0,False,working,False,Nahuel Ferraresi,Ferraresi,single
+244,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Mikel Villanueva,1000000.0,False,Used Large Dataset,False,Mikel Villanueva,Villanueva,single
+245,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Luis Mago,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Mago,Mago,single
+246,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Roberto Rosales,1000000.0,False,working,False,Roberto Rosales,Rosales,single
+247,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Ronald Hernández,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ronald Hernández,R Hernández,single
+248,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,FAIL,"['Júnior Moreno', 'Johan Moreno']",0,True,Was in  DB before or after season,True,"['Júnior Moreno', 'Johan Moreno']",J Moreno,multiple
+249,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Jefferson Savarino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jefferson Savarino,Savarino,single
+250,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Sergio Córdova,1000000.0,False,Used Large Dataset,False,Sergio Córdova,Cordova,single
+251,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Cristian Cásseres Jr.,2000000.0,False,working,False,Cristian Cásseres Jr.,Cásseres Jr,single
+252,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Edson Castillo,0,False,Not in either dataset for currect season but present in both seasons around match,True,Edson Castillo,E Castillo,single
+253,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Pedro Gallese,3000000.0,False,working,False,Pedro Gallese,Gallese,single
+254,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Aldo Corzo,450000.0,False,working,False,Aldo Corzo,Corzo,single
+255,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Miguel Araujo,750000.0,False,working,False,Miguel Araujo,M Araujo,single
+256,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Miguel Trauco,1800000.0,False,working,False,Miguel Trauco,Trauco,single
+257,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Yoshimar Yotún,2400000.0,False,working,False,Yoshimar Yotún,Yotun,single
+258,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Alexander Callens,2200000.0,False,working,False,Alexander Callens,Callens,single
+259,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Sergio Peña,1700000.0,False,working,False,Sergio Peña,S Peña,single
+260,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Christian Cueva,2500000.0,False,working,False,Christian Cueva,Cueva,single
+261,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Renato Tapia,10000000.0,False,working,False,Renato Tapia,Tapia,single
+262,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,Gianluca Lapadula,2500000.0,False,working,False,Gianluca Lapadula,Lapadula,single
+263,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Peru,PE,2021,SUCCESS,André Carrillo,3500000.0,False,working,False,André Carrillo,Carrillo,single
+264,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Alisson,80000000.0,False,working,False,Alisson,Alisson,single
+265,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Marquinhos,70000000.0,False,working,False,Marquinhos,Marquinhos,single
+266,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Éder Militão,40000000.0,False,working,False,Éder Militão,Militão,single
+267,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Fabinho,60000000.0,False,working,False,Fabinho,Fabinho,single
+268,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Emerson Royal,25000000.0,False,Used Large Dataset,False,Emerson Royal,Emerson Royal,single
+269,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Renan Lodi,30000000.0,False,Used Large Dataset,False,Renan Lodi,Renan Lodi,single
+270,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Lucas Paquetá,20000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+271,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Roberto Firmino,32000000.0,False,Used Large Dataset,False,Roberto Firmino,Firmino,single
+272,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+273,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,FAIL,"['Everton', 'Everton Ribeiro']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Everton', 'Everton Ribeiro']]",False,"['Everton', 'Everton Ribeiro']",Everton Soares,multiple
+274,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Brazil,BR,2021,SUCCESS,Gabriel Jesus,60000000.0,False,working,False,Gabriel Jesus,B Gabriel,single
+275,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Hernán Galíndez,600000.0,False,working,False,Hernán Galíndez,Galíndez,single
+276,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Robert Arboleda,1700000.0,False,working,False,Robert Arboleda,Arboleda,single
+277,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Pervis Estupiñán,15000000.0,False,working,False,Pervis Estupiñán,Estupiñán,single
+278,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Angelo Preciado,3000000.0,False,working,False,Angelo Preciado,An Preciado,single
+279,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Diego Palacios,1500000.0,False,working,False,Diego Palacios,D Palacios,single
+280,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Piero Hincapié,600000.0,False,working,False,Piero Hincapié,Hincapie,single
+281,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Ayrton Preciado,1200000.0,False,working,False,Ayrton Preciado,Ay Preciado,single
+282,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Jhegson Méndez,1000000.0,False,working,False,Jhegson Méndez,J Méndez,single
+283,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Alan Franco,2500000.0,False,working,False,Alan Franco,A Franco,single
+284,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,"['Marcos Caicedo', 'Moisés Caicedo']",5000000.0,False,working,False,"['Marcos Caicedo', 'Moisés Caicedo']",M Caicedo,multiple
+285,1326,Copa America 2021,Brazil vs Ecuador,28.06.21,Ecuador,EC,2021,SUCCESS,Enner Valencia,1800000.0,False,working,False,Enner Valencia,En Valencia,single
+286,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Mohammed Hameed,100000.0,False,working,False,Mohammed Hameed,Mohammed Hameed,single
+287,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",False,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",Ahmad Ibrahim,multiple
+288,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Mustafa Nadhim,0.0,False,Large Dataset had 0,False,Mustafa Nadhim,Mustafa Nadhim,single
+289,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Ali Adnan,1800000.0,False,working,False,Ali Adnan,Ali Adnan,single
+290,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Dhurgham Ismail,1250000.0,False,working,False,Dhurgham Ismail,Dhurgham Ismail,single
+291,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Ali Husni,100000.0,False,working,False,Ali Husni,Ali Hosni,single
+292,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Humam Tariq,100000.0,False,working,False,Humam Tariq,Humam Tariq,single
+293,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Saad Abdul Ameer,650000.0,False,working,False,Saad Abdul Ameer,Saad Abdul-Amir,single
+294,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Amjad Attwan,0.0,False,Large Dataset had 0,False,Amjad Attwan,Amjad Attwan,single
+295,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Hammadi Ahmed,0.0,False,Large Dataset had 0,False,Hammadi Ahmed,Hammadi Ahmad,single
+296,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,SUCCESS,Sherko Karim,400000.0,False,working,False,Sherko Karim,Sherko Karim,single
+297,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,Jeppe Højbjerg,0,True,Was in  DB before or after season,True,Jeppe Højbjerg,Jeppe Højbjerg,single
+298,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,Mikkel Duelund,0,True,Was in  DB before or after season,True,Mikkel Duelund,Mikkel Desler,single
+299,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Edigeison Gomes,none
+300,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Jakob Blåbjerg,none
+301,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Pascal Gregor,none
+302,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,Andreas Maxsø,0,True,Online Lookup Required,False,Andreas Maxsø,Andreas Maxsø,single
+303,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,Casper Nielsen,0,True,Online Lookup Required,False,Casper Nielsen,Casper Nielsen,single
+304,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,SUCCESS,Jens Jönsson,1000000.0,False,Used Large Dataset,False,Jens Jönsson,Jens Jønsson,single
+305,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,SUCCESS,Lasse Vibe,2000000.0,False,working,False,Lasse Vibe,Lasse Vibe,single
+306,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,FAIL,"['Nicolai Johansen', 'Nicolai Boilesen']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Nicolai Johansen', 'Nicolai Boilesen']",False,"['Nicolai Johansen', 'Nicolai Boilesen']",Nicolai Brock-Madsen,multiple
+307,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Denmark,DK,2016,SUCCESS,Frederik Sörensen,7500000.0,False,working,False,Frederik Sörensen,Frederik Børsting,single
+308,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+309,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+310,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+311,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+312,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+313,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+314,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Thiago Silva,25000000.0,False,working,False,Thiago Silva,Thiago Maia,single
+315,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Felipe Anderson,25000000.0,False,Used Large Dataset,False,Felipe Anderson,Felipe Anderson,single
+316,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+317,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+318,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+319,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Itumeleng Khune,850000.0,False,working,False,Itumeleng Khune,Itumeleng Khune,single
+320,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Eric Mathoho,900000.0,False,working,False,Eric Mathoho,Eric Mathoho,single
+321,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Rivaldo Coetzee,800000.0,False,working,False,Rivaldo Coetzee,Rivaldo Coetzee,single
+322,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Aubrey Modiba,300000.0,False,working,False,Aubrey Modiba,Maphosa Modiba,single
+323,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Abbubaker Mobara,500000.0,False,working,False,Abbubaker Mobara,Abbubaker Mobara,single
+324,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,FAIL,0,0,True,Lookup Required,False,0,Menzi Masuku,none
+325,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Gift Motupa,150000.0,False,working,False,Gift Motupa,Gift Motupa,single
+326,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Deolin Mekoa,350000.0,False,working,False,Deolin Mekoa,Deolin Mekoa,single
+327,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,FAIL,Mothobi Mvala,0,True,Online Lookup Required,False,Mothobi Mvala,Mothobi Mvala,single
+328,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Keagan Dolly,1500000.0,False,working,False,Keagan Dolly,Keagan Dolly,single
+329,1329,"Olympics, 2016",Brazil vs South Africa,2016-08-04,South Africa,ZA,2016,SUCCESS,Lebo Mothiba,250000.0,False,working,False,Lebo Mothiba,Lebo Mothiba,single
+330,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,Jeppe Højbjerg,0,True,Was in  DB before or after season,True,Jeppe Højbjerg,Jeppe Højbjerg,single
+331,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,Mikkel Duelund,0,True,Was in  DB before or after season,True,Mikkel Duelund,Mikkel Desler,single
+332,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Edigeison Gomes,none
+333,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Jakob Blåbjerg,none
+334,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Pascal Gregor,none
+335,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,Andreas Maxsø,0,True,Online Lookup Required,False,Andreas Maxsø,Andreas Maxsø,single
+336,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,SUCCESS,Frederik Sörensen,7500000.0,False,working,False,Frederik Sörensen,Frederik Børsting,single
+337,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,SUCCESS,Jens Jönsson,1000000.0,False,Used Large Dataset,False,Jens Jönsson,Jens Jønsson,single
+338,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,SUCCESS,Lasse Vibe,2000000.0,False,working,False,Lasse Vibe,Lasse Vibe,single
+339,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,"['Nicolai Johansen', 'Nicolai Boilesen']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Nicolai Johansen', 'Nicolai Boilesen']",False,"['Nicolai Johansen', 'Nicolai Boilesen']",Nicolai Brock-Madsen,multiple
+340,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,Denmark,DK,2016,FAIL,Emil Larsen,0,True,Online Lookup Required,False,Emil Larsen,Emil Larsen,single
+341,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Itumeleng Khune,850000.0,False,working,False,Itumeleng Khune,Itumeleng Khune,single
+342,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Eric Mathoho,900000.0,False,working,False,Eric Mathoho,Eric Mathoho,single
+343,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Rivaldo Coetzee,800000.0,False,working,False,Rivaldo Coetzee,Rivaldo Coetzee,single
+344,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Abbubaker Mobara,500000.0,False,working,False,Abbubaker Mobara,Abbubaker Mobara,single
+345,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Tebogo Langerman,500000.0,False,working,False,Tebogo Langerman,Tebogo Moerane,single
+346,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,FAIL,Kwanda Mngonyama,0,True,Online Lookup Required,False,Kwanda Mngonyama,Kwandakwensizwa Mngonyama,single
+347,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Aubrey Modiba,300000.0,False,working,False,Aubrey Modiba,Maphosa Modiba,single
+348,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Gift Motupa,150000.0,False,working,False,Gift Motupa,Gift Motupa,single
+349,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Deolin Mekoa,350000.0,False,working,False,Deolin Mekoa,Deolin Mekoa,single
+350,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Keagan Dolly,1500000.0,False,working,False,Keagan Dolly,Keagan Dolly,single
+351,1330,"Olympics, 2016",Denmark vs South Africa,2016-08-07,South Africa,ZA,2016,SUCCESS,Lebo Mothiba,250000.0,False,working,False,Lebo Mothiba,Lebo Mothiba,single
+352,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+353,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+354,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+355,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+356,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+357,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+358,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Thiago Silva,25000000.0,False,working,False,Thiago Silva,Thiago Maia,single
+359,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Felipe Anderson,25000000.0,False,Used Large Dataset,False,Felipe Anderson,Felipe Anderson,single
+360,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+361,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+362,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+363,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Mohammed Hameed,100000.0,False,working,False,Mohammed Hameed,Mohammed Hameed,single
+364,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",False,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",Ahmad Ibrahim,multiple
+365,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Mustafa Nadhim,0.0,False,Large Dataset had 0,False,Mustafa Nadhim,Mustafa Nadhim,single
+366,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Ali Adnan,1800000.0,False,working,False,Ali Adnan,Ali Adnan,single
+367,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Saad Natiq,0.0,False,Large Dataset had 0,False,Saad Natiq,Saad Natiq,single
+368,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Dhurgham Ismail,1250000.0,False,working,False,Dhurgham Ismail,Dhurgham Ismail,single
+369,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Alaa Mhawi,0.0,False,Large Dataset had 0,False,Alaa Mhawi,Alaa Mhawi,single
+370,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Saad Abdul Ameer,650000.0,False,working,False,Saad Abdul Ameer,Saad Abdul-Amir,single
+371,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Amjad Attwan,0.0,False,Large Dataset had 0,False,Amjad Attwan,Amjad Attwan,single
+372,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Mohanad Abdul-Rahim,150000.0,False,working,False,Mohanad Abdul-Rahim,Mohannad Abdul-Raheem,single
+373,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,SUCCESS,Sherko Karim,400000.0,False,working,False,Sherko Karim,Sherko Karim,single
+374,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,Jeppe Højbjerg,0,True,Was in  DB before or after season,True,Jeppe Højbjerg,Jeppe Højbjerg,single
+375,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,Mikkel Duelund,0,True,Was in  DB before or after season,True,Mikkel Duelund,Mikkel Desler,single
+376,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Edigeison Gomes,none
+377,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Jakob Blåbjerg,none
+378,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Pascal Gregor,none
+379,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,Andreas Maxsø,0,True,Online Lookup Required,False,Andreas Maxsø,Andreas Maxsø,single
+380,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,SUCCESS,Frederik Sörensen,7500000.0,False,working,False,Frederik Sörensen,Frederik Børsting,single
+381,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,SUCCESS,Jens Jönsson,1000000.0,False,Used Large Dataset,False,Jens Jönsson,Jens Jønsson,single
+382,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,SUCCESS,Lasse Vibe,2000000.0,False,working,False,Lasse Vibe,Lasse Vibe,single
+383,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,FAIL,"['Nicolai Johansen', 'Nicolai Boilesen']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Nicolai Johansen', 'Nicolai Boilesen']",False,"['Nicolai Johansen', 'Nicolai Boilesen']",Nicolai Brock-Madsen,multiple
+384,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Denmark,DK,2016,SUCCESS,Jacob Bruun Larsen,-,False,Used Large Dataset,False,Jacob Bruun Larsen,Jacob Bruun Larsen,single
+385,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+386,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+387,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+388,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+389,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+390,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+391,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Luan,5500000.0,False,working,False,Luan,Luan,single
+392,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Walace,5000000.0,False,working,False,Walace,Walace,single
+393,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+394,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+395,1332,"Olympics, 2016",Denmark vs Brazil,2016-08-10,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+396,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Itumeleng Khune,850000.0,False,working,False,Itumeleng Khune,Itumeleng Khune,single
+397,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,FAIL,"['Tercious Malepe', 'Tsepo Masilela']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Tercious Malepe', 'Tsepo Masilela']",False,"['Tercious Malepe', 'Tsepo Masilela']",Repo Malepe,multiple
+398,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Rivaldo Coetzee,800000.0,False,working,False,Rivaldo Coetzee,Rivaldo Coetzee,single
+399,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Abbubaker Mobara,500000.0,False,working,False,Abbubaker Mobara,Abbubaker Mobara,single
+400,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,FAIL,0,0,True,Lookup Required,False,0,Menzi Masuku,none
+401,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Gift Motupa,150000.0,False,working,False,Gift Motupa,Gift Motupa,single
+402,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Phumlani Ntshangase,250000.0,False,working,False,Phumlani Ntshangase,Phumlani Ntshangase,single
+403,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Deolin Mekoa,350000.0,False,working,False,Deolin Mekoa,Deolin Mekoa,single
+404,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,FAIL,Mothobi Mvala,0,True,Online Lookup Required,False,Mothobi Mvala,Mothobi Mvala,single
+405,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Keagan Dolly,1500000.0,False,working,False,Keagan Dolly,Keagan Dolly,single
+406,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,South Africa,ZA,2016,SUCCESS,Andile Jali,1200000.0,False,working,False,Andile Jali,Andile Fikizolo,single
+407,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Mohammed Hameed,100000.0,False,working,False,Mohammed Hameed,Mohammed Hameed,single
+408,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",False,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",Ahmad Ibrahim,multiple
+409,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Ali Adnan,1800000.0,False,working,False,Ali Adnan,Ali Adnan,single
+410,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Saad Natiq,0.0,False,Large Dataset had 0,False,Saad Natiq,Saad Natiq,single
+411,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Dhurgham Ismail,1250000.0,False,working,False,Dhurgham Ismail,Dhurgham Ismail,single
+412,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Alaa Mhawi,0.0,False,Large Dataset had 0,False,Alaa Mhawi,Alaa Mhawi,single
+413,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Mahdi Kamil,100000.0,False,working,False,Mahdi Kamil,Mahdi Kamel,single
+414,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Saad Abdul Ameer,650000.0,False,working,False,Saad Abdul Ameer,Saad Abdul-Amir,single
+415,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Amjad Attwan,0.0,False,Large Dataset had 0,False,Amjad Attwan,Amjad Attwan,single
+416,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Mohanad Abdul-Rahim,150000.0,False,working,False,Mohanad Abdul-Rahim,Mohannad Abdul-Raheem,single
+417,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,SUCCESS,Ali Husni,100000.0,False,working,False,Ali Husni,Ali Hosni,single
+418,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Andreas Linde,200000.0,False,working,False,Andreas Linde,Andreas Linde,single
+419,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Adam Lundqvist,100000.0,False,Data Ended before season : 2016,False,Adam Lundqvist,Adam Lundqvist,single
+420,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Alexander Milosevic,500000.0,False,Used Large Dataset,False,Alexander Milosevic,Alexander Milošević,single
+421,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Joakim Nilsson,800000.0,False,working,False,Joakim Nilsson,Joakim Nilsson,single
+422,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Pa Konate,400000.0,False,working,False,Pa Konate,Pa Konate,single
+423,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Abdul Khalili,1700000.0,False,Used Large Dataset,False,Abdul Khalili,Abdul Khalili,single
+424,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Simon Tibbling,2500000.0,False,Used Large Dataset,False,Simon Tibbling,Simon Tibbling,single
+425,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Alexander Fransson,1500000.0,False,working,False,Alexander Fransson,Alexander Fransson,single
+426,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,SUCCESS,Robin Quaison,2000000.0,False,Used Large Dataset,False,Robin Quaison,Robin Quaison,single
+427,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,FAIL,0,0,True,Lookup Required,False,0,Astrit Ajdarević,none
+428,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Sweden,SE,2016,FAIL,Mikael Ishak,0,True,Was in  DB before or after season,True,Mikael Ishak,Mikael Ishak,single
+429,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Cristian Bonilla,650000.0,False,Data Ended before season : 2016,False,Cristian Bonilla,Cristian Bonilla,single
+430,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,William Tesillo,800000.0,False,working,False,William Tesillo,William Tesillo,single
+431,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Leyvin Balanta', 'Éder Balanta']",False,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",Deivy Balanta,multiple
+432,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,Deiver Machado,0,True,Online Lookup Required,False,Deiver Machado,Deiver Machado,single
+433,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,Helibelton Palacios,0,True,Was in  DB before or after season,True,Helibelton Palacios,Helibelton Palacios,single
+434,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,Andrés Felipe Román,0,True,Online Lookup Required,False,Andrés Felipe Román,Andrés Felipe Roa,single
+435,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Sebastián Gómez,0.0,False,Large Dataset had 0,False,Sebastián Gómez,Sebastián Pérez,single
+436,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Wilmar Barrios,0.0,False,Large Dataset had 0,False,Wilmar Barrios,Wílmar Barrios,single
+437,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,0,0,True,Online Lookup Required,False,0,Dorlan Pabón,none
+438,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Miguel Borja,900000.0,False,working,False,Miguel Borja,Miguel Borja,single
+439,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Teófilo Gutiérrez,3500000.0,False,working,False,Teófilo Gutiérrez,Teófilo Gutiérrez,single
+440,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Daniel Akpeyi,400000.0,False,working,False,Daniel Akpeyi,Daniel Akpeyi,single
+441,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Seth Muenfuh Sincere,none
+442,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,FAIL,Abdullahi Musa,0,True,Was in  DB before or after season,True,Abdullahi Musa,Shehu Abdullahi,single
+443,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+444,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Stanley Amuzie,300000.0,False,Used Large Dataset,False,Stanley Amuzie,Stanley Amuzie,single
+445,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Imoh Ezekiel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Imoh Ezekiel,Imoh Ezekiel,single
+446,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+447,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,FAIL,Azubuike Egwuekwe,0,True,Online Lookup Required,False,Azubuike Egwuekwe,Azubuike Okechukwu,single
+448,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Usman Mohammed,-,False,Data Ended before season : 2016,False,Usman Mohammed,Usman Mohammed,single
+449,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Peter Etebo,1000000.0,False,working,False,Peter Etebo,Oghenekaro Etebo,single
+450,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+451,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,FAIL,"['Musashi Suzuki', 'Masato Kudo']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Musashi Suzuki', 'Masato Kudo']",False,"['Musashi Suzuki', 'Masato Kudo']",Masatoshi Kushibiki,multiple
+452,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Sei Muroya,50000.0,False,working,False,Sei Muroya,Sei Muroya,single
+453,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,FAIL,Tsukasa Shiotani,0,True,Was in  DB before or after season,True,Tsukasa Shiotani,Tsukasa Shiotani,single
+454,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Naomichi Ueda,550000.0,False,working,False,Naomichi Ueda,Naomichi Ueda,single
+455,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Hiroki Fujiharu,800000.0,False,Data Ended before season : 2016,False,Hiroki Fujiharu,Hiroki Fujiharu,single
+456,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Wataru Endo,850000.0,False,working,False,Wataru Endo,Wataru Endō,single
+457,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Ryota Oshima,800000.0,False,working,False,Ryota Oshima,Ryota Oshima,single
+458,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,FAIL,Riku Handa,0,True,Online Lookup Required,False,Riku Handa,Riki Harakawa,single
+459,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,FAIL,Takumi Minamino,0,True,Was in  DB before or after season,True,Takumi Minamino,Takumi Minamino,single
+460,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,FAIL,Shoya Nakajima,0,True,Was in  DB before or after season,True,Shoya Nakajima,Shoya Nakajima,single
+461,1335,"Olympics, 2016",Nigeria vs Japan,2016-08-04,Japan,JP,2016,SUCCESS,Shinzo Koroki,1250000.0,False,working,False,Shinzo Koroki,Shinzo Koroki,single
+462,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Andreas Linde,200000.0,False,working,False,Andreas Linde,Andreas Linde,single
+463,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Adam Lundqvist,100000.0,False,Data Ended before season : 2016,False,Adam Lundqvist,Adam Lundqvist,single
+464,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Alexander Milosevic,500000.0,False,Used Large Dataset,False,Alexander Milosevic,Alexander Milošević,single
+465,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Joakim Nilsson,800000.0,False,working,False,Joakim Nilsson,Joakim Nilsson,single
+466,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Pa Konate,400000.0,False,working,False,Pa Konate,Pa Konate,single
+467,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Abdul Khalili,1700000.0,False,Used Large Dataset,False,Abdul Khalili,Abdul Khalili,single
+468,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Simon Tibbling,2500000.0,False,Used Large Dataset,False,Simon Tibbling,Simon Tibbling,single
+469,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Alexander Fransson,1500000.0,False,working,False,Alexander Fransson,Alexander Fransson,single
+470,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,SUCCESS,Robin Quaison,2000000.0,False,Used Large Dataset,False,Robin Quaison,Robin Quaison,single
+471,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,FAIL,0,0,True,Lookup Required,False,0,Astrit Ajdarević,none
+472,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Sweden,SE,2016,FAIL,Mikael Ishak,0,True,Was in  DB before or after season,True,Mikael Ishak,Mikael Ishak,single
+473,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Emmanuel Daniel,0.0,False,Large Dataset had 0,False,Emmanuel Daniel,Emmanuel Daniel,single
+474,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Seth Muenfuh Sincere,none
+475,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,FAIL,Abdullahi Musa,0,True,Was in  DB before or after season,True,Abdullahi Musa,Shehu Abdullahi,single
+476,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+477,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Stanley Amuzie,300000.0,False,Used Large Dataset,False,Stanley Amuzie,Stanley Amuzie,single
+478,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Imoh Ezekiel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Imoh Ezekiel,Imoh Ezekiel,single
+479,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+480,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,FAIL,Azubuike Egwuekwe,0,True,Online Lookup Required,False,Azubuike Egwuekwe,Azubuike Okechukwu,single
+481,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Usman Mohammed,-,False,Data Ended before season : 2016,False,Usman Mohammed,Usman Mohammed,single
+482,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Peter Etebo,1000000.0,False,working,False,Peter Etebo,Oghenekaro Etebo,single
+483,1336,"Olympics, 2016",Sweden vs Nigeria,2016-08-07,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+484,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Kosuke Nakamura,50000.0,False,working,False,Kosuke Nakamura,Kosuke Nakamura,single
+485,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Sei Muroya,50000.0,False,working,False,Sei Muroya,Sei Muroya,single
+486,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,FAIL,Tsukasa Shiotani,0,True,Was in  DB before or after season,True,Tsukasa Shiotani,Tsukasa Shiotani,single
+487,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Naomichi Ueda,550000.0,False,working,False,Naomichi Ueda,Naomichi Ueda,single
+488,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Hiroki Fujiharu,800000.0,False,Data Ended before season : 2016,False,Hiroki Fujiharu,Hiroki Fujiharu,single
+489,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Wataru Endo,850000.0,False,working,False,Wataru Endo,Wataru Endō,single
+490,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Yosuke Ideguchi,100000.0,False,working,False,Yosuke Ideguchi,Yosuke Ideguchi,single
+491,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,FAIL,"['Shoya Nakajima', 'Seiya Maikuma']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Shoya Nakajima', 'Seiya Maikuma']",False,"['Shoya Nakajima', 'Seiya Maikuma']",Shinya Yajima,multiple
+492,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,FAIL,Shoya Nakajima,0,True,Was in  DB before or after season,True,Shoya Nakajima,Shoya Nakajima,single
+493,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Shinzo Koroki,1250000.0,False,working,False,Shinzo Koroki,Shinzo Koroki,single
+494,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Japan,JP,2016,SUCCESS,Takuma Asano,650000.0,False,working,False,Takuma Asano,Takuma Asano,single
+495,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Cristian Bonilla,650000.0,False,Data Ended before season : 2016,False,Cristian Bonilla,Cristian Bonilla,single
+496,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,William Tesillo,800000.0,False,working,False,William Tesillo,William Tesillo,single
+497,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Leyvin Balanta', 'Éder Balanta']",False,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",Deivy Balanta,multiple
+498,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,FAIL,Deiver Machado,0,True,Online Lookup Required,False,Deiver Machado,Deiver Machado,single
+499,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Felipe Aguilar,0.0,False,Large Dataset had 0,False,Felipe Aguilar,Felipe Aguilar,single
+500,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Sebastián Gómez,0.0,False,Large Dataset had 0,False,Sebastián Gómez,Sebastián Pérez,single
+501,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Wilmar Barrios,0.0,False,Large Dataset had 0,False,Wilmar Barrios,Wílmar Barrios,single
+502,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Kevin Balanta,-,False,Data Ended before season : 2016,False,Kevin Balanta,Kevin Balanta,single
+503,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,FAIL,0,0,True,Online Lookup Required,False,0,Dorlan Pabón,none
+504,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Miguel Borja,900000.0,False,working,False,Miguel Borja,Miguel Borja,single
+505,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,SUCCESS,Teófilo Gutiérrez,3500000.0,False,working,False,Teófilo Gutiérrez,Teófilo Gutiérrez,single
+506,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Kosuke Nakamura,50000.0,False,working,False,Kosuke Nakamura,Kosuke Nakamura,single
+507,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Sei Muroya,50000.0,False,working,False,Sei Muroya,Sei Muroya,single
+508,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,FAIL,Tsukasa Shiotani,0,True,Was in  DB before or after season,True,Tsukasa Shiotani,Tsukasa Shiotani,single
+509,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Naomichi Ueda,550000.0,False,working,False,Naomichi Ueda,Naomichi Ueda,single
+510,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,FAIL,Daichi Kamada,0,True,Online Lookup Required,False,Daichi Kamada,Masashi Kamekawa,single
+511,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Wataru Endo,850000.0,False,working,False,Wataru Endo,Wataru Endō,single
+512,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Ryota Oshima,800000.0,False,working,False,Ryota Oshima,Ryota Oshima,single
+513,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,FAIL,Takumi Minamino,0,True,Was in  DB before or after season,True,Takumi Minamino,Takumi Minamino,single
+514,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,FAIL,Shoya Nakajima,0,True,Was in  DB before or after season,True,Shoya Nakajima,Shoya Nakajima,single
+515,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Shinzo Koroki,1250000.0,False,working,False,Shinzo Koroki,Shinzo Koroki,single
+516,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Japan,JP,2016,SUCCESS,Takuma Asano,650000.0,False,working,False,Takuma Asano,Takuma Asano,single
+517,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Andreas Linde,200000.0,False,working,False,Andreas Linde,Andreas Linde,single
+518,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Adam Lundqvist,100000.0,False,Data Ended before season : 2016,False,Adam Lundqvist,Adam Lundqvist,single
+519,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Alexander Milosevic,500000.0,False,Used Large Dataset,False,Alexander Milosevic,Alexander Milošević,single
+520,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Pa Konate,400000.0,False,working,False,Pa Konate,Pa Konate,single
+521,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Jacob Une Larsson,600000.0,False,working,False,Jacob Une Larsson,Jacob Une Larsson,single
+522,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Abdul Khalili,1700000.0,False,Used Large Dataset,False,Abdul Khalili,Abdul Khalili,single
+523,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Simon Tibbling,2500000.0,False,Used Large Dataset,False,Simon Tibbling,Simon Tibbling,single
+524,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Alexander Fransson,1500000.0,False,working,False,Alexander Fransson,Alexander Fransson,single
+525,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,SUCCESS,Robin Quaison,2000000.0,False,Used Large Dataset,False,Robin Quaison,Robin Quaison,single
+526,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,FAIL,0,0,True,Lookup Required,False,0,Astrit Ajdarević,none
+527,1338,"Olympics, 2016",Japan vs Sweden,2016-08-10,Sweden,SE,2016,FAIL,Mikael Ishak,0,True,Was in  DB before or after season,True,Mikael Ishak,Mikael Ishak,single
+528,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,Cristian Bonilla,650000.0,False,Data Ended before season : 2016,False,Cristian Bonilla,Cristian Bonilla,single
+529,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,William Tesillo,800000.0,False,working,False,William Tesillo,William Tesillo,single
+530,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Leyvin Balanta', 'Éder Balanta']",False,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",Deivy Balanta,multiple
+531,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,Helibelton Palacios,0,True,Was in  DB before or after season,True,Helibelton Palacios,Helibelton Palacios,single
+532,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,Cristián Borja,0,True,Online Lookup Required,False,Cristián Borja,Cristian Borja,single
+533,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,Andrés Felipe Román,0,True,Online Lookup Required,False,Andrés Felipe Román,Andrés Felipe Roa,single
+534,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,Wilmar Barrios,0.0,False,Large Dataset had 0,False,Wilmar Barrios,Wílmar Barrios,single
+535,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,Kevin Balanta,-,False,Data Ended before season : 2016,False,Kevin Balanta,Kevin Balanta,single
+536,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,0,0,True,Online Lookup Required,False,0,Dorlan Pabón,none
+537,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,Teófilo Gutiérrez,3500000.0,False,working,False,Teófilo Gutiérrez,Teófilo Gutiérrez,single
+538,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,Harold Preciado,0,True,Online Lookup Required,False,Harold Preciado,Harold Preciado,single
+539,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,Daniel Akpeyi,400000.0,False,working,False,Daniel Akpeyi,Daniel Akpeyi,single
+540,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Seth Muenfuh Sincere,none
+541,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,Kingsley Madu,850000.0,False,working,False,Kingsley Madu,Kingsley Madu,single
+542,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+543,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,FAIL,Ndifreke Effiong,0,True,Online Lookup Required,False,Ndifreke Effiong,Ndifreke Udo,single
+544,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+545,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Popoola Saliu,none
+546,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,FAIL,Azubuike Egwuekwe,0,True,Online Lookup Required,False,Azubuike Egwuekwe,Azubuike Okechukwu,single
+547,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,Aminu Umar,4000000.0,False,Used Large Dataset,False,Aminu Umar,Aminu Umar,single
+548,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,Peter Etebo,1000000.0,False,working,False,Peter Etebo,Oghenekaro Etebo,single
+549,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+550,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Alfredo Talavera,2000000.0,False,working,False,Alfredo Talavera,Alfredo Talavera,single
+551,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,FAIL,José Abella,0,True,Online Lookup Required,False,José Abella,José Abella,single
+552,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,César Montes,1000000.0,False,working,False,César Montes,César Montes,single
+553,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Jorge Torres Nilo,2800000.0,False,working,False,Jorge Torres Nilo,Jorge Torres Nilo,single
+554,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Carlos Salcedo,3500000.0,False,working,False,Carlos Salcedo,Carlos Salcedo,single
+555,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,FAIL,Enrique Pérez,0,True,Online Lookup Required,False,Enrique Pérez,Michael Pérez,single
+556,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Rodolfo Pizarro,2500000.0,False,working,False,Rodolfo Pizarro,Rodolfo Pizarro,single
+557,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Érick Gutiérrez,2500000.0,False,working,False,Érick Gutiérrez,Erick Gutiérrez,single
+558,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Hirving Lozano,2800000.0,False,working,False,Hirving Lozano,Hirving Lozano,single
+559,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,SUCCESS,Oribe Peralta,3500000.0,False,working,False,Oribe Peralta,Oribe Peralta,single
+560,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Mexico,MX,2016,FAIL,Marco Bueno,0,True,Online Lookup Required,False,Marco Bueno,Marco Bueno,single
+561,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+562,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+563,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+564,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Matthias Ginter,10000000.0,False,working,False,Matthias Ginter,Matthias Ginter,single
+565,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+566,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+567,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+568,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+569,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Leon Goretzka,10000000.0,False,working,False,Leon Goretzka,Leon Goretzka,single
+570,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+571,1340,"Olympics, 2016",Mexico vs Germany,2016-08-04,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Davie Selke,none
+572,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Simione Tamanisau,50000.0,False,working,False,Simione Tamanisau,Simione Tamanisau,single
+573,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,FAIL,Praneel Naidu,0,True,Online Lookup Required,False,Praneel Naidu,Praneel Naidu,single
+574,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,FAIL,Filipe Baravilala,0,True,Was in  DB before or after season,True,Filipe Baravilala,Filipe Baravilala,single
+575,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Jale Dreloa,50000.0,False,Data Ended before season : 2016,False,Jale Dreloa,Jale Dreloa,single
+576,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Alvin Singh,100000.0,False,Data Ended before season : 2016,False,Alvin Singh,Alvin Singh,single
+577,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Antonio Tuivuna,0,False,Not in either dataset for currect season but present in both seasons around match,True,Antonio Tuivuna,Antonio Tuivuna,single
+578,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Nickel Chand,50000.0,False,Data Ended before season : 2016,False,Nickel Chand,Nickel Chand,single
+579,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,FAIL,Tevita Ravia,0,True,Online Lookup Required,False,Tevita Ravia,Tevita Waranaivalu,single
+580,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Setareki Hughes,75000.0,False,working,False,Setareki Hughes,Setareki Hughes,single
+581,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Roy Krishna,750000.0,False,working,False,Roy Krishna,Roy Krishna,single
+582,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,Fiji,FJ,2016,SUCCESS,Iosefo Verevou,50000.0,False,working,False,Iosefo Verevou,Iosefo Verevou,single
+583,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Sung-yun Gu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sung-yun Gu,Gu Sung-yun,single
+584,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,FAIL,Sang-min Lee,0,True,Online Lookup Required,False,Sang-min Lee,Sim Sang-min,single
+585,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Lee Seul-chan,none
+586,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Choi Kyu-baek,none
+587,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Hyun-soo Jang,750000.0,False,working,False,Hyun-soo Jang,Jang Hyun-soo,single
+588,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Seung-hyun Jung,0.0,False,Large Dataset had 0,False,Seung-hyun Jung,Jeong Seung-hyun,single
+589,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Moon Chang-jin,none
+590,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Seung-woo Lee,0,False,Not in either dataset for currect season but present in both seasons around match,True,Seung-woo Lee,Ryu Seung-woo,single
+591,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Chang-hoon Kwon,500000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+592,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Chang-min Lee,50000.0,False,working,False,Chang-min Lee,Lee Chang-min,single
+593,1341,"Olympics, 2016",Fiji vs South Korea,2016-08-04,South Korea,KR,2016,SUCCESS,Hee-chan Hwang,400000.0,False,working,False,Hee-chan Hwang,Hwang Hee-chan,single
+594,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Simione Tamanisau,50000.0,False,working,False,Simione Tamanisau,Simione Tamanisau,single
+595,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,FAIL,Praneel Naidu,0,True,Online Lookup Required,False,Praneel Naidu,Praneel Naidu,single
+596,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Jale Dreloa,50000.0,False,Data Ended before season : 2016,False,Jale Dreloa,Jale Dreloa,single
+597,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Alvin Singh,100000.0,False,Data Ended before season : 2016,False,Alvin Singh,Alvin Singh,single
+598,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Antonio Tuivuna,0,False,Not in either dataset for currect season but present in both seasons around match,True,Antonio Tuivuna,Antonio Tuivuna,single
+599,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Nickel Chand,50000.0,False,Data Ended before season : 2016,False,Nickel Chand,Nickel Chand,single
+600,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Ratu Nakalevu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ratu Nakalevu,Ratu Nakalevu,single
+601,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,FAIL,Anish Khem,0,True,Was in  DB before or after season,True,Anish Khem,Anish Khem,single
+602,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Setareki Hughes,75000.0,False,working,False,Setareki Hughes,Setareki Hughes,single
+603,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Roy Krishna,750000.0,False,working,False,Roy Krishna,Roy Krishna,single
+604,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Fiji,FJ,2016,SUCCESS,Iosefo Verevou,50000.0,False,working,False,Iosefo Verevou,Iosefo Verevou,single
+605,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Alfredo Talavera,2000000.0,False,working,False,Alfredo Talavera,Alfredo Talavera,single
+606,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,FAIL,José Abella,0,True,Online Lookup Required,False,José Abella,José Abella,single
+607,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,César Montes,1000000.0,False,working,False,César Montes,César Montes,single
+608,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Jorge Torres Nilo,2800000.0,False,working,False,Jorge Torres Nilo,Jorge Torres Nilo,single
+609,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Carlos Salcedo,3500000.0,False,working,False,Carlos Salcedo,Carlos Salcedo,single
+610,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,FAIL,Enrique Pérez,0,True,Online Lookup Required,False,Enrique Pérez,Michael Pérez,single
+611,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Rodolfo Pizarro,2500000.0,False,working,False,Rodolfo Pizarro,Rodolfo Pizarro,single
+612,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Érick Gutiérrez,2500000.0,False,working,False,Érick Gutiérrez,Erick Gutiérrez,single
+613,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Hirving Lozano,2800000.0,False,working,False,Hirving Lozano,Hirving Lozano,single
+614,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,SUCCESS,Oribe Peralta,3500000.0,False,working,False,Oribe Peralta,Oribe Peralta,single
+615,1342,"Olympics, 2016",Fiji vs Mexico,2016-08-07,Mexico,MX,2016,FAIL,Marco Bueno,0,True,Online Lookup Required,False,Marco Bueno,Marco Bueno,single
+616,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+617,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+618,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+619,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Matthias Ginter,10000000.0,False,working,False,Matthias Ginter,Matthias Ginter,single
+620,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+621,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+622,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+623,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+624,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+625,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,SUCCESS,Serge Gnabry,3500000.0,False,working,False,Serge Gnabry,Serge Gnabry,single
+626,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Davie Selke,none
+627,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,"['Dong-jun Lee', 'Dong-jun Kim']",50000.0,False,working,False,"['Dong-jun Lee', 'Dong-jun Kim']",Kim Dong-jun,multiple
+628,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,FAIL,Sang-min Lee,0,True,Online Lookup Required,False,Sang-min Lee,Sim Sang-min,single
+629,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Lee Seul-chan,none
+630,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Choi Kyu-baek,none
+631,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,Hyun-soo Jang,750000.0,False,working,False,Hyun-soo Jang,Jang Hyun-soo,single
+632,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,Seung-hyun Jung,0.0,False,Large Dataset had 0,False,Seung-hyun Jung,Jeong Seung-hyun,single
+633,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Moon Chang-jin,none
+634,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,FAIL,Yong-woo Park,0,True,Online Lookup Required,False,Yong-woo Park,Park Yong-woo,single
+635,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,Chang-hoon Kwon,500000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+636,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,Heung-min Son,25000000.0,False,working,False,Heung-min Son,Son Heung-min,single
+637,1343,"Olympics, 2016",Germany vs South Korea,2016-08-07,South Korea,KR,2016,SUCCESS,Hee-chan Hwang,400000.0,False,working,False,Hee-chan Hwang,Hwang Hee-chan,single
+638,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+639,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+640,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+641,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+642,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+643,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+644,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+645,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+646,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Christian Günter,3500000.0,False,Used Large Dataset,False,Christian Günter,Max Christiansen,single
+647,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Serge Gnabry,3500000.0,False,working,False,Serge Gnabry,Serge Gnabry,single
+648,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Germany,DE,2016,SUCCESS,Nils Petersen,4500000.0,False,Used Large Dataset,False,Nils Petersen,Nils Petersen,single
+649,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Simione Tamanisau,50000.0,False,working,False,Simione Tamanisau,Simione Tamanisau,single
+650,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,FAIL,Praneel Naidu,0,True,Online Lookup Required,False,Praneel Naidu,Praneel Naidu,single
+651,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Jale Dreloa,50000.0,False,Data Ended before season : 2016,False,Jale Dreloa,Jale Dreloa,single
+652,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Alvin Singh,100000.0,False,Data Ended before season : 2016,False,Alvin Singh,Alvin Singh,single
+653,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Nickel Chand,50000.0,False,Data Ended before season : 2016,False,Nickel Chand,Nickel Chand,single
+654,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Ratu Nakalevu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ratu Nakalevu,Ratu Nakalevu,single
+655,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,FAIL,Tevita Ravia,0,True,Online Lookup Required,False,Tevita Ravia,Tevita Waranaivalu,single
+656,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,FAIL,Anish Khem,0,True,Was in  DB before or after season,True,Anish Khem,Anish Khem,single
+657,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Setareki Hughes,75000.0,False,working,False,Setareki Hughes,Setareki Hughes,single
+658,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Roy Krishna,750000.0,False,working,False,Roy Krishna,Roy Krishna,single
+659,1344,"Olympics, 2016",Germany vs Fiji,2016-08-10,Fiji,FJ,2016,SUCCESS,Iosefo Verevou,50000.0,False,working,False,Iosefo Verevou,Iosefo Verevou,single
+660,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Sung-yun Gu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sung-yun Gu,Gu Sung-yun,single
+661,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,FAIL,Sang-min Lee,0,True,Online Lookup Required,False,Sang-min Lee,Sim Sang-min,single
+662,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Lee Seul-chan,none
+663,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Hyun-soo Jang,750000.0,False,working,False,Hyun-soo Jang,Jang Hyun-soo,single
+664,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Seung-hyun Jung,0.0,False,Large Dataset had 0,False,Seung-hyun Jung,Jeong Seung-hyun,single
+665,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Seung-woo Lee,0,False,Not in either dataset for currect season but present in both seasons around match,True,Seung-woo Lee,Ryu Seung-woo,single
+666,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,FAIL,Yong-woo Park,0,True,Online Lookup Required,False,Yong-woo Park,Park Yong-woo,single
+667,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Chang-hoon Kwon,500000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+668,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Chang-min Lee,50000.0,False,working,False,Chang-min Lee,Lee Chang-min,single
+669,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Heung-min Son,25000000.0,False,working,False,Heung-min Son,Son Heung-min,single
+670,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,South Korea,KR,2016,SUCCESS,Hee-chan Hwang,400000.0,False,working,False,Hee-chan Hwang,Hwang Hee-chan,single
+671,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Alfredo Talavera,2000000.0,False,working,False,Alfredo Talavera,Alfredo Talavera,single
+672,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,César Montes,1000000.0,False,working,False,César Montes,César Montes,single
+673,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Jorge Torres Nilo,2800000.0,False,working,False,Jorge Torres Nilo,Jorge Torres Nilo,single
+674,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,FAIL,Érick Aguirre,0,True,Online Lookup Required,False,Érick Aguirre,Erick Aguirre,single
+675,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Carlos Salcedo,3500000.0,False,working,False,Carlos Salcedo,Carlos Salcedo,single
+676,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,FAIL,Enrique Pérez,0,True,Online Lookup Required,False,Enrique Pérez,Michael Pérez,single
+677,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Érick Gutiérrez,2500000.0,False,working,False,Érick Gutiérrez,Erick Gutiérrez,single
+678,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,FAIL,"['Julio González', 'Arturo González', 'Hugo González']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Julio González', 'Arturo González', 'Hugo González']",False,"['Julio González', 'Arturo González', 'Hugo González']",Alfonso González,multiple
+679,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,FAIL,Marco Bueno,0,True,Online Lookup Required,False,Marco Bueno,Marco Bueno,single
+680,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Carlos Salcedo,3500000.0,False,working,False,Carlos Salcedo,Carlos Cisneros,single
+681,1345,"Olympics, 2016",South Korea vs Mexico,2016-08-10,Mexico,MX,2016,SUCCESS,Érick Torres,1300000.0,False,working,False,Érick Torres,Erick Torres,single
+682,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+683,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+684,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,FAIL,Kevin Álvarez,0,True,Was in  DB before or after season,True,Kevin Álvarez,Kevin Álvarez,single
+685,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+686,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Johnny Palacios,600000.0,False,working,False,Johnny Palacios,Johnny Palacios,single
+687,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+688,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+689,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Allan Banegas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Allan Banegas,Allan Banegas,single
+690,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Choco Lozano,600000.0,False,working,False,Choco Lozano,Anthony Lozano,single
+691,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+692,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+693,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,Farid Chaâl,0,True,Online Lookup Required,False,Farid Chaâl,Farid Chaâl,single
+694,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Abdelghani Demmou,550000.0,False,Data Ended before season : 2016,False,Abdelghani Demmou,Abdelghani Demmou,single
+695,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,0,0,True,Lookup Required,False,0,Ryad Kenniche,none
+696,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Houari Ferhani,300000.0,False,working,False,Houari Ferhani,Houari Ferhani,single
+697,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,Haris Belkebla,0,True,Online Lookup Required,False,Haris Belkebla,Haris Belkebla,single
+698,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Abdelraouf Benguit,125000.0,False,working,False,Abdelraouf Benguit,Raouf Benguit,single
+699,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Sofiane Bendebka,350000.0,False,working,False,Sofiane Bendebka,Sofiane Bendebka,single
+700,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Baghdad Bounedjah,1900000.0,False,working,False,Baghdad Bounedjah,Baghdad Bounedjah,single
+701,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,SUCCESS,Mohamed Benyahia,200000.0,False,working,False,Mohamed Benyahia,Mohamed Benkablia,single
+702,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,Zakaria Draoui,0,True,Online Lookup Required,False,Zakaria Draoui,Zakaria Haddouche,single
+703,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,0,0,True,Online Lookup Required,False,0,Rachid Aït-Atmane,none
+704,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Bruno Varela,1000000.0,False,working,False,Bruno Varela,Bruno Varela,single
+705,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Ricardo Costa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ricardo Costa,Ricardo Esgaio,single
+706,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tobias Figueiredo,none
+707,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Edgar Ié,500000.0,False,Used Large Dataset,False,Edgar Ié,Edgar Ié,single
+708,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tomás Podstawski,none
+709,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,André Martins,0,True,Online Lookup Required,False,André Martins,André Martins,single
+710,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Sérgio Oliveira,1500000.0,False,Used Large Dataset,False,Sérgio Oliveira,Sérgio Oliveira,single
+711,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Bruno Fernandes,6500000.0,False,working,False,Bruno Fernandes,Bruno Fernandes,single
+712,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Fernando Fonseca,none
+713,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,SUCCESS,Gonçalo Paciência,800000.0,False,Used Large Dataset,False,Gonçalo Paciência,Gonçalo Paciência,single
+714,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Salvador Agra,none
+715,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,Gerónimo Rulli,5000000.0,False,working,False,Gerónimo Rulli,Gerónimo Rulli,single
+716,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Lautaro Acosta']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Lautaro Acosta']",False,"['Lautaro Martínez', 'Lautaro Acosta']",Lautaro Gianetti,multiple
+717,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,0,0,True,Lookup Required,False,0,Alexis Soto,none
+718,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,José Luis Gómez,2000000.0,False,working,False,José Luis Gómez,José Luis Gómez,single
+719,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,Victor Cuesta,150000.0,False,Data Ended before season : 2016,False,Victor Cuesta,Víctor Cuesta,single
+720,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,Lisandro Martínez,0,True,Online Lookup Required,False,Lisandro Martínez,Lisandro Magallán,single
+721,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,Santiago Ascacíbar,0,True,Online Lookup Required,False,Santiago Ascacíbar,Santiago Ascacibar,single
+722,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",False,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",Mauricio Martínez,multiple
+723,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,Jonathan Silva,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jonathan Silva,Jonathan Calleri,single
+724,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,Ángel Correa,18000000.0,False,Used Large Dataset,False,Ángel Correa,Ángel Correa,single
+725,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,SUCCESS,"['Cristian Ansaldi', 'Cristian Pavón', 'Cristian Romero']",5500000.0,False,Used Large Dataset,False,"['Cristian Ansaldi', 'Cristian Pavón', 'Cristian Romero']",Cristian Espinoza,multiple
+726,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+727,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+728,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+729,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Johnny Palacios,600000.0,False,working,False,Johnny Palacios,Johnny Palacios,single
+730,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+731,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+732,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Brayan Ramírez,-,False,Data Ended before season : 2016,False,Brayan Ramírez,Brayan Ramírez,single
+733,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Allan Banegas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Allan Banegas,Allan Banegas,single
+734,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Choco Lozano,600000.0,False,working,False,Choco Lozano,Anthony Lozano,single
+735,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+736,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+737,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Bruno Varela,1000000.0,False,working,False,Bruno Varela,Bruno Varela,single
+738,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Ricardo Costa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ricardo Costa,Ricardo Esgaio,single
+739,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tobias Figueiredo,none
+740,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Edgar Ié,500000.0,False,Used Large Dataset,False,Edgar Ié,Edgar Ié,single
+741,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tomás Podstawski,none
+742,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,André Martins,0,True,Online Lookup Required,False,André Martins,André Martins,single
+743,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Sérgio Oliveira,1500000.0,False,Used Large Dataset,False,Sérgio Oliveira,Sérgio Oliveira,single
+744,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Bruno Fernandes,6500000.0,False,working,False,Bruno Fernandes,Bruno Fernandes,single
+745,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Fernando Fonseca,none
+746,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,SUCCESS,Gonçalo Paciência,800000.0,False,Used Large Dataset,False,Gonçalo Paciência,Gonçalo Paciência,single
+747,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Salvador Agra,none
+748,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,Gerónimo Rulli,5000000.0,False,working,False,Gerónimo Rulli,Gerónimo Rulli,single
+749,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Lautaro Acosta']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Lautaro Acosta']",False,"['Lautaro Martínez', 'Lautaro Acosta']",Lautaro Gianetti,multiple
+750,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,0,0,True,Lookup Required,False,0,Alexis Soto,none
+751,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,José Luis Gómez,2000000.0,False,working,False,José Luis Gómez,José Luis Gómez,single
+752,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,Victor Cuesta,150000.0,False,Data Ended before season : 2016,False,Victor Cuesta,Víctor Cuesta,single
+753,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,Cristian Pavón,0,True,Was in  DB before or after season,True,Cristian Pavón,Cristian Pavón,single
+754,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,Santiago Ascacíbar,0,True,Online Lookup Required,False,Santiago Ascacíbar,Santiago Ascacibar,single
+755,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,Giovani Lo Celso,8000000.0,False,Used Large Dataset,False,Giovani Lo Celso,Giovani Lo Celso,single
+756,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",False,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",Mauricio Martínez,multiple
+757,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,Jonathan Silva,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jonathan Silva,Jonathan Calleri,single
+758,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,SUCCESS,Ángel Correa,18000000.0,False,Used Large Dataset,False,Ángel Correa,Ángel Correa,single
+759,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,FAIL,Farid Chaâl,0,True,Online Lookup Required,False,Farid Chaâl,Farid Chaâl,single
+760,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Ayoub Abdellaoui,200000.0,False,working,False,Ayoub Abdellaoui,Ayoub Abdellaoui,single
+761,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Abdelghani Demmou,550000.0,False,Data Ended before season : 2016,False,Abdelghani Demmou,Abdelghani Demmou,single
+762,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Houari Ferhani,300000.0,False,working,False,Houari Ferhani,Houari Ferhani,single
+763,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,FAIL,Haris Belkebla,0,True,Online Lookup Required,False,Haris Belkebla,Haris Belkebla,single
+764,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Abdelraouf Benguit,125000.0,False,working,False,Abdelraouf Benguit,Raouf Benguit,single
+765,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Sofiane Bendebka,350000.0,False,working,False,Sofiane Bendebka,Sofiane Bendebka,single
+766,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Baghdad Bounedjah,1900000.0,False,working,False,Baghdad Bounedjah,Baghdad Bounedjah,single
+767,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,SUCCESS,Mohamed Benyahia,200000.0,False,working,False,Mohamed Benyahia,Mohamed Benkablia,single
+768,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,FAIL,Zakaria Draoui,0,True,Online Lookup Required,False,Zakaria Draoui,Zakaria Haddouche,single
+769,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Algeria,DZ,2016,FAIL,0,0,True,Online Lookup Required,False,0,Rachid Aït-Atmane,none
+770,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,Gerónimo Rulli,5000000.0,False,working,False,Gerónimo Rulli,Gerónimo Rulli,single
+771,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Lautaro Acosta']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Lautaro Acosta']",False,"['Lautaro Martínez', 'Lautaro Acosta']",Lautaro Gianetti,multiple
+772,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,FAIL,0,0,True,Lookup Required,False,0,Alexis Soto,none
+773,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,José Luis Gómez,2000000.0,False,working,False,José Luis Gómez,José Luis Gómez,single
+774,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,Leandro Paredes,3500000.0,False,working,False,Leandro Paredes,Leandro Vega,single
+775,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,FAIL,Cristian Pavón,0,True,Was in  DB before or after season,True,Cristian Pavón,Cristian Pavón,single
+776,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,FAIL,Santiago Ascacíbar,0,True,Online Lookup Required,False,Santiago Ascacíbar,Santiago Ascacibar,single
+777,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,Giovani Lo Celso,8000000.0,False,Used Large Dataset,False,Giovani Lo Celso,Giovani Lo Celso,single
+778,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,FAIL,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",False,"['Lautaro Martínez', 'Emiliano Martínez', 'Pity Martínez']",Mauricio Martínez,multiple
+779,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,Jonathan Silva,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jonathan Silva,Jonathan Calleri,single
+780,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Argentina,AR,2016,SUCCESS,Ángel Correa,18000000.0,False,Used Large Dataset,False,Ángel Correa,Ángel Correa,single
+781,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+782,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Jhonatan Paz,0.0,False,Large Dataset had 0,False,Jhonatan Paz,Jonathan Paz,single
+783,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+784,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+785,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+786,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+787,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Brayan Ramírez,-,False,Data Ended before season : 2016,False,Brayan Ramírez,Brayan Ramírez,single
+788,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Allan Banegas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Allan Banegas,Allan Banegas,single
+789,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Choco Lozano,600000.0,False,working,False,Choco Lozano,Anthony Lozano,single
+790,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+791,1350,"Olympics, 2016",Argentina vs Honduras,2016-08-10,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+792,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,FAIL,Oussama Chita,0,True,Was in  DB before or after season,True,Oussama Chita,Oussama Methazem,single
+793,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,FAIL,0,0,True,Lookup Required,False,0,Miloud Rebiaï,none
+794,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Houari Ferhani,300000.0,False,working,False,Houari Ferhani,Houari Ferhani,single
+795,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,FAIL,Mohamed Benkhemassa,0,True,Was in  DB before or after season,True,Mohamed Benkhemassa,Mohamed Benkhemassa,single
+796,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Abdelraouf Benguit,125000.0,False,working,False,Abdelraouf Benguit,Raouf Benguit,single
+797,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Sofiane Bendebka,350000.0,False,working,False,Sofiane Bendebka,Sofiane Bendebka,single
+798,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,FAIL,Zakaria Draoui,0,True,Online Lookup Required,False,Zakaria Draoui,Zakaria Draoui,single
+799,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Baghdad Bounedjah,1900000.0,False,working,False,Baghdad Bounedjah,Baghdad Bounedjah,single
+800,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Mohamed Benyahia,200000.0,False,working,False,Mohamed Benyahia,Mohamed Benkablia,single
+801,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,SUCCESS,Abderrahmane Meziane,150000.0,False,working,False,Abderrahmane Meziane,Abderrahmane Meziane,single
+802,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Algeria,DZ,2016,FAIL,Oussama Darfalou,0,True,Was in  DB before or after season,True,Oussama Darfalou,Oussama Darfalou,single
+803,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,SUCCESS,Bruno Varela,1000000.0,False,working,False,Bruno Varela,Bruno Varela,single
+804,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,SUCCESS,Ricardo Costa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ricardo Costa,Ricardo Esgaio,single
+805,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,Tiago Djaló,0,True,Online Lookup Required,False,Tiago Djaló,Tiago Ilori,single
+806,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,SUCCESS,Edgar Ié,500000.0,False,Used Large Dataset,False,Edgar Ié,Edgar Ié,single
+807,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Paulo Henrique,none
+808,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tomás Podstawski,none
+809,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,"['Goncalo Ramos', 'Claudio Ramos']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Goncalo Ramos', 'Claudio Ramos']",False,"['Goncalo Ramos', 'Claudio Ramos']",Francisco Ramos,multiple
+810,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,SUCCESS,"['Rui Silva', 'António Silva', 'Bernardo Silva']",15000000.0,False,working,False,"['Rui Silva', 'António Silva', 'Bernardo Silva']",Tiago Silva,multiple
+811,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,SUCCESS,Gonçalo Paciência,800000.0,False,Used Large Dataset,False,Gonçalo Paciência,Gonçalo Paciência,single
+812,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Pité,none
+813,1351,"Olympics, 2016",Algeria vs Portugal,2016-08-10,Portugal,PT,2016,FAIL,0,0,True,Lookup Required,False,0,Carlos Mané,none
+814,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,SUCCESS,Bruno Varela,1000000.0,False,working,False,Bruno Varela,Bruno Varela,single
+815,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,SUCCESS,Ricardo Costa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ricardo Costa,Ricardo Esgaio,single
+816,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tobias Figueiredo,none
+817,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,SUCCESS,Edgar Ié,500000.0,False,Used Large Dataset,False,Edgar Ié,Edgar Ié,single
+818,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Tomás Podstawski,none
+819,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,André Martins,0,True,Online Lookup Required,False,André Martins,André Martins,single
+820,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,SUCCESS,Sérgio Oliveira,1500000.0,False,Used Large Dataset,False,Sérgio Oliveira,Sérgio Oliveira,single
+821,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,SUCCESS,Bruno Fernandes,6500000.0,False,working,False,Bruno Fernandes,Bruno Fernandes,single
+822,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Fernando Fonseca,none
+823,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,0,0,True,Online Lookup Required,False,0,Salvador Agra,none
+824,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Portugal,PT,2016,FAIL,0,0,True,Lookup Required,False,0,Carlos Mané,none
+825,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+826,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+827,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+828,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Matthias Ginter,10000000.0,False,working,False,Matthias Ginter,Matthias Ginter,single
+829,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+830,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+831,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+832,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+833,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+834,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,SUCCESS,Serge Gnabry,3500000.0,False,working,False,Serge Gnabry,Serge Gnabry,single
+835,1352,"Olympics, 2016",Portugal vs Germany,2016-08-13,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Davie Selke,none
+836,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Emmanuel Daniel,0.0,False,Large Dataset had 0,False,Emmanuel Daniel,Emmanuel Daniel,single
+837,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Muenfuh Sincere,none
+838,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,FAIL,Abdullahi Musa,0,True,Was in  DB before or after season,True,Abdullahi Musa,Shehu Abdullahi,single
+839,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+840,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Stanley Amuzie,300000.0,False,Used Large Dataset,False,Stanley Amuzie,Stanley Amuzie,single
+841,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+842,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,FAIL,Azubuike Egwuekwe,0,True,Online Lookup Required,False,Azubuike Egwuekwe,Azubuike Okechukwu,single
+843,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Usman Mohammed,-,False,Data Ended before season : 2016,False,Usman Mohammed,Usman Mohammed,single
+844,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Aminu Umar,4000000.0,False,Used Large Dataset,False,Aminu Umar,Aminu Umar,single
+845,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Imoh Ezekiel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Imoh Ezekiel,Imoh Ezekiel,single
+846,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+847,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,Jeppe Højbjerg,0,True,Was in  DB before or after season,True,Jeppe Højbjerg,Jeppe Højbjerg,single
+848,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,Mikkel Duelund,0,True,Was in  DB before or after season,True,Mikkel Duelund,Mikkel Desler,single
+849,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Edigeison Gomes,none
+850,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Jakob Blåbjerg,none
+851,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,0,0,True,Lookup Required,False,0,Pascal Gregor,none
+852,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,Andreas Maxsø,0,True,Online Lookup Required,False,Andreas Maxsø,Andreas Maxsø,single
+853,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,SUCCESS,Frederik Sörensen,7500000.0,False,working,False,Frederik Sörensen,Frederik Børsting,single
+854,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,FAIL,Casper Nielsen,0,True,Online Lookup Required,False,Casper Nielsen,Casper Nielsen,single
+855,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,SUCCESS,Jens Jönsson,1000000.0,False,Used Large Dataset,False,Jens Jönsson,Jens Jønsson,single
+856,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,SUCCESS,Jacob Bruun Larsen,-,False,Used Large Dataset,False,Jacob Bruun Larsen,Jacob Bruun Larsen,single
+857,1353,"Olympics, 2016",Nigeria vs Denmark,2016-08-13,Denmark,DK,2016,SUCCESS,Lasse Vibe,2000000.0,False,working,False,Lasse Vibe,Lasse Vibe,single
+858,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Sung-yun Gu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sung-yun Gu,Gu Sung-yun,single
+859,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,FAIL,Sang-min Lee,0,True,Online Lookup Required,False,Sang-min Lee,Sim Sang-min,single
+860,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Lee Seul-chan,none
+861,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Hyun-soo Jang,750000.0,False,working,False,Hyun-soo Jang,Jang Hyun-soo,single
+862,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Seung-hyun Jung,0.0,False,Large Dataset had 0,False,Seung-hyun Jung,Jeong Seung-hyun,single
+863,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,FAIL,0,0,True,Lookup Required,False,0,Moon Chang-jin,none
+864,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Seung-woo Lee,0,False,Not in either dataset for currect season but present in both seasons around match,True,Seung-woo Lee,Ryu Seung-woo,single
+865,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,FAIL,Yong-woo Park,0,True,Online Lookup Required,False,Yong-woo Park,Park Yong-woo,single
+866,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Chang-hoon Kwon,500000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+867,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Heung-min Son,25000000.0,False,working,False,Heung-min Son,Son Heung-min,single
+868,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,South Korea,KR,2016,SUCCESS,Hee-chan Hwang,400000.0,False,working,False,Hee-chan Hwang,Hwang Hee-chan,single
+869,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+870,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+871,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,FAIL,Kevin Álvarez,0,True,Was in  DB before or after season,True,Kevin Álvarez,Kevin Álvarez,single
+872,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+873,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Johnny Palacios,600000.0,False,working,False,Johnny Palacios,Johnny Palacios,single
+874,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+875,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+876,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+877,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Allan Banegas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Allan Banegas,Allan Banegas,single
+878,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+879,1354,"Olympics, 2016",South Korea vs Honduras,2016-08-13,Honduras,HN,2016,SUCCESS,Choco Lozano,600000.0,False,working,False,Choco Lozano,Anthony Lozano,single
+880,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+881,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+882,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+883,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+884,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+885,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+886,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Walace,5000000.0,False,working,False,Walace,Walace,single
+887,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Luan,5500000.0,False,working,False,Luan,Luan,single
+888,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+889,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+890,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+891,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,Cristian Bonilla,650000.0,False,Data Ended before season : 2016,False,Cristian Bonilla,Cristian Bonilla,single
+892,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,William Tesillo,800000.0,False,working,False,William Tesillo,William Tesillo,single
+893,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Leyvin Balanta', 'Éder Balanta']",False,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",Deivy Balanta,multiple
+894,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,Helibelton Palacios,0,True,Was in  DB before or after season,True,Helibelton Palacios,Helibelton Palacios,single
+895,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,Cristián Borja,0,True,Online Lookup Required,False,Cristián Borja,Cristian Borja,single
+896,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,Jefferson Lerma,1000000.0,False,working,False,Jefferson Lerma,Jefferson Lerma,single
+897,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,Andrés Felipe Román,0,True,Online Lookup Required,False,Andrés Felipe Román,Andrés Felipe Roa,single
+898,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,Wilmar Barrios,0.0,False,Large Dataset had 0,False,Wilmar Barrios,Wílmar Barrios,single
+899,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,0,0,True,Online Lookup Required,False,0,Dorlan Pabón,none
+900,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,Teófilo Gutiérrez,3500000.0,False,working,False,Teófilo Gutiérrez,Teófilo Gutiérrez,single
+901,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,Harold Preciado,0,True,Online Lookup Required,False,Harold Preciado,Harold Preciado,single
+902,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+903,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+904,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+905,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+906,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+907,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+908,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Walace,5000000.0,False,working,False,Walace,Walace,single
+909,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Luan,5500000.0,False,working,False,Luan,Luan,single
+910,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+911,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+912,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+913,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+914,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Jhonatan Paz,0.0,False,Large Dataset had 0,False,Jhonatan Paz,Jonathan Paz,single
+915,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+916,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+917,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Johnny Palacios,600000.0,False,working,False,Johnny Palacios,Johnny Palacios,single
+918,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+919,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+920,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Marcelo Espinal,-,False,Data Ended before season : 2016,False,Marcelo Espinal,Marcelo Espinal,single
+921,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+922,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+923,1356,"Olympics, 2016",Brazil vs Honduras,2016-08-17,Honduras,HN,2016,SUCCESS,Choco Lozano,600000.0,False,working,False,Choco Lozano,Anthony Lozano,single
+924,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Emmanuel Daniel,0.0,False,Large Dataset had 0,False,Emmanuel Daniel,Emmanuel Daniel,single
+925,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Muenfuh Sincere,none
+926,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,FAIL,Abdullahi Musa,0,True,Was in  DB before or after season,True,Abdullahi Musa,Shehu Abdullahi,single
+927,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+928,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Stanley Amuzie,300000.0,False,Used Large Dataset,False,Stanley Amuzie,Stanley Amuzie,single
+929,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+930,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,FAIL,Ndifreke Effiong,0,True,Online Lookup Required,False,Ndifreke Effiong,Ndifreke Udo,single
+931,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Usman Mohammed,-,False,Data Ended before season : 2016,False,Usman Mohammed,Usman Mohammed,single
+932,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Aminu Umar,4000000.0,False,Used Large Dataset,False,Aminu Umar,Aminu Umar,single
+933,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Imoh Ezekiel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Imoh Ezekiel,Imoh Ezekiel,single
+934,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+935,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+936,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+937,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+938,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Matthias Ginter,10000000.0,False,working,False,Matthias Ginter,Matthias Ginter,single
+939,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+940,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+941,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+942,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+943,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+944,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,SUCCESS,Serge Gnabry,3500000.0,False,working,False,Serge Gnabry,Serge Gnabry,single
+945,1357,"Olympics, 2016",Nigeria vs Germany,2016-08-17,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Davie Selke,none
+946,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Luis López,250000.0,False,working,False,Luis López,Luis López,single
+947,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Jhonatan Paz,0.0,False,Large Dataset had 0,False,Jhonatan Paz,Jonathan Paz,single
+948,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Marcelo Pereira,0.0,False,Large Dataset had 0,False,Marcelo Pereira,Marcelo Pereira,single
+949,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,FAIL,Kevin Álvarez,0,True,Was in  DB before or after season,True,Kevin Álvarez,Kevin Álvarez,single
+950,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Allans Vargas,0.0,False,Large Dataset had 0,False,Allans Vargas,Allans Vargas,single
+951,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Brayan García,0.0,False,Large Dataset had 0,False,Brayan García,Brayan García,single
+952,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Bryan Acosta,0.0,False,Large Dataset had 0,False,Bryan Acosta,Bryan Acosta,single
+953,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Óscar Salas,0.0,False,Large Dataset had 0,False,Óscar Salas,Óscar Salas,single
+954,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Romell Quioto,300000.0,False,working,False,Romell Quioto,Romell Quioto,single
+955,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Allan Banegas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Allan Banegas,Allan Banegas,single
+956,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Honduras,HN,2016,SUCCESS,Alberth Elis,5000000.0,False,Used Large Dataset,False,Alberth Elis,Alberth Elis,single
+957,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Emmanuel Daniel,0.0,False,Large Dataset had 0,False,Emmanuel Daniel,Emmanuel Daniel,single
+958,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,FAIL,0,0,True,Lookup Required,False,0,Muenfuh Sincere,none
+959,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,FAIL,Abdullahi Musa,0,True,Was in  DB before or after season,True,Abdullahi Musa,Shehu Abdullahi,single
+960,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,William Troost-Ekong,single
+961,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Stanley Amuzie,300000.0,False,Used Large Dataset,False,Stanley Amuzie,Stanley Amuzie,single
+962,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,John Obi Mikel,6000000.0,False,working,False,John Obi Mikel,John Obi Mikel,single
+963,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,FAIL,Azubuike Egwuekwe,0,True,Online Lookup Required,False,Azubuike Egwuekwe,Azubuike Okechukwu,single
+964,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Usman Mohammed,-,False,Data Ended before season : 2016,False,Usman Mohammed,Usman Mohammed,single
+965,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Aminu Umar,4000000.0,False,Used Large Dataset,False,Aminu Umar,Aminu Umar,single
+966,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Imoh Ezekiel,0,False,Not in either dataset for currect season but present in both seasons around match,True,Imoh Ezekiel,Imoh Ezekiel,single
+967,1358,"Olympics, 2016",Honduras vs Nigeria,2016-08-20,Nigeria,NG,2016,SUCCESS,Umar Sadiq,2000000.0,False,Used Large Dataset,False,Umar Sadiq,Umar Sadiq,single
+968,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Weverton,3000000.0,False,working,False,Weverton,Weverton,single
+969,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,FAIL,0,0,True,Lookup Required,False,0,Zeca,none
+970,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Rodrigo Caio,5000000.0,False,working,False,Rodrigo Caio,Rodrigo Caio,single
+971,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Marquinhos,35000000.0,False,Used Large Dataset,False,Marquinhos,Marquinhos,single
+972,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Douglas Santos,5000000.0,False,Used Large Dataset,False,Douglas Santos,Douglas Santos,single
+973,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Renato Augusto,9000000.0,False,working,False,Renato Augusto,Renato Augusto,single
+974,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Walace,5000000.0,False,working,False,Walace,Walace,single
+975,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Luan,5500000.0,False,working,False,Luan,Luan,single
+976,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Gabriel Barbosa,15000000.0,False,Used Large Dataset,False,Gabriel Barbosa,Gabriel Barbosa,single
+977,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Neymar,100000000.0,False,Used Large Dataset,False,Neymar,Neymar,single
+978,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Brazil,BR,2016,SUCCESS,Gabriel Jesus,4000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+979,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Timo Werner,8000000.0,False,working,False,Timo Werner,Timo Horn,single
+980,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Jeremy Toljan,none
+981,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Lukas Klostermann,3000000.0,False,Used Large Dataset,False,Lukas Klostermann,Lukas Klostermann,single
+982,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Matthias Ginter,10000000.0,False,working,False,Matthias Ginter,Matthias Ginter,single
+983,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Niklas Süle,8000000.0,False,working,False,Niklas Süle,Niklas Süle,single
+984,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Sven Bender,7000000.0,False,Used Large Dataset,False,Sven Bender,Sven Bender,single
+985,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Max Meyer,13000000.0,False,working,False,Max Meyer,Max Meyer,single
+986,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Lars Bender,10000000.0,False,Used Large Dataset,False,Lars Bender,Lars Bender,single
+987,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Julian Brandt,10000000.0,False,working,False,Julian Brandt,Julian Brandt,single
+988,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,SUCCESS,Serge Gnabry,3500000.0,False,working,False,Serge Gnabry,Serge Gnabry,single
+989,1359,"Olympics, 2016",Brazil vs Germany,2016-08-20,Germany,DE,2016,FAIL,0,0,True,Online Lookup Required,False,0,Davie Selke,none
+990,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+991,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Jorge Sánchez,3500000.0,False,working,False,Jorge Sánchez,Jorge Sánchez,single
+992,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+993,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Johan Vásquez,5000000.0,False,working,False,Johan Vásquez,Johan Vásquez,single
+994,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Érick Aguirre,6000000.0,False,working,False,Érick Aguirre,Érick Aguirre,single
+995,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+996,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,Carlos Rodríguez,single
+997,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Diego Lainez,5000000.0,False,working,False,Diego Lainez,Diego Lainez,single
+998,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+999,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+1000,1361,"Olympics, 2020",Mexico vs France,2021-07-22,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+1001,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Paul Bernardoni,none
+1002,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Clément Lenglet', 'Clément Grenier']",False,"['Clément Lenglet', 'Clément Grenier']",Clément Michelin,multiple
+1003,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Pierre Kalulu,none
+1004,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,SUCCESS,Mike Maignan,20000000.0,False,working,False,Mike Maignan,Modibo Sagnan,single
+1005,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,SUCCESS,Anthony Martial,16000000.0,False,Used Large Dataset,False,Anthony Martial,Anthony Caci,single
+1006,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Téji Savanier,none
+1007,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Lucas Tousart,none
+1008,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,SUCCESS,Florian Thauvin,0,False,Not in either dataset for currect season but present in both seasons around match,True,Florian Thauvin,Florian Thauvin,single
+1009,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Enzo Le Fée,none
+1010,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Arnaud Nordin,none
+1011,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,André-Pierre Gignac,0,True,Online Lookup Required,False,André-Pierre Gignac,André-Pierre Gignac,single
+1012,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+1013,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Hiroki Sakai,5500000.0,False,working,False,Hiroki Sakai,Hiroki Sakai,single
+1014,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+1015,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Ko Itakura,800000.0,False,working,False,Ko Itakura,Ko Itakura,single
+1016,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Yuta Nakayama,800000.0,False,working,False,Yuta Nakayama,Yuta Nakayama,single
+1017,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+1018,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+1019,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+1020,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Koji Miyoshi,2000000.0,False,Data Ended before season : 2021,False,Koji Miyoshi,Koji Miyoshi,single
+1021,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+1022,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,Japan,JP,2021,FAIL,Daichi Hayashi,0,True,Online Lookup Required,False,Daichi Hayashi,Daichi Hayashi,single
+1023,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Ronwen Williams,1300000.0,False,working,False,Ronwen Williams,Ronwen Williams,single
+1024,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,FAIL,Luke Fleurs,0,True,Online Lookup Required,False,Luke Fleurs,Luke Fleurs,single
+1025,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,FAIL,Tercious Malepe,0,True,Online Lookup Required,False,Tercious Malepe,Tercious Malepe,single
+1026,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Thabiso Kutumela,200000.0,False,Data Ended before season : 2021,False,Thabiso Kutumela,Thendo Mukumela,single
+1027,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Reeve Frosler,250000.0,False,Data Ended before season : 2021,False,Reeve Frosler,Reeve Frosler,single
+1028,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Sibusiso Mabiliso,650000.0,False,Data Ended before season : 2021,False,Sibusiso Mabiliso,Sibusiso Mabiliso,single
+1029,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Goodman Mosele,800000.0,False,working,False,Goodman Mosele,Goodman Mosele,single
+1030,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,FAIL,Thabo Nthethe,0,True,Online Lookup Required,False,Thabo Nthethe,Thabo Cele,single
+1031,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Teboho Mokoena,1400000.0,False,working,False,Teboho Mokoena,Teboho Mokoena,single
+1032,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Luther Singh,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luther Singh,Luther Singh,single
+1033,1362,"Olympics, 2020",Japan vs South Africa,2021-07-22,South Africa,ZA,2021,SUCCESS,Evidence Makgopa,450000.0,False,working,False,Evidence Makgopa,Evidence Makgopa,single
+1034,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Paul Bernardoni,none
+1035,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Clément Lenglet', 'Clément Grenier']",False,"['Clément Lenglet', 'Clément Grenier']",Clément Michelin,multiple
+1036,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Pierre Kalulu,none
+1037,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Niels Nkounkou,none
+1038,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,SUCCESS,Anthony Martial,16000000.0,False,Used Large Dataset,False,Anthony Martial,Anthony Caci,single
+1039,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Téji Savanier,none
+1040,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Lucas Tousart,none
+1041,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,SUCCESS,Florian Thauvin,0,False,Not in either dataset for currect season but present in both seasons around match,True,Florian Thauvin,Florian Thauvin,single
+1042,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,SUCCESS,Randal Kolo Muani,2500000.0,False,working,False,Randal Kolo Muani,Randal Kolo Muani,single
+1043,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Nathanaël Mbuku,none
+1044,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,André-Pierre Gignac,0,True,Online Lookup Required,False,André-Pierre Gignac,André-Pierre Gignac,single
+1045,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Ronwen Williams,1300000.0,False,working,False,Ronwen Williams,Ronwen Williams,single
+1046,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,FAIL,Katlego Mashego,0,True,Online Lookup Required,False,Katlego Mashego,Katlego Mohamme,single
+1047,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,FAIL,Luke Fleurs,0,True,Online Lookup Required,False,Luke Fleurs,Luke Fleurs,single
+1048,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,FAIL,Tercious Malepe,0,True,Online Lookup Required,False,Tercious Malepe,Tercious Malepe,single
+1049,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Reeve Frosler,250000.0,False,Data Ended before season : 2021,False,Reeve Frosler,Reeve Frosler,single
+1050,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,FAIL,Thabo Nthethe,0,True,Online Lookup Required,False,Thabo Nthethe,Thabo Cele,single
+1051,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Teboho Mokoena,1400000.0,False,working,False,Teboho Mokoena,Teboho Mokoena,single
+1052,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Luther Singh,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luther Singh,Luther Singh,single
+1053,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,FAIL,0,0,True,Online Lookup Required,False,0,Kobamelo Kodisang,none
+1054,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Evidence Makgopa,450000.0,False,working,False,Evidence Makgopa,Evidence Makgopa,single
+1055,1363,"Olympics, 2020",France vs South Africa,2021-07-25,South Africa,ZA,2021,SUCCESS,Njabulo Ngcobo,25000.0,False,Data Ended before season : 2021,False,Njabulo Ngcobo,Nkosingiphile Ngcobo,single
+1056,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+1057,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Hiroki Sakai,5500000.0,False,working,False,Hiroki Sakai,Hiroki Sakai,single
+1058,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+1059,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Ko Itakura,800000.0,False,working,False,Ko Itakura,Ko Itakura,single
+1060,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Yuta Nakayama,800000.0,False,working,False,Yuta Nakayama,Yuta Nakayama,single
+1061,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+1062,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+1063,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+1064,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+1065,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,SUCCESS,Yuki Soma,400000.0,False,working,False,Yuki Soma,Yuki Soma,single
+1066,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Japan,JP,2021,FAIL,Daichi Hayashi,0,True,Online Lookup Required,False,Daichi Hayashi,Daichi Hayashi,single
+1067,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+1068,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Jorge Sánchez,3500000.0,False,working,False,Jorge Sánchez,Jorge Sánchez,single
+1069,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+1070,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Johan Vásquez,5000000.0,False,working,False,Johan Vásquez,Johan Vásquez,single
+1071,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Érick Aguirre,6000000.0,False,working,False,Érick Aguirre,Érick Aguirre,single
+1072,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+1073,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,Carlos Rodríguez,single
+1074,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Diego Lainez,5000000.0,False,working,False,Diego Lainez,Diego Lainez,single
+1075,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+1076,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+1077,1364,"Olympics, 2020",Japan vs Mexico,2021-07-25,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+1078,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Paul Bernardoni,none
+1079,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Clément Lenglet', 'Clément Grenier']",False,"['Clément Lenglet', 'Clément Grenier']",Clément Michelin,multiple
+1080,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Timothée Pembélé,none
+1081,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Pierre Kalulu,none
+1082,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,SUCCESS,Anthony Martial,16000000.0,False,Used Large Dataset,False,Anthony Martial,Anthony Caci,single
+1083,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Alexis Beka Beka,none
+1084,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Téji Savanier,none
+1085,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Lucas Tousart,none
+1086,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,SUCCESS,Florian Thauvin,0,False,Not in either dataset for currect season but present in both seasons around match,True,Florian Thauvin,Florian Thauvin,single
+1087,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,SUCCESS,Randal Kolo Muani,2500000.0,False,working,False,Randal Kolo Muani,Randal Kolo Muani,single
+1088,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,André-Pierre Gignac,0,True,Online Lookup Required,False,André-Pierre Gignac,André-Pierre Gignac,single
+1089,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+1090,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Hiroki Sakai,5500000.0,False,working,False,Hiroki Sakai,Hiroki Sakai,single
+1091,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+1092,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Takehiro Tomiyasu,18000000.0,False,working,False,Takehiro Tomiyasu,Takehiro Tomiyasu,single
+1093,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Yuta Nakayama,800000.0,False,working,False,Yuta Nakayama,Yuta Nakayama,single
+1094,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+1095,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+1096,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Reo Hatate,50000.0,False,working,False,Reo Hatate,Reo Hatate,single
+1097,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+1098,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+1099,1365,"Olympics, 2020",France vs Japan,2021-07-28,Japan,JP,2021,SUCCESS,Ayase Ueda,450000.0,False,working,False,Ayase Ueda,Ayase Ueda,single

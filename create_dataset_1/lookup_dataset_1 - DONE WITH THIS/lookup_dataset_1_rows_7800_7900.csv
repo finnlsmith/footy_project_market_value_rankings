@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,0,0.0,True,Lookup Required,False,0,Ricketts,none
+1,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,SUCCESS,Alvas Powell,0.0,False,Large Dataset had 0,False,Alvas Powell,Powell,single
+2,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,"['Daniel Gordon', 'Owayne Gordon']",0.0,True,Was in  DB before or after season,True,"['Daniel Gordon', 'Owayne Gordon']",Gordon,multiple
+3,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,SUCCESS,Adrian Mariappa,2500000.0,False,working,False,Adrian Mariappa,Mariappa,single
+4,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,Clifton Woodbine,0.0,True,Online Lookup Required,False,Clifton Woodbine,Woodbine,single
+5,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,SUCCESS,Rodolph Austin,1700000.0,False,working,False,Rodolph Austin,Austin,single
+6,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,0,0.0,True,Online Lookup Required,False,0,Elliott,none
+7,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 8 Johnson",False,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",Johnson,multiple
+8,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,0,0.0,True,Lookup Required,False,0,Hue,none
+9,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,SUCCESS,Garath McCleary,1500000.0,False,working,False,Garath McCleary,Mc Cleary,single
+10,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 9 Johnson",False,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",Johnson,multiple
+11,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+12,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Brad Evans,700000.0,False,working,False,Brad Evans,Evans,single
+13,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,FAIL,"['Omar González', 'Jesse González']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar González', 'Jesse González']",False,"['Omar González', 'Jesse González']",Gonzalez,multiple
+14,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Matt Besler,400000.0,False,working,False,Matt Besler,Besler,single
+15,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,DaMarcus Beasley,900000.0,False,working,False,DaMarcus Beasley,Beasley,single
+16,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,FAIL,"['Jermaine Jones', 'DeJuan Jones']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jermaine Jones', 'DeJuan Jones']",False,"['Jermaine Jones', 'DeJuan Jones']",Jones,multiple
+17,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Michael Bradley,3500000.0,False,working,False,Michael Bradley,Bradley,single
+18,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Graham Zusi,500000.0,False,working,False,Graham Zusi,Zusi,single
+19,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Clint Dempsey,15000000.0,False,working,False,Clint Dempsey,Dempsey,single
+20,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+21,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,USA,US,2013,SUCCESS,Jozy Altidore,3500000.0,False,working,False,Jozy Altidore,Altidore,single
+22,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+23,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,Leonel Parris,0.0,False,Large Dataset had 0,False,Leonel Parris,Parris,single
+24,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+25,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+26,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",100000.0,False,working,False,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",Rodríguez,multiple
+27,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+28,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luis Henríquez', 'Amílcar Henríquez']",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+29,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,"['Gabriel Gómez', 'Martín Gómez']",400000.0,False,working,False,"['Gabriel Gómez', 'Martín Gómez']",Gómez,multiple
+30,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+31,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",750000.0,False,working,False,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",Tejada,multiple
+32,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Panama,PA,2013,SUCCESS,Blas Pérez,1500000.0,False,working,False,Blas Pérez,B Perez,single
+33,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,"['Jesús Corona', 'Yasser Corona']",2500000.0,False,working,False,"['Jesús Corona', 'Yasser Corona']",Corona,multiple
+34,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Severo Meza,1750000.0,False,working,False,Severo Meza,Meza,single
+35,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,FAIL,"['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",False,"['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",Rodriguez,multiple
+36,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Héctor Moreno,7000000.0,False,working,False,Héctor Moreno,Moreno,single
+37,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Carlos Salcido,2000000.0,False,working,False,Carlos Salcido,Salcido,single
+38,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Javier Aquino,1750000.0,False,working,False,Javier Aquino,Aquino,single
+39,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Jesús Zavala,1500000.0,False,working,False,Jesús Zavala,Zavala,single
+40,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Gerardo Torrado,1750000.0,False,working,False,Gerardo Torrado,Torrado,single
+41,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Andrés Guardado,7000000.0,False,working,False,Andrés Guardado,Guardado,single
+42,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,Giovani dos Santos,4000000.0,False,working,False,Giovani dos Santos,d Santos,single
+43,3945,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Mexico,07-Jun-13,Mexico,MX,2013,SUCCESS,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",700000.0,False,working,False,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",Hernández,multiple
+44,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,"['Jesús Corona', 'Yasser Corona']",2500000.0,False,working,False,"['Jesús Corona', 'Yasser Corona']",Corona,multiple
+45,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,FAIL,"['Gerardo Flores', 'Marcelo Flores']",0.0,True,Online Lookup Required,False,"['Gerardo Flores', 'Marcelo Flores']",Flores,multiple
+46,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,FAIL,"['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",False,"['Rodrigo López', 'Luis Rodríguez', 'Iván Rodríguez']",Rodriguez,multiple
+47,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,Héctor Moreno,7000000.0,False,working,False,Héctor Moreno,Moreno,single
+48,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,Carlos Salcido,2000000.0,False,working,False,Carlos Salcido,Salcido,single
+49,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,FAIL,0,0.0,True,Lookup Required,False,0,Barrera,none
+50,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,"['Héctor Herrera', 'Eduardo Herrera', 'Ozziel Herrera']",1800000.0,False,working,False,"['Héctor Herrera', 'Eduardo Herrera', 'Ozziel Herrera']",Herrera,multiple
+51,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,Jesús Zavala,1500000.0,False,working,False,Jesús Zavala,Zavala,single
+52,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,Andrés Guardado,7000000.0,False,working,False,Andrés Guardado,Guardado,single
+53,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",700000.0,False,working,False,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",Hernández,multiple
+54,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Mexico,MX,2013,SUCCESS,Aldo de Nigris,3000000.0,False,working,False,Aldo de Nigris,D Nigris,single
+55,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,Keylor Navas,800000.0,False,working,False,Keylor Navas,Navas,single
+56,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+57,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Jhonny Acosta', 'Bismar Acosta']",250000.0,False,working,False,"['Jhonny Acosta', 'Bismar Acosta']",Acosta,multiple
+58,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+59,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+60,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Júnior Díaz', 'Luis Díaz']",1000000.0,False,working,False,"['Júnior Díaz', 'Luis Díaz']",Díaz,multiple
+61,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+62,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Michael Barrantes', 'Luis Barrantes']",1200000.0,False,working,False,"['Michael Barrantes', 'Luis Barrantes']",Barrantes,multiple
+63,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,Yeltsin Tejeda,525000.0,False,working,False,Yeltsin Tejeda,Tejeda,single
+64,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,Christian Bolaños,2000000.0,False,working,False,Christian Bolaños,Bolaños,single
+65,3946,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Costa Rica,11-Jun-13,Costa Rica,CR,2013,SUCCESS,Joel Campbell,1500000.0,False,working,False,Joel Campbell,Campbell,single
+66,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+67,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Arnold Peralta,0.0,False,Large Dataset had 0,False,Arnold Peralta,Peralta,single
+68,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,"['Víctor Bernárdez', 'Marvin Bernárdez']",1000000.0,False,working,False,"['Víctor Bernárdez', 'Marvin Bernárdez']",Bernárdez,multiple
+69,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,"['Juan Pablo Montes', 'Getsel Montes']",0.0,False,Large Dataset said 0,False,"['Juan Pablo Montes', 'Getsel Montes']",Montes,multiple
+70,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+71,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Luis Garrido,0.0,False,Large Dataset had 0,False,Luis Garrido,Garrido,single
+72,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,FAIL,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Juan Carlos García', 'Boniek García']]",False,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",García,multiple
+73,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,FAIL,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Wilson Palacios', 'Jerry Palacios']]",False,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",Palacios,multiple
+74,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+75,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,FAIL,"['Mario Martínez', 'Rony Martínez', 'Wálter Martínez', 'Douglas Martínez', 'Francisco Martínez', 'Julián Martínez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Mario Martínez', 'Rony Martínez']]",False,"['Mario Martínez', 'Rony Martínez', 'Wálter Martínez', 'Douglas Martínez', 'Francisco Martínez', 'Julián Martínez']",Martínez,multiple
+76,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Honduras,HN,2013,SUCCESS,Róger Rojas,0.0,False,Large Dataset had 0,False,Róger Rojas,Rojas,single
+77,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,0,0.0,True,Lookup Required,False,0,Ricketts,none
+78,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,SUCCESS,Alvas Powell,0.0,False,Large Dataset had 0,False,Alvas Powell,Powell,single
+79,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,"['Daniel Gordon', 'Owayne Gordon']",0.0,True,Was in  DB before or after season,True,"['Daniel Gordon', 'Owayne Gordon']",Gordon,multiple
+80,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,SUCCESS,Adrian Mariappa,2500000.0,False,working,False,Adrian Mariappa,Mariappa,single
+81,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,Clifton Woodbine,0.0,True,Online Lookup Required,False,Clifton Woodbine,Woodbine,single
+82,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,SUCCESS,Je-Vaughn Watson,250000.0,False,working,False,Je-Vaughn Watson,Watson,single
+83,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,SUCCESS,Rodolph Austin,1700000.0,False,working,False,Rodolph Austin,Austin,single
+84,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,0,0.0,True,Online Lookup Required,False,0,Elliott,none
+85,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 8 Johnson",False,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",Johnson,multiple
+86,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 9 Johnson",False,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",Johnson,multiple
+87,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,"['Kemar Beckford', 'Deshane Beckford']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Kemar Beckford', 'Deshane Beckford']",False,"['Kemar Beckford', 'Deshane Beckford']",Beckford,multiple
+88,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+89,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Brad Evans,700000.0,False,working,False,Brad Evans,Evans,single
+90,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,FAIL,"['Omar González', 'Jesse González']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar González', 'Jesse González']",False,"['Omar González', 'Jesse González']",Gonzalez,multiple
+91,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Matt Besler,400000.0,False,working,False,Matt Besler,Besler,single
+92,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,DaMarcus Beasley,900000.0,False,working,False,DaMarcus Beasley,Beasley,single
+93,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Michael Bradley,3500000.0,False,working,False,Michael Bradley,Bradley,single
+94,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Geoff Cameron,2000000.0,False,working,False,Geoff Cameron,Cameron,single
+95,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+96,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Clint Dempsey,15000000.0,False,working,False,Clint Dempsey,Dempsey,single
+97,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+98,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,USA,US,2013,SUCCESS,Jozy Altidore,3500000.0,False,working,False,Jozy Altidore,Altidore,single
+99,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+100,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,Leonel Parris,0.0,False,Large Dataset had 0,False,Leonel Parris,Parris,single
+101,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+102,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+103,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",100000.0,False,working,False,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",Rodríguez,multiple
+104,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+105,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+106,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,Armando Cooper,0.0,False,Large Dataset had 0,False,Armando Cooper,Cooper,single
+107,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,Aníbal Godoy,0.0,False,Large Dataset had 0,False,Aníbal Godoy,Godoy,single
+108,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+109,3948,"World Cup 2014, Qualifiers, CONCACAF",USA vs Panama,11-Jun-13,Panama,PA,2013,SUCCESS,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",750000.0,False,working,False,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",Tejada,multiple
+110,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+111,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Brad Evans,700000.0,False,working,False,Brad Evans,Evans,single
+112,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,FAIL,"['Omar González', 'Jesse González']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar González', 'Jesse González']",False,"['Omar González', 'Jesse González']",Gonzalez,multiple
+113,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Matt Besler,400000.0,False,working,False,Matt Besler,Besler,single
+114,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+115,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Michael Bradley,3500000.0,False,working,False,Michael Bradley,Bradley,single
+116,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,FAIL,"['Jermaine Jones', 'DeJuan Jones']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jermaine Jones', 'DeJuan Jones']",False,"['Jermaine Jones', 'DeJuan Jones']",Jones,multiple
+117,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Graham Zusi,500000.0,False,working,False,Graham Zusi,Zusi,single
+118,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Clint Dempsey,15000000.0,False,working,False,Clint Dempsey,Dempsey,single
+119,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+120,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,USA,US,2013,SUCCESS,Jozy Altidore,3500000.0,False,working,False,Jozy Altidore,Altidore,single
+121,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+122,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Arnold Peralta,0.0,False,Large Dataset had 0,False,Arnold Peralta,Peralta,single
+123,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,FAIL,0,0.0,True,Lookup Required,False,0,Velásquez,none
+124,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,"['Juan Pablo Montes', 'Getsel Montes']",0.0,False,Large Dataset said 0,False,"['Juan Pablo Montes', 'Getsel Montes']",Montes,multiple
+125,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+126,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Jorge Claros,200000.0,False,working,False,Jorge Claros,Claros,single
+127,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Andy Nájar,350000.0,False,working,False,Andy Nájar,Najar,single
+128,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,FAIL,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Wilson Palacios', 'Jerry Palacios']]",False,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",Palacios,multiple
+129,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+130,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,FAIL,"['Mario Martínez', 'Rony Martínez', 'Wálter Martínez', 'Douglas Martínez', 'Francisco Martínez', 'Julián Martínez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Mario Martínez', 'Rony Martínez']]",False,"['Mario Martínez', 'Rony Martínez', 'Wálter Martínez', 'Douglas Martínez', 'Francisco Martínez', 'Julián Martínez']",Martínez,multiple
+131,3949,"World Cup 2014, Qualifiers, CONCACAF",USA vs Honduras,18-Jun-13,Honduras,HN,2013,SUCCESS,Carlo Costly,700000.0,False,working,False,Carlo Costly,Costly,single
+132,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Keylor Navas,800000.0,False,working,False,Keylor Navas,Navas,single
+133,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+134,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+135,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+136,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Júnior Díaz', 'Luis Díaz']",1000000.0,False,working,False,"['Júnior Díaz', 'Luis Díaz']",Díaz,multiple
+137,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Celso Borges,1500000.0,False,working,False,Celso Borges,Borges,single
+138,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Ariel Rodríguez', 'Osvaldo Rodríguez', 'Francisco Rodríguez']",175000.0,False,working,False,"['Ariel Rodríguez', 'Osvaldo Rodríguez', 'Francisco Rodríguez']",Rodríguez,multiple
+139,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Christian Bolaños,2000000.0,False,working,False,Christian Bolaños,Bolaños,single
+140,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+141,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Joel Campbell,1500000.0,False,working,False,Joel Campbell,Campbell,single
+142,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Costa Rica,CR,2013,SUCCESS,Álvaro Saborío,750000.0,False,working,False,Álvaro Saborío,Saborío,single
+143,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+144,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,Leonel Parris,0.0,False,Large Dataset had 0,False,Leonel Parris,Parris,single
+145,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+146,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+147,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+148,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,"['Rolando Escobar', 'Fidel Escobar']",0.0,False,Large Dataset said 0,False,"['Rolando Escobar', 'Fidel Escobar']",Escobar,multiple
+149,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+150,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,Armando Cooper,0.0,False,Large Dataset had 0,False,Armando Cooper,Cooper,single
+151,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+152,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,Blas Pérez,1500000.0,False,working,False,Blas Pérez,B Perez,single
+153,3950,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Panama,18-Jun-13,Panama,PA,2013,SUCCESS,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",750000.0,False,working,False,"['Luis Tejada', 'Juan Tejada', 'Leonel Tejada']",Tejada,multiple
+154,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Keylor Navas,800000.0,False,working,False,Keylor Navas,Navas,single
+155,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+156,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Jhonny Acosta', 'Bismar Acosta']",250000.0,False,working,False,"['Jhonny Acosta', 'Bismar Acosta']",Acosta,multiple
+157,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+158,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+159,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Bryan Oviedo,4500000.0,False,working,False,Bryan Oviedo,Oviedo,single
+160,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+161,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Celso Borges,1500000.0,False,working,False,Celso Borges,Borges,single
+162,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Yeltsin Tejeda,525000.0,False,working,False,Yeltsin Tejeda,Tejeda,single
+163,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Christian Bolaños,2000000.0,False,working,False,Christian Bolaños,Bolaños,single
+164,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,Costa Rica,CR,2013,SUCCESS,Joel Campbell,1500000.0,False,working,False,Joel Campbell,Campbell,single
+165,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+166,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Michael Orozco,1000000.0,False,working,False,Michael Orozco,Orozco,single
+167,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,FAIL,"['Omar González', 'Jesse González']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar González', 'Jesse González']",False,"['Omar González', 'Jesse González']",Gonzalez,multiple
+168,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Matt Besler,400000.0,False,working,False,Matt Besler,Besler,single
+169,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,DaMarcus Beasley,900000.0,False,working,False,DaMarcus Beasley,Beasley,single
+170,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Graham Zusi,500000.0,False,working,False,Graham Zusi,Zusi,single
+171,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Geoff Cameron,2000000.0,False,working,False,Geoff Cameron,Cameron,single
+172,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,FAIL,"['Jermaine Jones', 'DeJuan Jones']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jermaine Jones', 'DeJuan Jones']",False,"['Jermaine Jones', 'DeJuan Jones']",Jones,multiple
+173,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+174,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Landon Donovan,3500000.0,False,working,False,Landon Donovan,Donovan,single
+175,3951,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs USA,06-Sep-13,USA,US,2013,SUCCESS,Clint Dempsey,15000000.0,False,working,False,Clint Dempsey,Dempsey,single
+176,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,"['Jesús Corona', 'Yasser Corona']",2500000.0,False,working,False,"['Jesús Corona', 'Yasser Corona']",Corona,multiple
+177,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Severo Meza,1750000.0,False,working,False,Severo Meza,Meza,single
+178,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,"['Diego Reyes', 'Luis Reyes', 'Israel Reyes', 'Salvador Reyes']",4000000.0,False,working,False,"['Diego Reyes', 'Luis Reyes', 'Israel Reyes', 'Salvador Reyes']",Reyes,multiple
+179,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Héctor Moreno,7000000.0,False,working,False,Héctor Moreno,Moreno,single
+180,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Carlos Salcido,2000000.0,False,working,False,Carlos Salcido,Salcido,single
+181,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Gerardo Torrado,1750000.0,False,working,False,Gerardo Torrado,Torrado,single
+182,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Giovani dos Santos,4000000.0,False,working,False,Giovani dos Santos,d Santos,single
+183,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Fernando Arce,950000.0,False,working,False,Fernando Arce,Arce,single
+184,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Raúl Jiménez,1000000.0,False,working,False,Raúl Jiménez,Giménez,single
+185,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Ángel Reyna,1750000.0,False,working,False,Ángel Reyna,Reyna,single
+186,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Mexico,MX,2013,SUCCESS,Oribe Peralta,4000000.0,False,working,False,Oribe Peralta,Peralta,single
+187,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+188,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Brayan Beckeles,4000000.0,False,Used Large Dataset,False,Brayan Beckeles,Beckeles,single
+189,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,"['Víctor Bernárdez', 'Marvin Bernárdez']",1000000.0,False,working,False,"['Víctor Bernárdez', 'Marvin Bernárdez']",Bernárdez,multiple
+190,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",5500000.0,False,working,False,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",Figueroa,multiple
+191,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+192,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Luis Garrido,0.0,False,Large Dataset had 0,False,Luis Garrido,Garrido,single
+193,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,FAIL,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Juan Carlos García', 'Boniek García']]",False,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",García,multiple
+194,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,FAIL,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Wilson Palacios', 'Jerry Palacios']]",False,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",Palacios,multiple
+195,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+196,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Andy Nájar,350000.0,False,working,False,Andy Nájar,Najar,single
+197,3952,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Honduras,06-Sep-13,Honduras,HN,2013,SUCCESS,Carlo Costly,700000.0,False,working,False,Carlo Costly,Costly,single
+198,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+199,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+200,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+201,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,Roberto Chen,600000.0,False,Used Large Dataset,False,Roberto Chen,Chen,single
+202,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",100000.0,False,working,False,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",Rodríguez,multiple
+203,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+204,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,"['Gabriel Gómez', 'Martín Gómez']",400000.0,False,working,False,"['Gabriel Gómez', 'Martín Gómez']",Gómez,multiple
+205,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,Aníbal Godoy,0.0,False,Large Dataset had 0,False,Aníbal Godoy,Godoy,single
+206,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+207,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,FAIL,Cecilio Waterman,0,True,Online Lookup Required,False,Cecilio Waterman,Waterman,single
+208,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Román Torres', 'Gaby Torres']",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+209,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,FAIL,0,0,True,Lookup Required,False,0,Ricketts,none
+210,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,Alvas Powell,0.0,False,Large Dataset had 0,False,Alvas Powell,Powell,single
+211,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,Lloyd Doyley,500000.0,False,working,False,Lloyd Doyley,Doyley,single
+212,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,"['Wes Morgan', 'Marvin Morgan']",1700000.0,False,working,False,"['Wes Morgan', 'Marvin Morgan']",Morgan,multiple
+213,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,FAIL,"['Jermaine Taylor', 'Evan Taylor', 'Dennis Taylor']",0,True,Online Lookup Required,False,"['Jermaine Taylor', 'Evan Taylor', 'Dennis Taylor']",Taylor,multiple
+214,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,FAIL,"['Shaun Cummings', 'Fitzroy Cummings']",0,True,Online Lookup Required,False,"['Shaun Cummings', 'Fitzroy Cummings']",Cummings,multiple
+215,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,Garath McCleary,1500000.0,False,working,False,Garath McCleary,Mc Cleary,single
+216,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,Rodolph Austin,1700000.0,False,working,False,Rodolph Austin,Austin,single
+217,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,SUCCESS,Jobi McAnuff,800000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+218,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,FAIL,Richard King,0,True,Online Lookup Required,False,Richard King,King,single
+219,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Jamaica,JM,2013,FAIL,0,0,True,Lookup Required,False,0,Shelton,none
+220,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,Richard McCallum,0.0,False,Large Dataset had 0,False,Richard McCallum,Mc Callum,single
+221,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,Lloyd Doyley,500000.0,False,working,False,Lloyd Doyley,Doyley,single
+222,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,Adrian Mariappa,2500000.0,False,working,False,Adrian Mariappa,Mariappa,single
+223,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,"['Wes Morgan', 'Marvin Morgan']",1700000.0,False,working,False,"['Wes Morgan', 'Marvin Morgan']",Morgan,multiple
+224,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,FAIL,"['Jermaine Taylor', 'Evan Taylor', 'Dennis Taylor']",0,True,Was in  DB before or after season,True,"['Jermaine Taylor', 'Evan Taylor', 'Dennis Taylor']",Taylor,multiple
+225,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,FAIL,"['Shaun Cummings', 'Fitzroy Cummings']",0,True,Was in  DB before or after season,True,"['Shaun Cummings', 'Fitzroy Cummings']",Cummings,multiple
+226,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,Garath McCleary,1500000.0,False,working,False,Garath McCleary,Mc Cleary,single
+227,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,FAIL,0,0,True,Online Lookup Required,False,0,Elliott,none
+228,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,SUCCESS,Jobi McAnuff,800000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+229,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,FAIL,Richard King,0,True,Online Lookup Required,False,Richard King,King,single
+230,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Jamaica,JM,2013,FAIL,0,0,True,Lookup Required,False,0,Shelton,none
+231,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,Patrick Pemberton,500000.0,False,working,False,Patrick Pemberton,Pemberton,single
+232,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+233,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Jhonny Acosta', 'Bismar Acosta']",250000.0,False,working,False,"['Jhonny Acosta', 'Bismar Acosta']",Acosta,multiple
+234,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+235,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+236,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Júnior Díaz', 'Luis Díaz']",1000000.0,False,working,False,"['Júnior Díaz', 'Luis Díaz']",Díaz,multiple
+237,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+238,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,Celso Borges,1500000.0,False,working,False,Celso Borges,Borges,single
+239,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,Yeltsin Tejeda,525000.0,False,working,False,Yeltsin Tejeda,Tejeda,single
+240,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,"['Diego Calvo', 'Francisco Calvo']",250000.0,False,working,False,"['Diego Calvo', 'Francisco Calvo']",Calvo,multiple
+241,3954,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Costa Rica,10-Sep-13,Costa Rica,CR,2013,SUCCESS,Joel Campbell,1500000.0,False,working,False,Joel Campbell,Campbell,single
+242,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+243,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Brayan Beckeles,4000000.0,False,Used Large Dataset,False,Brayan Beckeles,Beckeles,single
+244,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,"['Víctor Bernárdez', 'Marvin Bernárdez']",1000000.0,False,working,False,"['Víctor Bernárdez', 'Marvin Bernárdez']",Bernárdez,multiple
+245,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",5500000.0,False,working,False,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",Figueroa,multiple
+246,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+247,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,FAIL,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Juan Carlos García', 'Boniek García']]",False,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",García,multiple
+248,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Luis Garrido,0.0,False,Large Dataset had 0,False,Luis Garrido,Garrido,single
+249,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,FAIL,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Wilson Palacios', 'Jerry Palacios']]",False,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",Palacios,multiple
+250,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+251,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Carlo Costly,700000.0,False,working,False,Carlo Costly,Costly,single
+252,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Honduras,HN,2013,SUCCESS,Jerry Bengtson,350000.0,False,working,False,Jerry Bengtson,Bengtson,single
+253,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+254,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,Roberto Chen,600000.0,False,Used Large Dataset,False,Roberto Chen,Chen,single
+255,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+256,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,Cummings,single
+257,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+258,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+259,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,"['Gabriel Gómez', 'Martín Gómez']",400000.0,False,working,False,"['Gabriel Gómez', 'Martín Gómez']",Gómez,multiple
+260,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+261,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+262,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,SUCCESS,Blas Pérez,1500000.0,False,working,False,Blas Pérez,B Perez,single
+263,3955,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,10-Sep-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+264,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+265,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+266,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,FAIL,"['Omar González', 'Jesse González']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Omar González', 'Jesse González']",False,"['Omar González', 'Jesse González']",Gonzalez,multiple
+267,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Clarence Goodson,1500000.0,False,working,False,Clarence Goodson,Goodson,single
+268,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,DaMarcus Beasley,900000.0,False,working,False,DaMarcus Beasley,Beasley,single
+269,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,FAIL,"['Jermaine Jones', 'DeJuan Jones']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jermaine Jones', 'DeJuan Jones']",False,"['Jermaine Jones', 'DeJuan Jones']",Jones,multiple
+270,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Kyle Beckerman,750000.0,False,working,False,Kyle Beckerman,Beckerman,single
+271,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Alejandro Bedoya,750000.0,False,working,False,Alejandro Bedoya,Bedoya,single
+272,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Clint Dempsey,15000000.0,False,working,False,Clint Dempsey,Dempsey,single
+273,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,SUCCESS,Landon Donovan,3500000.0,False,working,False,Landon Donovan,Donovan,single
+274,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,USA,US,2013,FAIL,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",False,"['Sean Johnson', 'Fabian Johnson', 'Eddie Johnson']",Johnson,multiple
+275,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,"['Jesús Corona', 'Yasser Corona']",2500000.0,False,working,False,"['Jesús Corona', 'Yasser Corona']",Corona,multiple
+276,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Hiram Mier,2000000.0,False,working,False,Hiram Mier,H Mier,single
+277,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,"['Diego Reyes', 'Luis Reyes', 'Israel Reyes', 'Salvador Reyes']",4000000.0,False,working,False,"['Diego Reyes', 'Luis Reyes', 'Israel Reyes', 'Salvador Reyes']",Reyes,multiple
+278,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Héctor Moreno,7000000.0,False,working,False,Héctor Moreno,Moreno,single
+279,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Carlos Salcido,2000000.0,False,working,False,Carlos Salcido,Salcido,single
+280,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Raúl Jiménez,1000000.0,False,working,False,Raúl Jiménez,Giménez,single
+281,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Fernando Arce,950000.0,False,working,False,Fernando Arce,Arce,single
+282,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Jesús Zavala,1500000.0,False,working,False,Jesús Zavala,Zavala,single
+283,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Andrés Guardado,7000000.0,False,working,False,Andrés Guardado,Guardado,single
+284,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",700000.0,False,working,False,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",Hernández,multiple
+285,3956,"World Cup 2014, Qualifiers, CONCACAF",USA vs Mexico,10-Sep-13,Mexico,MX,2013,SUCCESS,Giovani dos Santos,4000000.0,False,working,False,Giovani dos Santos,d Santos,single
+286,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+287,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Arnold Peralta,0.0,False,Large Dataset had 0,False,Arnold Peralta,Peralta,single
+288,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,"['Víctor Bernárdez', 'Marvin Bernárdez']",1000000.0,False,working,False,"['Víctor Bernárdez', 'Marvin Bernárdez']",Bernárdez,multiple
+289,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",5500000.0,False,working,False,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",Figueroa,multiple
+290,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+291,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,FAIL,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Juan Carlos García', 'Boniek García']]",False,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",García,multiple
+292,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,FAIL,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Wilson Palacios', 'Jerry Palacios']]",False,"['Wilson Palacios', 'Jerry Palacios', 'Johnny Palacios', 'Carlos Palacios']",Palacios,multiple
+293,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Luis Garrido,0.0,False,Large Dataset had 0,False,Luis Garrido,Garrido,single
+294,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+295,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Jerry Bengtson,350000.0,False,working,False,Jerry Bengtson,Bengtson,single
+296,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Honduras,HN,2013,SUCCESS,Carlo Costly,700000.0,False,working,False,Carlo Costly,Costly,single
+297,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,Keylor Navas,800000.0,False,working,False,Keylor Navas,Navas,single
+298,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+299,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Jhonny Acosta', 'Bismar Acosta']",250000.0,False,working,False,"['Jhonny Acosta', 'Bismar Acosta']",Acosta,multiple
+300,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+301,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+302,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Júnior Díaz', 'Luis Díaz']",1000000.0,False,working,False,"['Júnior Díaz', 'Luis Díaz']",Díaz,multiple
+303,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+304,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,José Miguel Cubero,400000.0,False,working,False,José Miguel Cubero,Cubero,single
+305,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,Celso Borges,1500000.0,False,working,False,Celso Borges,Borges,single
+306,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,Christian Bolaños,2000000.0,False,working,False,Christian Bolaños,Bolaños,single
+307,3957,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Costa Rica,11-Oct-13,Costa Rica,CR,2013,SUCCESS,Álvaro Saborío,750000.0,False,working,False,Álvaro Saborío,Saborío,single
+308,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Tim Howard,4000000.0,False,working,False,Tim Howard,Howard,single
+309,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Brad Evans,700000.0,False,working,False,Brad Evans,Evans,single
+310,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Geoff Cameron,2000000.0,False,working,False,Geoff Cameron,Cameron,single
+311,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Matt Besler,400000.0,False,working,False,Matt Besler,Besler,single
+312,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,DaMarcus Beasley,900000.0,False,working,False,DaMarcus Beasley,Beasley,single
+313,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Alejandro Bedoya,750000.0,False,working,False,Alejandro Bedoya,Bedoya,single
+314,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Mix Diskerud,900000.0,False,working,False,Mix Diskerud,Diskerud,single
+315,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,FAIL,"['Jermaine Jones', 'DeJuan Jones']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jermaine Jones', 'DeJuan Jones']",False,"['Jermaine Jones', 'DeJuan Jones']",Jones,multiple
+316,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Landon Donovan,3500000.0,False,working,False,Landon Donovan,Donovan,single
+317,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Jozy Altidore,3500000.0,False,working,False,Jozy Altidore,Altidore,single
+318,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,USA,US,2013,SUCCESS,Aron Jóhannsson,450000.0,False,working,False,Aron Jóhannsson,Jóhannsson,single
+319,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,FAIL,Duwayne Kerr,0,True,Was in  DB before or after season,True,Duwayne Kerr,Kerr,single
+320,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Lloyd Doyley,500000.0,False,working,False,Lloyd Doyley,Doyley,single
+321,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,"['Wes Morgan', 'Marvin Morgan']",1700000.0,False,working,False,"['Wes Morgan', 'Marvin Morgan']",Morgan,multiple
+322,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Adrian Mariappa,2500000.0,False,working,False,Adrian Mariappa,Mariappa,single
+323,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,"['Demar Phillips', 'Demario Phillips']",500000.0,False,working,False,"['Demar Phillips', 'Demario Phillips']",Phillips,multiple
+324,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Je-Vaughn Watson,250000.0,False,working,False,Je-Vaughn Watson,Watson,single
+325,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Rodolph Austin,1700000.0,False,working,False,Rodolph Austin,Austin,single
+326,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,"['Deshorn Brown', 'Brian Brown', 'Javain Brown']",125000.0,False,working,False,"['Deshorn Brown', 'Brian Brown', 'Javain Brown']",Brown,multiple
+327,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Jobi McAnuff,800000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+328,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,SUCCESS,Darren Mattocks,250000.0,False,working,False,Darren Mattocks,Mattocks,single
+329,3958,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Oct-13,Jamaica,JM,2013,FAIL,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 9 Johnson",False,"['Jason Johnson', 'Jermaine Johnson', 'Daniel Johnson']",Johnson,multiple
+330,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",6500000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+331,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Miguel Layún,800000.0,False,working,False,Miguel Layún,Layún,single
+332,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Rafa Márquez,1500000.0,False,working,False,Rafa Márquez,R Marquez,single
+333,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Hugo Ayala,2000000.0,False,working,False,Hugo Ayala,Ayala,single
+334,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,"['Érick Torres', 'Jairo Torres']",1500000.0,False,working,False,"['Érick Torres', 'Jairo Torres']",Torres,multiple
+335,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Jesús Zavala,1500000.0,False,working,False,Jesús Zavala,Zavala,single
+336,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Giovani dos Santos,4000000.0,False,working,False,Giovani dos Santos,d Santos,single
+337,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,"['Carlos Peña', 'Alexis Peña']",1300000.0,False,working,False,"['Carlos Peña', 'Alexis Peña']",Peña,multiple
+338,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Javier Aquino,1750000.0,False,working,False,Javier Aquino,Aquino,single
+339,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",700000.0,False,working,False,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",Hernández,multiple
+340,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Mexico,MX,2013,SUCCESS,Oribe Peralta,4000000.0,False,working,False,Oribe Peralta,Peralta,single
+341,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+342,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,Cummings,single
+343,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+344,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+345,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+346,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,"['Gabriel Gómez', 'Martín Gómez']",400000.0,False,working,False,"['Gabriel Gómez', 'Martín Gómez']",Gómez,multiple
+347,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+348,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+349,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,Aníbal Godoy,0.0,False,Large Dataset had 0,False,Aníbal Godoy,Godoy,single
+350,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+351,3959,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Panama,11-Oct-13,Panama,PA,2013,SUCCESS,Blas Pérez,1500000.0,False,working,False,Blas Pérez,B Perez,single
+352,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Keylor Navas,800000.0,False,working,False,Keylor Navas,Navas,single
+353,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",600000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+354,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Jhonny Acosta', 'Bismar Acosta']",250000.0,False,working,False,"['Jhonny Acosta', 'Bismar Acosta']",Acosta,multiple
+355,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Giancarlo González', 'Leonardo González']",600000.0,False,working,False,"['Giancarlo González', 'Leonardo González']",González,multiple
+356,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Michael Umaña,400000.0,False,working,False,Michael Umaña,Umaña,single
+357,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Bryan Oviedo,4500000.0,False,working,False,Bryan Oviedo,Oviedo,single
+358,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",10000000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+359,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Celso Borges,1500000.0,False,working,False,Celso Borges,Borges,single
+360,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Yeltsin Tejeda,525000.0,False,working,False,Yeltsin Tejeda,Tejeda,single
+361,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Christian Bolaños,2000000.0,False,working,False,Christian Bolaños,Bolaños,single
+362,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Costa Rica,CR,2013,SUCCESS,Joel Campbell,1500000.0,False,working,False,Joel Campbell,Campbell,single
+363,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",6500000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+364,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Miguel Layún,800000.0,False,working,False,Miguel Layún,Layún,single
+365,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Rafa Márquez,1500000.0,False,working,False,Rafa Márquez,R Marquez,single
+366,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Hugo Ayala,2000000.0,False,working,False,Hugo Ayala,Ayala,single
+367,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,"['Érick Torres', 'Jairo Torres']",1500000.0,False,working,False,"['Érick Torres', 'Jairo Torres']",Torres,multiple
+368,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Jesús Zavala,1500000.0,False,working,False,Jesús Zavala,Zavala,single
+369,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Javier Aquino,1750000.0,False,working,False,Javier Aquino,Aquino,single
+370,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,"['Carlos Peña', 'Alexis Peña']",1300000.0,False,working,False,"['Carlos Peña', 'Alexis Peña']",Peña,multiple
+371,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Raúl Jiménez,1000000.0,False,working,False,Raúl Jiménez,Giménez,single
+372,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,Oribe Peralta,4000000.0,False,working,False,Oribe Peralta,Peralta,single
+373,3960,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,15-Oct-13,Mexico,MX,2013,SUCCESS,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",700000.0,False,working,False,"['Edwin Hernández', 'Melitón Hernández', 'Elías Hernández', 'Jorge Hernández', 'José Hernández']",Hernández,multiple
+374,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,FAIL,Duwayne Kerr,0,True,Was in  DB before or after season,True,Duwayne Kerr,Kerr,single
+375,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Lloyd Doyley,500000.0,False,working,False,Lloyd Doyley,Doyley,single
+376,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,"['Wes Morgan', 'Marvin Morgan']",1700000.0,False,working,False,"['Wes Morgan', 'Marvin Morgan']",Morgan,multiple
+377,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Adrian Mariappa,2500000.0,False,working,False,Adrian Mariappa,Mariappa,single
+378,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,"['Demar Phillips', 'Demario Phillips']",500000.0,False,working,False,"['Demar Phillips', 'Demario Phillips']",Phillips,multiple
+379,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Rodolph Austin,1700000.0,False,working,False,Rodolph Austin,Austin,single
+380,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Je-Vaughn Watson,250000.0,False,working,False,Je-Vaughn Watson,Watson,single
+381,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,"['Deshorn Brown', 'Brian Brown', 'Javain Brown']",125000.0,False,working,False,"['Deshorn Brown', 'Brian Brown', 'Javain Brown']",Brown,multiple
+382,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Jobi McAnuff,800000.0,False,working,False,Jobi McAnuff,Mc Anuff,single
+383,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,Darren Mattocks,250000.0,False,working,False,Darren Mattocks,Mattocks,single
+384,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Jamaica,JM,2013,SUCCESS,"['Jermaine Anderson', 'Collin Anderson', 'Karoy Anderson']",0.0,False,Large Dataset said 0,False,"['Jermaine Anderson', 'Collin Anderson', 'Karoy Anderson']",Anderson,multiple
+385,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Noel Valladares,1500000.0,False,working,False,Noel Valladares,Valladares,single
+386,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Brayan Beckeles,4000000.0,False,Used Large Dataset,False,Brayan Beckeles,Beckeles,single
+387,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,"['Víctor Bernárdez', 'Marvin Bernárdez']",1000000.0,False,working,False,"['Víctor Bernárdez', 'Marvin Bernárdez']",Bernárdez,multiple
+388,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",5500000.0,False,working,False,"['Henry Figueroa', 'Maynor Figueroa', 'Josman Figueroa']",Figueroa,multiple
+389,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Emilio Izaguirre,4500000.0,False,working,False,Emilio Izaguirre,Izaguirre,single
+390,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Andy Nájar,350000.0,False,working,False,Andy Nájar,Najar,single
+391,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Jorge Claros,200000.0,False,working,False,Jorge Claros,Claros,single
+392,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Luis Garrido,0.0,False,Large Dataset had 0,False,Luis Garrido,Garrido,single
+393,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Róger Espinoza,600000.0,False,working,False,Róger Espinoza,Espinoza,single
+394,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,FAIL,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Juan Carlos García', 'Boniek García']]",False,"['Juan Carlos García', 'Boniek García', 'Brayan García', 'Devron García', 'José García']",García,multiple
+395,3961,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs Honduras,15-Oct-13,Honduras,HN,2013,SUCCESS,Carlo Costly,700000.0,False,working,False,Carlo Costly,Costly,single
+396,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,Penedo,single
+397,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+398,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+399,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,Felipe Baloy,1750000.0,False,working,False,Felipe Baloy,Baloy,single
+400,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",100000.0,False,working,False,"['Álex Rodríguez', 'Carlos Rodríguez', 'Jhamal Rodríguez', 'Tomás Rodríguez']",Rodríguez,multiple
+401,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",0.0,False,Large Dataset said 0,False,"['Marcos Sánchez', 'Jorlian Sánchez', 'Jean Carlos Sánchez']",Sánchez,multiple
+402,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,"['Gabriel Gómez', 'Martín Gómez']",400000.0,False,working,False,"['Gabriel Gómez', 'Martín Gómez']",Gómez,multiple
+403,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,FAIL,"['Luis Henríquez', 'Amílcar Henríquez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luis Henríquez', 'Amílcar Henríquez']]",False,"['Luis Henríquez', 'Amílcar Henríquez']",Henriquez,multiple
+404,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,"['Alberto Quintero', 'Cristian Quintero']",0.0,False,Large Dataset said 0,False,"['Alberto Quintero', 'Cristian Quintero']",Quintero,multiple
+405,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,SUCCESS,Blas Pérez,1500000.0,False,working,False,Blas Pérez,B Perez,single
+406,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,Panama,PA,2013,FAIL,"['Román Torres', 'Gaby Torres']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Román Torres', 'Gaby Torres']]",False,"['Román Torres', 'Gaby Torres']",Torres,multiple
+407,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Brad Guzan,2000000.0,False,working,False,Brad Guzan,Guzan,single
+408,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Brad Evans,700000.0,False,working,False,Brad Evans,Evans,single
+409,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Clarence Goodson,1500000.0,False,working,False,Clarence Goodson,Goodson,single
+410,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Michael Orozco,1000000.0,False,working,False,Michael Orozco,Orozco,single
+411,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Edgar Castillo,1500000.0,False,working,False,Edgar Castillo,Castillo,single
+412,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Kyle Beckerman,750000.0,False,working,False,Kyle Beckerman,Beckerman,single
+413,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Sacha Kljestan,2500000.0,False,working,False,Sacha Kljestan,Kljestan,single
+414,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Alejandro Bedoya,750000.0,False,working,False,Alejandro Bedoya,Bedoya,single
+415,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Mix Diskerud,900000.0,False,working,False,Mix Diskerud,Diskerud,single
+416,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Graham Zusi,500000.0,False,working,False,Graham Zusi,Zusi,single
+417,3962,"World Cup 2014, Qualifiers, CONCACAF",Panama vs USA,15-Oct-13,USA,US,2013,SUCCESS,Jozy Altidore,3500000.0,False,working,False,Jozy Altidore,Altidore,single
+418,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+419,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+420,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+421,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+422,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+423,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+424,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+425,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+426,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+427,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+428,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+429,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+430,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+431,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+432,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+433,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+434,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+435,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+436,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+437,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+438,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+439,3964,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs US Virgin Islands,22-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+440,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,"['Cristiam Gutiérrez', 'Luis Gutiérrez', 'Denillson Gutiérrez']",0,True,Online Lookup Required,False,"['Cristiam Gutiérrez', 'Luis Gutiérrez', 'Denillson Gutiérrez']",Gutiérrez,multiple
+441,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,SUCCESS,Alejandro Tapia,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alejandro Tapia,Tapia,single
+442,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,SUCCESS,Raúl Leguías,75000.0,False,working,False,Raúl Leguías,Leguías,single
+443,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+444,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+445,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+446,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+447,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+448,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+449,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+450,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+451,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+452,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+453,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+454,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+455,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+456,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+457,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+458,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+459,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+460,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+461,3965,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Anguilla,23-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+462,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+463,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+464,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+465,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+466,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+467,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+468,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+469,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+470,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+471,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+472,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+473,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+474,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+475,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+476,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+477,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+478,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+479,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+480,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+481,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+482,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+483,3966,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Turks and Caicos Iss,23-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+484,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+485,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+486,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+487,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+488,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+489,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+490,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+491,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+492,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+493,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+494,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+495,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+496,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+497,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+498,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+499,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+500,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+501,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+502,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+503,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+504,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+505,3967,"World Cup 2018, Qualifiers, CONCACAF",Bahamas vs Bermuda,25-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+506,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+507,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+508,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+509,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+510,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+511,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+512,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+513,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+514,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+515,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+516,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+517,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+518,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+519,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+520,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+521,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+522,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+523,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+524,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+525,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+526,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+527,3968,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Cayman Islands,25-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+528,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+529,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+530,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+531,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+532,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+533,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+534,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+535,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+536,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+537,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+538,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,US Virgin Islands,VI,2015,FAIL,-,0,False,Null Name,False,,-,none
+539,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+540,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+541,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+542,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+543,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+544,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+545,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+546,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+547,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+548,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+549,3969,"World Cup 2018, Qualifiers, CONCACAF",US Virgin Islands vs Barbados,26-Mar-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+550,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+551,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+552,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+553,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+554,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+555,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+556,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+557,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+558,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+559,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+560,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+561,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+562,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+563,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+564,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+565,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+566,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+567,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+568,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+569,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+570,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+571,3970,"World Cup 2018, Qualifiers, CONCACAF",British Virgin Islands vs Dominica,26-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+572,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+573,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+574,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+575,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+576,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+577,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+578,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+579,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+580,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+581,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+582,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Turks and Caicos Iss,TC,2015,FAIL,-,0,False,Null Name,False,,-,none
+583,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+584,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+585,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+586,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+587,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+588,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+589,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+590,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+591,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+592,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+593,3971,"World Cup 2018, Qualifiers, CONCACAF",Turks and Caicos Iss vs Saint Kitts and Nevis,26-Mar-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+594,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+595,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+596,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+597,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+598,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+599,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+600,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+601,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+602,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+603,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+604,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+605,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+606,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+607,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+608,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+609,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+610,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+611,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+612,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+613,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+614,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+615,3972,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Montserrat,27-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+616,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+617,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+618,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+619,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+620,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+621,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+622,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+623,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+624,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+625,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+626,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+627,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+628,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+629,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+630,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+631,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+632,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+633,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+634,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+635,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+636,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+637,3973,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Bahamas,29-Mar-15,Bahamas,BS,2015,FAIL,-,0,False,Null Name,False,,-,none
+638,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+639,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+640,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+641,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+642,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+643,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+644,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+645,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+646,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+647,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+648,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,Dominica,DM,2015,FAIL,-,0,False,Null Name,False,,-,none
+649,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+650,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+651,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+652,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+653,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+654,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+655,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+656,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+657,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+658,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+659,3974,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs British Virgin Islands,29-Mar-15,British Virgin Islands,BVI,2015,FAIL,-,0,False,Null Name,False,,-,none
+660,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+661,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+662,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+663,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+664,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+665,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+666,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+667,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+668,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+669,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+670,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Anguilla,AI,2015,FAIL,-,0,False,Null Name,False,,-,none
+671,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+672,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+673,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+674,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+675,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+676,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+677,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+678,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+679,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+680,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+681,3975,"World Cup 2018, Qualifiers, CONCACAF",Anguilla vs Nicaragua,29-Mar-15,Nicaragua,NI,2015,FAIL,-,0,False,Null Name,False,,-,none
+682,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+683,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+684,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+685,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+686,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+687,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+688,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+689,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+690,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+691,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+692,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Cayman Islands,KY,2015,FAIL,-,0,False,Null Name,False,,-,none
+693,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+694,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+695,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+696,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+697,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+698,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+699,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+700,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+701,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+702,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+703,3976,"World Cup 2018, Qualifiers, CONCACAF",Cayman Islands vs Belize,29-Mar-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+704,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+705,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+706,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+707,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+708,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+709,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+710,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+711,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+712,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+713,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+714,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Montserrat,MS,2015,FAIL,-,0,False,Null Name,False,,-,none
+715,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+716,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+717,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+718,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+719,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+720,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+721,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+722,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+723,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+724,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+725,3977,"World Cup 2018, Qualifiers, CONCACAF",Montserrat vs Curaçao,31-Mar-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+726,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Justo Lorente,150000.0,False,working,False,Justo Lorente,Lorente,single
+727,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,Quijano,single
+728,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Jason Casco,0.0,False,Large Dataset had 0,False,Jason Casco,Casco,single
+729,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Luis Copete,200000.0,False,working,False,Luis Copete,Copete,single
+730,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,Rosas,single
+731,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,FAIL,"['Oscar Lopez', 'Marlon Lopez', 'Franklin Lopez', 'Jessie Lopez', 'Luis Lopez', 'Alyer Lopez', 'Brayan Lopez', 'Ronald Lopez']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Marlon Lopez', 'Franklin Lopez']",False,"['Oscar Lopez', 'Marlon Lopez', 'Franklin Lopez', 'Jessie Lopez', 'Luis Lopez', 'Alyer Lopez', 'Brayan Lopez', 'Ronald Lopez']",Lopez,multiple
+732,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Marlon López,75000.0,False,working,False,Marlon López,M Lopez,single
+733,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,"['Carlos Chavarría', 'Adrián Chavarría']",0.0,False,Large Dataset said 0,False,"['Carlos Chavarría', 'Adrián Chavarría']",Chavarria,multiple
+734,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Luis Galeano,0.0,False,Large Dataset had 0,False,Luis Galeano,Galeano,single
+735,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,Juan Barrera,250000.0,False,working,False,Juan Barrera,Barrera,single
+736,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Nicaragua,NI,2015,SUCCESS,"['Norfran Lazo', 'Érick Lazo']",0.0,False,Large Dataset said 0,False,"['Norfran Lazo', 'Érick Lazo']",Lazo,multiple
+737,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Obrendo Huiswoud,0.0,False,Large Dataset had 0,False,Obrendo Huiswoud,Huiswoud,single
+738,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Jurmen Vallei,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jurmen Vallei,Vallei,single
+739,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,"['Joel Baja', 'Andwello Baja']",0.0,False,Large Dataset said 0,False,"['Joel Baja', 'Andwello Baja']",Baja,multiple
+740,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Gilberto Eind,0.0,False,Large Dataset had 0,False,Gilberto Eind,Eind,single
+741,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Anduelo Amoeferie,0,False,Not in either dataset for currect season but present in both seasons around match,True,Anduelo Amoeferie,Amoeferie,single
+742,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Gregory Pokie,0.0,False,Large Dataset had 0,False,Gregory Pokie,Pokie,single
+743,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Giovanni Waal,0,False,Not in either dataset for currect season but present in both seasons around match,True,Giovanni Waal,Waal,single
+744,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,"['Jetro Fer', 'Roxey Fer', 'Donnegy Fer']",0.0,False,Large Dataset said 0,False,"['Jetro Fer', 'Roxey Fer', 'Donnegy Fer']",Fer,multiple
+745,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Vangelino Sastrodimedjo,0,False,Not in either dataset for currect season but present in both seasons around match,True,Vangelino Sastrodimedjo,Sastromedjo,single
+746,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,SUCCESS,Dimitrie Apai,0.0,False,Large Dataset had 0,False,Dimitrie Apai,Apai,single
+747,3978,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua vs Suriname,7-Jun-15,Suriname,SR,2015,FAIL,"['Gregory Rigters', 'Jamilhio Rigters']",0,True,Online Lookup Required,False,"['Gregory Rigters', 'Jamilhio Rigters']",Rigters,multiple
+748,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+749,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+750,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+751,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+752,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+753,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+754,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+755,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+756,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+757,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+758,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+759,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+760,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+761,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+762,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+763,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+764,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+765,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+766,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+767,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+768,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+769,3979,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines vs Guyana,10-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+770,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+771,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+772,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+773,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+774,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+775,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+776,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+777,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+778,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+779,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+780,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+781,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+782,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+783,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+784,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+785,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+786,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+787,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+788,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+789,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+790,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+791,3980,"World Cup 2018, Qualifiers, CONCACAF",Antigua and Barbuda vs Saint Lucia,10-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+792,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+793,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+794,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+795,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+796,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+797,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+798,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+799,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+800,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+801,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+802,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+803,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+804,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+805,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+806,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+807,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+808,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+809,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+810,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+811,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+812,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+813,3981,"World Cup 2018, Qualifiers, CONCACAF",Aruba vs Barbados,10-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+814,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+815,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+816,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+817,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+818,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+819,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+820,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+821,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+822,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+823,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+824,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+825,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+826,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+827,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+828,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+829,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+830,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+831,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+832,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+833,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+834,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+835,3982,"World Cup 2018, Qualifiers, CONCACAF",Curaçao vs Cuba,10-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+836,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+837,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+838,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+839,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+840,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+841,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+842,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+843,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+844,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+845,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+846,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+847,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+848,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+849,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+850,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+851,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+852,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+853,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+854,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+855,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+856,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+857,3983,"World Cup 2018, Qualifiers, CONCACAF",Dominican Republic vs Belize,11-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+858,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,FAIL,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Glenson Prince', 'Hubert Prince']",False,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",Prince,multiple
+859,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,Egbert Walsh,0,False,Not in either dataset for currect season but present in both seasons around match,True,Egbert Walsh,Walsh,single
+860,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",0.0,False,Used Large Dataset,False,"['Ericson Joseph', 'Malcolm Joseph', 'Mitchell Joseph', 'Vernent Joseph', 'Travist Joseph', 'Andrez Joseph', 'Curdel Joseph']",Joseph,multiple
+861,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",0.0,False,Large Dataset said 0,False,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",Prince,multiple
+862,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,FAIL,"['Kervin Lawrence', 'Aldrin Lawrence']",0,True,Online Lookup Required,False,"['Kervin Lawrence', 'Aldrin Lawrence']",Lawrence,multiple
+863,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,Glenworth Elizee,0.0,False,Large Dataset had 0,False,Glenworth Elizee,Elizee,single
+864,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Rashid Bertrand', 'Chad Bertrand', 'Euclid Bertrand']",0.0,False,Large Dataset said 0,False,"['Rashid Bertrand', 'Chad Bertrand', 'Euclid Bertrand']",Bertrand,multiple
+865,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Jerome Thomas', 'Eddie Thomas', 'Briel Thomas', 'Kimani Thomas', 'Neilbert Thomas', 'Keeyan Thomas']",0.0,False,Large Dataset said 0,False,"['Jerome Thomas', 'Eddie Thomas', 'Briel Thomas', 'Kimani Thomas', 'Neilbert Thomas', 'Keeyan Thomas']",Thomas,multiple
+866,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",0.0,False,Large Dataset said 0,False,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince', 'Joel Prince']",Prince,multiple
+867,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,Sidney Lockhart,0.0,False,Large Dataset had 0,False,Sidney Lockhart,Lockhart,single
+868,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Dominica,DM,2015,SUCCESS,"['Eric Wade', 'Julian Wade']",0.0,False,Large Dataset said 0,False,"['Eric Wade', 'Julian Wade']",Wade,multiple
+869,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Milan Borjan,1600000.0,False,working,False,Milan Borjan,Borjan,single
+870,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Nikolas Ledgerwood,250000.0,False,working,False,Nikolas Ledgerwood,Ledgerwood,single
+871,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Adam Straith,200000.0,False,working,False,Adam Straith,Straith,single
+872,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Manjrekar James,50000.0,False,working,False,Manjrekar James,James,single
+873,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Karl Ouimette,0.0,False,Large Dataset had 0,False,Karl Ouimette,Ouimette,single
+874,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Samuel Piette,0.0,False,Large Dataset had 0,False,Samuel Piette,Piette,single
+875,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Tosaint Ricketts,400000.0,False,working,False,Tosaint Ricketts,Ricketts,single
+876,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Julian de Guzmán,500000.0,False,working,False,Julian de Guzmán,d Guzman,single
+877,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Russell Teibert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Russell Teibert,Teibert,single
+878,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Tesho Akindele,0.0,False,Large Dataset had 0,False,Tesho Akindele,Akindele,single
+879,3984,"World Cup 2018, Qualifiers, CONCACAF",Dominica vs Canada,11-Jun-15,Canada,CA,2015,SUCCESS,Cyle Larin,3800000.0,False,Used Large Dataset,False,Cyle Larin,Larin,single
+880,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+881,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+882,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+883,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+884,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+885,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+886,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+887,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+888,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+889,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+890,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,Saint Kitts and Nevis,KN,2015,FAIL,-,0,False,Null Name,False,,-,none
+891,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+892,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+893,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+894,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+895,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+896,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+897,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+898,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+899,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+900,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+901,3985,"World Cup 2018, Qualifiers, CONCACAF",Saint Kitts and Nevis vs El Salvador,11-Jun-15,El Salvador,SV,2015,FAIL,-,0,False,Null Name,False,,-,none
+902,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+903,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+904,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+905,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+906,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+907,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+908,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+909,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+910,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+911,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+912,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+913,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+914,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+915,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+916,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+917,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+918,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+919,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+920,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+921,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+922,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+923,3986,"World Cup 2018, Qualifiers, CONCACAF",Puerto Rico vs Grenada,12-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+924,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+925,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+926,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+927,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+928,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+929,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+930,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+931,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+932,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+933,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+934,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+935,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+936,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+937,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+938,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+939,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+940,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+941,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+942,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+943,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+944,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+945,3987,"World Cup 2018, Qualifiers, CONCACAF",Guatemala vs Bermuda,12-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+946,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+947,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+948,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+949,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+950,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+951,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+952,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+953,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+954,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+955,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+956,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Belize,BZ,2015,FAIL,-,0,False,Null Name,False,,-,none
+957,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+958,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+959,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+960,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+961,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+962,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+963,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+964,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+965,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+966,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+967,3988,"World Cup 2018, Qualifiers, CONCACAF",Belize vs Dominican Republic,14-Jun-15,Dominican Republic,DO,2015,FAIL,-,0,False,Null Name,False,,-,none
+968,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+969,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+970,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+971,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+972,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+973,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+974,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+975,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+976,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+977,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+978,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Cuba,CU,2015,FAIL,-,0,False,Null Name,False,,-,none
+979,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+980,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+981,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+982,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+983,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+984,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+985,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+986,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+987,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+988,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+989,3989,"World Cup 2018, Qualifiers, CONCACAF",Cuba vs Curaçao,14-Jun-15,Curaçao,CW,2015,FAIL,-,0,False,Null Name,False,,-,none
+990,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+991,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+992,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+993,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+994,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+995,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+996,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+997,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+998,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+999,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+1000,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Guyana,GY,2015,FAIL,-,0,False,Null Name,False,,-,none
+1001,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1002,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1003,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1004,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1005,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1006,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1007,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1008,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1009,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1010,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1011,3990,"World Cup 2018, Qualifiers, CONCACAF",Guyana vs Saint Vincent and the Grenadines,14-Jun-15,Saint Vincent and the Grenadines,VC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1012,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1013,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1014,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1015,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1016,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1017,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1018,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1019,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1020,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1021,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1022,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Saint Lucia,LC,2015,FAIL,-,0,False,Null Name,False,,-,none
+1023,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1024,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1025,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1026,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1027,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1028,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1029,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1030,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1031,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1032,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1033,3991,"World Cup 2018, Qualifiers, CONCACAF",Saint Lucia vs Antigua and Barbuda,14-Jun-15,Antigua and Barbuda,AG,2015,FAIL,-,0,False,Null Name,False,,-,none
+1034,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1035,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1036,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1037,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1038,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1039,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1040,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1041,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1042,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1043,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1044,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Barbados,BB,2015,FAIL,-,0,False,Null Name,False,,-,none
+1045,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1046,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1047,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1048,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1049,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1050,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1051,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1052,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1053,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1054,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1055,3992,"World Cup 2018, Qualifiers, CONCACAF",Barbados vs Aruba,14-Jun-15,Aruba,AW,2015,FAIL,-,0,False,Null Name,False,,-,none
+1056,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1057,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1058,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1059,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1060,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1061,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1062,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1063,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1064,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1065,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1066,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Bermuda,BM,2015,FAIL,-,0,False,Null Name,False,,-,none
+1067,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1068,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1069,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1070,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1071,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1072,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1073,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1074,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1075,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1076,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1077,3993,"World Cup 2018, Qualifiers, CONCACAF",Bermuda vs Guatemala,15-Jun-15,Guatemala,GT,2015,FAIL,-,0,False,Null Name,False,,-,none
+1078,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1079,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1080,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1081,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1082,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1083,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1084,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1085,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1086,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1087,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1088,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Grenada,GD,2015,FAIL,-,0,False,Null Name,False,,-,none
+1089,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1090,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1091,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1092,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1093,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1094,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1095,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1096,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1097,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1098,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none
+1099,3994,"World Cup 2018, Qualifiers, CONCACAF",Grenada vs Puerto Rico,16-Jun-15,Puerto Rico,PR,2015,FAIL,-,0,False,Null Name,False,,-,none

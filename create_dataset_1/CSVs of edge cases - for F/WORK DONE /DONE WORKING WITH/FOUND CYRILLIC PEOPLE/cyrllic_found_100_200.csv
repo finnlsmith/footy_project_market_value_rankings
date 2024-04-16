@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,100,607,"Euros 2016, Qualifiers",07.09.15,Armenia vs Denmark,2015,Denmark,DK,20. Поульсен,Poulsen,"['Jakob Poulsen', 'Simon Poulsen', 'Yussuf Poulsen']",Success
+1,101,607,"Euros 2016, Qualifiers",07.09.15,Armenia vs Denmark,2015,Denmark,DK,23. Хейбьерг,Højbjerg,"['Pierre-Emile Højbjerg', 'Jeppe Højbjerg']",Success
+2,102,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,3. Леняни,Lenjani,['Ermir Lenjani'],Success
+3,103,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,6. Джимсити,Djimsiti,['Berat Djimsiti'],Success
+4,104,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,7. Аголи,Agolli,['Ansi Agolli'],Success
+5,105,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,15. Айети,Ayeti,['Arlind Ajeti'],Success
+6,106,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,13. Кукели,Kukeli,['Burim Kukeli'],Success
+7,107,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,14. Джака,Xhaka,['Taulant Xhaka'],Success
+8,108,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,22. Абраши,Abrashi,['Amir Abrashi'],Success
+9,109,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Albania,AL,16. Чикалеши,Chicaleshi,['Sokol Cikalleshi'],Success
+10,110,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Portugal,PT,13. Данилу,Danilo Pereira,['Danilo Pereira'],Success
+11,111,608,"Euros 2016, Qualifiers",07.09.15,Albania vs Portugal,2015,Portugal,PT,15. Б. Силва,B Silva,['Bernardo Silva'],Success
+12,112,609,"Euros 2016, Qualifiers",08.10.15,Albania vs Serbia,2015,Albania,AL,8. Баша,Basha,"['Migjen Basha', 'Vullnet Basha']",Success
+13,113,609,"Euros 2016, Qualifiers",08.10.15,Albania vs Serbia,2015,Albania,AL,2. Лиля,Lilya,['Andi Lila'],Success
+14,114,609,"Euros 2016, Qualifiers",08.10.15,Albania vs Serbia,2015,Albania,AL,3. Леняни,Lenjani,['Ermir Lenjani'],Success
+15,115,609,"Euros 2016, Qualifiers",08.10.15,Albania vs Serbia,2015,Albania,AL,14. Джака,Xhaka,['Taulant Xhaka'],Success
+16,116,609,"Euros 2016, Qualifiers",08.10.15,Albania vs Serbia,2015,Serbia,RS,1. Стойкович,Stojkovic,"['Vladimir Stojkovic', 'Arandjel Stojkovic']",Success
+17,117,610,"Euros 2016, Qualifiers",08.10.15,Portugal vs Denmark,2015,Portugal,PT,21. Седрик,Cedric,['Cédric Soares'],Success
+18,118,610,"Euros 2016, Qualifiers",08.10.15,Portugal vs Denmark,2015,Denmark,DK,5. Дурмиси,Durmisi,['Riza Durmisi'],Success
+19,119,610,"Euros 2016, Qualifiers",08.10.15,Portugal vs Denmark,2015,Denmark,DK,4. Аггер Д.,D Agger,['Daniel Agger'],Success
+20,120,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Armenia,AM,12. Каспаров,Kasparov,['Gevorg Kasparov'],Success
+21,121,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Armenia,AM,3. Юспашян,Yuspashyan,['Artur Yuspashyan'],Success
+22,122,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Armenia,AM,3. Ароян,Aroyan,0,Fail
+23,123,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Albania,AL,7. Алийи,Aliyah,['Albi Alla'],Success
+24,124,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Albania,AL,9. Мемушай,Memushaj,['Ledian Memushaj'],Success
+25,125,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Albania,AL,14. Джака,Xhaka,['Taulant Xhaka'],Success
+26,126,611,"Euros 2016, Qualifiers",11.10.15,Armenia vs Albania,2015,Albania,AL,16. Чикалеши,Chicaleshi,['Sokol Cikalleshi'],Success
+27,127,612,"Euros 2016, Qualifiers",11.10.15,Serbia vs Portugal,2015,Serbia,RS,1. Стойкович,Stojkovic,"['Vladimir Stojkovic', 'Arandjel Stojkovic']",Success
+28,128,612,"Euros 2016, Qualifiers",11.10.15,Serbia vs Portugal,2015,Portugal,PT,11. Андре Андре,Andre Andre,['André André'],Success
+29,129,612,"Euros 2016, Qualifiers",11.10.15,Serbia vs Portugal,2015,Portugal,PT,23. Семеду,Semedo,"['Nélson Semedo', 'Rúben Semedo']",Success
+30,130,637,"Euros 2020, Qualifiers",10.09.19,Montenegro vs Czech,2019,Montenegro,ME,3. Больевич В.,V Bolyevich,['Vladimir Boljevic'],Success
+31,131,639,"Euros 2020, Qualifiers",11.10.19,Montenegro vs Bulgaria,2019,Montenegro,ME,Boljević,Boljević,"['Aleksandar Boljevic', 'Vladimir Boljevic']",Success
+32,132,641,"Euros 2020, Qualifiers",14.10.19,Kosovo vs Montenegro,2019,Montenegro,ME,Boljević,Boljević,"['Aleksandar Boljevic', 'Vladimir Boljevic']",Success
+33,133,647,"Euros 2020, Qualifiers",22.03.19,Luxembourg vs Lithuania,2019,Luxembourg,LU,9. Да Мота,Da Mota,['Daniel da Mota'],Success
+34,134,647,"Euros 2020, Qualifiers",22.03.19,Luxembourg vs Lithuania,2019,Lithuania,LT,5. Янкаускас А.,A Yankauskas,['Algis Jankauskas'],Success
+35,135,652,"Euros 2020, Qualifiers",10.06.19,Ukraine vs Luxembourg,2019,Luxembourg,LU,9. Да Мота,Da Mota,['Daniel da Mota'],Success
+36,136,653,"Euros 2020, Qualifiers",10.06.19,Serbia vs Lithuania,2019,Lithuania,LT,5. Янкаускас А.,A Yankauskas,['Algis Jankauskas'],Success
+37,137,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,1. Бегович,Begović,['Asmir Begovic'],Success
+38,138,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,2. Зец,Zec,['Ermin Zec'],Success
+39,139,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,3. Бичакчич,Bicakcic,['Ermin Bicakcic'],Success
+40,140,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,4. Спахич,Emir Spahic,['Emir Spahic'],Success
+41,141,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,5. Колашинац,Kolasinac,['Sead Kolasinac'],Success
+42,142,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,7. Бешич,Bešić,['Muhamed Besic'],Success
+43,143,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,9. Ибишевич,Ibishevich,"['Vedad Ibisevic', 'Elvir Ibisevic']",Success
+44,144,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,10. Пьянич,Pyanich,['Miralem Pjanic'],Success
+45,145,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,11. Джеко,Jacko,['Smail Prevljak'],Success
+46,146,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,15. Шуньич,Shunich,['Toni Sunjic'],Success
+47,147,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Bosnia,BA,16. Лулич,Lulic,['Senad Lulic'],Success
+48,148,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,13. Ферран,Ferran,['Ferran Pol'],Success
+49,149,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,2. Мартинес,Martínez,"['Cristian Martínez', 'Alex Martínez']",Success
+50,150,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,3. Сан-Николас,San Nicolas,['Luigi San Nicolas'],Success
+51,151,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,4. Сонеджи,Soneji,['Óscar Sonejee'],Success
+52,152,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,6. Лима,Ildefons Lima,['Ildefons Lima'],Success
+53,153,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,8. Виейра,Vieira,"['Márcio Vieira', 'Xavier Vieira']",Success
+54,154,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,9. Риера,Riera,['Gabi Riera'],Success
+55,155,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,16. Ребес,Rebes,['Marc Rebés'],Success
+56,156,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,18. Айяла,Ayala,['Josep Ayala'],Success
+57,157,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,21. Гарсия М.,M Garcia,['Christian Garcia'],Success
+58,158,405,"Euros 2016, Qualifiers",06.09.15,Bosnia-Herzegovina vs Andorra,2015,Andorra,AD,22. Родригес,Rodriguez,['Víctor Rodríguez'],Success
+59,159,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,1. Гиоргаллидес,Giorgallides,['Antonis Georgallidis'],Success
+60,160,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,2. Жуниор,Junior,['Dossa Júnior'],Success
+61,161,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,4. Деметриу,Demetriu,['Jason Dimitriou'],Success
+62,162,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,7. Экономидес,Economides,"['Chris Ikonomidis, Georgios Ikonomidis']",Success
+63,163,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,9. Митидис,Mitidis,['Nestoras Mytidis'],Success
+64,164,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,10. Хараламбидес,Charalambides,['Konstantinos Charalampidis'],Success
+65,165,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,13. Макридис,Makridis,['Konstantinos Makridis'],Success
+66,166,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,15. Антониадес,Antoniades,['Marios Antoniadis'],Success
+67,167,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,19. Лаифис,Laifis,['Konstantinos Laifis'],Success
+68,168,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,21. Макрис,Makris,['Andreas Makris'],Success
+69,169,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Cyprus,CY,23. Николау,Nikolaou,"['Marios Nikolaou', 'Thomas Nikolaou']",Success
+70,170,406,"Euros 2016, Qualifiers",06.09.15,Cyprus vs Belgium,2015,Belgium,BE,5. Вертонген,Vertongen,['Jan Vertonghen'],Success
+71,171,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,13. Ферран Поль,Ferrand Paul,['Ferran Pol'],Success
+72,172,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,3. Сан-Николас,San Nicolas,['Luigi San Nicolas'],Success
+73,173,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,20. Льовера,Llovera,['Max Llovera'],Success
+74,174,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,21. Марк Гарсия,Mark Garcia,['Marc García'],Success
+75,175,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,4. Сонеджи,Soneji,['Óscar Sonejee'],Success
+76,176,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,5. Ребес,Rebes,['Marc Rebés'],Success
+77,177,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,8. Виейра,Vieira,"['Márcio Vieira', 'Xavier Vieira']",Success
+78,178,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,17. Морейра,Moreira,['Márcio Vieira'],Success
+79,179,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,23. Рубио,Jordi Rubio,['Jordi Rubio'],Success
+80,180,407,"Euros 2016, Qualifiers",10.10.15,Andorra vs Belgium,2015,Andorra,AD,10. Санчес,Sanchez,['Juli Sánchez'],Success
+81,181,408,"Euros 2016, Qualifiers",10.10.15,Bosnia-Herzegovina vs Wales,2015,Bosnia,BA,21. Хаджич,Hadzic,"['Anel Hadzic', 'Irfan Hadzic']",Success
+82,182,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Israel,IL,18. Марсиано,Ofir Marciano,['Ofir Marciano'],Success
+83,183,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Israel,IL,8. Бен-Хаим,Ben Haim,['Tal Ben Haim'],Success
+84,184,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Israel,IL,20. Бен-Харуш,Ben Harush,['Omri Ben Harush'],Success
+85,185,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Israel,IL,14. Вермут Г.,Vermouth,['Gil Vermouth'],Success
+86,186,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Cyprus,CY,1. Гиоргаллидес,Giorgallides,['Antonis Georgallidis'],Success
+87,187,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Cyprus,CY,5. Деметриу,Demetriu,['Jason Dimitriou'],Success
+88,188,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Cyprus,CY,19. Лаифис,Laifis,['Konstantinos Laifis'],Success
+89,189,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Cyprus,CY,23. Николау,Nikolaou,"['Marios Nikolaou', 'Thomas Nikolaou']",Success
+90,190,409,"Euros 2016, Qualifiers",10.10.15,Israel vs Cyprus,2015,Cyprus,CY,21. Макрис,Makris,['Andreas Makris'],Success
+91,191,410,"Euros 2016, Qualifiers",13.10.15,Belgium vs Israel,2015,Israel,IL,18. Марсиано,Ofir Marciano,['Ofir Marciano'],Success
+92,192,410,"Euros 2016, Qualifiers",13.10.15,Belgium vs Israel,2015,Israel,IL,8. Бен-Хаим,Ben Haim,['Tal Ben Haim'],Success
+93,193,410,"Euros 2016, Qualifiers",13.10.15,Belgium vs Israel,2015,Israel,IL,20. Бен-Харуш,Ben Harush,['Omri Ben Harush'],Success
+94,194,410,"Euros 2016, Qualifiers",13.10.15,Belgium vs Israel,2015,Israel,IL,19. Огани,Ogani,0,Fail
+95,195,411,"Euros 2016, Qualifiers",13.10.15,Cyprus vs Bosnia-Herzegovina,2015,Cyprus,CY,1. Гиоргаллидес,Giorgallides,['Antonis Georgallidis'],Success
+96,196,411,"Euros 2016, Qualifiers",13.10.15,Cyprus vs Bosnia-Herzegovina,2015,Cyprus,CY,5. Деметриу,Demetriu,['Jason Dimitriou'],Success
+97,197,411,"Euros 2016, Qualifiers",13.10.15,Cyprus vs Bosnia-Herzegovina,2015,Cyprus,CY,19. Лаифис,Laifis,['Konstantinos Laifis'],Success
+98,198,411,"Euros 2016, Qualifiers",13.10.15,Cyprus vs Bosnia-Herzegovina,2015,Cyprus,CY,23. Николау,Nikolaou,"['Marios Nikolaou', 'Thomas Nikolaou']",Success
+99,199,411,"Euros 2016, Qualifiers",13.10.15,Cyprus vs Bosnia-Herzegovina,2015,Bosnia,BA,Vranješ,Vranješ,"['Stojan Vranjes', 'Ognjen Vranjes']",Success

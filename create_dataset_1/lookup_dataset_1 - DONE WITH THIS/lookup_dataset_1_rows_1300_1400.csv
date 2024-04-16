@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+1,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Markus Palionis,200000.0,False,working,False,Markus Palionis,Palionis,single
+2,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+3,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Domantas Simkus,250000.0,False,working,False,Domantas Simkus,imkus,single
+4,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Saulius Mikoliunas,75000.0,False,working,False,Saulius Mikoliunas,Mikoliunas,single
+5,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Vykintas Slivka,0.0,False,Not in either dataset for currect season but present in both seasons around match,True,Vykintas Slivka,Slivka,single
+6,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Mantas Kuklys,500000.0,False,working,False,Mantas Kuklys,Kuklys,single
+7,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Ovidijus Verbickas,450000.0,False,working,False,Ovidijus Verbickas,Verbickas,single
+8,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",600000.0,False,working,False,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",Andriuškevičius,multiple
+9,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+10,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Lithuania,LT,2019,SUCCESS,Karolis Laukzemis,350000.0,False,working,False,Karolis Laukzemis,Laukzemis,single
+11,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+12,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+13,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+14,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,José Fonte,1200000.0,False,working,False,José Fonte,J Fonte,single
+15,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,William Carvalho,16000000.0,False,working,False,William Carvalho,W Carvalho,single
+16,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,João Cancelo,36000000.0,False,working,False,João Cancelo,Cancelo,single
+17,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+18,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+19,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+20,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,João Félix,81000000.0,False,working,False,João Félix,J Félix,single
+21,656,"Euros 2020, Qualifiers",Lithuania vs Portugal,10.09.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+22,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Anthony Moris,450000.0,False,working,False,Anthony Moris,Moris,single
+23,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Maxime Chanot,800000.0,False,working,False,Maxime Chanot,Chanot,single
+24,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Dirk Carlson,325000.0,False,working,False,Dirk Carlson,D Carlson,single
+25,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Laurent Jans,550000.0,False,working,False,Laurent Jans,Jans,single
+26,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Lars Gerson,725000.0,False,working,False,Lars Gerson,Gerson,single
+27,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",400000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+28,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Olivier Thill,1600000.0,False,working,False,Olivier Thill,O Thill,single
+29,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Leandro Barreiro,3200000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+30,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1400000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+31,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Vincent Thill,1800000.0,False,working,False,Vincent Thill,V Thill,single
+32,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Luxembourg,LU,2019,SUCCESS,Maurice Deville,225000.0,False,working,False,Maurice Deville,Deville,single
+33,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Marko Dmitrović,9500000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+34,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Antonio Rukavina,800000.0,False,Data Ended before season : 2019,False,Antonio Rukavina,Rukavina,single
+35,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Uros Spajic,6500000.0,False,working,False,Uros Spajic,Spajic,single
+36,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Nikola Maksimovic,13500000.0,False,working,False,Nikola Maksimovic,Nik Maksimovic,single
+37,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Aleksandar Kolarov,6500000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+38,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Luka Milivojevic,20000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+39,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",3200000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+40,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Sergej Milinkovic-Savic,64000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+41,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Adem Ljajic,9000000.0,False,working,False,Adem Ljajic,Ljajic,single
+42,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Aleksandar Katai,1600000.0,False,working,False,Aleksandar Katai,Katai,single
+43,657,"Euros 2020, Qualifiers",Luxembourg vs Serbia,10.09.19,Serbia,RS,2019,SUCCESS,Aleksandar Mitrovic,20000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+44,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+45,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Nélson Semedo,32000000.0,False,working,False,Nélson Semedo,N Semedo,single
+46,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Pepe,800000.0,False,working,False,Pepe,Pepe,single
+47,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+48,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+49,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,João Moutinho,8000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+50,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+51,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+52,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+53,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,João Félix,81000000.0,False,working,False,João Félix,J Félix,single
+54,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+55,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Anthony Moris,450000.0,False,working,False,Anthony Moris,Moris,single
+56,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Maxime Chanot,800000.0,False,working,False,Maxime Chanot,Chanot,single
+57,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Dirk Carlson,325000.0,False,working,False,Dirk Carlson,D Carlson,single
+58,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Laurent Jans,550000.0,False,working,False,Laurent Jans,Jans,single
+59,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Lars Gerson,725000.0,False,working,False,Lars Gerson,Gerson,single
+60,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Olivier Thill,1600000.0,False,working,False,Olivier Thill,O Thill,single
+61,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Leandro Barreiro,3200000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+62,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1400000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+63,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Florian Bohnert,125000.0,False,working,False,Florian Bohnert,Bohnert,single
+64,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Vincent Thill,1800000.0,False,working,False,Vincent Thill,V Thill,single
+65,658,"Euros 2020, Qualifiers",Portugal vs Luxembourg,11.10.19,Luxembourg,LU,2019,SUCCESS,Dave Turpel,300000.0,False,working,False,Dave Turpel,Turpel,single
+66,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Andriy Pyatov,1600000.0,False,working,False,Andriy Pyatov,Pyatov,single
+67,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Sergiy Kryvtsov,4000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+68,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Eduard Sobol,3200000.0,False,working,False,Eduard Sobol,Sobol,single
+69,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Mykola Matvienko,4000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+70,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Taras Stepanenko,8000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+71,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",11000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+72,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Oleksandr Zinchenko,24000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+73,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Andriy Yarmolenko,9500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+74,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Marlos,8000000.0,False,working,False,Marlos,Marlos,single
+75,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Sergiy Bolbat,2400000.0,False,working,False,Sergiy Bolbat,Bolbat,single
+76,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Ukraine,UA,2019,SUCCESS,Júnior Moraes,4000000.0,False,working,False,Júnior Moraes,Junior Moraes,single
+77,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Vytautas Cerniauskas,800000.0,False,working,False,Vytautas Cerniauskas,Černiauskas,single
+78,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Linas Klimavicius,300000.0,False,working,False,Linas Klimavicius,L Klimavičius,single
+79,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+80,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,0,1000000.0,False,working,False,0,Žulpa,none
+81,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Arvydas Novikovas,1000000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+82,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Saulius Mikoliunas,75000.0,False,working,False,Saulius Mikoliunas,Mikoliunas,single
+83,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Ovidijus Verbickas,450000.0,False,working,False,Ovidijus Verbickas,Verbickas,single
+84,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",600000.0,False,working,False,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",Andriuškevičius,multiple
+85,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+86,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Paulius Golubickas,575000.0,False,Used Large Dataset,False,Paulius Golubickas,Golubickas,single
+87,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,Karolis Laukzemis,350000.0,False,working,False,Karolis Laukzemis,Laukzemis,single
+88,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Andriy Pyatov,1600000.0,False,working,False,Andriy Pyatov,Pyatov,single
+89,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Vitaliy Mykolenko,9000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+90,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Sergiy Kryvtsov,4000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+91,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Mykola Matvienko,4000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+92,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Taras Stepanenko,8000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+93,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",11000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+94,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Oleksandr Zinchenko,24000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+95,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Andriy Yarmolenko,9500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+96,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+97,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Marlos,8000000.0,False,working,False,Marlos,Marlos,single
+98,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Ukraine,UA,2019,SUCCESS,Roman Yaremchuk,9500000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+99,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+100,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Nélson Semedo,32000000.0,False,working,False,Nélson Semedo,N Semedo,single
+101,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Pepe,800000.0,False,working,False,Pepe,Pepe,single
+102,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+103,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+104,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,João Moutinho,8000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+105,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,João Mário,300000.0,False,working,False,João Mário,Joao Mario,single
+106,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+107,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+108,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+109,660,"Euros 2020, Qualifiers",Ukraine vs Portugal,14.10.19,Portugal,PT,2019,SUCCESS,Gonçalo Guedes,22500000.0,False,working,False,Gonçalo Guedes,G Guedes,single
+110,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Vytautas Cerniauskas,800000.0,False,working,False,Vytautas Cerniauskas,Černiauskas,single
+111,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Linas Klimavicius,300000.0,False,working,False,Linas Klimavicius,L Klimavičius,single
+112,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+113,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Saulius Mikoliunas,75000.0,False,working,False,Saulius Mikoliunas,Mikoliunas,single
+114,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Justas Lasickas,250000.0,False,working,False,Justas Lasickas,Lasickas,single
+115,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Ovidijus Verbickas,450000.0,False,working,False,Ovidijus Verbickas,Verbickas,single
+116,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Domantas Simkus,250000.0,False,working,False,Domantas Simkus,imkus,single
+117,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+118,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+119,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,SUCCESS,Paulius Golubickas,575000.0,False,Used Large Dataset,False,Paulius Golubickas,Golubickas,single
+120,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Lithuania,LT,2019,FAIL,0,0,True,not done yet,False,0,9. Матулявичус Д.,cyrillic
+121,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Marko Dmitrović,9500000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+122,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Filip Mladenovic,1200000.0,False,working,False,Filip Mladenovic,Mladenovic,single
+123,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Nemanja Miletic,2200000.0,False,working,False,Nemanja Miletic,N Miletić,single
+124,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",24000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+125,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Aleksandar Kolarov,6500000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+126,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Luka Milivojevic,20000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+127,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Nemanja Maksimovic,20000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+128,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Adem Ljajic,9000000.0,False,working,False,Adem Ljajic,Ljajic,single
+129,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Nemanja Radonjic,6500000.0,False,working,False,Nemanja Radonjic,N Radonjić,single
+130,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Aleksandar Mitrovic,20000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+131,661,"Euros 2020, Qualifiers",Lithuania vs Serbia,14.10.19,Serbia,RS,2019,SUCCESS,Filip Kostic,32000000.0,False,working,False,Filip Kostic,F Kostic,single
+132,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+133,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+134,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,José Fonte,1200000.0,False,working,False,José Fonte,J Fonte,single
+135,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Mário Rui,12000000.0,False,working,False,Mário Rui,Mario Rui,single
+136,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+137,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+138,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+139,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+140,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Gonçalo Paciência,12000000.0,False,Used Large Dataset,False,Gonçalo Paciência,Paciencia,single
+141,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,FAIL,0,0,True,not done yet,False,0,15. Рикарду,cyrillic
+142,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Portugal,PT,2019,SUCCESS,Pizzi,21500000.0,False,Used Large Dataset,False,Pizzi,Pizzi,single
+143,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+144,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Markus Palionis,200000.0,False,working,False,Markus Palionis,Palionis,single
+145,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+146,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Arvydas Novikovas,1000000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+147,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Saulius Mikoliunas,75000.0,False,working,False,Saulius Mikoliunas,Mikoliunas,single
+148,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Vykintas Slivka,0,False,Not in either dataset for currect season but present in both seasons around match,True,Vykintas Slivka,Slivka,single
+149,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Mantas Kuklys,500000.0,False,working,False,Mantas Kuklys,Kuklys,single
+150,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",600000.0,False,working,False,"['Vytautas Andriuskevicius', 'Andrius Bartkus']",Andriuškevičius,multiple
+151,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Domantas Simkus,250000.0,False,working,False,Domantas Simkus,imkus,single
+152,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Fedor Černych,1800000.0,False,working,False,Fedor Černych,Černych,single
+153,662,"Euros 2020, Qualifiers",Portugal vs Lithuania,14.11.19,Lithuania,LT,2019,SUCCESS,Paulius Golubickas,575000.0,False,Used Large Dataset,False,Paulius Golubickas,Golubickas,single
+154,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Marko Dmitrović,9500000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+155,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Filip Mladenovic,1200000.0,False,working,False,Filip Mladenovic,Mladenovic,single
+156,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",24000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+157,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Nikola Maksimovic,13500000.0,False,working,False,Nikola Maksimovic,Nik Maksimovic,single
+158,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Aleksandar Kolarov,6500000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+159,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Luka Milivojevic,20000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+160,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Nemanja Maksimovic,20000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+161,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Sergej Milinkovic-Savic,64000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+162,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Adem Ljajic,9000000.0,False,working,False,Adem Ljajic,Ljajic,single
+163,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Aleksandar Mitrovic,20000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+164,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Serbia,RS,2019,SUCCESS,Dusan Tadic,20000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+165,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Anthony Moris,450000.0,False,working,False,Anthony Moris,Moris,single
+166,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Maxime Chanot,800000.0,False,working,False,Maxime Chanot,Chanot,single
+167,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Tim Hall,300000.0,False,working,False,Tim Hall,Hall,single
+168,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Dirk Carlson,325000.0,False,working,False,Dirk Carlson,D Carlson,single
+169,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Laurent Jans,550000.0,False,working,False,Laurent Jans,Jans,single
+170,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Chris Philipps,400000.0,False,working,False,Chris Philipps,Philipps,single
+171,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Lars Gerson,725000.0,False,working,False,Lars Gerson,Gerson,single
+172,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Olivier Thill,1600000.0,False,working,False,Olivier Thill,O Thill,single
+173,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1400000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+174,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Vincent Thill,1800000.0,False,working,False,Vincent Thill,V Thill,single
+175,663,"Euros 2020, Qualifiers",Serbia vs Luxembourg,14.11.19,Luxembourg,LU,2019,SUCCESS,Maurice Deville,225000.0,False,working,False,Maurice Deville,Deville,single
+176,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Predrag Rajkovic,5500000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+177,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Milan Rodic,3000000.0,False,working,False,Milan Rodic,Rodic,single
+178,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",24000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+179,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Nikola Maksimovic,13500000.0,False,working,False,Nikola Maksimovic,Nik Maksimovic,single
+180,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Aleksandar Kolarov,6500000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+181,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Nemanja Maksimovic,20000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+182,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Nemanja Gudelj,5500000.0,False,working,False,Nemanja Gudelj,Gudelj,single
+183,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Adem Ljajic,9000000.0,False,working,False,Adem Ljajic,Ljajic,single
+184,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Nemanja Radonjic,6500000.0,False,working,False,Nemanja Radonjic,N Radonjić,single
+185,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Aleksandar Mitrovic,20000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+186,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Serbia,RS,2019,SUCCESS,Dusan Tadic,20000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+187,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Andriy Pyatov,1600000.0,False,working,False,Andriy Pyatov,Pyatov,single
+188,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Vitaliy Mykolenko,9000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+189,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Sergiy Kryvtsov,4000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+190,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Mykola Matvienko,4000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+191,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Sergiy Sydorchuk,3500000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+192,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",11000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+193,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Viktor Tsygankov,16000000.0,False,working,False,Viktor Tsygankov,Tsygankov,single
+194,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Viktor Kovalenko,4800000.0,False,working,False,Viktor Kovalenko,Kovalenko,single
+195,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Andriy Yarmolenko,9500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+196,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+197,664,"Euros 2020, Qualifiers",Serbia vs Ukraine,17.11.19,Ukraine,UA,2019,SUCCESS,Roman Yaremchuk,9500000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+198,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Anthony Moris,450000.0,False,working,False,Anthony Moris,Moris,single
+199,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Maxime Chanot,800000.0,False,working,False,Maxime Chanot,Chanot,single
+200,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Dirk Carlson,325000.0,False,working,False,Dirk Carlson,D Carlson,single
+201,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Laurent Jans,550000.0,False,working,False,Laurent Jans,Jans,single
+202,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Aldin Skenderovic,175000.0,False,working,False,Aldin Skenderovic,A Skenderovic,single
+203,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Lars Gerson,725000.0,False,working,False,Lars Gerson,Gerson,single
+204,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Leandro Barreiro,3200000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+205,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1400000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+206,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Vincent Thill,1800000.0,False,working,False,Vincent Thill,V Thill,single
+207,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Maurice Deville,225000.0,False,working,False,Maurice Deville,Deville,single
+208,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Luxembourg,LU,2019,SUCCESS,Dave Turpel,300000.0,False,working,False,Dave Turpel,Turpel,single
+209,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+210,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+211,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+212,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,José Fonte,1200000.0,False,working,False,José Fonte,J Fonte,single
+213,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+214,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+215,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+216,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+217,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,FAIL,0,0,True,not done yet,False,0,15. Рикарду,cyrillic
+218,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,Pizzi,21500000.0,False,Used Large Dataset,False,Pizzi,Pizzi,single
+219,665,"Euros 2020, Qualifiers",Luxembourg vs Portugal,17.11.19,Portugal,PT,2019,SUCCESS,André Silva,16000000.0,False,working,False,André Silva,André Silva,single
+220,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+221,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+222,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+223,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+224,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+225,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+226,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+227,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+228,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+229,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+230,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Netherlands,NL,2019,SUCCESS,Steven Bergwijn,28000000.0,False,Used Large Dataset,False,Steven Bergwijn,Bergwijn,single
+231,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Andrey Gorbunov,150000.0,False,Data Ended before season : 2019,False,Andrey Gorbunov,Gorbunov,single
+232,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+233,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Igor Shitov,450000.0,False,Data Ended before season : 2019,False,Igor Shitov,Shitov,single
+234,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+235,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+236,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+237,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Putsila,none
+238,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Mikhail Sivakov,1400000.0,False,Data Ended before season : 2019,False,Mikhail Sivakov,Sivakov,single
+239,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+240,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+241,666,"Euros 2020, Qualifiers",Netherlands vs Belarus,21.03.19,Belarus,BY,2019,SUCCESS,Nikolay Signevich,400000.0,False,working,False,Nikolay Signevich,Signevich,single
+242,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+243,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+244,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+245,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+246,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+247,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+248,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Niall McGinn,525000.0,False,working,False,Niall McGinn,Mc Ginn,single
+249,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+250,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+251,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Jordan Jones,600000.0,False,working,False,Jordan Jones,J-n Jones,single
+252,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Northern Ireland, NI,2019,SUCCESS,Kyle Lafferty,650000.0,False,working,False,Kyle Lafferty,K Lafferty,single
+253,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+254,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Gert Kams,0.0,False,Large Dataset had 0,False,Gert Kams,Kams,single
+255,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Madis Vihmann,300000.0,False,Data Ended before season : 2019,False,Madis Vihmann,Vihmann,single
+256,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+257,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+258,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Artur Pikk,200000.0,False,working,False,Artur Pikk,Pikk,single
+259,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Mattias Käit,300000.0,False,working,False,Mattias Käit,Käit,single
+260,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,Artjom Dmitrijev,300000.0,False,Data Ended before season : 2019,False,Artjom Dmitrijev,Art Dmitrijev,single
+261,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,"['Henri Anier', 'Hannes Anier']",250000.0,False,working,False,"['Henri Anier', 'Hannes Anier']",Anier,multiple
+262,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",300000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+263,667,"Euros 2020, Qualifiers",Northern Ireland vs Estonia,21.03.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+264,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+265,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+266,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+267,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+268,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+269,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+270,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+271,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Quincy Promes,17500000.0,False,working,False,Quincy Promes,Promes,single
+272,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+273,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+274,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+275,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+276,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Thilo Kehrer,28000000.0,False,Used Large Dataset,False,Thilo Kehrer,Kehrer,single
+277,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+278,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Antonio Rüdiger,40000000.0,False,Used Large Dataset,False,Antonio Rüdiger,Rudiger,single
+279,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+280,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+281,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Toni Kroos,48000000.0,False,working,False,Toni Kroos,Kroos,single
+282,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Nico Schulz,16000000.0,False,working,False,Nico Schulz,Schulz,single
+283,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Leon Goretzka,40000000.0,False,working,False,Leon Goretzka,Goretzka,single
+284,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Leroy Sané,80000000.0,False,Used Large Dataset,False,Leroy Sané,L Sane,single
+285,668,"Euros 2020, Qualifiers",Netherlands vs Germany,24.03.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+286,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+287,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+288,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+289,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+290,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+291,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+292,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Niall McGinn,525000.0,False,working,False,Niall McGinn,Mc Ginn,single
+293,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+294,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+295,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Jordan Jones,600000.0,False,working,False,Jordan Jones,J-n Jones,single
+296,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Northern Ireland, NI,2019,SUCCESS,Kyle Lafferty,650000.0,False,working,False,Kyle Lafferty,K Lafferty,single
+297,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Andrey Klimovich,650000.0,False,working,False,Andrey Klimovich,A Klimovich,single
+298,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+299,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Igor Shitov,450000.0,False,Data Ended before season : 2019,False,Igor Shitov,Shitov,single
+300,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+301,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Pavel Savitskiy,0,False,Not in either dataset for currect season but present in both seasons around match,True,Pavel Savitskiy,Savitski,single
+302,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Mikhail Sivakov,1400000.0,False,Data Ended before season : 2019,False,Mikhail Sivakov,Sivakov,single
+303,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+304,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Maksim Volodko,0,False,Not in either dataset for currect season but present in both seasons around match,True,Maksim Volodko,M Volodko,single
+305,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+306,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,FAIL,0,0,True,not done yet,False,0,10. Глеб А.,cyrillic
+307,669,"Euros 2020, Qualifiers",Northern Ireland vs Belarus,24.03.19,Belarus,BY,2019,SUCCESS,Denis Laptev,650000.0,False,working,False,Denis Laptev,D Laptev,single
+308,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+309,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Madis Vihmann,300000.0,False,Data Ended before season : 2019,False,Madis Vihmann,Vihmann,single
+310,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+311,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+312,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Artur Pikk,200000.0,False,working,False,Artur Pikk,Pikk,single
+313,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Mattias Käit,300000.0,False,working,False,Mattias Käit,Käit,single
+314,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+315,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Rauno Sappinen,0,False,Not in either dataset for currect season but present in both seasons around match,True,Rauno Sappinen,Sappinen,single
+316,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Artjom Dmitrijev,300000.0,False,Data Ended before season : 2019,False,Artjom Dmitrijev,Art Dmitrijev,single
+317,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,"['Henri Anier', 'Hannes Anier']",250000.0,False,working,False,"['Henri Anier', 'Hannes Anier']",Anier,multiple
+318,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+319,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+320,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+321,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+322,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+323,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+324,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+325,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+326,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+327,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Liam Boyce,400000.0,False,working,False,Liam Boyce,L Boyce,single
+328,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Gavin Whyte,1200000.0,False,working,False,Gavin Whyte,G Whyte,single
+329,670,"Euros 2020, Qualifiers",Estonia vs Northern Ireland,08.06.19,Northern Ireland, NI,2019,SUCCESS,Paul Smyth,0,False,Not in either dataset for currect season but present in both seasons around match,True,Paul Smyth,P Smyth,single
+330,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+331,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+332,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Igor Shitov,450000.0,False,Data Ended before season : 2019,False,Igor Shitov,Shitov,single
+333,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+334,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Nikita Naumov,600000.0,False,working,False,Nikita Naumov,N Naumov,single
+335,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+336,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+337,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Valeriy Gromyko,400000.0,False,working,False,Valeriy Gromyko,Gromyko,single
+338,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+339,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Maksim Volodko,0,False,Not in either dataset for currect season but present in both seasons around match,True,Maksim Volodko,M Volodko,single
+340,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Belarus,BY,2019,SUCCESS,Denis Laptev,650000.0,False,working,False,Denis Laptev,D Laptev,single
+341,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+342,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Jonathan Tah,29500000.0,False,working,False,Jonathan Tah,J Tah,single
+343,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+344,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+345,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+346,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+347,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Nico Schulz,16000000.0,False,working,False,Nico Schulz,Schulz,single
+348,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Leroy Sané,80000000.0,False,Used Large Dataset,False,Leroy Sané,L Sane,single
+349,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+350,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+351,671,"Euros 2020, Qualifiers",Belarus vs Germany,08.06.19,Germany,DE,2019,SUCCESS,Marco Reus,32000000.0,False,working,False,Marco Reus,Reus,single
+352,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+353,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Thilo Kehrer,28000000.0,False,Used Large Dataset,False,Thilo Kehrer,Kehrer,single
+354,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+355,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+356,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+357,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Nico Schulz,16000000.0,False,working,False,Nico Schulz,Schulz,single
+358,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Leon Goretzka,40000000.0,False,working,False,Leon Goretzka,Goretzka,single
+359,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Leroy Sané,80000000.0,False,Used Large Dataset,False,Leroy Sané,L Sane,single
+360,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+361,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+362,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Germany,DE,2019,SUCCESS,Marco Reus,32000000.0,False,working,False,Marco Reus,Reus,single
+363,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+364,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Gert Kams,0.0,False,Large Dataset had 0,False,Gert Kams,Kams,single
+365,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Madis Vihmann,300000.0,False,Data Ended before season : 2019,False,Madis Vihmann,Vihmann,single
+366,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+367,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+368,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Artur Pikk,200000.0,False,working,False,Artur Pikk,Pikk,single
+369,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Sander Puri,125000.0,False,working,False,Sander Puri,S Puri,single
+370,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+371,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Artjom Dmitrijev,300000.0,False,Data Ended before season : 2019,False,Artjom Dmitrijev,Art Dmitrijev,single
+372,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+373,672,"Euros 2020, Qualifiers",Germany vs Estonia,11.06.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+374,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+375,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+376,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Igor Shitov,450000.0,False,Data Ended before season : 2019,False,Igor Shitov,Shitov,single
+377,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+378,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Nikita Naumov,600000.0,False,working,False,Nikita Naumov,N Naumov,single
+379,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+380,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Nikita Korzun,300000.0,False,working,False,Nikita Korzun,Korzun,single
+381,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Evgeniy Shikavka,350000.0,False,Data Ended before season : 2019,False,Evgeniy Shikavka,Shikavka,single
+382,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+383,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+384,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Belarus,BY,2019,SUCCESS,Pavel Nekhaychik,725000.0,False,working,False,Pavel Nekhaychik,Nekhaichik,single
+385,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+386,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+387,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+388,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+389,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+390,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+391,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Corry Evans,475000.0,False,working,False,Corry Evans,C Evans,single
+392,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Jordan Jones,600000.0,False,working,False,Jordan Jones,J-n Jones,single
+393,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Conor Washington,650000.0,False,working,False,Conor Washington,Washington,single
+394,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Josh Magennis,600000.0,False,working,False,Josh Magennis,Magennis,single
+395,673,"Euros 2020, Qualifiers",Belarus vs Northern Ireland,11.06.19,Northern Ireland, NI,2019,SUCCESS,Paul Smyth,0,False,Not in either dataset for currect season but present in both seasons around match,True,Paul Smyth,P Smyth,single
+396,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+397,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Ragnar Klavan,1200000.0,False,Used Large Dataset,False,Ragnar Klavan,Klavan,single
+398,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+399,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+400,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Artur Pikk,200000.0,False,working,False,Artur Pikk,Pikk,single
+401,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Mattias Käit,300000.0,False,working,False,Mattias Käit,Käit,single
+402,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+403,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Erik Sorga,450000.0,False,working,False,Erik Sorga,Sorga,single
+404,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+405,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",300000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+406,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+407,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+408,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Sergey Matveychik,325000.0,False,working,False,Sergey Matveychik,Matveichik,single
+409,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Nikita Naumov,600000.0,False,working,False,Nikita Naumov,N Naumov,single
+410,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+411,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Sergey Politevich,400000.0,False,working,False,Sergey Politevich,Politevich,single
+412,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+413,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+414,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Evgeniy Yablonskiy,650000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+415,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+416,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+417,674,"Euros 2020, Qualifiers",Estonia vs Belarus,06.09.19,Belarus,BY,2019,SUCCESS,Nikolay Signevich,400000.0,False,working,False,Nikolay Signevich,Signevich,single
+418,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+419,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Jonathan Tah,29500000.0,False,working,False,Jonathan Tah,J Tah,single
+420,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+421,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+422,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+423,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+424,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Toni Kroos,48000000.0,False,working,False,Toni Kroos,Kroos,single
+425,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Nico Schulz,16000000.0,False,working,False,Nico Schulz,Schulz,single
+426,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+427,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Timo Werner,64000000.0,False,working,False,Timo Werner,Werner,single
+428,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Germany,DE,2019,SUCCESS,Marco Reus,32000000.0,False,working,False,Marco Reus,Reus,single
+429,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+430,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+431,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+432,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+433,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+434,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+435,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+436,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Quincy Promes,17500000.0,False,working,False,Quincy Promes,Promes,single
+437,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+438,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+439,675,"Euros 2020, Qualifiers",Germany vs Netherlands,06.09.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+440,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+441,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+442,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+443,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+444,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+445,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+446,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Niall McGinn,525000.0,False,working,False,Niall McGinn,Mc Ginn,single
+447,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+448,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Corry Evans,475000.0,False,working,False,Corry Evans,C Evans,single
+449,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+450,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Northern Ireland, NI,2019,SUCCESS,Conor Washington,650000.0,False,working,False,Conor Washington,Washington,single
+451,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+452,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+453,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Marcel Halstenberg,17500000.0,False,working,False,Marcel Halstenberg,Halstenberg,single
+454,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+455,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+456,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+457,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Toni Kroos,48000000.0,False,working,False,Toni Kroos,Kroos,single
+458,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Julian Brandt,40000000.0,False,working,False,Julian Brandt,Brandt,single
+459,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+460,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Timo Werner,64000000.0,False,working,False,Timo Werner,Werner,single
+461,676,"Euros 2020, Qualifiers",Northern Ireland vs Germany,09.09.19,Germany,DE,2019,SUCCESS,Marco Reus,32000000.0,False,working,False,Marco Reus,Reus,single
+462,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+463,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Ragnar Klavan,1200000.0,False,Used Large Dataset,False,Ragnar Klavan,Klavan,single
+464,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+465,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Ken Kallaste,150000.0,False,working,False,Ken Kallaste,Kallaste,single
+466,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+467,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Mattias Käit,300000.0,False,working,False,Mattias Käit,Käit,single
+468,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Mihkel Ainsalu,300000.0,False,working,False,Mihkel Ainsalu,Ainsalu,single
+469,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Erik Sorga,450000.0,False,working,False,Erik Sorga,Sorga,single
+470,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+471,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",300000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+472,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+473,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+474,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Joël Veltman,8000000.0,False,working,False,Joël Veltman,Veltman,single
+475,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+476,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+477,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+478,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+479,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Davy Pröpper,13500000.0,False,working,False,Davy Pröpper,Pröpper,single
+480,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+481,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+482,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+483,677,"Euros 2020, Qualifiers",Estonia vs Netherlands,09.09.19,Netherlands,NL,2019,SUCCESS,Donyell Malen,25000000.0,False,Used Large Dataset,False,Donyell Malen,Malen,single
+484,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+485,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+486,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+487,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Sergey Politevich,400000.0,False,working,False,Sergey Politevich,Politevich,single
+488,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Sergey Matveychik,325000.0,False,working,False,Sergey Matveychik,Matveichik,single
+489,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+490,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Pavel Savitskiy,0,False,Not in either dataset for currect season but present in both seasons around match,True,Pavel Savitskiy,Savitski,single
+491,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Evgeniy Yablonskiy,650000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+492,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+493,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+494,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Belarus,BY,2019,SUCCESS,Maksim Skavysh,600000.0,False,working,False,Maksim Skavysh,Skavysh,single
+495,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+496,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+497,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Ken Kallaste,150000.0,False,working,False,Ken Kallaste,Kallaste,single
+498,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+499,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+500,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Mattias Käit,300000.0,False,working,False,Mattias Käit,Käit,single
+501,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Vladislav Kreida,150000.0,False,working,False,Vladislav Kreida,Kreida,single
+502,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+503,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Erik Sorga,450000.0,False,working,False,Erik Sorga,Sorga,single
+504,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+505,678,"Euros 2020, Qualifiers",Belarus vs Estonia,10.10.19,Estonia,EE,2019,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",300000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+506,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+507,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+508,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+509,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+510,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+511,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+512,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+513,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+514,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+515,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+516,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Netherlands,NL,2019,SUCCESS,Steven Bergwijn,28000000.0,False,Used Large Dataset,False,Steven Bergwijn,Bergwijn,single
+517,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+518,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Michael Smith,550000.0,False,working,False,Michael Smith,M Smith,single
+519,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+520,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+521,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+522,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+523,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+524,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Shane Ferguson,600000.0,False,working,False,Shane Ferguson,S Ferguson,single
+525,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Corry Evans,475000.0,False,working,False,Corry Evans,C Evans,single
+526,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+527,679,"Euros 2020, Qualifiers",Netherlands vs Northern Ireland,10.10.19,Northern Ireland, NI,2019,SUCCESS,Kyle Lafferty,650000.0,False,working,False,Kyle Lafferty,K Lafferty,single
+528,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+529,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+530,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Nikita Naumov,600000.0,False,working,False,Nikita Naumov,N Naumov,single
+531,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+532,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Oleg Veretilo,450000.0,False,Data Ended before season : 2019,False,Oleg Veretilo,Veretilo,single
+533,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+534,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+535,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Evgeniy Yablonskiy,650000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+536,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+537,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Ivan Bakhar,500000.0,False,working,False,Ivan Bakhar,Bakhar,single
+538,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Belarus,BY,2019,SUCCESS,Denis Laptev,650000.0,False,working,False,Denis Laptev,D Laptev,single
+539,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+540,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Joël Veltman,8000000.0,False,working,False,Joël Veltman,Veltman,single
+541,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+542,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+543,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+544,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+545,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Donny van de Beek,44000000.0,False,working,False,Donny van de Beek,van de Beek,single
+546,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+547,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Quincy Promes,17500000.0,False,working,False,Quincy Promes,Promes,single
+548,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Steven Bergwijn,28000000.0,False,Used Large Dataset,False,Steven Bergwijn,Bergwijn,single
+549,680,"Euros 2020, Qualifiers",Belarus vs Netherlands,13.10.19,Netherlands,NL,2019,SUCCESS,Donyell Malen,25000000.0,False,Used Large Dataset,False,Donyell Malen,Malen,single
+550,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+551,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Gert Kams,0.0,False,Large Dataset had 0,False,Gert Kams,Kams,single
+552,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+553,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+554,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Artur Pikk,200000.0,False,working,False,Artur Pikk,Pikk,single
+555,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Ilja Antonov,200000.0,False,working,False,Ilja Antonov,I Antonov,single
+556,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+557,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Rauno Sappinen,0,False,Not in either dataset for currect season but present in both seasons around match,True,Rauno Sappinen,Sappinen,single
+558,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Mihkel Ainsalu,300000.0,False,working,False,Mihkel Ainsalu,Ainsalu,single
+559,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,Frank Liivak,275000.0,False,working,False,Frank Liivak,Liivak,single
+560,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+561,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+562,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Niklas Süle,48000000.0,False,working,False,Niklas Süle,Süle,single
+563,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Marcel Halstenberg,17500000.0,False,working,False,Marcel Halstenberg,Halstenberg,single
+564,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+565,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Emre Can,24000000.0,False,working,False,Emre Can,E Can,single
+566,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+567,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Kai Havertz,81000000.0,False,working,False,Kai Havertz,Havertz,single
+568,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Julian Brandt,40000000.0,False,working,False,Julian Brandt,Brandt,single
+569,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+570,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Marco Reus,32000000.0,False,working,False,Marco Reus,Reus,single
+571,681,"Euros 2020, Qualifiers",Estonia vs Germany,13.10.19,Germany,DE,2019,SUCCESS,Luca Waldschmidt,16000000.0,False,working,False,Luca Waldschmidt,Waldschmidt,single
+572,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Manuel Neuer,14500000.0,False,working,False,Manuel Neuer,Neuer,single
+573,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Robin Koch,14500000.0,False,working,False,Robin Koch,Koch,single
+574,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+575,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Matthias Ginter,28000000.0,False,working,False,Matthias Ginter,Ginter,single
+576,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+577,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Toni Kroos,48000000.0,False,working,False,Toni Kroos,Kroos,single
+578,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Nico Schulz,16000000.0,False,working,False,Nico Schulz,Schulz,single
+579,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Leon Goretzka,40000000.0,False,working,False,Leon Goretzka,Goretzka,single
+580,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+581,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+582,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Germany,DE,2019,SUCCESS,Timo Werner,64000000.0,False,working,False,Timo Werner,Werner,single
+583,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Aleksandr Gutor,725000.0,False,working,False,Aleksandr Gutor,Gutor,single
+584,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Aleksandr Martynovich,2800000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+585,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Nikita Naumov,600000.0,False,working,False,Nikita Naumov,N Naumov,single
+586,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Denis Polyakov,800000.0,False,working,False,Denis Polyakov,Polyakov,single
+587,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Sergey Matveychik,325000.0,False,working,False,Sergey Matveychik,Matveichik,single
+588,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Drahun,none
+589,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,FAIL,0,0,True,Lookup Required,False,0,Y Kavalyow,none
+590,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Ivan Maevskiy,1200000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+591,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Igor Stasevich,250000.0,False,working,False,Igor Stasevich,Stasevich,single
+592,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Pavel Nekhaychik,725000.0,False,working,False,Pavel Nekhaychik,Nekhaichik,single
+593,682,"Euros 2020, Qualifiers",Germany vs Belarus,16.11.19,Belarus,BY,2019,SUCCESS,Denis Laptev,650000.0,False,working,False,Denis Laptev,D Laptev,single
+594,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+595,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Jonny Evans,12000000.0,False,working,False,Jonny Evans,J Evans,single
+596,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+597,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+598,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Jamal Lewis,11000000.0,False,working,False,Jamal Lewis,J Lewis,single
+599,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+600,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+601,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Corry Evans,475000.0,False,working,False,Corry Evans,C Evans,single
+602,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Stuart Dallas,2400000.0,False,working,False,Stuart Dallas,Dallas,single
+603,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Gavin Whyte,1200000.0,False,working,False,Gavin Whyte,G Whyte,single
+604,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Northern Ireland, NI,2019,SUCCESS,Josh Magennis,600000.0,False,working,False,Josh Magennis,Magennis,single
+605,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+606,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Joël Veltman,8000000.0,False,working,False,Joël Veltman,Veltman,single
+607,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+608,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+609,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+610,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+611,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Donny van de Beek,44000000.0,False,working,False,Donny van de Beek,van de Beek,single
+612,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Quincy Promes,17500000.0,False,working,False,Quincy Promes,Promes,single
+613,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+614,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+615,683,"Euros 2020, Qualifiers",Northern Ireland vs Netherlands,16.11.19,Netherlands,NL,2019,SUCCESS,Steven Berghuis,11000000.0,False,working,False,Steven Berghuis,Berghuis,single
+616,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+617,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+618,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Nathan Aké,28000000.0,False,working,False,Nathan Aké,Ake,single
+619,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Patrick van Aanholt,9500000.0,False,working,False,Patrick van Aanholt,van Aanholt,single
+620,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",72000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+621,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Davy Pröpper,13500000.0,False,working,False,Davy Pröpper,Pröpper,single
+622,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Calvin Stengs,18000000.0,False,working,False,Calvin Stengs,Stengs,single
+623,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+624,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Quincy Promes,17500000.0,False,working,False,Quincy Promes,Promes,single
+625,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+626,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Netherlands,NL,2019,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luuk de Jong', 'Frenkie de Jong']",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+627,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Sergei Lepmets,0.0,False,Large Dataset had 0,False,Sergei Lepmets,Lepmets,single
+628,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Karol Mets,950000.0,False,working,False,Karol Mets,Mets,single
+629,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Ken Kallaste,150000.0,False,working,False,Ken Kallaste,Kallaste,single
+630,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Taijo Teniste,325000.0,False,working,False,Taijo Teniste,Teniste,single
+631,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Ilja Antonov,200000.0,False,working,False,Ilja Antonov,I Antonov,single
+632,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Konstantin Vassiljev,150000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+633,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Mihkel Ainsalu,300000.0,False,working,False,Mihkel Ainsalu,Ainsalu,single
+634,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Erik Sorga,450000.0,False,working,False,Erik Sorga,Sorga,single
+635,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,Sergei Zenjov,475000.0,False,working,False,Sergei Zenjov,Zenjov,single
+636,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",300000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+637,684,"Euros 2020, Qualifiers",Netherlands vs Estonia,19.11.19,Estonia,EE,2019,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",300000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+638,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Marc-André ter Stegen,72000000.0,False,working,False,Marc-André ter Stegen,ter Stegen,single
+639,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Jonas Hector,6800000.0,False,working,False,Jonas Hector,Hector,single
+640,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Jonathan Tah,29500000.0,False,working,False,Jonathan Tah,J Tah,single
+641,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Lukas Klostermann,28000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+642,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Emre Can,24000000.0,False,working,False,Emre Can,E Can,single
+643,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Joshua Kimmich,64000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+644,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Toni Kroos,48000000.0,False,working,False,Toni Kroos,Kroos,single
+645,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Julian Brandt,40000000.0,False,working,False,Julian Brandt,Brandt,single
+646,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Leon Goretzka,40000000.0,False,working,False,Leon Goretzka,Goretzka,single
+647,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,Serge Gnabry,72000000.0,False,working,False,Serge Gnabry,Gnabry,single
+648,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Germany,DE,2019,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+649,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Bailey Peacock-Farrell,1200000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+650,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Michael Smith,550000.0,False,working,False,Michael Smith,M Smith,single
+651,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Tom Flanagan,250000.0,False,working,False,Tom Flanagan,T Flanagan,single
+652,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Paddy McNair,2000000.0,False,working,False,Paddy McNair,Mc Nair,single
+653,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Craig Cathcart,4000000.0,False,working,False,Craig Cathcart,Cathcart,single
+654,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,George Saville,4000000.0,False,working,False,George Saville,G Saville,single
+655,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Steven Davis,1400000.0,False,working,False,Steven Davis,Davis,single
+656,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Shane Ferguson,600000.0,False,working,False,Shane Ferguson,S Ferguson,single
+657,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Corry Evans,475000.0,False,working,False,Corry Evans,C Evans,single
+658,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Jordan Thompson,100000.0,False,working,False,Jordan Thompson,J Thompson,single
+659,685,"Euros 2020, Qualifiers",Germany vs Northern Ireland,19.11.19,Northern Ireland, NI,2019,SUCCESS,Josh Magennis,600000.0,False,working,False,Josh Magennis,Magennis,single
+660,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+661,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+662,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+663,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Jemal Tabidze,2000000.0,False,working,False,Jemal Tabidze,Tabidze,single
+664,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Davit Khocholava,3200000.0,False,working,False,Davit Khocholava,Khocholava,single
+665,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Nika Kvekveskiri,1100000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+666,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+667,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Valeri Qazaishvili,1200000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+668,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Jano Ananidze,650000.0,False,working,False,Jano Ananidze,Ananidze,single
+669,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,FAIL,0,0,True,Lookup Required,False,0,Gviliya,none
+670,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Georgia,GE,2019,SUCCESS,Giorgi Kvilitaia,2000000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+671,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+672,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+673,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+674,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+675,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Stephan Lichtsteiner,800000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+676,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+677,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+678,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Remo Freuler,20000000.0,False,Used Large Dataset,False,Remo Freuler,Freuler,single
+679,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+680,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Steven Zuber,4500000.0,False,Used Large Dataset,False,Steven Zuber,Zuber,single
+681,686,"Euros 2020, Qualifiers",Georgia vs Switzerland,23.03.19,Switzerland,CH,2019,SUCCESS,Mario Gavranovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Mario Gavranovic,Gavranović,single
+682,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Kyle Goldwin,0.0,False,Large Dataset had 0,False,Kyle Goldwin,Goldwin,single
+683,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+684,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+685,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Louie Annesley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Louie Annesley,Annesley,single
+686,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+687,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+688,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,FAIL,0,0,True,not done yet,False,0,8. Бардон,cyrillic
+689,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+690,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+691,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Anthony Hernandez,0.0,False,Large Dataset had 0,False,Anthony Hernandez,A-y Hernandez,single
+692,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+693,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+694,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+695,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+696,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+697,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Richard Keogh,600000.0,False,working,False,Richard Keogh,R Keogh,single
+698,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+699,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+700,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+701,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+702,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,Sean Maguire,1200000.0,False,working,False,Sean Maguire,Maguire,single
+703,687,"Euros 2020, Qualifiers",Gibraltar vs Ireland,23.03.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+704,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+705,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+706,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+707,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+708,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Kevin Mbabu,6500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+709,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+710,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+711,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Remo Freuler,20000000.0,False,Used Large Dataset,False,Remo Freuler,Freuler,single
+712,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+713,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Steven Zuber,4500000.0,False,Used Large Dataset,False,Steven Zuber,Zuber,single
+714,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Switzerland,CH,2019,SUCCESS,Albian Ajeti,4800000.0,False,working,False,Albian Ajeti,Al Ajeti,single
+715,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+716,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Zanka,2400000.0,False,working,False,Zanka,Zanka,single
+717,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Henrik Dalsgaard,2000000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+718,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+719,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+720,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+721,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+722,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Lasse Schöne,2000000.0,False,working,False,Lasse Schöne,Schone,single
+723,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Nicolai Jörgensen,3500000.0,False,Used Large Dataset,False,Nicolai Jörgensen,N Jörgensen,single
+724,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+725,688,"Euros 2020, Qualifiers",Switzerland vs Denmark,26.03.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+726,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+727,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+728,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+729,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+730,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Richard Keogh,600000.0,False,working,False,Richard Keogh,R Keogh,single
+731,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+732,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+733,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+734,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+735,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+736,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Ireland,IE,2019,SUCCESS,Robbie Brady,4800000.0,False,working,False,Robbie Brady,Brady,single
+737,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+738,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+739,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+740,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Solomon Kvirkvelia,6500000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+741,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Davit Khocholava,3200000.0,False,working,False,Davit Khocholava,Khocholava,single
+742,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Nika Kvekveskiri,1100000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+743,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+744,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Otar Kiteishvili,1600000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+745,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,FAIL,0,0,True,Lookup Required,False,0,Gviliya,none
+746,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Giorgi Kvilitaia,2000000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+747,689,"Euros 2020, Qualifiers",Ireland vs Georgia,26.03.19,Georgia,GE,2019,SUCCESS,Vato Arveladze,0,False,Not in either dataset for currect season but present in both seasons around match,True,Vato Arveladze,V Arveladze,single
+748,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+749,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+750,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Levan Kharabadze,1100000.0,False,working,False,Levan Kharabadze,Kharabadze,single
+751,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+752,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+753,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+754,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Nika Kvekveskiri,1100000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+755,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Giorgi Merebashvili,250000.0,False,Data Ended before season : 2019,False,Giorgi Merebashvili,Merebashvili,single
+756,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Khvicha Kvaratskhelia,2300000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+757,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,FAIL,0,0,True,Lookup Required,False,0,Gviliya,none
+758,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Georgia,GE,2019,SUCCESS,Vato Arveladze,0,False,Not in either dataset for currect season but present in both seasons around match,True,Vato Arveladze,V Arveladze,single
+759,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Kyle Goldwin,0.0,False,Large Dataset had 0,False,Kyle Goldwin,Goldwin,single
+760,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+761,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+762,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Louie Annesley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Louie Annesley,Annesley,single
+763,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+764,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+765,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,FAIL,0,0,True,not done yet,False,0,8. Бардон,cyrillic
+766,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+767,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+768,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Anthony Hernandez,0.0,False,Large Dataset had 0,False,Anthony Hernandez,A-y Hernandez,single
+769,690,"Euros 2020, Qualifiers",Georgia vs Gibraltar,07.06.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+770,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+771,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+772,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Henrik Dalsgaard,2000000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+773,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+774,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+775,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+776,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+777,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Lasse Schöne,2000000.0,False,working,False,Lasse Schöne,Schone,single
+778,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Nicolai Jörgensen,3500000.0,False,Used Large Dataset,False,Nicolai Jörgensen,N Jörgensen,single
+779,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+780,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+781,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+782,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+783,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+784,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+785,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Richard Keogh,600000.0,False,working,False,Richard Keogh,R Keogh,single
+786,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+787,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+788,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+789,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+790,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+791,691,"Euros 2020, Qualifiers",Denmark vs Ireland,07.06.19,Ireland,IE,2019,SUCCESS,Robbie Brady,4800000.0,False,working,False,Robbie Brady,Brady,single
+792,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+793,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Joachim Andersen,16000000.0,False,working,False,Joachim Andersen,J Andersen,single
+794,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+795,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+796,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Robert Skov,10500000.0,False,working,False,Robert Skov,Skov,single
+797,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+798,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+799,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+800,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+801,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Kasper Dolberg,16000000.0,False,working,False,Kasper Dolberg,Dolberg,single
+802,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+803,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+804,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+805,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+806,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+807,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Giorgi Navalovski,200000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+808,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Lasha Parunashvili,0,False,Not in either dataset for currect season but present in both seasons around match,True,Lasha Parunashvili,Parunashvili,single
+809,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+810,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Otar Kiteishvili,1600000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+811,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Nika Kvekveskiri,1100000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+812,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,SUCCESS,Saba Lobjanidze,800000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+813,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Georgia,GE,2019,FAIL,0,0,True,Lookup Required,False,0,Gviliya,none
+814,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+815,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+816,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+817,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+818,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Richard Keogh,600000.0,False,working,False,Richard Keogh,R Keogh,single
+819,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+820,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+821,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+822,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+823,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Callum Robinson,5500000.0,False,working,False,Callum Robinson,C Robinson,single
+824,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Ireland,IE,2019,SUCCESS,Scott Hogan,3200000.0,False,working,False,Scott Hogan,S Hogan,single
+825,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Kyle Goldwin,0.0,False,Large Dataset had 0,False,Kyle Goldwin,Goldwin,single
+826,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+827,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+828,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Louie Annesley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Louie Annesley,Annesley,single
+829,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+830,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+831,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+832,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Alain Pons,0.0,False,Large Dataset had 0,False,Alain Pons,Pons,single
+833,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Andrew Hernandez,0.0,False,Large Dataset had 0,False,Andrew Hernandez,A-w Hernandez,single
+834,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+835,693,"Euros 2020, Qualifiers",Ireland vs Gibraltar,10.06.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+836,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+837,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+838,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+839,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+840,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Richard Keogh,600000.0,False,working,False,Richard Keogh,R Keogh,single
+841,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+842,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+843,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+844,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+845,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+846,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Ireland,IE,2019,SUCCESS,Callum Robinson,5500000.0,False,working,False,Callum Robinson,C Robinson,single
+847,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+848,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Kevin Mbabu,6500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+849,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+850,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+851,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+852,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+853,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+854,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+855,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Remo Freuler,20000000.0,False,Used Large Dataset,False,Remo Freuler,Freuler,single
+856,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+857,694,"Euros 2020, Qualifiers",Ireland vs Switzerland,05.09.19,Switzerland,CH,2019,SUCCESS,Haris Seferovic,12000000.0,False,working,False,Haris Seferovic,Seferovic,single
+858,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Dayle Coleing,0.0,False,Large Dataset had 0,False,Dayle Coleing,Coleing,single
+859,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+860,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+861,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Louie Annesley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Louie Annesley,Annesley,single
+862,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+863,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+864,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Ethan Britto,0.0,False,Large Dataset had 0,False,Ethan Britto,Britto,single
+865,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+866,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Andrew Hernandez,0.0,False,Large Dataset had 0,False,Andrew Hernandez,A-w Hernandez,single
+867,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Anthony Hernandez,0.0,False,Large Dataset had 0,False,Anthony Hernandez,A-y Hernandez,single
+868,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+869,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+870,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+871,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+872,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Robert Skov,10500000.0,False,working,False,Robert Skov,Skov,single
+873,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+874,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Daniel Wass,11000000.0,False,working,False,Daniel Wass,Wass,single
+875,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+876,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+877,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+878,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+879,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Christian Gytkjaer,2000000.0,False,working,False,Christian Gytkjaer,Gytkjaer,single
+880,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+881,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+882,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+883,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+884,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+885,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+886,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+887,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Loris Benito,3200000.0,False,working,False,Loris Benito,Benito,single
+888,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+889,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Albian Ajeti,4800000.0,False,working,False,Albian Ajeti,Al Ajeti,single
+890,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Switzerland,CH,2019,SUCCESS,Admir Mehmedi,8000000.0,False,Used Large Dataset,False,Admir Mehmedi,Mehmedi,single
+891,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Dayle Coleing,0.0,False,Large Dataset had 0,False,Dayle Coleing,Coleing,single
+892,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+893,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+894,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Louie Annesley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Louie Annesley,Annesley,single
+895,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+896,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+897,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Ethan Britto,0.0,False,Large Dataset had 0,False,Ethan Britto,Britto,single
+898,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+899,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Andrew Hernandez,0.0,False,Large Dataset had 0,False,Andrew Hernandez,A-w Hernandez,single
+900,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Anthony Hernandez,0.0,False,Large Dataset had 0,False,Anthony Hernandez,A-y Hernandez,single
+901,696,"Euros 2020, Qualifiers",Switzerland vs Gibraltar,08.09.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+902,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+903,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+904,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Jemal Tabidze,2000000.0,False,working,False,Jemal Tabidze,Tabidze,single
+905,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+906,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+907,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Jano Ananidze,650000.0,False,working,False,Jano Ananidze,Ananidze,single
+908,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Valeri Qazaishvili,1200000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+909,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Otar Kiteishvili,1600000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+910,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Giorgi Aburjania,475000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+911,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Tornike Okriashvili,475000.0,False,working,False,Tornike Okriashvili,Okriashvili,single
+912,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Georgia,GE,2019,SUCCESS,Giorgi Kvilitaia,2000000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+913,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+914,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+915,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Henrik Dalsgaard,2000000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+916,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+917,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+918,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+919,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+920,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+921,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+922,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Kasper Dolberg,16000000.0,False,working,False,Kasper Dolberg,Dolberg,single
+923,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+924,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+925,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+926,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+927,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Jemal Tabidze,2000000.0,False,working,False,Jemal Tabidze,Tabidze,single
+928,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+929,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+930,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Valeri Qazaishvili,1200000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+931,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Jano Ananidze,650000.0,False,working,False,Jano Ananidze,Ananidze,single
+932,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Otar Kiteishvili,1600000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+933,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Tornike Okriashvili,475000.0,False,working,False,Tornike Okriashvili,Okriashvili,single
+934,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Georgia,GE,2019,SUCCESS,Giorgi Kvilitaia,2000000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+935,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+936,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+937,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+938,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+939,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,John Egan,9500000.0,False,working,False,John Egan,Egan,single
+940,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+941,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+942,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+943,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+944,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,Callum Robinson,5500000.0,False,working,False,Callum Robinson,C Robinson,single
+945,698,"Euros 2020, Qualifiers",Georgia vs Ireland,12.10.19,Ireland,IE,2019,SUCCESS,James Collins,950000.0,False,working,False,James Collins,J Collins,single
+946,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+947,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+948,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Henrik Dalsgaard,2000000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+949,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+950,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+951,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+952,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+953,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Lasse Schöne,2000000.0,False,working,False,Lasse Schöne,Schone,single
+954,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+955,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+956,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Denmark,DK,2019,SUCCESS,Andreas Cornelius,8000000.0,False,working,False,Andreas Cornelius,Cornelius,single
+957,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+958,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+959,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+960,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+961,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+962,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Stephan Lichtsteiner,800000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+963,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+964,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+965,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+966,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Haris Seferovic,12000000.0,False,working,False,Haris Seferovic,Seferovic,single
+967,699,"Euros 2020, Qualifiers",Denmark vs Switzerland,12.10.19,Switzerland,CH,2019,SUCCESS,Admir Mehmedi,8000000.0,False,Used Large Dataset,False,Admir Mehmedi,Mehmedi,single
+968,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+969,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+970,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+971,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+972,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+973,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Stephan Lichtsteiner,800000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+974,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+975,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+976,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Breel Embolo,13000000.0,False,Used Large Dataset,False,Breel Embolo,Embolo,single
+977,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Haris Seferovic,12000000.0,False,working,False,Haris Seferovic,Seferovic,single
+978,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Switzerland,CH,2019,SUCCESS,Admir Mehmedi,8000000.0,False,Used Large Dataset,False,Admir Mehmedi,Mehmedi,single
+979,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+980,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Seamus Coleman,9500000.0,False,working,False,Seamus Coleman,Coleman,single
+981,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+982,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+983,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,John Egan,9500000.0,False,working,False,John Egan,Egan,single
+984,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+985,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Alan Browne,3200000.0,False,working,False,Alan Browne,Al Browne,single
+986,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+987,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+988,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,Aaron Connolly,4000000.0,False,working,False,Aaron Connolly,A Connolly,single
+989,700,"Euros 2020, Qualifiers",Switzerland vs Ireland,15.10.19,Ireland,IE,2019,SUCCESS,James Collins,950000.0,False,working,False,James Collins,J Collins,single
+990,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Kyle Goldwin,0.0,False,Large Dataset had 0,False,Kyle Goldwin,Goldwin,single
+991,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+992,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+993,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+994,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+995,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Aymen Mouelhi,25000.0,False,working,False,Aymen Mouelhi,Mouelhi,single
+996,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Ethan Britto,0.0,False,Large Dataset had 0,False,Ethan Britto,Britto,single
+997,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+998,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Mohamed Badr,0.0,False,Large Dataset had 0,False,Mohamed Badr,Badr,single
+999,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+1000,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+1001,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+1002,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+1003,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+1004,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Giorgi Navalovski,200000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+1005,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Davit Khocholava,3200000.0,False,working,False,Davit Khocholava,Khocholava,single
+1006,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+1007,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Valeri Qazaishvili,1200000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+1008,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Jano Ananidze,650000.0,False,working,False,Jano Ananidze,Ananidze,single
+1009,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Giorgi Kharaishvili,950000.0,False,working,False,Giorgi Kharaishvili,Kharaishvili,single
+1010,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Elguja Lobjanidze,400000.0,False,working,False,Elguja Lobjanidze,E Lobjanidze,single
+1011,701,"Euros 2020, Qualifiers",Gibraltar vs Georgia,15.10.19,Georgia,GE,2019,SUCCESS,Levan Shengelia,525000.0,False,working,False,Levan Shengelia,Shengelia,single
+1012,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+1013,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+1014,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+1015,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+1016,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Stephan Lichtsteiner,800000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+1017,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+1018,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Renato Steffen,4000000.0,False,working,False,Renato Steffen,Steffen,single
+1019,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+1020,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+1021,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Albian Ajeti,4800000.0,False,working,False,Albian Ajeti,Al Ajeti,single
+1022,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Switzerland,CH,2019,SUCCESS,Rubén Vargas,9000000.0,False,working,False,Rubén Vargas,Vargas,single
+1023,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Giorgi Loria,325000.0,False,working,False,Giorgi Loria,G Loria,single
+1024,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Otar Kakabadze,800000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+1025,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Guram Kashia,675000.0,False,working,False,Guram Kashia,Kashia,single
+1026,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Gia Grigalava,2000000.0,False,working,False,Gia Grigalava,Grigalava,single
+1027,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Davit Khocholava,3200000.0,False,working,False,Davit Khocholava,Khocholava,single
+1028,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Jaba Kankava,600000.0,False,working,False,Jaba Kankava,Kankava,single
+1029,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Valeri Qazaishvili,1200000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+1030,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Otar Kiteishvili,1600000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+1031,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Zuriko Davitashvili,2300000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+1032,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Levan Shengelia,525000.0,False,working,False,Levan Shengelia,Shengelia,single
+1033,702,"Euros 2020, Qualifiers",Switzerland vs Georgia,15.11.19,Georgia,GE,2019,SUCCESS,Giorgi Kvilitaia,2000000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+1034,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+1035,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Zanka,2400000.0,False,working,False,Zanka,Zanka,single
+1036,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+1037,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Robert Skov,10500000.0,False,working,False,Robert Skov,Skov,single
+1038,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+1039,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+1040,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Daniel Wass,11000000.0,False,working,False,Daniel Wass,Wass,single
+1041,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+1042,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Lasse Schöne,2000000.0,False,working,False,Lasse Schöne,Schone,single
+1043,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Christian Gytkjaer,2000000.0,False,working,False,Christian Gytkjaer,Gytkjaer,single
+1044,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+1045,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Kyle Goldwin,0.0,False,Large Dataset had 0,False,Kyle Goldwin,Goldwin,single
+1046,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+1047,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+1048,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Jayce Olivero,0.0,False,Large Dataset had 0,False,Jayce Olivero,Olivero,single
+1049,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+1050,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Aymen Mouelhi,25000.0,False,working,False,Aymen Mouelhi,Mouelhi,single
+1051,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Ethan Britto,0.0,False,Large Dataset had 0,False,Ethan Britto,Britto,single
+1052,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+1053,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Mohamed Badr,0.0,False,Large Dataset had 0,False,Mohamed Badr,Badr,single
+1054,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+1055,703,"Euros 2020, Qualifiers",Denmark vs Gibraltar,15.11.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+1056,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Darren Randolph,2800000.0,False,working,False,Darren Randolph,Randolph,single
+1057,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+1058,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Enda Stevens,5500000.0,False,working,False,Enda Stevens,E Stevens,single
+1059,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Shane Duffy,9500000.0,False,working,False,Shane Duffy,Duffy,single
+1060,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,John Egan,9500000.0,False,working,False,John Egan,Egan,single
+1061,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Glenn Whelan,800000.0,False,working,False,Glenn Whelan,Whelan,single
+1062,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Alan Browne,3200000.0,False,working,False,Alan Browne,Al Browne,single
+1063,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,James McClean,3200000.0,False,working,False,James McClean,Mc Clean,single
+1064,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+1065,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,Conor Hourihane,6000000.0,False,working,False,Conor Hourihane,Hourihane,single
+1066,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Ireland,IE,2019,SUCCESS,David McGoldrick,1600000.0,False,working,False,David McGoldrick,Mcgoldrick,single
+1067,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Kasper Schmeichel,9500000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+1068,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Zanka,2400000.0,False,working,False,Zanka,Zanka,single
+1069,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Henrik Dalsgaard,2000000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+1070,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Simon Kjaer,5200000.0,False,working,False,Simon Kjaer,Kjaer,single
+1071,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+1072,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",2800000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+1073,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Christian Eriksen,68000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+1074,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Lasse Schöne,2000000.0,False,working,False,Lasse Schöne,Schone,single
+1075,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Martin Braithwaite,9500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+1076,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Yussuf Poulsen,24000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+1077,704,"Euros 2020, Qualifiers",Ireland vs Denmark,18.11.19,Denmark,DK,2019,SUCCESS,Andreas Cornelius,8000000.0,False,working,False,Andreas Cornelius,Cornelius,single
+1078,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Dayle Coleing,0.0,False,Large Dataset had 0,False,Dayle Coleing,Coleing,single
+1079,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Joseph Chipolina,25000.0,False,working,False,Joseph Chipolina,J Chipolina,single
+1080,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Jack Sergeant,25000.0,False,working,False,Jack Sergeant,Sergeant,single
+1081,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+1082,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Erin Barnett,0.0,False,Large Dataset had 0,False,Erin Barnett,E Barnett,single
+1083,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Aymen Mouelhi,25000.0,False,working,False,Aymen Mouelhi,Mouelhi,single
+1084,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Ethan Britto,0.0,False,Large Dataset had 0,False,Ethan Britto,Britto,single
+1085,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Liam Walker,100000.0,False,working,False,Liam Walker,L Walker,single
+1086,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Mohamed Badr,0.0,False,Large Dataset had 0,False,Mohamed Badr,Badr,single
+1087,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+1088,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Gibraltar,GI,2019,SUCCESS,Tjay De Barr,50000.0,False,Used Large Dataset,False,Tjay De Barr,De Barr,single
+1089,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+1090,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+1091,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+1092,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Michael Lang,950000.0,False,working,False,Michael Lang,M Lang,single
+1093,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+1094,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+1095,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+1096,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Cedric Itten,2400000.0,False,working,False,Cedric Itten,Itten,single
+1097,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Loris Benito,3200000.0,False,working,False,Loris Benito,Benito,single
+1098,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Christian Fassnacht,4000000.0,False,working,False,Christian Fassnacht,Fassnacht,single
+1099,705,"Euros 2020, Qualifiers",Gibraltar vs Switzerland,18.11.19,Switzerland,CH,2019,SUCCESS,Rubén Vargas,9000000.0,False,working,False,Rubén Vargas,Vargas,single
