@@ -1,0 +1,501 @@
+,Name,Nationality,Position,Market Value,Season,Team,Birthday,Age,JerseyNumber,PlayerID,Accents Removed,Team 1 Code
+0,Sergio Romero,Argentina,Goalkeeper,€4.00m,2013,Sampdoria,"Feb 22, 1987",26,1,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+1,Mariano Andújar,Argentina,Goalkeeper,€4.00m,2013,Catania,"Jul 30, 1983",29,21,"Mariano Andújar_Jul 30, 1983_Argentina",Mariano Andujar,AR
+2,Agustín Orión,Argentina,Goalkeeper,€1.00m,2013,Boca Juniors,"Jun 26, 1981",32,12,"Agustín Orión_Jun 26, 1981_Argentina",Agustin Orion,AR
+3,Óscar Ustari,Argentina,Goalkeeper,€800k,2013,Boca Juniors,"Jul 3, 1986",26,-,"Óscar Ustari_Jul 3, 1986_Argentina",Oscar Ustari,AR
+4,Ezequiel Garay,Argentina,Centre-Back,€14.00m,2013,Benfica,"Oct 10, 1986",26,2,"Ezequiel Garay_Oct 10, 1986_Argentina",Ezequiel Garay,AR
+5,Nicolás Otamendi,Argentina,Centre-Back,€9.50m,2013,FC Porto,"Feb 12, 1988",25,-,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+6,Fabricio Coloccini,Argentina,Centre-Back,€8.00m,2013,Newcastle,"Jan 22, 1982",31,-,"Fabricio Coloccini_Jan 22, 1982_Argentina",Fabricio Coloccini,AR
+7,Lisandro López,Argentina,Centre-Back,€6.00m,2013,Arsenal Sarandí,"Sep 1, 1989",23,-,"Lisandro López_Sep 1, 1989_Argentina",Lisandro Lopez,AR
+8,Hugo Campagnaro,Argentina,Centre-Back,€4.80m,2013,SSC Napoli,"Jun 27, 1980",33,3,"Hugo Campagnaro_Jun 27, 1980_Argentina",Hugo Campagnaro,AR
+9,Marcos Rojo,Argentina,Centre-Back,€4.30m,2013,Sporting CP,"Mar 20, 1990",23,16,"Marcos Rojo_Mar 20, 1990_Argentina",Marcos Rojo,AR
+10,Facundo Roncaglia,Argentina,Centre-Back,€4.00m,2013,Fiorentina,"Feb 10, 1987",26,-,"Facundo Roncaglia_Feb 10, 1987_Argentina",Facundo Roncaglia,AR
+11,Martín Demichelis,Argentina,Centre-Back,€3.50m,2013,Málaga CF,"Dec 20, 1980",32,15,"Martín Demichelis_Dec 20, 1980_Argentina",Martin Demichelis,AR
+12,Federico Fernández,Argentina,Centre-Back,€3.00m,2013,SSC Napoli,"Feb 21, 1989",24,17,"Federico Fernández_Feb 21, 1989_Argentina",Federico Fernandez,AR
+13,José María Basanta,Argentina,Centre-Back,€2.50m,2013,Monterrey,"Apr 3, 1984",29,23,"José María Basanta_Apr 3, 1984_Argentina",Jose Maria Basanta,AR
+14,Lucas Orbán,Argentina,Centre-Back,€1.20m,2013,Tigre,"Feb 3, 1989",24,-,"Lucas Orbán_Feb 3, 1989_Argentina",Lucas Orban,AR
+15,Emanuel Mammana,Argentina,Centre-Back,-,2013,No Transfer History,"Feb 10, 1996",17,-,"Emanuel Mammana_Feb 10, 1996_Argentina",Emanuel Mammana,AR
+16,Cristian Ansaldi,Argentina,Left-Back,€10.00m,2013,Rubin Kazan,"Sep 20, 1986",26,-,"Cristian Ansaldi_Sep 20, 1986_Argentina",Cristian Ansaldi,AR
+17,Clemente Rodríguez,Argentina,Left-Back,€1.50m,2013,São Paulo,"Jul 31, 1981",31,-,"Clemente Rodríguez_Jul 31, 1981_Argentina",Clemente Rodriguez,AR
+18,Pablo Zabaleta,Argentina,Right-Back,€14.50m,2013,Man City,"Jan 16, 1985",28,4,"Pablo Zabaleta_Jan 16, 1985_Argentina",Pablo Zabaleta,AR
+19,Gino Peruzzi,Argentina,Right-Back,€3.00m,2013,Vélez Sarsfield,"Jun 9, 1992",21,-,"Gino Peruzzi_Jun 9, 1992_Argentina",Gino Peruzzi,AR
+20,Javier Mascherano,Argentina,Defensive Midfield,€30.00m,2013,Barcelona,"Jun 8, 1984",29,14,"Javier Mascherano_Jun 8, 1984_Argentina",Javier Mascherano,AR
+21,Lucas Biglia,Argentina,Defensive Midfield,€8.50m,2013,RSC Anderlecht,"Jan 30, 1986",27,6,"Lucas Biglia_Jan 30, 1986_Argentina",Lucas Biglia,AR
+22,Fernando Gago,Argentina,Defensive Midfield,€7.00m,2013,Valencia,"Apr 10, 1986",27,5,"Fernando Gago_Apr 10, 1986_Argentina",Fernando Gago,AR
+23,Enzo Pérez,Argentina,Defensive Midfield,€4.50m,2013,Benfica,"Feb 22, 1986",27,8,"Enzo Pérez_Feb 22, 1986_Argentina",Enzo Perez,AR
+24,Francisco Cerro,Argentina,Defensive Midfield,€2.50m,2013,Vélez Sarsfield,"Feb 9, 1988",25,-,"Francisco Cerro_Feb 9, 1988_Argentina",Francisco Cerro,AR
+25,Éver Banega,Argentina,Central Midfield,€13.00m,2013,Valencia,"Jun 29, 1988",25,-,"Éver Banega_Jun 29, 1988_Argentina",Ever Banega,AR
+26,Ricardo Álvarez,Argentina,Central Midfield,€11.50m,2013,Inter,"Apr 12, 1988",25,19,"Ricardo Álvarez_Apr 12, 1988_Argentina",Ricardo Alvarez,AR
+27,José Sosa,Argentina,Central Midfield,€7.00m,2013,Metalist,"Jun 19, 1985",28,-,"José Sosa_Jun 19, 1985_Argentina",Jose Sosa,AR
+28,Augusto Fernández,Argentina,Central Midfield,€2.50m,2013,Celta de Vigo,"Apr 10, 1986",27,13,"Augusto Fernández_Apr 10, 1986_Argentina",Augusto Fernandez,AR
+29,Ezequiel Lavezzi,Argentina,Left Winger,€30.00m,2013,Paris SG,"May 3, 1985",28,22,"Ezequiel Lavezzi_May 3, 1985_Argentina",Ezequiel Lavezzi,AR
+30,Maxi Rodríguez,Argentina,Left Winger,€1.80m,2013,Newell's,"Jan 2, 1981",32,11,"Maxi Rodríguez_Jan 2, 1981_Argentina",Maxi Rodriguez,AR
+31,Lionel Messi,Argentina,Right Winger,€120.00m,2013,Barcelona,"Jun 24, 1987",26,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+32,Ángel Di María,Argentina,Right Winger,€40.00m,2013,Real Madrid,"Feb 14, 1988",25,7,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+33,Erik Lamela,Argentina,Right Winger,€18.00m,2013,AS Roma,"Mar 4, 1992",21,-,"Erik Lamela_Mar 4, 1992_Argentina",Erik Lamela,AR
+34,Sergio Agüero,Argentina,Centre-Forward,€51.00m,2013,Man City,"Jun 2, 1988",25,20,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+35,Gonzalo Higuaín,Argentina,Centre-Forward,€38.00m,2013,Real Madrid,"Dec 10, 1987",25,9,"Gonzalo Higuaín_Dec 10, 1987_Argentina",Gonzalo Higuain,AR
+36,Rodrigo Palacio,Argentina,Centre-Forward,€12.00m,2013,Inter,"Feb 5, 1982",31,18,"Rodrigo Palacio_Feb 5, 1982_Argentina",Rodrigo Palacio,AR
+37,Willy Caballero,Argentina,Goalkeeper,€5.00m,2014,Málaga CF,"Sep 28, 1981",32,-,"Willy Caballero_Sep 28, 1981_Argentina",Willy Caballero,AR
+38,Mariano Andújar,Argentina,Goalkeeper,€4.50m,2014,SSC Napoli,"Jul 30, 1983",30,23,"Mariano Andújar_Jul 30, 1983_Argentina",Mariano Andujar,AR
+39,Sergio Romero,Argentina,Goalkeeper,€4.00m,2014,Sampdoria,"Feb 22, 1987",27,1,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+40,Agustín Marchesín,Argentina,Goalkeeper,€2.50m,2014,Lanús,"Mar 16, 1988",26,-,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+41,Agustín Orión,Argentina,Goalkeeper,€1.00m,2014,Boca Juniors,"Jun 26, 1981",33,-,"Agustín Orión_Jun 26, 1981_Argentina",Agustin Orion,AR
+42,Gerónimo Rulli,Argentina,Goalkeeper,€500k,2014,Maldonado,"May 20, 1992",22,-,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+43,Nahuel Guzmán,Argentina,Goalkeeper,€500k,2014,Newell's,"Feb 10, 1986",28,12,"Nahuel Guzmán_Feb 10, 1986_Argentina",Nahuel Guzman,AR
+44,Ezequiel Garay,Argentina,Centre-Back,€20.00m,2014,Zenit S-Pb,"Oct 10, 1986",27,2,"Ezequiel Garay_Oct 10, 1986_Argentina",Ezequiel Garay,AR
+45,Nicolás Otamendi,Argentina,Centre-Back,€13.00m,2014,Valencia,"Feb 12, 1988",26,17,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+46,Federico Fazio,Argentina,Centre-Back,€6.00m,2014,Sevilla FC,"Mar 17, 1987",27,-,"Federico Fazio_Mar 17, 1987_Argentina",Federico Fazio,AR
+47,Facundo Roncaglia,Argentina,Centre-Back,€5.50m,2014,Fiorentina,"Feb 10, 1987",27,3,"Facundo Roncaglia_Feb 10, 1987_Argentina",Facundo Roncaglia,AR
+48,Marcos Rojo,Argentina,Centre-Back,€5.50m,2014,Sporting CP,"Mar 20, 1990",24,16,"Marcos Rojo_Mar 20, 1990_Argentina",Marcos Rojo,AR
+49,Mateo Musacchio,Argentina,Centre-Back,€5.00m,2014,Villarreal,"Aug 26, 1990",23,-,"Mateo Musacchio_Aug 26, 1990_Argentina",Mateo Musacchio,AR
+50,Hugo Campagnaro,Argentina,Centre-Back,€4.20m,2014,Inter,"Jun 27, 1980",34,-,"Hugo Campagnaro_Jun 27, 1980_Argentina",Hugo Campagnaro,AR
+51,José María Basanta,Argentina,Centre-Back,€3.50m,2014,Monterrey,"Apr 3, 1984",30,-,"José María Basanta_Apr 3, 1984_Argentina",Jose Maria Basanta,AR
+52,Federico Fernández,Argentina,Centre-Back,€3.00m,2014,SSC Napoli,"Feb 21, 1989",25,-,"Federico Fernández_Feb 21, 1989_Argentina",Federico Fernandez,AR
+53,Lucas Orbán,Argentina,Centre-Back,€3.00m,2014,G. Bordeaux,"Feb 3, 1989",25,-,"Lucas Orbán_Feb 3, 1989_Argentina",Lucas Orban,AR
+54,Martín Demichelis,Argentina,Centre-Back,€3.00m,2014,Man City,"Dec 20, 1980",33,15,"Martín Demichelis_Dec 20, 1980_Argentina",Martin Demichelis,AR
+55,Ramiro Funes Mori,Argentina,Centre-Back,€1.50m,2014,River Plate,"Mar 5, 1991",23,-,"Ramiro Funes Mori_Mar 5, 1991_Argentina",Ramiro Funes Mori,AR
+56,Santiago Vergini,Argentina,Centre-Back,€700k,2014,Sunderland,"Aug 3, 1988",25,-,"Santiago Vergini_Aug 3, 1988_Argentina",Santiago Vergini,AR
+57,Cristian Ansaldi,Argentina,Left-Back,€10.00m,2014,Zenit S-Pb,"Sep 20, 1986",27,-,"Cristian Ansaldi_Sep 20, 1986_Argentina",Cristian Ansaldi,AR
+58,Leonel Vangioni,Argentina,Left-Back,€1.50m,2014,River Plate,"May 5, 1987",27,-,"Leonel Vangioni_May 5, 1987_Argentina",Leonel Vangioni,AR
+59,Milton Casco,Argentina,Left-Back,€1.00m,2014,Newell's,"Apr 11, 1988",26,13,"Milton Casco_Apr 11, 1988_Argentina",Milton Casco,AR
+60,Jonathan Silva,Argentina,Left-Back,€750k,2014,Estudiantes LP,"Jun 29, 1994",20,-,"Jonathan Silva_Jun 29, 1994_Argentina",Jonathan Silva,AR
+61,Pablo Zabaleta,Argentina,Right-Back,€18.00m,2014,Man City,"Jan 16, 1985",29,4,"Pablo Zabaleta_Jan 16, 1985_Argentina",Pablo Zabaleta,AR
+62,Javier Mascherano,Argentina,Defensive Midfield,€20.00m,2014,Barcelona,"Jun 8, 1984",30,14,"Javier Mascherano_Jun 8, 1984_Argentina",Javier Mascherano,AR
+63,Enzo Pérez,Argentina,Defensive Midfield,€9.00m,2014,Benfica,"Feb 22, 1986",28,-,"Enzo Pérez_Feb 22, 1986_Argentina",Enzo Perez,AR
+64,Lucas Biglia,Argentina,Defensive Midfield,€8.00m,2014,Lazio,"Jan 30, 1986",28,6,"Lucas Biglia_Jan 30, 1986_Argentina",Lucas Biglia,AR
+65,Fernando Gago,Argentina,Defensive Midfield,€4.00m,2014,Boca Juniors,"Apr 10, 1986",28,5,"Fernando Gago_Apr 10, 1986_Argentina",Fernando Gago,AR
+66,Éver Banega,Argentina,Central Midfield,€18.00m,2014,Valencia,"Jun 29, 1988",26,19,"Éver Banega_Jun 29, 1988_Argentina",Ever Banega,AR
+67,Ricardo Álvarez,Argentina,Central Midfield,€14.00m,2014,Inter,"Apr 12, 1988",26,-,"Ricardo Álvarez_Apr 12, 1988_Argentina",Ricardo Alvarez,AR
+68,Roberto Pereyra,Argentina,Central Midfield,€7.00m,2014,Udinese Calcio,"Jan 7, 1991",23,8,"Roberto Pereyra_Jan 7, 1991_Argentina",Roberto Pereyra,AR
+69,Augusto Fernández,Argentina,Central Midfield,€4.00m,2014,Celta de Vigo,"Apr 10, 1986",28,-,"Augusto Fernández_Apr 10, 1986_Argentina",Augusto Fernandez,AR
+70,Federico Mancuello,Argentina,Central Midfield,€600k,2014,Independiente,"Mar 26, 1989",25,-,"Federico Mancuello_Mar 26, 1989_Argentina",Federico Mancuello,AR
+71,Javier Pastore,Argentina,Attacking Midfield,€27.00m,2014,Paris SG,"Jun 20, 1989",25,21,"Javier Pastore_Jun 20, 1989_Argentina",Javier Pastore,AR
+72,Nico Gaitán,Argentina,Attacking Midfield,€18.00m,2014,Benfica,"Feb 23, 1988",26,-,"Nico Gaitán_Feb 23, 1988_Argentina",Nico Gaitan,AR
+73,Ezequiel Lavezzi,Argentina,Left Winger,€26.00m,2014,Paris SG,"May 3, 1985",29,22,"Ezequiel Lavezzi_May 3, 1985_Argentina",Ezequiel Lavezzi,AR
+74,Maxi Rodríguez,Argentina,Left Winger,€1.80m,2014,Newell's,"Jan 2, 1981",33,-,"Maxi Rodríguez_Jan 2, 1981_Argentina",Maxi Rodriguez,AR
+75,Lionel Messi,Argentina,Right Winger,€120.00m,2014,Barcelona,"Jun 24, 1987",27,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+76,Ángel Di María,Argentina,Right Winger,€34.00m,2014,Real Madrid,"Feb 14, 1988",26,7,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+77,Erik Lamela,Argentina,Right Winger,€30.00m,2014,Tottenham,"Mar 4, 1992",22,20,"Erik Lamela_Mar 4, 1992_Argentina",Erik Lamela,AR
+78,Carlos Tevez,Argentina,Second Striker,€20.00m,2014,Juventus,"Feb 5, 1984",30,18,"Carlos Tevez_Feb 5, 1984_Argentina",Carlos Tevez,AR
+79,Sergio Agüero,Argentina,Centre-Forward,€40.00m,2014,Man City,"Jun 2, 1988",26,11,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+80,Gonzalo Higuaín,Argentina,Centre-Forward,€33.00m,2014,SSC Napoli,"Dec 10, 1987",26,9,"Gonzalo Higuaín_Dec 10, 1987_Argentina",Gonzalo Higuain,AR
+81,Sergio Romero,Argentina,Goalkeeper,€3.80m,2015,Sampdoria,"Feb 22, 1987",28,1,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+82,Mariano Andújar,Argentina,Goalkeeper,€3.00m,2015,SSC Napoli,"Jul 30, 1983",31,23,"Mariano Andújar_Jul 30, 1983_Argentina",Mariano Andujar,AR
+83,Agustín Marchesín,Argentina,Goalkeeper,€2.50m,2015,Santos Laguna,"Mar 16, 1988",27,-,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+84,Gerónimo Rulli,Argentina,Goalkeeper,€2.00m,2015,Real Sociedad,"May 20, 1992",23,-,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+85,Nahuel Guzmán,Argentina,Goalkeeper,€2.00m,2015,Tigres UANL,"Feb 10, 1986",29,12,"Nahuel Guzmán_Feb 10, 1986_Argentina",Nahuel Guzman,AR
+86,Ezequiel Garay,Argentina,Centre-Back,€20.00m,2015,Zenit S-Pb,"Oct 10, 1986",28,-,"Ezequiel Garay_Oct 10, 1986_Argentina",Ezequiel Garay,AR
+87,Marcos Rojo,Argentina,Centre-Back,€16.00m,2015,Man Utd,"Mar 20, 1990",25,16,"Marcos Rojo_Mar 20, 1990_Argentina",Marcos Rojo,AR
+88,Nicolás Otamendi,Argentina,Centre-Back,€12.00m,2015,Valencia,"Feb 12, 1988",27,17,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+89,Mateo Musacchio,Argentina,Centre-Back,€10.00m,2015,Villarreal,"Aug 26, 1990",24,-,"Mateo Musacchio_Aug 26, 1990_Argentina",Mateo Musacchio,AR
+90,Gonzalo Rodríguez,Argentina,Centre-Back,€9.00m,2015,Fiorentina,"Apr 10, 1984",31,-,"Gonzalo Rodríguez_Apr 10, 1984_Argentina",Gonzalo Rodriguez,AR
+91,Federico Fazio,Argentina,Centre-Back,€8.00m,2015,Tottenham,"Mar 17, 1987",28,-,"Federico Fazio_Mar 17, 1987_Argentina",Federico Fazio,AR
+92,Facundo Roncaglia,Argentina,Centre-Back,€4.00m,2015,Fiorentina,"Feb 10, 1987",28,3,"Facundo Roncaglia_Feb 10, 1987_Argentina",Facundo Roncaglia,AR
+93,Nicolás Pareja,Argentina,Centre-Back,€2.50m,2015,Sevilla FC,"Jan 19, 1984",31,-,"Nicolás Pareja_Jan 19, 1984_Argentina",Nicolas Pareja,AR
+94,Martín Demichelis,Argentina,Centre-Back,€2.00m,2015,Man City,"Dec 20, 1980",34,-,"Martín Demichelis_Dec 20, 1980_Argentina",Martin Demichelis,AR
+95,Guido Pizarro,Argentina,Centre-Back,€2.00m,2015,Tigres UANL,"Feb 26, 1990",25,-,"Guido Pizarro_Feb 26, 1990_Argentina",Guido Pizarro,AR
+96,Gabriel Mercado,Argentina,Centre-Back,€1.50m,2015,River Plate,"Mar 18, 1987",28,4,"Gabriel Mercado_Mar 18, 1987_Argentina",Gabriel Mercado,AR
+97,Ramiro Funes Mori,Argentina,Centre-Back,€1.50m,2015,River Plate,"Mar 5, 1991",24,13,"Ramiro Funes Mori_Mar 5, 1991_Argentina",Ramiro Funes Mori,AR
+98,Germán Pezzella,Argentina,Centre-Back,€1.30m,2015,Real Betis,"Jun 27, 1991",24,-,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+99,Jonatan Maidana,Argentina,Centre-Back,€1.20m,2015,River Plate,"Jul 29, 1985",29,2,"Jonatan Maidana_Jul 29, 1985_Argentina",Jonatan Maidana,AR
+100,Matías Caruzzo,Argentina,Centre-Back,€700k,2015,San Lorenzo,"Aug 15, 1984",30,-,"Matías Caruzzo_Aug 15, 1984_Argentina",Matias Caruzzo,AR
+101,Victor Cuesta,Argentina,Centre-Back,€150k,2015,Independiente,"Nov 19, 1988",26,15,"Victor Cuesta_Nov 19, 1988_Argentina",Victor Cuesta,AR
+102,Emanuel Mammana,Argentina,Centre-Back,-,2015,River Plate,"Feb 10, 1996",19,-,"Emanuel Mammana_Feb 10, 1996_Argentina",Emanuel Mammana,AR
+103,Emmanuel Más,Argentina,Left-Back,€2.00m,2015,San Lorenzo,"Jan 15, 1989",26,-,"Emmanuel Más_Jan 15, 1989_Argentina",Emmanuel Mas,AR
+104,Leonel Vangioni,Argentina,Left-Back,€1.50m,2015,River Plate,"May 5, 1987",28,-,"Leonel Vangioni_May 5, 1987_Argentina",Leonel Vangioni,AR
+105,Milton Casco,Argentina,Left-Back,€1.30m,2015,Newell's,"Apr 11, 1988",27,-,"Milton Casco_Apr 11, 1988_Argentina",Milton Casco,AR
+106,Javier Pinola,Argentina,Left-Back,€900k,2015,Rosario Central,"Feb 24, 1983",32,-,"Javier Pinola_Feb 24, 1983_Argentina",Javier Pinola,AR
+107,Marcos Acuña,Argentina,Left-Back,€50k,2015,Racing Club,"Oct 28, 1991",23,-,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+108,Pablo Zabaleta,Argentina,Right-Back,€19.00m,2015,Man City,"Jan 16, 1985",30,-,"Pablo Zabaleta_Jan 16, 1985_Argentina",Pablo Zabaleta,AR
+109,Gino Peruzzi,Argentina,Right-Back,€4.00m,2015,Boca Juniors,"Jun 9, 1992",23,-,"Gino Peruzzi_Jun 9, 1992_Argentina",Gino Peruzzi,AR
+110,Julio Buffarini,Argentina,Right-Back,€1.70m,2015,San Lorenzo,"Aug 18, 1988",26,-,"Julio Buffarini_Aug 18, 1988_Argentina",Julio Buffarini,AR
+111,Fabricio Bustos,Argentina,Right-Back,-,2015,No Transfer History,"Apr 28, 1996",19,-,"Fabricio Bustos_Apr 28, 1996_Argentina",Fabricio Bustos,AR
+112,Enzo Pérez,Argentina,Defensive Midfield,€23.00m,2015,Valencia,"Feb 22, 1986",29,-,"Enzo Pérez_Feb 22, 1986_Argentina",Enzo Perez,AR
+113,Javier Mascherano,Argentina,Defensive Midfield,€15.00m,2015,Barcelona,"Jun 8, 1984",31,-,"Javier Mascherano_Jun 8, 1984_Argentina",Javier Mascherano,AR
+114,Lucas Biglia,Argentina,Defensive Midfield,€8.00m,2015,Lazio,"Jan 30, 1986",29,6,"Lucas Biglia_Jan 30, 1986_Argentina",Lucas Biglia,AR
+115,Fernando Gago,Argentina,Defensive Midfield,€4.00m,2015,Boca Juniors,"Apr 10, 1986",29,-,"Fernando Gago_Apr 10, 1986_Argentina",Fernando Gago,AR
+116,Leandro Paredes,Argentina,Defensive Midfield,€4.00m,2015,AS Roma,"Jun 29, 1994",21,-,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+117,Iván Marcone,Argentina,Defensive Midfield,€1.70m,2015,Arsenal Sarandí,"Jun 3, 1990",25,-,"Iván Marcone_Jun 3, 1990_Argentina",Ivan Marcone,AR
+118,Matías Kranevitter,Argentina,Defensive Midfield,€1.00m,2015,River Plate,"May 21, 1993",22,5,"Matías Kranevitter_May 21, 1993_Argentina",Matias Kranevitter,AR
+119,Roberto Pereyra,Argentina,Central Midfield,€10.00m,2015,Juventus,"Jan 7, 1991",24,-,"Roberto Pereyra_Jan 7, 1991_Argentina",Roberto Pereyra,AR
+120,Éver Banega,Argentina,Central Midfield,€8.00m,2015,Sevilla FC,"Jun 29, 1988",27,19,"Éver Banega_Jun 29, 1988_Argentina",Ever Banega,AR
+121,Augusto Fernández,Argentina,Central Midfield,€5.00m,2015,Celta de Vigo,"Apr 10, 1986",29,8,"Augusto Fernández_Apr 10, 1986_Argentina",Augusto Fernandez,AR
+122,Fernando Belluschi,Argentina,Central Midfield,€4.50m,2015,Bursaspor,"Sep 10, 1983",31,-,"Fernando Belluschi_Sep 10, 1983_Argentina",Fernando Belluschi,AR
+123,Pablo Pérez,Argentina,Central Midfield,€1.50m,2015,Boca Juniors,"Aug 10, 1985",29,-,"Pablo Pérez_Aug 10, 1985_Argentina",Pablo Perez,AR
+124,Nico Gaitán,Argentina,Attacking Midfield,€25.00m,2015,Benfica,"Feb 23, 1988",27,20,"Nico Gaitán_Feb 23, 1988_Argentina",Nico Gaitan,AR
+125,Javier Pastore,Argentina,Attacking Midfield,€18.00m,2015,Paris SG,"Jun 20, 1989",26,21,"Javier Pastore_Jun 20, 1989_Argentina",Javier Pastore,AR
+126,Ezequiel Lavezzi,Argentina,Left Winger,€20.00m,2015,Paris SG,"May 3, 1985",30,22,"Ezequiel Lavezzi_May 3, 1985_Argentina",Ezequiel Lavezzi,AR
+127,Papu Gómez,Argentina,Left Winger,€6.50m,2015,Atalanta BC,"Feb 15, 1988",27,-,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+128,Lautaro Acosta,Argentina,Left Winger,€1.50m,2015,Lanús,"Mar 14, 1988",27,-,"Lautaro Acosta_Mar 14, 1988_Argentina",Lautaro Acosta,AR
+129,Lionel Messi,Argentina,Right Winger,€120.00m,2015,Barcelona,"Jun 24, 1987",28,-,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+130,Ángel Di María,Argentina,Right Winger,€65.00m,2015,Man Utd,"Feb 14, 1988",27,7,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+131,Erik Lamela,Argentina,Right Winger,€24.00m,2015,Tottenham,"Mar 4, 1992",23,18,"Erik Lamela_Mar 4, 1992_Argentina",Erik Lamela,AR
+132,Eduardo Salvio,Argentina,Right Winger,€17.00m,2015,Benfica,"Jul 13, 1990",24,-,"Eduardo Salvio_Jul 13, 1990_Argentina",Eduardo Salvio,AR
+133,Ángel Correa,Argentina,Right Winger,€5.00m,2015,Atlético Madrid,"Mar 9, 1995",20,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+134,Emiliano Rigoni,Argentina,Right Winger,€50k,2015,Belgrano,"Feb 4, 1993",22,-,"Emiliano Rigoni_Feb 4, 1993_Argentina",Emiliano Rigoni,AR
+135,Carlos Tevez,Argentina,Second Striker,€23.00m,2015,Juventus,"Feb 5, 1984",31,-,"Carlos Tevez_Feb 5, 1984_Argentina",Carlos Tevez,AR
+136,Paulo Dybala,Argentina,Second Striker,€6.50m,2015,Juventus,"Nov 15, 1993",21,-,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+137,Joaquín Correa,Argentina,Second Striker,€300k,2015,Sampdoria,"Aug 13, 1994",20,-,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+138,Sergio Agüero,Argentina,Centre-Forward,€45.00m,2015,Man City,"Jun 2, 1988",27,11,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+139,Gonzalo Higuaín,Argentina,Centre-Forward,€40.00m,2015,SSC Napoli,"Dec 10, 1987",27,9,"Gonzalo Higuaín_Dec 10, 1987_Argentina",Gonzalo Higuain,AR
+140,Mauro Icardi,Argentina,Centre-Forward,€21.00m,2015,Inter,"Feb 19, 1993",22,-,"Mauro Icardi_Feb 19, 1993_Argentina",Mauro Icardi,AR
+141,Lucas Pratto,Argentina,Centre-Forward,€4.00m,2015,Atlético-MG,"Jun 4, 1988",27,-,"Lucas Pratto_Jun 4, 1988_Argentina",Lucas Pratto,AR
+142,Darío Benedetto,Argentina,Centre-Forward,€1.80m,2015,América,"May 17, 1990",25,-,"Darío Benedetto_May 17, 1990_Argentina",Dario Benedetto,AR
+143,Lucas Alario,Argentina,Centre-Forward,€50k,2015,River Plate,"Oct 8, 1992",22,-,"Lucas Alario_Oct 8, 1992_Argentina",Lucas Alario,AR
+144,Sergio Romero,Argentina,Goalkeeper,€5.00m,2016,Man Utd,"Feb 22, 1987",29,1,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+145,Gerónimo Rulli,Argentina,Goalkeeper,€5.00m,2016,Maldonado,"May 20, 1992",24,23,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+146,Nahuel Guzmán,Argentina,Goalkeeper,€2.50m,2016,Tigres UANL,"Feb 10, 1986",30,12,"Nahuel Guzmán_Feb 10, 1986_Argentina",Nahuel Guzman,AR
+147,Nicolás Otamendi,Argentina,Centre-Back,€32.00m,2016,Man City,"Feb 12, 1988",28,-,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+148,Federico Fazio,Argentina,Centre-Back,€8.00m,2016,Tottenham,"Mar 17, 1987",29,-,"Federico Fazio_Mar 17, 1987_Argentina",Federico Fazio,AR
+149,Gabriel Mercado,Argentina,Centre-Back,€2.50m,2016,River Plate,"Mar 18, 1987",29,2,"Gabriel Mercado_Mar 18, 1987_Argentina",Gabriel Mercado,AR
+150,Jonatan Maidana,Argentina,Centre-Back,€2.50m,2016,River Plate,"Jul 29, 1985",30,4,"Jonatan Maidana_Jul 29, 1985_Argentina",Jonatan Maidana,AR
+151,Emanuel Mammana,Argentina,Centre-Back,€2.00m,2016,River Plate,"Feb 10, 1996",20,15,"Emanuel Mammana_Feb 10, 1996_Argentina",Emanuel Mammana,AR
+152,Nicolás Tagliafico,Argentina,Left-Back,€2.00m,2016,Independiente,"Aug 31, 1992",23,25,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+153,Marcos Acuña,Argentina,Left-Back,€1.75m,2016,Racing Club,"Oct 28, 1991",24,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+154,José Luis Gómez,Argentina,Right-Back,€2.00m,2016,Lanús,"Sep 13, 1993",22,16,"José Luis Gómez_Sep 13, 1993_Argentina",Jose Luis Gomez,AR
+155,Lucas Biglia,Argentina,Defensive Midfield,€18.00m,2016,Lazio,"Jan 30, 1986",30,6,"Lucas Biglia_Jan 30, 1986_Argentina",Lucas Biglia,AR
+156,Leandro Paredes,Argentina,Defensive Midfield,€3.50m,2016,AS Roma,"Jun 29, 1994",22,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+157,Guido Rodríguez,Argentina,Defensive Midfield,€750k,2016,Club Tijuana,"Apr 12, 1994",22,27,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+158,Éver Banega,Argentina,Central Midfield,€15.00m,2016,Sevilla FC,"Jun 29, 1988",28,19,"Éver Banega_Jun 29, 1988_Argentina",Ever Banega,AR
+159,Manuel Lanzini,Argentina,Attacking Midfield,€6.00m,2016,West Ham,"Feb 15, 1993",23,20,"Manuel Lanzini_Feb 15, 1993_Argentina",Manuel Lanzini,AR
+160,Nacho Fernández,Argentina,Attacking Midfield,€2.00m,2016,River Plate,"Jan 12, 1990",26,13,"Nacho Fernández_Jan 12, 1990_Argentina",Nacho Fernandez,AR
+161,Papu Gómez,Argentina,Left Winger,€5.50m,2016,Atalanta BC,"Feb 15, 1988",28,26,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+162,Lionel Messi,Argentina,Right Winger,€120.00m,2016,Barcelona,"Jun 24, 1987",29,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+163,Ángel Di María,Argentina,Right Winger,€50.00m,2016,Paris SG,"Feb 14, 1988",28,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+164,Eduardo Salvio,Argentina,Right Winger,€22.00m,2016,Benfica,"Jul 13, 1990",25,22,"Eduardo Salvio_Jul 13, 1990_Argentina",Eduardo Salvio,AR
+165,Paulo Dybala,Argentina,Second Striker,€28.00m,2016,Juventus,"Nov 15, 1993",22,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+166,Joaquín Correa,Argentina,Second Striker,€6.50m,2016,Sampdoria,"Aug 13, 1994",21,24,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+167,Gonzalo Higuaín,Argentina,Centre-Forward,€47.00m,2016,SSC Napoli,"Dec 10, 1987",28,-,"Gonzalo Higuaín_Dec 10, 1987_Argentina",Gonzalo Higuain,AR
+168,Mauro Icardi,Argentina,Centre-Forward,€32.00m,2016,Inter,"Feb 19, 1993",23,18,"Mauro Icardi_Feb 19, 1993_Argentina",Mauro Icardi,AR
+169,Lucas Alario,Argentina,Centre-Forward,€1.50m,2016,River Plate,"Oct 8, 1992",23,7,"Lucas Alario_Oct 8, 1992_Argentina",Lucas Alario,AR
+170,Sergio Romero,Argentina,Goalkeeper,€5.00m,2017,Man Utd,"Feb 22, 1987",30,-,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+171,Nahuel Guzmán,Argentina,Goalkeeper,€3.00m,2017,Tigres UANL,"Feb 10, 1986",31,1,"Nahuel Guzmán_Feb 10, 1986_Argentina",Nahuel Guzman,AR
+172,Agustín Marchesín,Argentina,Goalkeeper,€2.80m,2017,América,"Mar 16, 1988",29,-,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+173,Willy Caballero,Argentina,Goalkeeper,€2.00m,2017,Chelsea,"Sep 28, 1981",35,23,"Willy Caballero_Sep 28, 1981_Argentina",Willy Caballero,AR
+174,Franco Armani,Argentina,Goalkeeper,€1.00m,2017,Atl. Nacional,"Oct 16, 1986",30,12,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+175,Nicolás Otamendi,Argentina,Centre-Back,€32.00m,2017,Man City,"Feb 12, 1988",29,17,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+176,Marcos Rojo,Argentina,Centre-Back,€19.00m,2017,Man Utd,"Mar 20, 1990",27,16,"Marcos Rojo_Mar 20, 1990_Argentina",Marcos Rojo,AR
+177,Ramiro Funes Mori,Argentina,Centre-Back,€12.00m,2017,Everton,"Mar 5, 1991",26,-,"Ramiro Funes Mori_Mar 5, 1991_Argentina",Ramiro Funes Mori,AR
+178,Emanuel Mammana,Argentina,Centre-Back,€7.50m,2017,Olympique Lyon,"Feb 10, 1996",21,-,"Emanuel Mammana_Feb 10, 1996_Argentina",Emanuel Mammana,AR
+179,Gabriel Mercado,Argentina,Centre-Back,€6.00m,2017,Sevilla FC,"Mar 18, 1987",30,2,"Gabriel Mercado_Mar 18, 1987_Argentina",Gabriel Mercado,AR
+180,Federico Fazio,Argentina,Centre-Back,€5.00m,2017,AS Roma,"Mar 17, 1987",30,6,"Federico Fazio_Mar 17, 1987_Argentina",Federico Fazio,AR
+181,Emiliano Insúa,Argentina,Centre-Back,€3.50m,2017,VfB Stuttgart,"Jan 7, 1989",28,-,"Emiliano Insúa_Jan 7, 1989_Argentina",Emiliano Insua,AR
+182,Germán Pezzella,Argentina,Centre-Back,€3.00m,2017,Real Betis,"Jun 27, 1991",26,-,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+183,Cristian Ansaldi,Argentina,Left-Back,€6.00m,2017,Inter,"Sep 20, 1986",30,4,"Cristian Ansaldi_Sep 20, 1986_Argentina",Cristian Ansaldi,AR
+184,Nicolás Tagliafico,Argentina,Left-Back,€4.00m,2017,Independiente,"Aug 31, 1992",24,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+185,Marcos Acuña,Argentina,Left-Back,€2.30m,2017,Racing Club,"Oct 28, 1991",25,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+186,Fabricio Bustos,Argentina,Right-Back,-,2017,Independiente,"Apr 28, 1996",21,-,"Fabricio Bustos_Apr 28, 1996_Argentina",Fabricio Bustos,AR
+187,Lucas Biglia,Argentina,Defensive Midfield,€20.00m,2017,Lazio,"Jan 30, 1986",31,5,"Lucas Biglia_Jan 30, 1986_Argentina",Lucas Biglia,AR
+188,Javier Mascherano,Argentina,Defensive Midfield,€15.00m,2017,Barcelona,"Jun 8, 1984",33,14,"Javier Mascherano_Jun 8, 1984_Argentina",Javier Mascherano,AR
+189,Enzo Pérez,Argentina,Defensive Midfield,€12.00m,2017,River Plate,"Feb 22, 1986",31,15,"Enzo Pérez_Feb 22, 1986_Argentina",Enzo Perez,AR
+190,Leandro Paredes,Argentina,Defensive Midfield,€10.00m,2017,Zenit S-Pb,"Jun 29, 1994",23,-,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+191,Matías Kranevitter,Argentina,Defensive Midfield,€6.00m,2017,Atlético Madrid,"May 21, 1993",24,-,"Matías Kranevitter_May 21, 1993_Argentina",Matias Kranevitter,AR
+192,Éver Banega,Argentina,Central Midfield,€20.00m,2017,Inter,"Jun 29, 1988",29,7,"Éver Banega_Jun 29, 1988_Argentina",Ever Banega,AR
+193,Fernando Belluschi,Argentina,Central Midfield,€2.00m,2017,San Lorenzo,"Sep 10, 1983",33,-,"Fernando Belluschi_Sep 10, 1983_Argentina",Fernando Belluschi,AR
+194,Pablo Pérez,Argentina,Central Midfield,€1.00m,2017,Boca Juniors,"Aug 10, 1985",31,-,"Pablo Pérez_Aug 10, 1985_Argentina",Pablo Perez,AR
+195,Manuel Lanzini,Argentina,Attacking Midfield,€10.00m,2017,West Ham,"Feb 15, 1993",24,-,"Manuel Lanzini_Feb 15, 1993_Argentina",Manuel Lanzini,AR
+196,Giovani Lo Celso,Argentina,Attacking Midfield,€10.00m,2017,Paris SG,"Apr 9, 1996",21,20,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+197,Diego Perotti,Argentina,Left Winger,€15.00m,2017,AS Roma,"Jul 26, 1988",28,-,"Diego Perotti_Jul 26, 1988_Argentina",Diego Perotti,AR
+198,Papu Gómez,Argentina,Left Winger,€9.00m,2017,Atalanta BC,"Feb 15, 1988",29,-,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+199,Cristian Pavón,Argentina,Left Winger,€4.00m,2017,Boca Juniors,"Jan 21, 1996",21,22,"Cristian Pavón_Jan 21, 1996_Argentina",Cristian Pavon,AR
+200,Lionel Messi,Argentina,Right Winger,€120.00m,2017,Barcelona,"Jun 24, 1987",30,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+201,Ángel Di María,Argentina,Right Winger,€55.00m,2017,Paris SG,"Feb 14, 1988",29,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+202,Eduardo Salvio,Argentina,Right Winger,€15.00m,2017,Benfica,"Jul 13, 1990",26,18,"Eduardo Salvio_Jul 13, 1990_Argentina",Eduardo Salvio,AR
+203,Ángel Correa,Argentina,Right Winger,€12.00m,2017,Atlético Madrid,"Mar 9, 1995",22,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+204,Emiliano Rigoni,Argentina,Right Winger,€4.50m,2017,Independiente,"Feb 4, 1993",24,-,"Emiliano Rigoni_Feb 4, 1993_Argentina",Emiliano Rigoni,AR
+205,Maximiliano Meza,Argentina,Right Winger,€1.80m,2017,Independiente,"Dec 15, 1992",24,13,"Maximiliano Meza_Dec 15, 1992_Argentina",Maximiliano Meza,AR
+206,Paulo Dybala,Argentina,Second Striker,€45.00m,2017,Juventus,"Nov 15, 1993",23,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+207,Gonzalo Higuaín,Argentina,Centre-Forward,€75.00m,2017,Juventus,"Dec 10, 1987",29,9,"Gonzalo Higuaín_Dec 10, 1987_Argentina",Gonzalo Higuain,AR
+208,Sergio Agüero,Argentina,Centre-Forward,€60.00m,2017,Man City,"Jun 2, 1988",29,19,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+209,Darío Benedetto,Argentina,Centre-Forward,€4.00m,2017,Boca Juniors,"May 17, 1990",27,-,"Darío Benedetto_May 17, 1990_Argentina",Dario Benedetto,AR
+210,Lautaro Martínez,Argentina,Centre-Forward,€500k,2017,Racing Club,"Aug 22, 1997",19,-,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+211,Gerónimo Rulli,Argentina,Goalkeeper,€14.00m,2018,Real Sociedad,"May 20, 1992",26,-,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+212,Sergio Romero,Argentina,Goalkeeper,€6.00m,2018,Man Utd,"Feb 22, 1987",31,-,"Sergio Romero_Feb 22, 1987_Argentina",Sergio Romero,AR
+213,Agustín Marchesín,Argentina,Goalkeeper,€3.50m,2018,América,"Mar 16, 1988",30,12,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+214,Franco Armani,Argentina,Goalkeeper,€1.60m,2018,River Plate,"Oct 16, 1986",31,1,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+215,Paulo Gazzaniga,Argentina,Goalkeeper,€1.00m,2018,Tottenham,"Jan 2, 1992",26,-,"Paulo Gazzaniga_Jan 2, 1992_Argentina",Paulo Gazzaniga,AR
+216,Esteban Andrada,Argentina,Goalkeeper,€750k,2018,Lanús,"Jan 26, 1991",27,-,"Esteban Andrada_Jan 26, 1991_Argentina",Esteban Andrada,AR
+217,Guido Herrera,Argentina,Goalkeeper,€650k,2018,CA Talleres,"Feb 29, 1992",26,-,"Guido Herrera_Feb 29, 1992_Argentina",Guido Herrera,AR
+218,Juan Musso,Argentina,Goalkeeper,€400k,2018,Racing Club,"May 6, 1994",24,23,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+219,Nicolás Otamendi,Argentina,Centre-Back,€30.00m,2018,Man City,"Feb 12, 1988",30,17,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+220,Ramiro Funes Mori,Argentina,Centre-Back,€12.00m,2018,Villarreal,"Mar 5, 1991",27,13,"Ramiro Funes Mori_Mar 5, 1991_Argentina",Ramiro Funes Mori,AR
+221,Emanuel Mammana,Argentina,Centre-Back,€10.00m,2018,Zenit S-Pb,"Feb 10, 1996",22,-,"Emanuel Mammana_Feb 10, 1996_Argentina",Emanuel Mammana,AR
+222,Germán Pezzella,Argentina,Centre-Back,€9.00m,2018,Fiorentina,"Jun 27, 1991",27,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+223,Guido Pizarro,Argentina,Centre-Back,€6.00m,2018,Tigres UANL,"Feb 26, 1990",28,15,"Guido Pizarro_Feb 26, 1990_Argentina",Guido Pizarro,AR
+224,Gabriel Mercado,Argentina,Centre-Back,€5.00m,2018,Sevilla FC,"Mar 18, 1987",31,-,"Gabriel Mercado_Mar 18, 1987_Argentina",Gabriel Mercado,AR
+225,Walter Kannemann,Argentina,Centre-Back,€2.25m,2018,Grêmio,"Mar 14, 1991",27,-,"Walter Kannemann_Mar 14, 1991_Argentina",Walter Kannemann,AR
+226,Alan Franco,Argentina,Centre-Back,€1.50m,2018,Independiente,"Oct 11, 1996",21,-,"Alan Franco_Oct 11, 1996_Argentina",Alan Franco,AR
+227,Lisandro Martínez,Argentina,Centre-Back,€200k,2018,Defensa,"Jan 18, 1998",20,-,"Lisandro Martínez_Jan 18, 1998_Argentina",Lisandro Martinez,AR
+228,Marcos Acuña,Argentina,Left-Back,€12.00m,2018,Sporting CP,"Oct 28, 1991",26,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+229,Nicolás Tagliafico,Argentina,Left-Back,€6.00m,2018,Ajax,"Aug 31, 1992",25,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+230,Milton Casco,Argentina,Left-Back,€3.50m,2018,River Plate,"Apr 11, 1988",30,14,"Milton Casco_Apr 11, 1988_Argentina",Milton Casco,AR
+231,Juan Foyth,Argentina,Right-Back,€5.00m,2018,Tottenham,"Jan 12, 1998",20,2,"Juan Foyth_Jan 12, 1998_Argentina",Juan Foyth,AR
+232,Fabricio Bustos,Argentina,Right-Back,€4.00m,2018,Independiente,"Apr 28, 1996",22,-,"Fabricio Bustos_Apr 28, 1996_Argentina",Fabricio Bustos,AR
+233,Leonel Di Placido,Argentina,Right-Back,€1.50m,2018,Lanús,"Jan 28, 1994",24,-,"Leonel Di Placido_Jan 28, 1994_Argentina",Leonel Di Placido,AR
+234,Gonzalo Montiel,Argentina,Right-Back,€1.50m,2018,River Plate,"Jan 1, 1997",21,-,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+235,Renzo Saravia,Argentina,Right-Back,€1.25m,2018,Belgrano,"Jun 16, 1993",25,4,"Renzo Saravia_Jun 16, 1993_Argentina",Renzo Saravia,AR
+236,Leandro Paredes,Argentina,Defensive Midfield,€18.00m,2018,Zenit S-Pb,"Jun 29, 1994",24,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+237,Santiago Ascacíbar,Argentina,Defensive Midfield,€10.00m,2018,VfB Stuttgart,"Feb 25, 1997",21,-,"Santiago Ascacíbar_Feb 25, 1997_Argentina",Santiago Ascacibar,AR
+238,Rodrigo Battaglia,Argentina,Defensive Midfield,€5.00m,2018,Sporting CP,"Jul 12, 1991",26,-,"Rodrigo Battaglia_Jul 12, 1991_Argentina",Rodrigo Battaglia,AR
+239,Guido Rodríguez,Argentina,Defensive Midfield,€4.50m,2018,América,"Apr 12, 1994",24,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+240,Iván Marcone,Argentina,Defensive Midfield,€3.00m,2018,CD Cruz Azul,"Jun 3, 1990",28,-,"Iván Marcone_Jun 3, 1990_Argentina",Ivan Marcone,AR
+241,Gastón Giménez,Argentina,Defensive Midfield,€2.75m,2018,Estudiantes LP,"Jul 27, 1991",26,-,"Gastón Giménez_Jul 27, 1991_Argentina",Gaston Gimenez,AR
+242,Roberto Pereyra,Argentina,Central Midfield,€15.00m,2018,Watford,"Jan 7, 1991",27,7,"Roberto Pereyra_Jan 7, 1991_Argentina",Roberto Pereyra,AR
+243,Rodrigo de Paul,Argentina,Central Midfield,€6.00m,2018,Udinese Calcio,"May 24, 1994",24,16,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+244,Exequiel Palacios,Argentina,Central Midfield,€1.50m,2018,River Plate,"Oct 5, 1998",19,-,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+245,Domingo Blanco,Argentina,Central Midfield,€350k,2018,Independiente,"Apr 22, 1995",23,-,"Domingo Blanco_Apr 22, 1995_Argentina",Domingo Blanco,AR
+246,Franco Vázquez,Argentina,Attacking Midfield,€18.00m,2018,Sevilla FC,"Feb 22, 1989",29,-,"Franco Vázquez_Feb 22, 1989_Argentina",Franco Vazquez,AR
+247,Manuel Lanzini,Argentina,Attacking Midfield,€15.00m,2018,West Ham,"Feb 15, 1993",25,-,"Manuel Lanzini_Feb 15, 1993_Argentina",Manuel Lanzini,AR
+248,Pity Martínez,Argentina,Attacking Midfield,€9.00m,2018,River Plate,"Jun 13, 1993",25,-,"Pity Martínez_Jun 13, 1993_Argentina",Pity Martinez,AR
+249,Giovani Lo Celso,Argentina,Attacking Midfield,€8.00m,2018,Paris SG,"Apr 9, 1996",22,20,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+250,Matías Zaracho,Argentina,Attacking Midfield,€1.75m,2018,Racing Club,"Mar 10, 1998",20,-,"Matías Zaracho_Mar 10, 1998_Argentina",Matias Zaracho,AR
+251,Cristian Pavón,Argentina,Left Winger,€13.00m,2018,Boca Juniors,"Jan 21, 1996",22,-,"Cristian Pavón_Jan 21, 1996_Argentina",Cristian Pavon,AR
+252,Franco Cervi,Argentina,Left Winger,€8.00m,2018,Benfica,"May 26, 1994",24,-,"Franco Cervi_May 26, 1994_Argentina",Franco Cervi,AR
+253,Matías Vargas,Argentina,Left Winger,€2.50m,2018,Vélez Sarsfield,"May 8, 1997",21,-,"Matías Vargas_May 8, 1997_Argentina",Matias Vargas,AR
+254,Lionel Messi,Argentina,Right Winger,€120.00m,2018,Barcelona,"Jun 24, 1987",31,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+255,Ángel Di María,Argentina,Right Winger,€40.00m,2018,Paris SG,"Feb 14, 1988",30,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+256,Erik Lamela,Argentina,Right Winger,€25.00m,2018,Tottenham,"Mar 4, 1992",26,-,"Erik Lamela_Mar 4, 1992_Argentina",Erik Lamela,AR
+257,Eduardo Salvio,Argentina,Right Winger,€18.00m,2018,Benfica,"Jul 13, 1990",27,-,"Eduardo Salvio_Jul 13, 1990_Argentina",Eduardo Salvio,AR
+258,Ángel Correa,Argentina,Right Winger,€18.00m,2018,Atlético Madrid,"Mar 9, 1995",23,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+259,Maximiliano Meza,Argentina,Right Winger,€3.50m,2018,Independiente,"Dec 15, 1992",25,-,"Maximiliano Meza_Dec 15, 1992_Argentina",Maximiliano Meza,AR
+260,Paulo Dybala,Argentina,Second Striker,€85.00m,2018,Juventus,"Nov 15, 1993",24,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+261,Mauro Icardi,Argentina,Centre-Forward,€75.00m,2018,Inter,"Feb 19, 1993",25,-,"Mauro Icardi_Feb 19, 1993_Argentina",Mauro Icardi,AR
+262,Sergio Agüero,Argentina,Centre-Forward,€65.00m,2018,Man City,"Jun 2, 1988",30,9,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+263,Giovanni Simeone,Argentina,Centre-Forward,€15.00m,2018,Fiorentina,"Jul 5, 1995",22,-,"Giovanni Simeone_Jul 5, 1995_Argentina",Giovanni Simeone,AR
+264,Darío Benedetto,Argentina,Centre-Forward,€12.00m,2018,Boca Juniors,"May 17, 1990",28,-,"Darío Benedetto_May 17, 1990_Argentina",Dario Benedetto,AR
+265,Lautaro Martínez,Argentina,Centre-Forward,€10.00m,2018,Racing Club,"Aug 22, 1997",20,22,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+266,Matías Suárez,Argentina,Centre-Forward,€1.25m,2018,Belgrano,"May 9, 1988",30,19,"Matías Suárez_May 9, 1988_Argentina",Matias Suarez,AR
+267,Franco Armani,Argentina,Goalkeeper,€7.50m,2019,River Plate,"Oct 16, 1986",32,-,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+268,Esteban Andrada,Argentina,Goalkeeper,€5.00m,2019,Boca Juniors,"Jan 26, 1991",28,-,"Esteban Andrada_Jan 26, 1991_Argentina",Esteban Andrada,AR
+269,Juan Musso,Argentina,Goalkeeper,€4.00m,2019,Udinese Calcio,"May 6, 1994",25,12,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+270,Agustín Marchesín,Argentina,Goalkeeper,€3.50m,2019,América,"Mar 16, 1988",31,-,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+271,Emiliano Martínez,Argentina,Goalkeeper,€1.00m,2019,Arsenal,"Sep 2, 1992",26,-,"Emiliano Martínez_Sep 2, 1992_Argentina",Emiliano Martinez,AR
+272,Nicolás Otamendi,Argentina,Centre-Back,€35.00m,2019,Man City,"Feb 12, 1988",31,19,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+273,Germán Pezzella,Argentina,Centre-Back,€20.00m,2019,Fiorentina,"Jun 27, 1991",28,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+274,Marcos Rojo,Argentina,Centre-Back,€15.00m,2019,Man Utd,"Mar 20, 1990",29,-,"Marcos Rojo_Mar 20, 1990_Argentina",Marcos Rojo,AR
+275,Nicolás Figal,Argentina,Centre-Back,€5.00m,2019,Independiente,"Apr 3, 1994",25,-,"Nicolás Figal_Apr 3, 1994_Argentina",Nicolas Figal,AR
+276,Lucas Martínez Quarta,Argentina,Centre-Back,€5.00m,2019,River Plate,"May 10, 1996",23,-,"Lucas Martínez Quarta_May 10, 1996_Argentina",Lucas Martinez Quarta,AR
+277,Walter Kannemann,Argentina,Centre-Back,€2.50m,2019,Grêmio,"Mar 14, 1991",28,-,"Walter Kannemann_Mar 14, 1991_Argentina",Walter Kannemann,AR
+278,Leonardo Balerdi,Argentina,Centre-Back,€2.50m,2019,Bor. Dortmund,"Jan 26, 1999",20,-,"Leonardo Balerdi_Jan 26, 1999_Argentina",Leonardo Balerdi,AR
+279,Nehuén Pérez,Argentina,Centre-Back,€500k,2019,Atlético Madrid,"Jun 24, 2000",19,25,"Nehuén Pérez_Jun 24, 2000_Argentina",Nehuen Perez,AR
+280,Nicolás Tagliafico,Argentina,Left-Back,€20.00m,2019,Ajax,"Aug 31, 1992",26,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+281,Marcos Acuña,Argentina,Left-Back,€15.00m,2019,Sporting CP,"Oct 28, 1991",27,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+282,Juan Foyth,Argentina,Right-Back,€8.00m,2019,Tottenham,"Jan 12, 1998",21,-,"Juan Foyth_Jan 12, 1998_Argentina",Juan Foyth,AR
+283,Gonzalo Montiel,Argentina,Right-Back,€7.50m,2019,River Plate,"Jan 1, 1997",22,-,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+284,Renzo Saravia,Argentina,Right-Back,€5.00m,2019,FC Porto,"Jun 16, 1993",26,4,"Renzo Saravia_Jun 16, 1993_Argentina",Renzo Saravia,AR
+285,Leandro Paredes,Argentina,Defensive Midfield,€25.00m,2019,Paris SG,"Jun 29, 1994",25,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+286,Guido Rodríguez,Argentina,Defensive Midfield,€7.50m,2019,América,"Apr 12, 1994",25,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+287,Exequiel Palacios,Argentina,Central Midfield,€20.00m,2019,River Plate,"Oct 5, 1998",20,-,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+288,Rodrigo de Paul,Argentina,Central Midfield,€18.00m,2019,Udinese Calcio,"May 24, 1994",25,15,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+289,Roberto Pereyra,Argentina,Central Midfield,€12.00m,2019,Watford,"Jan 7, 1991",28,7,"Roberto Pereyra_Jan 7, 1991_Argentina",Roberto Pereyra,AR
+290,Nicolás Domínguez,Argentina,Central Midfield,€7.50m,2019,Vélez Sarsfield,"Jun 28, 1998",21,17,"Nicolás Domínguez_Jun 28, 1998_Argentina",Nicolas Dominguez,AR
+291,Alexis Mac Allister,Argentina,Central Midfield,€5.00m,2019,Boca Juniors,"Dec 24, 1998",20,7,"Alexis Mac Allister_Dec 24, 1998_Argentina",Alexis Mac Allister,AR
+292,Giovani Lo Celso,Argentina,Attacking Midfield,€30.00m,2019,Real Betis,"Apr 9, 1996",23,20,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+293,Manuel Lanzini,Argentina,Attacking Midfield,€20.00m,2019,West Ham,"Feb 15, 1993",26,-,"Manuel Lanzini_Feb 15, 1993_Argentina",Manuel Lanzini,AR
+294,Matías Zaracho,Argentina,Attacking Midfield,€5.00m,2019,Racing Club,"Mar 10, 1998",21,-,"Matías Zaracho_Mar 10, 1998_Argentina",Matias Zaracho,AR
+295,Lucas Ocampos,Argentina,Left Winger,€14.00m,2019,Marseille,"Jul 11, 1994",24,11,"Lucas Ocampos_Jul 11, 1994_Argentina",Lucas Ocampos,AR
+296,Matías Vargas,Argentina,Left Winger,€11.00m,2019,Vélez Sarsfield,"May 8, 1997",22,-,"Matías Vargas_May 8, 1997_Argentina",Matias Vargas,AR
+297,Lionel Messi,Argentina,Right Winger,€160.00m,2019,Barcelona,"Jun 24, 1987",32,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+298,Ángel Correa,Argentina,Right Winger,€35.00m,2019,Atlético Madrid,"Mar 9, 1995",24,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+299,Erik Lamela,Argentina,Right Winger,€20.00m,2019,Tottenham,"Mar 4, 1992",27,-,"Erik Lamela_Mar 4, 1992_Argentina",Erik Lamela,AR
+300,Nicolás González,Argentina,Right Winger,€8.00m,2019,VfB Stuttgart,"Apr 6, 1998",21,24,"Nicolás González_Apr 6, 1998_Argentina",Nicolas Gonzalez,AR
+301,Paulo Dybala,Argentina,Second Striker,€110.00m,2019,Juventus,"Nov 15, 1993",25,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+302,Joaquín Correa,Argentina,Second Striker,€13.00m,2019,Lazio,"Aug 13, 1994",24,-,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+303,Sergio Agüero,Argentina,Centre-Forward,€75.00m,2019,Man City,"Jun 2, 1988",31,9,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+304,Lautaro Martínez,Argentina,Centre-Forward,€25.00m,2019,Inter,"Aug 22, 1997",21,22,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+305,Lucas Alario,Argentina,Centre-Forward,€17.00m,2019,B. Leverkusen,"Oct 8, 1992",26,13,"Lucas Alario_Oct 8, 1992_Argentina",Lucas Alario,AR
+306,Adolfo Gaich,Argentina,Centre-Forward,€750k,2019,San Lorenzo,"Feb 26, 1999",20,-,"Adolfo Gaich_Feb 26, 1999_Argentina",Adolfo Gaich,AR
+307,Juan Musso,Argentina,Goalkeeper,€15.00m,2020,Udinese Calcio,"May 6, 1994",26,28,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+308,Esteban Andrada,Argentina,Goalkeeper,€10.00m,2020,Boca Juniors,"Jan 26, 1991",29,-,"Esteban Andrada_Jan 26, 1991_Argentina",Esteban Andrada,AR
+309,Gerónimo Rulli,Argentina,Goalkeeper,€10.00m,2020,Real Sociedad,"May 20, 1992",28,-,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+310,Agustín Marchesín,Argentina,Goalkeeper,€8.50m,2020,FC Porto,"Mar 16, 1988",32,12,"Agustín Marchesín_Mar 16, 1988_Argentina",Agustin Marchesin,AR
+311,Franco Armani,Argentina,Goalkeeper,€7.50m,2020,River Plate,"Oct 16, 1986",33,1,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+312,Emiliano Martínez,Argentina,Goalkeeper,€3.50m,2020,Arsenal,"Sep 2, 1992",27,23,"Emiliano Martínez_Sep 2, 1992_Argentina",Emiliano Martinez,AR
+313,Agustín Rossi,Argentina,Goalkeeper,€2.00m,2020,Boca Juniors,"Aug 21, 1995",24,-,"Agustín Rossi_Aug 21, 1995_Argentina",Agustin Rossi,AR
+314,Lisandro Martínez,Argentina,Centre-Back,€20.00m,2020,Ajax,"Jan 18, 1998",22,25,"Lisandro Martínez_Jan 18, 1998_Argentina",Lisandro Martinez,AR
+315,Germán Pezzella,Argentina,Centre-Back,€18.00m,2020,Fiorentina,"Jun 27, 1991",29,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+316,Nicolás Otamendi,Argentina,Centre-Back,€18.00m,2020,Man City,"Feb 12, 1988",32,19,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+317,Cristian Romero,Argentina,Centre-Back,€15.00m,2020,Genoa,"Apr 27, 1998",22,13,"Cristian Romero_Apr 27, 1998_Argentina",Cristian Romero,AR
+318,Lucas Martínez Quarta,Argentina,Centre-Back,€12.50m,2020,River Plate,"May 10, 1996",24,2,"Lucas Martínez Quarta_May 10, 1996_Argentina",Lucas Martinez Quarta,AR
+319,Nehuén Pérez,Argentina,Centre-Back,€7.50m,2020,Famalicão,"Jun 24, 2000",20,-,"Nehuén Pérez_Jun 24, 2000_Argentina",Nehuen Perez,AR
+320,Marcos Senesi,Argentina,Centre-Back,€7.00m,2020,Feyenoord,"May 10, 1997",23,-,"Marcos Senesi_May 10, 1997_Argentina",Marcos Senesi,AR
+321,Walter Kannemann,Argentina,Centre-Back,€6.00m,2020,Grêmio,"Mar 14, 1991",29,-,"Walter Kannemann_Mar 14, 1991_Argentina",Walter Kannemann,AR
+322,Facundo Medina,Argentina,Centre-Back,€5.00m,2020,CA Talleres,"May 28, 1999",21,-,"Facundo Medina_May 28, 1999_Argentina",Facundo Medina,AR
+323,Nicolás Tagliafico,Argentina,Left-Back,€35.00m,2020,Ajax,"Aug 31, 1992",27,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+324,Marcos Acuña,Argentina,Left-Back,€15.00m,2020,Sporting CP,"Oct 28, 1991",28,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+325,Juan Foyth,Argentina,Right-Back,€15.00m,2020,Tottenham,"Jan 12, 1998",22,-,"Juan Foyth_Jan 12, 1998_Argentina",Juan Foyth,AR
+326,Gonzalo Montiel,Argentina,Right-Back,€10.00m,2020,River Plate,"Jan 1, 1997",23,4,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+327,Nahuel Molina,Argentina,Right-Back,€2.50m,2020,Boca Juniors II,"Apr 6, 1998",22,26,"Nahuel Molina_Apr 6, 1998_Argentina",Nahuel Molina,AR
+328,Leandro Paredes,Argentina,Defensive Midfield,€25.00m,2020,Paris SG,"Jun 29, 1994",26,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+329,Guido Rodríguez,Argentina,Defensive Midfield,€10.00m,2020,Real Betis,"Apr 12, 1994",26,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+330,Rodrigo de Paul,Argentina,Central Midfield,€25.00m,2020,Udinese Calcio,"May 24, 1994",26,7,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+331,Exequiel Palacios,Argentina,Central Midfield,€25.00m,2020,B. Leverkusen,"Oct 5, 1998",21,14,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+332,Nicolás Domínguez,Argentina,Central Midfield,€17.50m,2020,Bologna,"Jun 28, 1998",22,17,"Nicolás Domínguez_Jun 28, 1998_Argentina",Nicolas Dominguez,AR
+333,Alexis Mac Allister,Argentina,Central Midfield,€12.50m,2020,Brighton,"Dec 24, 1998",21,-,"Alexis Mac Allister_Dec 24, 1998_Argentina",Alexis Mac Allister,AR
+334,Giovani Lo Celso,Argentina,Attacking Midfield,€50.00m,2020,Tottenham,"Apr 9, 1996",24,20,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+335,Manuel Lanzini,Argentina,Attacking Midfield,€20.00m,2020,West Ham,"Feb 15, 1993",27,-,"Manuel Lanzini_Feb 15, 1993_Argentina",Manuel Lanzini,AR
+336,Lucas Ocampos,Argentina,Left Winger,€25.00m,2020,Sevilla FC,"Jul 11, 1994",25,-,"Lucas Ocampos_Jul 11, 1994_Argentina",Lucas Ocampos,AR
+337,Papu Gómez,Argentina,Left Winger,€16.00m,2020,Atalanta BC,"Feb 15, 1988",32,24,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+338,Lionel Messi,Argentina,Right Winger,€140.00m,2020,Barcelona,"Jun 24, 1987",33,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+339,Ángel Di María,Argentina,Right Winger,€40.00m,2020,Paris SG,"Feb 14, 1988",32,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+340,Ángel Correa,Argentina,Right Winger,€35.00m,2020,Atlético Madrid,"Mar 9, 1995",25,21,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+341,Emiliano Buendía,Argentina,Right Winger,€18.00m,2020,Norwich,"Dec 25, 1996",23,-,"Emiliano Buendía_Dec 25, 1996_Argentina",Emiliano Buendia,AR
+342,Maximiliano Meza,Argentina,Right Winger,€10.00m,2020,Monterrey,"Dec 15, 1992",27,-,"Maximiliano Meza_Dec 15, 1992_Argentina",Maximiliano Meza,AR
+343,Eduardo Salvio,Argentina,Right Winger,€8.00m,2020,Boca Juniors,"Jul 13, 1990",29,-,"Eduardo Salvio_Jul 13, 1990_Argentina",Eduardo Salvio,AR
+344,Nicolás González,Argentina,Right Winger,€8.00m,2020,VfB Stuttgart,"Apr 6, 1998",22,15,"Nicolás González_Apr 6, 1998_Argentina",Nicolas Gonzalez,AR
+345,Paulo Dybala,Argentina,Second Striker,€85.00m,2020,Juventus,"Nov 15, 1993",26,-,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+346,Joaquín Correa,Argentina,Second Striker,€38.00m,2020,Lazio,"Aug 13, 1994",25,16,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+347,Julián Álvarez,Argentina,Second Striker,€10.00m,2020,River Plate,"Jan 31, 2000",20,27,"Julián Álvarez_Jan 31, 2000_Argentina",Julian Alvarez,AR
+348,Lautaro Martínez,Argentina,Centre-Forward,€80.00m,2020,Inter,"Aug 22, 1997",22,22,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+349,Sergio Agüero,Argentina,Centre-Forward,€65.00m,2020,Man City,"Jun 2, 1988",32,9,"Sergio Agüero_Jun 2, 1988_Argentina",Sergio Aguero,AR
+350,Lucas Alario,Argentina,Centre-Forward,€17.00m,2020,B. Leverkusen,"Oct 8, 1992",27,-,"Lucas Alario_Oct 8, 1992_Argentina",Lucas Alario,AR
+351,Giovanni Simeone,Argentina,Centre-Forward,€17.00m,2020,Cagliari Calcio,"Jul 5, 1995",24,-,"Giovanni Simeone_Jul 5, 1995_Argentina",Giovanni Simeone,AR
+352,Lucas Boyé,Argentina,Centre-Forward,€1.50m,2020,Torino,"Feb 28, 1996",24,-,"Lucas Boyé_Feb 28, 1996_Argentina",Lucas Boye,AR
+353,Juan Musso,Argentina,Goalkeeper,€20.00m,2021,Udinese Calcio,"May 6, 1994",27,-,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+354,Emiliano Martínez,Argentina,Goalkeeper,€18.00m,2021,Aston Villa,"Sep 2, 1992",28,23,"Emiliano Martínez_Sep 2, 1992_Argentina",Emiliano Martinez,AR
+355,Franco Armani,Argentina,Goalkeeper,€6.00m,2021,River Plate,"Oct 16, 1986",34,1,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+356,Gerónimo Rulli,Argentina,Goalkeeper,€5.00m,2021,Villarreal,"May 20, 1992",29,12,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+357,Lisandro Martínez,Argentina,Centre-Back,€20.00m,2021,Ajax,"Jan 18, 1998",23,16,"Lisandro Martínez_Jan 18, 1998_Argentina",Lisandro Martinez,AR
+358,Cristian Romero,Argentina,Centre-Back,€15.00m,2021,Atalanta BC,"Apr 27, 1998",23,13,"Cristian Romero_Apr 27, 1998_Argentina",Cristian Romero,AR
+359,Marcos Senesi,Argentina,Centre-Back,€15.00m,2021,Feyenoord,"May 10, 1997",24,25,"Marcos Senesi_May 10, 1997_Argentina",Marcos Senesi,AR
+360,Germán Pezzella,Argentina,Centre-Back,€13.00m,2021,Fiorentina,"Jun 27, 1991",30,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+361,Nicolás Otamendi,Argentina,Centre-Back,€11.00m,2021,Benfica,"Feb 12, 1988",33,19,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+362,Lucas Martínez Quarta,Argentina,Centre-Back,€10.00m,2021,Fiorentina,"May 10, 1996",25,-,"Lucas Martínez Quarta_May 10, 1996_Argentina",Lucas Martinez Quarta,AR
+363,Nicolás Tagliafico,Argentina,Left-Back,€28.00m,2021,Ajax,"Aug 31, 1992",28,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+364,Marcos Acuña,Argentina,Left-Back,€12.00m,2021,Sevilla FC,"Oct 28, 1991",29,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+365,Juan Foyth,Argentina,Right-Back,€13.00m,2021,Villarreal,"Jan 12, 1998",23,2,"Juan Foyth_Jan 12, 1998_Argentina",Juan Foyth,AR
+366,Gonzalo Montiel,Argentina,Right-Back,€8.00m,2021,River Plate,"Jan 1, 1997",24,4,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+367,Nahuel Molina,Argentina,Right-Back,€4.00m,2021,Udinese Calcio,"Apr 6, 1998",23,26,"Nahuel Molina_Apr 6, 1998_Argentina",Nahuel Molina,AR
+368,Leandro Paredes,Argentina,Defensive Midfield,€20.00m,2021,Paris SG,"Jun 29, 1994",27,-,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+369,Guido Rodríguez,Argentina,Defensive Midfield,€12.00m,2021,Real Betis,"Apr 12, 1994",27,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+370,Rodrigo de Paul,Argentina,Central Midfield,€35.00m,2021,Udinese Calcio,"May 24, 1994",27,7,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+371,Exequiel Palacios,Argentina,Central Midfield,€18.00m,2021,B. Leverkusen,"Oct 5, 1998",22,14,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+372,Alexis Mac Allister,Argentina,Central Midfield,€11.00m,2021,Brighton,"Dec 24, 1998",22,5,"Alexis Mac Allister_Dec 24, 1998_Argentina",Alexis Mac Allister,AR
+373,Enzo Fernández,Argentina,Central Midfield,-,2021,River Plate,"Jan 17, 2001",20,-,"Enzo Fernández_Jan 17, 2001_Argentina",Enzo Fernandez,AR
+374,Giovani Lo Celso,Argentina,Attacking Midfield,€35.00m,2021,Tottenham,"Apr 9, 1996",25,20,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+375,Thiago Almada,Argentina,Attacking Midfield,€18.00m,2021,Vélez Sarsfield,"Apr 26, 2001",20,-,"Thiago Almada_Apr 26, 2001_Argentina",Thiago Almada,AR
+376,Papu Gómez,Argentina,Left Winger,€15.00m,2021,Sevilla FC,"Feb 15, 1988",33,17,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+377,Lionel Messi,Argentina,Right Winger,€100.00m,2021,Barcelona,"Jun 24, 1987",34,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+378,Ángel Correa,Argentina,Right Winger,€40.00m,2021,Atlético Madrid,"Mar 9, 1995",26,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+379,Ángel Di María,Argentina,Right Winger,€32.00m,2021,Paris SG,"Feb 14, 1988",33,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+380,Nicolás González,Argentina,Right Winger,€16.00m,2021,Fiorentina,"Apr 6, 1998",23,15,"Nicolás González_Apr 6, 1998_Argentina",Nicolas Gonzalez,AR
+381,Paulo Dybala,Argentina,Second Striker,€70.00m,2021,Juventus,"Nov 15, 1993",27,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+382,Joaquín Correa,Argentina,Second Striker,€30.00m,2021,Lazio,"Aug 13, 1994",26,19,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+383,Julián Álvarez,Argentina,Second Striker,€9.00m,2021,River Plate,"Jan 31, 2000",21,9,"Julián Álvarez_Jan 31, 2000_Argentina",Julian Alvarez,AR
+384,Lautaro Martínez,Argentina,Centre-Forward,€70.00m,2021,Inter,"Aug 22, 1997",23,22,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+385,Emiliano Martínez,Argentina,Goalkeeper,€28.00m,2022,Aston Villa,"Sep 2, 1992",29,23,"Emiliano Martínez_Sep 2, 1992_Argentina",Emiliano Martinez,AR
+386,Walter Benítez,Argentina,Goalkeeper,€12.00m,2022,PSV Eindhoven,"Jan 19, 1993",29,1,"Walter Benítez_Jan 19, 1993_Argentina",Walter Benitez,AR
+387,Gerónimo Rulli,Argentina,Goalkeeper,€10.00m,2022,Villarreal,"May 20, 1992",30,12,"Gerónimo Rulli_May 20, 1992_Argentina",Geronimo Rulli,AR
+388,Juan Musso,Argentina,Goalkeeper,€8.00m,2022,Atalanta BC,"May 6, 1994",28,-,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+389,Franco Armani,Argentina,Goalkeeper,€3.00m,2022,River Plate,"Oct 16, 1986",35,-,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+390,Cristian Romero,Argentina,Centre-Back,€60.00m,2022,Tottenham,"Apr 27, 1998",24,13,"Cristian Romero_Apr 27, 1998_Argentina",Cristian Romero,AR
+391,Lisandro Martínez,Argentina,Centre-Back,€50.00m,2022,Ajax,"Jan 18, 1998",24,-,"Lisandro Martínez_Jan 18, 1998_Argentina",Lisandro Martinez,AR
+392,Facundo Medina,Argentina,Centre-Back,€22.00m,2022,Lens,"May 28, 1999",23,2,"Facundo Medina_May 28, 1999_Argentina",Facundo Medina,AR
+393,Lucas Martínez Quarta,Argentina,Centre-Back,€10.00m,2022,Fiorentina,"May 10, 1996",26,-,"Lucas Martínez Quarta_May 10, 1996_Argentina",Lucas Martinez Quarta,AR
+394,Nehuén Pérez,Argentina,Centre-Back,€10.00m,2022,Atlético Madrid,"Jun 24, 2000",22,-,"Nehuén Pérez_Jun 24, 2000_Argentina",Nehuen Perez,AR
+395,Leonardo Balerdi,Argentina,Centre-Back,€10.00m,2022,Marseille,"Jan 26, 1999",23,25,"Leonardo Balerdi_Jan 26, 1999_Argentina",Leonardo Balerdi,AR
+396,Germán Pezzella,Argentina,Centre-Back,€5.00m,2022,Real Betis,"Jun 27, 1991",31,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+397,Nicolás Otamendi,Argentina,Centre-Back,€2.00m,2022,Benfica,"Feb 12, 1988",34,19,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+398,Marcos Acuña,Argentina,Left-Back,€10.00m,2022,Sevilla FC,"Oct 28, 1991",30,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+399,Nicolás Tagliafico,Argentina,Left-Back,€9.00m,2022,Ajax,"Aug 31, 1992",29,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+400,Nahuel Molina,Argentina,Right-Back,€35.00m,2022,Udinese Calcio,"Apr 6, 1998",24,26,"Nahuel Molina_Apr 6, 1998_Argentina",Nahuel Molina,AR
+401,Juan Foyth,Argentina,Right-Back,€25.00m,2022,Villarreal,"Jan 12, 1998",24,-,"Juan Foyth_Jan 12, 1998_Argentina",Juan Foyth,AR
+402,Gonzalo Montiel,Argentina,Right-Back,€12.00m,2022,Sevilla FC,"Jan 1, 1997",25,-,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+403,Guido Rodríguez,Argentina,Defensive Midfield,€28.00m,2022,Real Betis,"Apr 12, 1994",28,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+404,Leandro Paredes,Argentina,Defensive Midfield,€12.00m,2022,Paris SG,"Jun 29, 1994",28,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+405,Enzo Fernández,Argentina,Central Midfield,€80.00m,2022,River Plate,"Jan 17, 2001",21,24,"Enzo Fernández_Jan 17, 2001_Argentina",Enzo Fernandez,AR
+406,Alexis Mac Allister,Argentina,Central Midfield,€65.00m,2022,Brighton,"Dec 24, 1998",23,20,"Alexis Mac Allister_Dec 24, 1998_Argentina",Alexis Mac Allister,AR
+407,Rodrigo de Paul,Argentina,Central Midfield,€40.00m,2022,Atlético Madrid,"May 24, 1994",28,7,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+408,Exequiel Palacios,Argentina,Central Midfield,€22.00m,2022,B. Leverkusen,"Oct 5, 1998",23,14,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+409,Thiago Almada,Argentina,Attacking Midfield,€20.00m,2022,Atlanta,"Apr 26, 2001",21,16,"Thiago Almada_Apr 26, 2001_Argentina",Thiago Almada,AR
+410,Giovani Lo Celso,Argentina,Attacking Midfield,€14.00m,2022,Tottenham,"Apr 9, 1996",26,21,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+411,Facundo Buonanotte,Argentina,Attacking Midfield,€12.00m,2022,Rosario Central,"Dec 23, 2004",17,27,"Facundo Buonanotte_Dec 23, 2004_Argentina",Facundo Buonanotte,AR
+412,Alejandro Garnacho,Argentina,Left Winger,€25.00m,2022,Man Utd,"Jul 1, 2004",18,28,"Alejandro Garnacho_Jul 1, 2004_Argentina",Alejandro Garnacho,AR
+413,Lucas Ocampos,Argentina,Left Winger,€12.00m,2022,Sevilla FC,"Jul 11, 1994",27,17,"Lucas Ocampos_Jul 11, 1994_Argentina",Lucas Ocampos,AR
+414,Papu Gómez,Argentina,Left Winger,€3.00m,2022,Sevilla FC,"Feb 15, 1988",34,-,"Papu Gómez_Feb 15, 1988_Argentina",Papu Gomez,AR
+415,Lionel Messi,Argentina,Right Winger,€35.00m,2022,Paris SG,"Jun 24, 1987",35,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+416,Ángel Correa,Argentina,Right Winger,€30.00m,2022,Atlético Madrid,"Mar 9, 1995",27,-,"Ángel Correa_Mar 9, 1995_Argentina",Angel Correa,AR
+417,Nicolás González,Argentina,Right Winger,€30.00m,2022,Fiorentina,"Apr 6, 1998",24,15,"Nicolás González_Apr 6, 1998_Argentina",Nicolas Gonzalez,AR
+418,Ángel Di María,Argentina,Right Winger,€8.00m,2022,Paris SG,"Feb 14, 1988",34,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+419,Julián Álvarez,Argentina,Second Striker,€60.00m,2022,River Plate,"Jan 31, 2000",22,9,"Julián Álvarez_Jan 31, 2000_Argentina",Julian Alvarez,AR
+420,Paulo Dybala,Argentina,Second Striker,€30.00m,2022,Juventus,"Nov 15, 1993",28,-,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+421,Joaquín Correa,Argentina,Second Striker,€12.00m,2022,Inter,"Aug 13, 1994",27,-,"Joaquín Correa_Aug 13, 1994_Argentina",Joaquin Correa,AR
+422,Lautaro Martínez,Argentina,Centre-Forward,€85.00m,2022,Inter,"Aug 22, 1997",24,-,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+423,Giovanni Simeone,Argentina,Centre-Forward,€15.00m,2022,Hellas Verona,"Jul 5, 1995",26,22,"Giovanni Simeone_Jul 5, 1995_Argentina",Giovanni Simeone,AR
+424,Emiliano Martínez,Argentina,Goalkeeper,€28.00m,2023,Aston Villa,"Sep 2, 1992",30,23,"Emiliano Martínez_Sep 2, 1992_Argentina",Emiliano Martinez,AR
+425,Walter Benítez,Argentina,Goalkeeper,€12.00m,2023,PSV Eindhoven,"Jan 19, 1993",30,12,"Walter Benítez_Jan 19, 1993_Argentina",Walter Benitez,AR
+426,Juan Musso,Argentina,Goalkeeper,€8.00m,2023,Atalanta BC,"May 6, 1994",29,12,"Juan Musso_May 6, 1994_Argentina",Juan Musso,AR
+427,Franco Armani,Argentina,Goalkeeper,€1.20m,2023,River Plate,"Oct 16, 1986",36,1,"Franco Armani_Oct 16, 1986_Argentina",Franco Armani,AR
+428,Cristian Romero,Argentina,Centre-Back,€65.00m,2023,Tottenham,"Apr 27, 1998",25,13,"Cristian Romero_Apr 27, 1998_Argentina",Cristian Romero,AR
+429,Lucas Martínez Quarta,Argentina,Centre-Back,€14.00m,2023,Fiorentina,"May 10, 1996",27,-,"Lucas Martínez Quarta_May 10, 1996_Argentina",Lucas Martinez Quarta,AR
+430,Germán Pezzella,Argentina,Centre-Back,€5.00m,2023,Real Betis,"Jun 27, 1991",32,6,"Germán Pezzella_Jun 27, 1991_Argentina",German Pezzella,AR
+431,Nicolás Otamendi,Argentina,Centre-Back,€1.50m,2023,Benfica,"Feb 12, 1988",35,19,"Nicolás Otamendi_Feb 12, 1988_Argentina",Nicolas Otamendi,AR
+432,Nicolás Tagliafico,Argentina,Left-Back,€8.00m,2023,Olympique Lyon,"Aug 31, 1992",30,3,"Nicolás Tagliafico_Aug 31, 1992_Argentina",Nicolas Tagliafico,AR
+433,Marcos Acuña,Argentina,Left-Back,€6.00m,2023,Sevilla FC,"Oct 28, 1991",31,8,"Marcos Acuña_Oct 28, 1991_Argentina",Marcos Acuna,AR
+434,Nahuel Molina,Argentina,Right-Back,€45.00m,2023,Atlético Madrid,"Apr 6, 1998",25,2,"Nahuel Molina_Apr 6, 1998_Argentina",Nahuel Molina,AR
+435,Gonzalo Montiel,Argentina,Right-Back,€10.00m,2023,Sevilla FC,"Jan 1, 1997",26,4,"Gonzalo Montiel_Jan 1, 1997_Argentina",Gonzalo Montiel,AR
+436,Pablo Maffeo,Argentina,Right-Back,€8.00m,2023,RCD Mallorca,"Jul 12, 1997",25,-,"Pablo Maffeo_Jul 12, 1997_Argentina",Pablo Maffeo,AR
+437,Guido Rodríguez,Argentina,Defensive Midfield,€24.00m,2023,Real Betis,"Apr 12, 1994",29,18,"Guido Rodríguez_Apr 12, 1994_Argentina",Guido Rodriguez,AR
+438,Leandro Paredes,Argentina,Defensive Midfield,€8.00m,2023,Paris SG,"Jun 29, 1994",29,5,"Leandro Paredes_Jun 29, 1994_Argentina",Leandro Paredes,AR
+439,Enzo Fernández,Argentina,Central Midfield,€80.00m,2023,Chelsea,"Jan 17, 2001",22,17,"Enzo Fernández_Jan 17, 2001_Argentina",Enzo Fernandez,AR
+440,Alexis Mac Allister,Argentina,Central Midfield,€65.00m,2023,Liverpool,"Dec 24, 1998",24,20,"Alexis Mac Allister_Dec 24, 1998_Argentina",Alexis Mac Allister,AR
+441,Exequiel Palacios,Argentina,Central Midfield,€40.00m,2023,B. Leverkusen,"Oct 5, 1998",24,14,"Exequiel Palacios_Oct 5, 1998_Argentina",Exequiel Palacios,AR
+442,Rodrigo de Paul,Argentina,Central Midfield,€30.00m,2023,Atlético Madrid,"May 24, 1994",29,7,"Rodrigo de Paul_May 24, 1994_Argentina",Rodrigo de Paul,AR
+443,Giovani Lo Celso,Argentina,Attacking Midfield,€16.00m,2023,Tottenham,"Apr 9, 1996",27,16,"Giovani Lo Celso_Apr 9, 1996_Argentina",Giovani Lo Celso,AR
+444,Lucas Ocampos,Argentina,Left Winger,€12.00m,2023,Sevilla FC,"Jul 11, 1994",28,21,"Lucas Ocampos_Jul 11, 1994_Argentina",Lucas Ocampos,AR
+445,Nicolás González,Argentina,Right Winger,€40.00m,2023,Fiorentina,"Apr 6, 1998",25,15,"Nicolás González_Apr 6, 1998_Argentina",Nicolas Gonzalez,AR
+446,Lionel Messi,Argentina,Right Winger,€35.00m,2023,Paris SG,"Jun 24, 1987",36,10,"Lionel Messi_Jun 24, 1987_Argentina",Lionel Messi,AR
+447,Ángel Di María,Argentina,Right Winger,€5.00m,2023,Juventus,"Feb 14, 1988",35,11,"Ángel Di María_Feb 14, 1988_Argentina",Angel Di Maria,AR
+448,Julián Álvarez,Argentina,Second Striker,€90.00m,2023,Man City,"Jan 31, 2000",23,9,"Julián Álvarez_Jan 31, 2000_Argentina",Julian Alvarez,AR
+449,Paulo Dybala,Argentina,Second Striker,€25.00m,2023,AS Roma,"Nov 15, 1993",29,21,"Paulo Dybala_Nov 15, 1993_Argentina",Paulo Dybala,AR
+450,Lautaro Martínez,Argentina,Centre-Forward,€110.00m,2023,Inter,"Aug 22, 1997",25,22,"Lautaro Martínez_Aug 22, 1997_Argentina",Lautaro Martinez,AR
+451,Steve Mandanda,France,Goalkeeper,€17.00m,2013,Marseille,"Mar 28, 1985",28,-,"Steve Mandanda_Mar 28, 1985_France",Steve Mandanda,FR
+452,Hugo Lloris,France,Goalkeeper,€15.00m,2013,Tottenham,"Dec 26, 1986",26,1,"Hugo Lloris_Dec 26, 1986_France",Hugo Lloris,FR
+453,Stéphane Ruffier,France,Goalkeeper,€8.50m,2013,Saint-Étienne,"Sep 27, 1986",26,16,"Stéphane Ruffier_Sep 27, 1986_France",Stephane Ruffier,FR
+454,Mickaël Landreau,France,Goalkeeper,€5.00m,2013,SC Bastia,"May 14, 1979",34,23,"Mickaël Landreau_May 14, 1979_France",Mickael Landreau,FR
+455,Laurent Koscielny,France,Centre-Back,€18.00m,2013,Arsenal,"Sep 10, 1985",27,21,"Laurent Koscielny_Sep 10, 1985_France",Laurent Koscielny,FR
+456,Mamadou Sakho,France,Centre-Back,€16.00m,2013,Paris SG,"Feb 13, 1990",23,5,"Mamadou Sakho_Feb 13, 1990_France",Mamadou Sakho,FR
+457,Adil Rami,France,Centre-Back,€14.00m,2013,Valencia,"Dec 27, 1985",27,-,"Adil Rami_Dec 27, 1985_France",Adil Rami,FR
+458,Raphaël Varane,France,Centre-Back,€10.00m,2013,Real Madrid,"Apr 25, 1993",20,4,"Raphaël Varane_Apr 25, 1993_France",Raphael Varane,FR
+459,Kurt Zouma,France,Centre-Back,€6.00m,2013,Saint-Étienne,"Oct 27, 1994",18,-,"Kurt Zouma_Oct 27, 1994_France",Kurt Zouma,FR
+460,Eliaquim Mangala,France,Centre-Back,€5.00m,2013,FC Porto,"Feb 13, 1991",22,13,"Eliaquim Mangala_Feb 13, 1991_France",Eliaquim Mangala,FR
+461,Patrice Evra,France,Left-Back,€15.50m,2013,Man Utd,"May 15, 1981",32,3,"Patrice Evra_May 15, 1981_France",Patrice Evra,FR
+462,Gaël Clichy,France,Left-Back,€15.00m,2013,Man City,"Jul 26, 1985",27,-,"Gaël Clichy_Jul 26, 1985_France",Gael Clichy,FR
+463,Lucas Digne,France,Left-Back,€5.00m,2013,LOSC Lille,"Jul 20, 1993",19,17,"Lucas Digne_Jul 20, 1993_France",Lucas Digne,FR
+464,Éric Abidal,France,Left-Back,€2.00m,2013,Barcelona,"Sep 11, 1979",33,-,"Éric Abidal_Sep 11, 1979_France",Eric Abidal,FR
+465,Bacary Sagna,France,Right-Back,€19.00m,2013,Arsenal,"Feb 14, 1983",30,15,"Bacary Sagna_Feb 14, 1983_France",Bacary Sagna,FR
+466,Mathieu Debuchy,France,Right-Back,€15.00m,2013,Newcastle,"Jul 28, 1985",27,2,"Mathieu Debuchy_Jul 28, 1985_France",Mathieu Debuchy,FR
+467,Rod Fanni,France,Right-Back,€3.50m,2013,Marseille,"Dec 6, 1981",31,-,"Rod Fanni_Dec 6, 1981_France",Rod Fanni,FR
+468,Étienne Capoue,France,Defensive Midfield,€12.00m,2013,Toulouse,"Jul 11, 1988",24,-,"Étienne Capoue_Jul 11, 1988_France",Etienne Capoue,FR
+469,Rio Mavuba,France,Defensive Midfield,€10.00m,2013,LOSC Lille,"Mar 8, 1984",29,12,"Rio Mavuba_Mar 8, 1984_France",Rio Mavuba,FR
+470,Josuha Guilavogui,France,Defensive Midfield,€4.00m,2013,Saint-Étienne,"Sep 19, 1990",22,-,"Josuha Guilavogui_Sep 19, 1990_France",Josuha Guilavogui,FR
+471,Geoffrey Kondogbia,France,Defensive Midfield,€4.00m,2013,Sevilla FC,"Feb 15, 1993",20,-,"Geoffrey Kondogbia_Feb 15, 1993_France",Geoffrey Kondogbia,FR
+472,Morgan Schneiderlin,France,Defensive Midfield,€1.75m,2013,Southampton,"Nov 8, 1989",23,22,"Morgan Schneiderlin_Nov 8, 1989_France",Morgan Schneiderlin,FR
+473,Yohan Cabaye,France,Central Midfield,€16.50m,2013,Newcastle,"Jan 14, 1986",27,6,"Yohan Cabaye_Jan 14, 1986_France",Yohan Cabaye,FR
+474,Blaise Matuidi,France,Central Midfield,€10.00m,2013,Paris SG,"Apr 9, 1987",26,14,"Blaise Matuidi_Apr 9, 1987_France",Blaise Matuidi,FR
+475,Moussa Sissoko,France,Central Midfield,€9.50m,2013,Newcastle,"Aug 16, 1989",23,18,"Moussa Sissoko_Aug 16, 1989_France",Moussa Sissoko,FR
+476,Paul Pogba,France,Central Midfield,€6.00m,2013,Juventus,"Mar 15, 1993",20,19,"Paul Pogba_Mar 15, 1993_France",Paul Pogba,FR
+477,Clément Grenier,France,Central Midfield,€4.00m,2013,Olympique Lyon,"Jan 7, 1991",22,-,"Clément Grenier_Jan 7, 1991_France",Clement Grenier,FR
+478,Samir Nasri,France,Attacking Midfield,€25.00m,2013,Man City,"Jun 26, 1987",26,-,"Samir Nasri_Jun 26, 1987_France",Samir Nasri,FR
+479,Mathieu Valbuena,France,Attacking Midfield,€12.00m,2013,Marseille,"Sep 28, 1984",28,8,"Mathieu Valbuena_Sep 28, 1984_France",Mathieu Valbuena,FR
+480,Dimitri Payet,France,Attacking Midfield,€10.00m,2013,Marseille,"Mar 29, 1987",26,-,"Dimitri Payet_Mar 29, 1987_France",Dimitri Payet,FR
+481,Rémy Cabella,France,Attacking Midfield,€3.00m,2013,Montpellier,"Mar 8, 1990",23,7,"Rémy Cabella_Mar 8, 1990_France",Remy Cabella,FR
+482,Franck Ribéry,France,Left Winger,€42.00m,2013,Bayern Munich,"Apr 7, 1983",30,-,"Franck Ribéry_Apr 7, 1983_France",Franck Ribery,FR
+483,Karim Benzema,France,Centre-Forward,€40.00m,2013,Real Madrid,"Dec 19, 1987",25,10,"Karim Benzema_Dec 19, 1987_France",Karim Benzema,FR
+484,Loïc Rémy,France,Centre-Forward,€19.00m,2013,QPR,"Jan 2, 1987",26,20,"Loïc Rémy_Jan 2, 1987_France",Loic Remy,FR
+485,Olivier Giroud,France,Centre-Forward,€15.00m,2013,Arsenal,"Sep 30, 1986",26,9,"Olivier Giroud_Sep 30, 1986_France",Olivier Giroud,FR
+486,Antoine Griezmann,France,Centre-Forward,€12.00m,2013,Real Sociedad,"Mar 21, 1991",22,11,"Antoine Griezmann_Mar 21, 1991_France",Antoine Griezmann,FR
+487,Hugo Lloris,France,Goalkeeper,€17.50m,2014,Tottenham,"Dec 26, 1986",27,1,"Hugo Lloris_Dec 26, 1986_France",Hugo Lloris,FR
+488,Steve Mandanda,France,Goalkeeper,€17.00m,2014,Marseille,"Mar 28, 1985",29,16,"Steve Mandanda_Mar 28, 1985_France",Steve Mandanda,FR
+489,Stéphane Ruffier,France,Goalkeeper,€9.00m,2014,Saint-Étienne,"Sep 27, 1986",27,23,"Stéphane Ruffier_Sep 27, 1986_France",Stephane Ruffier,FR
+490,Benoît Costil,France,Goalkeeper,€7.50m,2014,Stade Rennais,"Jul 3, 1987",26,-,"Benoît Costil_Jul 3, 1987_France",Benoit Costil,FR
+491,Raphaël Varane,France,Centre-Back,€25.00m,2014,Real Madrid,"Apr 25, 1993",21,4,"Raphaël Varane_Apr 25, 1993_France",Raphael Varane,FR
+492,Eliaquim Mangala,France,Centre-Back,€20.00m,2014,FC Porto,"Feb 13, 1991",23,13,"Eliaquim Mangala_Feb 13, 1991_France",Eliaquim Mangala,FR
+493,Mamadou Sakho,France,Centre-Back,€19.00m,2014,Liverpool,"Feb 13, 1990",24,5,"Mamadou Sakho_Feb 13, 1990_France",Mamadou Sakho,FR
+494,Laurent Koscielny,France,Centre-Back,€17.00m,2014,Arsenal,"Sep 10, 1985",28,21,"Laurent Koscielny_Sep 10, 1985_France",Laurent Koscielny,FR
+495,Mapou Yanga-Mbiwa,France,Centre-Back,€9.00m,2014,Newcastle,"May 15, 1989",25,-,"Mapou Yanga-Mbiwa_May 15, 1989_France",Mapou Yanga-Mbiwa,FR
+496,Kurt Zouma,France,Centre-Back,€7.00m,2014,Chelsea,"Oct 27, 1994",19,-,"Kurt Zouma_Oct 27, 1994_France",Kurt Zouma,FR
+497,Loïc Perrin,France,Centre-Back,€5.00m,2014,Saint-Étienne,"Aug 7, 1985",28,-,"Loïc Perrin_Aug 7, 1985_France",Loic Perrin,FR
+498,Patrice Evra,France,Left-Back,€11.00m,2014,Man Utd,"May 15, 1981",33,3,"Patrice Evra_May 15, 1981_France",Patrice Evra,FR
+499,Lucas Digne,France,Left-Back,€10.00m,2014,Paris SG,"Jul 20, 1993",20,-,"Lucas Digne_Jul 20, 1993_France",Lucas Digne,FR
