@@ -1223,7 +1223,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             # correct_date_obj = datetime.strptime(correct_date_obj, '%m/%d/%y')
         match_date_obj = datetime.strptime(match_date, "%m/%d/%y")
         #correct_date_obj = datetime.strptime(correct_date_obj, "%m/%d/%y")
-        #print('comparing ', match_date_obj, correct_date_obj)
+        #print(f'comparing. this row is {match_date_obj}, correct is {correct_date_obj} ')
         if (match_date_obj == correct_date_obj or 
             match_date_obj == correct_date_obj + timedelta(days=1) or 
             match_date_obj == correct_date_obj - timedelta(days=1)):
@@ -1243,8 +1243,9 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             elif len(data_row) == 7:
                 pass
             elif len(data_row) == 12:
-                match_date_row = data_row[1].text.strip()
+                #match_date_row = data_row[1].text.strip()
                 #print('this is in the regular date loop', match_date_row, correct_date_obj)
+                #print('checking fwd', match_date_row)
                 if check_date(match_date_row, correct_date_obj):
                     #print('it was him')
                     date_found = True
@@ -1253,6 +1254,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
                 print(i, len(data_row))
     except Exception as e:
         print('there was no national team history', e)
+        #return False
 
     # If not found with the original date format, switch the date format and try again
     if not date_found:
@@ -1303,6 +1305,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
                     print(i, len(data_row))
         except Exception as e:
             print('reverse loop. there was no national team history', e)
+            #return False
 
     if(date_found == False):
         return False
