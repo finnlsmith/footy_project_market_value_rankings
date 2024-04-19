@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,SUCCESS,Ronwen Williams,1300000.0,False,working,False,Ronwen Williams,Ronwen Williams,single
+1,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,Katlego Mashego,0.0,True,Online Lookup Required,False,Katlego Mashego,Katlego Mohamme,single
+2,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,Luke Fleurs,0.0,True,Online Lookup Required,False,Luke Fleurs,Luke Fleurs,single
+3,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,Tercious Malepe,0.0,True,Online Lookup Required,False,Tercious Malepe,Tercious Malepe,single
+4,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,SUCCESS,Thabiso Kutumela,200000.0,False,Data Ended before season : 2021,False,Thabiso Kutumela,Thendo Mukumela,single
+5,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,Thabo Nthethe,0,True,Online Lookup Required,False,Thabo Nthethe,Thabo Cele,single
+6,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,SUCCESS,Teboho Mokoena,1400000.0,False,working,False,Teboho Mokoena,Teboho Mokoena,single
+7,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,0,0,True,Online Lookup Required,False,0,Kobamelo Kodisang,none
+8,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,FAIL,Kamohelo Mokotjo,0,True,Online Lookup Required,False,Kamohelo Mokotjo,Kamohelo Mahlatsi,single
+9,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,SUCCESS,Luther Singh,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luther Singh,Luther Singh,single
+10,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,South Africa,ZA,2021,SUCCESS,Evidence Makgopa,450000.0,False,working,False,Evidence Makgopa,Evidence Makgopa,single
+11,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+12,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Jorge Sánchez,3500000.0,False,working,False,Jorge Sánchez,Jorge Sánchez,single
+13,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+14,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Jesús Angulo,3500000.0,False,working,False,Jesús Angulo,Jesús Alberto Angulo,single
+15,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Vladímir Loroña,1800000.0,False,working,False,Vladímir Loroña,Vladimir Loroña,single
+16,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+17,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,Carlos Rodríguez,single
+18,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+19,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Uriel Antuna,4500000.0,False,working,False,Uriel Antuna,Uriel Antuna,single
+20,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+21,1366,"Olympics, 2020",South Africa vs Mexico,2021-07-28,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+22,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Michael Woud,450000.0,False,working,False,Michael Woud,Michael Woud,single
+23,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,FAIL,0,0,True,Lookup Required,False,0,Gianni Stensness,none
+24,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Winston Reid,600000.0,False,working,False,Winston Reid,Winston Reid,single
+25,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Joe Bell,1500000.0,False,working,False,Joe Bell,Joe Bell,single
+26,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Nando Pijnaker,150000.0,False,working,False,Nando Pijnaker,Nando Pijnaker,single
+27,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Dane Ingham,450000.0,False,working,False,Dane Ingham,Dane Ingham,single
+28,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Clayton Lewis,450000.0,False,working,False,Clayton Lewis,Clayton Lewis,single
+29,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Liberato Cacace,2500000.0,False,working,False,Liberato Cacace,Liberato Cacace,single
+30,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Elijah Just,350000.0,False,working,False,Elijah Just,Elijah Just,single
+31,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Chris Wood,10000000.0,False,working,False,Chris Wood,Chris Wood,single
+32,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,New Zealand,NZ,2021,SUCCESS,Callum McCowatt,350000.0,False,working,False,Callum McCowatt,Callum Mc Cowatt,single
+33,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Bum-keun Song,800000.0,False,working,False,Bum-keun Song,Song Bum-keun,single
+34,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,FAIL,You-hyeon Lee,0,True,Online Lookup Required,False,You-hyeon Lee,Lee You-hyeon,single
+35,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeong Tae-uk,none
+36,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,FAIL,Sang-min Lee,0,True,Was in  DB before or after season,True,Sang-min Lee,Lee Sang-min,single
+37,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kang Yoon-sung,none
+38,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Du-jae Won,0,False,Not in either dataset for currect season but present in both seasons around match,True,Du-jae Won,Won Du-jae,single
+39,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,FAIL,Dong-hyun Seo,0,True,Online Lookup Required,False,Dong-hyun Seo,Kim Dong-hyun,single
+40,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Won-sang Um,500000.0,False,working,False,Won-sang Um,Um Won-sang,single
+41,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Kang-in Lee,20000000.0,False,working,False,Kang-in Lee,Lee Kang-in,single
+42,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Chang-hoon Kwon,2800000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+43,1367,"Olympics, 2020",New Zealand vs South Korea,2021-07-22,South Korea,KR,2021,SUCCESS,Ui-jo Hwang,2500000.0,False,working,False,Ui-jo Hwang,Hwang Ui-jo,single
+44,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Alex Güity,-,False,Data Ended before season : 2021,False,Alex Güity,Alex Güity,single
+45,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,José García,-,False,Data Ended before season : 2021,False,José García,José García,single
+46,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Jorge Álvarez,225000.0,False,working,False,Jorge Álvarez,Jorge Álvarez,single
+47,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Denil Maldonado,500000.0,False,working,False,Denil Maldonado,Denil Maldonado,single
+48,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Elvin Oliva,-,False,Data Ended before season : 2021,False,Elvin Oliva,Elvin Oliva,single
+49,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Wesly Decas,150000.0,False,working,False,Wesly Decas,Wesly Decas,single
+50,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Rigoberto Rivas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Rigoberto Rivas,Rigoberto Rivas,single
+51,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,FAIL,Carlos Pineda,0,True,Was in  DB before or after season,True,Carlos Pineda,Carlos Pineda,single
+52,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Edwin Rodríguez,200000.0,False,working,False,Edwin Rodríguez,Edwin Rodríguez,single
+53,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,FAIL,Douglas Martínez,0,True,Was in  DB before or after season,True,Douglas Martínez,Douglas Martínez,single
+54,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Honduras,HN,2021,SUCCESS,Jorge Benguché,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jorge Benguché,Jorge Benguché,single
+55,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Marian Aioani,450000.0,False,working,False,Marian Aioani,Mihai Aioani,single
+56,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Andrei Rațiu,300000.0,False,working,False,Andrei Rațiu,Andrei Rațiu,single
+57,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,FAIL,Alexandru Pașcanu,0,True,Online Lookup Required,False,Alexandru Pașcanu,Alex Pașcanu,single
+58,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Virgil Ghiță,1300000.0,False,working,False,Virgil Ghiță,Virgil Ghiță,single
+59,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Florin Ștefan,1000000.0,False,Data Ended before season : 2021,False,Florin Ștefan,Florin tefan,single
+60,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,FAIL,0,0,True,Lookup Required,False,0,Marco Dulca,none
+61,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Marius Marin,500000.0,False,working,False,Marius Marin,Marius Marin,single
+62,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,"['Andrei Cordea', 'Andrei Radu', 'Andrei Ivan']",650000.0,False,working,False,"['Andrei Cordea', 'Andrei Radu', 'Andrei Ivan']",Andrei Ciobanu,multiple
+63,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,Alex Dobre,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alex Dobre,Alex Dobre,single
+64,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,FAIL,"['Valentin Crețu', 'Valentin Cojocaru', 'Valentin Lazăr']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Valentin Crețu', 'Valentin Cojocaru', 'Valentin Lazăr']",False,"['Valentin Crețu', 'Valentin Cojocaru', 'Valentin Lazăr']",Valentin Gheorghe,multiple
+65,1368,"Olympics, 2020",Honduras vs Romania,2021-07-22,Romania,RO,2021,SUCCESS,"['George Țucudean', 'George Pușcaș']",4800000.0,False,working,False,"['George Țucudean', 'George Pușcaș']",George Ganea,multiple
+66,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Michael Woud,450000.0,False,working,False,Michael Woud,Michael Woud,single
+67,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,FAIL,0,0,True,Lookup Required,False,0,Gianni Stensness,none
+68,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Winston Reid,600000.0,False,working,False,Winston Reid,Winston Reid,single
+69,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Joe Bell,1500000.0,False,working,False,Joe Bell,Joe Bell,single
+70,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Nando Pijnaker,150000.0,False,working,False,Nando Pijnaker,Nando Pijnaker,single
+71,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Dane Ingham,450000.0,False,working,False,Dane Ingham,Dane Ingham,single
+72,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Clayton Lewis,450000.0,False,working,False,Clayton Lewis,Clayton Lewis,single
+73,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Liberato Cacace,2500000.0,False,working,False,Liberato Cacace,Liberato Cacace,single
+74,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Elijah Just,350000.0,False,working,False,Elijah Just,Elijah Just,single
+75,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Chris Wood,10000000.0,False,working,False,Chris Wood,Chris Wood,single
+76,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,New Zealand,NZ,2021,SUCCESS,Callum McCowatt,350000.0,False,working,False,Callum McCowatt,Callum Mc Cowatt,single
+77,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Alex Güity,-,False,Data Ended before season : 2021,False,Alex Güity,Alex Güity,single
+78,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Cristopher Meléndez,-,False,Data Ended before season : 2021,False,Cristopher Meléndez,Cristopher Meléndez,single
+79,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,José García,-,False,Data Ended before season : 2021,False,José García,José García,single
+80,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Denil Maldonado,500000.0,False,working,False,Denil Maldonado,Denil Maldonado,single
+81,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Wesly Decas,150000.0,False,working,False,Wesly Decas,Wesly Decas,single
+82,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Jorge Álvarez,225000.0,False,working,False,Jorge Álvarez,Jorge Álvarez,single
+83,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Edwin Rodríguez,200000.0,False,working,False,Edwin Rodríguez,Edwin Rodríguez,single
+84,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Luis Palma,125000.0,False,working,False,Luis Palma,Luis Palma,single
+85,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,FAIL,Alejandro Reyes,0,True,Online Lookup Required,False,Alejandro Reyes,José Alejandro Reyes,single
+86,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,FAIL,Douglas Martínez,0,True,Was in  DB before or after season,True,Douglas Martínez,Douglas Martínez,single
+87,1369,"Olympics, 2020",New Zealand vs Honduras,2021-07-25,Honduras,HN,2021,SUCCESS,Jorge Benguché,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jorge Benguché,Jorge Benguché,single
+88,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,Marian Aioani,450000.0,False,working,False,Marian Aioani,Mihai Aioani,single
+89,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,FAIL,0,0,True,Lookup Required,False,0,Marco Dulca,none
+90,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,FAIL,Alexandru Pașcanu,0,True,Online Lookup Required,False,Alexandru Pașcanu,Alex Pașcanu,single
+91,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,Virgil Ghiță,1300000.0,False,working,False,Virgil Ghiță,Virgil Ghiță,single
+92,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,FAIL,0,0,True,Lookup Required,False,0,Radu Boboc,none
+93,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,Marius Marin,500000.0,False,working,False,Marius Marin,Marius Marin,single
+94,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,"['Andrei Cordea', 'Andrei Radu', 'Andrei Ivan']",650000.0,False,working,False,"['Andrei Cordea', 'Andrei Radu', 'Andrei Ivan']",Andrei Ciobanu,multiple
+95,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,FAIL,Gheorghe Grozav,0,True,Online Lookup Required,False,Gheorghe Grozav,Ion Gheorghe,single
+96,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,FAIL,Antonio Sefer,0,True,Was in  DB before or after season,True,Antonio Sefer,Antonio Sefer,single
+97,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,"['George Țucudean', 'George Pușcaș']",4800000.0,False,working,False,"['George Țucudean', 'George Pușcaș']",George Ganea,multiple
+98,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,Romania,RO,2021,SUCCESS,Alex Dobre,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alex Dobre,Alex Dobre,single
+99,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,Bum-keun Song,800000.0,False,working,False,Bum-keun Song,Song Bum-keun,single
+100,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,"['Young-wook Cho', 'Young-woo Seol']",500000.0,False,working,False,"['Young-wook Cho', 'Young-woo Seol']",Seol Young-woo,multiple
+101,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeong Tae-uk,none
+102,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,FAIL,Ji-soo Kim,0,True,Was in  DB before or after season,True,Ji-soo Kim,Park Ji-soo,single
+103,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kang Yoon-sung,none
+104,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,Du-jae Won,0,False,Not in either dataset for currect season but present in both seasons around match,True,Du-jae Won,Won Du-jae,single
+105,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeong Seung-won,none
+106,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,"['Dong-jun Lee', 'Dong-jun Kim']",650000.0,False,working,False,"['Dong-jun Lee', 'Dong-jun Kim']",Lee Dong-jun,multiple
+107,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,Dong-gyeong Lee,600000.0,False,working,False,Dong-gyeong Lee,Lee Dong-gyeong,single
+108,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,Won-sang Um,500000.0,False,working,False,Won-sang Um,Um Won-sang,single
+109,1370,"Olympics, 2020",Romania vs South Korea,2021-07-25,South Korea,KR,2021,SUCCESS,Ui-jo Hwang,2500000.0,False,working,False,Ui-jo Hwang,Hwang Ui-jo,single
+110,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Marian Aioani,450000.0,False,working,False,Marian Aioani,Mihai Aioani,single
+111,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Dragoș Grigore,100000.0,False,Data Ended before season : 2021,False,Dragoș Grigore,Ricardo Grigore,single
+112,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Andrei Cordea,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andrei Cordea,Andrei Chindriș,single
+113,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,FAIL,0,0,True,Lookup Required,False,0,Marco Dulca,none
+114,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Virgil Ghiță,1300000.0,False,working,False,Virgil Ghiță,Virgil Ghiță,single
+115,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Andrei Rațiu,300000.0,False,working,False,Andrei Rațiu,Andrei Rațiu,single
+116,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Marius Marin,500000.0,False,working,False,Marius Marin,Marius Marin,single
+117,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Florin Ștefan,1000000.0,False,Data Ended before season : 2021,False,Florin Ștefan,Florin tefan,single
+118,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,FAIL,0,0,True,Lookup Required,False,0,Eduard Florescu,none
+119,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,SUCCESS,Alex Dobre,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alex Dobre,Alex Dobre,single
+120,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,Romania,RO,2021,FAIL,Andrei Artean,0,True,Was in  DB before or after season,True,Andrei Artean,Andrei Sîntean,single
+121,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Michael Woud,450000.0,False,working,False,Michael Woud,Michael Woud,single
+122,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,FAIL,Callan Elliot,0,True,Was in  DB before or after season,True,Callan Elliot,Callan Elliot,single
+123,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,FAIL,0,0,True,Lookup Required,False,0,Gianni Stensness,none
+124,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Nando Pijnaker,150000.0,False,working,False,Nando Pijnaker,Nando Pijnaker,single
+125,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Liberato Cacace,2500000.0,False,working,False,Liberato Cacace,Liberato Cacace,single
+126,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Joe Bell,1500000.0,False,working,False,Joe Bell,Joe Bell,single
+127,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Matthew Garbett,150000.0,False,working,False,Matthew Garbett,Matthew Garbett,single
+128,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Marko Stamenic,250000.0,False,working,False,Marko Stamenic,Marko Stamenic,single
+129,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Elijah Just,350000.0,False,working,False,Elijah Just,Elijah Just,single
+130,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Joe Champness,250000.0,False,working,False,Joe Champness,Joe Champness,single
+131,1371,"Olympics, 2020",Romania vs New Zealand,2021-07-28,New Zealand,NZ,2021,SUCCESS,Chris Wood,10000000.0,False,working,False,Chris Wood,Chris Wood,single
+132,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,Bum-keun Song,800000.0,False,working,False,Bum-keun Song,Song Bum-keun,single
+133,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,"['Young-wook Cho', 'Young-woo Seol']",500000.0,False,working,False,"['Young-wook Cho', 'Young-woo Seol']",Seol Young-woo,multiple
+134,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeong Tae-uk,none
+135,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,FAIL,Ji-soo Kim,0,True,Was in  DB before or after season,True,Ji-soo Kim,Park Ji-soo,single
+136,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kang Yoon-sung,none
+137,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,Du-jae Won,0,False,Not in either dataset for currect season but present in both seasons around match,True,Du-jae Won,Won Du-jae,single
+138,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kim Jin-ya,none
+139,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,Jin-gyu Kim,325000.0,False,working,False,Jin-gyu Kim,Kim Jin-gyu,single
+140,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,"['Dong-jun Lee', 'Dong-jun Kim']",650000.0,False,working,False,"['Dong-jun Lee', 'Dong-jun Kim']",Lee Dong-jun,multiple
+141,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,Ui-jo Hwang,2500000.0,False,working,False,Ui-jo Hwang,Hwang Ui-jo,single
+142,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,South Korea,KR,2021,SUCCESS,Chang-hoon Kwon,2800000.0,False,working,False,Chang-hoon Kwon,Kwon Chang-hoon,single
+143,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Alex Güity,-,False,Data Ended before season : 2021,False,Alex Güity,Alex Güity,single
+144,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Carlos Meléndez,0.0,False,Large Dataset had 0,False,Carlos Meléndez,Carlos Meléndez,single
+145,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Jonathan Núñez,50000.0,False,Data Ended before season : 2021,False,Jonathan Núñez,Jonathan Núñez,single
+146,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Denil Maldonado,500000.0,False,working,False,Denil Maldonado,Denil Maldonado,single
+147,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Elvin Oliva,-,False,Data Ended before season : 2021,False,Elvin Oliva,Elvin Oliva,single
+148,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Wesly Decas,150000.0,False,working,False,Wesly Decas,Wesly Decas,single
+149,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,FAIL,Alejandro Reyes,0,True,Online Lookup Required,False,Alejandro Reyes,José Alejandro Reyes,single
+150,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,FAIL,Carlos Pineda,0,True,Was in  DB before or after season,True,Carlos Pineda,Carlos Pineda,single
+151,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Luis Palma,125000.0,False,working,False,Luis Palma,Luis Palma,single
+152,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,SUCCESS,Edwin Rodríguez,200000.0,False,working,False,Edwin Rodríguez,Edwin Rodríguez,single
+153,1372,"Olympics, 2020",South Korea vs Honduras,2021-07-28,Honduras,HN,2021,FAIL,Douglas Martínez,0,True,Was in  DB before or after season,True,Douglas Martínez,Douglas Martínez,single
+154,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Mohamed El Shenawy,2500000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+155,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Mahmoud Hamada,300000.0,False,working,False,Mahmoud Hamada,Mahmoud Hamdy,single
+156,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,Ahmed Hegazi,single
+157,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Osama Galal,300000.0,False,working,False,Osama Galal,Osama Galal,single
+158,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Akram Tawfik,400000.0,False,working,False,Akram Tawfik,Akram Tawfik,single
+159,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Ahmed Fatouh,800000.0,False,working,False,Ahmed Fatouh,Ahmed Abou El Fotouh,single
+160,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,FAIL,Omar El Said,0,True,Online Lookup Required,False,Omar El Said,Karim El Eraki,single
+161,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Emam Ashour,300000.0,False,working,False,Emam Ashour,Emam Ashour,single
+162,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Ramadan Sobhi,3000000.0,False,working,False,Ramadan Sobhi,Ramadan Sobhi,single
+163,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,FAIL,Taher Mohamed,0,True,Was in  DB before or after season,True,Taher Mohamed,Taher Mohamed,single
+164,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Egypt,EG,2021,SUCCESS,Ahmed Yasser Rayan,1000000.0,False,Used Large Dataset,False,Ahmed Yasser Rayan,Ahmed Yasser Rayyan,single
+165,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+166,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Óscar Mingueza,6000000.0,False,Used Large Dataset,False,Óscar Mingueza,Óscar Mingueza,single
+167,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+168,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+169,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Juan Miranda,5000000.0,False,Used Large Dataset,False,Juan Miranda,Juan Miranda,single
+170,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Mikel Merino,50000000.0,False,Used Large Dataset,False,Mikel Merino,Mikel Merino,single
+171,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Dani Ceballos,14000000.0,False,Used Large Dataset,False,Dani Ceballos,Dani Ceballos,single
+172,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+173,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+174,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Marco Asensio,40000000.0,False,working,False,Marco Asensio,Marco Asensio,single
+175,1373,"Olympics, 2020",Egypt vs Spain,2021-07-22,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+176,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeremías Ledesma,none
+177,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Hernán de la Fuente,none
+178,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,SUCCESS,Nehuén Pérez,6000000.0,False,Used Large Dataset,False,Nehuén Pérez,Nehuén Pérez,single
+179,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,SUCCESS,Facundo Medina,11000000.0,False,Used Large Dataset,False,Facundo Medina,Facundo Medina,single
+180,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,Francisco Cerro,0,True,Online Lookup Required,False,Francisco Cerro,Francisco Ortega,single
+181,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Fausto Vera,none
+182,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Santiago Colombatto,none
+183,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,SUCCESS,Alexis Mac Allister,11000000.0,False,working,False,Alexis Mac Allister,Alexis Mac Allister,single
+184,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,Carlos Tevez,0,True,Online Lookup Required,False,Carlos Tevez,Carlos Valenzuela,single
+185,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,FAIL,Ezequiel Garay,0,True,Online Lookup Required,False,Ezequiel Garay,Ezequiel Barco,single
+186,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Argentina,AR,2021,SUCCESS,Adolfo Gaich,0,False,Not in either dataset for currect season but present in both seasons around match,True,Adolfo Gaich,Adolfo Gaich,single
+187,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,FAIL,Tom Glover,0,True,Was in  DB before or after season,True,Tom Glover,Tom Glover,single
+188,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Nathaniel Atkinson,500000.0,False,working,False,Nathaniel Atkinson,Nathaniel Atkinson,single
+189,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Thomas Deng,725000.0,False,working,False,Thomas Deng,Thomas Deng,single
+190,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Harry Souttar,3500000.0,False,working,False,Harry Souttar,Harry Souttar,single
+191,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Joel King,250000.0,False,working,False,Joel King,Joel King,single
+192,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,FAIL,0,0,True,Lookup Required,False,0,Lachlan Wales,none
+193,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Connor Metcalfe,300000.0,False,working,False,Connor Metcalfe,Connor Metcalfe,single
+194,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,FAIL,Daniel Arzani,0,True,Online Lookup Required,False,Daniel Arzani,Daniel Arzani,single
+195,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Riley McGree,800000.0,False,working,False,Riley McGree,Riley Mc Gree,single
+196,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Denis Genreau,400000.0,False,working,False,Denis Genreau,Denis Genreau,single
+197,1374,"Olympics, 2020",Argentina vs Australia,2021-07-22,Australia,AU,2021,SUCCESS,Mitchell Duke,600000.0,False,working,False,Mitchell Duke,Mitchell Duke,single
+198,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Mohamed El Shenawy,2500000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+199,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Osama Galal,300000.0,False,working,False,Osama Galal,Osama Galal,single
+200,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,Ahmed Hegazi,single
+201,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Mahmoud Hamada,300000.0,False,working,False,Mahmoud Hamada,Mahmoud Hamdy,single
+202,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Akram Tawfik,400000.0,False,working,False,Akram Tawfik,Akram Tawfik,single
+203,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Ahmed Fatouh,800000.0,False,working,False,Ahmed Fatouh,Ahmed Abou El Fotouh,single
+204,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,FAIL,Omar El Said,0,True,Online Lookup Required,False,Omar El Said,Karim El Eraki,single
+205,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,FAIL,Amar Hamdy,0,True,Online Lookup Required,False,Amar Hamdy,Amar Hamdy,single
+206,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Ramadan Sobhi,3000000.0,False,working,False,Ramadan Sobhi,Ramadan Sobhi,single
+207,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,FAIL,Salah Mohsen,0,True,Online Lookup Required,False,Salah Mohsen,Salah Mohsen,single
+208,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Egypt,EG,2021,SUCCESS,Ahmed Yasser Rayan,1000000.0,False,Used Large Dataset,False,Ahmed Yasser Rayan,Ahmed Yasser Rayyan,single
+209,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeremías Ledesma,none
+210,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Hernán de la Fuente,none
+211,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,SUCCESS,Nehuén Pérez,6000000.0,False,Used Large Dataset,False,Nehuén Pérez,Nehuén Pérez,single
+212,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,SUCCESS,Facundo Medina,11000000.0,False,Used Large Dataset,False,Facundo Medina,Facundo Medina,single
+213,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Claudio Bravo,none
+214,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Fausto Vera,none
+215,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Online Lookup Required,False,0,Martín Payero,none
+216,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,SUCCESS,Alexis Mac Allister,11000000.0,False,working,False,Alexis Mac Allister,Alexis Mac Allister,single
+217,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Pedro de la Vega,none
+218,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,FAIL,Ezequiel Garay,0,True,Online Lookup Required,False,Ezequiel Garay,Ezequiel Barco,single
+219,1375,"Olympics, 2020",Egypt vs Argentina,2021-07-25,Argentina,AR,2021,SUCCESS,Adolfo Gaich,0,False,Not in either dataset for currect season but present in both seasons around match,True,Adolfo Gaich,Adolfo Gaich,single
+220,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,FAIL,Tom Glover,0,True,Was in  DB before or after season,True,Tom Glover,Tom Glover,single
+221,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Nathaniel Atkinson,500000.0,False,working,False,Nathaniel Atkinson,Nathaniel Atkinson,single
+222,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Thomas Deng,725000.0,False,working,False,Thomas Deng,Thomas Deng,single
+223,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Harry Souttar,3500000.0,False,working,False,Harry Souttar,Harry Souttar,single
+224,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Joel King,250000.0,False,working,False,Joel King,Joel King,single
+225,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,FAIL,0,0,True,Lookup Required,False,0,Lachlan Wales,none
+226,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Connor Metcalfe,300000.0,False,working,False,Connor Metcalfe,Connor Metcalfe,single
+227,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,FAIL,Daniel Arzani,0,True,Online Lookup Required,False,Daniel Arzani,Daniel Arzani,single
+228,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Riley McGree,800000.0,False,working,False,Riley McGree,Riley Mc Gree,single
+229,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Denis Genreau,400000.0,False,working,False,Denis Genreau,Denis Genreau,single
+230,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Australia,AU,2021,SUCCESS,Mitchell Duke,600000.0,False,working,False,Mitchell Duke,Mitchell Duke,single
+231,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+232,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Óscar Gil,3000000.0,False,Used Large Dataset,False,Óscar Gil,Óscar Gil,single
+233,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+234,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+235,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Marc Cucurella,28000000.0,False,Used Large Dataset,False,Marc Cucurella,Marc Cucurella,single
+236,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Martín Zubimendi,30000000.0,False,Used Large Dataset,False,Martín Zubimendi,Martín Zubimendi,single
+237,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Carlos Soler,30000000.0,False,working,False,Carlos Soler,Carlos Soler,single
+238,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+239,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+240,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Javi Puado,8000000.0,False,Used Large Dataset,False,Javi Puado,Javi Puado,single
+241,1376,"Olympics, 2020",Australia vs Spain,2021-07-25,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+242,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,FAIL,Tom Glover,0,True,Was in  DB before or after season,True,Tom Glover,Tom Glover,single
+243,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Kye Rowles,350000.0,False,working,False,Kye Rowles,Kye Rowles,single
+244,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Thomas Deng,725000.0,False,working,False,Thomas Deng,Thomas Deng,single
+245,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Harry Souttar,3500000.0,False,working,False,Harry Souttar,Harry Souttar,single
+246,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,FAIL,Ryan Williams,0,True,Online Lookup Required,False,Ryan Williams,Dylan Pierias,single
+247,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Connor Metcalfe,300000.0,False,working,False,Connor Metcalfe,Connor Metcalfe,single
+248,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Joel King,250000.0,False,working,False,Joel King,Joel King,single
+249,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,FAIL,0,0,True,Lookup Required,False,0,Lachlan Wales,none
+250,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Denis Genreau,400000.0,False,working,False,Denis Genreau,Denis Genreau,single
+251,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Marco Tilio,100000.0,False,working,False,Marco Tilio,Marco Tilio,single
+252,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Australia,AU,2021,SUCCESS,Nick D'Agostino,350000.0,False,working,False,Nick D'Agostino,Nicholas D'Agostino,single
+253,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Mohamed El Shenawy,2500000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+254,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Akram Tawfik,400000.0,False,working,False,Akram Tawfik,Akram Tawfik,single
+255,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,Ahmed Hegazi,single
+256,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Ahmed Fatouh,800000.0,False,working,False,Ahmed Fatouh,Ahmed Abou El Fotouh,single
+257,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,FAIL,Omar El Said,0,True,Online Lookup Required,False,Omar El Said,Karim El Eraki,single
+258,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Osama Galal,300000.0,False,working,False,Osama Galal,Osama Galal,single
+259,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Mahmoud Hamada,300000.0,False,working,False,Mahmoud Hamada,Mahmoud Hamdy,single
+260,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Ramadan Sobhi,3000000.0,False,working,False,Ramadan Sobhi,Ramadan Sobhi,single
+261,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,FAIL,Taher Mohamed,0,True,Was in  DB before or after season,True,Taher Mohamed,Taher Mohamed,single
+262,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,SUCCESS,Ahmed Yasser Rayan,1000000.0,False,Used Large Dataset,False,Ahmed Yasser Rayan,Ahmed Yasser Rayyan,single
+263,1377,"Olympics, 2020",Australia vs Egypt,2021-07-28,Egypt,EG,2021,FAIL,Salah Mohsen,0,True,Online Lookup Required,False,Salah Mohsen,Salah Mohsen,single
+264,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+265,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Óscar Gil,3000000.0,False,Used Large Dataset,False,Óscar Gil,Óscar Gil,single
+266,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+267,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+268,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Marc Cucurella,28000000.0,False,Used Large Dataset,False,Marc Cucurella,Marc Cucurella,single
+269,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Martín Zubimendi,30000000.0,False,Used Large Dataset,False,Martín Zubimendi,Martín Zubimendi,single
+270,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Mikel Merino,50000000.0,False,Used Large Dataset,False,Mikel Merino,Mikel Merino,single
+271,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+272,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+273,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Marco Asensio,40000000.0,False,working,False,Marco Asensio,Marco Asensio,single
+274,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+275,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeremías Ledesma,none
+276,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,Guido Herrera,0,True,Online Lookup Required,False,Guido Herrera,Marcelo Herrera,single
+277,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,SUCCESS,Nehuén Pérez,6000000.0,False,Used Large Dataset,False,Nehuén Pérez,Nehuén Pérez,single
+278,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,SUCCESS,Facundo Medina,11000000.0,False,Used Large Dataset,False,Facundo Medina,Facundo Medina,single
+279,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Claudio Bravo,none
+280,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Fausto Vera,none
+281,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,0,0,True,Lookup Required,False,0,Tomás Belmonte,none
+282,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,SUCCESS,Alexis Mac Allister,11000000.0,False,working,False,Alexis Mac Allister,Alexis Mac Allister,single
+283,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,Agustín Orión,0,True,Online Lookup Required,False,Agustín Orión,Agustín Urzi,single
+284,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,FAIL,Ezequiel Garay,0,True,Online Lookup Required,False,Ezequiel Garay,Ezequiel Barco,single
+285,1378,"Olympics, 2020",Spain vs Argentina,2021-07-28,Argentina,AR,2021,SUCCESS,Adolfo Gaich,0,False,Not in either dataset for currect season but present in both seasons around match,True,Adolfo Gaich,Adolfo Gaich,single
+286,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Ira Tapé,50000.0,False,working,False,Ira Tapé,Ira Eliezer Tapé,single
+287,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Wilfried Singo,6000000.0,False,working,False,Wilfried Singo,Wilfried Singo,single
+288,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Kouadio-Yves Dabila,900000.0,False,Used Large Dataset,False,Kouadio-Yves Dabila,Kouadio-Yves Dabila,single
+289,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Eric Bailly,17500000.0,False,working,False,Eric Bailly,Eric Bailly,single
+290,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Ismaël Diallo,700000.0,False,working,False,Ismaël Diallo,Ismaël Diallo,single
+291,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Eboue Kouassi,1500000.0,False,Used Large Dataset,False,Eboue Kouassi,Eboue Kouassi,single
+292,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Idrissa Doumbia,4000000.0,False,working,False,Idrissa Doumbia,Idrissa Doumbia,single
+293,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Amad Diallo,15000000.0,False,working,False,Amad Diallo,Amad Diallo,single
+294,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Franck Kessié,40000000.0,False,working,False,Franck Kessié,Franck Kessié,single
+295,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Max Gradel,3000000.0,False,working,False,Max Gradel,Max Gradel,single
+296,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Ivory Coast,CI,2021,SUCCESS,Christian Kouamé,14000000.0,False,working,False,Christian Kouamé,Christian Kouamé,single
+297,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Mohammed Al-Rubaie,650000.0,False,working,False,Mohammed Al-Rubaie,Mohammed Al Rubaie,single
+298,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Saud Abdulhamid,250000.0,False,working,False,Saud Abdulhamid,Saud Abdulhamid,single
+299,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Abdulelah Al-Amri,25000.0,False,working,False,Abdulelah Al-Amri,Abdulelah Al-Amri,single
+300,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,FAIL,Abdulbasit Hawswi,0,True,Was in  DB before or after season,True,Abdulbasit Hawswi,Abdulbasit Hindi,single
+301,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Yasser Al-Shahrani,2200000.0,False,working,False,Yasser Al-Shahrani,Yasser Al-Shahrani,single
+302,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Salman Al-Faraj,1600000.0,False,working,False,Salman Al-Faraj,Salman Al-Faraj,single
+303,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Ali Al-Hassan,475000.0,False,working,False,Ali Al-Hassan,Ali Al-Hassan,single
+304,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Ayman Yahya,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ayman Yahya,Ayman Yahya,single
+305,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Sami Al-Najei,50000.0,False,working,False,Sami Al-Najei,Sami Al-Najei,single
+306,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Salem Al-Dawsari,3100000.0,False,working,False,Salem Al-Dawsari,Salem Al-Dawsari,single
+307,1379,"Olympics, 2020",Ivory Coast vs Saudi Arabia,2021-07-22,Saudi Arabia,SA,2021,SUCCESS,Abdullah Al-Hamdan,625000.0,False,working,False,Abdullah Al-Hamdan,Abdullah Al-Hamdan,single
+308,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+309,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+310,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+311,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+312,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+313,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+314,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+315,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+316,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+317,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+318,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,SUCCESS,Matheus Cunha,32000000.0,False,working,False,Matheus Cunha,Matheus Cunha,single
+319,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Florian Neuhaus,28000000.0,False,working,False,Florian Neuhaus,Florian Müller,single
+320,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Benjamin Henrichs,12000000.0,False,working,False,Benjamin Henrichs,Benjamin Henrichs,single
+321,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Amos Pieper,none
+322,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Felix Uduokhai,10000000.0,False,Used Large Dataset,False,Felix Uduokhai,Felix Uduokhai,single
+323,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,David Raum,800000.0,False,working,False,David Raum,David Raum,single
+324,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Arne Maier,none
+325,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Anton Stach,200000.0,False,working,False,Anton Stach,Anton Stach,single
+326,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Maximilian Arnold,17000000.0,False,Used Large Dataset,False,Maximilian Arnold,Maximilian Arnold,single
+327,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Marco Reus,11000000.0,False,Used Large Dataset,False,Marco Reus,Marco Richter,single
+328,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Max Kruse,3500000.0,False,Used Large Dataset,False,Max Kruse,Max Kruse,single
+329,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Germany,DE,2021,SUCCESS,Nadiem Amiri,8000000.0,False,Used Large Dataset,False,Nadiem Amiri,Nadiem Amiri,single
+330,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+331,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+332,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+333,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+334,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+335,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+336,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+337,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+338,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Matheus Cunha,32000000.0,False,working,False,Matheus Cunha,Matheus Cunha,single
+339,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+340,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+341,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Ira Tapé,50000.0,False,working,False,Ira Tapé,Ira Eliezer Tapé,single
+342,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Wilfried Singo,6000000.0,False,working,False,Wilfried Singo,Wilfried Singo,single
+343,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Eric Bailly,17500000.0,False,working,False,Eric Bailly,Eric Bailly,single
+344,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Kouadio-Yves Dabila,900000.0,False,Used Large Dataset,False,Kouadio-Yves Dabila,Kouadio-Yves Dabila,single
+345,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,"['Kalpi Ouattara', 'Ousmane Ouattara']",250000.0,False,working,False,"['Kalpi Ouattara', 'Ousmane Ouattara']",Zié Ouattara,multiple
+346,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Ismaël Diallo,700000.0,False,working,False,Ismaël Diallo,Ismaël Diallo,single
+347,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Amad Diallo,15000000.0,False,working,False,Amad Diallo,Amad Diallo,single
+348,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Eboue Kouassi,1500000.0,False,Used Large Dataset,False,Eboue Kouassi,Eboue Kouassi,single
+349,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Franck Kessié,40000000.0,False,working,False,Franck Kessié,Franck Kessié,single
+350,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,SUCCESS,Max Gradel,3000000.0,False,working,False,Max Gradel,Max Gradel,single
+351,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Ivory Coast,CI,2021,FAIL,0,0,True,Lookup Required,False,0,Youssouf Dao,none
+352,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Mohammed Al-Rubaie,650000.0,False,working,False,Mohammed Al-Rubaie,Mohammed Al Rubaie,single
+353,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Saud Abdulhamid,250000.0,False,working,False,Saud Abdulhamid,Saud Abdulhamid,single
+354,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Abdulelah Al-Amri,25000.0,False,working,False,Abdulelah Al-Amri,Abdulelah Al-Amri,single
+355,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,FAIL,Abdulbasit Hawswi,0,True,Was in  DB before or after season,True,Abdulbasit Hawswi,Abdulbasit Hindi,single
+356,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Yasser Al-Shahrani,2200000.0,False,working,False,Yasser Al-Shahrani,Yasser Al-Shahrani,single
+357,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Ali Al-Hassan,475000.0,False,working,False,Ali Al-Hassan,Ali Al-Hassan,single
+358,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Salman Al-Faraj,1600000.0,False,working,False,Salman Al-Faraj,Salman Al-Faraj,single
+359,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,FAIL,Ayman Al-Khulaif,0,True,Online Lookup Required,False,Ayman Al-Khulaif,Ayman Al-Khulaif,single
+360,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Sami Al-Najei,50000.0,False,working,False,Sami Al-Najei,Sami Al-Najei,single
+361,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Salem Al-Dawsari,3100000.0,False,working,False,Salem Al-Dawsari,Salem Al-Dawsari,single
+362,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Saudi Arabia,SA,2021,SUCCESS,Abdullah Al-Hamdan,625000.0,False,working,False,Abdullah Al-Hamdan,Abdullah Al-Hamdan,single
+363,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,Florian Neuhaus,28000000.0,False,working,False,Florian Neuhaus,Florian Müller,single
+364,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,Benjamin Henrichs,12000000.0,False,working,False,Benjamin Henrichs,Benjamin Henrichs,single
+365,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Amos Pieper,none
+366,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,Felix Uduokhai,10000000.0,False,Used Large Dataset,False,Felix Uduokhai,Felix Uduokhai,single
+367,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,David Raum,800000.0,False,working,False,David Raum,David Raum,single
+368,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Arne Maier,none
+369,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Eduard Löwen,none
+370,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Ragnar Ache,none
+371,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,Nadiem Amiri,8000000.0,False,Used Large Dataset,False,Nadiem Amiri,Nadiem Amiri,single
+372,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Cedric Teuchert,none
+373,1382,"Olympics, 2020",Saudi Arabia vs Germany,2021-07-25,Germany,DE,2021,SUCCESS,Max Kruse,3500000.0,False,Used Large Dataset,False,Max Kruse,Max Kruse,single
+374,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Amin Al-Bukhari,75000.0,False,working,False,Amin Al-Bukhari,Amin Bukhari,single
+375,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Abdulelah Al-Amri,25000.0,False,working,False,Abdulelah Al-Amri,Abdulelah Al-Amri,single
+376,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Khalifah Al-Dawsari,75000.0,False,Data Ended before season : 2021,False,Khalifah Al-Dawsari,Khalifah Al-Dawsari,single
+377,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,FAIL,Abdulbasit Hawswi,0,True,Was in  DB before or after season,True,Abdulbasit Hawswi,Abdulbasit Hindi,single
+378,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Saud Abdulhamid,250000.0,False,working,False,Saud Abdulhamid,Saud Abdulhamid,single
+379,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Yasser Al-Shahrani,2200000.0,False,working,False,Yasser Al-Shahrani,Yasser Al-Shahrani,single
+380,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Sami Al-Najei,50000.0,False,working,False,Sami Al-Najei,Sami Al-Najei,single
+381,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Ali Al-Hassan,475000.0,False,working,False,Ali Al-Hassan,Ali Al-Hassan,single
+382,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Salman Al-Faraj,1600000.0,False,working,False,Salman Al-Faraj,Salman Al-Faraj,single
+383,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Salem Al-Dawsari,3100000.0,False,working,False,Salem Al-Dawsari,Salem Al-Dawsari,single
+384,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Saudi Arabia,SA,2021,SUCCESS,Abdullah Al-Hamdan,625000.0,False,working,False,Abdullah Al-Hamdan,Abdullah Al-Hamdan,single
+385,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+386,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+387,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+388,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+389,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+390,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Matheus Henrique,11000000.0,False,Used Large Dataset,False,Matheus Henrique,Matheus Henrique,single
+391,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+392,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+393,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Matheus Cunha,32000000.0,False,working,False,Matheus Cunha,Matheus Cunha,single
+394,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+395,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+396,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Florian Neuhaus,28000000.0,False,working,False,Florian Neuhaus,Florian Müller,single
+397,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Benjamin Henrichs,12000000.0,False,working,False,Benjamin Henrichs,Benjamin Henrichs,single
+398,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,FAIL,0,0,True,Lookup Required,False,0,Jordan Torunarigha,none
+399,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Felix Uduokhai,10000000.0,False,Used Large Dataset,False,Felix Uduokhai,Felix Uduokhai,single
+400,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,David Raum,800000.0,False,working,False,David Raum,David Raum,single
+401,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Arne Maier,none
+402,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Maximilian Arnold,17000000.0,False,Used Large Dataset,False,Maximilian Arnold,Maximilian Arnold,single
+403,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Marco Reus,11000000.0,False,Used Large Dataset,False,Marco Reus,Marco Richter,single
+404,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Max Kruse,3500000.0,False,Used Large Dataset,False,Max Kruse,Max Kruse,single
+405,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,SUCCESS,Nadiem Amiri,8000000.0,False,Used Large Dataset,False,Nadiem Amiri,Nadiem Amiri,single
+406,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Germany,DE,2021,FAIL,0,0,True,Online Lookup Required,False,0,Ragnar Ache,none
+407,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Ira Tapé,50000.0,False,working,False,Ira Tapé,Ira Eliezer Tapé,single
+408,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Wilfried Singo,6000000.0,False,working,False,Wilfried Singo,Wilfried Singo,single
+409,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Eric Bailly,17500000.0,False,working,False,Eric Bailly,Eric Bailly,single
+410,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Kouadio-Yves Dabila,900000.0,False,Used Large Dataset,False,Kouadio-Yves Dabila,Kouadio-Yves Dabila,single
+411,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Ismaël Diallo,700000.0,False,working,False,Ismaël Diallo,Ismaël Diallo,single
+412,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Idrissa Doumbia,4000000.0,False,working,False,Idrissa Doumbia,Idrissa Doumbia,single
+413,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,FAIL,0,0,True,Lookup Required,False,0,Kader Keïta,none
+414,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Christian Kouamé,14000000.0,False,working,False,Christian Kouamé,Christian Kouamé,single
+415,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Franck Kessié,40000000.0,False,working,False,Franck Kessié,Franck Kessié,single
+416,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,SUCCESS,Max Gradel,3000000.0,False,working,False,Max Gradel,Max Gradel,single
+417,1384,"Olympics, 2020",Germany vs Ivory Coast,2021-07-28,Ivory Coast,CI,2021,FAIL,0,0,True,Lookup Required,False,0,Youssouf Dao,none
+418,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+419,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Óscar Mingueza,6000000.0,False,Used Large Dataset,False,Óscar Mingueza,Óscar Mingueza,single
+420,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+421,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+422,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Juan Miranda,5000000.0,False,Used Large Dataset,False,Juan Miranda,Juan Miranda,single
+423,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Martín Zubimendi,30000000.0,False,Used Large Dataset,False,Martín Zubimendi,Martín Zubimendi,single
+424,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Mikel Merino,50000000.0,False,Used Large Dataset,False,Mikel Merino,Mikel Merino,single
+425,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+426,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+427,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Marco Asensio,40000000.0,False,working,False,Marco Asensio,Marco Asensio,single
+428,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+429,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Ira Tapé,50000.0,False,working,False,Ira Tapé,Ira Eliezer Tapé,single
+430,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Wilfried Singo,6000000.0,False,working,False,Wilfried Singo,Wilfried Singo,single
+431,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Eric Bailly,17500000.0,False,working,False,Eric Bailly,Eric Bailly,single
+432,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Kouadio-Yves Dabila,900000.0,False,Used Large Dataset,False,Kouadio-Yves Dabila,Kouadio-Yves Dabila,single
+433,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Ismaël Diallo,700000.0,False,working,False,Ismaël Diallo,Ismaël Diallo,single
+434,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,FAIL,Cheik Tioté,0,True,Online Lookup Required,False,Cheik Tioté,Cheick Timité,single
+435,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Eboue Kouassi,1500000.0,False,Used Large Dataset,False,Eboue Kouassi,Eboue Kouassi,single
+436,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Franck Kessié,40000000.0,False,working,False,Franck Kessié,Franck Kessié,single
+437,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Max Gradel,3000000.0,False,working,False,Max Gradel,Max Gradel,single
+438,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,SUCCESS,Christian Kouamé,14000000.0,False,working,False,Christian Kouamé,Christian Kouamé,single
+439,1385,"Olympics, 2020",Spain vs Ivory Coast,2021-07-31,Ivory Coast,CI,2021,FAIL,0,0,True,Lookup Required,False,0,Youssouf Dao,none
+440,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+441,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Daiki Hashioka,0,False,Not in either dataset for currect season but present in both seasons around match,True,Daiki Hashioka,Daiki Hashioka,single
+442,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+443,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Takehiro Tomiyasu,18000000.0,False,working,False,Takehiro Tomiyasu,Takehiro Tomiyasu,single
+444,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+445,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+446,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Reo Hatate,50000.0,False,working,False,Reo Hatate,Reo Hatate,single
+447,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+448,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Yuki Soma,400000.0,False,working,False,Yuki Soma,Yuki Soma,single
+449,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+450,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,Japan,JP,2021,FAIL,Daichi Hayashi,0,True,Online Lookup Required,False,Daichi Hayashi,Daichi Hayashi,single
+451,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Michael Woud,450000.0,False,working,False,Michael Woud,Michael Woud,single
+452,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,FAIL,0,0,True,Lookup Required,False,0,Gianni Stensness,none
+453,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Winston Reid,600000.0,False,working,False,Winston Reid,Winston Reid,single
+454,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Nando Pijnaker,150000.0,False,working,False,Nando Pijnaker,Nando Pijnaker,single
+455,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Joe Bell,1500000.0,False,working,False,Joe Bell,Joe Bell,single
+456,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,FAIL,Callan Elliot,0,True,Was in  DB before or after season,True,Callan Elliot,Callan Elliot,single
+457,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Matthew Garbett,150000.0,False,working,False,Matthew Garbett,Matthew Garbett,single
+458,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Clayton Lewis,450000.0,False,working,False,Clayton Lewis,Clayton Lewis,single
+459,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Liberato Cacace,2500000.0,False,working,False,Liberato Cacace,Liberato Cacace,single
+460,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Chris Wood,10000000.0,False,working,False,Chris Wood,Chris Wood,single
+461,1386,"Olympics, 2020",Japan vs New Zealand,2021-07-31,New Zealand,NZ,2021,SUCCESS,Ben Waine,450000.0,False,working,False,Ben Waine,Ben Waine,single
+462,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+463,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+464,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+465,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+466,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+467,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+468,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+469,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+470,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+471,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Matheus Cunha,32000000.0,False,working,False,Matheus Cunha,Matheus Cunha,single
+472,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+473,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Mohamed El Shenawy,2500000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+474,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Osama Galal,300000.0,False,working,False,Osama Galal,Osama Galal,single
+475,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,Ahmed Hegazi,single
+476,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Mahmoud Hamada,300000.0,False,working,False,Mahmoud Hamada,Mahmoud Hamdy,single
+477,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Akram Tawfik,400000.0,False,working,False,Akram Tawfik,Akram Tawfik,single
+478,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Ahmed Fatouh,800000.0,False,working,False,Ahmed Fatouh,Ahmed Abou El Fotouh,single
+479,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,FAIL,Omar El Said,0,True,Online Lookup Required,False,Omar El Said,Karim El Eraki,single
+480,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,FAIL,Amar Hamdy,0,True,Online Lookup Required,False,Amar Hamdy,Amar Hamdy,single
+481,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Ramadan Sobhi,3000000.0,False,working,False,Ramadan Sobhi,Ramadan Sobhi,single
+482,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,FAIL,Taher Mohamed,0,True,Was in  DB before or after season,True,Taher Mohamed,Taher Mohamed,single
+483,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Egypt,EG,2021,SUCCESS,Ahmed Yasser Rayan,1000000.0,False,Used Large Dataset,False,Ahmed Yasser Rayan,Ahmed Yasser Rayyan,single
+484,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,Bum-keun Song,800000.0,False,working,False,Bum-keun Song,Song Bum-keun,single
+485,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,"['Young-wook Cho', 'Young-woo Seol']",500000.0,False,working,False,"['Young-wook Cho', 'Young-woo Seol']",Seol Young-woo,multiple
+486,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Jeong Tae-uk,none
+487,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,FAIL,Ji-soo Kim,0,True,Was in  DB before or after season,True,Ji-soo Kim,Park Ji-soo,single
+488,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kang Yoon-sung,none
+489,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,FAIL,Dong-hyun Seo,0,True,Online Lookup Required,False,Dong-hyun Seo,Kim Dong-hyun,single
+490,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,FAIL,0,0,True,Lookup Required,False,0,Kim Jin-ya,none
+491,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,Jin-gyu Kim,325000.0,False,working,False,Jin-gyu Kim,Kim Jin-gyu,single
+492,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,"['Dong-jun Lee', 'Dong-jun Kim']",650000.0,False,working,False,"['Dong-jun Lee', 'Dong-jun Kim']",Lee Dong-jun,multiple
+493,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,Ui-jo Hwang,2500000.0,False,working,False,Ui-jo Hwang,Hwang Ui-jo,single
+494,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,South Korea,KR,2021,SUCCESS,Dong-gyeong Lee,600000.0,False,working,False,Dong-gyeong Lee,Lee Dong-gyeong,single
+495,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+496,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Jorge Sánchez,3500000.0,False,working,False,Jorge Sánchez,Jorge Sánchez,single
+497,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+498,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Johan Vásquez,5000000.0,False,working,False,Johan Vásquez,Johan Vásquez,single
+499,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Vladímir Loroña,1800000.0,False,working,False,Vladímir Loroña,Vladimir Loroña,single
+500,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+501,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,José Esquivel,2000000.0,False,working,False,José Esquivel,José Joaquín Esquivel,single
+502,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Uriel Antuna,4500000.0,False,working,False,Uriel Antuna,Uriel Antuna,single
+503,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+504,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+505,1388,"Olympics, 2020",South Korea vs Mexico,2021-07-31,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+506,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+507,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Vladímir Loroña,1800000.0,False,working,False,Vladímir Loroña,Vladimir Loroña,single
+508,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+509,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Johan Vásquez,5000000.0,False,working,False,Johan Vásquez,Johan Vásquez,single
+510,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Jesús Angulo,3500000.0,False,working,False,Jesús Angulo,Jesús Alberto Angulo,single
+511,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+512,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,José Esquivel,2000000.0,False,working,False,José Esquivel,José Joaquín Esquivel,single
+513,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+514,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Uriel Antuna,4500000.0,False,working,False,Uriel Antuna,Uriel Antuna,single
+515,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+516,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+517,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+518,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+519,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+520,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+521,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+522,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+523,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+524,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+525,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+526,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Paulinho,11000000.0,False,Used Large Dataset,False,Paulinho,Paulinho,single
+527,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+528,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+529,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Hiroki Sakai,5500000.0,False,working,False,Hiroki Sakai,Hiroki Sakai,single
+530,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+531,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Ko Itakura,800000.0,False,working,False,Ko Itakura,Ko Itakura,single
+532,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Yuta Nakayama,800000.0,False,working,False,Yuta Nakayama,Yuta Nakayama,single
+533,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+534,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+535,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Reo Hatate,50000.0,False,working,False,Reo Hatate,Reo Hatate,single
+536,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+537,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+538,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Japan,JP,2021,FAIL,Daichi Hayashi,0,True,Online Lookup Required,False,Daichi Hayashi,Daichi Hayashi,single
+539,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+540,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Óscar Gil,3000000.0,False,Used Large Dataset,False,Óscar Gil,Óscar Gil,single
+541,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+542,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+543,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Marc Cucurella,28000000.0,False,Used Large Dataset,False,Marc Cucurella,Marc Cucurella,single
+544,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Martín Zubimendi,30000000.0,False,Used Large Dataset,False,Martín Zubimendi,Martín Zubimendi,single
+545,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Mikel Merino,50000000.0,False,Used Large Dataset,False,Mikel Merino,Mikel Merino,single
+546,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+547,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+548,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+549,1390,"Olympics, 2020",Japan vs Spain,2021-08-03,Spain,ES,2021,SUCCESS,Juan Miranda,5000000.0,False,Used Large Dataset,False,Juan Miranda,Rafa Mir,single
+550,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,Guillermo Ochoa,single
+551,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Jorge Sánchez,3500000.0,False,working,False,Jorge Sánchez,Jorge Sánchez,single
+552,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,César Montes,6000000.0,False,working,False,César Montes,César Montes,single
+553,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Johan Vásquez,5000000.0,False,working,False,Johan Vásquez,Johan Vásquez,single
+554,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Jesús Angulo,3500000.0,False,working,False,Jesús Angulo,Jesús Alberto Angulo,single
+555,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Luis Romo,6000000.0,False,working,False,Luis Romo,Luis Romo,single
+556,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,Carlos Rodríguez,single
+557,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Sebastián Córdova,4000000.0,False,working,False,Sebastián Córdova,Sebastián Córdova,single
+558,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Diego Lainez,5000000.0,False,working,False,Diego Lainez,Diego Lainez,single
+559,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Henry Martín,3500000.0,False,working,False,Henry Martín,Henry Martín,single
+560,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Mexico,MX,2021,SUCCESS,Alexis Vega,4500000.0,False,working,False,Alexis Vega,Alexis Vega,single
+561,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Kosei Tani,100000.0,False,working,False,Kosei Tani,Kosei Tani,single
+562,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Hiroki Sakai,5500000.0,False,working,False,Hiroki Sakai,Hiroki Sakai,single
+563,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Maya Yoshida,3800000.0,False,working,False,Maya Yoshida,Maya Yoshida,single
+564,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Takehiro Tomiyasu,18000000.0,False,working,False,Takehiro Tomiyasu,Takehiro Tomiyasu,single
+565,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Yuta Nakayama,800000.0,False,working,False,Yuta Nakayama,Yuta Nakayama,single
+566,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Wataru Endo,6000000.0,False,working,False,Wataru Endo,Wataru Endō,single
+567,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Ao Tanaka,900000.0,False,working,False,Ao Tanaka,Ao Tanaka,single
+568,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Takefusa Kubo,30000000.0,False,working,False,Takefusa Kubo,Takefusa Kubo,single
+569,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Ritsu Doan,6300000.0,False,working,False,Ritsu Doan,Ritsu Dōan,single
+570,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,SUCCESS,Yuki Soma,400000.0,False,working,False,Yuki Soma,Yuki Soma,single
+571,1391,"Olympics, 2020",Mexico vs Japan,2021-08-06,Japan,JP,2021,FAIL,Daichi Hayashi,0,True,Online Lookup Required,False,Daichi Hayashi,Daichi Hayashi,single
+572,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Santos,2000000.0,False,Data Ended before season : 2021,False,Santos,Aderbar Santos,single
+573,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Dani Alves,1600000.0,False,working,False,Dani Alves,Dani Alves,single
+574,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Nino,0,False,Not in either dataset for currect season but present in both seasons around match,True,Nino,Nino,single
+575,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Diego Carlos,40000000.0,False,Used Large Dataset,False,Diego Carlos,Diego Carlos,single
+576,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Guilherme Arana,5000000.0,False,working,False,Guilherme Arana,Guilherme Arana,single
+577,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Douglas Luiz,38000000.0,False,Used Large Dataset,False,Douglas Luiz,Douglas Luiz,single
+578,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Bruno Guimarães,28000000.0,False,working,False,Bruno Guimarães,Bruno Guimarães,single
+579,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Antony,18000000.0,False,working,False,Antony,Antony,single
+580,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",0,True,"Olympics row. Couldn't filter names using Transfermarkt. remaining matches were ['Paulinho', 'Marquinhos', 'Fabinho']",False,"['Paulinho', 'Marquinhos', 'Fabinho']",Claudinho,multiple
+581,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Matheus Cunha,32000000.0,False,working,False,Matheus Cunha,Matheus Cunha,single
+582,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,SUCCESS,Richarlison,60000000.0,False,working,False,Richarlison,Richarlison,single
+583,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,Unai Simón,single
+584,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Óscar Gil,3000000.0,False,Used Large Dataset,False,Óscar Gil,Óscar Gil,single
+585,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,Eric García,single
+586,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Pau Torres,single
+587,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Marc Cucurella,28000000.0,False,Used Large Dataset,False,Marc Cucurella,Marc Cucurella,single
+588,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Martín Zubimendi,30000000.0,False,Used Large Dataset,False,Martín Zubimendi,Martín Zubimendi,single
+589,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Mikel Merino,50000000.0,False,Used Large Dataset,False,Mikel Merino,Mikel Merino,single
+590,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+591,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Dani Olmo,single
+592,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Mikel Oyarzabal,single
+593,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Spain,ES,2021,SUCCESS,Marco Asensio,40000000.0,False,working,False,Marco Asensio,Marco Asensio,single
+594,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+595,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Kevin Mbabu,6500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+596,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Nico Elvedi,28000000.0,False,working,False,Nico Elvedi,Elvedi,single
+597,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+598,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+599,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+600,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+601,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+602,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Remo Freuler,20000000.0,False,Used Large Dataset,False,Remo Freuler,Freuler,single
+603,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Xherdan Shaqiri,16000000.0,False,Used Large Dataset,False,Xherdan Shaqiri,X Shaqiri,single
+604,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,Switzerland,CH,2019,SUCCESS,Haris Seferovic,12000000.0,False,working,False,Haris Seferovic,Seferovic,single
+605,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Jordan Pickford,28000000.0,False,working,False,Jordan Pickford,Pickford,single
+606,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Eric Dier,20000000.0,False,Used Large Dataset,False,Eric Dier,Dier,single
+607,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Harry Maguire,56000000.0,False,working,False,Harry Maguire,Maguire,single
+608,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Joe Gomez,33500000.0,False,Used Large Dataset,False,Joe Gomez,Gomez,single
+609,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Danny Rose,16000000.0,False,working,False,Danny Rose,Rose,single
+610,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Raheem Sterling,128000000.0,False,working,False,Raheem Sterling,Sterling,single
+611,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Fabian Delph,12000000.0,False,Used Large Dataset,False,Fabian Delph,Delph,single
+612,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Dele Alli,64000000.0,False,Used Large Dataset,False,Dele Alli,Alli,single
+613,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Trent Alexander-Arnold,99000000.0,False,working,False,Trent Alexander-Arnold,Alexander-Arnold,single
+614,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Jesse Lingard,17500000.0,False,Used Large Dataset,False,Jesse Lingard,Lingard,single
+615,1394,Nations League 2018-2020,Switzerland vs England,09.06.19,England,EN,2019,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+616,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+617,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+618,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+619,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,José Fonte,1200000.0,False,working,False,José Fonte,J Fonte,single
+620,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Nélson Semedo,32000000.0,False,working,False,Nélson Semedo,N Semedo,single
+621,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,William Carvalho,16000000.0,False,working,False,William Carvalho,W Carvalho,single
+622,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+623,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+624,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+625,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+626,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Portugal,PT,2019,SUCCESS,Gonçalo Guedes,22500000.0,False,working,False,Gonçalo Guedes,G Guedes,single
+627,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+628,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+629,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+630,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+631,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+632,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luuk de Jong', 'Frenkie de Jong']",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+633,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+634,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+635,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+636,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+637,1395,Nations League 2018-2020,Portugal vs Netherlands,09.06.19,Netherlands,NL,2019,SUCCESS,Steven Bergwijn,28000000.0,False,Used Large Dataset,False,Steven Bergwijn,Bergwijn,single
+638,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Rui Patrício,16000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+639,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Pepe,800000.0,False,working,False,Pepe,Pepe,single
+640,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Rúben Dias,30500000.0,False,working,False,Rúben Dias,R Dias,single
+641,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Raphaël Guerreiro,28000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+642,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,William Carvalho,16000000.0,False,working,False,William Carvalho,W Carvalho,single
+643,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Nélson Semedo,32000000.0,False,working,False,Nélson Semedo,N Semedo,single
+644,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+645,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Bruno Fernandes,48000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+646,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+647,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,João Félix,81000000.0,False,working,False,João Félix,J Félix,single
+648,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Portugal,PT,2019,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+649,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+650,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Kevin Mbabu,6500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+651,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Manuel Akanji,20000000.0,False,working,False,Manuel Akanji,Akanji,single
+652,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Ricardo Rodríguez,5500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+653,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Fabian Schär,13000000.0,False,Used Large Dataset,False,Fabian Schär,Schär,single
+654,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Granit Xhaka,24000000.0,False,working,False,Granit Xhaka,Xhaka,single
+655,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Denis Zakaria,36000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+656,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Remo Freuler,20000000.0,False,Used Large Dataset,False,Remo Freuler,Freuler,single
+657,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Xherdan Shaqiri,16000000.0,False,Used Large Dataset,False,Xherdan Shaqiri,X Shaqiri,single
+658,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Haris Seferovic,12000000.0,False,working,False,Haris Seferovic,Seferovic,single
+659,1396,Nations League 2018-2020,Portugal vs Switzerland,05.06.19,Switzerland,CH,2019,SUCCESS,Steven Zuber,4500000.0,False,Used Large Dataset,False,Steven Zuber,Zuber,single
+660,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Jasper Cillessen,14500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+661,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Matthijs de Ligt,67500000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+662,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Virgil van Dijk,80000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+663,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Denzel Dumfries,12000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+664,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+665,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luuk de Jong', 'Frenkie de Jong']]",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+666,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+667,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Marten de Roon,19000000.0,False,working,False,Marten de Roon,de Roon,single
+668,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Ryan Babel,2000000.0,False,Used Large Dataset,False,Ryan Babel,Babel,single
+669,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Memphis Depay,44000000.0,False,Used Large Dataset,False,Memphis Depay,Depay,single
+670,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,Netherlands,NL,2019,SUCCESS,Steven Bergwijn,28000000.0,False,Used Large Dataset,False,Steven Bergwijn,Bergwijn,single
+671,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Jordan Pickford,28000000.0,False,working,False,Jordan Pickford,Pickford,single
+672,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Kyle Walker,40000000.0,False,Used Large Dataset,False,Kyle Walker,Walker,single
+673,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,John Stones,36000000.0,False,working,False,John Stones,Stones,single
+674,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Harry Maguire,56000000.0,False,working,False,Harry Maguire,Maguire,single
+675,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Ben Chilwell,40000000.0,False,working,False,Ben Chilwell,Chilwell,single
+676,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Raheem Sterling,128000000.0,False,working,False,Raheem Sterling,Sterling,single
+677,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Declan Rice,49500000.0,False,working,False,Declan Rice,Rice,single
+678,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Fabian Delph,12000000.0,False,Used Large Dataset,False,Fabian Delph,Delph,single
+679,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Ross Barkley,21500000.0,False,Used Large Dataset,False,Ross Barkley,Barkley,single
+680,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Jadon Sancho,117000000.0,False,working,False,Jadon Sancho,Sancho,single
+681,1397,Nations League 2018-2020,Netherlands vs England,06.06.19,England,EN,2019,SUCCESS,Marcus Rashford,64000000.0,False,working,False,Marcus Rashford,Rashford,single
+682,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+683,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+684,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Antonio Rüdiger,50000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+685,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Jérôme Boateng,20000000.0,False,working,False,Jérôme Boateng,Boateng,single
+686,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+687,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Leon Goretzka,50000000.0,False,working,False,Leon Goretzka,Goretzka,single
+688,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+689,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+690,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+691,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+692,1398,Nations League 2018-2020,Germany vs France,06.09.18,Germany,DE,2018,SUCCESS,Marco Reus,50000000.0,False,working,False,Marco Reus,Reus,single
+693,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Alphonse Areola,17500000.0,False,working,False,Alphonse Areola,Areola,single
+694,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Benjamin Pavard,30000000.0,False,working,False,Benjamin Pavard,Pavard,single
+695,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+696,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Samuel Umtiti,45000000.0,False,working,False,Samuel Umtiti,Umtiti,single
+697,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Lucas Hernández,70000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+698,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Paul Pogba,100000000.0,False,working,False,Paul Pogba,Pogba,single
+699,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+700,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Blaise Matuidi,22000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+701,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+702,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+703,1398,Nations League 2018-2020,Germany vs France,06.09.18,France,FR,2018,SUCCESS,Kylian Mbappé,200000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+704,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Alphonse Areola,17500000.0,False,working,False,Alphonse Areola,Areola,single
+705,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Benjamin Pavard,30000000.0,False,working,False,Benjamin Pavard,Pavard,single
+706,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+707,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Samuel Umtiti,45000000.0,False,working,False,Samuel Umtiti,Umtiti,single
+708,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Lucas Hernández,70000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+709,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Paul Pogba,100000000.0,False,working,False,Paul Pogba,Pogba,single
+710,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+711,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Blaise Matuidi,22000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+712,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+713,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+714,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,France,FR,2018,SUCCESS,Kylian Mbappé,200000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+715,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Jasper Cillessen,18000000.0,False,working,False,Jasper Cillessen,Cillessen,single
+716,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Kenny Tete,8000000.0,False,working,False,Kenny Tete,Tete,single
+717,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+718,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Virgil van Dijk,90000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+719,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Daley Blind,24000000.0,False,working,False,Daley Blind,Blind,single
+720,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luuk de Jong', 'Frenkie de Jong']",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+721,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Davy Pröpper,15000000.0,False,working,False,Davy Pröpper,Pröpper,single
+722,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Georginio Wijnaldum,50000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+723,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Quincy Promes,18000000.0,False,working,False,Quincy Promes,Promes,single
+724,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Ryan Babel,5000000.0,False,working,False,Ryan Babel,Babel,single
+725,1399,Nations League 2018-2020,France vs Netherlands,09.09.18,Netherlands,NL,2018,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+726,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Jasper Cillessen,18000000.0,False,working,False,Jasper Cillessen,Cillessen,single
+727,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+728,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+729,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Virgil van Dijk,90000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+730,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Daley Blind,24000000.0,False,working,False,Daley Blind,Blind,single
+731,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luuk de Jong', 'Frenkie de Jong']]",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+732,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Georginio Wijnaldum,50000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+733,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Marten de Roon,24000000.0,False,working,False,Marten de Roon,de Roon,single
+734,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Ryan Babel,5000000.0,False,working,False,Ryan Babel,Babel,single
+735,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+736,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Netherlands,NL,2018,SUCCESS,Steven Bergwijn,35000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+737,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+738,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Jonas Hector,10000000.0,False,working,False,Jonas Hector,Hector,single
+739,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+740,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Jérôme Boateng,20000000.0,False,working,False,Jérôme Boateng,Boateng,single
+741,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Emre Can,40000000.0,False,working,False,Emre Can,E Can,single
+742,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+743,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+744,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+745,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+746,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+747,1400,Nations League 2018-2020,Netherlands vs Germany,13.10.18,Germany,DE,2018,SUCCESS,Mark Uth,12000000.0,False,working,False,Mark Uth,Uth,single
+748,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Hugo Lloris,25000000.0,False,working,False,Hugo Lloris,Lloris,single
+749,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Benjamin Pavard,30000000.0,False,working,False,Benjamin Pavard,Pavard,single
+750,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Presnel Kimpembe,30000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+751,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+752,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Lucas Hernández,70000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+753,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Paul Pogba,100000000.0,False,working,False,Paul Pogba,Pogba,single
+754,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+755,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Blaise Matuidi,22000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+756,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+757,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+758,1401,Nations League 2018-2020,France vs Germany,16.10.18,France,FR,2018,SUCCESS,Kylian Mbappé,200000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+759,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+760,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Thilo Kehrer,35000000.0,False,working,False,Thilo Kehrer,Kehrer,single
+761,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+762,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Niklas Süle,60000000.0,False,working,False,Niklas Süle,Süle,single
+763,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+764,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Serge Gnabry,60000000.0,False,working,False,Serge Gnabry,Gnabry,single
+765,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+766,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Nico Schulz,25000000.0,False,working,False,Nico Schulz,Schulz,single
+767,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+768,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Leroy Sané,100000000.0,False,working,False,Leroy Sané,L Sane,single
+769,1401,Nations League 2018-2020,France vs Germany,16.10.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+770,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Jasper Cillessen,18000000.0,False,working,False,Jasper Cillessen,Cillessen,single
+771,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+772,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+773,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Virgil van Dijk,90000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+774,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Daley Blind,24000000.0,False,working,False,Daley Blind,Blind,single
+775,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luuk de Jong', 'Frenkie de Jong']]",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+776,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Georginio Wijnaldum,50000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+777,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Marten de Roon,24000000.0,False,working,False,Marten de Roon,de Roon,single
+778,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Ryan Babel,5000000.0,False,working,False,Ryan Babel,Babel,single
+779,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+780,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,Netherlands,NL,2018,SUCCESS,Steven Bergwijn,35000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+781,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Hugo Lloris,25000000.0,False,working,False,Hugo Lloris,Lloris,single
+782,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Benjamin Pavard,30000000.0,False,working,False,Benjamin Pavard,Pavard,single
+783,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Presnel Kimpembe,30000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+784,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+785,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Lucas Digne,30000000.0,False,working,False,Lucas Digne,Digne,single
+786,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+787,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,FAIL,0,0,True,Lookup Required,False,0,N`Zonzi,none
+788,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Blaise Matuidi,22000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+789,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+790,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+791,1402,Nations League 2018-2020,Netherlands vs France,16.11.18,France,FR,2018,SUCCESS,Kylian Mbappé,200000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+792,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+793,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Thilo Kehrer,35000000.0,False,working,False,Thilo Kehrer,Kehrer,single
+794,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+795,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Niklas Süle,60000000.0,False,working,False,Niklas Süle,Süle,single
+796,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Antonio Rüdiger,50000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+797,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+798,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Nico Schulz,25000000.0,False,working,False,Nico Schulz,Schulz,single
+799,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+800,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Leroy Sané,100000000.0,False,working,False,Leroy Sané,L Sane,single
+801,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Serge Gnabry,60000000.0,False,working,False,Serge Gnabry,Gnabry,single
+802,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+803,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Jasper Cillessen,18000000.0,False,working,False,Jasper Cillessen,Cillessen,single
+804,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Kenny Tete,8000000.0,False,working,False,Kenny Tete,Tete,single
+805,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+806,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Virgil van Dijk,90000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+807,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Daley Blind,24000000.0,False,working,False,Daley Blind,Blind,single
+808,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luuk de Jong', 'Frenkie de Jong']]",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+809,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Georginio Wijnaldum,50000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+810,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Quincy Promes,18000000.0,False,working,False,Quincy Promes,Promes,single
+811,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Marten de Roon,24000000.0,False,working,False,Marten de Roon,de Roon,single
+812,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Ryan Babel,5000000.0,False,working,False,Ryan Babel,Babel,single
+813,1403,Nations League 2018-2020,Germany vs Netherlands,19.11.18,Netherlands,NL,2018,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+814,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+815,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Kevin Mbabu,10000000.0,False,working,False,Kevin Mbabu,Mbabu,single
+816,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Manuel Akanji,40000000.0,False,working,False,Manuel Akanji,Akanji,single
+817,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+818,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+819,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+820,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Denis Zakaria,20000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+821,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+822,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Breel Embolo,14000000.0,False,working,False,Breel Embolo,Embolo,single
+823,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+824,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+825,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+826,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Birkir Már Saevarsson,350000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+827,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Sverrir Ingi Ingason,5000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+828,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+829,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Ari Freyr Skúlason,500000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+830,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,FAIL,0,0,True,not done yet,False,0,4. Пальссон,cyrillic
+831,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+832,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+833,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Rúrik Gíslason,750000.0,False,working,False,Rúrik Gíslason,Gislason,single
+834,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,Björn Sigurdarson,2750000.0,False,working,False,Björn Sigurdarson,B Sigurdarson,single
+835,1404,Nations League 2018-2020,Switzerland vs Iceland,08.09.18,Iceland,IS,2018,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",2000000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+836,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+837,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Birkir Már Saevarsson,350000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+838,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Sverrir Ingi Ingason,5000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+839,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+840,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+841,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Ari Freyr Skúlason,500000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+842,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+843,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+844,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",750000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+845,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,Emil Hallfredsson,500000.0,False,working,False,Emil Hallfredsson,E Hallfredsson,single
+846,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Iceland,IS,2018,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",2000000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+847,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+848,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+849,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Vincent Kompany,8000000.0,False,working,False,Vincent Kompany,Kompany,single
+850,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Jan Vertonghen,28000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+851,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+852,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+853,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Yannick Carrasco,20000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+854,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+855,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Youri Tielemans,38000000.0,False,working,False,Youri Tielemans,Tielemans,single
+856,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,FAIL,"['Eden Hazard', 'Thorgan Hazard']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Eden Hazard', 'Thorgan Hazard']",False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+857,1405,Nations League 2018-2020,Iceland vs Belgium,11.09.18,Belgium,BE,2018,SUCCESS,Romelu Lukaku,75000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+858,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+859,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+860,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Thomas Vermaelen,2500000.0,False,working,False,Thomas Vermaelen,Vermaelen,single
+861,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Vincent Kompany,8000000.0,False,working,False,Vincent Kompany,Kompany,single
+862,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+863,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+864,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Yannick Carrasco,20000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+865,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+866,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Youri Tielemans,38000000.0,False,working,False,Youri Tielemans,Tielemans,single
+867,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,FAIL,"['Eden Hazard', 'Thorgan Hazard']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Eden Hazard', 'Thorgan Hazard']]",False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+868,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Belgium,BE,2018,SUCCESS,Romelu Lukaku,75000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+869,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+870,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+871,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Michael Lang,4500000.0,False,working,False,Michael Lang,M Lang,single
+872,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+873,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+874,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+875,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Denis Zakaria,20000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+876,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Remo Freuler,20000000.0,False,working,False,Remo Freuler,Freuler,single
+877,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+878,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+879,1406,Nations League 2018-2020,Belgium vs Switzerland,12.10.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+880,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+881,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+882,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,FAIL,Gísli Eyjólfsson,0,True,Online Lookup Required,False,Gísli Eyjólfsson,Eyjolfsson,single
+883,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+884,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,Arnór Ingvi Traustason,1100000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+885,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+886,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+887,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,FAIL,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 14. Arnason",False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+888,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",750000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+889,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,FAIL,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+890,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Iceland,IS,2018,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",15000000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+891,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Yvon Mvogo,3000000.0,False,working,False,Yvon Mvogo,Mvogo,single
+892,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,François Moubandje,2500000.0,False,working,False,François Moubandje,Moubandje,single
+893,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+894,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Michael Lang,4500000.0,False,working,False,Michael Lang,M Lang,single
+895,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+896,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+897,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Denis Zakaria,20000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+898,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+899,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+900,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+901,1407,Nations League 2018-2020,Iceland vs Switzerland,15.10.18,Switzerland,CH,2018,SUCCESS,Mario Gavranovic,3000000.0,False,working,False,Mario Gavranovic,Gavranović,single
+902,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+903,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+904,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Vincent Kompany,8000000.0,False,working,False,Vincent Kompany,Kompany,single
+905,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+906,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Dedryck Boyata,2000000.0,False,working,False,Dedryck Boyata,Boyata,single
+907,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+908,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Youri Tielemans,38000000.0,False,working,False,Youri Tielemans,Tielemans,single
+909,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+910,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Thorgan Hazard,38000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+911,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Eden Hazard,150000000.0,False,working,False,Eden Hazard,E Hazard,single
+912,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Belgium,BE,2018,SUCCESS,Michy Batshuayi,30000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+913,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+914,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Jon Gudni Fjóluson,1000000.0,False,working,False,Jon Gudni Fjóluson,Fjoluson,single
+915,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Sverrir Ingi Ingason,5000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+916,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+917,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Ari Freyr Skúlason,500000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+918,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+919,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+920,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,FAIL,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 14. Arnason",False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+921,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Aron Gunnarsson,2500000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+922,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,Albert Gudmundsson,2500000.0,False,working,False,Albert Gudmundsson,A Gudmundsson,single
+923,1408,Nations League 2018-2020,Belgium vs Iceland,15.11.18,Iceland,IS,2018,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",15000000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+924,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+925,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Kevin Mbabu,10000000.0,False,working,False,Kevin Mbabu,Mbabu,single
+926,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+927,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+928,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Timm Klose,3000000.0,False,working,False,Timm Klose,T Klose,single
+929,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Gelson Fernandes,1500000.0,False,Used Large Dataset,False,Gelson Fernandes,G Fernandes,single
+930,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+931,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Remo Freuler,20000000.0,False,working,False,Remo Freuler,Freuler,single
+932,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+933,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+934,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+935,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+936,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+937,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Vincent Kompany,8000000.0,False,working,False,Vincent Kompany,Kompany,single
+938,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+939,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Dedryck Boyata,2000000.0,False,working,False,Dedryck Boyata,Boyata,single
+940,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+941,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Youri Tielemans,38000000.0,False,working,False,Youri Tielemans,Tielemans,single
+942,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+943,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Thorgan Hazard,38000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+944,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Eden Hazard,150000000.0,False,working,False,Eden Hazard,E Hazard,single
+945,1409,Nations League 2018-2020,Switzerland vs Belgium,18.11.18,Belgium,BE,2018,SUCCESS,Nacer Chadli,8000000.0,False,working,False,Nacer Chadli,Chadli,single
+946,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Gianluigi Donnarumma,55000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+947,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Cristiano Biraghi,10000000.0,False,working,False,Cristiano Biraghi,C Biraghi,single
+948,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Davide Zappacosta,15000000.0,False,working,False,Davide Zappacosta,Zappacosta,single
+949,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Giorgio Chiellini,7500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+950,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Leonardo Bonucci,28000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+951,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Jorginho,65000000.0,False,working,False,Jorginho,Jorginho,single
+952,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Lorenzo Pellegrini,35000000.0,False,working,False,Lorenzo Pellegrini,Lo Pellegrini,single
+953,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Roberto Gagliardini,15000000.0,False,working,False,Roberto Gagliardini,Gagliardini,single
+954,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Mario Balotelli,20000000.0,False,working,False,Mario Balotelli,Balotelli,single
+955,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Lorenzo Insigne,65000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+956,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Italy,IT,2018,SUCCESS,Federico Bernardeschi,45000000.0,False,working,False,Federico Bernardeschi,Bernardeschi,single
+957,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Lukasz Fabianski,5000000.0,False,working,False,Lukasz Fabianski,Fabianski,single
+958,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+959,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+960,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Kamil Glik,8000000.0,False,working,False,Kamil Glik,Glik,single
+961,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+962,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Arkadiusz Reca,3500000.0,False,working,False,Arkadiusz Reca,Reca,single
+963,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Mateusz Klich,2500000.0,False,working,False,Mateusz Klich,Klich,single
+964,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Jakub Blaszczykowski,1000000.0,False,working,False,Jakub Blaszczykowski,Blaszczykowski,single
+965,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+966,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Rafal Kurzawa,1500000.0,False,working,False,Rafal Kurzawa,R Kurzawa,single
+967,1410,Nations League 2018-2020,Italy vs Poland,07.09.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+968,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Rui Patrício,20000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+969,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+970,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Rúben Dias,32000000.0,False,working,False,Rúben Dias,R Dias,single
+971,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,William Carvalho,25000000.0,False,working,False,William Carvalho,W Carvalho,single
+972,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Mário Rui,12000000.0,False,working,False,Mário Rui,Mario Rui,single
+973,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,João Cancelo,55000000.0,False,working,False,João Cancelo,Cancelo,single
+974,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Bruma,10000000.0,False,working,False,Bruma,Bruma,single
+975,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Bernardo Silva,100000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+976,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Rúben Neves,45000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+977,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,André Silva,22000000.0,False,working,False,André Silva,André Silva,single
+978,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Portugal,PT,2018,SUCCESS,Pizzi,25000000.0,False,working,False,Pizzi,Pizzi,single
+979,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Gianluigi Donnarumma,55000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+980,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Domenico Criscito,4000000.0,False,working,False,Domenico Criscito,Criscito,single
+981,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Alessio Romagnoli,50000000.0,False,working,False,Alessio Romagnoli,Romagnoli,single
+982,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Mattia Caldara,20000000.0,False,working,False,Mattia Caldara,Caldara,single
+983,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Jorginho,65000000.0,False,working,False,Jorginho,Jorginho,single
+984,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Giacomo Bonaventura,20000000.0,False,working,False,Giacomo Bonaventura,Bonaventura,single
+985,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Federico Chiesa,60000000.0,False,working,False,Federico Chiesa,F Chiesa,single
+986,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Manuel Lazzari,18000000.0,False,working,False,Manuel Lazzari,M Lazzari,single
+987,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Bryan Cristante,25000000.0,False,working,False,Bryan Cristante,Cristante,single
+988,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Simone Zaza,10000000.0,False,working,False,Simone Zaza,Zaza,single
+989,1411,Nations League 2018-2020,Portugal vs Italy,10.09.18,Italy,IT,2018,SUCCESS,Ciro Immobile,40000000.0,False,working,False,Ciro Immobile,Immobile,single
+990,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Lukasz Fabianski,5000000.0,False,working,False,Lukasz Fabianski,Fabianski,single
+991,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Artur Jedrzejczyk,850000.0,False,working,False,Artur Jedrzejczyk,Jedrzejczyk,single
+992,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+993,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+994,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Kamil Glik,8000000.0,False,working,False,Kamil Glik,Glik,single
+995,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+996,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Mateusz Klich,2500000.0,False,working,False,Mateusz Klich,Klich,single
+997,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+998,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Rafal Kurzawa,1500000.0,False,working,False,Rafal Kurzawa,R Kurzawa,single
+999,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+1000,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Poland,PL,2018,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+1001,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Rui Patrício,20000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1002,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1003,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Rúben Dias,32000000.0,False,working,False,Rúben Dias,R Dias,single
+1004,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,William Carvalho,25000000.0,False,working,False,William Carvalho,W Carvalho,single
+1005,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Mário Rui,12000000.0,False,working,False,Mário Rui,Mario Rui,single
+1006,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,João Cancelo,55000000.0,False,working,False,João Cancelo,Cancelo,single
+1007,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Bernardo Silva,100000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1008,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Rúben Neves,45000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+1009,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,André Silva,22000000.0,False,working,False,André Silva,André Silva,single
+1010,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Rui Silva,200000.0,False,Used Large Dataset,False,Rui Silva,Rafa Silva,single
+1011,1412,Nations League 2018-2020,Poland vs Portugal,11.10.18,Portugal,PT,2018,SUCCESS,Pizzi,25000000.0,False,working,False,Pizzi,Pizzi,single
+1012,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+1013,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+1014,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Kamil Glik,8000000.0,False,working,False,Kamil Glik,Glik,single
+1015,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+1016,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Arkadiusz Reca,3500000.0,False,working,False,Arkadiusz Reca,Reca,single
+1017,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Jacek Goralski,3000000.0,False,working,False,Jacek Goralski,Góralski,single
+1018,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Karol Linetty,15000000.0,False,working,False,Karol Linetty,Linetty,single
+1019,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Damian Szymanski,1500000.0,False,working,False,Damian Szymanski,D Szymanski,single
+1020,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+1021,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Arkadiusz Milik,40000000.0,False,working,False,Arkadiusz Milik,Milik,single
+1022,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+1023,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Gianluigi Donnarumma,55000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+1024,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Cristiano Biraghi,10000000.0,False,working,False,Cristiano Biraghi,C Biraghi,single
+1025,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Giorgio Chiellini,7500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+1026,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Leonardo Bonucci,28000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+1027,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Marco Verratti,75000000.0,False,working,False,Marco Verratti,Verratti,single
+1028,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Jorginho,65000000.0,False,working,False,Jorginho,Jorginho,single
+1029,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Federico Chiesa,60000000.0,False,working,False,Federico Chiesa,F Chiesa,single
+1030,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Alessandro Florenzi,25000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+1031,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Nicolò Barella,36000000.0,False,working,False,Nicolò Barella,Barella,single
+1032,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Lorenzo Insigne,65000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+1033,1413,Nations League 2018-2020,Poland vs Italy,14.10.18,Italy,IT,2018,SUCCESS,Federico Bernardeschi,45000000.0,False,working,False,Federico Bernardeschi,Bernardeschi,single
+1034,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Gianluigi Donnarumma,55000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+1035,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Cristiano Biraghi,10000000.0,False,working,False,Cristiano Biraghi,C Biraghi,single
+1036,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Giorgio Chiellini,7500000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+1037,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Leonardo Bonucci,28000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+1038,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Marco Verratti,75000000.0,False,working,False,Marco Verratti,Verratti,single
+1039,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Jorginho,65000000.0,False,working,False,Jorginho,Jorginho,single
+1040,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Federico Chiesa,60000000.0,False,working,False,Federico Chiesa,F Chiesa,single
+1041,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Alessandro Florenzi,25000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+1042,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Nicolò Barella,36000000.0,False,working,False,Nicolò Barella,Barella,single
+1043,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Lorenzo Insigne,65000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+1044,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Italy,IT,2018,SUCCESS,Ciro Immobile,40000000.0,False,working,False,Ciro Immobile,Immobile,single
+1045,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Rui Patrício,20000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1046,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Rúben Dias,32000000.0,False,working,False,Rúben Dias,R Dias,single
+1047,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,José Fonte,2000000.0,False,working,False,José Fonte,J Fonte,single
+1048,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,William Carvalho,25000000.0,False,working,False,William Carvalho,W Carvalho,single
+1049,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Mário Rui,12000000.0,False,working,False,Mário Rui,Mario Rui,single
+1050,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,João Cancelo,55000000.0,False,working,False,João Cancelo,Cancelo,single
+1051,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Bruma,10000000.0,False,working,False,Bruma,Bruma,single
+1052,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Bernardo Silva,100000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1053,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Rúben Neves,45000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+1054,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,Pizzi,25000000.0,False,working,False,Pizzi,Pizzi,single
+1055,1414,Nations League 2018-2020,Italy vs Portugal,17.11.18,Portugal,PT,2018,SUCCESS,André Silva,22000000.0,False,working,False,André Silva,André Silva,single
+1056,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Beto,750000.0,False,working,False,Beto,Beto,single
+1057,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1058,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Raphaël Guerreiro,25000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1059,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,William Carvalho,25000000.0,False,working,False,William Carvalho,W Carvalho,single
+1060,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Rúben Dias,32000000.0,False,working,False,Rúben Dias,R Dias,single
+1061,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,João Cancelo,55000000.0,False,working,False,João Cancelo,Cancelo,single
+1062,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Renato Sanches,18000000.0,False,working,False,Renato Sanches,R Sanches,single
+1063,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Danilo Pereira,30000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+1064,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Kévin Rodrigues,3000000.0,False,working,False,Kévin Rodrigues,K Rodrigues,single
+1065,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,Rui Silva,200000.0,False,Used Large Dataset,False,Rui Silva,Rafa Silva,single
+1066,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Portugal,PT,2018,SUCCESS,André Silva,22000000.0,False,working,False,André Silva,André Silva,single
+1067,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+1068,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Thiago Cionek,800000.0,False,working,False,Thiago Cionek,Cionek,single
+1069,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+1070,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+1071,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Tomasz Kedziora,4000000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+1072,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+1073,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Mateusz Klich,2500000.0,False,working,False,Mateusz Klich,Klich,single
+1074,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+1075,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Przemyslaw Frankowski,1500000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+1076,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Arkadiusz Milik,40000000.0,False,working,False,Arkadiusz Milik,Milik,single
+1077,1415,Nations League 2018-2020,Portugal vs Poland,20.11.18,Poland,PL,2018,SUCCESS,Kamil Grosicki,4000000.0,False,working,False,Kamil Grosicki,Grosicki,single
+1078,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Jordan Pickford,40000000.0,False,working,False,Jordan Pickford,Pickford,single
+1079,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Kieran Trippier,35000000.0,False,working,False,Kieran Trippier,Trippier,single
+1080,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Luke Shaw,30000000.0,False,working,False,Luke Shaw,L Shaw,single
+1081,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Joe Gomez,35000000.0,False,working,False,Joe Gomez,Gomez,single
+1082,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,John Stones,60000000.0,False,working,False,John Stones,Stones,single
+1083,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Harry Maguire,50000000.0,False,working,False,Harry Maguire,Maguire,single
+1084,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,"['Jordan Henderson', 'Dean Henderson']",35000000.0,False,working,False,"['Jordan Henderson', 'Dean Henderson']",Henderson,multiple
+1085,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Dele Alli,90000000.0,False,working,False,Dele Alli,Alli,single
+1086,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Jesse Lingard,40000000.0,False,working,False,Jesse Lingard,Lingard,single
+1087,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Harry Kane,150000000.0,False,working,False,Harry Kane,Kane,single
+1088,1416,Nations League 2018-2020,England vs Spain,08.09.18,England,EN,2018,SUCCESS,Marcus Rashford,80000000.0,False,working,False,Marcus Rashford,Rashford,single
+1089,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,David de Gea,65000000.0,False,working,False,David de Gea,de Gea,single
+1090,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Daniel Carvajal,50000000.0,False,working,False,Daniel Carvajal,Carvajal,single
+1091,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,"['Nacho Fernández', 'Nacho Monreal']",25000000.0,False,working,False,"['Nacho Fernández', 'Nacho Monreal']",Nacho,multiple
+1092,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Marcos Alonso,40000000.0,False,working,False,Marcos Alonso,M Alonso,single
+1093,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Sergio Ramos,25000000.0,False,working,False,Sergio Ramos,S Ramos,single
+1094,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Sergio Busquets,50000000.0,False,working,False,Sergio Busquets,Busquets,single
+1095,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Saúl Ñíguez,90000000.0,False,working,False,Saúl Ñíguez,Saul Niguez,single
+1096,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,FAIL,0,0,True,Lookup Required,False,0,T Alcantara,none
+1097,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Rodrigo,50000000.0,False,working,False,Rodrigo,M Rodrigo,single
+1098,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Iago Aspas,25000000.0,False,working,False,Iago Aspas,Aspas,single
+1099,1416,Nations League 2018-2020,England vs Spain,08.09.18,Spain,ES,2018,SUCCESS,Isco,60000000.0,False,working,False,Isco,Isco,single

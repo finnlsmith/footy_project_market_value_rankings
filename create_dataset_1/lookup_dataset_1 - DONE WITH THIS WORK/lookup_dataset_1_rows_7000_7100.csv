@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Alfred Gomis,2400000.0,False,working,False,Alfred Gomis,A Gomis,single
+1,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Lamine Gassama,1000000.0,False,working,False,Lamine Gassama,L Gassama,single
+2,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Cheikhou Kouyaté,8000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+3,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+4,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Youssouf Sabaly,8000000.0,False,working,False,Youssouf Sabaly,Y Sabaly,single
+5,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Henri Saivet,800000.0,False,Used Large Dataset,False,Henri Saivet,H Saivet,single
+6,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+7,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Idrissa Gueye,24000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+8,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Sadio Mané,120000000.0,False,working,False,Sadio Mané,S Mané,single
+9,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+10,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Senegal,SN,2019,SUCCESS,Keita Baldé,16000000.0,False,working,False,Keita Baldé,K Baldé,single
+11,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Saturnin Allagbé,475000.0,False,working,False,Saturnin Allagbé,S Allagbé,single
+12,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+13,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Moise Adilehou,300000.0,False,working,False,Moise Adilehou,M Adilehou,single
+14,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Olivier Verdon,475000.0,False,working,False,Olivier Verdon,O Verdon,single
+15,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Emmanuel Imorou,650000.0,False,working,False,Emmanuel Imorou,E Imorou,single
+16,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Jordan Adéoti,475000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+17,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,FAIL,0,0,True,Lookup Required,False,0,M Poté,none
+18,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Sessi D'Almeida,475000.0,False,working,False,Sessi D'Almeida,S D'Almeida,single
+19,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Stéphane Sessègnon,300000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+20,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Cebio Soukou,650000.0,False,working,False,Cebio Soukou,C Soukou,single
+21,3537,"African Cup of Nations, 2019",Senegal vs Benin,10-07-2019,Benin,BJ,2019,SUCCESS,Steve Mounié,6500000.0,False,working,False,Steve Mounié,S Mounié,single
+22,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Sylvain Gbohouo,325000.0,False,working,False,Sylvain Gbohouo,S Gbohouo,single
+23,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Mamadou Bagayoko,300000.0,False,working,False,Mamadou Bagayoko,M Bagayoko,single
+24,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,"['Ismaël Traoré', 'Ibrahim Traoré']",1200000.0,False,working,False,"['Ismaël Traoré', 'Ibrahim Traoré']",I Traoré,multiple
+25,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Kanon,1400000.0,False,working,False,Wilfried Kanon,W Kanon,single
+26,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wonlo Coulibaly,150000.0,False,working,False,Wonlo Coulibaly,W Coulibaly,single
+27,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Ibrahim Sangaré,9500000.0,False,working,False,Ibrahim Sangaré,I Sangaré,single
+28,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Geoffroy Serey Dié,400000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+29,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Franck Kessié,20000000.0,False,working,False,Franck Kessié,F Kessié,single
+30,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Zaha,44000000.0,False,working,False,Wilfried Zaha,W Zaha,single
+31,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jonathan Kodjia,3300000.0,False,working,False,Jonathan Kodjia,J Kodjia,single
+32,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Max Gradel,4000000.0,False,working,False,Max Gradel,M Gradel,single
+33,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+34,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Youcef Atal,20000000.0,False,working,False,Youcef Atal,Y Atal,single
+35,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Aïssa Mandi,16000000.0,False,working,False,Aïssa Mandi,A Mandi,single
+36,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Djamel Eddine Benlamri,1400000.0,False,working,False,Djamel Eddine Benlamri,D Benlamri,single
+37,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Ramy Bensebaini,9500000.0,False,working,False,Ramy Bensebaini,R Bensebaini,single
+38,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Sofiane Feghouli,6000000.0,False,working,False,Sofiane Feghouli,S Feghouli,single
+39,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Adlène Guédioura,525000.0,False,working,False,Adlène Guédioura,A Guédioura,single
+40,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+41,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Riyad Mahrez,48000000.0,False,working,False,Riyad Mahrez,R Mahrez,single
+42,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Baghdad Bounedjah,6800000.0,False,working,False,Baghdad Bounedjah,B Bounedjah,single
+43,3538,"African Cup of Nations, 2019",Cote d'Ivoire vs Algeria,11-07-2019,Algeria,DZ,2019,SUCCESS,Youcef Belaïli,2400000.0,False,working,False,Youcef Belaïli,Y Belaïli,single
+44,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,"['Djigui Diarra', 'Drissa Diarra']",200000.0,False,working,False,"['Djigui Diarra', 'Drissa Diarra']",D Diarra,multiple
+45,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Hamari Traoré,4800000.0,False,working,False,Hamari Traoré,H Traoré,single
+46,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Molla Wagué,800000.0,False,working,False,Molla Wagué,M Wagué,single
+47,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Mamadou Fofana,3200000.0,False,working,False,Mamadou Fofana,Mamadou Fofana,single
+48,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Youssouf Koné,6500000.0,False,working,False,Youssouf Koné,Y Koné,single
+49,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Diadié Samassékou,12000000.0,False,working,False,Diadié Samassékou,D Samassékou,single
+50,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,"['Abdoulay Diaby', 'Alassane Diaby']",4000000.0,False,working,False,"['Abdoulay Diaby', 'Alassane Diaby']",A Diaby,multiple
+51,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Amadou Haidara,15500000.0,False,working,False,Amadou Haidara,A Haidara,single
+52,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Lassana Coulibaly,950000.0,False,working,False,Lassana Coulibaly,L Coulibaly,single
+53,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Moussa Djenepo,11000000.0,False,working,False,Moussa Djenepo,M Djénépo,single
+54,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Mali,ML,2019,SUCCESS,Moussa Marega,19000000.0,False,Used Large Dataset,False,Moussa Marega,M Marega,single
+55,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Sylvain Gbohouo,325000.0,False,working,False,Sylvain Gbohouo,S Gbohouo,single
+56,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Mamadou Bagayoko,300000.0,False,working,False,Mamadou Bagayoko,M Bagayoko,single
+57,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,"['Ismaël Traoré', 'Ibrahim Traoré']",1200000.0,False,working,False,"['Ismaël Traoré', 'Ibrahim Traoré']",I Traoré,multiple
+58,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Kanon,1400000.0,False,working,False,Wilfried Kanon,W Kanon,single
+59,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wonlo Coulibaly,150000.0,False,working,False,Wonlo Coulibaly,W Coulibaly,single
+60,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Geoffroy Serey Dié,400000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+61,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Nicolas Pépé,52000000.0,False,working,False,Nicolas Pépé,N Pépé,single
+62,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Franck Kessié,20000000.0,False,working,False,Franck Kessié,F Kessié,single
+63,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jean-Philippe Gbamin,22500000.0,False,Used Large Dataset,False,Jean-Philippe Gbamin,J Gbamin,single
+64,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Zaha,44000000.0,False,working,False,Wilfried Zaha,W Zaha,single
+65,3539,"African Cup of Nations, 2019",Mali vs Cote d'Ivoire,08-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jonathan Kodjia,3300000.0,False,working,False,Jonathan Kodjia,J Kodjia,single
+66,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Saturnin Allagbé,475000.0,False,working,False,Saturnin Allagbé,S Allagbé,single
+67,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+68,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Khaled Adénon,400000.0,False,working,False,Khaled Adénon,K Adénon,single
+69,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Olivier Verdon,475000.0,False,working,False,Olivier Verdon,O Verdon,single
+70,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,David Kiki,325000.0,False,working,False,David Kiki,D Kiki,single
+71,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Jordan Adéoti,475000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+72,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Jodel Dossou,550000.0,False,working,False,Jodel Dossou,J Dossou,single
+73,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Stéphane Sessègnon,300000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+74,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Seïbou Mama,0.0,False,Large Dataset had 0,False,Seïbou Mama,S Mama,single
+75,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,David Djigla,475000.0,False,working,False,David Djigla,D Djigla,single
+76,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Benin,BJ,2019,SUCCESS,Steve Mounié,6500000.0,False,working,False,Steve Mounié,S Mounié,single
+77,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,André Onana,36000000.0,False,working,False,André Onana,A Onana,single
+78,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Collins Fai,1400000.0,False,working,False,Collins Fai,C Fai,single
+79,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Yaya Banana,900000.0,False,Data Ended before season : 2019,False,Yaya Banana,Y Banana,single
+80,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Michael Ngadeu,4500000.0,False,working,False,Michael Ngadeu,M Ngadeu,single
+81,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Ambroise Oyongo,2800000.0,False,working,False,Ambroise Oyongo,A Oyongo,single
+82,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Pierre Kunde,8000000.0,False,working,False,Pierre Kunde,P Kunde,single
+83,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Frank Anguissa,20000000.0,False,working,False,Frank Anguissa,F Anguissa,single
+84,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Arnaud Djoum,675000.0,False,working,False,Arnaud Djoum,A Djoum,single
+85,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Eric Maxim Choupo-Moting,4000000.0,False,working,False,Eric Maxim Choupo-Moting,E Choupo-Moting,single
+86,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Stéphane Bahoken,4500000.0,False,working,False,Stéphane Bahoken,S Bahoken,single
+87,3540,"African Cup of Nations, 2019",Benin vs Cameroon,02-07-2019,Cameroon,CM,2019,SUCCESS,Karl Toko Ekambi,14000000.0,False,working,False,Karl Toko Ekambi,K Toko Ekambi,single
+88,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,"['Abdul Aziz Keita', 'Alhassane Keita', 'Aly Keita']",400000.0,False,working,False,"['Abdul Aziz Keita', 'Alhassane Keita', 'Aly Keita']",A Keita,multiple
+89,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Mikael Dyrestam,300000.0,False,working,False,Mikael Dyrestam,M Dyrestam,single
+90,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Julian Jeanvier,2000000.0,False,working,False,Julian Jeanvier,J Jeanvier,single
+91,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Simon Falette,2400000.0,False,working,False,Simon Falette,S Falette,single
+92,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2800000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+93,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Traoré,800000.0,False,Used Large Dataset,False,Ibrahima Traoré,I Traoré,single
+94,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Cissé,600000.0,False,working,False,Ibrahima Cissé,I Cissé,single
+95,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Amadou Diawara,18500000.0,False,working,False,Amadou Diawara,A Diawara,single
+96,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,"['Mohamed Camara', 'Mady Camara', 'Moussa Camara', 'Morlaye Camara']",6500000.0,False,working,False,"['Mohamed Camara', 'Mady Camara', 'Moussa Camara', 'Morlaye Camara']",M Camara,multiple
+97,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,François Kamano,8000000.0,False,working,False,François Kamano,F Kamano,single
+98,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Guinea,GN,2019,SUCCESS,Sory Kaba,1600000.0,False,working,False,Sory Kaba,S Kaba,single
+99,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Melvin Adrien,75000.0,False,working,False,Melvin Adrien,M Adrien,single
+100,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Romain Métanire,1400000.0,False,working,False,Romain Métanire,R Métanire,single
+101,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,Bapasy,none
+102,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Thomas Fontaine,800000.0,False,working,False,Thomas Fontaine,T Fontaine,single
+103,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Jérôme Mombris,300000.0,False,working,False,Jérôme Mombris,J Mombris,single
+104,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Anicet,2400000.0,False,working,False,Anicet,A Anicet,single
+105,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Lalaïna Nomenjanahary,325000.0,False,working,False,Lalaïna Nomenjanahary,L Nomenjanahary,single
+106,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Marco Ilaimaharitra,4000000.0,False,working,False,Marco Ilaimaharitra,M Ilaimaharitra,single
+107,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Ibrahim Amada,400000.0,False,working,False,Ibrahim Amada,I Amada,single
+108,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+109,3541,"African Cup of Nations, 2019",Guinea vs Madagascar,22-06-2019,Madagascar,MG,2019,SUCCESS,Ima Andriatsima,300000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+110,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none
+111,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,FAIL,0,0,True,Online Lookup Required,False,0,L Horaeb,none
+112,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none
+113,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none
+114,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none
+115,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none
+116,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,300000.0,False,Data Ended before season : 2019,False,0,R Ketjijere,none
+117,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,FAIL,0,0,True,Online Lookup Required,False,0,M Papama,none
+118,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none
+119,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none
+120,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,75000.0,False,working,False,0,J Kamatuka,none
+121,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Sylvain Gbohouo,325000.0,False,working,False,Sylvain Gbohouo,S Gbohouo,single
+122,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Mamadou Bagayoko,300000.0,False,working,False,Mamadou Bagayoko,M Bagayoko,single
+123,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,"['Ismaël Traoré', 'Ibrahim Traoré']",1200000.0,False,working,False,"['Ismaël Traoré', 'Ibrahim Traoré']",I Traoré,multiple
+124,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Kanon,1400000.0,False,working,False,Wilfried Kanon,W Kanon,single
+125,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wonlo Coulibaly,150000.0,False,working,False,Wonlo Coulibaly,W Coulibaly,single
+126,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jean-Philippe Gbamin,22500000.0,False,Used Large Dataset,False,Jean-Philippe Gbamin,J Gbamin,single
+127,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Geoffroy Serey Dié,400000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+128,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Franck Kessié,20000000.0,False,working,False,Franck Kessié,F Kessié,single
+129,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Max Gradel,4000000.0,False,working,False,Max Gradel,M Gradel,single
+130,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,FAIL,Wilfried Bony,0,True,Was in  DB before or after season,True,Wilfried Bony,W Bony,single
+131,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Zaha,44000000.0,False,working,False,Wilfried Zaha,W Zaha,single
+132,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Denis Onyango,800000.0,False,working,False,Denis Onyango,D Onyango,single
+133,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Nicholas Wadada,150000.0,False,working,False,Nicholas Wadada,N Wadada,single
+134,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Timothy Dennis Awany,325000.0,False,working,False,Timothy Dennis Awany,T Awany,single
+135,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Hassan Wasswa,200000.0,False,working,False,Hassan Wasswa,H Wasswa,single
+136,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Godfrey Walusimbi,100000.0,False,Data Ended before season : 2019,False,Godfrey Walusimbi,G Walusimbi,single
+137,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Farouk Miya,2000000.0,False,working,False,Farouk Miya,F Miya,single
+138,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Mike Azira,300000.0,False,working,False,Mike Azira,M Azira,single
+139,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Khalid Aucho,200000.0,False,working,False,Khalid Aucho,K Aucho,single
+140,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Allan Kyambadde,100000.0,False,working,False,Allan Kyambadde,A Kyambadde,single
+141,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Lumala Abdu,100000.0,False,working,False,Lumala Abdu,L Abdu,single
+142,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Uganda,UG,2019,SUCCESS,Emmanuel Okwi,250000.0,False,working,False,Emmanuel Okwi,E Okwi,single
+143,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Mohamed El Shenawy,1700000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+144,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Ahmed El Mohamady,2000000.0,False,Used Large Dataset,False,Ahmed El Mohamady,Ahmed El Mohamady,single
+145,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Baher El Mohamady,475000.0,False,working,False,Baher El Mohamady,Baher El Mohamady,single
+146,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,A Hegazy,single
+147,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Ayman Ashraf,950000.0,False,working,False,Ayman Ashraf,Ayman Ashraf,single
+148,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Elneny,5000000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+149,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Nabil Dunga,950000.0,False,working,False,Nabil Dunga,Nabil Emad Dunga,single
+150,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Abdallah Said,1600000.0,False,working,False,Abdallah Said,Abdallah Said,single
+151,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Salah,120000000.0,False,working,False,Mohamed Salah,Mohamed Salah,single
+152,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,Ahmed Hassan,2400000.0,False,working,False,Ahmed Hassan,Ahmed Hassan,single
+153,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none
+154,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Daniel Akpeyi,600000.0,False,working,False,Daniel Akpeyi,D Akpeyi,single
+155,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Abdullahi Shehu,650000.0,False,working,False,Abdullahi Shehu,A Shehu,single
+156,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+157,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+158,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Ola Aina,8000000.0,False,working,False,Ola Aina,O Aina,single
+159,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+160,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+161,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Samuel Chukwueze,27000000.0,False,working,False,Samuel Chukwueze,S Chukwueze,single
+162,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,John Obi Mikel,1200000.0,False,Used Large Dataset,False,John Obi Mikel,J Obi Mikel,single
+163,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+164,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Nigeria,NG,2019,SUCCESS,Paul Onuachu,5200000.0,False,working,False,Paul Onuachu,P Onuachu,single
+165,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Jonathan Nahimana,0.0,False,Large Dataset had 0,False,Jonathan Nahimana,J Nahimana,single
+166,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,"['Omar Moussa', 'Omar Mussa']",0.0,False,Large Dataset said 0,False,"['Omar Moussa', 'Omar Mussa']",M Omar,multiple
+167,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,David Nshimirimana,100000.0,False,working,False,David Nshimirimana,D Nshimirimana,single
+168,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Frédéric Nsabiyumva,325000.0,False,working,False,Frédéric Nsabiyumva,F Nsabiyumva,single
+169,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Gaël Duhayindavyi,0.0,False,Large Dataset had 0,False,Gaël Duhayindavyi,G Duhayindavyi,single
+170,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Francis Moustapha,50000.0,False,working,False,Francis Moustapha,F Moustapha,single
+171,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Shasiri Nahimana,0.0,False,Large Dataset had 0,False,Shasiri Nahimana,S Nahimana,single
+172,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Gaël Bigirimana,300000.0,False,working,False,Gaël Bigirimana,G Bigirimana,single
+173,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Cédric Amissi,900000.0,False,working,False,Cédric Amissi,C Amissi,single
+174,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Abdul Razak Fiston,350000.0,False,working,False,Abdul Razak Fiston,F Abdul Razak,single
+175,3544,"African Cup of Nations, 2019",Nigeria vs Burundi,22-06-2019,Burundi,BI,2019,SUCCESS,Saido Berahino,3000000.0,False,working,False,Saido Berahino,S Berahino,single
+176,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Sylvain Gbohouo,325000.0,False,working,False,Sylvain Gbohouo,S Gbohouo,single
+177,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Serge Aurier,16000000.0,False,working,False,Serge Aurier,S Aurier,single
+178,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,"['Ismaël Traoré', 'Ibrahim Traoré']",1200000.0,False,working,False,"['Ismaël Traoré', 'Ibrahim Traoré']",I Traoré,multiple
+179,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Kanon,1400000.0,False,working,False,Wilfried Kanon,W Kanon,single
+180,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wonlo Coulibaly,150000.0,False,working,False,Wonlo Coulibaly,W Coulibaly,single
+181,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Geoffroy Serey Dié,400000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+182,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Franck Kessié,20000000.0,False,working,False,Franck Kessié,F Kessié,single
+183,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Nicolas Pépé,52000000.0,False,working,False,Nicolas Pépé,N Pépé,single
+184,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jean Michaël Seri,9500000.0,False,working,False,Jean Michaël Seri,J Seri,single
+185,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Max Gradel,4000000.0,False,working,False,Max Gradel,M Gradel,single
+186,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jonathan Kodjia,3300000.0,False,working,False,Jonathan Kodjia,J Kodjia,single
+187,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Ronwen Williams,950000.0,False,working,False,Ronwen Williams,R Williams,single
+188,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Thamsanqa Mkhize,800000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+189,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+190,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Buhle Mkhwanazi,900000.0,False,working,False,Buhle Mkhwanazi,B Mkhwanazi,single
+191,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Sifiso Hlanti,1000000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+192,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Lebohang Maboe,725000.0,False,working,False,Lebohang Maboe,L Maboe,single
+193,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Dean Furman,525000.0,False,working,False,Dean Furman,D Furman,single
+194,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Kamohelo Mokotjo,1600000.0,False,working,False,Kamohelo Mokotjo,K Mokotjo,single
+195,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Themba Zwane,1000000.0,False,working,False,Themba Zwane,T Zwane,single
+196,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Lebo Mothiba,4000000.0,False,working,False,Lebo Mothiba,L Mothiba,single
+197,3545,"African Cup of Nations, 2019",Cote d'Ivoire vs South Africa,24-06-2019,South Africa,ZA,2019,SUCCESS,Percy Tau,4000000.0,False,working,False,Percy Tau,P Tau,single
+198,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Metacha Mnata,50000.0,False,working,False,Metacha Mnata,M Mnata,single
+199,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Ramadhani Awam Kabwili,0.0,False,Large Dataset had 0,False,Ramadhani Awam Kabwili,H Ramadhani,single
+200,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,David Mwantika,-,False,Data Ended before season : 2019,False,David Mwantika,D Mwantika,single
+201,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Ally Mtoni,-,False,Data Ended before season : 2019,False,Ally Mtoni,A Mtoni,single
+202,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Mohamed Hussein,75000.0,False,working,False,Mohamed Hussein,M Husseini,single
+203,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Mudathir Yahya,125000.0,False,working,False,Mudathir Yahya,M Yahya,single
+204,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Erasto Nyoni,125000.0,False,working,False,Erasto Nyoni,E Nyoni,single
+205,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Simon Msuva,550000.0,False,working,False,Simon Msuva,S Msuva,single
+206,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Feisal Salum,75000.0,False,working,False,Feisal Salum,F Salum,single
+207,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Faridi Mussa,75000.0,False,working,False,Faridi Mussa,F Mussa,single
+208,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Tanzania,TZ,2019,SUCCESS,Ally Samatta,9500000.0,False,working,False,Ally Samatta,M Samatta,single
+209,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+210,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Mehdi Zeffane,1600000.0,False,working,False,Mehdi Zeffane,M Zeffane,single
+211,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Mehdi Tahrat,950000.0,False,working,False,Mehdi Tahrat,M Tahrat,single
+212,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Rafik Halliche,200000.0,False,working,False,Rafik Halliche,R Halliche,single
+213,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Mohamed Salim Fares,4800000.0,False,working,False,Mohamed Salim Fares,M Fares,single
+214,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Hicham Boudaoui,3600000.0,False,working,False,Hicham Boudaoui,H Boudaoui,single
+215,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Mehdi Abeid,2000000.0,False,working,False,Mehdi Abeid,M Abeid,single
+216,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+217,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Adam Ounas,8000000.0,False,working,False,Adam Ounas,A Ounas,single
+218,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Islam Slimani,6500000.0,False,working,False,Islam Slimani,I Slimani,single
+219,3546,"African Cup of Nations, 2019",Tanzania vs Algeria,01-07-2019,Algeria,DZ,2019,SUCCESS,Andy Delort,10500000.0,False,working,False,Andy Delort,A Delort,single
+220,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Denis Onyango,800000.0,False,working,False,Denis Onyango,D Onyango,single
+221,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Bevis Mugabi,100000.0,False,working,False,Bevis Mugabi,B Mugabi,single
+222,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Ronald Mukiibi,300000.0,False,working,False,Ronald Mukiibi,R Mukiibi,single
+223,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Hassan Wasswa,200000.0,False,working,False,Hassan Wasswa,H Wasswa,single
+224,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Godfrey Walusimbi,100000.0,False,Data Ended before season : 2019,False,Godfrey Walusimbi,G Walusimbi,single
+225,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Lumala Abdu,100000.0,False,working,False,Lumala Abdu,L Abdu,single
+226,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Mike Azira,300000.0,False,working,False,Mike Azira,M Azira,single
+227,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Khalid Aucho,200000.0,False,working,False,Khalid Aucho,K Aucho,single
+228,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Emmanuel Okwi,250000.0,False,working,False,Emmanuel Okwi,E Okwi,single
+229,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Farouk Miya,2000000.0,False,working,False,Farouk Miya,F Miya,single
+230,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Uganda,UG,2019,SUCCESS,Patrick Kaddu,150000.0,False,working,False,Patrick Kaddu,P Kaddu,single
+231,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,George Chigova,450000.0,False,Data Ended before season : 2019,False,George Chigova,G Chigova,single
+232,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Tendayi Darikwa,600000.0,False,working,False,Tendayi Darikwa,T Darikwa,single
+233,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Alec Mudimu,150000.0,False,working,False,Alec Mudimu,A Mudimu,single
+234,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Teenage Hadebe,675000.0,False,working,False,Teenage Hadebe,T Hadebe,single
+235,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Divine Lunga,400000.0,False,working,False,Divine Lunga,D Lunga,single
+236,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Danny Phiri,400000.0,False,Data Ended before season : 2019,False,Danny Phiri,D Phiri,single
+237,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Thabani Kamusoko,50000.0,False,working,False,Thabani Kamusoko,T Kamusoko,single
+238,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Talent Chawapiwa,150000.0,False,Data Ended before season : 2019,False,Talent Chawapiwa,T Chawapiwa,single
+239,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Khama Billiat,1500000.0,False,working,False,Khama Billiat,K Billiat,single
+240,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Ovidy Karuru,225000.0,False,working,False,Ovidy Karuru,O Karuru,single
+241,3547,"African Cup of Nations, 2019",Uganda vs Zimbabwe,26-06-2019,Zimbabwe,ZW,2019,SUCCESS,Knowledge Musona,800000.0,False,working,False,Knowledge Musona,K Musona,single
+242,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+243,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Mehdi Zeffane,1600000.0,False,working,False,Mehdi Zeffane,M Zeffane,single
+244,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Aïssa Mandi,16000000.0,False,working,False,Aïssa Mandi,A Mandi,single
+245,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Djamel Eddine Benlamri,1400000.0,False,working,False,Djamel Eddine Benlamri,D Benlamri,single
+246,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Ramy Bensebaini,9500000.0,False,working,False,Ramy Bensebaini,R Bensebaini,single
+247,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Adlène Guédioura,525000.0,False,working,False,Adlène Guédioura,A Guédioura,single
+248,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Riyad Mahrez,48000000.0,False,working,False,Riyad Mahrez,R Mahrez,single
+249,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Sofiane Feghouli,6000000.0,False,working,False,Sofiane Feghouli,S Feghouli,single
+250,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+251,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Youcef Belaïli,2400000.0,False,working,False,Youcef Belaïli,Y Belaïli,single
+252,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Algeria,DZ,2019,SUCCESS,Baghdad Bounedjah,6800000.0,False,working,False,Baghdad Bounedjah,B Bounedjah,single
+253,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Daniel Akpeyi,600000.0,False,working,False,Daniel Akpeyi,D Akpeyi,single
+254,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Chidozie Awaziem,4000000.0,False,working,False,Chidozie Awaziem,C Awaziem,single
+255,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+256,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+257,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Jamilu Collins,2400000.0,False,working,False,Jamilu Collins,J Collins,single
+258,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+259,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+260,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Samuel Chukwueze,27000000.0,False,working,False,Samuel Chukwueze,S Chukwueze,single
+261,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+262,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+263,3548,"African Cup of Nations, 2019",Algeria vs Nigeria,14-07-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+264,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Moez Ben Cherifia,800000.0,False,working,False,Moez Ben Cherifia,M Ben Cheri,single
+265,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Mohamed Dräger,1600000.0,False,working,False,Mohamed Dräger,M Dräger,single
+266,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Nassim Hnid,50000.0,False,Data Ended before season : 2019,False,Nassim Hnid,N Hnid,single
+267,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+268,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+269,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Ghaylen Chaalali,800000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+270,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+271,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Ferjani Sassi,2000000.0,False,working,False,Ferjani Sassi,F Sassi,single
+272,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Anice Badri,1600000.0,False,working,False,Anice Badri,A Badri,single
+273,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Taha Yassine Khenissi,1000000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+274,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+275,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Francis Uzoho,525000.0,False,working,False,Francis Uzoho,F Uzoho,single
+276,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Ola Aina,8000000.0,False,working,False,Ola Aina,O Aina,single
+277,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+278,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+279,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Jamilu Collins,2400000.0,False,working,False,Jamilu Collins,J Collins,single
+280,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+281,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+282,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Samuel Chukwueze,27000000.0,False,working,False,Samuel Chukwueze,S Chukwueze,single
+283,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+284,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+285,3549,"African Cup of Nations, 2019",Tunisia vs Nigeria,17-07-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+286,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Farouk Ben Mustapha,900000.0,False,working,False,Farouk Ben Mustapha,F Ben Mustapha,single
+287,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Rami Bedoui,525000.0,False,working,False,Rami Bedoui,R Bedoui,single
+288,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+289,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+290,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+291,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Wajdi Kechrida,800000.0,False,working,False,Wajdi Kechrida,W Kechrida,single
+292,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Ghaylen Chaalali,800000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+293,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+294,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Naïm Sliti,5800000.0,False,working,False,Naïm Sliti,N Sliti,single
+295,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+296,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Tunisia,TN,2019,SUCCESS,Youssef Msakni,2400000.0,False,working,False,Youssef Msakni,Y Msakni,single
+297,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,FAIL,0,0,True,Lookup Required,False,0,Toni Cabaça,none
+298,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,FAIL,Bruno Gaspar,0,True,Was in  DB before or after season,True,Bruno Gaspar,Bruno Gaspar,single
+299,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Dani Massunguna,150000.0,False,Data Ended before season : 2019,False,Dani Massunguna,Dani Massunguna,single
+300,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Bastos,3200000.0,False,working,False,Bastos,Bastos,single
+301,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,FAIL,De Paizo,0,True,Online Lookup Required,False,De Paizo,Paizo,single
+302,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Stélvio Cruz,125000.0,False,Data Ended before season : 2019,False,Stélvio Cruz,S Cruz,single
+303,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Herenilson,325000.0,False,working,False,Herenilson,Herenilson,single
+304,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Wilson Eduardo,4000000.0,False,working,False,Wilson Eduardo,Wilson Eduardo,single
+305,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Fredy,525000.0,False,working,False,Fredy,Fredy,single
+306,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Djalma,650000.0,False,Used Large Dataset,False,Djalma,Djalma,single
+307,3550,"African Cup of Nations, 2019",Tunisia vs Angola,24-06-2019,Angola,AO,2019,SUCCESS,Mateus,200000.0,False,working,False,Mateus,Mateus,single
+308,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Patrick Matasi,150000.0,False,working,False,Patrick Matasi,P Matasi,single
+309,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,David Owino,0.0,False,Large Dataset had 0,False,David Owino,D Owino,single
+310,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Musa Mohammed,200000.0,False,working,False,Musa Mohammed,M Mohammed,single
+311,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Joseph Okumu,200000.0,False,working,False,Joseph Okumu,J Okumu,single
+312,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",400000.0,False,working,False,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",A Omar,multiple
+313,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Johanna Omolo,400000.0,False,working,False,Johanna Omolo,J Omolo,single
+314,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Victor Wanyama,6500000.0,False,working,False,Victor Wanyama,V Wanyama,single
+315,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Ayub Masika,525000.0,False,working,False,Ayub Masika,A Masika,single
+316,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Francis Kahata,0,False,Not in either dataset for currect season but present in both seasons around match,True,Francis Kahata,F Kahata,single
+317,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Erick Otieno,150000.0,False,working,False,Erick Otieno,E Ouma Otieno,single
+318,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Kenya,KE,2019,SUCCESS,Michael Olunga,950000.0,False,working,False,Michael Olunga,M Olunga,single
+319,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Aishi Salum Manula,150000.0,False,working,False,Aishi Salum Manula,A Manula,single
+320,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Ramadhani Awam Kabwili,0.0,False,Large Dataset had 0,False,Ramadhani Awam Kabwili,H Ramadhani,single
+321,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,David Mwantika,-,False,Data Ended before season : 2019,False,David Mwantika,D Mwantika,single
+322,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Kelvin Yondani,0.0,False,Large Dataset had 0,False,Kelvin Yondani,K Yondani,single
+323,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Gadiel Michael Kamagi,100000.0,False,working,False,Gadiel Michael Kamagi,G Michael,single
+324,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Thomas Ulimwengu,125000.0,False,working,False,Thomas Ulimwengu,T Ulimwengu,single
+325,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Erasto Nyoni,125000.0,False,working,False,Erasto Nyoni,E Nyoni,single
+326,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Mudathir Yahya,125000.0,False,working,False,Mudathir Yahya,M Yahya,single
+327,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Faridi Mussa,75000.0,False,working,False,Faridi Mussa,F Mussa,single
+328,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Simon Msuva,550000.0,False,working,False,Simon Msuva,S Msuva,single
+329,3551,"African Cup of Nations, 2019",Kenya vs Tanzania,27-06-2019,Tanzania,TZ,2019,SUCCESS,Ally Samatta,9500000.0,False,working,False,Ally Samatta,M Samatta,single
+330,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Mohamed El Shenawy,1700000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+331,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Ahmed El Mohamady,2000000.0,False,Used Large Dataset,False,Ahmed El Mohamady,Ahmed El Mohamady,single
+332,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Mahmoud Alaa,950000.0,False,working,False,Mahmoud Alaa,Mahmoud Alaa,single
+333,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,A Hegazy,single
+334,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Ayman Ashraf,950000.0,False,working,False,Ayman Ashraf,Ayman Ashraf,single
+335,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Tarek Hamed,1200000.0,False,working,False,Tarek Hamed,Tarek Hamed,single
+336,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Elneny,5000000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+337,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Salah,120000000.0,False,working,False,Mohamed Salah,Mohamed Salah,single
+338,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Abdallah Said,1600000.0,False,working,False,Abdallah Said,Abdallah Said,single
+339,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none
+340,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,Marwan Mohsen,600000.0,False,Data Ended before season : 2019,False,Marwan Mohsen,Marwan Mohsen,single
+341,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+342,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+343,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Luyindama,none
+344,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Tisserand,none
+345,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,N Muzinga,none
+346,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,W Moke,none
+347,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Bokadi,none
+348,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,J Bolingi,none
+349,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,T Mputu,none
+350,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,J Maghoma,none
+351,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Bakambu,none
+352,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Denis Onyango,800000.0,False,working,False,Denis Onyango,D Onyango,single
+353,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Bevis Mugabi,100000.0,False,working,False,Bevis Mugabi,B Mugabi,single
+354,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Murshid Juuko,150000.0,False,working,False,Murshid Juuko,M Juuko,single
+355,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Hassan Wasswa,200000.0,False,working,False,Hassan Wasswa,H Wasswa,single
+356,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Godfrey Walusimbi,100000.0,False,Data Ended before season : 2019,False,Godfrey Walusimbi,G Walusimbi,single
+357,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Lumala Abdu,100000.0,False,working,False,Lumala Abdu,L Abdu,single
+358,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Mike Azira,300000.0,False,working,False,Mike Azira,M Azira,single
+359,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Khalid Aucho,200000.0,False,working,False,Khalid Aucho,K Aucho,single
+360,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Emmanuel Okwi,250000.0,False,working,False,Emmanuel Okwi,E Okwi,single
+361,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Farouk Miya,2000000.0,False,working,False,Farouk Miya,F Miya,single
+362,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Uganda,UG,2019,SUCCESS,Patrick Kaddu,150000.0,False,working,False,Patrick Kaddu,P Kaddu,single
+363,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Alfred Gomis,2400000.0,False,working,False,Alfred Gomis,A Gomis,single
+364,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Lamine Gassama,1000000.0,False,working,False,Lamine Gassama,L Gassama,single
+365,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Cheikhou Kouyaté,8000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+366,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+367,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Youssouf Sabaly,8000000.0,False,working,False,Youssouf Sabaly,Y Sabaly,single
+368,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Henri Saivet,800000.0,False,Used Large Dataset,False,Henri Saivet,H Saivet,single
+369,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+370,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Idrissa Gueye,24000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+371,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",24500000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",I Sarr,multiple
+372,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+373,3553,"African Cup of Nations, 2019",Uganda vs Senegal,05-07-2019,Senegal,SN,2019,SUCCESS,Sadio Mané,120000000.0,False,working,False,Sadio Mané,S Mané,single
+374,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Ronwen Williams,950000.0,False,working,False,Ronwen Williams,R Williams,single
+375,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Thamsanqa Mkhize,800000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+376,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+377,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Buhle Mkhwanazi,900000.0,False,working,False,Buhle Mkhwanazi,B Mkhwanazi,single
+378,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Sifiso Hlanti,1000000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+379,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Kamohelo Mokotjo,1600000.0,False,working,False,Kamohelo Mokotjo,K Mokotjo,single
+380,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Bongani Zungu,1600000.0,False,working,False,Bongani Zungu,B Zungu,single
+381,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Percy Tau,4000000.0,False,working,False,Percy Tau,P Tau,single
+382,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Thulani Serero,1000000.0,False,working,False,Thulani Serero,T Serero,single
+383,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Themba Zwane,1000000.0,False,working,False,Themba Zwane,T Zwane,single
+384,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,South Africa,ZA,2019,SUCCESS,Lebo Mothiba,4000000.0,False,working,False,Lebo Mothiba,L Mothiba,single
+385,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Munir Mohamedi,650000.0,False,working,False,Munir Mohamedi,M Mohamedi,single
+386,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Noussair Mazraoui,9500000.0,False,working,False,Noussair Mazraoui,N Mazraoui,single
+387,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Manuel da Costa,475000.0,False,Used Large Dataset,False,Manuel da Costa,M da Costa,single
+388,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Romain Saïss,4000000.0,False,working,False,Romain Saïss,R Saïss,single
+389,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Achraf Hakimi,54000000.0,False,working,False,Achraf Hakimi,A Hakimi,single
+390,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Moubarak Boussoufa,1500000.0,False,Data Ended before season : 2019,False,Moubarak Boussoufa,M Boussoufa,single
+391,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Karim El Ahmadi,4000000.0,False,Data Ended before season : 2019,False,Karim El Ahmadi,K El Ahmadi,single
+392,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Younès Belhanda,4000000.0,False,Used Large Dataset,False,Younès Belhanda,Y Belhanda,single
+393,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Hakim Ziyech,40000000.0,False,working,False,Hakim Ziyech,H Ziyech,single
+394,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Youssef En-Nesyri,12000000.0,False,working,False,Youssef En-Nesyri,Y En-Nesyri,single
+395,3554,"African Cup of Nations, 2019",South Africa vs Morocco,01-07-2019,Morocco,MA,2019,SUCCESS,Nordin Amrabat,3500000.0,False,working,False,Nordin Amrabat,N Amrabat,single
+396,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Melvin Adrien,75000.0,False,working,False,Melvin Adrien,M Adrien,single
+397,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Romain Métanire,1400000.0,False,working,False,Romain Métanire,R Métanire,single
+398,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,Bapasy,none
+399,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Thomas Fontaine,800000.0,False,working,False,Thomas Fontaine,T Fontaine,single
+400,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Jérôme Mombris,300000.0,False,working,False,Jérôme Mombris,J Mombris,single
+401,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Marco Ilaimaharitra,4000000.0,False,working,False,Marco Ilaimaharitra,M Ilaimaharitra,single
+402,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Anicet,2400000.0,False,working,False,Anicet,A Anicet,single
+403,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Ibrahim Amada,400000.0,False,working,False,Ibrahim Amada,I Amada,single
+404,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Lalaïna Nomenjanahary,325000.0,False,working,False,Lalaïna Nomenjanahary,L Nomenjanahary,single
+405,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,SUCCESS,Ima Andriatsima,300000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+406,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+407,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Ikechukwu Ezenwa,150000.0,False,working,False,Ikechukwu Ezenwa,I Ezenwa,single
+408,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Chidozie Awaziem,4000000.0,False,working,False,Chidozie Awaziem,C Awaziem,single
+409,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+410,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Leon Balogun,800000.0,False,working,False,Leon Balogun,L Balogun,single
+411,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Ola Aina,8000000.0,False,working,False,Ola Aina,O Aina,single
+412,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,John Ogu,1500000.0,False,Data Ended before season : 2019,False,John Ogu,J Ogu,single
+413,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+414,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Samuel Kalu,6500000.0,False,working,False,Samuel Kalu,S Kalu,single
+415,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,John Obi Mikel,1200000.0,False,Used Large Dataset,False,John Obi Mikel,J Obi Mikel,single
+416,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+417,3555,"African Cup of Nations, 2019",Madagascar vs Nigeria,30-06-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+418,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+419,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Youcef Atal,20000000.0,False,working,False,Youcef Atal,Y Atal,single
+420,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Aïssa Mandi,16000000.0,False,working,False,Aïssa Mandi,A Mandi,single
+421,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Djamel Eddine Benlamri,1400000.0,False,working,False,Djamel Eddine Benlamri,D Benlamri,single
+422,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Ramy Bensebaini,9500000.0,False,working,False,Ramy Bensebaini,R Bensebaini,single
+423,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Adlène Guédioura,525000.0,False,working,False,Adlène Guédioura,A Guédioura,single
+424,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Riyad Mahrez,48000000.0,False,working,False,Riyad Mahrez,R Mahrez,single
+425,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Sofiane Feghouli,6000000.0,False,working,False,Sofiane Feghouli,S Feghouli,single
+426,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+427,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Youcef Belaïli,2400000.0,False,working,False,Youcef Belaïli,Y Belaïli,single
+428,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Algeria,DZ,2019,SUCCESS,Baghdad Bounedjah,6800000.0,False,working,False,Baghdad Bounedjah,B Bounedjah,single
+429,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Patrick Matasi,150000.0,False,working,False,Patrick Matasi,P Matasi,single
+430,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Philemon Otieno,-,False,Data Ended before season : 2019,False,Philemon Otieno,P Otieno,single
+431,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Joseph Okumu,200000.0,False,working,False,Joseph Okumu,J Okumu,single
+432,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Musa Mohammed,200000.0,False,working,False,Musa Mohammed,M Mohammed,single
+433,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",400000.0,False,working,False,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",A Omar,multiple
+434,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Victor Wanyama,6500000.0,False,working,False,Victor Wanyama,V Wanyama,single
+435,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Dennis Odhiambo,-,False,Data Ended before season : 2019,False,Dennis Odhiambo,D Odhiambo,single
+436,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Eric Omondi,200000.0,False,working,False,Eric Omondi,E Johana Omondi,single
+437,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Francis Kahata,0,False,Not in either dataset for currect season but present in both seasons around match,True,Francis Kahata,F Kahata,single
+438,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Ayub Masika,525000.0,False,working,False,Ayub Masika,A Masika,single
+439,3556,"African Cup of Nations, 2019",Algeria vs Kenya,23-06-2019,Kenya,KE,2019,SUCCESS,Michael Olunga,950000.0,False,working,False,Michael Olunga,M Olunga,single
+440,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Bono,4000000.0,False,working,False,Bono,Y Bounou,single
+441,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Nabil Dirar,800000.0,False,working,False,Nabil Dirar,N Dirar,single
+442,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,FAIL,Medhi Benatia,0,True,Was in  DB before or after season,True,Medhi Benatia,M Benatia,single
+443,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Romain Saïss,4000000.0,False,working,False,Romain Saïss,R Saïss,single
+444,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Achraf Hakimi,54000000.0,False,working,False,Achraf Hakimi,A Hakimi,single
+445,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Younès Belhanda,4000000.0,False,Used Large Dataset,False,Younès Belhanda,Y Belhanda,single
+446,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Karim El Ahmadi,4000000.0,False,Data Ended before season : 2019,False,Karim El Ahmadi,K El Ahmadi,single
+447,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Moubarak Boussoufa,1500000.0,False,Data Ended before season : 2019,False,Moubarak Boussoufa,M Boussoufa,single
+448,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Hakim Ziyech,40000000.0,False,working,False,Hakim Ziyech,H Ziyech,single
+449,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Youssef En-Nesyri,12000000.0,False,working,False,Youssef En-Nesyri,Y En-Nesyri,single
+450,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Morocco,MA,2019,SUCCESS,Nordin Amrabat,3500000.0,False,working,False,Nordin Amrabat,N Amrabat,single
+451,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Sylvain Gbohouo,325000.0,False,working,False,Sylvain Gbohouo,S Gbohouo,single
+452,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Serge Aurier,16000000.0,False,working,False,Serge Aurier,S Aurier,single
+453,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,"['Ismaël Traoré', 'Ibrahim Traoré']",1200000.0,False,working,False,"['Ismaël Traoré', 'Ibrahim Traoré']",I Traoré,multiple
+454,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wilfried Kanon,1400000.0,False,working,False,Wilfried Kanon,W Kanon,single
+455,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Wonlo Coulibaly,150000.0,False,working,False,Wonlo Coulibaly,W Coulibaly,single
+456,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Geoffroy Serey Dié,400000.0,False,working,False,Geoffroy Serey Dié,G Serey Dié,single
+457,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Franck Kessié,20000000.0,False,working,False,Franck Kessié,F Kessié,single
+458,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Nicolas Pépé,52000000.0,False,working,False,Nicolas Pépé,N Pépé,single
+459,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jean Michaël Seri,9500000.0,False,working,False,Jean Michaël Seri,J Seri,single
+460,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Max Gradel,4000000.0,False,working,False,Max Gradel,M Gradel,single
+461,3557,"African Cup of Nations, 2019",Morocco vs Cote d'Ivoire,28-06-2019,Cote d'Ivoire,CI,2019,SUCCESS,Jonathan Kodjia,3300000.0,False,working,False,Jonathan Kodjia,J Kodjia,single
+462,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+463,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+464,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Luyindama,none
+465,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Tisserand,none
+466,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,A Masuaku,none
+467,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Bokadi,none
+468,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,Y Bolasie,none
+469,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Mbemba,none
+470,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,P M'Poku,none
+471,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Elia,none
+472,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Bakambu,none
+473,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Denis Onyango,800000.0,False,working,False,Denis Onyango,D Onyango,single
+474,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Bevis Mugabi,100000.0,False,working,False,Bevis Mugabi,B Mugabi,single
+475,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Murshid Juuko,150000.0,False,working,False,Murshid Juuko,M Juuko,single
+476,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Hassan Wasswa,200000.0,False,working,False,Hassan Wasswa,H Wasswa,single
+477,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Godfrey Walusimbi,100000.0,False,Data Ended before season : 2019,False,Godfrey Walusimbi,G Walusimbi,single
+478,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Lumala Abdu,100000.0,False,working,False,Lumala Abdu,L Abdu,single
+479,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Mike Azira,300000.0,False,working,False,Mike Azira,M Azira,single
+480,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Khalid Aucho,200000.0,False,working,False,Khalid Aucho,K Aucho,single
+481,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Emmanuel Okwi,250000.0,False,working,False,Emmanuel Okwi,E Okwi,single
+482,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Farouk Miya,2000000.0,False,working,False,Farouk Miya,F Miya,single
+483,3558,"African Cup of Nations, 2019",Congo DR vs Uganda,22-06-2019,Uganda,UG,2019,SUCCESS,Patrick Kaddu,150000.0,False,working,False,Patrick Kaddu,P Kaddu,single
+484,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Patrick Matasi,150000.0,False,working,False,Patrick Matasi,P Matasi,single
+485,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Philemon Otieno,-,False,Data Ended before season : 2019,False,Philemon Otieno,P Otieno,single
+486,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Musa Mohammed,200000.0,False,working,False,Musa Mohammed,M Mohammed,single
+487,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Joseph Okumu,200000.0,False,working,False,Joseph Okumu,J Okumu,single
+488,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",400000.0,False,working,False,"['Abdulatif Omar', 'Abud Omar', 'Adisa Omar']",A Omar,multiple
+489,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Ayub Masika,525000.0,False,working,False,Ayub Masika,A Masika,single
+490,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Johanna Omolo,400000.0,False,working,False,Johanna Omolo,J Omolo,single
+491,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Victor Wanyama,6500000.0,False,working,False,Victor Wanyama,V Wanyama,single
+492,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Dennis Odhiambo,-,False,Data Ended before season : 2019,False,Dennis Odhiambo,D Odhiambo,single
+493,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Erick Otieno,150000.0,False,working,False,Erick Otieno,E Ouma Otieno,single
+494,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Kenya,KE,2019,SUCCESS,Michael Olunga,950000.0,False,working,False,Michael Olunga,M Olunga,single
+495,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Alfred Gomis,2400000.0,False,working,False,Alfred Gomis,A Gomis,single
+496,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Lamine Gassama,1000000.0,False,working,False,Lamine Gassama,L Gassama,single
+497,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Cheikhou Kouyaté,8000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+498,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+499,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Saliou Ciss,650000.0,False,working,False,Saliou Ciss,S Ciss,single
+500,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Henri Saivet,800000.0,False,Used Large Dataset,False,Henri Saivet,H Saivet,single
+501,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+502,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Idrissa Gueye,24000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+503,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",24500000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",I Sarr,multiple
+504,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+505,3559,"African Cup of Nations, 2019",Kenya vs Senegal,01-07-2019,Senegal,SN,2019,SUCCESS,Sadio Mané,120000000.0,False,working,False,Sadio Mané,S Mané,single
+506,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Bono,4000000.0,False,working,False,Bono,Y Bounou,single
+507,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Nabil Dirar,800000.0,False,working,False,Nabil Dirar,N Dirar,single
+508,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Manuel da Costa,475000.0,False,Used Large Dataset,False,Manuel da Costa,M da Costa,single
+509,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Romain Saïss,4000000.0,False,working,False,Romain Saïss,R Saïss,single
+510,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Achraf Hakimi,54000000.0,False,working,False,Achraf Hakimi,A Hakimi,single
+511,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Younès Belhanda,4000000.0,False,Used Large Dataset,False,Younès Belhanda,Y Belhanda,single
+512,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Karim El Ahmadi,4000000.0,False,Data Ended before season : 2019,False,Karim El Ahmadi,K El Ahmadi,single
+513,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Moubarak Boussoufa,1500000.0,False,Data Ended before season : 2019,False,Moubarak Boussoufa,M Boussoufa,single
+514,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Hakim Ziyech,40000000.0,False,working,False,Hakim Ziyech,H Ziyech,single
+515,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Youssef En-Nesyri,12000000.0,False,working,False,Youssef En-Nesyri,Y En-Nesyri,single
+516,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Morocco,MA,2019,SUCCESS,Nordin Amrabat,3500000.0,False,working,False,Nordin Amrabat,N Amrabat,single
+517,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Saturnin Allagbé,475000.0,False,working,False,Saturnin Allagbé,S Allagbé,single
+518,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Seïbou Mama,0.0,False,Large Dataset had 0,False,Seïbou Mama,S Mama,single
+519,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Moise Adilehou,300000.0,False,working,False,Moise Adilehou,M Adilehou,single
+520,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Khaled Adénon,400000.0,False,working,False,Khaled Adénon,K Adénon,single
+521,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Olivier Verdon,475000.0,False,working,False,Olivier Verdon,O Verdon,single
+522,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Emmanuel Imorou,650000.0,False,working,False,Emmanuel Imorou,E Imorou,single
+523,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Cebio Soukou,650000.0,False,working,False,Cebio Soukou,C Soukou,single
+524,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Jordan Adéoti,475000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+525,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Stéphane Sessègnon,300000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+526,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,SUCCESS,Jodel Dossou,550000.0,False,working,False,Jodel Dossou,J Dossou,single
+527,3560,"African Cup of Nations, 2019",Morocco vs Benin,05-07-2019,Benin,BJ,2019,FAIL,0,0,True,Lookup Required,False,0,M Poté,none
+528,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Mohamed El Shenawy,1700000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+529,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Ahmed El Mohamady,2000000.0,False,Used Large Dataset,False,Ahmed El Mohamady,Ahmed El Mohamady,single
+530,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Mahmoud Alaa,950000.0,False,working,False,Mahmoud Alaa,Mahmoud Alaa,single
+531,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,A Hegazy,single
+532,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Ayman Ashraf,950000.0,False,working,False,Ayman Ashraf,Ayman Ashraf,single
+533,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Tarek Hamed,1200000.0,False,working,False,Tarek Hamed,Tarek Hamed,single
+534,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Elneny,5000000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+535,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Mohamed Salah,120000000.0,False,working,False,Mohamed Salah,Mohamed Salah,single
+536,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Abdallah Said,1600000.0,False,working,False,Abdallah Said,Abdallah Said,single
+537,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none
+538,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,Marwan Mohsen,600000.0,False,Data Ended before season : 2019,False,Marwan Mohsen,Marwan Mohsen,single
+539,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Edmore Sibanda,-,False,Data Ended before season : 2019,False,Edmore Sibanda,E Sibanda,single
+540,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Tendayi Darikwa,600000.0,False,working,False,Tendayi Darikwa,T Darikwa,single
+541,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Alec Mudimu,150000.0,False,working,False,Alec Mudimu,A Mudimu,single
+542,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Teenage Hadebe,675000.0,False,working,False,Teenage Hadebe,T Hadebe,single
+543,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Divine Lunga,400000.0,False,working,False,Divine Lunga,D Lunga,single
+544,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Marshall Munetsi,800000.0,False,working,False,Marshall Munetsi,M Munetsi,single
+545,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Marvelous Nakamba,8000000.0,False,working,False,Marvelous Nakamba,M Nakamba,single
+546,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Knowledge Musona,800000.0,False,working,False,Knowledge Musona,K Musona,single
+547,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Ovidy Karuru,225000.0,False,working,False,Ovidy Karuru,O Karuru,single
+548,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Khama Billiat,1500000.0,False,working,False,Khama Billiat,K Billiat,single
+549,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Zimbabwe,ZW,2019,SUCCESS,Nyasha Mushekwi,2000000.0,False,Data Ended before season : 2019,False,Nyasha Mushekwi,N Mushekwi,single
+550,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Melvin Adrien,75000.0,False,working,False,Melvin Adrien,M Adrien,single
+551,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Romain Métanire,1400000.0,False,working,False,Romain Métanire,R Métanire,single
+552,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,Bapasy,none
+553,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Thomas Fontaine,800000.0,False,working,False,Thomas Fontaine,T Fontaine,single
+554,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Jérôme Mombris,300000.0,False,working,False,Jérôme Mombris,J Mombris,single
+555,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Anicet,2400000.0,False,working,False,Anicet,A Anicet,single
+556,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Lalaïna Nomenjanahary,325000.0,False,working,False,Lalaïna Nomenjanahary,L Nomenjanahary,single
+557,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Marco Ilaimaharitra,4000000.0,False,working,False,Marco Ilaimaharitra,M Ilaimaharitra,single
+558,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Ibrahim Amada,400000.0,False,working,False,Ibrahim Amada,I Amada,single
+559,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+560,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Madagascar,MG,2019,SUCCESS,Ima Andriatsima,300000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+561,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Mouez Hassen,475000.0,False,working,False,Mouez Hassen,M Hassen,single
+562,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Wajdi Kechrida,800000.0,False,working,False,Wajdi Kechrida,W Kechrida,single
+563,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+564,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+565,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+566,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Ghaylen Chaalali,800000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+567,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+568,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Ferjani Sassi,2000000.0,False,working,False,Ferjani Sassi,F Sassi,single
+569,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+570,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Taha Yassine Khenissi,1000000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+571,3562,"African Cup of Nations, 2019",Madagascar vs Tunisia,11-07-2019,Tunisia,TN,2019,SUCCESS,Youssef Msakni,2400000.0,False,working,False,Youssef Msakni,Y Msakni,single
+572,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Jonas Mendes,250000.0,False,working,False,Jonas Mendes,Jonas Mendes,single
+573,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Nanu,650000.0,False,working,False,Nanu,Nanú,single
+574,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Juary Soares,300000.0,False,working,False,Juary Soares,J Soares,single
+575,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Marcelo Djaló,325000.0,False,working,False,Marcelo Djaló,Marcelo Djaló,single
+576,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Muhammad Candé,400000.0,False,working,False,Muhammad Candé,Mamadu Candé,single
+577,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Mama Baldé,3200000.0,False,working,False,Mama Baldé,Mama Baldé,single
+578,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Bura Nogueira,125000.0,False,working,False,Bura Nogueira,Bura Nogueira,single
+579,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Sori Mané,300000.0,False,working,False,Sori Mané,Sori Mané,single
+580,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Piqueti,150000.0,False,working,False,Piqueti,Piqueti,single
+581,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Pelé,2800000.0,False,working,False,Pelé,Pelé,single
+582,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Guinea-Bissau,GW,2019,SUCCESS,Joseph Mendes,200000.0,False,working,False,Joseph Mendes,Joseph Mendes,single
+583,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Richard Ofori,600000.0,False,working,False,Richard Ofori,R Ofori,single
+584,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Andy Yiadom,3200000.0,False,working,False,Andy Yiadom,A Yiadom,single
+585,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Joseph Aidoo,6500000.0,False,working,False,Joseph Aidoo,J Aidoo,single
+586,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,John Boye,800000.0,False,working,False,John Boye,J Boye,single
+587,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Abdul Rahman Baba,2400000.0,False,working,False,Abdul Rahman Baba,A Baba,single
+588,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Thomas Partey,40000000.0,False,working,False,Thomas Partey,T Partey,single
+589,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Mubarak Wakaso,2000000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+590,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Samuel Owusu,1400000.0,False,working,False,Samuel Owusu,S Owusu,single
+591,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,André Ayew,4800000.0,False,working,False,André Ayew,A Ayew,single
+592,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,FAIL,Kwabena Adusei,0,True,Online Lookup Required,False,Kwabena Adusei,O Kwabena,single
+593,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Jordan Ayew,6500000.0,False,working,False,Jordan Ayew,J Ayew,single
+594,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Brahim Souleymane,-,False,Data Ended before season : 2019,False,Brahim Souleymane,B Souleymane,single
+595,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Moustapha Diaw,100000.0,False,working,False,Moustapha Diaw,M Diaw,single
+596,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Bakary N'Diaye,350000.0,False,working,False,Bakary N'Diaye,B N'Diaye,single
+597,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Abdoul Ba,300000.0,False,working,False,Abdoul Ba,Abdoul Ba,single
+598,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Aly Abeid,300000.0,False,working,False,Aly Abeid,A Abeid,single
+599,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Yali Dellahi,200000.0,False,working,False,Yali Dellahi,M Yali Dellahi,single
+600,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Ismail Diakite,450000.0,False,working,False,Ismail Diakite,I Diakhité,single
+601,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Ibréhima Coulibaly,300000.0,False,working,False,Ibréhima Coulibaly,I Coulibaly,single
+602,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,"['Moctar El Hacen', 'Mahmoud El Hacen']",200000.0,False,working,False,"['Moctar El Hacen', 'Mahmoud El Hacen']",M El Hacen,multiple
+603,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,FAIL,0,0,True,Lookup Required,False,0,M Khalil,none
+604,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Mauritania,MR,2019,SUCCESS,Adama Ba,275000.0,False,working,False,Adama Ba,Adama Ba,single
+605,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Mouez Hassen,475000.0,False,working,False,Mouez Hassen,M Hassen,single
+606,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Wajdi Kechrida,800000.0,False,working,False,Wajdi Kechrida,W Kechrida,single
+607,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+608,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+609,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+610,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Karim Aouadhi,400000.0,False,Data Ended before season : 2019,False,Karim Aouadhi,K Aouadhi,single
+611,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+612,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Bassem Srarfi,1600000.0,False,working,False,Bassem Srarfi,B Srar,single
+613,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Naïm Sliti,5800000.0,False,working,False,Naïm Sliti,N Sliti,single
+614,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Youssef Msakni,2400000.0,False,working,False,Youssef Msakni,Y Msakni,single
+615,3564,"African Cup of Nations, 2019",Mauritania vs Tunisia,02-07-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+616,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Daniel Akpeyi,600000.0,False,working,False,Daniel Akpeyi,D Akpeyi,single
+617,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Chidozie Awaziem,4000000.0,False,working,False,Chidozie Awaziem,C Awaziem,single
+618,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+619,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Leon Balogun,800000.0,False,working,False,Leon Balogun,L Balogun,single
+620,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Ola Aina,8000000.0,False,working,False,Ola Aina,O Aina,single
+621,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+622,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+623,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Moses Simon,6500000.0,False,working,False,Moses Simon,M Simon,single
+624,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+625,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+626,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+627,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Ibrahim Koné,100000.0,False,working,False,Ibrahim Koné,I Koné,single
+628,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Mikael Dyrestam,300000.0,False,working,False,Mikael Dyrestam,M Dyrestam,single
+629,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Ernest Seka,600000.0,False,Data Ended before season : 2019,False,Ernest Seka,E Seka,single
+630,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Simon Falette,2400000.0,False,working,False,Simon Falette,S Falette,single
+631,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2800000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+632,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Cissé,600000.0,False,working,False,Ibrahima Cissé,I Cissé,single
+633,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Amadou Diawara,18500000.0,False,working,False,Amadou Diawara,A Diawara,single
+634,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Traoré,800000.0,False,Used Large Dataset,False,Ibrahima Traoré,I Traoré,single
+635,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Naby Keïta,33500000.0,False,working,False,Naby Keïta,N Keïta,single
+636,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,François Kamano,8000000.0,False,working,False,François Kamano,F Kamano,single
+637,3565,"African Cup of Nations, 2019",Nigeria vs Guinea,26-06-2019,Guinea,GN,2019,SUCCESS,Sory Kaba,1600000.0,False,working,False,Sory Kaba,S Kaba,single
+638,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,André Onana,36000000.0,False,working,False,André Onana,A Onana,single
+639,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Jean-Armel Kana-Biyik,1000000.0,False,Used Large Dataset,False,Jean-Armel Kana-Biyik,J Kana-Biyik,single
+640,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Michael Ngadeu,4500000.0,False,working,False,Michael Ngadeu,M Ngadeu,single
+641,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Gaëtan Bong,800000.0,False,Used Large Dataset,False,Gaëtan Bong,G Bong,single
+642,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Collins Fai,1400000.0,False,working,False,Collins Fai,C Fai,single
+643,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,FAIL,Georges Mandjeck,0,True,Was in  DB before or after season,True,Georges Mandjeck,G Mandjeck,single
+644,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Frank Anguissa,20000000.0,False,working,False,Frank Anguissa,F Anguissa,single
+645,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Ambroise Oyongo,2800000.0,False,working,False,Ambroise Oyongo,A Oyongo,single
+646,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Christian Bassogog,2800000.0,False,working,False,Christian Bassogog,C Bassogog,single
+647,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Karl Toko Ekambi,14000000.0,False,working,False,Karl Toko Ekambi,K Toko Ekambi,single
+648,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Cameroon,CM,2019,SUCCESS,Clinton N'Jie,2200000.0,False,working,False,Clinton N'Jie,C N'Jie,single
+649,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Richard Ofori,600000.0,False,working,False,Richard Ofori,R Ofori,single
+650,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Andy Yiadom,3200000.0,False,working,False,Andy Yiadom,A Yiadom,single
+651,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Jonathan Mensah,650000.0,False,working,False,Jonathan Mensah,J Mensah,single
+652,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Kasim Adams,3200000.0,False,working,False,Kasim Adams,K Adams,single
+653,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Abdul Rahman Baba,2400000.0,False,working,False,Abdul Rahman Baba,A Baba,single
+654,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Christian Atsu,4800000.0,False,Used Large Dataset,False,Christian Atsu,C Atsu,single
+655,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Thomas Partey,40000000.0,False,working,False,Thomas Partey,T Partey,single
+656,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Mubarak Wakaso,2000000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+657,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Kwadwo Asamoah,6500000.0,False,Used Large Dataset,False,Kwadwo Asamoah,K Asamoah,single
+658,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,André Ayew,4800000.0,False,working,False,André Ayew,A Ayew,single
+659,3566,"African Cup of Nations, 2019",Cameroon vs Ghana,29-06-2019,Ghana,GH,2019,SUCCESS,Jordan Ayew,6500000.0,False,working,False,Jordan Ayew,J Ayew,single
+660,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Brahim Souleymane,-,False,Data Ended before season : 2019,False,Brahim Souleymane,B Souleymane,single
+661,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Moustapha Diaw,100000.0,False,working,False,Moustapha Diaw,M Diaw,single
+662,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Bakary N'Diaye,350000.0,False,working,False,Bakary N'Diaye,B N'Diaye,single
+663,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Abdoul Ba,300000.0,False,working,False,Abdoul Ba,Abdoul Ba,single
+664,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Aly Abeid,300000.0,False,working,False,Aly Abeid,A Abeid,single
+665,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Yali Dellahi,200000.0,False,working,False,Yali Dellahi,M Yali Dellahi,single
+666,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Khassa Camara,325000.0,False,working,False,Khassa Camara,K Camara,single
+667,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Ismail Diakite,450000.0,False,working,False,Ismail Diakite,I Diakhité,single
+668,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,"['Moctar El Hacen', 'Mahmoud El Hacen']",200000.0,False,working,False,"['Moctar El Hacen', 'Mahmoud El Hacen']",M El Hacen,multiple
+669,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,FAIL,0,0,True,Lookup Required,False,0,M Khalil,none
+670,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Mauritania,MR,2019,SUCCESS,Adama Ba,275000.0,False,working,False,Adama Ba,Adama Ba,single
+671,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,FAIL,0,0,True,Lookup Required,False,0,Toni Cabaça,none
+672,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,FAIL,Bruno Gaspar,0,True,Was in  DB before or after season,True,Bruno Gaspar,Bruno Gaspar,single
+673,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Dani Massunguna,150000.0,False,Data Ended before season : 2019,False,Dani Massunguna,Dani Massunguna,single
+674,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Bastos,3200000.0,False,working,False,Bastos,Bastos,single
+675,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,FAIL,De Paizo,0,True,Online Lookup Required,False,De Paizo,Paizo,single
+676,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Herenilson,325000.0,False,working,False,Herenilson,Herenilson,single
+677,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Show,1300000.0,False,working,False,Show,Show,single
+678,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Mateus,200000.0,False,working,False,Mateus,Mateus,single
+679,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Fredy,525000.0,False,working,False,Fredy,Fredy,single
+680,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Djalma,650000.0,False,Used Large Dataset,False,Djalma,Djalma,single
+681,3567,"African Cup of Nations, 2019",Mauritania vs Angola,29-06-2019,Angola,AO,2019,SUCCESS,Gelson Dala,800000.0,False,working,False,Gelson Dala,Gelson Dala,single
+682,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Daniel Akpeyi,600000.0,False,working,False,Daniel Akpeyi,D Akpeyi,single
+683,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Chidozie Awaziem,4000000.0,False,working,False,Chidozie Awaziem,C Awaziem,single
+684,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+685,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+686,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Jamilu Collins,2400000.0,False,working,False,Jamilu Collins,J Collins,single
+687,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+688,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+689,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Samuel Chukwueze,27000000.0,False,working,False,Samuel Chukwueze,S Chukwueze,single
+690,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+691,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+692,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+693,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Ronwen Williams,950000.0,False,working,False,Ronwen Williams,R Williams,single
+694,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Thamsanqa Mkhize,800000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+695,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+696,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Buhle Mkhwanazi,900000.0,False,working,False,Buhle Mkhwanazi,B Mkhwanazi,single
+697,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Sifiso Hlanti,1000000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+698,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Dean Furman,525000.0,False,working,False,Dean Furman,D Furman,single
+699,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Kamohelo Mokotjo,1600000.0,False,working,False,Kamohelo Mokotjo,K Mokotjo,single
+700,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Percy Tau,4000000.0,False,working,False,Percy Tau,P Tau,single
+701,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Bongani Zungu,1600000.0,False,working,False,Bongani Zungu,B Zungu,single
+702,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Thembinkosi Lorch,800000.0,False,working,False,Thembinkosi Lorch,T Lorch,single
+703,3568,"African Cup of Nations, 2019",Nigeria vs South Africa,10-07-2019,South Africa,ZA,2019,SUCCESS,Lebo Mothiba,4000000.0,False,working,False,Lebo Mothiba,L Mothiba,single
+704,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Mouez Hassen,475000.0,False,working,False,Mouez Hassen,M Hassen,single
+705,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Wajdi Kechrida,800000.0,False,working,False,Wajdi Kechrida,W Kechrida,single
+706,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+707,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+708,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+709,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Ghaylen Chaalali,800000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+710,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+711,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Anice Badri,1600000.0,False,working,False,Anice Badri,A Badri,single
+712,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+713,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Naïm Sliti,5800000.0,False,working,False,Naïm Sliti,N Sliti,single
+714,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Tunisia,TN,2019,SUCCESS,Taha Yassine Khenissi,1000000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+715,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,"['Djigui Diarra', 'Drissa Diarra']",200000.0,False,working,False,"['Djigui Diarra', 'Drissa Diarra']",D Diarra,multiple
+716,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Hamari Traoré,4800000.0,False,working,False,Hamari Traoré,H Traoré,single
+717,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Molla Wagué,800000.0,False,working,False,Molla Wagué,M Wagué,single
+718,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Mamadou Fofana,3200000.0,False,working,False,Mamadou Fofana,Mamadou Fofana,single
+719,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Youssouf Koné,6500000.0,False,working,False,Youssouf Koné,Y Koné,single
+720,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Diadié Samassékou,12000000.0,False,working,False,Diadié Samassékou,D Samassékou,single
+721,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,"['Abdoulay Diaby', 'Alassane Diaby']",4000000.0,False,working,False,"['Abdoulay Diaby', 'Alassane Diaby']",A Diaby,multiple
+722,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Lassana Coulibaly,950000.0,False,working,False,Lassana Coulibaly,L Coulibaly,single
+723,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,FAIL,Mohamed Haidara,0,True,Was in  DB before or after season,True,Mohamed Haidara,M Haïdara,single
+724,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Moussa Djenepo,11000000.0,False,working,False,Moussa Djenepo,M Djénépo,single
+725,3569,"African Cup of Nations, 2019",Tunisia vs Mali,28-06-2019,Mali,ML,2019,SUCCESS,Moussa Marega,19000000.0,False,Used Large Dataset,False,Moussa Marega,M Marega,single
+726,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Richard Ofori,600000.0,False,working,False,Richard Ofori,R Ofori,single
+727,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Andy Yiadom,3200000.0,False,working,False,Andy Yiadom,A Yiadom,single
+728,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Kasim Adams,3200000.0,False,working,False,Kasim Adams,K Adams,single
+729,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,John Boye,800000.0,False,working,False,John Boye,J Boye,single
+730,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Abdul Rahman Baba,2400000.0,False,working,False,Abdul Rahman Baba,A Baba,single
+731,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Afriyie Acquah,1600000.0,False,working,False,Afriyie Acquah,A Acquah,single
+732,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Mubarak Wakaso,2000000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+733,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Samuel Owusu,1400000.0,False,working,False,Samuel Owusu,S Owusu,single
+734,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Thomas Partey,40000000.0,False,working,False,Thomas Partey,T Partey,single
+735,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,André Ayew,4800000.0,False,working,False,André Ayew,A Ayew,single
+736,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Ghana,GH,2019,SUCCESS,Jordan Ayew,6500000.0,False,working,False,Jordan Ayew,J Ayew,single
+737,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Mouez Hassen,475000.0,False,working,False,Mouez Hassen,M Hassen,single
+738,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Wajdi Kechrida,800000.0,False,working,False,Wajdi Kechrida,W Kechrida,single
+739,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+740,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+741,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+742,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Ghaylen Chaalali,800000.0,False,working,False,Ghaylen Chaalali,G Chaalali,single
+743,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+744,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Ferjani Sassi,2000000.0,False,working,False,Ferjani Sassi,F Sassi,single
+745,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Anice Badri,1600000.0,False,working,False,Anice Badri,A Badri,single
+746,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Taha Yassine Khenissi,1000000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+747,3570,"African Cup of Nations, 2019",Ghana vs Tunisia,08-07-2019,Tunisia,TN,2019,SUCCESS,Youssef Msakni,2400000.0,False,working,False,Youssef Msakni,Y Msakni,single
+748,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Darren Keet,400000.0,False,working,False,Darren Keet,D Keet,single
+749,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Thamsanqa Mkhize,800000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+750,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+751,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Buhle Mkhwanazi,900000.0,False,working,False,Buhle Mkhwanazi,B Mkhwanazi,single
+752,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Sifiso Hlanti,1000000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+753,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Hlompho Kekana,700000.0,False,Data Ended before season : 2019,False,Hlompho Kekana,H Kekana,single
+754,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Bongani Zungu,1600000.0,False,working,False,Bongani Zungu,B Zungu,single
+755,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Percy Tau,4000000.0,False,working,False,Percy Tau,P Tau,single
+756,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Sibusiso Vilakazi,750000.0,False,Data Ended before season : 2019,False,Sibusiso Vilakazi,S Vilakazi,single
+757,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Themba Zwane,1000000.0,False,working,False,Themba Zwane,T Zwane,single
+758,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,South Africa,ZA,2019,SUCCESS,Lebo Mothiba,4000000.0,False,working,False,Lebo Mothiba,L Mothiba,single
+759,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none
+760,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,FAIL,0,0,True,Online Lookup Required,False,0,L Horaeb,none
+761,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none
+762,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none
+763,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none
+764,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none
+765,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,300000.0,False,Data Ended before season : 2019,False,0,R Ketjijere,none
+766,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,250000.0,False,working,False,0,M Starke,none
+767,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none
+768,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none
+769,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,325000.0,False,working,False,0,B Shilongo,none
+770,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Edouard Mendy,7000000.0,False,working,False,Edouard Mendy,E Mendy,single
+771,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Moussa Wagué,6700000.0,False,working,False,Moussa Wagué,M Wagué,single
+772,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Cheikhou Kouyaté,8000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+773,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+774,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Youssouf Sabaly,8000000.0,False,working,False,Youssouf Sabaly,Y Sabaly,single
+775,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Alfred N'Diaye,5000000.0,False,Data Ended before season : 2019,False,Alfred N'Diaye,A N'Diaye,single
+776,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Keita Baldé,16000000.0,False,working,False,Keita Baldé,K Baldé,single
+777,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Krépin Diatta,19000000.0,False,working,False,Krépin Diatta,K Diatta,single
+778,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+779,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,Sadio Mané,120000000.0,False,working,False,Sadio Mané,S Mané,single
+780,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+781,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+782,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Youcef Atal,20000000.0,False,working,False,Youcef Atal,Y Atal,single
+783,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Aïssa Mandi,16000000.0,False,working,False,Aïssa Mandi,A Mandi,single
+784,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Djamel Eddine Benlamri,1400000.0,False,working,False,Djamel Eddine Benlamri,D Benlamri,single
+785,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Ramy Bensebaini,9500000.0,False,working,False,Ramy Bensebaini,R Bensebaini,single
+786,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Adlène Guédioura,525000.0,False,working,False,Adlène Guédioura,A Guédioura,single
+787,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+788,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Riyad Mahrez,48000000.0,False,working,False,Riyad Mahrez,R Mahrez,single
+789,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Sofiane Feghouli,6000000.0,False,working,False,Sofiane Feghouli,S Feghouli,single
+790,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Youcef Belaïli,2400000.0,False,working,False,Youcef Belaïli,Y Belaïli,single
+791,3572,"African Cup of Nations, 2019",Senegal vs Algeria,27-06-2019,Algeria,DZ,2019,SUCCESS,Baghdad Bounedjah,6800000.0,False,working,False,Baghdad Bounedjah,B Bounedjah,single
+792,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Alfred Gomis,2400000.0,False,working,False,Alfred Gomis,A Gomis,single
+793,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Lamine Gassama,1000000.0,False,working,False,Lamine Gassama,L Gassama,single
+794,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Cheikhou Kouyaté,8000000.0,False,working,False,Cheikhou Kouyaté,C Kouyaté,single
+795,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+796,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Youssouf Sabaly,8000000.0,False,working,False,Youssouf Sabaly,Y Sabaly,single
+797,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Henri Saivet,800000.0,False,Used Large Dataset,False,Henri Saivet,H Saivet,single
+798,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+799,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Idrissa Gueye,24000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+800,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Krépin Diatta,19000000.0,False,working,False,Krépin Diatta,K Diatta,single
+801,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+802,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Senegal,SN,2019,SUCCESS,Sadio Mané,120000000.0,False,working,False,Sadio Mané,S Mané,single
+803,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Mouez Hassen,475000.0,False,working,False,Mouez Hassen,M Hassen,single
+804,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Mohamed Dräger,1600000.0,False,working,False,Mohamed Dräger,M Dräger,single
+805,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Dylan Bronn,4000000.0,False,working,False,Dylan Bronn,D Bronn,single
+806,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Yassine Meriah,2400000.0,False,working,False,Yassine Meriah,Y Meriah,single
+807,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Oussama Haddadi,2400000.0,False,working,False,Oussama Haddadi,O Haddadi,single
+808,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Ellyes Skhiri,6800000.0,False,working,False,Ellyes Skhiri,E Skhiri,single
+809,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,W Khazri,single
+810,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Ferjani Sassi,2000000.0,False,working,False,Ferjani Sassi,F Sassi,single
+811,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,"['Ayman Ben Mohamed', 'Anas Haj Mohamed']",725000.0,False,working,False,"['Ayman Ben Mohamed', 'Anas Haj Mohamed']",A Ben Mohamed,multiple
+812,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Youssef Msakni,2400000.0,False,working,False,Youssef Msakni,Y Msakni,single
+813,3573,"African Cup of Nations, 2019",Senegal vs Tunisia,14-07-2019,Tunisia,TN,2019,SUCCESS,Taha Yassine Khenissi,1000000.0,False,working,False,Taha Yassine Khenissi,T Khenissi,single
+814,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Edouard Mendy,7000000.0,False,working,False,Edouard Mendy,E Mendy,single
+815,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Moussa Wagué,6700000.0,False,working,False,Moussa Wagué,M Wagué,single
+816,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Salif Sané,9500000.0,False,working,False,Salif Sané,S Sané,single
+817,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Kalidou Koulibaly,56000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+818,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Youssouf Sabaly,8000000.0,False,working,False,Youssouf Sabaly,Y Sabaly,single
+819,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Badou Ndiaye,6800000.0,False,working,False,Badou Ndiaye,B Ndiaye,single
+820,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",24500000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",I Sarr,multiple
+821,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Krépin Diatta,19000000.0,False,working,False,Krépin Diatta,K Diatta,single
+822,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Idrissa Gueye,24000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+823,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,Keita Baldé,16000000.0,False,working,False,Keita Baldé,K Baldé,single
+824,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Senegal,SN,2019,SUCCESS,M'Baye Niang,12000000.0,False,working,False,M'Baye Niang,M Niang,single
+825,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Aishi Salum Manula,150000.0,False,working,False,Aishi Salum Manula,A Manula,single
+826,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Ramadhani Awam Kabwili,0.0,False,Large Dataset had 0,False,Ramadhani Awam Kabwili,H Ramadhani,single
+827,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Kelvin Yondani,0.0,False,Large Dataset had 0,False,Kelvin Yondani,K Yondani,single
+828,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,David Mwantika,-,False,Data Ended before season : 2019,False,David Mwantika,D Mwantika,single
+829,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Gadiel Michael Kamagi,100000.0,False,working,False,Gadiel Michael Kamagi,G Michael,single
+830,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Mudathir Yahya,125000.0,False,working,False,Mudathir Yahya,M Yahya,single
+831,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Feisal Salum,75000.0,False,working,False,Feisal Salum,F Salum,single
+832,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Himid Mao Mkami,150000.0,False,working,False,Himid Mao Mkami,H Mao,single
+833,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Simon Msuva,550000.0,False,working,False,Simon Msuva,S Msuva,single
+834,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,John Raphael Bocco,150000.0,False,working,False,John Raphael Bocco,J Bocco,single
+835,3574,"African Cup of Nations, 2019",Senegal vs Tanzania,23-06-2019,Tanzania,TZ,2019,SUCCESS,Ally Samatta,9500000.0,False,working,False,Ally Samatta,M Samatta,single
+836,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Bono,4000000.0,False,working,False,Bono,Y Bounou,single
+837,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Nabil Dirar,800000.0,False,working,False,Nabil Dirar,N Dirar,single
+838,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,FAIL,Medhi Benatia,0,True,Was in  DB before or after season,True,Medhi Benatia,M Benatia,single
+839,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Romain Saïss,4000000.0,False,working,False,Romain Saïss,R Saïss,single
+840,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Achraf Hakimi,54000000.0,False,working,False,Achraf Hakimi,A Hakimi,single
+841,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Mehdi Bourabia,2800000.0,False,working,False,Mehdi Bourabia,M Bourabia,single
+842,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Youssef Aït Bennasser,4800000.0,False,working,False,Youssef Aït Bennasser,Y Aït Bennasser,single
+843,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Moubarak Boussoufa,1500000.0,False,Data Ended before season : 2019,False,Moubarak Boussoufa,M Boussoufa,single
+844,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Hakim Ziyech,40000000.0,False,working,False,Hakim Ziyech,H Ziyech,single
+845,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Youssef En-Nesyri,12000000.0,False,working,False,Youssef En-Nesyri,Y En-Nesyri,single
+846,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Morocco,MA,2019,SUCCESS,Nordin Amrabat,3500000.0,False,working,False,Nordin Amrabat,N Amrabat,single
+847,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none
+848,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,FAIL,0,0,True,Online Lookup Required,False,0,L Horaeb,none
+849,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none
+850,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none
+851,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none
+852,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none
+853,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,300000.0,False,Data Ended before season : 2019,False,0,R Ketjijere,none
+854,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,250000.0,False,working,False,0,M Starke,none
+855,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none
+856,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none
+857,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,FAIL,0,0,True,Online Lookup Required,False,0,A Iimbondi,none
+858,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Daniel Akpeyi,600000.0,False,working,False,Daniel Akpeyi,D Akpeyi,single
+859,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Chidozie Awaziem,4000000.0,False,working,False,Chidozie Awaziem,C Awaziem,single
+860,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,William Troost-Ekong,3200000.0,False,working,False,William Troost-Ekong,W Troost-Ekong,single
+861,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Kenneth Omeruo,2400000.0,False,working,False,Kenneth Omeruo,K Omeruo,single
+862,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Ola Aina,8000000.0,False,working,False,Ola Aina,O Aina,single
+863,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Wilfred Ndidi,36000000.0,False,working,False,Wilfred Ndidi,W Ndidi,single
+864,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Peter Etebo,4000000.0,False,working,False,Peter Etebo,P Etebo,single
+865,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Moses Simon,6500000.0,False,working,False,Moses Simon,M Simon,single
+866,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Alex Iwobi,25500000.0,False,working,False,Alex Iwobi,A Iwobi,single
+867,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",8000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+868,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Nigeria,NG,2019,SUCCESS,Odion Ighalo,5200000.0,False,working,False,Odion Ighalo,O Ighalo,single
+869,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,André Onana,36000000.0,False,working,False,André Onana,A Onana,single
+870,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Collins Fai,1400000.0,False,working,False,Collins Fai,C Fai,single
+871,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Yaya Banana,900000.0,False,Data Ended before season : 2019,False,Yaya Banana,Y Banana,single
+872,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Michael Ngadeu,4500000.0,False,working,False,Michael Ngadeu,M Ngadeu,single
+873,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Ambroise Oyongo,2800000.0,False,working,False,Ambroise Oyongo,A Oyongo,single
+874,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Pierre Kunde,8000000.0,False,working,False,Pierre Kunde,P Kunde,single
+875,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,FAIL,Georges Mandjeck,0,True,Was in  DB before or after season,True,Georges Mandjeck,G Mandjeck,single
+876,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Christian Bassogog,2800000.0,False,working,False,Christian Bassogog,C Bassogog,single
+877,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Eric Maxim Choupo-Moting,4000000.0,False,working,False,Eric Maxim Choupo-Moting,E Choupo-Moting,single
+878,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Clinton N'Jie,2200000.0,False,working,False,Clinton N'Jie,C N'Jie,single
+879,3576,"African Cup of Nations, 2019",Nigeria vs Cameroon,06-07-2019,Cameroon,CM,2019,SUCCESS,Stéphane Bahoken,4500000.0,False,working,False,Stéphane Bahoken,S Bahoken,single
+880,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Melvin Adrien,75000.0,False,working,False,Melvin Adrien,M Adrien,single
+881,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Romain Métanire,1400000.0,False,working,False,Romain Métanire,R Métanire,single
+882,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,Bapasy,none
+883,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Thomas Fontaine,800000.0,False,working,False,Thomas Fontaine,T Fontaine,single
+884,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Jérôme Mombris,300000.0,False,working,False,Jérôme Mombris,J Mombris,single
+885,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Marco Ilaimaharitra,4000000.0,False,working,False,Marco Ilaimaharitra,M Ilaimaharitra,single
+886,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Arnaud Randrianantenaina,0.0,False,Large Dataset had 0,False,Arnaud Randrianantenaina,A Andrianarimanana,single
+887,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Ibrahim Amada,400000.0,False,working,False,Ibrahim Amada,I Amada,single
+888,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Lalaïna Nomenjanahary,325000.0,False,working,False,Lalaïna Nomenjanahary,L Nomenjanahary,single
+889,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,SUCCESS,Ima Andriatsima,300000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+890,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+891,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Jonathan Nahimana,0.0,False,Large Dataset had 0,False,Jonathan Nahimana,J Nahimana,single
+892,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,FAIL,Karim Nizigiyimana,0,True,Was in  DB before or after season,True,Karim Nizigiyimana,K Nizigiyimana,single
+893,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Omar Ngandu,0.0,False,Large Dataset had 0,False,Omar Ngandu,O Ngandu,single
+894,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Frédéric Nsabiyumva,325000.0,False,working,False,Frédéric Nsabiyumva,F Nsabiyumva,single
+895,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Christophe Nduwarugira,200000.0,False,working,False,Christophe Nduwarugira,C Nduwarugira,single
+896,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Gaël Duhayindavyi,0.0,False,Large Dataset had 0,False,Gaël Duhayindavyi,G Duhayindavyi,single
+897,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Gaël Bigirimana,300000.0,False,working,False,Gaël Bigirimana,G Bigirimana,single
+898,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Abdul Razak Fiston,350000.0,False,working,False,Abdul Razak Fiston,F Abdul Razak,single
+899,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Shasiri Nahimana,0.0,False,Large Dataset had 0,False,Shasiri Nahimana,S Nahimana,single
+900,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Cédric Amissi,900000.0,False,working,False,Cédric Amissi,C Amissi,single
+901,3577,"African Cup of Nations, 2019",Madagascar vs Burundi,27-06-2019,Burundi,BI,2019,SUCCESS,Saido Berahino,3000000.0,False,working,False,Saido Berahino,S Berahino,single
+902,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,André Onana,36000000.0,False,working,False,André Onana,A Onana,single
+903,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Joyskim Dawa,400000.0,False,working,False,Joyskim Dawa,J Dawa,single
+904,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Yaya Banana,900000.0,False,Data Ended before season : 2019,False,Yaya Banana,Y Banana,single
+905,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Michael Ngadeu,4500000.0,False,working,False,Michael Ngadeu,M Ngadeu,single
+906,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Ambroise Oyongo,2800000.0,False,working,False,Ambroise Oyongo,A Oyongo,single
+907,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Frank Anguissa,20000000.0,False,working,False,Frank Anguissa,F Anguissa,single
+908,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,FAIL,Georges Mandjeck,0,True,Was in  DB before or after season,True,Georges Mandjeck,G Mandjeck,single
+909,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Arnaud Djoum,675000.0,False,working,False,Arnaud Djoum,A Djoum,single
+910,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Eric Maxim Choupo-Moting,4000000.0,False,working,False,Eric Maxim Choupo-Moting,E Choupo-Moting,single
+911,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Christian Bassogog,2800000.0,False,working,False,Christian Bassogog,C Bassogog,single
+912,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Cameroon,CM,2019,SUCCESS,Karl Toko Ekambi,14000000.0,False,working,False,Karl Toko Ekambi,K Toko Ekambi,single
+913,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Jonas Mendes,250000.0,False,working,False,Jonas Mendes,Jonas Mendes,single
+914,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Nadjack,475000.0,False,Used Large Dataset,False,Nadjack,Nadjack,single
+915,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Rudinilson,125000.0,False,working,False,Rudinilson,Rudinilson Silva,single
+916,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Juary Soares,300000.0,False,working,False,Juary Soares,J Soares,single
+917,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Muhammad Candé,400000.0,False,working,False,Muhammad Candé,Mamadu Candé,single
+918,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Pelé,2800000.0,False,working,False,Pelé,Pelé,single
+919,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Sori Mané,300000.0,False,working,False,Sori Mané,Sori Mané,single
+920,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Toni Silva,200000.0,False,working,False,Toni Silva,Toni Silva,single
+921,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Zezinho,500000.0,False,Data Ended before season : 2019,False,Zezinho,Zezinho,single
+922,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Piqueti,150000.0,False,working,False,Piqueti,Piqueti,single
+923,3578,"African Cup of Nations, 2019",Cameroon vs Guinea-Bissau,25-06-2019,Guinea-Bissau,GW,2019,SUCCESS,"['Frédéric Mendy', 'Fernandy Mendy']",400000.0,False,working,False,"['Frédéric Mendy', 'Fernandy Mendy']",F Mendy,multiple
+924,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Mohamed El Shenawy,1700000.0,False,working,False,Mohamed El Shenawy,Mohamed El Shenawy,single
+925,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Ahmed El Mohamady,2000000.0,False,Used Large Dataset,False,Ahmed El Mohamady,Ahmed El Mohamady,single
+926,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Mahmoud Alaa,950000.0,False,working,False,Mahmoud Alaa,Mahmoud Alaa,single
+927,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Ahmed Hegazy,3500000.0,False,working,False,Ahmed Hegazy,A Hegazy,single
+928,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Ayman Ashraf,950000.0,False,working,False,Ayman Ashraf,Ayman Ashraf,single
+929,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Mohamed Elneny,5000000.0,False,working,False,Mohamed Elneny,Mohamed Elneny,single
+930,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Tarek Hamed,1200000.0,False,working,False,Tarek Hamed,Tarek Hamed,single
+931,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Mohamed Salah,120000000.0,False,working,False,Mohamed Salah,Mohamed Salah,single
+932,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Abdallah Said,1600000.0,False,working,False,Abdallah Said,Abdallah Said,single
+933,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none
+934,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,Marwan Mohsen,600000.0,False,Data Ended before season : 2019,False,Marwan Mohsen,Marwan Mohsen,single
+935,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Ronwen Williams,950000.0,False,working,False,Ronwen Williams,R Williams,single
+936,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Thamsanqa Mkhize,800000.0,False,working,False,Thamsanqa Mkhize,T Mkhize,single
+937,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Thulani Hlatshwayo,1000000.0,False,working,False,Thulani Hlatshwayo,T Hlatshwayo,single
+938,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Buhle Mkhwanazi,900000.0,False,working,False,Buhle Mkhwanazi,B Mkhwanazi,single
+939,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Sifiso Hlanti,1000000.0,False,working,False,Sifiso Hlanti,S Hlanti,single
+940,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Bongani Zungu,1600000.0,False,working,False,Bongani Zungu,B Zungu,single
+941,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Dean Furman,525000.0,False,working,False,Dean Furman,D Furman,single
+942,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Kamohelo Mokotjo,1600000.0,False,working,False,Kamohelo Mokotjo,K Mokotjo,single
+943,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Percy Tau,4000000.0,False,working,False,Percy Tau,P Tau,single
+944,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Lebo Mothiba,4000000.0,False,working,False,Lebo Mothiba,L Mothiba,single
+945,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,South Africa,ZA,2019,SUCCESS,Thembinkosi Lorch,800000.0,False,working,False,Thembinkosi Lorch,T Lorch,single
+946,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Raïs M'Bolhi,325000.0,False,working,False,Raïs M'Bolhi,R M'Bolhi,single
+947,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Youcef Atal,20000000.0,False,working,False,Youcef Atal,Y Atal,single
+948,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Aïssa Mandi,16000000.0,False,working,False,Aïssa Mandi,A Mandi,single
+949,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Djamel Eddine Benlamri,1400000.0,False,working,False,Djamel Eddine Benlamri,D Benlamri,single
+950,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Ramy Bensebaini,9500000.0,False,working,False,Ramy Bensebaini,R Bensebaini,single
+951,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Adlène Guédioura,525000.0,False,working,False,Adlène Guédioura,A Guédioura,single
+952,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Ismaël Bennacer,17500000.0,False,working,False,Ismaël Bennacer,I Bennacer,single
+953,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Riyad Mahrez,48000000.0,False,working,False,Riyad Mahrez,R Mahrez,single
+954,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Sofiane Feghouli,6000000.0,False,working,False,Sofiane Feghouli,S Feghouli,single
+955,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Youcef Belaïli,2400000.0,False,working,False,Youcef Belaïli,Y Belaïli,single
+956,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Algeria,DZ,2019,SUCCESS,Baghdad Bounedjah,6800000.0,False,working,False,Baghdad Bounedjah,B Bounedjah,single
+957,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Ibrahim Koné,100000.0,False,working,False,Ibrahim Koné,I Koné,single
+958,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Mikael Dyrestam,300000.0,False,working,False,Mikael Dyrestam,M Dyrestam,single
+959,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Ernest Seka,600000.0,False,Data Ended before season : 2019,False,Ernest Seka,E Seka,single
+960,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Simon Falette,2400000.0,False,working,False,Simon Falette,S Falette,single
+961,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2800000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+962,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Amadou Diawara,18500000.0,False,working,False,Amadou Diawara,A Diawara,single
+963,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Ibrahima Traoré,800000.0,False,Used Large Dataset,False,Ibrahima Traoré,I Traoré,single
+964,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Ibrahima Cissé,600000.0,False,working,False,Ibrahima Cissé,I Cissé,single
+965,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,"['Mohamed Camara', 'Mady Camara', 'Moussa Camara', 'Morlaye Camara']",6500000.0,False,working,False,"['Mohamed Camara', 'Mady Camara', 'Moussa Camara', 'Morlaye Camara']",M Camara,multiple
+966,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,Mohamed Yattara,550000.0,False,working,False,Mohamed Yattara,M Yattara,single
+967,3580,"African Cup of Nations, 2019",Algeria vs Guinea,07-07-2019,Guinea,GN,2019,SUCCESS,José Kanté,600000.0,False,working,False,José Kanté,J Kanté,single
+968,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Richard Ofori,600000.0,False,working,False,Richard Ofori,R Ofori,single
+969,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Andy Yiadom,3200000.0,False,working,False,Andy Yiadom,A Yiadom,single
+970,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Kasim Adams,3200000.0,False,working,False,Kasim Adams,K Adams,single
+971,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,John Boye,800000.0,False,working,False,John Boye,J Boye,single
+972,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Lumor Agbenyenu,800000.0,False,Data Ended before season : 2019,False,Lumor Agbenyenu,L Agbenyenu,single
+973,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Thomas Partey,40000000.0,False,working,False,Thomas Partey,T Partey,single
+974,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Mubarak Wakaso,2000000.0,False,working,False,Mubarak Wakaso,M Wakaso,single
+975,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Christian Atsu,4800000.0,False,Used Large Dataset,False,Christian Atsu,C Atsu,single
+976,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,André Ayew,4800000.0,False,working,False,André Ayew,A Ayew,single
+977,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Thomas Agyepong,300000.0,False,Data Ended before season : 2019,False,Thomas Agyepong,T Agyepong,single
+978,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Ghana,GH,2019,SUCCESS,Jordan Ayew,6500000.0,False,working,False,Jordan Ayew,J Ayew,single
+979,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Fabien Farnolle,350000.0,False,working,False,Fabien Farnolle,F Farnolle,single
+980,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+981,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Moise Adilehou,300000.0,False,working,False,Moise Adilehou,M Adilehou,single
+982,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Khaled Adénon,400000.0,False,working,False,Khaled Adénon,K Adénon,single
+983,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Olivier Verdon,475000.0,False,working,False,Olivier Verdon,O Verdon,single
+984,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Emmanuel Imorou,650000.0,False,working,False,Emmanuel Imorou,E Imorou,single
+985,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,FAIL,0,0,True,Lookup Required,False,0,M Poté,none
+986,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Sessi D'Almeida,475000.0,False,working,False,Sessi D'Almeida,S D'Almeida,single
+987,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Jordan Adéoti,475000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+988,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Cebio Soukou,650000.0,False,working,False,Cebio Soukou,C Soukou,single
+989,3581,"African Cup of Nations, 2019",Ghana vs Benin,25-06-2019,Benin,BJ,2019,SUCCESS,Steve Mounié,6500000.0,False,working,False,Steve Mounié,S Mounié,single
+990,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Fabien Farnolle,350000.0,False,working,False,Fabien Farnolle,F Farnolle,single
+991,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Seidou Barazé,0.0,False,Large Dataset had 0,False,Seidou Barazé,S Barazé,single
+992,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Khaled Adénon,400000.0,False,working,False,Khaled Adénon,K Adénon,single
+993,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Olivier Verdon,475000.0,False,working,False,Olivier Verdon,O Verdon,single
+994,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Emmanuel Imorou,650000.0,False,working,False,Emmanuel Imorou,E Imorou,single
+995,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Jordan Adéoti,475000.0,False,working,False,Jordan Adéoti,J Adéoti,single
+996,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,FAIL,0,0,True,Lookup Required,False,0,M Poté,none
+997,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Stéphane Sessègnon,300000.0,False,working,False,Stéphane Sessègnon,S Sessègnon,single
+998,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Sessi D'Almeida,475000.0,False,working,False,Sessi D'Almeida,S D'Almeida,single
+999,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Cebio Soukou,650000.0,False,working,False,Cebio Soukou,C Soukou,single
+1000,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Benin,BJ,2019,SUCCESS,Steve Mounié,6500000.0,False,working,False,Steve Mounié,S Mounié,single
+1001,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Jonas Mendes,250000.0,False,working,False,Jonas Mendes,Jonas Mendes,single
+1002,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Nanu,650000.0,False,working,False,Nanu,Nanú,single
+1003,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Juary Soares,300000.0,False,working,False,Juary Soares,J Soares,single
+1004,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Marcelo Djaló,325000.0,False,working,False,Marcelo Djaló,Marcelo Djaló,single
+1005,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Muhammad Candé,400000.0,False,working,False,Muhammad Candé,Mamadu Candé,single
+1006,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Mama Baldé,3200000.0,False,working,False,Mama Baldé,Mama Baldé,single
+1007,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Bura Nogueira,125000.0,False,working,False,Bura Nogueira,Bura Nogueira,single
+1008,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Sori Mané,300000.0,False,working,False,Sori Mané,Sori Mané,single
+1009,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Piqueti,150000.0,False,working,False,Piqueti,Piqueti,single
+1010,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,Pelé,2800000.0,False,working,False,Pelé,Pelé,single
+1011,3582,"African Cup of Nations, 2019",Benin vs Guinea-Bissau,29-06-2019,Guinea-Bissau,GW,2019,SUCCESS,"['Frédéric Mendy', 'Fernandy Mendy']",400000.0,False,working,False,"['Frédéric Mendy', 'Fernandy Mendy']",F Mendy,multiple
+1012,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,FAIL,0,0,True,Lookup Required,False,0,Toni Cabaça,none
+1013,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,FAIL,Bruno Gaspar,0,True,Was in  DB before or after season,True,Bruno Gaspar,Bruno Gaspar,single
+1014,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Dani Massunguna,150000.0,False,Data Ended before season : 2019,False,Dani Massunguna,Dani Massunguna,single
+1015,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Bastos,3200000.0,False,working,False,Bastos,Bastos,single
+1016,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,FAIL,De Paizo,0,True,Online Lookup Required,False,De Paizo,Paizo,single
+1017,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Fredy,525000.0,False,working,False,Fredy,Fredy,single
+1018,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Herenilson,325000.0,False,working,False,Herenilson,Herenilson,single
+1019,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Geraldo,300000.0,False,working,False,Geraldo,Geraldo,single
+1020,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Djalma,650000.0,False,Used Large Dataset,False,Djalma,Djalma,single
+1021,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Mateus,200000.0,False,working,False,Mateus,Mateus,single
+1022,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Angola,AO,2019,SUCCESS,Gelson Dala,800000.0,False,working,False,Gelson Dala,Gelson Dala,single
+1023,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,"['Djigui Diarra', 'Drissa Diarra']",200000.0,False,working,False,"['Djigui Diarra', 'Drissa Diarra']",D Diarra,multiple
+1024,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Falaye Sacko,2800000.0,False,working,False,Falaye Sacko,F Sacko,single
+1025,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Kiki Kouyaté,1400000.0,False,working,False,Kiki Kouyaté,K Kouyaté,single
+1026,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Molla Wagué,800000.0,False,working,False,Molla Wagué,M Wagué,single
+1027,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,FAIL,Mohamed Haidara,0,True,Was in  DB before or after season,True,Mohamed Haidara,M Haïdara,single
+1028,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Amadou Haidara,15500000.0,False,working,False,Amadou Haidara,A Haidara,single
+1029,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Lassana Coulibaly,950000.0,False,working,False,Lassana Coulibaly,L Coulibaly,single
+1030,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Adama Traoré,2400000.0,False,working,False,Adama Traoré,Adama Malouda Traore,single
+1031,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",2400000.0,False,working,False,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",A Traoré,multiple
+1032,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,"['Moussa Doumbia', 'Mamadou Doumbia']",2000000.0,False,working,False,"['Moussa Doumbia', 'Mamadou Doumbia']",M Doumbia,multiple
+1033,3583,"African Cup of Nations, 2019",Angola vs Mali,02-07-2019,Mali,ML,2019,SUCCESS,Kalifa Coulibaly,4000000.0,False,working,False,Kalifa Coulibaly,K Coulibaly,single
+1034,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Melvin Adrien,75000.0,False,working,False,Melvin Adrien,M Adrien,single
+1035,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Romain Métanire,1400000.0,False,working,False,Romain Métanire,R Métanire,single
+1036,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,Bapasy,none
+1037,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Thomas Fontaine,800000.0,False,working,False,Thomas Fontaine,T Fontaine,single
+1038,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Jérôme Mombris,300000.0,False,working,False,Jérôme Mombris,J Mombris,single
+1039,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Rayan Raveloson,1000000.0,False,working,False,Rayan Raveloson,R Raveloson,single
+1040,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Anicet,2400000.0,False,working,False,Anicet,A Anicet,single
+1041,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Ibrahim Amada,400000.0,False,working,False,Ibrahim Amada,I Amada,single
+1042,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Lalaïna Nomenjanahary,325000.0,False,working,False,Lalaïna Nomenjanahary,L Nomenjanahary,single
+1043,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,SUCCESS,Ima Andriatsima,300000.0,False,working,False,Ima Andriatsima,F Andriatsima,single
+1044,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Madagascar,MG,2019,FAIL,0,0,True,Lookup Required,False,0,C Andriamahitsinoro,none
+1045,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,L Matampi,none
+1046,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,I Mpeko,none
+1047,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Mbemba,none
+1048,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,M Tisserand,none
+1049,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,N Muzinga,none
+1050,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Akolo,none
+1051,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,W Moke,none
+1052,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,Y Mulumbu,none
+1053,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,J Maghoma,none
+1054,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,B Assombalonga,none
+1055,3584,"African Cup of Nations, 2019",Madagascar vs Congo DR,07-07-2019,Congo DR, DR,2019,FAIL,0,0,True,Lookup Required,False,0,C Bakambu,none
+1056,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Jonathan Nahimana,0.0,False,Large Dataset had 0,False,Jonathan Nahimana,J Nahimana,single
+1057,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,FAIL,Karim Nizigiyimana,0,True,Was in  DB before or after season,True,Karim Nizigiyimana,K Nizigiyimana,single
+1058,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Omar Ngandu,0.0,False,Large Dataset had 0,False,Omar Ngandu,O Ngandu,single
+1059,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Frédéric Nsabiyumva,325000.0,False,working,False,Frédéric Nsabiyumva,F Nsabiyumva,single
+1060,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Christophe Nduwarugira,200000.0,False,working,False,Christophe Nduwarugira,C Nduwarugira,single
+1061,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Gaël Bigirimana,300000.0,False,working,False,Gaël Bigirimana,G Bigirimana,single
+1062,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,"['Pierre Kwizera', 'Patrick Kwizera']",0.0,False,Large Dataset said 0,False,"['Pierre Kwizera', 'Patrick Kwizera']",P Kwizera,multiple
+1063,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Hussein Shabani,0.0,False,Large Dataset had 0,False,Hussein Shabani,S Hussein,single
+1064,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Francis Moustapha,50000.0,False,working,False,Francis Moustapha,F Moustapha,single
+1065,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Mohamed Amissi,100000.0,False,working,False,Mohamed Amissi,M Amissi,single
+1066,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Burundi,BI,2019,SUCCESS,Abdul Razak Fiston,350000.0,False,working,False,Abdul Razak Fiston,F Abdul Razak,single
+1067,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Ibrahim Koné,100000.0,False,working,False,Ibrahim Koné,I Koné,single
+1068,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Mikael Dyrestam,300000.0,False,working,False,Mikael Dyrestam,M Dyrestam,single
+1069,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Ernest Seka,600000.0,False,Data Ended before season : 2019,False,Ernest Seka,E Seka,single
+1070,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Simon Falette,2400000.0,False,working,False,Simon Falette,S Falette,single
+1071,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",2800000.0,False,working,False,"['Issiaga Sylla', 'Idrissa Sylla', 'Ismaël Sylla']",I Sylla,multiple
+1072,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Cissé,600000.0,False,working,False,Ibrahima Cissé,I Cissé,single
+1073,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Amadou Diawara,18500000.0,False,working,False,Amadou Diawara,A Diawara,single
+1074,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Mohamed Yattara,550000.0,False,working,False,Mohamed Yattara,M Yattara,single
+1075,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,François Kamano,8000000.0,False,working,False,François Kamano,F Kamano,single
+1076,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Ibrahima Traoré,800000.0,False,Used Large Dataset,False,Ibrahima Traoré,I Traoré,single
+1077,3585,"African Cup of Nations, 2019",Burundi vs Guinea,30-06-2019,Guinea,GN,2019,SUCCESS,Sory Kaba,1600000.0,False,working,False,Sory Kaba,S Kaba,single
+1078,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,"['Djigui Diarra', 'Drissa Diarra']",200000.0,False,working,False,"['Djigui Diarra', 'Drissa Diarra']",D Diarra,multiple
+1079,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Hamari Traoré,4800000.0,False,working,False,Hamari Traoré,H Traoré,single
+1080,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Molla Wagué,800000.0,False,working,False,Molla Wagué,M Wagué,single
+1081,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Mamadou Fofana,3200000.0,False,working,False,Mamadou Fofana,Mamadou Fofana,single
+1082,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Youssouf Koné,6500000.0,False,working,False,Youssouf Koné,Y Koné,single
+1083,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Diadié Samassékou,12000000.0,False,working,False,Diadié Samassékou,D Samassékou,single
+1084,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Kalifa Coulibaly,4000000.0,False,working,False,Kalifa Coulibaly,K Coulibaly,single
+1085,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,"['Abdoulay Diaby', 'Alassane Diaby']",4000000.0,False,working,False,"['Abdoulay Diaby', 'Alassane Diaby']",A Diaby,multiple
+1086,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",2400000.0,False,working,False,"['Abdou Traoré', 'Abdoulaye Traoré', 'Adama Traoré']",A Traoré,multiple
+1087,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Moussa Djenepo,11000000.0,False,working,False,Moussa Djenepo,M Djénépo,single
+1088,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mali,ML,2019,SUCCESS,Moussa Marega,19000000.0,False,Used Large Dataset,False,Moussa Marega,M Marega,single
+1089,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Brahim Souleymane,-,False,Data Ended before season : 2019,False,Brahim Souleymane,B Souleymane,single
+1090,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Harouna Abou Demba,300000.0,False,working,False,Harouna Abou Demba,H Abou Demba,single
+1091,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Bakary N'Diaye,350000.0,False,working,False,Bakary N'Diaye,B N'Diaye,single
+1092,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Abdoul Ba,300000.0,False,working,False,Abdoul Ba,Abdoul Ba,single
+1093,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Aly Abeid,300000.0,False,working,False,Aly Abeid,A Abeid,single
+1094,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Ibréhima Coulibaly,300000.0,False,working,False,Ibréhima Coulibaly,I Coulibaly,single
+1095,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Yali Dellahi,200000.0,False,working,False,Yali Dellahi,M Yali Dellahi,single
+1096,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Khassa Camara,325000.0,False,working,False,Khassa Camara,K Camara,single
+1097,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,"['Moctar El Hacen', 'Mahmoud El Hacen']",200000.0,False,working,False,"['Moctar El Hacen', 'Mahmoud El Hacen']",M El Hacen,multiple
+1098,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Ismail Diakite,450000.0,False,working,False,Ismail Diakite,I Diakhité,single
+1099,3586,"African Cup of Nations, 2019",Mali vs Mauritania,24-06-2019,Mauritania,MR,2019,SUCCESS,Adama Ba,275000.0,False,working,False,Adama Ba,Adama Ba,single

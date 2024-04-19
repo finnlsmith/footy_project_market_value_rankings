@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Heinz Lindner,800000.0,False,working,False,Heinz Lindner,Lindner,single
+1,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Stefan Posch,14000000.0,False,working,False,Stefan Posch,Posch,single
+2,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Christopher Trimmel,800000.0,False,working,False,Christopher Trimmel,Trimmel,single
+3,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,David Alaba,40000000.0,False,working,False,David Alaba,Alaba,single
+4,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Kevin Danso,22000000.0,False,working,False,Kevin Danso,Danso,single
+5,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Xaver Schlager,22000000.0,False,working,False,Xaver Schlager,X Schlager,single
+6,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Nicolas Seiwald,20000000.0,False,working,False,Nicolas Seiwald,N Seiwald,single
+7,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Marcel Sabitzer,20000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+8,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Christoph Baumgartner,24000000.0,False,working,False,Christoph Baumgartner,Baumgartner,single
+9,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Marko Arnautovic,5000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+10,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Austria,AT,2022,SUCCESS,Michael Gregoritsch,8000000.0,False,working,False,Michael Gregoritsch,Gregoritsch,single
+11,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Dominik Livakovic,12000000.0,False,working,False,Dominik Livakovic,Livaković,single
+12,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Josip Stanisic,12000000.0,False,working,False,Josip Stanisic,Stanisic,single
+13,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Dejan Lovren,2500000.0,False,working,False,Dejan Lovren,Lovren,single
+14,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Josko Gvardiol,75000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+15,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Borna Barisic,6500000.0,False,working,False,Borna Barisic,B Barišić,single
+16,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Ivan Perisic,7000000.0,False,working,False,Ivan Perisic,I Perišić,single
+17,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Mateo Kovacic,38000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+18,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+19,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Marcelo Brozovic,25000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+20,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Nikola Vlašić,17000000.0,False,working,False,Nikola Vlašić,Vlašić,single
+21,1719,Nations League 2022-2023,Austria vs Croatia,25.09.22,Croatia,HR,2022,SUCCESS,Ante Budimir,6000000.0,False,working,False,Ante Budimir,Budimir,single
+22,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+23,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,César Azpilicueta,5000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+24,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Pau Torres,45000000.0,False,working,False,Pau Torres,Torres Pau,single
+25,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Diego Llorente,12000000.0,False,working,False,Diego Llorente,Diego Llorente,single
+26,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Jordi Alba,5000000.0,False,working,False,Jordi Alba,J Alba,single
+27,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Pablo Sarabia,14000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+28,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Sergio Busquets,5000000.0,False,working,False,Sergio Busquets,Busquets,single
+29,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Gavi,90000000.0,False,working,False,Gavi,Gavi,single
+30,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Carlos Soler,25000000.0,False,working,False,Carlos Soler,Soler,single
+31,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,Álvaro Morata,20000000.0,False,working,False,Álvaro Morata,Morata,single
+32,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Spain,ES,2022,SUCCESS,"['Fernando Torres', 'Ferran Torres']",30000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+33,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+34,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+35,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Raphaël Guerreiro,20000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+36,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,João Cancelo,50000000.0,False,working,False,João Cancelo,Cancelo,single
+37,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,João Moutinho,1500000.0,False,working,False,João Moutinho,Joao Moutinho,single
+38,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+39,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+40,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+41,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Otávio,35000000.0,False,working,False,Otávio,Otávio,single
+42,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,André Silva,15000000.0,False,working,False,André Silva,André Silva,single
+43,1720,Nations League 2022-2023,Spain vs Portugal,02.06.22,Portugal,PT,2022,SUCCESS,Rafael Leão,90000000.0,False,working,False,Rafael Leão,Rafael Leão,single
+44,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Vaclik,1200000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+45,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+46,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Brabec,2000000.0,False,working,False,Jakub Brabec,J Brabec,single
+47,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+48,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Jaroslav Zeleny,1500000.0,False,working,False,Jaroslav Zeleny,Zeleny,single
+49,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Ladislav Krejci,5000000.0,False,working,False,Ladislav Krejci,L Krejčí,single
+50,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Jankto,1000000.0,False,working,False,Jakub Jankto,Jankto,single
+51,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Michal Sadilek,4000000.0,False,working,False,Michal Sadilek,M Sadilek,single
+52,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+53,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none
+54,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,Jan Kuchta,4000000.0,False,working,False,Jan Kuchta,J Kuchta,single
+55,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+56,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Silvan Widmer,3500000.0,False,working,False,Silvan Widmer,Widmer,single
+57,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Nico Elvedi,18000000.0,False,working,False,Nico Elvedi,Elvedi,single
+58,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+59,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+60,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Noah Okafor,20000000.0,False,working,False,Noah Okafor,Okafor,single
+61,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+62,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+63,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+64,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+65,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Switzerland,CH,2022,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+66,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Rui Patrício,5000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+67,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+68,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,William Carvalho,14000000.0,False,working,False,William Carvalho,W Carvalho,single
+69,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,João Cancelo,50000000.0,False,working,False,João Cancelo,Cancelo,single
+70,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Nuno Mendes,65000000.0,False,working,False,Nuno Mendes,N Mendes,single
+71,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+72,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+73,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Otávio,35000000.0,False,working,False,Otávio,Otávio,single
+74,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+75,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Diogo Jota,50000000.0,False,working,False,Diogo Jota,Jota,single
+76,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Portugal,PT,2022,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+77,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Gregor Kobel,35000000.0,False,working,False,Gregor Kobel,Kobel,single
+78,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Kevin Mbabu,3500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+79,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+80,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+81,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Fabian Frei,200000.0,False,working,False,Fabian Frei,F Frei,single
+82,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+83,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Renato Steffen,1000000.0,False,working,False,Renato Steffen,Steffen,single
+84,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+85,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+86,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Haris Seferovic,4000000.0,False,working,False,Haris Seferovic,Seferovic,single
+87,1722,Nations League 2022-2023,Portugal vs Switzerland,05.06.22,Switzerland,CH,2022,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+88,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Vaclik,1200000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+89,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+90,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Brabec,2000000.0,False,working,False,Jakub Brabec,J Brabec,single
+91,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+92,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Ales Mateju,900000.0,False,working,False,Ales Mateju,Mateju,single
+93,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Jaroslav Zeleny,1500000.0,False,working,False,Jaroslav Zeleny,Zeleny,single
+94,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Pesek,1000000.0,False,working,False,Jakub Pesek,J Pešek,single
+95,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Michal Sadilek,4000000.0,False,working,False,Michal Sadilek,M Sadilek,single
+96,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+97,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Ondrej Lingr,4000000.0,False,working,False,Ondrej Lingr,Lingr,single
+98,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Czech Republic,CZ,2022,SUCCESS,Jan Kuchta,4000000.0,False,working,False,Jan Kuchta,J Kuchta,single
+99,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+100,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,"['Iñigo Martínez', 'Javi Martínez', 'Josep Martínez']",10000000.0,False,working,False,"['Iñigo Martínez', 'Javi Martínez', 'Josep Martínez']",In Martinez,multiple
+101,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Eric García,10000000.0,False,working,False,Eric García,E Garcia,single
+102,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Marcos Alonso,5000000.0,False,working,False,Marcos Alonso,M Alonso,single
+103,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Daniel Carvajal,12000000.0,False,working,False,Daniel Carvajal,Carvajal,single
+104,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Pablo Sarabia,14000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+105,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Koke,16000000.0,False,working,False,Koke,Koke,single
+106,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Gavi,90000000.0,False,working,False,Gavi,Gavi,single
+107,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Rodri,90000000.0,False,working,False,Rodri,Rodri,single
+108,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Dani Olmo,40000000.0,False,working,False,Dani Olmo,Olmo,single
+109,1723,Nations League 2022-2023,Czech vs Spain,05.06.22,Spain,ES,2022,SUCCESS,Raúl de Tomás,8000000.0,False,working,False,Raúl de Tomás,de Tomás,single
+110,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+111,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+112,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Raphaël Guerreiro,20000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+113,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,William Carvalho,14000000.0,False,working,False,William Carvalho,W Carvalho,single
+114,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,João Cancelo,50000000.0,False,working,False,João Cancelo,Cancelo,single
+115,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+116,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+117,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+118,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Diogo Jota,50000000.0,False,working,False,Diogo Jota,Jota,single
+119,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+120,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Portugal,PT,2022,SUCCESS,Gonçalo Guedes,23000000.0,False,working,False,Gonçalo Guedes,G Guedes,single
+121,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Jindrich Stanek,3500000.0,False,working,False,Jindrich Stanek,Stanek,single
+122,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+123,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Brabec,2000000.0,False,working,False,Jakub Brabec,J Brabec,single
+124,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+125,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Milan Havel,800000.0,False,working,False,Milan Havel,Havel,single
+126,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Ales Mateju,900000.0,False,working,False,Ales Mateju,Mateju,single
+127,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Michal Sadilek,4000000.0,False,working,False,Michal Sadilek,M Sadilek,single
+128,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+129,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none
+130,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Ondrej Lingr,4000000.0,False,working,False,Ondrej Lingr,Lingr,single
+131,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,Jan Kuchta,4000000.0,False,working,False,Jan Kuchta,J Kuchta,single
+132,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+133,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Silvan Widmer,3500000.0,False,working,False,Silvan Widmer,Widmer,single
+134,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Manuel Akanji,38000000.0,False,working,False,Manuel Akanji,Akanji,single
+135,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+136,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Eray Cömert,3500000.0,False,working,False,Eray Cömert,Cömert,single
+137,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Michel Aebischer,4000000.0,False,working,False,Michel Aebischer,Aebischer,single
+138,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+139,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+140,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+141,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+142,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Switzerland,CH,2022,SUCCESS,Steven Zuber,2500000.0,False,working,False,Steven Zuber,Zuber,single
+143,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+144,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,César Azpilicueta,5000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+145,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Pau Torres,45000000.0,False,working,False,Pau Torres,Torres Pau,single
+146,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Diego Llorente,12000000.0,False,working,False,Diego Llorente,Diego Llorente,single
+147,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Jordi Alba,5000000.0,False,working,False,Jordi Alba,J Alba,single
+148,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Pablo Sarabia,14000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+149,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Sergio Busquets,5000000.0,False,working,False,Sergio Busquets,Busquets,single
+150,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Marcos Llorente,35000000.0,False,working,False,Marcos Llorente,M Llorente,single
+151,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Gavi,90000000.0,False,working,False,Gavi,Gavi,single
+152,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,Álvaro Morata,20000000.0,False,working,False,Álvaro Morata,Morata,single
+153,1725,Nations League 2022-2023,Switzerland vs Spain,09.06.22,Spain,ES,2022,SUCCESS,"['Fernando Torres', 'Ferran Torres']",30000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+154,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+155,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,"['Iñigo Martínez', 'Javi Martínez', 'Josep Martínez']",10000000.0,False,working,False,"['Iñigo Martínez', 'Javi Martínez', 'Josep Martínez']",In Martinez,multiple
+156,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Eric García,10000000.0,False,working,False,Eric García,E Garcia,single
+157,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Marcos Alonso,5000000.0,False,working,False,Marcos Alonso,M Alonso,single
+158,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Daniel Carvajal,12000000.0,False,working,False,Daniel Carvajal,Carvajal,single
+159,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Koke,16000000.0,False,working,False,Koke,Koke,single
+160,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Marco Asensio,25000000.0,False,working,False,Marco Asensio,Asensio,single
+161,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Rodri,90000000.0,False,working,False,Rodri,Rodri,single
+162,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Carlos Soler,25000000.0,False,working,False,Carlos Soler,Soler,single
+163,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Dani Olmo,40000000.0,False,working,False,Dani Olmo,Olmo,single
+164,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Spain,ES,2022,SUCCESS,Álvaro Morata,20000000.0,False,working,False,Álvaro Morata,Morata,single
+165,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Ales Mandous,1800000.0,False,working,False,Ales Mandous,Mandous,single
+166,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+167,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Vaclav Jemelka,1800000.0,False,working,False,Vaclav Jemelka,Jemelka,single
+168,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Brabec,2000000.0,False,working,False,Jakub Brabec,J Brabec,single
+169,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+170,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Jaroslav Zeleny,1500000.0,False,working,False,Jaroslav Zeleny,Zeleny,single
+171,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Jakub Pesek,1000000.0,False,working,False,Jakub Pesek,J Pešek,single
+172,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Michal Sadilek,4000000.0,False,working,False,Michal Sadilek,M Sadilek,single
+173,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+174,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,FAIL,0,0.0,True,Lookup Required,False,0,V Černý,none
+175,1726,Nations League 2022-2023,Spain vs Czech,12.06.22,Czech Republic,CZ,2022,SUCCESS,Jan Kuchta,4000000.0,False,working,False,Jan Kuchta,J Kuchta,single
+176,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Jonas Omlin,9000000.0,False,working,False,Jonas Omlin,Omlin,single
+177,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Silvan Widmer,3500000.0,False,working,False,Silvan Widmer,Widmer,single
+178,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Nico Elvedi,18000000.0,False,working,False,Nico Elvedi,Elvedi,single
+179,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Manuel Akanji,38000000.0,False,working,False,Manuel Akanji,Akanji,single
+180,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+181,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+182,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+183,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+184,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+185,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+186,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Switzerland,CH,2022,SUCCESS,Haris Seferovic,4000000.0,False,working,False,Haris Seferovic,Seferovic,single
+187,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Rui Patrício,5000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+188,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+189,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,João Cancelo,50000000.0,False,working,False,João Cancelo,Cancelo,single
+190,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Nuno Mendes,65000000.0,False,working,False,Nuno Mendes,N Mendes,single
+191,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Vitinha,42000000.0,False,working,False,Vitinha,F Vitinha,single
+192,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+193,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+194,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Otávio,35000000.0,False,working,False,Otávio,Otávio,single
+195,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+196,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,André Silva,15000000.0,False,working,False,André Silva,André Silva,single
+197,1727,Nations League 2022-2023,Switzerland vs Portugal,12.06.22,Portugal,PT,2022,SUCCESS,Rafael Leão,90000000.0,False,working,False,Rafael Leão,Rafael Leão,single
+198,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+199,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,César Azpilicueta,5000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+200,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Eric García,10000000.0,False,working,False,Eric García,E Garcia,single
+201,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Pau Torres,45000000.0,False,working,False,Pau Torres,Torres Pau,single
+202,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Jordi Alba,5000000.0,False,working,False,Jordi Alba,J Alba,single
+203,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Pablo Sarabia,14000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+204,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Sergio Busquets,5000000.0,False,working,False,Sergio Busquets,Busquets,single
+205,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Gavi,90000000.0,False,working,False,Gavi,Gavi,single
+206,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Marco Asensio,25000000.0,False,working,False,Marco Asensio,Asensio,single
+207,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,"['Fernando Torres', 'Ferran Torres']",30000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+208,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Spain,ES,2022,SUCCESS,Pedri,100000000.0,False,working,False,Pedri,Pedri,single
+209,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+210,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Silvan Widmer,3500000.0,False,working,False,Silvan Widmer,Widmer,single
+211,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Nico Elvedi,18000000.0,False,working,False,Nico Elvedi,Elvedi,single
+212,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Manuel Akanji,38000000.0,False,working,False,Manuel Akanji,Akanji,single
+213,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+214,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+215,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+216,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+217,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+218,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+219,1728,Nations League 2022-2023,Spain vs Switzerland,24.09.22,Switzerland,CH,2022,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+220,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Tomas Vaclik,1200000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+221,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+222,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Jaroslav Zeleny,1500000.0,False,working,False,Jaroslav Zeleny,Zeleny,single
+223,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Jakub Brabec,2000000.0,False,working,False,Jakub Brabec,J Brabec,single
+224,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+225,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Vaclav Jemelka,1800000.0,False,working,False,Vaclav Jemelka,Jemelka,single
+226,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,7000000.0,False,working,False,0,Král,none
+227,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,0,Barák,none
+228,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+229,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none
+230,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,Patrik Schick,25000000.0,False,working,False,Patrik Schick,Schick,single
+231,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+232,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Diogo Dalot,40000000.0,False,working,False,Diogo Dalot,Dalot,single
+233,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+234,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,William Carvalho,14000000.0,False,working,False,William Carvalho,W Carvalho,single
+235,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Mário Rui,8000000.0,False,working,False,Mário Rui,Mario Rui,single
+236,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+237,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+238,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+239,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+240,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+241,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Portugal,PT,2022,SUCCESS,Rafael Leão,90000000.0,False,working,False,Rafael Leão,Rafael Leão,single
+242,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+243,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,William Carvalho,14000000.0,False,working,False,William Carvalho,W Carvalho,single
+244,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+245,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,João Cancelo,50000000.0,False,working,False,João Cancelo,Cancelo,single
+246,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Nuno Mendes,65000000.0,False,working,False,Nuno Mendes,N Mendes,single
+247,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Danilo Pereira,10000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+248,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+249,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+250,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+251,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Diogo Jota,50000000.0,False,working,False,Diogo Jota,Jota,single
+252,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Portugal,PT,2022,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+253,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+254,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Daniel Carvajal,12000000.0,False,working,False,Daniel Carvajal,Carvajal,single
+255,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Pau Torres,45000000.0,False,working,False,Pau Torres,Torres Pau,single
+256,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Pablo Sarabia,14000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+257,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Hugo Guillamón,14000000.0,False,working,False,Hugo Guillamón,Guillamon,single
+258,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Koke,16000000.0,False,working,False,Koke,Koke,single
+259,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Rodri,90000000.0,False,working,False,Rodri,Rodri,single
+260,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Carlos Soler,25000000.0,False,working,False,Carlos Soler,Soler,single
+261,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,José Gayà,30000000.0,False,working,False,José Gayà,Gaya,single
+262,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,Álvaro Morata,20000000.0,False,working,False,Álvaro Morata,Morata,single
+263,1730,Nations League 2022-2023,Portugal vs Spain,27.09.22,Spain,ES,2022,SUCCESS,"['Fernando Torres', 'Ferran Torres']",30000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+264,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+265,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Silvan Widmer,3500000.0,False,working,False,Silvan Widmer,Widmer,single
+266,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Nico Elvedi,18000000.0,False,working,False,Nico Elvedi,Elvedi,single
+267,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+268,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+269,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+270,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+271,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+272,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+273,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+274,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Switzerland,CH,2022,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+275,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Tomas Vaclik,1200000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+276,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,David Zima,5000000.0,False,working,False,David Zima,D Zima,single
+277,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Vladimir Coufal,9000000.0,False,working,False,Vladimir Coufal,Coufal,single
+278,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Vaclav Jemelka,1800000.0,False,working,False,Vaclav Jemelka,Jemelka,single
+279,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Ondrej Kudela,350000.0,False,working,False,Ondrej Kudela,Kudela,single
+280,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,0,Barák,none
+281,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Lukas Kalvach,2500000.0,False,working,False,Lukas Kalvach,Kalvach,single
+282,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Adam Vlkanova,2200000.0,False,working,False,Adam Vlkanova,Vlkanova,single
+283,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Tomas Soucek,35000000.0,False,working,False,Tomas Soucek,Soucek,single
+284,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,FAIL,0,0.0,True,Lookup Required,False,0,V Černý,none
+285,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,Patrik Schick,25000000.0,False,working,False,Patrik Schick,Schick,single
+286,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Péter Gulácsi,5000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+287,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+288,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+289,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+290,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Loïc Nego,1000000.0,False,working,False,Loïc Nego,Nego,single
+291,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Zsolt Nagy,600000.0,False,working,False,Zsolt Nagy,Z Nagy,single
+292,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,FAIL,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Ádám Nagy', 'Zsolt Nagy']",False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+293,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+294,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,András Schäfer,5000000.0,False,working,False,András Schäfer,Schafer,single
+295,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Roland Sallai,10000000.0,False,working,False,Roland Sallai,R Sallai,single
+296,1732,Nations League 2022-2023,Hungary vs England,04.06.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+297,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Jordan Pickford,22000000.0,False,working,False,Jordan Pickford,Pickford,single
+298,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+299,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,James Justin,20000000.0,False,working,False,James Justin,Justin,single
+300,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Conor Coady,12000000.0,False,working,False,Conor Coady,Coady,single
+301,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+302,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+303,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Trent Alexander-Arnold,65000000.0,False,working,False,Trent Alexander-Arnold,Alexander-Arnold,single
+304,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Mason Mount,60000000.0,False,working,False,Mason Mount,Mount,single
+305,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+306,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+307,1732,Nations League 2022-2023,Hungary vs England,04.06.22,England,EN,2022,SUCCESS,Jarrod Bowen,38000000.0,False,working,False,Jarrod Bowen,Bowen,single
+308,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+309,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Cristiano Biraghi,5000000.0,False,working,False,Cristiano Biraghi,C Biraghi,single
+310,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Francesco Acerbi,4000000.0,False,working,False,Francesco Acerbi,Acerbi,single
+311,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Alessandro Bastoni,60000000.0,False,working,False,Alessandro Bastoni,Bastoni,single
+312,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Alessandro Florenzi,2000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+313,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Sandro Tonali,50000000.0,False,working,False,Sandro Tonali,Tonali,single
+314,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Lorenzo Pellegrini,35000000.0,False,working,False,Lorenzo Pellegrini,Lo Pellegrini,single
+315,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Bryan Cristante,20000000.0,False,working,False,Bryan Cristante,Cristante,single
+316,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Matteo Politano,15000000.0,False,working,False,Matteo Politano,Politano,single
+317,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Davide Frattesi,25000000.0,False,working,False,Davide Frattesi,Frattesi,single
+318,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Italy,IT,2022,SUCCESS,Gianluca Scamacca,22000000.0,False,working,False,Gianluca Scamacca,Scamacca,single
+319,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Manuel Neuer,7000000.0,False,working,False,Manuel Neuer,Neuer,single
+320,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Antonio Rüdiger,32000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+321,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Thilo Kehrer,18000000.0,False,working,False,Thilo Kehrer,Kehrer,single
+322,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Niklas Süle,35000000.0,False,working,False,Niklas Süle,Süle,single
+323,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+324,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Leon Goretzka,45000000.0,False,working,False,Leon Goretzka,Goretzka,single
+325,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Serge Gnabry,55000000.0,False,working,False,Serge Gnabry,Gnabry,single
+326,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Benjamin Henrichs,15000000.0,False,working,False,Benjamin Henrichs,Henrichs,single
+327,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Leroy Sané,65000000.0,False,working,False,Leroy Sané,L Sane,single
+328,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Thomas Müller,12000000.0,False,working,False,Thomas Müller,Muller,single
+329,1733,Nations League 2022-2023,Italy vs Germany,04.06.22,Germany,DE,2022,SUCCESS,Timo Werner,25000000.0,False,working,False,Timo Werner,Werner,single
+330,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+331,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Davide Calabria,20000000.0,False,working,False,Davide Calabria,Calabria,single
+332,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Gianluca Mancini,18000000.0,False,working,False,Gianluca Mancini,G Mancini,single
+333,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Alessandro Bastoni,60000000.0,False,working,False,Alessandro Bastoni,Bastoni,single
+334,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Lorenzo Pellegrini,35000000.0,False,working,False,Lorenzo Pellegrini,Lo Pellegrini,single
+335,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Bryan Cristante,20000000.0,False,working,False,Bryan Cristante,Cristante,single
+336,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Matteo Politano,15000000.0,False,working,False,Matteo Politano,Politano,single
+337,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Nicolò Barella,75000000.0,False,working,False,Nicolò Barella,Barella,single
+338,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Leonardo Spinazzola,10000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+339,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Wilfried Gnonto,18000000.0,False,working,False,Wilfried Gnonto,Gnonto,single
+340,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Italy,IT,2022,SUCCESS,Giacomo Raspadori,35000000.0,False,working,False,Giacomo Raspadori,Raspadori,single
+341,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Dénes Dibusz,2800000.0,False,working,False,Dénes Dibusz,Dibusz,single
+342,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+343,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+344,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+345,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Loïc Nego,1000000.0,False,working,False,Loïc Nego,Nego,single
+346,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Zsolt Nagy,600000.0,False,working,False,Zsolt Nagy,Z Nagy,single
+347,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,FAIL,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ádám Nagy', 'Zsolt Nagy']]",False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+348,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+349,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,András Schäfer,5000000.0,False,working,False,András Schäfer,Schafer,single
+350,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Roland Sallai,10000000.0,False,working,False,Roland Sallai,R Sallai,single
+351,1734,Nations League 2022-2023,Italy vs Hungary,07.06.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+352,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Manuel Neuer,7000000.0,False,working,False,Manuel Neuer,Neuer,single
+353,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Antonio Rüdiger,32000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+354,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Nico Schlotterbeck,40000000.0,False,working,False,Nico Schlotterbeck,N Schlotterbeck,single
+355,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Lukas Klostermann,12000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+356,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,David Raum,14000000.0,False,working,False,David Raum,D Raum,single
+357,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+358,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Kai Havertz,55000000.0,False,working,False,Kai Havertz,Havertz,single
+359,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Jonas Hofmann,13000000.0,False,working,False,Jonas Hofmann,Hofmann,single
+360,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Thomas Müller,12000000.0,False,working,False,Thomas Müller,Muller,single
+361,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,İlkay Gündoğan,20000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+362,1735,Nations League 2022-2023,Germany vs England,07.06.22,Germany,DE,2022,SUCCESS,Jamal Musiala,110000000.0,False,working,False,Jamal Musiala,Musiala,single
+363,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Jordan Pickford,22000000.0,False,working,False,Jordan Pickford,Pickford,single
+364,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+365,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Kieran Trippier,11000000.0,False,working,False,Kieran Trippier,Trippier,single
+366,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,John Stones,40000000.0,False,working,False,John Stones,Stones,single
+367,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+368,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+369,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Bukayo Saka,120000000.0,False,working,False,Bukayo Saka,B Saka,single
+370,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Kalvin Phillips,32000000.0,False,working,False,Kalvin Phillips,Phillips,single
+371,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Raheem Sterling,55000000.0,False,working,False,Raheem Sterling,Sterling,single
+372,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Mason Mount,60000000.0,False,working,False,Mason Mount,Mount,single
+373,1735,Nations League 2022-2023,Germany vs England,07.06.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+374,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Aaron Ramsdale,40000000.0,False,working,False,Aaron Ramsdale,Ramsdale,single
+375,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Reece James,65000000.0,False,working,False,Reece James,R James,single
+376,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Kieran Trippier,11000000.0,False,working,False,Kieran Trippier,Trippier,single
+377,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Fikayo Tomori,40000000.0,False,working,False,Fikayo Tomori,Tomori,single
+378,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+379,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+380,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Jack Grealish,75000000.0,False,working,False,Jack Grealish,Grealish,single
+381,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,James Ward-Prowse,38000000.0,False,working,False,James Ward-Prowse,Ward-Prowse,single
+382,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Raheem Sterling,55000000.0,False,working,False,Raheem Sterling,Sterling,single
+383,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Mason Mount,60000000.0,False,working,False,Mason Mount,Mount,single
+384,1736,Nations League 2022-2023,England vs Italy,11.06.22,England,EN,2022,SUCCESS,Tammy Abraham,40000000.0,False,working,False,Tammy Abraham,T Abraham,single
+385,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+386,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Federico Gatti,12000000.0,False,working,False,Federico Gatti,Gatti,single
+387,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Francesco Acerbi,4000000.0,False,working,False,Francesco Acerbi,Acerbi,single
+388,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Giovanni Di Lorenzo,25000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+389,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Federico Dimarco,35000000.0,False,working,False,Federico Dimarco,Dimarco,single
+390,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Manuel Locatelli,30000000.0,False,working,False,Manuel Locatelli,Locatelli,single
+391,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Sandro Tonali,50000000.0,False,working,False,Sandro Tonali,Tonali,single
+392,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Lorenzo Pellegrini,35000000.0,False,working,False,Lorenzo Pellegrini,Lo Pellegrini,single
+393,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Davide Frattesi,25000000.0,False,working,False,Davide Frattesi,Frattesi,single
+394,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Matteo Pessina,15000000.0,False,working,False,Matteo Pessina,Pessina,single
+395,1736,Nations League 2022-2023,England vs Italy,11.06.22,Italy,IT,2022,SUCCESS,Gianluca Scamacca,22000000.0,False,working,False,Gianluca Scamacca,Scamacca,single
+396,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Péter Gulácsi,5000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+397,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+398,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+399,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+400,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+401,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Zsolt Nagy,600000.0,False,working,False,Zsolt Nagy,Z Nagy,single
+402,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,FAIL,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ádám Nagy', 'Zsolt Nagy']]",False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+403,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+404,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Roland Sallai,10000000.0,False,working,False,Roland Sallai,R Sallai,single
+405,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Callum Styles,3500000.0,False,working,False,Callum Styles,Styles,single
+406,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+407,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Manuel Neuer,7000000.0,False,working,False,Manuel Neuer,Neuer,single
+408,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Thilo Kehrer,18000000.0,False,working,False,Thilo Kehrer,Kehrer,single
+409,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Niklas Süle,35000000.0,False,working,False,Niklas Süle,Süle,single
+410,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Nico Schlotterbeck,40000000.0,False,working,False,Nico Schlotterbeck,N Schlotterbeck,single
+411,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,David Raum,14000000.0,False,working,False,David Raum,D Raum,single
+412,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+413,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Kai Havertz,55000000.0,False,working,False,Kai Havertz,Havertz,single
+414,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Leon Goretzka,45000000.0,False,working,False,Leon Goretzka,Goretzka,single
+415,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Jonas Hofmann,13000000.0,False,working,False,Jonas Hofmann,Hofmann,single
+416,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Jamal Musiala,110000000.0,False,working,False,Jamal Musiala,Musiala,single
+417,1737,Nations League 2022-2023,Hungary vs Germany,11.06.22,Germany,DE,2022,SUCCESS,Timo Werner,25000000.0,False,working,False,Timo Werner,Werner,single
+418,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Manuel Neuer,7000000.0,False,working,False,Manuel Neuer,Neuer,single
+419,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Antonio Rüdiger,32000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+420,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Niklas Süle,35000000.0,False,working,False,Niklas Süle,Süle,single
+421,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Lukas Klostermann,12000000.0,False,working,False,Lukas Klostermann,Klostermann,single
+422,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,David Raum,14000000.0,False,working,False,David Raum,D Raum,single
+423,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+424,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Jonas Hofmann,13000000.0,False,working,False,Jonas Hofmann,Hofmann,single
+425,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Leroy Sané,65000000.0,False,working,False,Leroy Sané,L Sane,single
+426,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Thomas Müller,12000000.0,False,working,False,Thomas Müller,Muller,single
+427,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,İlkay Gündoğan,20000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+428,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Germany,DE,2022,SUCCESS,Timo Werner,25000000.0,False,working,False,Timo Werner,Werner,single
+429,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+430,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Davide Calabria,20000000.0,False,working,False,Davide Calabria,Calabria,single
+431,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Alessandro Bastoni,60000000.0,False,working,False,Alessandro Bastoni,Bastoni,single
+432,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Gianluca Mancini,18000000.0,False,working,False,Gianluca Mancini,G Mancini,single
+433,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Bryan Cristante,20000000.0,False,working,False,Bryan Cristante,Cristante,single
+434,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Matteo Politano,15000000.0,False,working,False,Matteo Politano,Politano,single
+435,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Davide Frattesi,25000000.0,False,working,False,Davide Frattesi,Frattesi,single
+436,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Nicolò Barella,75000000.0,False,working,False,Nicolò Barella,Barella,single
+437,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Leonardo Spinazzola,10000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+438,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Giacomo Raspadori,35000000.0,False,working,False,Giacomo Raspadori,Raspadori,single
+439,1738,Nations League 2022-2023,Germany vs Italy,14.06.22,Italy,IT,2022,SUCCESS,Wilfried Gnonto,18000000.0,False,working,False,Wilfried Gnonto,Gnonto,single
+440,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Aaron Ramsdale,40000000.0,False,working,False,Aaron Ramsdale,Ramsdale,single
+441,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+442,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,John Stones,40000000.0,False,working,False,John Stones,Stones,single
+443,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Marc Guéhi,35000000.0,False,working,False,Marc Guéhi,Guehi,single
+444,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Reece James,65000000.0,False,working,False,Reece James,R James,single
+445,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Conor Gallagher,32000000.0,False,working,False,Conor Gallagher,C Gallagher,single
+446,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Kalvin Phillips,32000000.0,False,working,False,Kalvin Phillips,Phillips,single
+447,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Bukayo Saka,120000000.0,False,working,False,Bukayo Saka,B Saka,single
+448,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+449,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+450,1739,Nations League 2022-2023,England vs Hungary,14.06.22,England,EN,2022,SUCCESS,Jarrod Bowen,38000000.0,False,working,False,Jarrod Bowen,Bowen,single
+451,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Dénes Dibusz,2800000.0,False,working,False,Dénes Dibusz,Dibusz,single
+452,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+453,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+454,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+455,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+456,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Zsolt Nagy,600000.0,False,working,False,Zsolt Nagy,Z Nagy,single
+457,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+458,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,András Schäfer,5000000.0,False,working,False,András Schäfer,Schafer,single
+459,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Roland Sallai,10000000.0,False,working,False,Roland Sallai,R Sallai,single
+460,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Callum Styles,3500000.0,False,working,False,Callum Styles,Styles,single
+461,1739,Nations League 2022-2023,England vs Hungary,14.06.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+462,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+463,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Francesco Acerbi,4000000.0,False,working,False,Francesco Acerbi,Acerbi,single
+464,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Rafael Tolói,6000000.0,False,working,False,Rafael Tolói,Toloi,single
+465,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Giovanni Di Lorenzo,25000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+466,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Leonardo Bonucci,1500000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+467,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Federico Dimarco,35000000.0,False,working,False,Federico Dimarco,Dimarco,single
+468,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Jorginho,25000000.0,False,working,False,Jorginho,Jorginho,single
+469,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Bryan Cristante,20000000.0,False,working,False,Bryan Cristante,Cristante,single
+470,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Nicolò Barella,75000000.0,False,working,False,Nicolò Barella,Barella,single
+471,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Giacomo Raspadori,35000000.0,False,working,False,Giacomo Raspadori,Raspadori,single
+472,1740,Nations League 2022-2023,Italy vs England,23.09.22,Italy,IT,2022,SUCCESS,Gianluca Scamacca,22000000.0,False,working,False,Gianluca Scamacca,Scamacca,single
+473,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Nick Pope,20000000.0,False,working,False,Nick Pope,Pope,single
+474,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+475,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Eric Dier,18000000.0,False,working,False,Eric Dier,Dier,single
+476,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+477,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Reece James,65000000.0,False,working,False,Reece James,R James,single
+478,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+479,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Phil Foden,110000000.0,False,working,False,Phil Foden,Foden,single
+480,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Raheem Sterling,55000000.0,False,working,False,Raheem Sterling,Sterling,single
+481,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Bukayo Saka,120000000.0,False,working,False,Bukayo Saka,B Saka,single
+482,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+483,1740,Nations League 2022-2023,Italy vs England,23.09.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+484,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Marc-André ter Stegen,35000000.0,False,working,False,Marc-André ter Stegen,ter Stegen,single
+485,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Antonio Rüdiger,32000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+486,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Niklas Süle,35000000.0,False,working,False,Niklas Süle,Süle,single
+487,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,David Raum,14000000.0,False,working,False,David Raum,D Raum,single
+488,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+489,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Serge Gnabry,55000000.0,False,working,False,Serge Gnabry,Gnabry,single
+490,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Jonas Hofmann,13000000.0,False,working,False,Jonas Hofmann,Hofmann,single
+491,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Leroy Sané,65000000.0,False,working,False,Leroy Sané,L Sane,single
+492,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Thomas Müller,12000000.0,False,working,False,Thomas Müller,Muller,single
+493,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,İlkay Gündoğan,20000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+494,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Germany,DE,2022,SUCCESS,Timo Werner,25000000.0,False,working,False,Timo Werner,Werner,single
+495,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Péter Gulácsi,5000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+496,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+497,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+498,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+499,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+500,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Milos Kerkez,15000000.0,False,working,False,Milos Kerkez,M Kerkez,single
+501,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,FAIL,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ádám Nagy', 'Zsolt Nagy']]",False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+502,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+503,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,András Schäfer,5000000.0,False,working,False,András Schäfer,Schafer,single
+504,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Dániel Gazdag,6000000.0,False,working,False,Dániel Gazdag,Gazdag,single
+505,1741,Nations League 2022-2023,Germany vs Hungary,23.09.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+506,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Nick Pope,20000000.0,False,working,False,Nick Pope,Pope,single
+507,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Reece James,65000000.0,False,working,False,Reece James,R James,single
+508,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Luke Shaw,42000000.0,False,working,False,Luke Shaw,L Shaw,single
+509,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,John Stones,40000000.0,False,working,False,John Stones,Stones,single
+510,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Eric Dier,18000000.0,False,working,False,Eric Dier,Dier,single
+511,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+512,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+513,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Raheem Sterling,55000000.0,False,working,False,Raheem Sterling,Sterling,single
+514,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Phil Foden,110000000.0,False,working,False,Phil Foden,Foden,single
+515,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+516,1742,Nations League 2022-2023,England vs Germany,26.09.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+517,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Marc-André ter Stegen,35000000.0,False,working,False,Marc-André ter Stegen,ter Stegen,single
+518,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Thilo Kehrer,18000000.0,False,working,False,Thilo Kehrer,Kehrer,single
+519,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Niklas Süle,35000000.0,False,working,False,Niklas Süle,Süle,single
+520,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Nico Schlotterbeck,40000000.0,False,working,False,Nico Schlotterbeck,N Schlotterbeck,single
+521,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,David Raum,14000000.0,False,working,False,David Raum,D Raum,single
+522,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Joshua Kimmich,75000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+523,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Kai Havertz,55000000.0,False,working,False,Kai Havertz,Havertz,single
+524,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Jonas Hofmann,13000000.0,False,working,False,Jonas Hofmann,Hofmann,single
+525,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Leroy Sané,65000000.0,False,working,False,Leroy Sané,L Sane,single
+526,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,İlkay Gündoğan,20000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+527,1742,Nations League 2022-2023,England vs Germany,26.09.22,Germany,DE,2022,SUCCESS,Jamal Musiala,110000000.0,False,working,False,Jamal Musiala,Musiala,single
+528,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Péter Gulácsi,5000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+529,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Ádám Lang,700000.0,False,working,False,Ádám Lang,Lang,single
+530,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Attila Szalai,14000000.0,False,working,False,Attila Szalai,At Szalai,single
+531,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+532,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Willi Orbán,10000000.0,False,working,False,Willi Orbán,W Orban,single
+533,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Loïc Nego,1000000.0,False,working,False,Loïc Nego,Nego,single
+534,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Milos Kerkez,15000000.0,False,working,False,Milos Kerkez,M Kerkez,single
+535,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,FAIL,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ádám Nagy', 'Zsolt Nagy']]",False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+536,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Dominik Szoboszlai,50000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+537,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,András Schäfer,5000000.0,False,working,False,András Schäfer,Schafer,single
+538,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Hungary,HU,2022,SUCCESS,Ádám Szalai,28000000.0,False,Used Large Dataset,False,Ádám Szalai,Ad Szalai,single
+539,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Gianluigi Donnarumma,45000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+540,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Francesco Acerbi,4000000.0,False,working,False,Francesco Acerbi,Acerbi,single
+541,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Rafael Tolói,6000000.0,False,working,False,Rafael Tolói,Toloi,single
+542,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Giovanni Di Lorenzo,25000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+543,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Leonardo Bonucci,1500000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+544,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Federico Dimarco,35000000.0,False,working,False,Federico Dimarco,Dimarco,single
+545,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Jorginho,25000000.0,False,working,False,Jorginho,Jorginho,single
+546,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Bryan Cristante,20000000.0,False,working,False,Bryan Cristante,Cristante,single
+547,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Nicolò Barella,75000000.0,False,working,False,Nicolò Barella,Barella,single
+548,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Giacomo Raspadori,35000000.0,False,working,False,Giacomo Raspadori,Raspadori,single
+549,1743,Nations League 2022-2023,Hungary vs Italy,26.09.22,Italy,IT,2022,SUCCESS,Wilfried Gnonto,18000000.0,False,working,False,Wilfried Gnonto,Gnonto,single
+550,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Kamil Grabara,5000000.0,False,working,False,Kamil Grabara,Grabara,single
+551,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Jan Bednarek,14000000.0,False,working,False,Jan Bednarek,Bednarek,single
+552,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+553,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+554,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Bartosz Bereszynski,1600000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+555,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Tymoteusz Puchacz,1200000.0,False,working,False,Tymoteusz Puchacz,Puchacz,single
+556,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Jacek Goralski,700000.0,False,working,False,Jacek Goralski,Góralski,single
+557,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Mateusz Klich,2000000.0,False,working,False,Mateusz Klich,Klich,single
+558,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+559,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Adam Buksa,5000000.0,False,working,False,Adam Buksa,Buksa,single
+560,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+561,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Danny Ward,6000000.0,False,working,False,Danny Ward,Ward,single
+562,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Chris Gunter,200000.0,False,working,False,Chris Gunter,Gunter,single
+563,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+564,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Rhys Norrington-Davies,3000000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+565,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Matt Smith,400000.0,False,working,False,Matt Smith,M-w Smith,single
+566,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Joe Morrell,350000.0,False,working,False,Joe Morrell,Morrell,single
+567,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,FAIL,MJ Williams,0,True,Online Lookup Required,False,MJ Williams,Jn Williams,single
+568,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+569,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Dylan Levitt,800000.0,False,working,False,Dylan Levitt,Levitt,single
+570,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Wes Burns,1200000.0,False,working,False,Wes Burns,Burns,single
+571,1744,Nations League 2022-2023,Poland vs Wales,01.06.22,Wales,WA,2022,SUCCESS,Kieffer Moore,4000000.0,False,working,False,Kieffer Moore,Ki Moore,single
+572,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Simon Mignolet,3200000.0,False,working,False,Simon Mignolet,Mignolet,single
+573,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Toby Alderweireld,3500000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+574,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Dedryck Boyata,1000000.0,False,working,False,Dedryck Boyata,Boyata,single
+575,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Jan Vertonghen,1500000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+576,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Thomas Meunier,5000000.0,False,working,False,Thomas Meunier,Meunier,single
+577,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Timothy Castagne,25000000.0,False,working,False,Timothy Castagne,Castagne,single
+578,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+579,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Kevin De Bruyne,70000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+580,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Hans Vanaken,10000000.0,False,working,False,Hans Vanaken,Vanaken,single
+581,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,"['Eden Hazard', 'Thorgan Hazard']",5000000.0,False,working,False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+582,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Belgium,BE,2022,SUCCESS,Romelu Lukaku,40000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+583,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Jasper Cillessen,2500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+584,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+585,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Virgil van Dijk,35000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+586,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+587,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+588,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+589,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",75000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+590,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Memphis Depay,14000000.0,False,working,False,Memphis Depay,Depay,single
+591,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Steven Bergwijn,22000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+592,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Steven Berghuis,12000000.0,False,working,False,Steven Berghuis,Berghuis,single
+593,1745,Nations League 2022-2023,Belgium vs Netherlands,03.06.22,Netherlands,NL,2022,SUCCESS,Davy Klaassen,10000000.0,False,working,False,Davy Klaassen,D Klaassen,single
+594,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Simon Mignolet,3200000.0,False,working,False,Simon Mignolet,Mignolet,single
+595,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Toby Alderweireld,3500000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+596,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Jan Vertonghen,1500000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+597,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Leander Dendoncker,15000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+598,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Timothy Castagne,25000000.0,False,working,False,Timothy Castagne,Castagne,single
+599,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+600,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Kevin De Bruyne,70000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+601,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Youri Tielemans,25000000.0,False,working,False,Youri Tielemans,Tielemans,single
+602,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Yannick Carrasco,25000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+603,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,"['Eden Hazard', 'Thorgan Hazard']",5000000.0,False,working,False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+604,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Belgium,BE,2022,SUCCESS,Michy Batshuayi,10000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+605,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,0,4500000.0,False,working,False,0,Drągowski,none
+606,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Tymoteusz Puchacz,1200000.0,False,working,False,Tymoteusz Puchacz,Puchacz,single
+607,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Jan Bednarek,14000000.0,False,working,False,Jan Bednarek,Bednarek,single
+608,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+609,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+610,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Robert Gumny,3500000.0,False,working,False,Robert Gumny,Gumny,single
+611,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Szymon Zurkowski,3500000.0,False,working,False,Szymon Zurkowski,Zurkowski,single
+612,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Jakub Kaminski,12000000.0,False,working,False,Jakub Kaminski,J Kaminski,single
+613,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Sebastian Szymanski,18000000.0,False,working,False,Sebastian Szymanski,S Szymanski,single
+614,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+615,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+616,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Danny Ward,6000000.0,False,working,False,Danny Ward,Ward,single
+617,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,FAIL,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Ben Davies', 'Rhys Norrington-Davies']",False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+618,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+619,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Joe Rodon,7000000.0,False,working,False,Joe Rodon,Rodon,single
+620,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Connor Roberts,8000000.0,False,working,False,Connor Roberts,C Roberts,single
+621,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Rhys Norrington-Davies,3000000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+622,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Dylan Levitt,800000.0,False,working,False,Dylan Levitt,Levitt,single
+623,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Brennan Johnson,38000000.0,False,working,False,Brennan Johnson,B-n Johnson,single
+624,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Joe Morrell,350000.0,False,working,False,Joe Morrell,Morrell,single
+625,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+626,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Wales,WA,2022,SUCCESS,Harry Wilson,16000000.0,False,working,False,Harry Wilson,H Wilson,single
+627,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Mark Flekken,10000000.0,False,working,False,Mark Flekken,Flekken,single
+628,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+629,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Stefan de Vrij,8000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+630,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Tyrell Malacia,22000000.0,False,working,False,Tyrell Malacia,Malacia,single
+631,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Hans Hateboer,6000000.0,False,working,False,Hans Hateboer,Hateboer,single
+632,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Jordan Teze,6000000.0,False,working,False,Jordan Teze,Teze,single
+633,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Teun Koopmeiners,30000000.0,False,working,False,Teun Koopmeiners,T Koopmeiners,single
+634,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Jerdy Schouten,12000000.0,False,working,False,Jerdy Schouten,Schouten,single
+635,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Noa Lang,15000000.0,False,working,False,Noa Lang,N Lang,single
+636,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Cody Gakpo,55000000.0,False,working,False,Cody Gakpo,Gakpo,single
+637,1747,Nations League 2022-2023,Wales vs Netherlands,08.06.22,Netherlands,NL,2022,SUCCESS,Wout Weghorst,12000000.0,False,working,False,Wout Weghorst,Weghorst,single
+638,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Mark Flekken,10000000.0,False,working,False,Mark Flekken,Flekken,single
+639,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+640,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+641,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Stefan de Vrij,8000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+642,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+643,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+644,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",75000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+645,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Memphis Depay,14000000.0,False,working,False,Memphis Depay,Depay,single
+646,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Steven Bergwijn,22000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+647,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Steven Berghuis,12000000.0,False,working,False,Steven Berghuis,Berghuis,single
+648,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Netherlands,NL,2022,SUCCESS,Davy Klaassen,10000000.0,False,working,False,Davy Klaassen,D Klaassen,single
+649,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Lukasz Skorupski,3500000.0,False,working,False,Lukasz Skorupski,Skorupski,single
+650,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Jakub Kiwior,25000000.0,False,working,False,Jakub Kiwior,Kiwior,single
+651,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Jan Bednarek,14000000.0,False,working,False,Jan Bednarek,Bednarek,single
+652,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+653,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Bartosz Bereszynski,1600000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+654,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Matty Cash,25000000.0,False,working,False,Matty Cash,Cash,single
+655,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Jacek Goralski,700000.0,False,working,False,Jacek Goralski,Góralski,single
+656,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Przemyslaw Frankowski,9000000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+657,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+658,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,SUCCESS,Nicola Zalewski,20000000.0,False,working,False,Nicola Zalewski,Zalewski,single
+659,1748,Nations League 2022-2023,Netherlands vs Poland,11.06.22,Poland,PL,2022,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+660,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Wayne Hennessey,400000.0,False,working,False,Wayne Hennessey,Hennessey,single
+661,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Neco Williams,20000000.0,False,working,False,Neco Williams,N Williams,single
+662,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,FAIL,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ben Davies', 'Rhys Norrington-Davies']]",False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+663,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+664,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Joe Rodon,7000000.0,False,working,False,Joe Rodon,Rodon,single
+665,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Connor Roberts,8000000.0,False,working,False,Connor Roberts,C Roberts,single
+666,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Joe Allen,900000.0,False,working,False,Joe Allen,Allen,single
+667,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Ethan Ampadu,9000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+668,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+669,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Harry Wilson,16000000.0,False,working,False,Harry Wilson,H Wilson,single
+670,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Wales,WA,2022,SUCCESS,Gareth Bale,28000000.0,False,Used Large Dataset,False,Gareth Bale,Bale,single
+671,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Koen Casteels,8000000.0,False,working,False,Koen Casteels,Casteels,single
+672,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Arthur Theate,22000000.0,False,working,False,Arthur Theate,Theate,single
+673,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Dedryck Boyata,1000000.0,False,working,False,Dedryck Boyata,Boyata,single
+674,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Thomas Meunier,5000000.0,False,working,False,Thomas Meunier,Meunier,single
+675,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Leander Dendoncker,15000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+676,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+677,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Kevin De Bruyne,70000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+678,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Youri Tielemans,25000000.0,False,working,False,Youri Tielemans,Tielemans,single
+679,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Yannick Carrasco,25000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+680,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Leandro Trossard,35000000.0,False,working,False,Leandro Trossard,Trossard,single
+681,1749,Nations League 2022-2023,Wales vs Belgium,11.06.22,Belgium,BE,2022,SUCCESS,Michy Batshuayi,10000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+682,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Jasper Cillessen,2500000.0,False,working,False,Jasper Cillessen,Cillessen,single
+683,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+684,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Bruno Martins Indi,2000000.0,False,working,False,Bruno Martins Indi,Martins Indi,single
+685,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Tyrell Malacia,22000000.0,False,working,False,Tyrell Malacia,Malacia,single
+686,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Hans Hateboer,6000000.0,False,working,False,Hans Hateboer,Hateboer,single
+687,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Jordan Teze,6000000.0,False,working,False,Jordan Teze,Teze,single
+688,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Teun Koopmeiners,30000000.0,False,working,False,Teun Koopmeiners,T Koopmeiners,single
+689,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",75000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+690,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Noa Lang,15000000.0,False,working,False,Noa Lang,N Lang,single
+691,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Cody Gakpo,55000000.0,False,working,False,Cody Gakpo,Gakpo,single
+692,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Netherlands,NL,2022,SUCCESS,Vincent Janssen,9000000.0,False,working,False,Vincent Janssen,V Janssen,single
+693,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Wayne Hennessey,400000.0,False,working,False,Wayne Hennessey,Hennessey,single
+694,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,FAIL,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ben Davies', 'Rhys Norrington-Davies']]",False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+695,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+696,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Joe Rodon,7000000.0,False,working,False,Joe Rodon,Rodon,single
+697,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Matt Smith,400000.0,False,working,False,Matt Smith,M-w Smith,single
+698,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Brennan Johnson,38000000.0,False,working,False,Brennan Johnson,B-n Johnson,single
+699,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Ethan Ampadu,9000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+700,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+701,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Wes Burns,1200000.0,False,working,False,Wes Burns,Burns,single
+702,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Harry Wilson,16000000.0,False,working,False,Harry Wilson,H Wilson,single
+703,1750,Nations League 2022-2023,Netherlands vs Wales,14.06.22,Wales,WA,2022,SUCCESS,Sorba Thomas,6000000.0,False,working,False,Sorba Thomas,S Thomas,single
+704,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Wojciech Szczesny,10000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+705,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Mateusz Wieteska,3000000.0,False,working,False,Mateusz Wieteska,Wieteska,single
+706,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Jakub Kiwior,25000000.0,False,working,False,Jakub Kiwior,Kiwior,single
+707,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+708,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Matty Cash,25000000.0,False,working,False,Matty Cash,Cash,single
+709,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Karol Linetty,3500000.0,False,working,False,Karol Linetty,Linetty,single
+710,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Szymon Zurkowski,3500000.0,False,working,False,Szymon Zurkowski,Zurkowski,single
+711,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Sebastian Szymanski,18000000.0,False,working,False,Sebastian Szymanski,S Szymanski,single
+712,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+713,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Nicola Zalewski,20000000.0,False,working,False,Nicola Zalewski,Zalewski,single
+714,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+715,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Simon Mignolet,3200000.0,False,working,False,Simon Mignolet,Mignolet,single
+716,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Toby Alderweireld,3500000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+717,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Jan Vertonghen,1500000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+718,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Leander Dendoncker,15000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+719,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Timothy Castagne,25000000.0,False,working,False,Timothy Castagne,Castagne,single
+720,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+721,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Youri Tielemans,25000000.0,False,working,False,Youri Tielemans,Tielemans,single
+722,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Dries Mertens,3000000.0,False,working,False,Dries Mertens,D Mertens,single
+723,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Thorgan Hazard,7000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+724,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Eden Hazard,5000000.0,False,working,False,Eden Hazard,E Hazard,single
+725,1751,Nations League 2022-2023,Poland vs Belgium,14.06.22,Belgium,BE,2022,SUCCESS,Michy Batshuayi,10000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+726,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Thibaut Courtois,45000000.0,False,working,False,Thibaut Courtois,Courtois,single
+727,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Toby Alderweireld,3500000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+728,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Zeno Debast,10000000.0,False,working,False,Zeno Debast,Debast,single
+729,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Jan Vertonghen,1500000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+730,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Thomas Meunier,5000000.0,False,working,False,Thomas Meunier,Meunier,single
+731,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+732,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Kevin De Bruyne,70000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+733,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Youri Tielemans,25000000.0,False,working,False,Youri Tielemans,Tielemans,single
+734,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Yannick Carrasco,25000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+735,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,"['Eden Hazard', 'Thorgan Hazard']",5000000.0,False,working,False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+736,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Belgium,BE,2022,SUCCESS,Michy Batshuayi,10000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+737,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Wayne Hennessey,400000.0,False,working,False,Wayne Hennessey,Hennessey,single
+738,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Neco Williams,20000000.0,False,working,False,Neco Williams,N Williams,single
+739,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+740,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Joe Rodon,7000000.0,False,working,False,Joe Rodon,Rodon,single
+741,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Connor Roberts,8000000.0,False,working,False,Connor Roberts,C Roberts,single
+742,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Rhys Norrington-Davies,3000000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+743,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Matt Smith,400000.0,False,working,False,Matt Smith,M-w Smith,single
+744,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Brennan Johnson,38000000.0,False,working,False,Brennan Johnson,B-n Johnson,single
+745,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Ethan Ampadu,9000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+746,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+747,1752,Nations League 2022-2023,Belgium vs Wales,22.09.22,Wales,WA,2022,SUCCESS,Kieffer Moore,4000000.0,False,working,False,Kieffer Moore,Ki Moore,single
+748,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Wojciech Szczesny,10000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+749,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Jakub Kiwior,25000000.0,False,working,False,Jakub Kiwior,Kiwior,single
+750,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Jan Bednarek,14000000.0,False,working,False,Jan Bednarek,Bednarek,single
+751,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+752,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+753,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Karol Linetty,3500000.0,False,working,False,Karol Linetty,Linetty,single
+754,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Przemyslaw Frankowski,9000000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+755,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Sebastian Szymanski,18000000.0,False,working,False,Sebastian Szymanski,S Szymanski,single
+756,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+757,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Nicola Zalewski,20000000.0,False,working,False,Nicola Zalewski,Zalewski,single
+758,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+759,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Remko Pasveer,250000.0,False,working,False,Remko Pasveer,Pasveer,single
+760,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+761,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Virgil van Dijk,35000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+762,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+763,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+764,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+765,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Teun Koopmeiners,30000000.0,False,working,False,Teun Koopmeiners,T Koopmeiners,single
+766,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",75000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+767,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Memphis Depay,14000000.0,False,working,False,Memphis Depay,Depay,single
+768,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Steven Bergwijn,22000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+769,1753,Nations League 2022-2023,Poland vs Netherlands,22.09.22,Netherlands,NL,2022,SUCCESS,Cody Gakpo,55000000.0,False,working,False,Cody Gakpo,Gakpo,single
+770,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Remko Pasveer,250000.0,False,working,False,Remko Pasveer,Pasveer,single
+771,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+772,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Virgil van Dijk,35000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+773,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+774,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+775,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+776,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Marten de Roon,10000000.0,False,working,False,Marten de Roon,de Roon,single
+777,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Steven Bergwijn,22000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+778,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Vincent Janssen,9000000.0,False,working,False,Vincent Janssen,Janssen,single
+779,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Steven Berghuis,12000000.0,False,working,False,Steven Berghuis,Berghuis,single
+780,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Netherlands,NL,2022,SUCCESS,Davy Klaassen,10000000.0,False,working,False,Davy Klaassen,D Klaassen,single
+781,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Thibaut Courtois,45000000.0,False,working,False,Thibaut Courtois,Courtois,single
+782,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Toby Alderweireld,3500000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+783,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Zeno Debast,10000000.0,False,working,False,Zeno Debast,Debast,single
+784,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Jan Vertonghen,1500000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+785,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Thomas Meunier,5000000.0,False,working,False,Thomas Meunier,Meunier,single
+786,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Timothy Castagne,25000000.0,False,working,False,Timothy Castagne,Castagne,single
+787,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Amadou Onana,45000000.0,False,working,False,Amadou Onana,A Onana,single
+788,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Axel Witsel,5000000.0,False,working,False,Axel Witsel,Witsel,single
+789,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Kevin De Bruyne,70000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+790,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,"['Eden Hazard', 'Thorgan Hazard']",5000000.0,False,working,False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+791,1754,Nations League 2022-2023,Netherlands vs Belgium,25.09.22,Belgium,BE,2022,SUCCESS,Michy Batshuayi,10000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+792,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Wayne Hennessey,400000.0,False,working,False,Wayne Hennessey,Hennessey,single
+793,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Neco Williams,20000000.0,False,working,False,Neco Williams,N Williams,single
+794,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Ben Cabango,13000000.0,False,working,False,Ben Cabango,Cabango,single
+795,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Joe Rodon,7000000.0,False,working,False,Joe Rodon,Rodon,single
+796,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Connor Roberts,8000000.0,False,working,False,Connor Roberts,C Roberts,single
+797,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Rhys Norrington-Davies,3000000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+798,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Dylan Levitt,800000.0,False,working,False,Dylan Levitt,Levitt,single
+799,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Brennan Johnson,38000000.0,False,working,False,Brennan Johnson,B-n Johnson,single
+800,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Joe Morrell,350000.0,False,working,False,Joe Morrell,Morrell,single
+801,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Daniel James,12000000.0,False,working,False,Daniel James,D James,single
+802,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Wales,WA,2022,SUCCESS,Gareth Bale,28000000.0,False,Used Large Dataset,False,Gareth Bale,Bale,single
+803,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Wojciech Szczesny,10000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+804,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Jakub Kiwior,25000000.0,False,working,False,Jakub Kiwior,Kiwior,single
+805,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Jan Bednarek,14000000.0,False,working,False,Jan Bednarek,Bednarek,single
+806,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+807,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+808,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Bartosz Bereszynski,1600000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+809,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Szymon Zurkowski,3500000.0,False,working,False,Szymon Zurkowski,Zurkowski,single
+810,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+811,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Nicola Zalewski,20000000.0,False,working,False,Nicola Zalewski,Zalewski,single
+812,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+813,1755,Nations League 2022-2023,Wales vs Poland,25.09.22,Poland,PL,2022,SUCCESS,Karol Świderski,5000000.0,False,working,False,Karol Świderski,widerski,single
+814,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+815,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Arman Hovhannisyan,150000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+816,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Varazdat Haroyan,1000000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+817,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+818,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Kamo Hovhannisyan,900000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+819,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Artak Grigoryan,125000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+820,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+821,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Eduard Spertsyan,12000000.0,False,working,False,Eduard Spertsyan,Spertsyan,single
+822,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+823,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Hovhannes Hambardzumyan,400000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+824,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Armenia,AM,2022,SUCCESS,Vahan Bichakhchyan,1000000.0,False,working,False,Vahan Bichakhchyan,Bichakhchyan,single
+825,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Caoimhín Kelleher,12000000.0,False,working,False,Caoimhín Kelleher,Kelleher,single
+826,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Seamus Coleman,1000000.0,False,working,False,Seamus Coleman,Coleman,single
+827,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Enda Stevens,600000.0,False,working,False,Enda Stevens,E Stevens,single
+828,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Shane Duffy,2000000.0,False,working,False,Shane Duffy,Duffy,single
+829,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,John Egan,6000000.0,False,working,False,John Egan,Egan,single
+830,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+831,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Josh Cullen,13000000.0,False,working,False,Josh Cullen,Cullen,single
+832,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Jeff Hendrick,1500000.0,False,working,False,Jeff Hendrick,Hendrick,single
+833,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Chiedozie Ogbene,2000000.0,False,working,False,Chiedozie Ogbene,Ogbene,single
+834,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Callum Robinson,3800000.0,False,working,False,Callum Robinson,C Robinson,single
+835,1756,Nations League 2022-2023,Armenia vs Ireland,04.06.22,Ireland,IE,2022,SUCCESS,Troy Parrott,4000000.0,False,working,False,Troy Parrott,Parrott,single
+836,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+837,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Andrew Robertson,40000000.0,False,working,False,Andrew Robertson,A Robertson,single
+838,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,John Souttar,1200000.0,False,working,False,John Souttar,Souttar,single
+839,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+840,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Scott McKenna,10000000.0,False,working,False,Scott McKenna,Mc Kenna,single
+841,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Anthony Ralston,1500000.0,False,working,False,Anthony Ralston,Ralston,single
+842,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+843,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8500000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+844,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Stuart Armstrong,4500000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+845,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Ché Adams,20000000.0,False,working,False,Ché Adams,C Adams,single
+846,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Scotland,SC,2022,SUCCESS,Ryan Christie,10000000.0,False,working,False,Ryan Christie,Christie,single
+847,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+848,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Arman Hovhannisyan,150000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+849,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Varazdat Haroyan,1000000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+850,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+851,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Kamo Hovhannisyan,900000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+852,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Artak Grigoryan,125000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+853,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+854,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Eduard Spertsyan,12000000.0,False,working,False,Eduard Spertsyan,Spertsyan,single
+855,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+856,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Hovhannes Hambardzumyan,400000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+857,1757,Nations League 2022-2023,Scotland vs Armenia,08.06.22,Armenia,AM,2022,SUCCESS,Sargis Adamyan,1000000.0,False,working,False,Sargis Adamyan,S Adamyan,single
+858,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Caoimhín Kelleher,12000000.0,False,working,False,Caoimhín Kelleher,Kelleher,single
+859,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Cyrus Christie,1000000.0,False,working,False,Cyrus Christie,Christie,single
+860,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Enda Stevens,600000.0,False,working,False,Enda Stevens,E Stevens,single
+861,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Shane Duffy,2000000.0,False,working,False,Shane Duffy,Duffy,single
+862,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,John Egan,6000000.0,False,working,False,John Egan,Egan,single
+863,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+864,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Josh Cullen,13000000.0,False,working,False,Josh Cullen,Cullen,single
+865,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Jeff Hendrick,1500000.0,False,working,False,Jeff Hendrick,Hendrick,single
+866,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Jason Knight,4000000.0,False,working,False,Jason Knight,J Knight,single
+867,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Chiedozie Ogbene,2000000.0,False,working,False,Chiedozie Ogbene,Ogbene,single
+868,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ireland,IE,2022,SUCCESS,Callum Robinson,3800000.0,False,working,False,Callum Robinson,C Robinson,single
+869,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Andriy Lunin,5000000.0,False,working,False,Andriy Lunin,Lunin Andriy,single
+870,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Denys Popov,3000000.0,False,working,False,Denys Popov,D Popov,single
+871,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Vitaliy Mykolenko,25000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+872,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Valeriy Bondar,5000000.0,False,working,False,Valeriy Bondar,V Bondar,single
+873,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Taras Kacharaba,1200000.0,False,working,False,Taras Kacharaba,Kacharaba,single
+874,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Oleksandr Syrota,3000000.0,False,working,False,Oleksandr Syrota,O Syrota,single
+875,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Sergiy Sydorchuk,3000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+876,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Mykhaylo Mudryk,50000000.0,False,working,False,Mykhaylo Mudryk,Mudryk,single
+877,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Mykola Shaparenko,8000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+878,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Artem Dovbyk,15000000.0,False,working,False,Artem Dovbyk,Dovbyk,single
+879,1758,Nations League 2022-2023,Ireland vs Ukraine,08.06.22,Ukraine,UA,2022,SUCCESS,Oleksandr Zubkov,5000000.0,False,working,False,Oleksandr Zubkov,Zubkov,single
+880,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Andriy Pyatov,500000.0,False,working,False,Andriy Pyatov,Pyatov,single
+881,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Ilya Zabarnyi,20000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+882,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+883,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Mykola Matvienko,20000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+884,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Sergiy Sydorchuk,3000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+885,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",15000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+886,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Viktor Tsygankov,22000000.0,False,working,False,Viktor Tsygankov,Tsygankov,single
+887,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Oleksandr Zinchenko,42000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+888,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Mykhaylo Mudryk,50000000.0,False,working,False,Mykhaylo Mudryk,Mudryk,single
+889,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Roman Yaremchuk,5000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+890,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Ukraine,UA,2022,SUCCESS,Mykola Shaparenko,8000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+891,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+892,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Taron Voskanyan,250000.0,False,working,False,Taron Voskanyan,T Voskanyan,single
+893,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+894,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Jordy Monroy,550000.0,False,working,False,Jordy Monroy,Monroy,single
+895,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Styopa Mkrtchyan,350000.0,False,working,False,Styopa Mkrtchyan,St Mkrtchyan,single
+896,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Kamo Hovhannisyan,900000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+897,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+898,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Edgar Babayan,400000.0,False,working,False,Edgar Babayan,Babayan,single
+899,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+900,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Solomon Udo,200000.0,False,working,False,Solomon Udo,S Udo,single
+901,1759,Nations League 2022-2023,Ukraine vs Armenia,11.06.22,Armenia,AM,2022,SUCCESS,Artak Dashyan,200000.0,False,working,False,Artak Dashyan,Dashyan,single
+902,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Caoimhín Kelleher,12000000.0,False,working,False,Caoimhín Kelleher,Kelleher,single
+903,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Shane Duffy,2000000.0,False,working,False,Shane Duffy,Duffy,single
+904,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,John Egan,6000000.0,False,working,False,John Egan,Egan,single
+905,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+906,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Josh Cullen,13000000.0,False,working,False,Josh Cullen,Cullen,single
+907,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,James McClean,500000.0,False,working,False,James McClean,Mc Clean,single
+908,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Alan Browne,3200000.0,False,working,False,Alan Browne,Al Browne,single
+909,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Jayson Molumby,3200000.0,False,working,False,Jayson Molumby,Molumby,single
+910,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Jason Knight,4000000.0,False,working,False,Jason Knight,J Knight,single
+911,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Troy Parrott,4000000.0,False,working,False,Troy Parrott,Parrott,single
+912,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Ireland,IE,2022,SUCCESS,Michael Obafemi,5000000.0,False,working,False,Michael Obafemi,M Obafemi,single
+913,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+914,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Andrew Robertson,40000000.0,False,working,False,Andrew Robertson,A Robertson,single
+915,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Grant Hanley,2000000.0,False,working,False,Grant Hanley,G Hanley,single
+916,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+917,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Scott McKenna,10000000.0,False,working,False,Scott McKenna,Mc Kenna,single
+918,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Anthony Ralston,1500000.0,False,working,False,Anthony Ralston,Ralston,single
+919,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Scott McTominay,25000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+920,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+921,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8500000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+922,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Ché Adams,20000000.0,False,working,False,Ché Adams,C Adams,single
+923,1760,Nations League 2022-2023,Ireland vs Scotland,11.06.22,Scotland,SC,2022,SUCCESS,Ryan Christie,10000000.0,False,working,False,Ryan Christie,Christie,single
+924,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+925,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Arman Hovhannisyan,150000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+926,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Varazdat Haroyan,1000000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+927,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+928,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Artak Grigoryan,125000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+929,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+930,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Eduard Spertsyan,12000000.0,False,working,False,Eduard Spertsyan,Spertsyan,single
+931,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+932,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Hovhannes Hambardzumyan,400000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+933,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Artak Dashyan,200000.0,False,working,False,Artak Dashyan,Dashyan,single
+934,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Armenia,AM,2022,SUCCESS,Vahan Bichakhchyan,1000000.0,False,working,False,Vahan Bichakhchyan,Bichakhchyan,single
+935,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+936,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+937,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Grant Hanley,2000000.0,False,working,False,Grant Hanley,G Hanley,single
+938,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Nathan Patterson,16000000.0,False,working,False,Nathan Patterson,N Patterson,single
+939,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Stuart Armstrong,4500000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+940,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Billy Gilmour,12000000.0,False,working,False,Billy Gilmour,B Gilmour,single
+941,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+942,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,FAIL,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Callum McGregor', 'Greg Taylor']",False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+943,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Scott McTominay,25000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+944,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Greg Taylor,6500000.0,False,working,False,Greg Taylor,G Taylor,single
+945,1761,Nations League 2022-2023,Armenia vs Scotland,14.06.22,Scotland,SC,2022,SUCCESS,Ché Adams,20000000.0,False,working,False,Ché Adams,C Adams,single
+946,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Dmytro Riznyk,2000000.0,False,working,False,Dmytro Riznyk,D Riznyk,single
+947,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Ilya Zabarnyi,20000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+948,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Vitaliy Mykolenko,25000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+949,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+950,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Mykola Matvienko,20000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+951,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Sergiy Sydorchuk,3000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+952,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",15000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+953,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Oleksandr Zinchenko,42000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+954,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Andriy Yarmolenko,2000000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+955,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Mykola Shaparenko,8000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+956,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ukraine,UA,2022,SUCCESS,Artem Dovbyk,15000000.0,False,working,False,Artem Dovbyk,Dovbyk,single
+957,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Caoimhín Kelleher,12000000.0,False,working,False,Caoimhín Kelleher,Kelleher,single
+958,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Dara O'Shea,5000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+959,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Darragh Lenihan,4000000.0,False,working,False,Darragh Lenihan,Lenihan,single
+960,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+961,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Josh Cullen,13000000.0,False,working,False,Josh Cullen,Cullen,single
+962,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,James McClean,500000.0,False,working,False,James McClean,Mc Clean,single
+963,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Alan Browne,3200000.0,False,working,False,Alan Browne,Al Browne,single
+964,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Jayson Molumby,3200000.0,False,working,False,Jayson Molumby,Molumby,single
+965,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Jason Knight,4000000.0,False,working,False,Jason Knight,J Knight,single
+966,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Troy Parrott,4000000.0,False,working,False,Troy Parrott,Parrott,single
+967,1762,Nations League 2022-2023,Ukraine vs Ireland,14.06.22,Ireland,IE,2022,SUCCESS,Scott Hogan,1400000.0,False,working,False,Scott Hogan,S Hogan,single
+968,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+969,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Kieran Tierney,25000000.0,False,working,False,Kieran Tierney,Tierney,single
+970,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+971,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Scott McKenna,10000000.0,False,working,False,Scott McKenna,Mc Kenna,single
+972,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Nathan Patterson,16000000.0,False,working,False,Nathan Patterson,N Patterson,single
+973,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Scott McTominay,25000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+974,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+975,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8500000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+976,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Stuart Armstrong,4500000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+977,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Ché Adams,20000000.0,False,working,False,Ché Adams,C Adams,single
+978,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Scotland,SC,2022,SUCCESS,Ryan Christie,10000000.0,False,working,False,Ryan Christie,Christie,single
+979,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Anatoliy Trubin,22000000.0,False,working,False,Anatoliy Trubin,Trubin,single
+980,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Valeriy Bondar,5000000.0,False,working,False,Valeriy Bondar,V Bondar,single
+981,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+982,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Mykola Matvienko,20000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+983,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Taras Stepanenko,4000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+984,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Bogdan Mykhaylichenko,4000000.0,False,working,False,Bogdan Mykhaylichenko,B Mikhaylichenko,single
+985,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",15000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+986,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Mykhaylo Mudryk,50000000.0,False,working,False,Mykhaylo Mudryk,Mudryk,single
+987,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,"['Oleksandr Pikhalyonok', 'Pavlo Rebenok']",5000000.0,False,working,False,"['Oleksandr Pikhalyonok', 'Pavlo Rebenok']",Pikhalonok,multiple
+988,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Andriy Yarmolenko,2000000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+989,1763,Nations League 2022-2023,Scotland vs Ukraine,21.09.22,Ukraine,UA,2022,SUCCESS,Artem Dovbyk,15000000.0,False,working,False,Artem Dovbyk,Dovbyk,single
+990,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+991,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,André Calisir,200000.0,False,working,False,André Calisir,Calisir,single
+992,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+993,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Zhirayr Margaryan,300000.0,False,working,False,Zhirayr Margaryan,Z Margaryan,single
+994,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Artak Grigoryan,125000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+995,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+996,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Lucas Zelarayán,7000000.0,False,working,False,Lucas Zelarayán,Zelarayan,single
+997,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+998,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Hovhannes Hambardzumyan,400000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+999,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Artak Dashyan,200000.0,False,working,False,Artak Dashyan,Dashyan,single
+1000,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Armenia,AM,2022,SUCCESS,Vahan Bichakhchyan,1000000.0,False,working,False,Vahan Bichakhchyan,Bichakhchyan,single
+1001,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Andriy Lunin,5000000.0,False,working,False,Andriy Lunin,Lunin Andriy,single
+1002,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Ilya Zabarnyi,20000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+1003,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Vitaliy Mykolenko,25000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+1004,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Oleksandr Tymchyk,3000000.0,False,working,False,Oleksandr Tymchyk,Tymchyk,single
+1005,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Taras Kacharaba,1200000.0,False,working,False,Taras Kacharaba,Kacharaba,single
+1006,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Sergiy Kryvtsov,2000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+1007,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Sergiy Sydorchuk,3000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+1008,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Danylo Ignatenko,1800000.0,False,working,False,Danylo Ignatenko,Ihnatenko,single
+1009,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Viktor Tsygankov,22000000.0,False,working,False,Viktor Tsygankov,Tsygankov,single
+1010,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Roman Yaremchuk,5000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+1011,1764,Nations League 2022-2023,Armenia vs Ukraine,24.09.22,Ukraine,UA,2022,SUCCESS,Oleksandr Zubkov,5000000.0,False,working,False,Oleksandr Zubkov,Zubkov,single
+1012,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+1013,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Kieran Tierney,25000000.0,False,working,False,Kieran Tierney,Tierney,single
+1014,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+1015,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Scott McKenna,10000000.0,False,working,False,Scott McKenna,Mc Kenna,single
+1016,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Aaron Hickey,25000000.0,False,working,False,Aaron Hickey,Hickey,single
+1017,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Scott McTominay,25000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+1018,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+1019,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8500000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+1020,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Stuart Armstrong,4500000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+1021,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Lyndon Dykes,3000000.0,False,working,False,Lyndon Dykes,Dykes,single
+1022,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Scotland,SC,2022,SUCCESS,Ryan Christie,10000000.0,False,working,False,Ryan Christie,Christie,single
+1023,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Gavin Bazunu,15000000.0,False,working,False,Gavin Bazunu,Bazunu,single
+1024,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Matt Doherty,5000000.0,False,working,False,Matt Doherty,Doherty,single
+1025,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,John Egan,6000000.0,False,working,False,John Egan,Egan,single
+1026,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+1027,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Dara O'Shea,5000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+1028,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Josh Cullen,13000000.0,False,working,False,Josh Cullen,Cullen,single
+1029,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,James McClean,500000.0,False,working,False,James McClean,Mc Clean,single
+1030,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Jayson Molumby,3200000.0,False,working,False,Jayson Molumby,Molumby,single
+1031,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Jason Knight,4000000.0,False,working,False,Jason Knight,J Knight,single
+1032,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Troy Parrott,4000000.0,False,working,False,Troy Parrott,Parrott,single
+1033,1765,Nations League 2022-2023,Scotland vs Ireland,24.09.22,Ireland,IE,2022,SUCCESS,Michael Obafemi,5000000.0,False,working,False,Michael Obafemi,M Obafemi,single
+1034,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Andriy Lunin,5000000.0,False,working,False,Andriy Lunin,Lunin Andriy,single
+1035,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Ilya Zabarnyi,20000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+1036,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Vitaliy Mykolenko,25000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+1037,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Oleksandr Tymchyk,3000000.0,False,working,False,Oleksandr Tymchyk,Tymchyk,single
+1038,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Mykola Matvienko,20000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+1039,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Taras Stepanenko,4000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+1040,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",15000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+1041,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Mykhaylo Mudryk,50000000.0,False,working,False,Mykhaylo Mudryk,Mudryk,single
+1042,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Danylo Ignatenko,1800000.0,False,working,False,Danylo Ignatenko,Ihnatenko,single
+1043,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Andriy Yarmolenko,2000000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+1044,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Ukraine,UA,2022,SUCCESS,Artem Dovbyk,15000000.0,False,working,False,Artem Dovbyk,Dovbyk,single
+1045,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Craig Gordon,400000.0,False,working,False,Craig Gordon,C Gordon,single
+1046,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Jack Hendry,3000000.0,False,working,False,Jack Hendry,J Hendry,single
+1047,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Aaron Hickey,25000000.0,False,working,False,Aaron Hickey,Hickey,single
+1048,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Kenny McLean,1200000.0,False,working,False,Kenny McLean,Mc Lean,single
+1049,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Ryan Porteous,2500000.0,False,working,False,Ryan Porteous,Porteous,single
+1050,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Greg Taylor,6500000.0,False,working,False,Greg Taylor,G Taylor,single
+1051,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,"['Paul McGinn', 'John McGinn']",27000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+1052,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8500000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+1053,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Ryan Fraser,6000000.0,False,working,False,Ryan Fraser,Fraser,single
+1054,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Ryan Jack,3000000.0,False,working,False,Ryan Jack,R Jack,single
+1055,1766,Nations League 2022-2023,Ukraine vs Scotland,27.09.22,Scotland,SC,2022,SUCCESS,Ché Adams,20000000.0,False,working,False,Ché Adams,C Adams,single
+1056,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Gavin Bazunu,15000000.0,False,working,False,Gavin Bazunu,Bazunu,single
+1057,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Matt Doherty,5000000.0,False,working,False,Matt Doherty,Doherty,single
+1058,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,John Egan,6000000.0,False,working,False,John Egan,Egan,single
+1059,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Nathan Collins,22000000.0,False,working,False,Nathan Collins,N Collins,single
+1060,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Dara O'Shea,5000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+1061,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Jayson Molumby,3200000.0,False,working,False,Jayson Molumby,Molumby,single
+1062,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Jeff Hendrick,1500000.0,False,working,False,Jeff Hendrick,Hendrick,single
+1063,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Jason Knight,4000000.0,False,working,False,Jason Knight,J Knight,single
+1064,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Michael Obafemi,5000000.0,False,working,False,Michael Obafemi,M Obafemi,single
+1065,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Troy Parrott,4000000.0,False,working,False,Troy Parrott,Parrott,single
+1066,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Ireland,IE,2022,SUCCESS,Robbie Brady,600000.0,False,working,False,Robbie Brady,Brady,single
+1067,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,David Yurchenko,50000.0,False,working,False,David Yurchenko,D Yurchenko,single
+1068,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,André Calisir,200000.0,False,working,False,André Calisir,Calisir,single
+1069,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Varazdat Haroyan,1000000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+1070,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Hrayr Mkoyan,100000.0,False,working,False,Hrayr Mkoyan,Mkoyan,single
+1071,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Jordy Monroy,550000.0,False,working,False,Jordy Monroy,Monroy,single
+1072,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Artak Grigoryan,125000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+1073,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Khoren Bayramyan,1500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+1074,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Eduard Spertsyan,12000000.0,False,working,False,Eduard Spertsyan,Spertsyan,single
+1075,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Lucas Zelarayán,7000000.0,False,working,False,Lucas Zelarayán,Zelarayan,single
+1076,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Tigran Barseghyan,1200000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+1077,1767,Nations League 2022-2023,Ireland vs Armenia,27.09.22,Armenia,AM,2022,SUCCESS,Hovhannes Hambardzumyan,400000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+1078,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1079,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1080,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1081,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1082,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1083,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1084,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1085,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1086,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1087,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1088,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Albania,AL,2022,FAIL,-,0,False,Null Name,False,,-,none
+1089,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1090,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1091,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1092,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1093,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1094,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1095,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1096,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1097,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1098,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none
+1099,1768,Nations League 2022-2023,Albania vs Russia,02.06.22,Russia,RU,2022,FAIL,-,0,False,Null Name,False,,-,none

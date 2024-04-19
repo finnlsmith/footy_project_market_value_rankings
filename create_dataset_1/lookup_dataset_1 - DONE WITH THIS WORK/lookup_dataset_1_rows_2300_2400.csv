@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+1,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Emerson Palmieri,15000000.0,False,working,False,Emerson Palmieri,Emerson Palmieri,single
+2,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Giovanni Di Lorenzo,22000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+3,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Giorgio Chiellini,2000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+4,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+5,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Marco Verratti,60000000.0,False,working,False,Marco Verratti,Verratti,single
+6,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+7,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Federico Chiesa,65000000.0,False,Used Large Dataset,False,Federico Chiesa,F Chiesa,single
+8,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+9,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+10,1160,Euros 2020,Italy vs England,11.07.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+11,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+12,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+13,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+14,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+15,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Harry Maguire,40000000.0,False,working,False,Harry Maguire,Maguire,single
+16,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Kieran Trippier,20000000.0,False,working,False,Kieran Trippier,Trippier,single
+17,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+18,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+19,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+20,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Mason Mount,45000000.0,False,working,False,Mason Mount,Mount,single
+21,1160,Euros 2020,Italy vs England,11.07.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+22,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+23,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,César Azpilicueta,17000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+24,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,E Garcia,single
+25,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Jordi Alba,30000000.0,False,working,False,Jordi Alba,J Alba,single
+26,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+27,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Sergio Busquets,15000000.0,False,working,False,Sergio Busquets,Busquets,single
+28,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+29,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Olmo,single
+30,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Mikel Oyarzabal,60000000.0,False,Used Large Dataset,False,Mikel Oyarzabal,Oyarzabal,single
+31,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,"['Fernando Torres', 'Ferran Torres']",50000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+32,1161,Euros 2020,Spain vs Italy,06.07.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+33,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+34,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Emerson Palmieri,15000000.0,False,working,False,Emerson Palmieri,Emerson Palmieri,single
+35,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Giovanni Di Lorenzo,22000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+36,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Giorgio Chiellini,2000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+37,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+38,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Marco Verratti,60000000.0,False,working,False,Marco Verratti,Verratti,single
+39,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+40,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Federico Chiesa,65000000.0,False,Used Large Dataset,False,Federico Chiesa,F Chiesa,single
+41,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+42,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+43,1161,Euros 2020,Spain vs Italy,06.07.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+44,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+45,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+46,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+47,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+48,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Harry Maguire,40000000.0,False,working,False,Harry Maguire,Maguire,single
+49,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+50,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+51,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+52,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Mason Mount,45000000.0,False,working,False,Mason Mount,Mount,single
+53,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Bukayo Saka,40000000.0,False,working,False,Bukayo Saka,B Saka,single
+54,1162,Euros 2020,England vs Denmark,07.07.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+55,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+56,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Jannik Vestergaard,15000000.0,False,working,False,Jannik Vestergaard,Vestergaard,single
+57,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+58,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+59,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+60,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+61,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Mikkel Damsgaard,8000000.0,False,working,False,Mikkel Damsgaard,M Damsgaard,single
+62,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",3000000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+63,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+64,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+65,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Kasper Dolberg,23000000.0,False,working,False,Kasper Dolberg,Dolberg,single
+66,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+67,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Silvan Widmer,4000000.0,False,working,False,Silvan Widmer,Widmer,single
+68,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+69,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Manuel Akanji,25000000.0,False,working,False,Manuel Akanji,Akanji,single
+70,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Ricardo Rodríguez,3000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+71,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Denis Zakaria,40000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+72,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Remo Freuler,23000000.0,False,working,False,Remo Freuler,Freuler,single
+73,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Xherdan Shaqiri,16000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+74,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Breel Embolo,16000000.0,False,working,False,Breel Embolo,Embolo,single
+75,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Haris Seferovic,10000000.0,False,working,False,Haris Seferovic,Seferovic,single
+76,1163,Euros 2020,Switzerland vs Spain,02.07.21,Switzerland,CH,2021,SUCCESS,Steven Zuber,3000000.0,False,working,False,Steven Zuber,Zuber,single
+77,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+78,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,César Azpilicueta,17000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+79,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Torres Pau,single
+80,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Jordi Alba,30000000.0,False,working,False,Jordi Alba,J Alba,single
+81,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Pablo Sarabia,25000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+82,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+83,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Sergio Busquets,15000000.0,False,working,False,Sergio Busquets,Busquets,single
+84,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+85,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Álvaro Morata,50000000.0,False,working,False,Álvaro Morata,Morata,single
+86,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,"['Fernando Torres', 'Ferran Torres']",50000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+87,1163,Euros 2020,Switzerland vs Spain,02.07.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+88,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Thibaut Courtois,75000000.0,False,working,False,Thibaut Courtois,Courtois,single
+89,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Toby Alderweireld,20000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+90,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Thomas Vermaelen,900000.0,False,Data Ended before season : 2021,False,Thomas Vermaelen,Vermaelen,single
+91,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Jan Vertonghen,10000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+92,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Thomas Meunier,18000000.0,False,working,False,Thomas Meunier,Meunier,single
+93,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Axel Witsel,17000000.0,False,working,False,Axel Witsel,Witsel,single
+94,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Kevin De Bruyne,120000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+95,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Youri Tielemans,50000000.0,False,working,False,Youri Tielemans,Tielemans,single
+96,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Thorgan Hazard,32000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+97,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Romelu Lukaku,90000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+98,1164,Euros 2020,Belgium vs Italy,02.07.21,Belgium,BE,2021,SUCCESS,Jérémy Doku,20000000.0,False,working,False,Jérémy Doku,J Doku,single
+99,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+100,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Giovanni Di Lorenzo,22000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+101,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Giorgio Chiellini,2000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+102,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+103,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Marco Verratti,60000000.0,False,working,False,Marco Verratti,Verratti,single
+104,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+105,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Federico Chiesa,65000000.0,False,Used Large Dataset,False,Federico Chiesa,F Chiesa,single
+106,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+107,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Leonardo Spinazzola,23000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+108,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+109,1164,Euros 2020,Belgium vs Italy,02.07.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+110,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Tomas Vaclik,4000000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+111,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Coufal,12000000.0,False,working,False,Vladimir Coufal,Coufal,single
+112,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none
+113,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Bořil,none
+114,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Čelůstka,none
+115,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Tomas Kalas,4000000.0,False,working,False,Tomas Kalas,Kalas,single
+116,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,0,Barák,none
+117,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,evčík,none
+118,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Tomas Soucek,45000000.0,False,working,False,Tomas Soucek,Soucek,single
+119,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Lukas Masopust,3500000.0,False,working,False,Lukas Masopust,Masopust,single
+120,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,Patrik Schick,50000000.0,False,Used Large Dataset,False,Patrik Schick,Schick,single
+121,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+122,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Jannik Vestergaard,15000000.0,False,working,False,Jannik Vestergaard,Vestergaard,single
+123,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+124,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+125,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+126,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+127,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Mikkel Damsgaard,8000000.0,False,working,False,Mikkel Damsgaard,M Damsgaard,single
+128,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",3000000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+129,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+130,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+131,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Kasper Dolberg,23000000.0,False,working,False,Kasper Dolberg,Dolberg,single
+132,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Georgiy Bushchan,9000000.0,False,working,False,Georgiy Bushchan,Bushchan,single
+133,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Ilya Zabarnyi,15000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+134,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Vitaliy Mykolenko,18000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+135,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+136,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Sergiy Kryvtsov,3000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+137,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Mykola Matvienko,11000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+138,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Sergiy Sydorchuk,5000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+139,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zinchenko,25000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+140,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Andriy Yarmolenko,2500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+141,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Roman Yaremchuk,15000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+142,1166,Euros 2020,Ukraine vs England,03.07.21,Ukraine,UA,2021,SUCCESS,Mykola Shaparenko,10000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+143,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+144,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+145,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+146,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+147,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Harry Maguire,40000000.0,False,working,False,Harry Maguire,Maguire,single
+148,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+149,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+150,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+151,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Mason Mount,45000000.0,False,working,False,Mason Mount,Mount,single
+152,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+153,1166,Euros 2020,Ukraine vs England,03.07.21,England,EN,2021,SUCCESS,Jadon Sancho,75000000.0,False,Used Large Dataset,False,Jadon Sancho,Sancho,single
+154,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Danny Ward,6500000.0,False,working,False,Danny Ward,Ward,single
+155,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",17500000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+156,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+157,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Connor Roberts,4000000.0,False,working,False,Connor Roberts,C Roberts,single
+158,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+159,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Joe Allen,2800000.0,False,working,False,Joe Allen,Allen,single
+160,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Aaron Ramsey,20000000.0,False,working,False,Aaron Ramsey,Ramsey,single
+161,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Joe Morrell,500000.0,False,working,False,Joe Morrell,Morrell,single
+162,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Daniel James,16000000.0,False,working,False,Daniel James,D James,single
+163,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Gareth Bale,20000000.0,False,working,False,Gareth Bale,Bale,single
+164,1167,Euros 2020,Wales vs Denmark,26.06.21,Wales,WA,2021,SUCCESS,Kieffer Moore,2800000.0,False,working,False,Kieffer Moore,Ki Moore,single
+165,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+166,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Jannik Vestergaard,15000000.0,False,working,False,Jannik Vestergaard,Vestergaard,single
+167,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+168,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+169,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+170,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+171,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Mikkel Damsgaard,8000000.0,False,working,False,Mikkel Damsgaard,M Damsgaard,single
+172,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",3000000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+173,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+174,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+175,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Kasper Dolberg,23000000.0,False,working,False,Kasper Dolberg,Dolberg,single
+176,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+177,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Francesco Acerbi,13000000.0,False,working,False,Francesco Acerbi,Acerbi,single
+178,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Giovanni Di Lorenzo,22000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+179,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+180,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Marco Verratti,60000000.0,False,working,False,Marco Verratti,Verratti,single
+181,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+182,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+183,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Leonardo Spinazzola,23000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+184,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+185,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Domenico Berardi,30000000.0,False,working,False,Domenico Berardi,D Berardi,single
+186,1168,Euros 2020,Italy vs Austria,26.06.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+187,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Daniel Bachmann,2500000.0,False,working,False,Daniel Bachmann,Bachmann,single
+188,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Aleksandar Dragovic,5000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+189,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Stefan Lainer,4500000.0,False,working,False,Stefan Lainer,Lainer,single
+190,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Martin Hinteregger,9000000.0,False,working,False,Martin Hinteregger,Hinteregger,single
+191,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,David Alaba,55000000.0,False,working,False,David Alaba,Alaba,single
+192,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Marcel Sabitzer,15000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+193,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Florian Grillitsch,16000000.0,False,Used Large Dataset,False,Florian Grillitsch,Grillitsch,single
+194,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Xaver Schlager,27000000.0,False,working,False,Xaver Schlager,X Schlager,single
+195,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Konrad Laimer,28000000.0,False,working,False,Konrad Laimer,Laimer,single
+196,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Christoph Baumgartner,22000000.0,False,working,False,Christoph Baumgartner,Baumgartner,single
+197,1168,Euros 2020,Italy vs Austria,26.06.21,Austria,AT,2021,SUCCESS,Marko Arnautovic,6000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+198,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Maarten Stekelenburg,200000.0,False,Used Large Dataset,False,Maarten Stekelenburg,Stekelenburg,single
+199,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+200,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Stefan de Vrij,55000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+201,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Patrick van Aanholt,4000000.0,False,Used Large Dataset,False,Patrick van Aanholt,van Aanholt,single
+202,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+203,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+204,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",70000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+205,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+206,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Marten de Roon,23000000.0,False,working,False,Marten de Roon,de Roon,single
+207,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+208,1169,Euros 2020,Netherlands vs Czech,27.06.21,Netherlands,NL,2021,SUCCESS,Donyell Malen,25000000.0,False,working,False,Donyell Malen,Malen,single
+209,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Vaclik,4000000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+210,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Pavel Kaderabek,5000000.0,False,Used Large Dataset,False,Pavel Kaderabek,Kaderabek,single
+211,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Coufal,12000000.0,False,working,False,Vladimir Coufal,Coufal,single
+212,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none
+213,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Čelůstka,none
+214,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Kalas,4000000.0,False,working,False,Tomas Kalas,Kalas,single
+215,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,0,Barák,none
+216,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,evčík,none
+217,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Soucek,45000000.0,False,working,False,Tomas Soucek,Soucek,single
+218,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Lukas Masopust,3500000.0,False,working,False,Lukas Masopust,Masopust,single
+219,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,Patrik Schick,50000000.0,False,Used Large Dataset,False,Patrik Schick,Schick,single
+220,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Thibaut Courtois,75000000.0,False,working,False,Thibaut Courtois,Courtois,single
+221,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Toby Alderweireld,20000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+222,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Thomas Vermaelen,900000.0,False,Data Ended before season : 2021,False,Thomas Vermaelen,Vermaelen,single
+223,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Jan Vertonghen,10000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+224,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Thomas Meunier,18000000.0,False,working,False,Thomas Meunier,Meunier,single
+225,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Axel Witsel,17000000.0,False,working,False,Axel Witsel,Witsel,single
+226,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Kevin De Bruyne,120000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+227,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Youri Tielemans,50000000.0,False,working,False,Youri Tielemans,Tielemans,single
+228,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Thorgan Hazard,32000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+229,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Eden Hazard,60000000.0,False,working,False,Eden Hazard,E Hazard,single
+230,1170,Euros 2020,Belgium vs Portugal,27.06.21,Belgium,BE,2021,SUCCESS,Romelu Lukaku,90000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+231,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Rui Patrício,14000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+232,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+233,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Rúben Dias,60000000.0,False,working,False,Rúben Dias,R Dias,single
+234,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Raphaël Guerreiro,35000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+235,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Diogo Dalot,12000000.0,False,working,False,Diogo Dalot,Dalot,single
+236,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,João Moutinho,5000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+237,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Bernardo Silva,70000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+238,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Renato Sanches,28000000.0,False,Used Large Dataset,False,Renato Sanches,R Sanches,single
+239,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,João Palhinha,12000000.0,False,working,False,João Palhinha,Palhinha,single
+240,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Diogo Jota,40000000.0,False,working,False,Diogo Jota,Jota,single
+241,1170,Euros 2020,Belgium vs Portugal,27.06.21,Portugal,PT,2021,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+242,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Dominik Livakovic,13000000.0,False,working,False,Dominik Livakovic,Livaković,single
+243,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Domagoj Vida,4000000.0,False,working,False,Domagoj Vida,Vida,single
+244,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Josip Juranovic,1700000.0,False,working,False,Josip Juranovic,Juranovic,single
+245,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Duje Caleta-Car,23000000.0,False,working,False,Duje Caleta-Car,Caleta-Car,single
+246,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Josko Gvardiol,16000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+247,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Mateo Kovacic,45000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+248,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+249,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Marcelo Brozovic,36000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+250,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Nikola Vlašić,30000000.0,False,working,False,Nikola Vlašić,Vlašić,single
+251,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Ante Rebic,17000000.0,False,Used Large Dataset,False,Ante Rebic,Rebic,single
+252,1171,Euros 2020,Croatia vs Spain,28.06.21,Croatia,HR,2021,SUCCESS,Bruno Petkovic,11000000.0,False,working,False,Bruno Petkovic,B Petković,single
+253,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+254,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,César Azpilicueta,17000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+255,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,E Garcia,single
+256,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Pablo Sarabia,25000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+257,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+258,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Sergio Busquets,15000000.0,False,working,False,Sergio Busquets,Busquets,single
+259,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+260,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,José Gayà,40000000.0,False,Used Large Dataset,False,José Gayà,Gaya,single
+261,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Álvaro Morata,50000000.0,False,working,False,Álvaro Morata,Morata,single
+262,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,"['Fernando Torres', 'Ferran Torres']",50000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+263,1171,Euros 2020,Croatia vs Spain,28.06.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+264,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Hugo Lloris,12000000.0,False,working,False,Hugo Lloris,Lloris,single
+265,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Benjamin Pavard,45000000.0,False,working,False,Benjamin Pavard,Pavard,single
+266,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Presnel Kimpembe,35000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+267,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+268,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Clément Lenglet,12000000.0,False,Used Large Dataset,False,Clément Lenglet,Lenglet,single
+269,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Paul Pogba,65000000.0,False,working,False,Paul Pogba,Pogba,single
+270,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,N'Golo Kanté,60000000.0,False,working,False,N'Golo Kanté,N Kante,single
+271,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Adrien Rabiot,32000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+272,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Antoine Griezmann,80000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+273,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+274,1172,Euros 2020,France vs Switzerland,28.06.21,France,FR,2021,SUCCESS,Karim Benzema,25000000.0,False,working,False,Karim Benzema,Benzema,single
+275,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+276,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Silvan Widmer,4000000.0,False,working,False,Silvan Widmer,Widmer,single
+277,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+278,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Manuel Akanji,25000000.0,False,working,False,Manuel Akanji,Akanji,single
+279,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Ricardo Rodríguez,3000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+280,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Granit Xhaka,25000000.0,False,working,False,Granit Xhaka,Xhaka,single
+281,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Remo Freuler,23000000.0,False,working,False,Remo Freuler,Freuler,single
+282,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Xherdan Shaqiri,16000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+283,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Breel Embolo,16000000.0,False,working,False,Breel Embolo,Embolo,single
+284,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Haris Seferovic,10000000.0,False,working,False,Haris Seferovic,Seferovic,single
+285,1172,Euros 2020,France vs Switzerland,28.06.21,Switzerland,CH,2021,SUCCESS,Steven Zuber,3000000.0,False,working,False,Steven Zuber,Zuber,single
+286,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+287,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+288,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+289,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+290,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Harry Maguire,40000000.0,False,working,False,Harry Maguire,Maguire,single
+291,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Kieran Trippier,20000000.0,False,working,False,Kieran Trippier,Trippier,single
+292,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+293,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+294,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+295,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Bukayo Saka,40000000.0,False,working,False,Bukayo Saka,B Saka,single
+296,1173,Euros 2020,England vs Germany,29.06.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+297,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+298,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Antonio Rüdiger,25000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+299,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Mats Hummels,6500000.0,False,Used Large Dataset,False,Mats Hummels,Hummels,single
+300,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Robin Gosens,28000000.0,False,working,False,Robin Gosens,Gosens,single
+301,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+302,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Joshua Kimmich,85000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+303,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Kai Havertz,81000000.0,False,working,False,Kai Havertz,Havertz,single
+304,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Toni Kroos,20000000.0,False,Used Large Dataset,False,Toni Kroos,Kroos,single
+305,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Leon Goretzka,60000000.0,False,working,False,Leon Goretzka,Goretzka,single
+306,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+307,1173,Euros 2020,England vs Germany,29.06.21,Germany,DE,2021,SUCCESS,Timo Werner,70000000.0,False,working,False,Timo Werner,Werner,single
+308,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Robin Olsen,2000000.0,False,working,False,Robin Olsen,R Olsen,single
+309,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Mikael Lustig,500000.0,False,Data Ended before season : 2021,False,Mikael Lustig,Lustig,single
+310,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Victor Lindelöf,22000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+311,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",5000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+312,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Marcus Danielson,500000.0,False,working,False,Marcus Danielson,Danielson,single
+313,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",600000.0,False,Data Ended before season : 2021,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+314,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",1000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+315,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Emil Forsberg,11000000.0,False,working,False,Emil Forsberg,Forsberg,single
+316,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Kristoffer Olsson,3000000.0,False,working,False,Kristoffer Olsson,K Olsson,single
+317,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Dejan Kulusevski,40000000.0,False,working,False,Dejan Kulusevski,Kulusevski,single
+318,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Sweden,SE,2021,SUCCESS,Alexander Isak,30000000.0,False,working,False,Alexander Isak,Isak,single
+319,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Georgiy Bushchan,9000000.0,False,working,False,Georgiy Bushchan,Bushchan,single
+320,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Ilya Zabarnyi,15000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+321,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+322,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Sergiy Kryvtsov,3000000.0,False,working,False,Sergiy Kryvtsov,Kryvtsov,single
+323,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Mykola Matvienko,11000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+324,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Taras Stepanenko,6000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+325,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Sergiy Sydorchuk,5000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+326,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zinchenko,25000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+327,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Andriy Yarmolenko,2500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+328,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Roman Yaremchuk,15000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+329,1174,Euros 2020,Sweden vs Ukraine,29.06.21,Ukraine,UA,2021,SUCCESS,Mykola Shaparenko,10000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+330,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Uğurcan Çakır,18000000.0,False,working,False,Uğurcan Çakır,U Çakir,single
+331,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Zeki Çelik,18000000.0,False,working,False,Zeki Çelik,Çelik,single
+332,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Çağlar Söyüncü,40000000.0,False,working,False,Çağlar Söyüncü,Soyuncu,single
+333,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Merih Demiral,25000000.0,False,working,False,Merih Demiral,Demiral,single
+334,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Umut Meraş,2100000.0,False,Used Large Dataset,False,Umut Meraş,Mera,single
+335,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Okay Yokuşlu,3000000.0,False,Used Large Dataset,False,Okay Yokuşlu,Yokulu,single
+336,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Ozan Tufan,3800000.0,False,Used Large Dataset,False,Ozan Tufan,Tufan,single
+337,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+338,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,FAIL,0,0,True,Lookup Required,False,0,Yazc,none
+339,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Kenan Karaman,1400000.0,False,Used Large Dataset,False,Kenan Karaman,K Karaman,single
+340,1175,Euros 2020,Turkey vs Italy,11.06.21,Turkey,TR,2021,SUCCESS,Burak Yılmaz,1500000.0,False,working,False,Burak Yılmaz,B Yilmaz,single
+341,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+342,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Giorgio Chiellini,2000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+343,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+344,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Manuel Locatelli,35000000.0,False,working,False,Manuel Locatelli,Locatelli,single
+345,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+346,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Alessandro Florenzi,12000000.0,False,working,False,Alessandro Florenzi,Florenzi,single
+347,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+348,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Leonardo Spinazzola,23000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+349,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+350,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Domenico Berardi,30000000.0,False,working,False,Domenico Berardi,D Berardi,single
+351,1175,Euros 2020,Turkey vs Italy,11.06.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+352,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Danny Ward,6500000.0,False,working,False,Danny Ward,Ward,single
+353,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",17500000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+354,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+355,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Connor Roberts,4000000.0,False,working,False,Connor Roberts,C Roberts,single
+356,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+357,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Joe Allen,2800000.0,False,working,False,Joe Allen,Allen,single
+358,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Aaron Ramsey,20000000.0,False,working,False,Aaron Ramsey,Ramsey,single
+359,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Joe Morrell,500000.0,False,working,False,Joe Morrell,Morrell,single
+360,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Daniel James,16000000.0,False,working,False,Daniel James,D James,single
+361,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Gareth Bale,20000000.0,False,working,False,Gareth Bale,Bale,single
+362,1176,Euros 2020,Wales vs Switzerland,12.06.21,Wales,WA,2021,SUCCESS,Kieffer Moore,2800000.0,False,working,False,Kieffer Moore,Ki Moore,single
+363,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+364,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Kevin Mbabu,8500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+365,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+366,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Manuel Akanji,25000000.0,False,working,False,Manuel Akanji,Akanji,single
+367,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Ricardo Rodríguez,3000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+368,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Fabian Schär,13000000.0,False,working,False,Fabian Schär,Schär,single
+369,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Granit Xhaka,25000000.0,False,working,False,Granit Xhaka,Xhaka,single
+370,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Remo Freuler,23000000.0,False,working,False,Remo Freuler,Freuler,single
+371,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Xherdan Shaqiri,16000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+372,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Breel Embolo,16000000.0,False,working,False,Breel Embolo,Embolo,single
+373,1176,Euros 2020,Wales vs Switzerland,12.06.21,Switzerland,CH,2021,SUCCESS,Haris Seferovic,10000000.0,False,working,False,Haris Seferovic,Seferovic,single
+374,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Uğurcan Çakır,18000000.0,False,working,False,Uğurcan Çakır,U Çakir,single
+375,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Zeki Çelik,18000000.0,False,working,False,Zeki Çelik,Çelik,single
+376,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Çağlar Söyüncü,40000000.0,False,working,False,Çağlar Söyüncü,Soyuncu,single
+377,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,"['Kaan Ayhan', 'Yalçın Ayhan']",5000000.0,False,working,False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+378,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Umut Meraş,2100000.0,False,Used Large Dataset,False,Umut Meraş,Mera,single
+379,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Okay Yokuşlu,3000000.0,False,Used Large Dataset,False,Okay Yokuşlu,Yokulu,single
+380,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Ozan Tufan,3800000.0,False,Used Large Dataset,False,Ozan Tufan,Tufan,single
+381,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Cengiz Ünder,22000000.0,False,working,False,Cengiz Ünder,Ünder,single
+382,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+383,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Kenan Karaman,1400000.0,False,Used Large Dataset,False,Kenan Karaman,K Karaman,single
+384,1177,Euros 2020,Turkey vs Wales,16.06.21,Turkey,TR,2021,SUCCESS,Burak Yılmaz,1500000.0,False,working,False,Burak Yılmaz,B Yilmaz,single
+385,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Danny Ward,6500000.0,False,working,False,Danny Ward,Ward,single
+386,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",17500000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+387,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+388,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Connor Roberts,4000000.0,False,working,False,Connor Roberts,C Roberts,single
+389,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Chris Mepham,8000000.0,False,working,False,Chris Mepham,Mepham,single
+390,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Joe Allen,2800000.0,False,working,False,Joe Allen,Allen,single
+391,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Aaron Ramsey,20000000.0,False,working,False,Aaron Ramsey,Ramsey,single
+392,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Joe Morrell,500000.0,False,working,False,Joe Morrell,Morrell,single
+393,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Daniel James,16000000.0,False,working,False,Daniel James,D James,single
+394,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Gareth Bale,20000000.0,False,working,False,Gareth Bale,Bale,single
+395,1177,Euros 2020,Turkey vs Wales,16.06.21,Wales,WA,2021,SUCCESS,Kieffer Moore,2800000.0,False,working,False,Kieffer Moore,Ki Moore,single
+396,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+397,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Giovanni Di Lorenzo,22000000.0,False,working,False,Giovanni Di Lorenzo,Di Lorenzo,single
+398,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Giorgio Chiellini,2000000.0,False,working,False,Giorgio Chiellini,Chiellini,single
+399,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+400,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Manuel Locatelli,35000000.0,False,working,False,Manuel Locatelli,Locatelli,single
+401,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+402,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Nicolò Barella,55000000.0,False,working,False,Nicolò Barella,Barella,single
+403,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Leonardo Spinazzola,23000000.0,False,working,False,Leonardo Spinazzola,Spinazzola,single
+404,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Lorenzo Insigne,48000000.0,False,working,False,Lorenzo Insigne,L Insigne,single
+405,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Domenico Berardi,30000000.0,False,working,False,Domenico Berardi,D Berardi,single
+406,1178,Euros 2020,Italy vs Switzerland,16.06.21,Italy,IT,2021,SUCCESS,Ciro Immobile,45000000.0,False,working,False,Ciro Immobile,Immobile,single
+407,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+408,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Kevin Mbabu,8500000.0,False,working,False,Kevin Mbabu,Mbabu,single
+409,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+410,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Manuel Akanji,25000000.0,False,working,False,Manuel Akanji,Akanji,single
+411,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Ricardo Rodríguez,3000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+412,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Fabian Schär,13000000.0,False,working,False,Fabian Schär,Schär,single
+413,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Granit Xhaka,25000000.0,False,working,False,Granit Xhaka,Xhaka,single
+414,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Remo Freuler,23000000.0,False,working,False,Remo Freuler,Freuler,single
+415,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Xherdan Shaqiri,16000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+416,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Breel Embolo,16000000.0,False,working,False,Breel Embolo,Embolo,single
+417,1178,Euros 2020,Italy vs Switzerland,16.06.21,Switzerland,CH,2021,SUCCESS,Haris Seferovic,10000000.0,False,working,False,Haris Seferovic,Seferovic,single
+418,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Yann Sommer,9500000.0,False,working,False,Yann Sommer,Sommer,single
+419,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Silvan Widmer,4000000.0,False,working,False,Silvan Widmer,Widmer,single
+420,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Nico Elvedi,30000000.0,False,working,False,Nico Elvedi,Elvedi,single
+421,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Manuel Akanji,25000000.0,False,working,False,Manuel Akanji,Akanji,single
+422,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Ricardo Rodríguez,3000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+423,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Granit Xhaka,25000000.0,False,working,False,Granit Xhaka,Xhaka,single
+424,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Remo Freuler,23000000.0,False,working,False,Remo Freuler,Freuler,single
+425,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Xherdan Shaqiri,16000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+426,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Breel Embolo,16000000.0,False,working,False,Breel Embolo,Embolo,single
+427,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Haris Seferovic,10000000.0,False,working,False,Haris Seferovic,Seferovic,single
+428,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Switzerland,CH,2021,SUCCESS,Steven Zuber,3000000.0,False,working,False,Steven Zuber,Zuber,single
+429,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Uğurcan Çakır,18000000.0,False,working,False,Uğurcan Çakır,U Çakir,single
+430,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Zeki Çelik,18000000.0,False,working,False,Zeki Çelik,Çelik,single
+431,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Çağlar Söyüncü,40000000.0,False,working,False,Çağlar Söyüncü,Soyuncu,single
+432,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,"['Kaan Ayhan', 'Yalçın Ayhan']",5000000.0,False,working,False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+433,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Mert Müldür,7000000.0,False,working,False,Mert Müldür,Müldür,single
+434,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Merih Demiral,25000000.0,False,working,False,Merih Demiral,Demiral,single
+435,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Ozan Tufan,3800000.0,False,Used Large Dataset,False,Ozan Tufan,Tufan,single
+436,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Cengiz Ünder,22000000.0,False,working,False,Cengiz Ünder,Ünder,single
+437,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+438,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,İrfan Can Kahveci,8500000.0,False,Used Large Dataset,False,İrfan Can Kahveci,I Kahveci,single
+439,1179,Euros 2020,Switzerland vs Turkey,20.06.21,Turkey,TR,2021,SUCCESS,Burak Yılmaz,1500000.0,False,working,False,Burak Yılmaz,B Yilmaz,single
+440,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Gianluigi Donnarumma,60000000.0,False,working,False,Gianluigi Donnarumma,G Donnarumma,single
+441,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Emerson Palmieri,15000000.0,False,working,False,Emerson Palmieri,Emerson Palmieri,single
+442,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Rafael Tolói,8000000.0,False,Used Large Dataset,False,Rafael Tolói,Toloi,single
+443,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Leonardo Bonucci,13000000.0,False,working,False,Leonardo Bonucci,Bonucci,single
+444,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Alessandro Bastoni,50000000.0,False,working,False,Alessandro Bastoni,Bastoni,single
+445,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Marco Verratti,60000000.0,False,working,False,Marco Verratti,Verratti,single
+446,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Jorginho,50000000.0,False,working,False,Jorginho,Jorginho,single
+447,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Federico Chiesa,65000000.0,False,Used Large Dataset,False,Federico Chiesa,F Chiesa,single
+448,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Matteo Pessina,15000000.0,False,working,False,Matteo Pessina,Pessina,single
+449,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Andrea Belotti,40000000.0,False,working,False,Andrea Belotti,Belotti,single
+450,1180,Euros 2020,Italy vs Wales,20.06.21,Italy,IT,2021,SUCCESS,Federico Bernardeschi,20000000.0,False,working,False,Federico Bernardeschi,Bernardeschi,single
+451,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Danny Ward,6500000.0,False,working,False,Danny Ward,Ward,single
+452,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Chris Gunter,950000.0,False,working,False,Chris Gunter,Gunter,single
+453,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Neco Williams,10000000.0,False,working,False,Neco Williams,N Williams,single
+454,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+455,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Connor Roberts,4000000.0,False,working,False,Connor Roberts,C Roberts,single
+456,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Joe Allen,2800000.0,False,working,False,Joe Allen,Allen,single
+457,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Aaron Ramsey,20000000.0,False,working,False,Aaron Ramsey,Ramsey,single
+458,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Ethan Ampadu,10000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+459,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Joe Morrell,500000.0,False,working,False,Joe Morrell,Morrell,single
+460,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Daniel James,16000000.0,False,working,False,Daniel James,D James,single
+461,1180,Euros 2020,Italy vs Wales,20.06.21,Wales,WA,2021,SUCCESS,Gareth Bale,20000000.0,False,working,False,Gareth Bale,Bale,single
+462,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+463,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Andreas Christensen,24000000.0,False,working,False,Andreas Christensen,A Christensen,single
+464,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+465,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+466,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Jonas Wind,4500000.0,False,working,False,Jonas Wind,Wind,single
+467,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+468,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Daniel Wass,7500000.0,False,working,False,Daniel Wass,Wass,single
+469,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+470,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Christian Eriksen,35000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+471,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+472,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Yussuf Poulsen,25000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+473,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",8000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+474,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Paulus Arajuuri,450000.0,False,Data Ended before season : 2021,False,Paulus Arajuuri,Arajuuri,single
+475,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Daniel O'Shaughnessy,300000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+476,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Joona Toivio,700000.0,False,working,False,Joona Toivio,Toivio,single
+477,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Jere Uronen,2800000.0,False,working,False,Jere Uronen,Uronen,single
+478,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Jukka Raitala,500000.0,False,working,False,Jukka Raitala,Raitala,single
+479,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Tim Sparv,250000.0,False,Data Ended before season : 2021,False,Tim Sparv,Sparv,single
+480,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Glen Kamara,1200000.0,False,working,False,Glen Kamara,G Kamara,single
+481,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Robin Lod,3000000.0,False,working,False,Robin Lod,Lod,single
+482,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Teemu Pukki,6500000.0,False,working,False,Teemu Pukki,Pukki,single
+483,1181,Euros 2020,Denmark vs Finland,12.06.21,Finland,FI,2021,SUCCESS,Joel Pohjanpalo,2000000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+484,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Thibaut Courtois,75000000.0,False,working,False,Thibaut Courtois,Courtois,single
+485,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Toby Alderweireld,20000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+486,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Dedryck Boyata,10000000.0,False,working,False,Dedryck Boyata,Boyata,single
+487,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Jan Vertonghen,10000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+488,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Leander Dendoncker,32000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+489,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Timothy Castagne,24000000.0,False,working,False,Timothy Castagne,Castagne,single
+490,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Youri Tielemans,50000000.0,False,working,False,Youri Tielemans,Tielemans,single
+491,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Yannick Carrasco,25000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+492,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Dries Mertens,15000000.0,False,working,False,Dries Mertens,D Mertens,single
+493,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Thorgan Hazard,32000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+494,1182,Euros 2020,Belgium vs Russia,12.06.21,Belgium,BE,2021,SUCCESS,Romelu Lukaku,90000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+495,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Anton Shunin,0,False,Not in either dataset for currect season but present in both seasons around match,True,Anton Shunin,Shunin,single
+496,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Mário Fernandes,16000000.0,False,Data Ended before season : 2021,False,Mário Fernandes,Ma Fernandes,single
+497,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Aleksey Ionov,2800000.0,False,Data Ended before season : 2021,False,Aleksey Ionov,A Semyonov,single
+498,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Georgiy Dzhikiya,0,False,Not in either dataset for currect season but present in both seasons around match,True,Georgiy Dzhikiya,Dzhikiya,single
+499,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Magomed Ozdoev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Magomed Ozdoev,Ozdoev,single
+500,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Dmitriy Barinov,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dmitriy Barinov,Dm Barinov,single
+501,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Roman Zobnin,13000000.0,False,Data Ended before season : 2021,False,Roman Zobnin,Zobnin,single
+502,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Aleksandr Golovin,25000000.0,False,Used Large Dataset,False,Aleksandr Golovin,Golovin,single
+503,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Yuriy Zhirkov,300000.0,False,Data Ended before season : 2021,False,Yuriy Zhirkov,Zhirkov,single
+504,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Daler Kuzyaev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Daler Kuzyaev,Kuzyaev,single
+505,1182,Euros 2020,Belgium vs Russia,12.06.21,Russia,RU,2021,SUCCESS,Artem Dzyuba,0,False,Not in either dataset for currect season but present in both seasons around match,True,Artem Dzyuba,Dzyuba,single
+506,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",8000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+507,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Paulus Arajuuri,450000.0,False,Data Ended before season : 2021,False,Paulus Arajuuri,Arajuuri,single
+508,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Daniel O'Shaughnessy,300000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+509,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Joona Toivio,700000.0,False,working,False,Joona Toivio,Toivio,single
+510,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Jere Uronen,2800000.0,False,working,False,Jere Uronen,Uronen,single
+511,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Jukka Raitala,500000.0,False,working,False,Jukka Raitala,Raitala,single
+512,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Glen Kamara,1200000.0,False,working,False,Glen Kamara,G Kamara,single
+513,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Robin Lod,3000000.0,False,working,False,Robin Lod,Lod,single
+514,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Rasmus Schüller,400000.0,False,working,False,Rasmus Schüller,Schüller,single
+515,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Teemu Pukki,6500000.0,False,working,False,Teemu Pukki,Pukki,single
+516,1183,Euros 2020,Finland vs Russia,16.06.21,Finland,FI,2021,SUCCESS,Joel Pohjanpalo,2000000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+517,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Matvey Safonov,0,False,Not in either dataset for currect season but present in both seasons around match,True,Matvey Safonov,M Safonov,single
+518,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Mário Fernandes,16000000.0,False,Data Ended before season : 2021,False,Mário Fernandes,Ma Fernandes,single
+519,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Igor Diveev,5000000.0,False,Data Ended before season : 2021,False,Igor Diveev,Diveev,single
+520,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Georgiy Dzhikiya,0,False,Not in either dataset for currect season but present in both seasons around match,True,Georgiy Dzhikiya,Dzhikiya,single
+521,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Magomed Ozdoev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Magomed Ozdoev,Ozdoev,single
+522,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Dmitriy Barinov,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dmitriy Barinov,Dm Barinov,single
+523,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Roman Zobnin,13000000.0,False,Data Ended before season : 2021,False,Roman Zobnin,Zobnin,single
+524,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Aleksey Miranchuk,10000000.0,False,Used Large Dataset,False,Aleksey Miranchuk,Al Miranchuk,single
+525,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Aleksandr Golovin,25000000.0,False,Used Large Dataset,False,Aleksandr Golovin,Golovin,single
+526,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Daler Kuzyaev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Daler Kuzyaev,Kuzyaev,single
+527,1183,Euros 2020,Finland vs Russia,16.06.21,Russia,RU,2021,SUCCESS,Artem Dzyuba,0,False,Not in either dataset for currect season but present in both seasons around match,True,Artem Dzyuba,Dzyuba,single
+528,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+529,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Jannik Vestergaard,15000000.0,False,working,False,Jannik Vestergaard,Vestergaard,single
+530,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+531,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+532,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+533,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Mikkel Damsgaard,8000000.0,False,working,False,Mikkel Damsgaard,M Damsgaard,single
+534,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Daniel Wass,7500000.0,False,working,False,Daniel Wass,Wass,single
+535,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+536,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Anders Christiansen,2500000.0,False,Data Ended before season : 2021,False,Anders Christiansen,A Christiansen,single
+537,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+538,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Yussuf Poulsen,25000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+539,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Thibaut Courtois,75000000.0,False,working,False,Thibaut Courtois,Courtois,single
+540,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Toby Alderweireld,20000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+541,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Jan Vertonghen,10000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+542,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Thomas Meunier,18000000.0,False,working,False,Thomas Meunier,Meunier,single
+543,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Jason Denayer,16000000.0,False,working,False,Jason Denayer,Denayer,single
+544,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Leander Dendoncker,32000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+545,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Youri Tielemans,50000000.0,False,working,False,Youri Tielemans,Tielemans,single
+546,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Yannick Carrasco,25000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+547,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Dries Mertens,15000000.0,False,working,False,Dries Mertens,D Mertens,single
+548,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Thorgan Hazard,32000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+549,1184,Euros 2020,Denmark vs Belgium,17.06.21,Belgium,BE,2021,SUCCESS,Romelu Lukaku,90000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+550,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Matvey Safonov,0,False,Not in either dataset for currect season but present in both seasons around match,True,Matvey Safonov,M Safonov,single
+551,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Mário Fernandes,16000000.0,False,Data Ended before season : 2021,False,Mário Fernandes,Ma Fernandes,single
+552,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Igor Diveev,5000000.0,False,Data Ended before season : 2021,False,Igor Diveev,Diveev,single
+553,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Fedor Kudryashov,450000.0,False,Used Large Dataset,False,Fedor Kudryashov,Kudryashov,single
+554,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Georgiy Dzhikiya,0,False,Not in either dataset for currect season but present in both seasons around match,True,Georgiy Dzhikiya,Dzhikiya,single
+555,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Magomed Ozdoev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Magomed Ozdoev,Ozdoev,single
+556,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Roman Zobnin,13000000.0,False,Data Ended before season : 2021,False,Roman Zobnin,Zobnin,single
+557,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Aleksey Miranchuk,10000000.0,False,Used Large Dataset,False,Aleksey Miranchuk,Al Miranchuk,single
+558,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Aleksandr Golovin,25000000.0,False,Used Large Dataset,False,Aleksandr Golovin,Golovin,single
+559,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Daler Kuzyaev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Daler Kuzyaev,Kuzyaev,single
+560,1185,Euros 2020,Russia vs Denmark,21.06.21,Russia,RU,2021,SUCCESS,Artem Dzyuba,0,False,Not in either dataset for currect season but present in both seasons around match,True,Artem Dzyuba,Dzyuba,single
+561,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Kasper Schmeichel,8000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+562,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Jannik Vestergaard,15000000.0,False,working,False,Jannik Vestergaard,Vestergaard,single
+563,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Simon Kjaer,10000000.0,False,working,False,Simon Kjaer,Kjaer,single
+564,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Joakim Maehle,10000000.0,False,working,False,Joakim Maehle,Maehle,single
+565,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Thomas Delaney,17500000.0,False,working,False,Thomas Delaney,Delaney,single
+566,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Mikkel Damsgaard,8000000.0,False,working,False,Mikkel Damsgaard,M Damsgaard,single
+567,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Daniel Wass,7500000.0,False,working,False,Daniel Wass,Wass,single
+568,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,FAIL,Jeppe Højbjerg,0,True,Online Lookup Required,False,Jeppe Højbjerg,Hojbjerg,single
+569,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Anders Christiansen,2500000.0,False,Data Ended before season : 2021,False,Anders Christiansen,A Christiansen,single
+570,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Martin Braithwaite,7500000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+571,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Yussuf Poulsen,25000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+572,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",8000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+573,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Paulus Arajuuri,450000.0,False,Data Ended before season : 2021,False,Paulus Arajuuri,Arajuuri,single
+574,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Daniel O'Shaughnessy,300000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+575,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Joona Toivio,700000.0,False,working,False,Joona Toivio,Toivio,single
+576,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Jere Uronen,2800000.0,False,working,False,Jere Uronen,Uronen,single
+577,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Jukka Raitala,500000.0,False,working,False,Jukka Raitala,Raitala,single
+578,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Tim Sparv,250000.0,False,Data Ended before season : 2021,False,Tim Sparv,Sparv,single
+579,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Glen Kamara,1200000.0,False,working,False,Glen Kamara,G Kamara,single
+580,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Robin Lod,3000000.0,False,working,False,Robin Lod,Lod,single
+581,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Teemu Pukki,6500000.0,False,working,False,Teemu Pukki,Pukki,single
+582,1186,Euros 2020,Finland vs Belgium,21.06.21,Finland,FI,2021,SUCCESS,Joel Pohjanpalo,2000000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+583,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Thibaut Courtois,75000000.0,False,working,False,Thibaut Courtois,Courtois,single
+584,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Thomas Vermaelen,900000.0,False,Data Ended before season : 2021,False,Thomas Vermaelen,Vermaelen,single
+585,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Dedryck Boyata,10000000.0,False,working,False,Dedryck Boyata,Boyata,single
+586,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Jason Denayer,16000000.0,False,working,False,Jason Denayer,Denayer,single
+587,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Axel Witsel,17000000.0,False,working,False,Axel Witsel,Witsel,single
+588,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Kevin De Bruyne,120000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+589,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,"['Eden Hazard', 'Thorgan Hazard']",60000000.0,False,working,False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+590,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Romelu Lukaku,90000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+591,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Nacer Chadli,2800000.0,False,Used Large Dataset,False,Nacer Chadli,Chadli,single
+592,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Leandro Trossard,15000000.0,False,working,False,Leandro Trossard,Trossard,single
+593,1186,Euros 2020,Finland vs Belgium,21.06.21,Belgium,BE,2021,SUCCESS,Jérémy Doku,20000000.0,False,working,False,Jérémy Doku,J Doku,single
+594,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Daniel Bachmann,2500000.0,False,working,False,Daniel Bachmann,Bachmann,single
+595,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Aleksandar Dragovic,5000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+596,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Stefan Lainer,4500000.0,False,working,False,Stefan Lainer,Lainer,single
+597,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Martin Hinteregger,9000000.0,False,working,False,Martin Hinteregger,Hinteregger,single
+598,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Andreas Ulmer,600000.0,False,working,False,Andreas Ulmer,Ulmer,single
+599,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,David Alaba,55000000.0,False,working,False,David Alaba,Alaba,single
+600,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Marcel Sabitzer,15000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+601,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Xaver Schlager,27000000.0,False,working,False,Xaver Schlager,X Schlager,single
+602,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Konrad Laimer,28000000.0,False,working,False,Konrad Laimer,Laimer,single
+603,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Christoph Baumgartner,22000000.0,False,working,False,Christoph Baumgartner,Baumgartner,single
+604,1187,Euros 2020,Austria vs North Macedonia,13.06.21,Austria,AT,2021,SUCCESS,Sasa Kalajdzic,25000000.0,False,working,False,Sasa Kalajdzic,Kalajdzic,single
+605,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Stole Dimitrievski,3000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+606,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Visar Musliu,800000.0,False,working,False,Visar Musliu,Musliu,single
+607,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Ezgjan Alioski,7500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+608,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Stefan Ristovski,2000000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+609,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Arijan Ademi,6500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+610,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+611,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Boban Nikolov,700000.0,False,working,False,Boban Nikolov,Nikolov,single
+612,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Enis Bardhi,8000000.0,False,working,False,Enis Bardhi,Bardhi,single
+613,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Eljif Elmas,24000000.0,False,working,False,Eljif Elmas,Elmas,single
+614,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Aleksandar Trajkovski,700000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+615,1187,Euros 2020,Austria vs North Macedonia,13.06.21,North Macedonia,MK,2021,SUCCESS,Goran Pandev,400000.0,False,Used Large Dataset,False,Goran Pandev,Pandev,single
+616,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Maarten Stekelenburg,200000.0,False,Used Large Dataset,False,Maarten Stekelenburg,Stekelenburg,single
+617,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Stefan de Vrij,55000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+618,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Patrick van Aanholt,4000000.0,False,Used Large Dataset,False,Patrick van Aanholt,van Aanholt,single
+619,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+620,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Jurrien Timber,4000000.0,False,working,False,Jurrien Timber,J Timber,single
+621,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+622,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",70000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+623,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+624,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Marten de Roon,23000000.0,False,working,False,Marten de Roon,de Roon,single
+625,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+626,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Netherlands,NL,2021,SUCCESS,Wout Weghorst,30000000.0,False,working,False,Wout Weghorst,Weghorst,single
+627,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Georgiy Bushchan,9000000.0,False,working,False,Georgiy Bushchan,Bushchan,single
+628,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Ilya Zabarnyi,15000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+629,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Vitaliy Mykolenko,18000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+630,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+631,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Mykola Matvienko,11000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+632,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Sergiy Sydorchuk,5000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+633,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",28000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+634,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zinchenko,25000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+635,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Andriy Yarmolenko,2500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+636,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Roman Yaremchuk,15000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+637,1188,Euros 2020,Netherlands vs Ukraine,13.06.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zubkov,1800000.0,False,working,False,Oleksandr Zubkov,Zubkov,single
+638,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Georgiy Bushchan,9000000.0,False,working,False,Georgiy Bushchan,Bushchan,single
+639,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Ilya Zabarnyi,15000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+640,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Vitaliy Mykolenko,18000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+641,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+642,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Mykola Matvienko,11000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+643,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Taras Stepanenko,6000000.0,False,working,False,Taras Stepanenko,Stepanenko,single
+644,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",28000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+645,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zinchenko,25000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+646,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Andriy Yarmolenko,2500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+647,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Roman Yaremchuk,15000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+648,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,Ukraine,UA,2021,SUCCESS,Mykola Shaparenko,10000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+649,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Stole Dimitrievski,3000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+650,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Visar Musliu,800000.0,False,working,False,Visar Musliu,Musliu,single
+651,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Ezgjan Alioski,7500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+652,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Stefan Ristovski,2000000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+653,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Arijan Ademi,6500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+654,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+655,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Boban Nikolov,700000.0,False,working,False,Boban Nikolov,Nikolov,single
+656,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Enis Bardhi,8000000.0,False,working,False,Enis Bardhi,Bardhi,single
+657,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Stefan Spirovski,250000.0,False,working,False,Stefan Spirovski,Spirovski,single
+658,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Eljif Elmas,24000000.0,False,working,False,Eljif Elmas,Elmas,single
+659,1189,Euros 2020,Ukraine vs North Macedonia,17.06.21,North Macedonia,MK,2021,SUCCESS,Goran Pandev,400000.0,False,Used Large Dataset,False,Goran Pandev,Pandev,single
+660,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Maarten Stekelenburg,200000.0,False,Used Large Dataset,False,Maarten Stekelenburg,Stekelenburg,single
+661,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+662,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Stefan de Vrij,55000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+663,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Patrick van Aanholt,4000000.0,False,Used Large Dataset,False,Patrick van Aanholt,van Aanholt,single
+664,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+665,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+666,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",70000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+667,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+668,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Marten de Roon,23000000.0,False,working,False,Marten de Roon,de Roon,single
+669,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+670,1190,Euros 2020,Netherlands vs Austria,17.06.21,Netherlands,NL,2021,SUCCESS,Wout Weghorst,30000000.0,False,working,False,Wout Weghorst,Weghorst,single
+671,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Daniel Bachmann,2500000.0,False,working,False,Daniel Bachmann,Bachmann,single
+672,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Aleksandar Dragovic,5000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+673,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Stefan Lainer,4500000.0,False,working,False,Stefan Lainer,Lainer,single
+674,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Martin Hinteregger,9000000.0,False,working,False,Martin Hinteregger,Hinteregger,single
+675,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Andreas Ulmer,600000.0,False,working,False,Andreas Ulmer,Ulmer,single
+676,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,David Alaba,55000000.0,False,working,False,David Alaba,Alaba,single
+677,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Marcel Sabitzer,15000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+678,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Xaver Schlager,27000000.0,False,working,False,Xaver Schlager,X Schlager,single
+679,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Konrad Laimer,28000000.0,False,working,False,Konrad Laimer,Laimer,single
+680,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Christoph Baumgartner,22000000.0,False,working,False,Christoph Baumgartner,Baumgartner,single
+681,1190,Euros 2020,Netherlands vs Austria,17.06.21,Austria,AT,2021,SUCCESS,Michael Gregoritsch,4500000.0,False,working,False,Michael Gregoritsch,Gregoritsch,single
+682,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Stole Dimitrievski,3000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+683,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Visar Musliu,800000.0,False,working,False,Visar Musliu,Musliu,single
+684,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Ezgjan Alioski,7500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+685,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Stefan Ristovski,2000000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+686,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Arijan Ademi,6500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+687,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+688,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Enis Bardhi,8000000.0,False,working,False,Enis Bardhi,Bardhi,single
+689,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Eljif Elmas,24000000.0,False,working,False,Eljif Elmas,Elmas,single
+690,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",700000.0,False,Data Ended before season : 2021,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+691,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Aleksandar Trajkovski,700000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+692,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,North Macedonia,MK,2021,SUCCESS,Goran Pandev,400000.0,False,Used Large Dataset,False,Goran Pandev,Pandev,single
+693,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Maarten Stekelenburg,200000.0,False,Used Large Dataset,False,Maarten Stekelenburg,Stekelenburg,single
+694,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Matthijs de Ligt,75000000.0,False,working,False,Matthijs de Ligt,de Ligt,single
+695,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Stefan de Vrij,55000000.0,False,working,False,Stefan de Vrij,de Vrij,single
+696,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Patrick van Aanholt,4000000.0,False,Used Large Dataset,False,Patrick van Aanholt,van Aanholt,single
+697,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Denzel Dumfries,15000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+698,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Daley Blind,20000000.0,False,working,False,Daley Blind,Blind,single
+699,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",70000000.0,False,working,False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+700,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Georginio Wijnaldum,40000000.0,False,working,False,Georginio Wijnaldum,Wijnaldum,single
+701,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Ryan Gravenberch,35000000.0,False,Used Large Dataset,False,Ryan Gravenberch,R Gravenberch,single
+702,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Memphis Depay,45000000.0,False,working,False,Memphis Depay,Depay,single
+703,1191,Euros 2020,North Macedonia vs Netherlands,21.06.21,Netherlands,NL,2021,SUCCESS,Donyell Malen,25000000.0,False,working,False,Donyell Malen,Malen,single
+704,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Georgiy Bushchan,9000000.0,False,working,False,Georgiy Bushchan,Bushchan,single
+705,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Ilya Zabarnyi,15000000.0,False,working,False,Ilya Zabarnyi,Zabarnyi,single
+706,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Vitaliy Mykolenko,18000000.0,False,working,False,Vitaliy Mykolenko,Mykolenko,single
+707,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,FAIL,0,0,True,Lookup Required,False,0,Karavayev,none
+708,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Mykola Matvienko,11000000.0,False,working,False,Mykola Matvienko,Matviyenko,single
+709,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Sergiy Sydorchuk,5000000.0,False,working,False,Sergiy Sydorchuk,Sydorchuk,single
+710,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",28000000.0,False,working,False,"['Ruslan Malinovskyi', 'Edmar Galovskyi']",Malynovskyi,multiple
+711,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Oleksandr Zinchenko,25000000.0,False,working,False,Oleksandr Zinchenko,Zinchenko,single
+712,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Andriy Yarmolenko,2500000.0,False,working,False,Andriy Yarmolenko,Yarmolenko,single
+713,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Roman Yaremchuk,15000000.0,False,working,False,Roman Yaremchuk,Yaremchuk,single
+714,1192,Euros 2020,Ukraine vs Austria,21.06.21,Ukraine,UA,2021,SUCCESS,Mykola Shaparenko,10000000.0,False,working,False,Mykola Shaparenko,Shaparenko,single
+715,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Daniel Bachmann,2500000.0,False,working,False,Daniel Bachmann,Bachmann,single
+716,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Aleksandar Dragovic,5000000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+717,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Stefan Lainer,4500000.0,False,working,False,Stefan Lainer,Lainer,single
+718,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Martin Hinteregger,9000000.0,False,working,False,Martin Hinteregger,Hinteregger,single
+719,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,David Alaba,55000000.0,False,working,False,David Alaba,Alaba,single
+720,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Marcel Sabitzer,15000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+721,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Florian Grillitsch,16000000.0,False,Used Large Dataset,False,Florian Grillitsch,Grillitsch,single
+722,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Xaver Schlager,27000000.0,False,working,False,Xaver Schlager,X Schlager,single
+723,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Konrad Laimer,28000000.0,False,working,False,Konrad Laimer,Laimer,single
+724,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Christoph Baumgartner,22000000.0,False,working,False,Christoph Baumgartner,Baumgartner,single
+725,1192,Euros 2020,Ukraine vs Austria,21.06.21,Austria,AT,2021,SUCCESS,Marko Arnautovic,6000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+726,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+727,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+728,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+729,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Kieran Trippier,20000000.0,False,working,False,Kieran Trippier,Trippier,single
+730,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Tyrone Mings,27000000.0,False,working,False,Tyrone Mings,Mings,single
+731,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+732,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+733,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+734,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Mason Mount,45000000.0,False,working,False,Mason Mount,Mount,single
+735,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Phil Foden,60000000.0,False,working,False,Phil Foden,Foden,single
+736,1193,Euros 2020,England vs Croatia,13.06.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+737,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Dominik Livakovic,13000000.0,False,working,False,Dominik Livakovic,Livaković,single
+738,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Sime Vrsaljko,10000000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+739,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Domagoj Vida,4000000.0,False,working,False,Domagoj Vida,Vida,single
+740,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Duje Caleta-Car,23000000.0,False,working,False,Duje Caleta-Car,Caleta-Car,single
+741,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Josko Gvardiol,16000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+742,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Ivan Perisic,10000000.0,False,working,False,Ivan Perisic,I Perišić,single
+743,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Mateo Kovacic,45000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+744,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+745,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Marcelo Brozovic,36000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+746,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Andrej Kramaric,32000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+747,1193,Euros 2020,England vs Croatia,13.06.21,Croatia,HR,2021,SUCCESS,Ante Rebic,17000000.0,False,Used Large Dataset,False,Ante Rebic,Rebic,single
+748,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,David Marshall,250000.0,False,working,False,David Marshall,D Marshall,single
+749,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Stephen O'Donnell,700000.0,False,working,False,Stephen O'Donnell,S O`Donnell,single
+750,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Andrew Robertson,65000000.0,False,working,False,Andrew Robertson,A Robertson,single
+751,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Grant Hanley,3500000.0,False,working,False,Grant Hanley,G Hanley,single
+752,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Liam Cooper,7000000.0,False,working,False,Liam Cooper,L Cooper,single
+753,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Jack Hendry,5000000.0,False,working,False,Jack Hendry,J Hendry,single
+754,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Scott McTominay,32000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+755,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,"['Paul McGinn', 'John McGinn']",32000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+756,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Stuart Armstrong,6000000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+757,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Lyndon Dykes,3000000.0,False,working,False,Lyndon Dykes,Dykes,single
+758,1194,Euros 2020,Scotland vs Czech,14.06.21,Scotland,SC,2021,SUCCESS,Ryan Christie,9000000.0,False,working,False,Ryan Christie,Christie,single
+759,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Vaclik,4000000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+760,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Coufal,12000000.0,False,working,False,Vladimir Coufal,Coufal,single
+761,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Bořil,none
+762,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Král,none
+763,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Čelůstka,none
+764,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Kalas,4000000.0,False,working,False,Tomas Kalas,Kalas,single
+765,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Darida,2200000.0,False,Used Large Dataset,False,Vladimir Darida,Darida,single
+766,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Jakub Jankto,4000000.0,False,working,False,Jakub Jankto,Jankto,single
+767,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Soucek,45000000.0,False,working,False,Tomas Soucek,Soucek,single
+768,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Lukas Masopust,3500000.0,False,working,False,Lukas Masopust,Masopust,single
+769,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,Patrik Schick,50000000.0,False,Used Large Dataset,False,Patrik Schick,Schick,single
+770,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Dominik Livakovic,13000000.0,False,working,False,Dominik Livakovic,Livaković,single
+771,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Sime Vrsaljko,10000000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+772,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Dejan Lovren,11000000.0,False,working,False,Dejan Lovren,Lovren,single
+773,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Domagoj Vida,4000000.0,False,working,False,Domagoj Vida,Vida,single
+774,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Josko Gvardiol,16000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+775,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Ivan Perisic,10000000.0,False,working,False,Ivan Perisic,I Perišić,single
+776,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Mateo Kovacic,45000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+777,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+778,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Josip Brekalo,15000000.0,False,working,False,Josip Brekalo,J Brekalo,single
+779,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Andrej Kramaric,32000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+780,1195,Euros 2020,Croatia vs Czech,18.06.21,Croatia,HR,2021,SUCCESS,Ante Rebic,17000000.0,False,Used Large Dataset,False,Ante Rebic,Rebic,single
+781,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Vaclik,4000000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+782,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Coufal,12000000.0,False,working,False,Vladimir Coufal,Coufal,single
+783,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none
+784,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Bořil,none
+785,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Čelůstka,none
+786,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Kalas,4000000.0,False,working,False,Tomas Kalas,Kalas,single
+787,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Darida,2200000.0,False,Used Large Dataset,False,Vladimir Darida,Darida,single
+788,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Jakub Jankto,4000000.0,False,working,False,Jakub Jankto,Jankto,single
+789,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Soucek,45000000.0,False,working,False,Tomas Soucek,Soucek,single
+790,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Lukas Masopust,3500000.0,False,working,False,Lukas Masopust,Masopust,single
+791,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,Patrik Schick,50000000.0,False,Used Large Dataset,False,Patrik Schick,Schick,single
+792,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+793,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+794,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+795,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Tyrone Mings,27000000.0,False,working,False,Tyrone Mings,Mings,single
+796,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Reece James,35000000.0,False,working,False,Reece James,R James,single
+797,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+798,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+799,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+800,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Mason Mount,45000000.0,False,working,False,Mason Mount,Mount,single
+801,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Phil Foden,60000000.0,False,working,False,Phil Foden,Foden,single
+802,1196,Euros 2020,England vs Scotland,18.06.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+803,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,David Marshall,250000.0,False,working,False,David Marshall,D Marshall,single
+804,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Stephen O'Donnell,700000.0,False,working,False,Stephen O'Donnell,S O`Donnell,single
+805,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Andrew Robertson,65000000.0,False,working,False,Andrew Robertson,A Robertson,single
+806,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Grant Hanley,3500000.0,False,working,False,Grant Hanley,G Hanley,single
+807,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Kieran Tierney,32000000.0,False,working,False,Kieran Tierney,Tierney,single
+808,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Scott McTominay,32000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+809,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,"['Paul McGinn', 'John McGinn']",32000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+810,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8000000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+811,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Billy Gilmour,12000000.0,False,working,False,Billy Gilmour,B Gilmour,single
+812,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Lyndon Dykes,3000000.0,False,working,False,Lyndon Dykes,Dykes,single
+813,1196,Euros 2020,England vs Scotland,18.06.21,Scotland,SC,2021,SUCCESS,Ché Adams,18000000.0,False,working,False,Ché Adams,C Adams,single
+814,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Dominik Livakovic,13000000.0,False,working,False,Dominik Livakovic,Livaković,single
+815,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Dejan Lovren,11000000.0,False,working,False,Dejan Lovren,Lovren,single
+816,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Domagoj Vida,4000000.0,False,working,False,Domagoj Vida,Vida,single
+817,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Josip Juranovic,1700000.0,False,working,False,Josip Juranovic,Juranovic,single
+818,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Josko Gvardiol,16000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+819,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Ivan Perisic,10000000.0,False,working,False,Ivan Perisic,I Perišić,single
+820,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Mateo Kovacic,45000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+821,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+822,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Marcelo Brozovic,36000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+823,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Nikola Vlašić,30000000.0,False,working,False,Nikola Vlašić,Vlašić,single
+824,1197,Euros 2020,Croatia vs Scotland,22.06.21,Croatia,HR,2021,SUCCESS,Bruno Petkovic,11000000.0,False,working,False,Bruno Petkovic,B Petković,single
+825,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,David Marshall,250000.0,False,working,False,David Marshall,D Marshall,single
+826,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Stephen O'Donnell,700000.0,False,working,False,Stephen O'Donnell,S O`Donnell,single
+827,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Andrew Robertson,65000000.0,False,working,False,Andrew Robertson,A Robertson,single
+828,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Grant Hanley,3500000.0,False,working,False,Grant Hanley,G Hanley,single
+829,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Kieran Tierney,32000000.0,False,working,False,Kieran Tierney,Tierney,single
+830,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Scott McTominay,32000000.0,False,working,False,Scott McTominay,Mc Tominay,single
+831,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,"['Paul McGinn', 'John McGinn']",32000000.0,False,working,False,"['Paul McGinn', 'John McGinn']",Mc Ginn,multiple
+832,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",8000000.0,False,working,False,"['Allan McGregor', 'Callum McGregor', 'Greg Taylor']",Mc Gregor,multiple
+833,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Stuart Armstrong,6000000.0,False,working,False,Stuart Armstrong,S Armstrong,single
+834,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Lyndon Dykes,3000000.0,False,working,False,Lyndon Dykes,Dykes,single
+835,1197,Euros 2020,Croatia vs Scotland,22.06.21,Scotland,SC,2021,SUCCESS,Ché Adams,18000000.0,False,working,False,Ché Adams,C Adams,single
+836,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Vaclik,4000000.0,False,working,False,Tomas Vaclik,T Vaclik,single
+837,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Coufal,12000000.0,False,working,False,Vladimir Coufal,Coufal,single
+838,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none
+839,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Bořil,none
+840,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Čelůstka,none
+841,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Kalas,4000000.0,False,working,False,Tomas Kalas,Kalas,single
+842,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Vladimir Darida,2200000.0,False,Used Large Dataset,False,Vladimir Darida,Darida,single
+843,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Jakub Jankto,4000000.0,False,working,False,Jakub Jankto,Jankto,single
+844,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Tomas Soucek,45000000.0,False,working,False,Tomas Soucek,Soucek,single
+845,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Lukas Masopust,3500000.0,False,working,False,Lukas Masopust,Masopust,single
+846,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,Patrik Schick,50000000.0,False,Used Large Dataset,False,Patrik Schick,Schick,single
+847,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Jordan Pickford,26000000.0,False,working,False,Jordan Pickford,Pickford,single
+848,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Kyle Walker,40000000.0,False,working,False,Kyle Walker,Walker,single
+849,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Luke Shaw,22000000.0,False,working,False,Luke Shaw,L Shaw,single
+850,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,John Stones,25000000.0,False,working,False,John Stones,Stones,single
+851,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Harry Maguire,40000000.0,False,working,False,Harry Maguire,Maguire,single
+852,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Declan Rice,55000000.0,False,working,False,Declan Rice,Rice,single
+853,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Jack Grealish,50000000.0,False,working,False,Jack Grealish,Grealish,single
+854,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Raheem Sterling,110000000.0,False,working,False,Raheem Sterling,Sterling,single
+855,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Kalvin Phillips,27000000.0,False,working,False,Kalvin Phillips,Phillips,single
+856,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Bukayo Saka,40000000.0,False,working,False,Bukayo Saka,B Saka,single
+857,1198,Euros 2020,Czech vs England,22.06.21,England,EN,2021,SUCCESS,Harry Kane,120000000.0,False,working,False,Harry Kane,Kane,single
+858,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+859,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Jan Bednarek,20000000.0,False,working,False,Jan Bednarek,Bednarek,single
+860,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Grzegorz Krychowiak,13000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+861,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Maciej Rybus,2000000.0,False,Data Ended before season : 2021,False,Maciej Rybus,Rybus,single
+862,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Kamil Glik,3000000.0,False,working,False,Kamil Glik,Glik,single
+863,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Bartosz Bereszynski,6000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+864,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Karol Linetty,8000000.0,False,working,False,Karol Linetty,Linetty,single
+865,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Mateusz Klich,3500000.0,False,working,False,Mateusz Klich,Klich,single
+866,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+867,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Kamil Jóźwiak,4000000.0,False,working,False,Kamil Jóźwiak,Jozwiak,single
+868,1199,Euros 2020,Poland vs Slovakia,14.06.21,Poland,PL,2021,SUCCESS,Robert Lewandowski,60000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+869,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Martin Dúbravka,4000000.0,False,Used Large Dataset,False,Martin Dúbravka,Dubravka,single
+870,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Lubomir Satka,1500000.0,False,working,False,Lubomir Satka,atka,single
+871,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+872,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Tomas Hubocan,300000.0,False,Data Ended before season : 2021,False,Tomas Hubocan,Hubocan,single
+873,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Peter Pekarik,800000.0,False,working,False,Peter Pekarik,Pekarik,single
+874,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Ondrej Duda,7000000.0,False,working,False,Ondrej Duda,Duda,single
+875,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Lukas Haraslin,1500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+876,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Juraj Kucka,4000000.0,False,working,False,Juraj Kucka,Kucka,single
+877,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Robert Mak,0,False,Not in either dataset for currect season but present in both seasons around match,True,Robert Mak,R Mak,single
+878,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,SUCCESS,Jakub Hromada,1000000.0,False,Data Ended before season : 2021,False,Jakub Hromada,Hromada,single
+879,1199,Euros 2020,Poland vs Slovakia,14.06.21,Slovakia,SK,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Hamšík,none
+880,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+881,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Torres Pau,single
+882,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Jordi Alba,30000000.0,False,working,False,Jordi Alba,J Alba,single
+883,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+884,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Marcos Llorente,45000000.0,False,working,False,Marcos Llorente,M Llorente,single
+885,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+886,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Rodri,64000000.0,False,working,False,Rodri,Rodri,single
+887,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Olmo,single
+888,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Álvaro Morata,50000000.0,False,working,False,Álvaro Morata,Morata,single
+889,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,"['Fernando Torres', 'Ferran Torres']",50000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+890,1200,Euros 2020,Spain vs Sweden,14.06.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+891,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Robin Olsen,2000000.0,False,working,False,Robin Olsen,R Olsen,single
+892,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Mikael Lustig,500000.0,False,Data Ended before season : 2021,False,Mikael Lustig,Lustig,single
+893,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Victor Lindelöf,22000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+894,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",5000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+895,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Marcus Danielson,500000.0,False,working,False,Marcus Danielson,Danielson,single
+896,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",600000.0,False,Data Ended before season : 2021,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+897,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",1000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+898,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Emil Forsberg,11000000.0,False,working,False,Emil Forsberg,Forsberg,single
+899,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Kristoffer Olsson,3000000.0,False,working,False,Kristoffer Olsson,K Olsson,single
+900,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Marcus Berg,1200000.0,False,Data Ended before season : 2021,False,Marcus Berg,M Berg,single
+901,1200,Euros 2020,Spain vs Sweden,14.06.21,Sweden,SE,2021,SUCCESS,Alexander Isak,30000000.0,False,working,False,Alexander Isak,Isak,single
+902,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Robin Olsen,2000000.0,False,working,False,Robin Olsen,R Olsen,single
+903,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Mikael Lustig,500000.0,False,Data Ended before season : 2021,False,Mikael Lustig,Lustig,single
+904,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Victor Lindelöf,22000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+905,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",5000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+906,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Marcus Danielson,500000.0,False,working,False,Marcus Danielson,Danielson,single
+907,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",600000.0,False,Data Ended before season : 2021,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+908,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",1000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+909,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Emil Forsberg,11000000.0,False,working,False,Emil Forsberg,Forsberg,single
+910,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Kristoffer Olsson,3000000.0,False,working,False,Kristoffer Olsson,K Olsson,single
+911,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Marcus Berg,1200000.0,False,Data Ended before season : 2021,False,Marcus Berg,M Berg,single
+912,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Sweden,SE,2021,SUCCESS,Alexander Isak,30000000.0,False,working,False,Alexander Isak,Isak,single
+913,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Martin Dúbravka,4000000.0,False,Used Large Dataset,False,Martin Dúbravka,Dubravka,single
+914,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Lubomir Satka,1500000.0,False,working,False,Lubomir Satka,atka,single
+915,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+916,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Tomas Hubocan,300000.0,False,Data Ended before season : 2021,False,Tomas Hubocan,Hubocan,single
+917,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Peter Pekarik,800000.0,False,working,False,Peter Pekarik,Pekarik,single
+918,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Ondrej Duda,7000000.0,False,working,False,Ondrej Duda,Duda,single
+919,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,0,3500000.0,False,working,False,0,Hrošovský,none
+920,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Juraj Kucka,4000000.0,False,working,False,Juraj Kucka,Kucka,single
+921,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Robert Mak,0,False,Not in either dataset for currect season but present in both seasons around match,True,Robert Mak,R Mak,single
+922,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,Martin Koscelnik,450000.0,False,working,False,Martin Koscelnik,Koscelník,single
+923,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Hamšík,none
+924,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+925,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Pau Torres,40000000.0,False,working,False,Pau Torres,Torres Pau,single
+926,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Jordi Alba,30000000.0,False,working,False,Jordi Alba,J Alba,single
+927,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+928,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Marcos Llorente,45000000.0,False,working,False,Marcos Llorente,M Llorente,single
+929,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+930,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Rodri,64000000.0,False,working,False,Rodri,Rodri,single
+931,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Dani Olmo,33000000.0,False,working,False,Dani Olmo,Olmo,single
+932,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Álvaro Morata,50000000.0,False,working,False,Álvaro Morata,Morata,single
+933,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Gerard Moreno,40000000.0,False,Used Large Dataset,False,Gerard Moreno,Gerard Moreno,single
+934,1202,Euros 2020,Spain vs Poland,19.06.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+935,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+936,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Jan Bednarek,20000000.0,False,working,False,Jan Bednarek,Bednarek,single
+937,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Kamil Glik,3000000.0,False,working,False,Kamil Glik,Glik,single
+938,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Bartosz Bereszynski,6000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+939,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Tymoteusz Puchacz,1500000.0,False,working,False,Tymoteusz Puchacz,Puchacz,single
+940,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Mateusz Klich,3500000.0,False,working,False,Mateusz Klich,Klich,single
+941,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Jakub Moder,3000000.0,False,working,False,Jakub Moder,Moder,single
+942,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+943,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Kamil Jóźwiak,4000000.0,False,working,False,Kamil Jóźwiak,Jozwiak,single
+944,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Robert Lewandowski,60000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+945,1202,Euros 2020,Spain vs Poland,19.06.21,Poland,PL,2021,SUCCESS,Karol Świderski,4000000.0,False,working,False,Karol Świderski,widerski,single
+946,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Martin Dúbravka,4000000.0,False,Used Large Dataset,False,Martin Dúbravka,Dubravka,single
+947,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Lubomir Satka,1500000.0,False,working,False,Lubomir Satka,atka,single
+948,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+949,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Tomas Hubocan,300000.0,False,Data Ended before season : 2021,False,Tomas Hubocan,Hubocan,single
+950,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Peter Pekarik,800000.0,False,working,False,Peter Pekarik,Pekarik,single
+951,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Ondrej Duda,7000000.0,False,working,False,Ondrej Duda,Duda,single
+952,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Lukas Haraslin,1500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+953,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Juraj Kucka,4000000.0,False,working,False,Juraj Kucka,Kucka,single
+954,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Robert Mak,0,False,Not in either dataset for currect season but present in both seasons around match,True,Robert Mak,R Mak,single
+955,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,SUCCESS,Jakub Hromada,1000000.0,False,Data Ended before season : 2021,False,Jakub Hromada,Hromada,single
+956,1203,Euros 2020,Slovakia vs Spain,23.06.21,Slovakia,SK,2021,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Hamšík,none
+957,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Unai Simón,30000000.0,False,working,False,Unai Simón,U Simón,single
+958,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,César Azpilicueta,17000000.0,False,working,False,César Azpilicueta,Azpilicueta,single
+959,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Eric García,20000000.0,False,working,False,Eric García,E Garcia,single
+960,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Jordi Alba,30000000.0,False,working,False,Jordi Alba,J Alba,single
+961,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Pablo Sarabia,25000000.0,False,working,False,Pablo Sarabia,Pablo Sarabia,single
+962,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Aymeric Laporte,60000000.0,False,working,False,Aymeric Laporte,Laporte,single
+963,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Sergio Busquets,15000000.0,False,working,False,Sergio Busquets,Busquets,single
+964,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Koke,60000000.0,False,working,False,Koke,Koke,single
+965,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Álvaro Morata,50000000.0,False,working,False,Álvaro Morata,Morata,single
+966,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Gerard Moreno,40000000.0,False,Used Large Dataset,False,Gerard Moreno,Gerard Moreno,single
+967,1203,Euros 2020,Slovakia vs Spain,23.06.21,Spain,ES,2021,SUCCESS,Pedri,30000000.0,False,working,False,Pedri,Pedri,single
+968,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Robin Olsen,2000000.0,False,working,False,Robin Olsen,R Olsen,single
+969,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Mikael Lustig,500000.0,False,Data Ended before season : 2021,False,Mikael Lustig,Lustig,single
+970,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Victor Lindelöf,22000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+971,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",5000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+972,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Marcus Danielson,500000.0,False,working,False,Marcus Danielson,Danielson,single
+973,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",600000.0,False,Data Ended before season : 2021,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+974,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",1000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+975,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Emil Forsberg,11000000.0,False,working,False,Emil Forsberg,Forsberg,single
+976,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Kristoffer Olsson,3000000.0,False,working,False,Kristoffer Olsson,K Olsson,single
+977,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Robin Quaison,6000000.0,False,working,False,Robin Quaison,Quaison,single
+978,1204,Euros 2020,Sweden vs Poland,23.06.21,Sweden,SE,2021,SUCCESS,Alexander Isak,30000000.0,False,working,False,Alexander Isak,Isak,single
+979,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+980,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Jan Bednarek,20000000.0,False,working,False,Jan Bednarek,Bednarek,single
+981,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Grzegorz Krychowiak,13000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+982,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Kamil Glik,3000000.0,False,working,False,Kamil Glik,Glik,single
+983,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Bartosz Bereszynski,6000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+984,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Tymoteusz Puchacz,1500000.0,False,working,False,Tymoteusz Puchacz,Puchacz,single
+985,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Mateusz Klich,3500000.0,False,working,False,Mateusz Klich,Klich,single
+986,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+987,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Kamil Jóźwiak,4000000.0,False,working,False,Kamil Jóźwiak,Jozwiak,single
+988,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Robert Lewandowski,60000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+989,1204,Euros 2020,Sweden vs Poland,23.06.21,Poland,PL,2021,SUCCESS,Karol Świderski,4000000.0,False,working,False,Karol Świderski,widerski,single
+990,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Péter Gulácsi,11000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+991,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Attila Szalai,800000.0,False,working,False,Attila Szalai,At Szalai,single
+992,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+993,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Willi Orbán,12000000.0,False,working,False,Willi Orbán,W Orban,single
+994,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Endre Botka,900000.0,False,working,False,Endre Botka,Botka,single
+995,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",2000000.0,False,working,False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+996,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,András Schäfer,550000.0,False,working,False,András Schäfer,Schafer,single
+997,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,László Kleinheisler,0,False,Not in either dataset for currect season but present in both seasons around match,True,László Kleinheisler,Kleinheisler,single
+998,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Roland Sallai,5000000.0,False,working,False,Roland Sallai,R Sallai,single
+999,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Ádám Szalai,750000.0,False,working,False,Ádám Szalai,Ad Szalai,single
+1000,1205,Euros 2020,Hungary vs Portugal,15.06.21,Hungary,HU,2021,SUCCESS,Gergő Lovrencsics,650000.0,False,Data Ended before season : 2021,False,Gergő Lovrencsics,Lovrencsics,single
+1001,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Rui Patrício,14000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1002,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Nélson Semedo,35000000.0,False,working,False,Nélson Semedo,N Semedo,single
+1003,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1004,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Rúben Dias,60000000.0,False,working,False,Rúben Dias,R Dias,single
+1005,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Raphaël Guerreiro,35000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1006,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,William Carvalho,20000000.0,False,working,False,William Carvalho,W Carvalho,single
+1007,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Bernardo Silva,70000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1008,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Bruno Fernandes,90000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+1009,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+1010,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Diogo Jota,40000000.0,False,working,False,Diogo Jota,Jota,single
+1011,1205,Euros 2020,Hungary vs Portugal,15.06.21,Portugal,PT,2021,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1012,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Hugo Lloris,12000000.0,False,working,False,Hugo Lloris,Lloris,single
+1013,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Benjamin Pavard,45000000.0,False,working,False,Benjamin Pavard,Pavard,single
+1014,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Presnel Kimpembe,35000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+1015,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+1016,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Lucas Hernández,50000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+1017,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Paul Pogba,65000000.0,False,working,False,Paul Pogba,Pogba,single
+1018,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,N'Golo Kanté,60000000.0,False,working,False,N'Golo Kanté,N Kante,single
+1019,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Adrien Rabiot,32000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+1020,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Antoine Griezmann,80000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1021,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+1022,1206,Euros 2020,France vs Germany,15.06.21,France,FR,2021,SUCCESS,Karim Benzema,25000000.0,False,working,False,Karim Benzema,Benzema,single
+1023,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+1024,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Antonio Rüdiger,25000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+1025,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Mats Hummels,6500000.0,False,Used Large Dataset,False,Mats Hummels,Hummels,single
+1026,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Robin Gosens,28000000.0,False,working,False,Robin Gosens,Gosens,single
+1027,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+1028,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Joshua Kimmich,85000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+1029,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Kai Havertz,81000000.0,False,working,False,Kai Havertz,Havertz,single
+1030,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Toni Kroos,20000000.0,False,Used Large Dataset,False,Toni Kroos,Kroos,single
+1031,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Serge Gnabry,90000000.0,False,working,False,Serge Gnabry,Gnabry,single
+1032,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+1033,1206,Euros 2020,France vs Germany,15.06.21,Germany,DE,2021,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+1034,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Péter Gulácsi,11000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+1035,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Attila Szalai,800000.0,False,working,False,Attila Szalai,At Szalai,single
+1036,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Attila Fiola,500000.0,False,working,False,Attila Fiola,Fiola,single
+1037,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Willi Orbán,12000000.0,False,working,False,Willi Orbán,W Orban,single
+1038,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Loïc Nego,1800000.0,False,working,False,Loïc Nego,Nego,single
+1039,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Endre Botka,900000.0,False,working,False,Endre Botka,Botka,single
+1040,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",2000000.0,False,working,False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+1041,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,András Schäfer,550000.0,False,working,False,András Schäfer,Schafer,single
+1042,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,László Kleinheisler,0,False,Not in either dataset for currect season but present in both seasons around match,True,László Kleinheisler,Kleinheisler,single
+1043,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Roland Sallai,5000000.0,False,working,False,Roland Sallai,R Sallai,single
+1044,1207,Euros 2020,Hungary vs France,19.06.21,Hungary,HU,2021,SUCCESS,Ádám Szalai,750000.0,False,working,False,Ádám Szalai,Ad Szalai,single
+1045,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Hugo Lloris,12000000.0,False,working,False,Hugo Lloris,Lloris,single
+1046,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Benjamin Pavard,45000000.0,False,working,False,Benjamin Pavard,Pavard,single
+1047,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Presnel Kimpembe,35000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+1048,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+1049,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Lucas Digne,33000000.0,False,working,False,Lucas Digne,Digne,single
+1050,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Paul Pogba,65000000.0,False,working,False,Paul Pogba,Pogba,single
+1051,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,N'Golo Kanté,60000000.0,False,working,False,N'Golo Kanté,N Kante,single
+1052,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Adrien Rabiot,32000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+1053,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Antoine Griezmann,80000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1054,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+1055,1207,Euros 2020,Hungary vs France,19.06.21,France,FR,2021,SUCCESS,Karim Benzema,25000000.0,False,working,False,Karim Benzema,Benzema,single
+1056,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Rui Patrício,14000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1057,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Nélson Semedo,35000000.0,False,working,False,Nélson Semedo,N Semedo,single
+1058,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1059,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Rúben Dias,60000000.0,False,working,False,Rúben Dias,R Dias,single
+1060,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Raphaël Guerreiro,35000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1061,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,William Carvalho,20000000.0,False,working,False,William Carvalho,W Carvalho,single
+1062,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Bernardo Silva,70000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1063,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Bruno Fernandes,90000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+1064,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+1065,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Diogo Jota,40000000.0,False,working,False,Diogo Jota,Jota,single
+1066,1208,Euros 2020,Portugal vs Germany,19.06.21,Portugal,PT,2021,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1067,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+1068,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Antonio Rüdiger,25000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+1069,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Mats Hummels,6500000.0,False,Used Large Dataset,False,Mats Hummels,Hummels,single
+1070,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Robin Gosens,28000000.0,False,working,False,Robin Gosens,Gosens,single
+1071,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Matthias Ginter,35000000.0,False,working,False,Matthias Ginter,Ginter,single
+1072,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Joshua Kimmich,85000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+1073,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Kai Havertz,81000000.0,False,working,False,Kai Havertz,Havertz,single
+1074,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Toni Kroos,20000000.0,False,Used Large Dataset,False,Toni Kroos,Kroos,single
+1075,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Serge Gnabry,90000000.0,False,working,False,Serge Gnabry,Gnabry,single
+1076,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+1077,1208,Euros 2020,Portugal vs Germany,19.06.21,Germany,DE,2021,SUCCESS,İlkay Gündoğan,40000000.0,False,working,False,İlkay Gündoğan,Gundogan,single
+1078,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Rui Patrício,14000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1079,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Nélson Semedo,35000000.0,False,working,False,Nélson Semedo,N Semedo,single
+1080,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1081,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Rúben Dias,60000000.0,False,working,False,Rúben Dias,R Dias,single
+1082,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Raphaël Guerreiro,35000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1083,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,João Moutinho,5000000.0,False,working,False,João Moutinho,Joao Moutinho,single
+1084,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Bernardo Silva,70000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1085,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Danilo Pereira,24000000.0,False,working,False,Danilo Pereira,Danilo Pereira,single
+1086,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Renato Sanches,28000000.0,False,Used Large Dataset,False,Renato Sanches,R Sanches,single
+1087,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Diogo Jota,40000000.0,False,working,False,Diogo Jota,Jota,single
+1088,1209,Euros 2020,Portugal vs France,23.06.21,Portugal,PT,2021,SUCCESS,Cristiano Ronaldo,60000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1089,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Hugo Lloris,12000000.0,False,working,False,Hugo Lloris,Lloris,single
+1090,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Presnel Kimpembe,35000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+1091,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+1092,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Lucas Hernández,50000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+1093,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Jules Koundé,40000000.0,False,working,False,Jules Koundé,Kounde,single
+1094,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Paul Pogba,65000000.0,False,working,False,Paul Pogba,Pogba,single
+1095,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,N'Golo Kanté,60000000.0,False,working,False,N'Golo Kanté,N Kante,single
+1096,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Corentin Tolisso,15000000.0,False,Used Large Dataset,False,Corentin Tolisso,Tolisso,single
+1097,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Antoine Griezmann,80000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1098,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+1099,1209,Euros 2020,Portugal vs France,23.06.21,France,FR,2021,SUCCESS,Karim Benzema,25000000.0,False,working,False,Karim Benzema,Benzema,single

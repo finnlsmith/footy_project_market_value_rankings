@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Predrag Rajkovic,9000000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+1,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Strahinja Pavlovic,8000000.0,False,working,False,Strahinja Pavlovic,S Pavlović,single
+2,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Filip Mladenovic,3000000.0,False,working,False,Filip Mladenovic,Mladenovic,single
+3,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",25000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+4,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Stefan Mitrovic,2200000.0,False,working,False,Stefan Mitrovic,S Mitrovic,single
+5,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Luka Milivojevic,8000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+6,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Nemanja Gudelj,6000000.0,False,working,False,Nemanja Gudelj,Gudelj,single
+7,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Mijat Gacinovic,3500000.0,False,working,False,Mijat Gacinovic,Gacinovic,single
+8,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Adem Ljajic,6000000.0,False,working,False,Adem Ljajic,Ljajic,single
+9,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,Dusan Tadic,18000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+10,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Serbia,RS,2020,SUCCESS,"['Luka Jovic', 'Nemanja Jovic']",20000000.0,False,working,False,"['Luka Jovic', 'Nemanja Jovic']",Jovic,multiple
+11,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Péter Gulácsi,13000000.0,False,working,False,Péter Gulácsi,Gulacsi,single
+12,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Ádám Lang,1000000.0,False,working,False,Ádám Lang,Lang,single
+13,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Attila Szalai,7000000.0,False,working,False,Attila Szalai,At Szalai,single
+14,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Szilveszter Hangya,600000.0,False,working,False,Szilveszter Hangya,Hangya,single
+15,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Endre Botka,1000000.0,False,working,False,Endre Botka,Botka,single
+16,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Barnabás Bese,500000.0,False,working,False,Barnabás Bese,Bese,single
+17,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",2000000.0,False,working,False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+18,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Zsolt Kalmár,1200000.0,False,working,False,Zsolt Kalmár,Kalmár,single
+19,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Dániel Gazdag,1500000.0,False,working,False,Dániel Gazdag,Gazdag,single
+20,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Norbert Könyves,350000.0,False,working,False,Norbert Könyves,Könyves,single
+21,1618,Nations League 2020-2021,Serbia vs Hungary,11.10.20,Hungary,HU,2020,SUCCESS,Nemanja Nikolics,1200000.0,False,working,False,Nemanja Nikolics,N Nikolics,single
+22,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Anton Shunin,2500000.0,False,working,False,Anton Shunin,Shunin,single
+23,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Igor Smolnikov,1500000.0,False,working,False,Igor Smolnikov,Smolnikov,single
+24,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Aleksey Ionov,2800000.0,False,working,False,Aleksey Ionov,A Semyonov,single
+25,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Fedor Kudryashov,900000.0,False,working,False,Fedor Kudryashov,Kudryashov,single
+26,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Magomed Ozdoev,5000000.0,False,working,False,Magomed Ozdoev,Ozdoev,single
+27,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Roman Zobnin,13000000.0,False,working,False,Roman Zobnin,Zobnin,single
+28,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Yuriy Zhirkov,300000.0,False,working,False,Yuriy Zhirkov,Zhirkov,single
+29,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Aleksey Ionov,2800000.0,False,working,False,Aleksey Ionov,Ionov,single
+30,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Anton Miranchuk,12000000.0,False,working,False,Anton Miranchuk,An Miranchuk,single
+31,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Daler Kuzyaev,8000000.0,False,working,False,Daler Kuzyaev,Kuzyaev,single
+32,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Russia,RU,2020,SUCCESS,Artem Dzyuba,11000000.0,False,working,False,Artem Dzyuba,Dzyuba,single
+33,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Dénes Dibusz,2500000.0,False,working,False,Dénes Dibusz,Dibusz,single
+34,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Attila Szalai,7000000.0,False,working,False,Attila Szalai,At Szalai,single
+35,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Willi Orbán,16000000.0,False,working,False,Willi Orbán,W Orban,single
+36,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Loïc Nego,2200000.0,False,working,False,Loïc Nego,Nego,single
+37,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Endre Botka,1000000.0,False,working,False,Endre Botka,Botka,single
+38,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Filip Holender,1500000.0,False,working,False,Filip Holender,Holender,single
+39,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Zsolt Kalmár,1200000.0,False,working,False,Zsolt Kalmár,Kalmár,single
+40,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Dániel Gazdag,1500000.0,False,working,False,Dániel Gazdag,Gazdag,single
+41,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Dávid Sigér,1000000.0,False,working,False,Dávid Sigér,Siger,single
+42,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Ádám Szalai,400000.0,False,working,False,Ádám Szalai,Ad Szalai,single
+43,1619,Nations League 2020-2021,Russia vs Hungary,14.10.20,Hungary,HU,2020,SUCCESS,Nemanja Nikolics,1200000.0,False,working,False,Nemanja Nikolics,N Nikolics,single
+44,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Mert Günok,2400000.0,False,working,False,Mert Günok,Günok,single
+45,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Zeki Çelik,20000000.0,False,working,False,Zeki Çelik,Çelik,single
+46,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Hasan Ali Kaldırım,1000000.0,False,working,False,Hasan Ali Kaldırım,Ali Kaldrm,single
+47,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Merih Demiral,28000000.0,False,working,False,Merih Demiral,Demiral,single
+48,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Okay Yokuşlu,7500000.0,False,working,False,Okay Yokuşlu,Yokulu,single
+49,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Ozan Tufan,11000000.0,False,working,False,Ozan Tufan,Tufan,single
+50,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Cengiz Ünder,18000000.0,False,working,False,Cengiz Ünder,Ünder,single
+51,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+52,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Mahmut Tekdemir,800000.0,False,working,False,Mahmut Tekdemir,Tekdemir,single
+53,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Kenan Karaman,2500000.0,False,working,False,Kenan Karaman,K Karaman,single
+54,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Turkey,TR,2020,SUCCESS,Burak Yılmaz,2800000.0,False,working,False,Burak Yılmaz,B Yilmaz,single
+55,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Marko Dmitrović,8000000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+56,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",25000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+57,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Stefan Mitrovic,2200000.0,False,working,False,Stefan Mitrovic,S Mitrovic,single
+58,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Aleksandar Kolarov,1500000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+59,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+60,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",5000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+61,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Darko Lazović,5000000.0,False,working,False,Darko Lazović,Dar Lazović,single
+62,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Mihailo Ristic,2500000.0,False,working,False,Mihailo Ristic,M Ristič,single
+63,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Sergej Milinkovic-Savic,70000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+64,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Filip Djuricic,9000000.0,False,working,False,Filip Djuricic,F Djuricic,single
+65,1620,Nations League 2020-2021,Turkey vs Serbia,14.10.20,Serbia,RS,2020,SUCCESS,Aleksandar Mitrovic,16000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+66,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Mert Günok,2400000.0,False,working,False,Mert Günok,Günok,single
+67,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Zeki Çelik,20000000.0,False,working,False,Zeki Çelik,Çelik,single
+68,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,"['Kaan Ayhan', 'Yalçın Ayhan']",6000000.0,False,working,False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+69,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Merih Demiral,28000000.0,False,working,False,Merih Demiral,Demiral,single
+70,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Okay Yokuşlu,7500000.0,False,working,False,Okay Yokuşlu,Yokulu,single
+71,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Ozan Tufan,11000000.0,False,working,False,Ozan Tufan,Tufan,single
+72,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Cengiz Ünder,18000000.0,False,working,False,Cengiz Ünder,Ünder,single
+73,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+74,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Caner Erkin,1500000.0,False,working,False,Caner Erkin,Erkin,single
+75,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Kenan Karaman,2500000.0,False,working,False,Kenan Karaman,K Karaman,single
+76,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Turkey,TR,2020,SUCCESS,Cenk Tosun,5000000.0,False,working,False,Cenk Tosun,Tosun,single
+77,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Guilherme,1000000.0,False,working,False,Guilherme,Guilherme,single
+78,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Aleksey Ionov,2800000.0,False,working,False,Aleksey Ionov,A Semyonov,single
+79,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Fedor Kudryashov,900000.0,False,working,False,Fedor Kudryashov,Kudryashov,single
+80,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Georgiy Dzhikiya,9000000.0,False,working,False,Georgiy Dzhikiya,Dzhikiya,single
+81,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Magomed Ozdoev,5000000.0,False,working,False,Magomed Ozdoev,Ozdoev,single
+82,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Roman Zobnin,13000000.0,False,working,False,Roman Zobnin,Zobnin,single
+83,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Aleksey Miranchuk,15000000.0,False,working,False,Aleksey Miranchuk,Al Miranchuk,single
+84,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Yuriy Zhirkov,300000.0,False,working,False,Yuriy Zhirkov,Zhirkov,single
+85,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Daler Kuzyaev,8000000.0,False,working,False,Daler Kuzyaev,Kuzyaev,single
+86,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Denis Cheryshev,3500000.0,False,working,False,Denis Cheryshev,Cheryshev,single
+87,1621,Nations League 2020-2021,Turkey vs Russia,15.11.20,Russia,RU,2020,SUCCESS,Anton Zabolotnyi,2500000.0,False,working,False,Anton Zabolotnyi,A Zabolotny,single
+88,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Dénes Dibusz,2500000.0,False,working,False,Dénes Dibusz,Dibusz,single
+89,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Ádám Lang,1000000.0,False,working,False,Ádám Lang,Lang,single
+90,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Ákos Kecskés,800000.0,False,working,False,Ákos Kecskés,Kecskes,single
+91,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Endre Botka,1000000.0,False,working,False,Endre Botka,Botka,single
+92,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Barnabás Bese,500000.0,False,working,False,Barnabás Bese,Bese,single
+93,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",2000000.0,False,working,False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+94,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Dominik Szoboszlai,25000000.0,False,working,False,Dominik Szoboszlai,Szoboszlai,single
+95,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Filip Holender,1500000.0,False,working,False,Filip Holender,Holender,single
+96,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Zsolt Kalmár,1200000.0,False,working,False,Zsolt Kalmár,Kalmár,single
+97,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Dávid Sigér,1000000.0,False,working,False,Dávid Sigér,Siger,single
+98,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Hungary,HU,2020,SUCCESS,Nemanja Nikolics,1200000.0,False,working,False,Nemanja Nikolics,N Nikolics,single
+99,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Marko Dmitrović,8000000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+100,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",25000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+101,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Uros Spajic,4000000.0,False,working,False,Uros Spajic,Spajic,single
+102,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+103,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Nemanja Gudelj,6000000.0,False,working,False,Nemanja Gudelj,Gudelj,single
+104,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",5000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+105,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Darko Lazović,5000000.0,False,working,False,Darko Lazović,Dar Lazović,single
+106,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Mihailo Ristic,2500000.0,False,working,False,Mihailo Ristic,M Ristič,single
+107,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Nemanja Radonjic,6000000.0,False,working,False,Nemanja Radonjic,N Radonjić,single
+108,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,"['Luka Jovic', 'Nemanja Jovic']",20000000.0,False,working,False,"['Luka Jovic', 'Nemanja Jovic']",Jovic,multiple
+109,1622,Nations League 2020-2021,Hungary vs Serbia,15.11.20,Serbia,RS,2020,SUCCESS,Dusan Tadic,18000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+110,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Predrag Rajkovic,9000000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+111,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Filip Mladenovic,3000000.0,False,working,False,Filip Mladenovic,Mladenovic,single
+112,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",25000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+113,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Uros Spajic,4000000.0,False,working,False,Uros Spajic,Spajic,single
+114,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Stefan Mitrovic,2200000.0,False,working,False,Stefan Mitrovic,S Mitrovic,single
+115,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+116,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Nemanja Gudelj,6000000.0,False,working,False,Nemanja Gudelj,Gudelj,single
+117,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Mihailo Ristic,2500000.0,False,working,False,Mihailo Ristic,M Ristič,single
+118,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Nemanja Radonjic,6000000.0,False,working,False,Nemanja Radonjic,N Radonjić,single
+119,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,Aleksandar Mitrovic,16000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+120,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Serbia,RS,2020,SUCCESS,"['Luka Jovic', 'Nemanja Jovic']",20000000.0,False,working,False,"['Luka Jovic', 'Nemanja Jovic']",Jovic,multiple
+121,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Guilherme,1000000.0,False,working,False,Guilherme,Guilherme,single
+122,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Igor Diveev,5000000.0,False,working,False,Igor Diveev,Diveev,single
+123,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Vyacheslav Karavaev,7000000.0,False,working,False,Vyacheslav Karavaev,V Karavaev,single
+124,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Georgiy Dzhikiya,9000000.0,False,working,False,Georgiy Dzhikiya,Dzhikiya,single
+125,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Magomed Ozdoev,5000000.0,False,working,False,Magomed Ozdoev,Ozdoev,single
+126,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Aleksey Miranchuk,15000000.0,False,working,False,Aleksey Miranchuk,Al Miranchuk,single
+127,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Yuriy Zhirkov,300000.0,False,working,False,Yuriy Zhirkov,Zhirkov,single
+128,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Anton Miranchuk,12000000.0,False,working,False,Anton Miranchuk,An Miranchuk,single
+129,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,FAIL,0,0.0,True,Lookup Required,False,0,Yerokhin,none
+130,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Daler Kuzyaev,8000000.0,False,working,False,Daler Kuzyaev,Kuzyaev,single
+131,1623,Nations League 2020-2021,Serbia vs Russia,18.11.20,Russia,RU,2020,SUCCESS,Anton Zabolotnyi,2500000.0,False,working,False,Anton Zabolotnyi,A Zabolotny,single
+132,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Dénes Dibusz,2500000.0,False,working,False,Dénes Dibusz,Dibusz,single
+133,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Ádám Lang,1000000.0,False,working,False,Ádám Lang,Lang,single
+134,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Szilveszter Hangya,600000.0,False,working,False,Szilveszter Hangya,Hangya,single
+135,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Attila Szalai,7000000.0,False,working,False,Attila Szalai,At Szalai,single
+136,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Attila Fiola,700000.0,False,working,False,Attila Fiola,Fiola,single
+137,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Loïc Nego,2200000.0,False,working,False,Loïc Nego,Nego,single
+138,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",2000000.0,False,working,False,"['Ádám Nagy', 'Zsolt Nagy', 'Gábor Nagy']",A Nagy,multiple
+139,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Zsolt Kalmár,1200000.0,False,working,False,Zsolt Kalmár,Kalmár,single
+140,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Dávid Sigér,1000000.0,False,working,False,Dávid Sigér,Siger,single
+141,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Norbert Könyves,350000.0,False,working,False,Norbert Könyves,Könyves,single
+142,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Hungary,HU,2020,SUCCESS,Nemanja Nikolics,1200000.0,False,working,False,Nemanja Nikolics,N Nikolics,single
+143,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Mert Günok,2400000.0,False,working,False,Mert Günok,Günok,single
+144,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Nazım Sangaré,2500000.0,False,working,False,Nazım Sangaré,N Sangare,single
+145,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Ozan Kabak,25000000.0,False,working,False,Ozan Kabak,Kabak,single
+146,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Merih Demiral,28000000.0,False,working,False,Merih Demiral,Demiral,single
+147,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Ozan Tufan,11000000.0,False,working,False,Ozan Tufan,Tufan,single
+148,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Hakan Çalhanoğlu,35000000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+149,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Mahmut Tekdemir,800000.0,False,working,False,Mahmut Tekdemir,Tekdemir,single
+150,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Caner Erkin,1500000.0,False,working,False,Caner Erkin,Erkin,single
+151,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,İrfan Can Kahveci,11000000.0,False,working,False,İrfan Can Kahveci,I Kahveci,single
+152,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Kenan Karaman,2500000.0,False,working,False,Kenan Karaman,K Karaman,single
+153,1624,Nations League 2020-2021,Hungary vs Turkey,18.11.20,Turkey,TR,2020,SUCCESS,Cenk Tosun,5000000.0,False,working,False,Cenk Tosun,Tosun,single
+154,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+155,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Daniel O'Shaughnessy,450000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+156,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,"['Juhani Ojala', 'Mika Ojala']",250000.0,False,working,False,"['Juhani Ojala', 'Mika Ojala']",Ojala,multiple
+157,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Jere Uronen,2500000.0,False,working,False,Jere Uronen,Uronen,single
+158,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Joni Kauko,400000.0,False,working,False,Joni Kauko,Kauko,single
+159,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Leo Väisänen,1200000.0,False,working,False,Leo Väisänen,L Vaisanen,single
+160,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Tim Sparv,250000.0,False,working,False,Tim Sparv,Sparv,single
+161,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+162,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Ilmari Niskanen,300000.0,False,working,False,Ilmari Niskanen,Niskanen,single
+163,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+164,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Finland,FI,2020,SUCCESS,Joel Pohjanpalo,2500000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+165,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Wayne Hennessey,1000000.0,False,working,False,Wayne Hennessey,Hennessey,single
+166,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",16000000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+167,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Connor Roberts,4500000.0,False,working,False,Connor Roberts,C Roberts,single
+168,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Tom Lockyer,1200000.0,False,working,False,Tom Lockyer,Lockyer,single
+169,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Dylan Levitt,650000.0,False,working,False,Dylan Levitt,Levitt,single
+170,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,FAIL,MJ Williams,0.0,True,Online Lookup Required,False,MJ Williams,Jn Williams,single
+171,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+172,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Joe Morrell,400000.0,False,working,False,Joe Morrell,Morrell,single
+173,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+174,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Gareth Bale,18000000.0,False,working,False,Gareth Bale,Bale,single
+175,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,SUCCESS,Kieffer Moore,5000000.0,False,working,False,Kieffer Moore,Ki Moore,single
+176,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,"['Asen Georgiev', 'Georgi Georgiev']",150000.0,False,working,False,"['Asen Georgiev', 'Georgi Georgiev']",Georgiev,multiple
+177,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Petar Zanev,100000.0,False,working,False,Petar Zanev,Zanev,single
+178,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+179,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Strahil Popov,1500000.0,False,working,False,Strahil Popov,S Popov,single
+180,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Anton Nedyalkov,3200000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+181,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+182,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Todor Nedelev,1000000.0,False,working,False,Todor Nedelev,Nedelev,single
+183,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",1300000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+184,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Kristiyan Malinov,1500000.0,False,working,False,Kristiyan Malinov,Malinov,single
+185,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Galin Ivanov,150000.0,False,working,False,Galin Ivanov,G Ivanov,single
+186,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Bulgaria,BG,2020,SUCCESS,Spas Delev,750000.0,False,working,False,Spas Delev,Delev,single
+187,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+188,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Enda Stevens,3500000.0,False,working,False,Enda Stevens,E Stevens,single
+189,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+190,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,John Egan,9000000.0,False,working,False,John Egan,Egan,single
+191,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+192,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,James McCarthy,3000000.0,False,working,False,James McCarthy,Mc Carthy,single
+193,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+194,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Conor Hourihane,3500000.0,False,working,False,Conor Hourihane,Hourihane,single
+195,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Callum O'Dowda,1500000.0,False,working,False,Callum O'Dowda,O'Dowda,single
+196,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Adam Idah,3000000.0,False,working,False,Adam Idah,Idah,single
+197,1626,Nations League 2020-2021,Bulgaria vs Ireland,03.09.20,Ireland,IE,2020,SUCCESS,Aaron Connolly,7000000.0,False,working,False,Aaron Connolly,A Connolly,single
+198,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Wayne Hennessey,1000000.0,False,working,False,Wayne Hennessey,Hennessey,single
+199,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",16000000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+200,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Connor Roberts,4500000.0,False,working,False,Connor Roberts,C Roberts,single
+201,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Tom Lockyer,1200000.0,False,working,False,Tom Lockyer,Lockyer,single
+202,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+203,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Joe Morrell,400000.0,False,working,False,Joe Morrell,Morrell,single
+204,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Matt Smith,1000000.0,False,working,False,Matt Smith,M-w Smith,single
+205,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+206,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Gareth Bale,18000000.0,False,working,False,Gareth Bale,Bale,single
+207,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,Kieffer Moore,5000000.0,False,working,False,Kieffer Moore,Ki Moore,single
+208,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Wales,WA,2020,SUCCESS,David Brooks,16000000.0,False,working,False,David Brooks,Brooks,single
+209,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,"['Asen Georgiev', 'Georgi Georgiev']",150000.0,False,working,False,"['Asen Georgiev', 'Georgi Georgiev']",Georgiev,multiple
+210,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Ivan Goranov,300000.0,False,working,False,Ivan Goranov,Goranov,single
+211,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+212,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Cicinho,1200000.0,False,working,False,Cicinho,Cicinho Gusmão,single
+213,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Anton Nedyalkov,3200000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+214,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+215,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Todor Nedelev,1000000.0,False,working,False,Todor Nedelev,Nedelev,single
+216,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",1300000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+217,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Yanis Karabelyov,400000.0,False,working,False,Yanis Karabelyov,Karabelyov,single
+218,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Birsent Karagaren,900000.0,False,working,False,Birsent Karagaren,Karageren,single
+219,1627,Nations League 2020-2021,Wales vs Bulgaria,06.09.20,Bulgaria,BG,2020,SUCCESS,Galin Ivanov,150000.0,False,working,False,Galin Ivanov,G Ivanov,single
+220,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+221,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Enda Stevens,3500000.0,False,working,False,Enda Stevens,E Stevens,single
+222,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+223,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,John Egan,9000000.0,False,working,False,John Egan,Egan,single
+224,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+225,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Harry Arter,2000000.0,False,working,False,Harry Arter,Arter,single
+226,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Jayson Molumby,1000000.0,False,working,False,Jayson Molumby,Molumby,single
+227,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Callum O'Dowda,1500000.0,False,working,False,Callum O'Dowda,O'Dowda,single
+228,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Adam Idah,3000000.0,False,working,False,Adam Idah,Idah,single
+229,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Robbie Brady,3000000.0,False,working,False,Robbie Brady,Brady,single
+230,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Ireland,IE,2020,SUCCESS,Aaron Connolly,7000000.0,False,working,False,Aaron Connolly,A Connolly,single
+231,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+232,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Daniel O'Shaughnessy,450000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+233,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,"['Juhani Ojala', 'Mika Ojala']",250000.0,False,working,False,"['Juhani Ojala', 'Mika Ojala']",Ojala,multiple
+234,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Leo Väisänen,1200000.0,False,working,False,Leo Väisänen,L Vaisanen,single
+235,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Niko Hämäläinen,500000.0,False,working,False,Niko Hämäläinen,N Hamaleinen,single
+236,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Tim Sparv,250000.0,False,working,False,Tim Sparv,Sparv,single
+237,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Nikolai Alho,450000.0,False,working,False,Nikolai Alho,Alho,single
+238,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+239,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Robert Taylor,600000.0,False,working,False,Robert Taylor,Taylor Robert,single
+240,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+241,1628,Nations League 2020-2021,Ireland vs Finland,06.09.20,Finland,FI,2020,SUCCESS,Joel Pohjanpalo,2500000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+242,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+243,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+244,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Enda Stevens,3500000.0,False,working,False,Enda Stevens,E Stevens,single
+245,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+246,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,FAIL,"['Shane Long', 'Kevin Long']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 14. Long",False,"['Shane Long', 'Kevin Long']",Long,multiple
+247,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Conor Hourihane,3500000.0,False,working,False,Conor Hourihane,Hourihane,single
+248,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,James McClean,1500000.0,False,working,False,James McClean,Mc Clean,single
+249,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+250,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Jayson Molumby,1000000.0,False,working,False,Jayson Molumby,Molumby,single
+251,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,FAIL,"['Shane Long', 'Kevin Long']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 9. Long",False,"['Shane Long', 'Kevin Long']",Long,multiple
+252,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Ireland,IE,2020,SUCCESS,Robbie Brady,3000000.0,False,working,False,Robbie Brady,Brady,single
+253,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Wayne Hennessey,1000000.0,False,working,False,Wayne Hennessey,Hennessey,single
+254,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",16000000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+255,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+256,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Connor Roberts,4500000.0,False,working,False,Connor Roberts,C Roberts,single
+257,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Aaron Ramsey,14000000.0,False,working,False,Aaron Ramsey,Ramsey,single
+258,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+259,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Joe Morrell,400000.0,False,working,False,Joe Morrell,Morrell,single
+260,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Matt Smith,1000000.0,False,working,False,Matt Smith,M-w Smith,single
+261,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+262,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Harry Wilson,17000000.0,False,working,False,Harry Wilson,H Wilson,single
+263,1629,Nations League 2020-2021,Ireland vs Wales,11.10.20,Wales,WA,2020,SUCCESS,Kieffer Moore,5000000.0,False,working,False,Kieffer Moore,Ki Moore,single
+264,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+265,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Paulus Arajuuri,450000.0,False,working,False,Paulus Arajuuri,Arajuuri,single
+266,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Joona Toivio,600000.0,False,working,False,Joona Toivio,Toivio,single
+267,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Jere Uronen,2500000.0,False,working,False,Jere Uronen,Uronen,single
+268,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Jukka Raitala,500000.0,False,working,False,Jukka Raitala,Raitala,single
+269,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Tim Sparv,250000.0,False,working,False,Tim Sparv,Sparv,single
+270,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+271,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Robert Taylor,600000.0,False,working,False,Robert Taylor,Taylor Robert,single
+272,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Ilmari Niskanen,300000.0,False,working,False,Ilmari Niskanen,Niskanen,single
+273,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+274,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Finland,FI,2020,SUCCESS,Joel Pohjanpalo,2500000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+275,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Martin Lukov,750000.0,False,working,False,Martin Lukov,Lukov,single
+276,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+277,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Vasil Bozhikov,450000.0,False,working,False,Vasil Bozhikov,Bozhikov,single
+278,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Strahil Popov,1500000.0,False,working,False,Strahil Popov,S Popov,single
+279,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Anton Nedyalkov,3200000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+280,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Kristiyan Malinov,1500000.0,False,working,False,Kristiyan Malinov,Malinov,single
+281,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Georgi Yomov,400000.0,False,working,False,Georgi Yomov,Yomov,single
+282,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Aleksandar Tsvetkov,350000.0,False,working,False,Aleksandar Tsvetkov,Tsvetkov,single
+283,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Kiril Despodov,3000000.0,False,working,False,Kiril Despodov,Despodov,single
+284,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Ismail Issa,200000.0,False,working,False,Ismail Issa,I Isa,single
+285,1630,Nations League 2020-2021,Finland vs Bulgaria,11.10.20,Bulgaria,BG,2020,SUCCESS,Dimitar Iliev,750000.0,False,working,False,Dimitar Iliev,D Iliev,single
+286,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+287,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Paulus Arajuuri,450000.0,False,working,False,Paulus Arajuuri,Arajuuri,single
+288,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Albin Granlund,300000.0,False,working,False,Albin Granlund,Granlund,single
+289,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Joona Toivio,600000.0,False,working,False,Joona Toivio,Toivio,single
+290,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Jere Uronen,2500000.0,False,working,False,Jere Uronen,Uronen,single
+291,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Tim Sparv,250000.0,False,working,False,Tim Sparv,Sparv,single
+292,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+293,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Robert Taylor,600000.0,False,working,False,Robert Taylor,Taylor Robert,single
+294,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Fredrik Jensen,2000000.0,False,working,False,Fredrik Jensen,F Jensen,single
+295,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+296,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Finland,FI,2020,SUCCESS,Pyry Soiri,300000.0,False,working,False,Pyry Soiri,Soiri,single
+297,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+298,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+299,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Enda Stevens,3500000.0,False,working,False,Enda Stevens,E Stevens,single
+300,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+301,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Dara O'Shea,3000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+302,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Conor Hourihane,3500000.0,False,working,False,Conor Hourihane,Hourihane,single
+303,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+304,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Jayson Molumby,1000000.0,False,working,False,Jayson Molumby,Molumby,single
+305,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Aaron Connolly,7000000.0,False,working,False,Aaron Connolly,A Connolly,single
+306,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Sean Maguire,1200000.0,False,working,False,Sean Maguire,Maguire,single
+307,1631,Nations League 2020-2021,Finland vs Ireland,14.10.20,Ireland,IE,2020,SUCCESS,Daryl Horgan,500000.0,False,working,False,Daryl Horgan,D Horgan,single
+308,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Nikolay Mihaylov,150000.0,False,working,False,Nikolay Mihaylov,Mihaylov,single
+309,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Georgi Terziev,900000.0,False,working,False,Georgi Terziev,G Terziev,single
+310,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+311,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Cicinho,1200000.0,False,working,False,Cicinho,Cicinho Gusmão,single
+312,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Anton Nedyalkov,3200000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+313,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Todor Nedelev,1000000.0,False,working,False,Todor Nedelev,Nedelev,single
+314,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",1300000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+315,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Yanis Karabelyov,400000.0,False,working,False,Yanis Karabelyov,Karabelyov,single
+316,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Kristiyan Malinov,1500000.0,False,working,False,Kristiyan Malinov,Malinov,single
+317,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Georgi Yomov,400000.0,False,working,False,Georgi Yomov,Yomov,single
+318,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Bulgaria,BG,2020,SUCCESS,Kiril Despodov,3000000.0,False,working,False,Kiril Despodov,Despodov,single
+319,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Wayne Hennessey,1000000.0,False,working,False,Wayne Hennessey,Hennessey,single
+320,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Neco Williams,8000000.0,False,working,False,Neco Williams,N Williams,single
+321,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",16000000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+322,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+323,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Chris Mepham,6000000.0,False,working,False,Chris Mepham,Mepham,single
+324,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Rhys Norrington-Davies,1500000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+325,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Tyler Roberts,6000000.0,False,working,False,Tyler Roberts,T Roberts,single
+326,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+327,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Matt Smith,1000000.0,False,working,False,Matt Smith,M-w Smith,single
+328,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+329,1632,Nations League 2020-2021,Bulgaria vs Wales,14.10.20,Wales,WA,2020,SUCCESS,Harry Wilson,17000000.0,False,working,False,Harry Wilson,H Wilson,single
+330,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Danny Ward,6000000.0,False,working,False,Danny Ward,Ward,single
+331,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Neco Williams,8000000.0,False,working,False,Neco Williams,N Williams,single
+332,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",16000000.0,False,working,False,"['Ben Davies', 'Craig Davies', 'Adam Davies', 'Rhys Norrington-Davies']",Davies,multiple
+333,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+334,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Chris Mepham,6000000.0,False,working,False,Chris Mepham,Mepham,single
+335,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Rhys Norrington-Davies,1500000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+336,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+337,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Joe Morrell,400000.0,False,working,False,Joe Morrell,Morrell,single
+338,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+339,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,Gareth Bale,18000000.0,False,working,False,Gareth Bale,Bale,single
+340,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Wales,WA,2020,SUCCESS,David Brooks,16000000.0,False,working,False,David Brooks,Brooks,single
+341,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+342,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Matt Doherty,16000000.0,False,working,False,Matt Doherty,Doherty,single
+343,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+344,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,FAIL,"['Shane Long', 'Kevin Long']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 5. Long",False,"['Shane Long', 'Kevin Long']",Long,multiple
+345,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Dara O'Shea,3000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+346,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,James McClean,1500000.0,False,working,False,James McClean,Mc Clean,single
+347,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Jeff Hendrick,9000000.0,False,working,False,Jeff Hendrick,Hendrick,single
+348,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Jayson Molumby,1000000.0,False,working,False,Jayson Molumby,Molumby,single
+349,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Robbie Brady,3000000.0,False,working,False,Robbie Brady,Brady,single
+350,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Daryl Horgan,500000.0,False,working,False,Daryl Horgan,D Horgan,single
+351,1633,Nations League 2020-2021,Wales vs Ireland,15.11.20,Ireland,IE,2020,SUCCESS,Adam Idah,3000000.0,False,working,False,Adam Idah,Idah,single
+352,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Martin Lukov,750000.0,False,working,False,Martin Lukov,Lukov,single
+353,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+354,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Vasil Bozhikov,450000.0,False,working,False,Vasil Bozhikov,Bozhikov,single
+355,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Dimitar Velkovski,600000.0,False,working,False,Dimitar Velkovski,Di Velkovski,single
+356,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Strahil Popov,1500000.0,False,working,False,Strahil Popov,S Popov,single
+357,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Dominik Yankov,1200000.0,False,working,False,Dominik Yankov,D Yankov,single
+358,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",1300000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+359,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Yanis Karabelyov,400000.0,False,working,False,Yanis Karabelyov,Karabelyov,single
+360,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Kristiyan Malinov,1500000.0,False,working,False,Kristiyan Malinov,Malinov,single
+361,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Galin Ivanov,150000.0,False,working,False,Galin Ivanov,G Ivanov,single
+362,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Bulgaria,BG,2020,SUCCESS,Spas Delev,750000.0,False,working,False,Spas Delev,Delev,single
+363,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+364,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Paulus Arajuuri,450000.0,False,working,False,Paulus Arajuuri,Arajuuri,single
+365,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Joona Toivio,600000.0,False,working,False,Joona Toivio,Toivio,single
+366,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Jere Uronen,2500000.0,False,working,False,Jere Uronen,Uronen,single
+367,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Tim Sparv,250000.0,False,working,False,Tim Sparv,Sparv,single
+368,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Nikolai Alho,450000.0,False,working,False,Nikolai Alho,Alho,single
+369,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+370,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Robert Taylor,600000.0,False,working,False,Robert Taylor,Taylor Robert,single
+371,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Robin Lod,3000000.0,False,working,False,Robin Lod,Lod,single
+372,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+373,1634,Nations League 2020-2021,Bulgaria vs Finland,15.11.20,Finland,FI,2020,SUCCESS,Joel Pohjanpalo,2500000.0,False,working,False,Joel Pohjanpalo,Pohjanpalo,single
+374,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Danny Ward,6000000.0,False,working,False,Danny Ward,Ward,single
+375,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Joe Rodon,10000000.0,False,working,False,Joe Rodon,Rodon,single
+376,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Chris Mepham,6000000.0,False,working,False,Chris Mepham,Mepham,single
+377,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Connor Roberts,4500000.0,False,working,False,Connor Roberts,C Roberts,single
+378,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Rhys Norrington-Davies,1500000.0,False,working,False,Rhys Norrington-Davies,Norrington-Davies,single
+379,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,James Lawrence,1000000.0,False,working,False,James Lawrence,J Lawrence,single
+380,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Ethan Ampadu,15000000.0,False,working,False,Ethan Ampadu,Ampadu,single
+381,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Joe Morrell,400000.0,False,working,False,Joe Morrell,Morrell,single
+382,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Daniel James,18000000.0,False,working,False,Daniel James,D James,single
+383,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Harry Wilson,17000000.0,False,working,False,Harry Wilson,H Wilson,single
+384,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Wales,WA,2020,SUCCESS,Gareth Bale,18000000.0,False,working,False,Gareth Bale,Bale,single
+385,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,"['Lukas Hradecky', 'Matej Hradecky']",6000000.0,False,working,False,"['Lukas Hradecky', 'Matej Hradecky']",Hradecky,multiple
+386,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Paulus Arajuuri,450000.0,False,working,False,Paulus Arajuuri,Arajuuri,single
+387,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Daniel O'Shaughnessy,450000.0,False,working,False,Daniel O'Shaughnessy,O`Shaughnessy,single
+388,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Joona Toivio,600000.0,False,working,False,Joona Toivio,Toivio,single
+389,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Jere Uronen,2500000.0,False,working,False,Jere Uronen,Uronen,single
+390,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Nikolai Alho,450000.0,False,working,False,Nikolai Alho,Alho,single
+391,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Glen Kamara,6000000.0,False,working,False,Glen Kamara,G Kamara,single
+392,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Robin Lod,3000000.0,False,working,False,Robin Lod,Lod,single
+393,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Robert Taylor,600000.0,False,working,False,Robert Taylor,Taylor Robert,single
+394,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Rasmus Schüller,700000.0,False,working,False,Rasmus Schüller,Schüller,single
+395,1635,Nations League 2020-2021,Wales vs Finland,18.11.20,Finland,FI,2020,SUCCESS,Teemu Pukki,7000000.0,False,working,False,Teemu Pukki,Pukki,single
+396,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Darren Randolph,1500000.0,False,working,False,Darren Randolph,Randolph,single
+397,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Shane Duffy,5000000.0,False,working,False,Shane Duffy,Duffy,single
+398,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,FAIL,"['Shane Long', 'Kevin Long']",0.0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 15. Long",False,"['Shane Long', 'Kevin Long']",Long,multiple
+399,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Dara O'Shea,3000000.0,False,working,False,Dara O'Shea,D O'Shea,single
+400,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Ryan Manning,1200000.0,False,working,False,Ryan Manning,Manning,single
+401,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Conor Hourihane,3500000.0,False,working,False,Conor Hourihane,Hourihane,single
+402,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Jason Knight,6000000.0,False,working,False,Jason Knight,J Knight,single
+403,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Daryl Horgan,500000.0,False,working,False,Daryl Horgan,D Horgan,single
+404,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,James Collins,1000000.0,False,working,False,James Collins,J Collins,single
+405,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Robbie Brady,3000000.0,False,working,False,Robbie Brady,Brady,single
+406,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Ireland,IE,2020,SUCCESS,Ronan Curtis,0.0,False,Large Dataset had 0,False,Ronan Curtis,Curtis,single
+407,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Martin Lukov,750000.0,False,working,False,Martin Lukov,Lukov,single
+408,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Kristian Dimitrov,650000.0,False,working,False,Kristian Dimitrov,K Dimitrov,single
+409,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Cicinho,1200000.0,False,working,False,Cicinho,Cicinho Gusmão,single
+410,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Strahil Popov,1500000.0,False,working,False,Strahil Popov,S Popov,single
+411,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Georgi Angelov,250000.0,False,working,False,Georgi Angelov,Angelov,single
+412,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",1300000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+413,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Kristiyan Malinov,1500000.0,False,working,False,Kristiyan Malinov,Malinov,single
+414,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Galin Ivanov,150000.0,False,working,False,Galin Ivanov,G Ivanov,single
+415,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Aleksandar Tsvetkov,350000.0,False,working,False,Aleksandar Tsvetkov,Tsvetkov,single
+416,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Spas Delev,750000.0,False,working,False,Spas Delev,Delev,single
+417,1636,Nations League 2020-2021,Ireland vs Bulgaria,18.11.20,Bulgaria,BG,2020,SUCCESS,Dimitar Iliev,750000.0,False,working,False,Dimitar Iliev,D Iliev,single
+418,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Emil Balayev,500000.0,False,working,False,Emil Balayev,Balayev,single
+419,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Bahlul Mustafazada,500000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+420,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Maksim Medvedev,500000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+421,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Badavi Hüseynov,800000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+422,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Anton Kryvotsiuk,800000.0,False,working,False,Anton Kryvotsiuk,Krivotsyuk,single
+423,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Tamkin Khalilzada,300000.0,False,working,False,Tamkin Khalilzada,Khalilzade,single
+424,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+425,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Ramil Sheydayev,450000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+426,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Camalov,500000.0,False,working,False,Elvin Camalov,Jamalov,single
+427,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Namiq Alasgarov,750000.0,False,working,False,Namiq Alasgarov,Alaskarov,single
+428,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Azerbaijan,AZ,2020,SUCCESS,Mahir Emreli,1000000.0,False,working,False,Mahir Emreli,Emreli,single
+429,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Anthony Moris,650000.0,False,working,False,Anthony Moris,Moris,single
+430,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+431,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+432,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+433,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Vahid Selimovic,600000.0,False,working,False,Vahid Selimovic,Selimovic Vahid,single
+434,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+435,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",3000000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+436,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Olivier Thill,1200000.0,False,working,False,Olivier Thill,O Thill,single
+437,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+438,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+439,1637,Nations League 2020-2021,Azerbaijan vs Luxembourg,05.09.20,Luxembourg,LU,2020,SUCCESS,Maurice Deville,200000.0,False,working,False,Maurice Deville,Deville,single
+440,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Charalampos Kyriakidis,300000.0,False,working,False,Charalampos Kyriakidis,Ch Kyriakidis,single
+441,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Andreas Karo,500000.0,False,working,False,Andreas Karo,Karo,single
+442,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Christos Wheeler,600000.0,False,working,False,Christos Wheeler,Wheeler,single
+443,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Ioannis Kousoulos,1200000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+444,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+445,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Dimitrios Christofi,300000.0,False,working,False,Dimitrios Christofi,Christofi,single
+446,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Marinos Tzionis,1200000.0,False,working,False,Marinos Tzionis,Tzionis,single
+447,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Ioannis Pittas,800000.0,False,working,False,Ioannis Pittas,Pittas,single
+448,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Minas Antoniou,450000.0,False,working,False,Minas Antoniou,M Antoniou,single
+449,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,"['Marios Ilia', 'Konstantinos Ilia']",450000.0,False,working,False,"['Marios Ilia', 'Konstantinos Ilia']",Ilia,multiple
+450,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+451,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+452,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Momcilo Raspopovic,400000.0,False,working,False,Momcilo Raspopovic,M Raspopovic,single
+453,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Stefan Savic,25000000.0,False,working,False,Stefan Savic,Savic,single
+454,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Igor Vujacic,1800000.0,False,working,False,Igor Vujacic,Vujacic,single
+455,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Nikola Vukcevic,1800000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+456,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,"['Marko Bakic', 'Dusan Bakic']",600000.0,False,working,False,"['Marko Bakic', 'Dusan Bakic']",Bakic,multiple
+457,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Nebojsa Kosovic,1300000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+458,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none
+459,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Fatos Beqiraj,250000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+460,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+461,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,FAIL,0,0.0,True,not done yet,False,0,Boljević,none
+462,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Anthony Moris,650000.0,False,working,False,Anthony Moris,Moris,single
+463,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+464,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+465,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+466,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Vahid Selimovic,600000.0,False,working,False,Vahid Selimovic,Selimovic Vahid,single
+467,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+468,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",550000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+469,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",3000000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+470,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Olivier Thill,1200000.0,False,working,False,Olivier Thill,O Thill,single
+471,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+472,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+473,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+474,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Momcilo Raspopovic,400000.0,False,working,False,Momcilo Raspopovic,M Raspopovic,single
+475,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Stefan Savic,25000000.0,False,working,False,Stefan Savic,Savic,single
+476,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Igor Vujacic,1800000.0,False,working,False,Igor Vujacic,Vujacic,single
+477,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Nikola Vukcevic,1800000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+478,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Nebojsa Kosovic,1300000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+479,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none
+480,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Dino Islamović,700000.0,False,working,False,Dino Islamović,Islamović,single
+481,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Stevan Jovetic,5000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+482,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+483,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,FAIL,0,0.0,True,not done yet,False,0,Boljević,none
+484,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Charalampos Kyriakidis,300000.0,False,working,False,Charalampos Kyriakidis,Ch Kyriakidis,single
+485,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Andreas Karo,500000.0,False,working,False,Andreas Karo,Karo,single
+486,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,"['Valentinos Sielis', 'Christos Sielis']",350000.0,False,working,False,"['Valentinos Sielis', 'Christos Sielis']",Sielis,multiple
+487,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Ioannis Kousoulos,1200000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+488,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+489,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Charalampos Kyriakou,800000.0,False,working,False,Charalampos Kyriakou,Char Kyriakou,single
+490,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Dimitrios Christofi,300000.0,False,working,False,Dimitrios Christofi,Christofi,single
+491,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Marinos Tzionis,1200000.0,False,working,False,Marinos Tzionis,Tzionis,single
+492,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Ioannis Pittas,800000.0,False,working,False,Ioannis Pittas,Pittas,single
+493,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Pieros Sotiriou,1500000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+494,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+495,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Emil Balayev,500000.0,False,working,False,Emil Balayev,Balayev,single
+496,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Bahlul Mustafazada,500000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+497,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Maksim Medvedev,500000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+498,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Abbas Hüseynov,450000.0,False,working,False,Abbas Hüseynov,Ab Huseynov,single
+499,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Badavi Hüseynov,800000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+500,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Anton Kryvotsiuk,800000.0,False,working,False,Anton Kryvotsiuk,Krivotsyuk,single
+501,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Tamkin Khalilzada,300000.0,False,working,False,Tamkin Khalilzada,Khalilzade,single
+502,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+503,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Ramil Sheydayev,450000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+504,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Camalov,500000.0,False,working,False,Elvin Camalov,Jamalov,single
+505,1640,Nations League 2020-2021,Cyprus vs Azerbaijan,08.09.20,Azerbaijan,AZ,2020,SUCCESS,Rahim Sadykhov,550000.0,False,working,False,Rahim Sadykhov,Sadikhov,single
+506,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Anthony Moris,650000.0,False,working,False,Anthony Moris,Moris,single
+507,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+508,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Mica Pinto,600000.0,False,working,False,Mica Pinto,Mica Pinto,single
+509,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+510,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Vahid Selimovic,600000.0,False,working,False,Vahid Selimovic,Selimovic Vahid,single
+511,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+512,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",550000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+513,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",3000000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+514,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Olivier Thill,1200000.0,False,working,False,Olivier Thill,O Thill,single
+515,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+516,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+517,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Charalampos Kyriakidis,300000.0,False,working,False,Charalampos Kyriakidis,Ch Kyriakidis,single
+518,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Andreas Karo,500000.0,False,working,False,Andreas Karo,Karo,single
+519,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Christos Wheeler,600000.0,False,working,False,Christos Wheeler,Wheeler,single
+520,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Ioannis Kousoulos,1200000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+521,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+522,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Dimitrios Christofi,300000.0,False,working,False,Dimitrios Christofi,Christofi,single
+523,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Kostakis Artymatas,800000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+524,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Marinos Tzionis,1200000.0,False,working,False,Marinos Tzionis,Tzionis,single
+525,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Ioannis Pittas,800000.0,False,working,False,Ioannis Pittas,Pittas,single
+526,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Pieros Sotiriou,1500000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+527,1641,Nations League 2020-2021,Luxembourg vs Cyprus,10.10.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+528,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+529,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Momcilo Raspopovic,400000.0,False,working,False,Momcilo Raspopovic,M Raspopovic,single
+530,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Risto Radunovic,1200000.0,False,working,False,Risto Radunovic,R Radunovic,single
+531,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none
+532,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Igor Vujacic,1800000.0,False,working,False,Igor Vujacic,Vujacic,single
+533,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Nikola Vukcevic,1800000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+534,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,"['Marko Bakic', 'Dusan Bakic']",600000.0,False,working,False,"['Marko Bakic', 'Dusan Bakic']",Bakic,multiple
+535,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Dino Islamović,700000.0,False,working,False,Dino Islamović,Islamović,single
+536,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Stevan Jovetic,5000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+537,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+538,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,FAIL,0,0.0,True,not done yet,False,0,Boljević,none
+539,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Emil Balayev,500000.0,False,working,False,Emil Balayev,Balayev,single
+540,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Bahlul Mustafazada,500000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+541,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Maksim Medvedev,500000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+542,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Abbas Hüseynov,450000.0,False,working,False,Abbas Hüseynov,Ab Huseynov,single
+543,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Badavi Hüseynov,800000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+544,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Anton Kryvotsiuk,800000.0,False,working,False,Anton Kryvotsiuk,Krivotsyuk,single
+545,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+546,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Camalov,500000.0,False,working,False,Elvin Camalov,Jamalov,single
+547,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Rahim Sadykhov,550000.0,False,working,False,Rahim Sadykhov,Sadikhov,single
+548,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Namiq Alasgarov,750000.0,False,working,False,Namiq Alasgarov,Alaskarov,single
+549,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Azerbaijan,AZ,2020,SUCCESS,Ali Ghorbani,400000.0,False,working,False,Ali Ghorbani,Ghorbani,single
+550,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+551,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Bahlul Mustafazada,500000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+552,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Abbas Hüseynov,450000.0,False,working,False,Abbas Hüseynov,Ab Huseynov,single
+553,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Badalov,350000.0,False,working,False,Elvin Badalov,Badalov,single
+554,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Anton Kryvotsiuk,800000.0,False,working,False,Anton Kryvotsiuk,Krivotsyuk,single
+555,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Azar Salahly,350000.0,False,working,False,Azar Salahly,Salahli,single
+556,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+557,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Vüqar Mustafayev,400000.0,False,working,False,Vüqar Mustafayev,V Mustafayev,single
+558,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Ramil Sheydayev,450000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+559,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Ismayil Ibrahimli,450000.0,False,working,False,Ismayil Ibrahimli,Ibrahimli,single
+560,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Rahim Sadykhov,550000.0,False,working,False,Rahim Sadykhov,Sadikhov,single
+561,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Dimitris Dimitriou,600000.0,False,working,False,Dimitris Dimitriou,D Demetriou,single
+562,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Andreas Karo,500000.0,False,working,False,Andreas Karo,Karo,single
+563,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Christos Wheeler,600000.0,False,working,False,Christos Wheeler,Wheeler,single
+564,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+565,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",800000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+566,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Dimitrios Christofi,300000.0,False,working,False,Dimitrios Christofi,Christofi,single
+567,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Kostakis Artymatas,800000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+568,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Marinos Tzionis,1200000.0,False,working,False,Marinos Tzionis,Tzionis,single
+569,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Minas Antoniou,450000.0,False,working,False,Minas Antoniou,M Antoniou,single
+570,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Pieros Sotiriou,1500000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+571,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+572,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+573,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Risto Radunovic,1200000.0,False,working,False,Risto Radunovic,R Radunovic,single
+574,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Momcilo Raspopovic,400000.0,False,working,False,Momcilo Raspopovic,M Raspopovic,single
+575,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Stefan Savic,25000000.0,False,working,False,Stefan Savic,Savic,single
+576,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none
+577,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Nikola Vukcevic,1800000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+578,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Nebojsa Kosovic,1300000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+579,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,"['Ivan Ivanovic', 'Igor Ivanovic']",325000.0,False,working,False,"['Ivan Ivanovic', 'Igor Ivanovic']",I Ivanović,multiple
+580,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Dino Islamović,700000.0,False,working,False,Dino Islamović,Islamović,single
+581,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Stevan Jovetic,5000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+582,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+583,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Anthony Moris,650000.0,False,working,False,Anthony Moris,Moris,single
+584,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+585,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Mica Pinto,600000.0,False,working,False,Mica Pinto,Mica Pinto,single
+586,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+587,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Aldin Skenderovic,175000.0,False,working,False,Aldin Skenderovic,A Skenderovic,single
+588,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+589,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",550000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+590,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",3000000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+591,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+592,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+593,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Luxembourg,LU,2020,SUCCESS,Edvin Muratovic,150000.0,False,working,False,Edvin Muratovic,E Muratovic,single
+594,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+595,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Maksim Medvedev,500000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+596,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Tellur Mütallimov,450000.0,False,working,False,Tellur Mütallimov,Mutallimov,single
+597,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Abbas Hüseynov,450000.0,False,working,False,Abbas Hüseynov,Ab Huseynov,single
+598,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Badalov,350000.0,False,working,False,Elvin Badalov,Badalov,single
+599,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Badavi Hüseynov,800000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+600,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Azar Salahly,350000.0,False,working,False,Azar Salahly,Salahli,single
+601,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+602,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Vüqar Mustafayev,400000.0,False,working,False,Vüqar Mustafayev,V Mustafayev,single
+603,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Rahim Sadykhov,550000.0,False,working,False,Rahim Sadykhov,Sadikhov,single
+604,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Mahir Emreli,1000000.0,False,working,False,Mahir Emreli,Emreli,single
+605,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+606,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Risto Radunovic,1200000.0,False,working,False,Risto Radunovic,R Radunovic,single
+607,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Aleksandar Sofranac,250000.0,False,working,False,Aleksandar Sofranac,Sofranac,single
+608,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Igor Vujacic,1800000.0,False,working,False,Igor Vujacic,Vujacic,single
+609,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,"['Marko Bakic', 'Dusan Bakic']",600000.0,False,working,False,"['Marko Bakic', 'Dusan Bakic']",Bakic,multiple
+610,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Aleksandar Scekic,1800000.0,False,working,False,Aleksandar Scekic,Scekic,single
+611,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none
+612,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,"['Ivan Ivanovic', 'Igor Ivanovic']",325000.0,False,working,False,"['Ivan Ivanovic', 'Igor Ivanovic']",I Ivanović,multiple
+613,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,0,Mugoša,none
+614,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Stevan Jovetic,5000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+615,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+616,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Dimitris Dimitriou,600000.0,False,working,False,Dimitris Dimitriou,D Demetriou,single
+617,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Nikolas Ioannou,500000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+618,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,"['Valentinos Sielis', 'Christos Sielis']",350000.0,False,working,False,"['Valentinos Sielis', 'Christos Sielis']",Sielis,multiple
+619,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Ioannis Kousoulos,1200000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+620,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+621,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Kostakis Artymatas,800000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+622,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Marinos Tzionis,1200000.0,False,working,False,Marinos Tzionis,Tzionis,single
+623,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Ioannis Pittas,800000.0,False,working,False,Ioannis Pittas,Pittas,single
+624,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Minas Antoniou,450000.0,False,working,False,Minas Antoniou,M Antoniou,single
+625,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,"['Marios Ilia', 'Konstantinos Ilia']",450000.0,False,working,False,"['Marios Ilia', 'Konstantinos Ilia']",Ilia,multiple
+626,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+627,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Anthony Moris,650000.0,False,working,False,Anthony Moris,Moris,single
+628,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+629,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Mica Pinto,600000.0,False,working,False,Mica Pinto,Mica Pinto,single
+630,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+631,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Vahid Selimovic,600000.0,False,working,False,Vahid Selimovic,Selimovic Vahid,single
+632,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+633,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",550000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+634,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",3000000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+635,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+636,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+637,1646,Nations League 2020-2021,Cyprus vs Luxembourg,14.11.20,Luxembourg,LU,2020,SUCCESS,Edvin Muratovic,150000.0,False,working,False,Edvin Muratovic,E Muratovic,single
+638,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Ralph Schon,125000.0,False,working,False,Ralph Schon,R Schon,single
+639,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Enes Mahmutovic,500000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+640,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Mica Pinto,600000.0,False,working,False,Mica Pinto,Mica Pinto,single
+641,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Laurent Jans,600000.0,False,working,False,Laurent Jans,Jans,single
+642,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Aldin Skenderovic,175000.0,False,working,False,Aldin Skenderovic,A Skenderovic,single
+643,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Lars Gerson,400000.0,False,working,False,Lars Gerson,Gerson,single
+644,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",550000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+645,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Leandro Barreiro,11000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+646,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Vincent Thill,1000000.0,False,working,False,Vincent Thill,V Thill,single
+647,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Edvin Muratovic,150000.0,False,working,False,Edvin Muratovic,E Muratovic,single
+648,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Luxembourg,LU,2020,SUCCESS,Maurice Deville,200000.0,False,working,False,Maurice Deville,Deville,single
+649,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+650,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Tellur Mütallimov,450000.0,False,working,False,Tellur Mütallimov,Mutallimov,single
+651,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Elvin Badalov,350000.0,False,working,False,Elvin Badalov,Badalov,single
+652,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Badavi Hüseynov,800000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+653,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Anton Kryvotsiuk,800000.0,False,working,False,Anton Kryvotsiuk,Krivotsyuk,single
+654,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Amin Seydiyev,350000.0,False,working,False,Amin Seydiyev,Seydiyev,single
+655,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Azar Salahly,350000.0,False,working,False,Azar Salahly,Salahli,single
+656,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+657,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Ramil Sheydayev,450000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+658,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Ismayil Ibrahimli,450000.0,False,working,False,Ismayil Ibrahimli,Ibrahimli,single
+659,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Mahir Emreli,1000000.0,False,working,False,Mahir Emreli,Emreli,single
+660,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Milan Mijatovic,400000.0,False,working,False,Milan Mijatovic,M Mijatović,single
+661,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none
+662,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Igor Vujacic,1800000.0,False,working,False,Igor Vujacic,Vujacic,single
+663,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Nikola Vukcevic,1800000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+664,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,"['Marko Bakic', 'Dusan Bakic']",600000.0,False,working,False,"['Marko Bakic', 'Dusan Bakic']",Bakic,multiple
+665,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Aleksandar Scekic,1800000.0,False,working,False,Aleksandar Scekic,Scekic,single
+666,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none
+667,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,0,Mugoša,none
+668,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Stevan Jovetic,5000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+669,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,Sead Haksabanovic,5500000.0,False,working,False,Sead Haksabanovic,Haksabanovic,single
+670,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,FAIL,0,0.0,True,not done yet,False,0,Boljević,none
+671,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Dimitris Dimitriou,600000.0,False,working,False,Dimitris Dimitriou,D Demetriou,single
+672,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,FAIL,0,0.0,True,Lookup Required,False,0,Shelis,none
+673,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Nikolas Ioannou,500000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+674,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Ioannis Kousoulos,1200000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+675,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Konstantinos Laifis,4000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+676,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Thomas Ioannou,600000.0,False,working,False,Thomas Ioannou,T Ioannou,single
+677,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Charalampos Kyriakou,800000.0,False,working,False,Charalampos Kyriakou,Char Kyriakou,single
+678,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Kostakis Artymatas,800000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+679,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Ioannis Pittas,800000.0,False,working,False,Ioannis Pittas,Pittas,single
+680,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Andronikos Kakoullis,400000.0,False,working,False,Andronikos Kakoullis,Kakoullis,single
+681,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Cyprus,CY,2020,SUCCESS,Grigoris Kastanos,950000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+682,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Damjan Siskovski,400000.0,False,working,False,Damjan Siskovski,Siskovski,single
+683,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Kire Ristevski,500000.0,False,working,False,Kire Ristevski,Ristevski,single
+684,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Visar Musliu,1400000.0,False,working,False,Visar Musliu,Musliu,single
+685,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Ezgjan Alioski,5000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+686,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+687,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Arijan Ademi,8500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+688,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+689,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Boban Nikolov,800000.0,False,working,False,Boban Nikolov,Nikolov,single
+690,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Enis Bardhi,15000000.0,False,working,False,Enis Bardhi,Bardhi,single
+691,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Eljif Elmas,17000000.0,False,working,False,Eljif Elmas,Elmas,single
+692,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,North Macedonia,MK,2020,SUCCESS,Ilija Nestorovski,1300000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+693,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+694,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,André Calisir,400000.0,False,working,False,André Calisir,Calisir,single
+695,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Varazdat Haroyan,900000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+696,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Serob Grigoryan,200000.0,False,working,False,Serob Grigoryan,S Grigoryan,single
+697,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Kamo Hovhannisyan,600000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+698,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+699,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Wbeymar Angulo,250000.0,False,working,False,Wbeymar Angulo,Wbeymar,single
+700,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Khoren Bayramyan,2500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+701,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Arshak Koryan,700000.0,False,working,False,Arshak Koryan,A Koryan,single
+702,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Hovhannes Hambardzumyan,500000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+703,1649,Nations League 2020-2021,North Macedonia vs Armenia,05.09.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+704,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+705,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Henri Järvelaid,100000.0,False,working,False,Henri Järvelaid,Järvelaid,single
+706,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Karol Mets,600000.0,False,working,False,Karol Mets,Mets,single
+707,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Taijo Teniste,150000.0,False,working,False,Taijo Teniste,Teniste,single
+708,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Mattias Käit,200000.0,False,working,False,Mattias Käit,Käit,single
+709,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Vladislav Kreida,300000.0,False,working,False,Vladislav Kreida,Kreida,single
+710,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Georgi Tunjov,400000.0,False,working,False,Georgi Tunjov,Tunjov,single
+711,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+712,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,Sergei Zenjov,300000.0,False,working,False,Sergei Zenjov,Zenjov,single
+713,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",200000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+714,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Estonia,EE,2020,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",500000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+715,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Giorgi Loria,300000.0,False,working,False,Giorgi Loria,G Loria,single
+716,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Otar Kakabadze,300000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+717,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Solomon Kvirkvelia,2500000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+718,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Davit Khocholava,3000000.0,False,working,False,Davit Khocholava,Khocholava,single
+719,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Nika Kvekveskiri,600000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+720,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Jaba Kankava,400000.0,False,working,False,Jaba Kankava,Kankava,single
+721,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Khvicha Kvaratskhelia,18000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+722,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Jaba Jigauri,400000.0,False,working,False,Jaba Jigauri,Jigauri,single
+723,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Giorgi Chakvetadze,2700000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+724,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Tornike Okriashvili,1000000.0,False,working,False,Tornike Okriashvili,Okriashvili,single
+725,1650,Nations League 2020-2021,Estonia vs Georgia,05.09.20,Georgia,GE,2020,SUCCESS,Nika Kacharava,500000.0,False,working,False,Nika Kacharava,Katcharava,single
+726,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+727,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,André Calisir,400000.0,False,working,False,André Calisir,Calisir,single
+728,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Varazdat Haroyan,900000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+729,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Arman Hovhannisyan,175000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+730,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+731,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Wbeymar Angulo,250000.0,False,working,False,Wbeymar Angulo,Wbeymar,single
+732,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Gegam Kadimyan,400000.0,False,working,False,Gegam Kadimyan,Kadymyan,single
+733,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Arshak Koryan,700000.0,False,working,False,Arshak Koryan,A Koryan,single
+734,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Tigran Barseghyan,2500000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+735,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Hovhannes Hambardzumyan,500000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+736,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+737,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+738,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Karol Mets,600000.0,False,working,False,Karol Mets,Mets,single
+739,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Ken Kallaste,100000.0,False,working,False,Ken Kallaste,Kallaste,single
+740,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+741,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Mattias Käit,200000.0,False,working,False,Mattias Käit,Käit,single
+742,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Ilja Antonov,200000.0,False,working,False,Ilja Antonov,I Antonov,single
+743,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Georgi Tunjov,400000.0,False,working,False,Georgi Tunjov,Tunjov,single
+744,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Vlasiy Sinyavskiy,300000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+745,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Rauno Sappinen,550000.0,False,working,False,Rauno Sappinen,Sappinen,single
+746,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Mark Oliver Roosnupp,275000.0,False,working,False,Mark Oliver Roosnupp,Roosnupp,single
+747,1651,Nations League 2020-2021,Armenia vs Estonia,08.09.20,Estonia,EE,2020,SUCCESS,Mihkel Ainsalu,100000.0,False,working,False,Mihkel Ainsalu,Ainsalu,single
+748,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Giorgi Loria,300000.0,False,working,False,Giorgi Loria,G Loria,single
+749,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Otar Kakabadze,300000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+750,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Solomon Kvirkvelia,2500000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+751,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Nikoloz Mali,350000.0,False,working,False,Nikoloz Mali,N Mali,single
+752,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Davit Khocholava,3000000.0,False,working,False,Davit Khocholava,Khocholava,single
+753,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Nika Kvekveskiri,600000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+754,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Jaba Kankava,400000.0,False,working,False,Jaba Kankava,Kankava,single
+755,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Khvicha Kvaratskhelia,18000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+756,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+757,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Tornike Okriashvili,1000000.0,False,working,False,Tornike Okriashvili,Okriashvili,single
+758,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,Georgia,GE,2020,SUCCESS,Giorgi Kvilitaia,1800000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+759,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Damjan Siskovski,400000.0,False,working,False,Damjan Siskovski,Siskovski,single
+760,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Visar Musliu,1400000.0,False,working,False,Visar Musliu,Musliu,single
+761,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Ezgjan Alioski,5000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+762,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+763,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Arijan Ademi,8500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+764,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+765,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Enis Bardhi,15000000.0,False,working,False,Enis Bardhi,Bardhi,single
+766,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Stefan Spirovski,450000.0,False,working,False,Stefan Spirovski,Spirovski,single
+767,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Eljif Elmas,17000000.0,False,working,False,Eljif Elmas,Elmas,single
+768,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Aleksandar Trajkovski,400000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+769,1652,Nations League 2020-2021,Georgia vs North Macedonia,08.09.20,North Macedonia,MK,2020,SUCCESS,Goran Pandev,500000.0,False,working,False,Goran Pandev,Pandev,single
+770,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+771,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,André Calisir,400000.0,False,working,False,André Calisir,Calisir,single
+772,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Varazdat Haroyan,900000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+773,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Arman Hovhannisyan,175000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+774,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Kamo Hovhannisyan,600000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+775,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Henrikh Mkhitaryan,15000000.0,False,working,False,Henrikh Mkhitaryan,Mkhitaryan,single
+776,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+777,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Wbeymar Angulo,250000.0,False,working,False,Wbeymar Angulo,Wbeymar,single
+778,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Khoren Bayramyan,2500000.0,False,working,False,Khoren Bayramyan,K Bayramyan,single
+779,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Tigran Barseghyan,2500000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+780,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+781,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Giorgi Makaridze,1000000.0,False,working,False,Giorgi Makaridze,Makaridze,single
+782,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Gia Grigalava,800000.0,False,working,False,Gia Grigalava,Grigalava,single
+783,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,"['Aleksandre Kobakhidze', 'Mamuka Kobakhidze']",300000.0,False,working,False,"['Aleksandre Kobakhidze', 'Mamuka Kobakhidze']",Kobakhidze,multiple
+784,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Giorgi Navalovski,50000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+785,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Jaba Kankava,400000.0,False,working,False,Jaba Kankava,Kankava,single
+786,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Valeri Qazaishvili,1600000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+787,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Giorgi Aburjania,300000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+788,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Jaba Jigauri,400000.0,False,working,False,Jaba Jigauri,Jigauri,single
+789,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+790,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Nika Kacharava,500000.0,False,working,False,Nika Kacharava,Katcharava,single
+791,1653,Nations League 2020-2021,Armenia vs Georgia,11.10.20,Georgia,GE,2020,SUCCESS,Levan Shengelia,2000000.0,False,working,False,Levan Shengelia,Shengelia,single
+792,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+793,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Märten Kuusk,400000.0,False,working,False,Märten Kuusk,Kuusk,single
+794,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+795,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Taijo Teniste,150000.0,False,working,False,Taijo Teniste,Teniste,single
+796,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Artur Pikk,150000.0,False,working,False,Artur Pikk,Pikk,single
+797,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Mattias Käit,200000.0,False,working,False,Mattias Käit,Käit,single
+798,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Vladislav Kreida,300000.0,False,working,False,Vladislav Kreida,Kreida,single
+799,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Vlasiy Sinyavskiy,300000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+800,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+801,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Rauno Sappinen,550000.0,False,working,False,Rauno Sappinen,Sappinen,single
+802,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,Estonia,EE,2020,SUCCESS,Siim Luts,150000.0,False,working,False,Siim Luts,Luts,single
+803,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Damjan Siskovski,400000.0,False,working,False,Damjan Siskovski,Siskovski,single
+804,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Kire Ristevski,500000.0,False,working,False,Kire Ristevski,Ristevski,single
+805,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Ezgjan Alioski,5000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+806,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+807,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Gjoko Zajkov,250000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+808,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Tihomir Kostadinov,450000.0,False,working,False,Tihomir Kostadinov,T Kostadinov,single
+809,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Boban Nikolov,800000.0,False,working,False,Boban Nikolov,Nikolov,single
+810,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Stefan Spirovski,450000.0,False,working,False,Stefan Spirovski,Spirovski,single
+811,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Ferhan Hasani,300000.0,False,working,False,Ferhan Hasani,Fe Hasani,single
+812,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",700000.0,False,working,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+813,1654,Nations League 2020-2021,Estonia vs North Macedonia,11.10.20,North Macedonia,MK,2020,SUCCESS,Aleksandar Trajkovski,400000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+814,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+815,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Märten Kuusk,400000.0,False,working,False,Märten Kuusk,Kuusk,single
+816,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Nikita Baranov,300000.0,False,working,False,Nikita Baranov,N Baranov,single
+817,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Taijo Teniste,150000.0,False,working,False,Taijo Teniste,Teniste,single
+818,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Artur Pikk,150000.0,False,working,False,Artur Pikk,Pikk,single
+819,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Mattias Käit,200000.0,False,working,False,Mattias Käit,Käit,single
+820,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Vladislav Kreida,300000.0,False,working,False,Vladislav Kreida,Kreida,single
+821,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Vlasiy Sinyavskiy,300000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+822,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+823,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Rauno Sappinen,550000.0,False,working,False,Rauno Sappinen,Sappinen,single
+824,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Estonia,EE,2020,SUCCESS,Frank Liivak,275000.0,False,working,False,Frank Liivak,Liivak,single
+825,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+826,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,André Calisir,400000.0,False,working,False,André Calisir,Calisir,single
+827,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Taron Voskanyan,300000.0,False,working,False,Taron Voskanyan,T Voskanyan,single
+828,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Arman Hovhannisyan,175000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+829,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Kamo Hovhannisyan,600000.0,False,working,False,Kamo Hovhannisyan,K Hovhannisyan,single
+830,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Henrikh Mkhitaryan,15000000.0,False,working,False,Henrikh Mkhitaryan,Mkhitaryan,single
+831,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+832,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Wbeymar Angulo,250000.0,False,working,False,Wbeymar Angulo,Wbeymar,single
+833,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Edgar Babayan,400000.0,False,working,False,Edgar Babayan,Babayan,single
+834,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Tigran Barseghyan,2500000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+835,1655,Nations League 2020-2021,Estonia vs Armenia,14.10.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+836,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Stole Dimitrievski,1200000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+837,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Kire Ristevski,500000.0,False,working,False,Kire Ristevski,Ristevski,single
+838,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Ezgjan Alioski,5000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+839,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+840,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Gjoko Zajkov,250000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+841,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+842,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Tihomir Kostadinov,450000.0,False,working,False,Tihomir Kostadinov,T Kostadinov,single
+843,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Boban Nikolov,800000.0,False,working,False,Boban Nikolov,Nikolov,single
+844,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",700000.0,False,working,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+845,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Ilija Nestorovski,1300000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+846,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,North Macedonia,MK,2020,SUCCESS,Goran Pandev,500000.0,False,working,False,Goran Pandev,Pandev,single
+847,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Giorgi Loria,300000.0,False,working,False,Giorgi Loria,G Loria,single
+848,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Lasha Dvali,900000.0,False,working,False,Lasha Dvali,Dvali,single
+849,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Jemal Tabidze,2500000.0,False,working,False,Jemal Tabidze,Tabidze,single
+850,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Solomon Kvirkvelia,2500000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+851,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Murtaz Daushvili,450000.0,False,working,False,Murtaz Daushvili,Daushvili,single
+852,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Valeri Qazaishvili,1600000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+853,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Otar Kiteishvili,3000000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+854,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Nika Kvekveskiri,600000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+855,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Jaba Jigauri,400000.0,False,working,False,Jaba Jigauri,Jigauri,single
+856,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+857,1656,Nations League 2020-2021,North Macedonia vs Georgia,14.10.20,Georgia,GE,2020,SUCCESS,Giorgi Kvilitaia,1800000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+858,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Damjan Siskovski,400000.0,False,working,False,Damjan Siskovski,Siskovski,single
+859,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Egzon Bejtulai,800000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+860,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Visar Musliu,1400000.0,False,working,False,Visar Musliu,Musliu,single
+861,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+862,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+863,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Boban Nikolov,800000.0,False,working,False,Boban Nikolov,Nikolov,single
+864,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Stefan Spirovski,450000.0,False,working,False,Stefan Spirovski,Spirovski,single
+865,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Eljif Elmas,17000000.0,False,working,False,Eljif Elmas,Elmas,single
+866,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",700000.0,False,working,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+867,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Aleksandar Trajkovski,400000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+868,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,North Macedonia,MK,2020,SUCCESS,Ilija Nestorovski,1300000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+869,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+870,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Karol Mets,600000.0,False,working,False,Karol Mets,Mets,single
+871,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Taijo Teniste,150000.0,False,working,False,Taijo Teniste,Teniste,single
+872,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Artur Pikk,150000.0,False,working,False,Artur Pikk,Pikk,single
+873,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Vladislav Kreida,300000.0,False,working,False,Vladislav Kreida,Kreida,single
+874,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Vlasiy Sinyavskiy,300000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+875,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+876,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Rauno Sappinen,550000.0,False,working,False,Rauno Sappinen,Sappinen,single
+877,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Mihkel Ainsalu,100000.0,False,working,False,Mihkel Ainsalu,Ainsalu,single
+878,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",500000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+879,1657,Nations League 2020-2021,North Macedonia vs Estonia,15.11.20,Estonia,EE,2020,SUCCESS,Sergei Zenjov,300000.0,False,working,False,Sergei Zenjov,Zenjov,single
+880,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Giorgi Makaridze,1000000.0,False,working,False,Giorgi Makaridze,Makaridze,single
+881,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Gia Grigalava,800000.0,False,working,False,Gia Grigalava,Grigalava,single
+882,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Giorgi Navalovski,50000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+883,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Davit Khocholava,3000000.0,False,working,False,Davit Khocholava,Khocholava,single
+884,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Jaba Kankava,400000.0,False,working,False,Jaba Kankava,Kankava,single
+885,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Giorgi Aburjania,300000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+886,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Jaba Jigauri,400000.0,False,working,False,Jaba Jigauri,Jigauri,single
+887,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+888,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+889,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Saba Lobjanidze,1500000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+890,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Georgia,GE,2020,SUCCESS,Elguja Lobjanidze,500000.0,False,working,False,Elguja Lobjanidze,E Lobjanidze,single
+891,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+892,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,André Calisir,400000.0,False,working,False,André Calisir,Calisir,single
+893,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Varazdat Haroyan,900000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+894,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Arman Hovhannisyan,175000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+895,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+896,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Tigran Barseghyan,2500000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+897,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Solomon Udo,300000.0,False,working,False,Solomon Udo,S Udo,single
+898,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Hovhannes Hambardzumyan,500000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+899,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,"['Gevorg Ghazaryan', 'Arman Ghazaryan']",300000.0,False,working,False,"['Gevorg Ghazaryan', 'Arman Ghazaryan']",Ghazaryan,multiple
+900,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+901,1658,Nations League 2020-2021,Georgia vs Armenia,15.11.20,Armenia,AM,2020,SUCCESS,Sargis Adamyan,3500000.0,False,working,False,Sargis Adamyan,S Adamyan,single
+902,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,David Yurchenko,200000.0,False,working,False,David Yurchenko,D Yurchenko,single
+903,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Varazdat Haroyan,900000.0,False,working,False,Varazdat Haroyan,Haroyan,single
+904,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Taron Voskanyan,300000.0,False,working,False,Taron Voskanyan,T Voskanyan,single
+905,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Arman Hovhannisyan,175000.0,False,working,False,Arman Hovhannisyan,A Hovhannisyan,single
+906,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Artak Grigoryan,200000.0,False,working,False,Artak Grigoryan,A-k Grigoryan,single
+907,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Arshak Koryan,700000.0,False,working,False,Arshak Koryan,A Koryan,single
+908,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Hakob Hakobyan,250000.0,False,working,False,Hakob Hakobyan,H Hakobyan,single
+909,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Tigran Barseghyan,2500000.0,False,working,False,Tigran Barseghyan,Barseghyan,single
+910,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Solomon Udo,300000.0,False,working,False,Solomon Udo,S Udo,single
+911,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Hovhannes Hambardzumyan,500000.0,False,working,False,Hovhannes Hambardzumyan,H Hambartsumyan,single
+912,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,Armenia,AM,2020,SUCCESS,Aleksandr Karapetyan,250000.0,False,working,False,Aleksandr Karapetyan,Karapetyan,single
+913,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Damjan Siskovski,400000.0,False,working,False,Damjan Siskovski,Siskovski,single
+914,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Egzon Bejtulai,800000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+915,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Visar Musliu,1400000.0,False,working,False,Visar Musliu,Musliu,single
+916,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Stefan Ristovski,2500000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+917,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Gjoko Zajkov,250000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+918,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Ennur Totre,400000.0,False,working,False,Ennur Totre,Totre,single
+919,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Tihomir Kostadinov,450000.0,False,working,False,Tihomir Kostadinov,T Kostadinov,single
+920,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+921,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",700000.0,False,working,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+922,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Aleksandar Trajkovski,400000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+923,1659,Nations League 2020-2021,Armenia vs North Macedonia,18.11.20,North Macedonia,MK,2020,SUCCESS,Vlatko Stojanovski,400000.0,False,working,False,Vlatko Stojanovski,Stojanovski,single
+924,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Giorgi Loria,300000.0,False,working,False,Giorgi Loria,G Loria,single
+925,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Otar Kakabadze,300000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+926,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+927,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Jemal Tabidze,2500000.0,False,working,False,Jemal Tabidze,Tabidze,single
+928,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Davit Khocholava,3000000.0,False,working,False,Davit Khocholava,Khocholava,single
+929,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Jaba Kankava,400000.0,False,working,False,Jaba Kankava,Kankava,single
+930,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Valeri Qazaishvili,1600000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+931,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Saba Lobjanidze,1500000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+932,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Nika Kvekveskiri,600000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+933,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+934,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Georgia,GE,2020,SUCCESS,Nika Kacharava,500000.0,False,working,False,Nika Kacharava,Katcharava,single
+935,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Karl Hein,450000.0,False,working,False,Karl Hein,Hein,single
+936,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Märten Kuusk,400000.0,False,working,False,Märten Kuusk,Kuusk,single
+937,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Taijo Teniste,150000.0,False,working,False,Taijo Teniste,Teniste,single
+938,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Artur Pikk,150000.0,False,working,False,Artur Pikk,Pikk,single
+939,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Vladislav Kreida,300000.0,False,working,False,Vladislav Kreida,Kreida,single
+940,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+941,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Rauno Sappinen,550000.0,False,working,False,Rauno Sappinen,Sappinen,single
+942,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Vlasiy Sinyavskiy,300000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+943,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Markus Soomets,250000.0,False,working,False,Markus Soomets,Soomets,single
+944,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",500000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+945,1660,Nations League 2020-2021,Georgia vs Estonia,18.11.20,Estonia,EE,2020,SUCCESS,Sergei Zenjov,300000.0,False,working,False,Sergei Zenjov,Zenjov,single
+946,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Alexei Koselev,1300000.0,False,working,False,Alexei Koselev,Koselev,single
+947,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Oleg Reabciuk,2500000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+948,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Igor Armaş,300000.0,False,working,False,Igor Armaş,Arma,single
+949,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Victor Mudrac,175000.0,False,working,False,Victor Mudrac,Mudrac,single
+950,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Veaceslav Posmac,500000.0,False,working,False,Veaceslav Posmac,Posmac,single
+951,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Catalin Carp,900000.0,False,working,False,Catalin Carp,Carp,single
+952,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Mihail Caimacov,250000.0,False,working,False,Mihail Caimacov,Caimacov,single
+953,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Vadim Rață,600000.0,False,working,False,Vadim Rață,V Raţă,single
+954,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Artur Ioniță,1800000.0,False,working,False,Artur Ioniță,Ioniță,single
+955,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Ion Nicolaescu,300000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+956,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Moldova,MD,2020,SUCCESS,Sergiu Platica,350000.0,False,working,False,Sergiu Platica,S Platica,single
+957,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Arijanet Muric,1300000.0,False,working,False,Arijanet Muric,A Muric,single
+958,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Fidan Aliti,700000.0,False,working,False,Fidan Aliti,Aliti,single
+959,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",14000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+960,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Mërgim Vojvoda,5000000.0,False,working,False,Mërgim Vojvoda,Vojvoda,single
+961,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Leart Paçarada,800000.0,False,working,False,Leart Paçarada,Paqarada,single
+962,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Herolind Shala,400000.0,False,working,False,Herolind Shala,Shala,single
+963,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Hekuran Kryeziu,800000.0,False,working,False,Hekuran Kryeziu,H Kryeziu,single
+964,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Milot Rashica,9000000.0,False,working,False,Milot Rashica,Rashica,single
+965,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Valon Berisha,3500000.0,False,working,False,Valon Berisha,Val Berisha,single
+966,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Benjamin Kololli,700000.0,False,working,False,Benjamin Kololli,Kololli,single
+967,1661,Nations League 2020-2021,Moldova vs Kosovo,03.09.20,Kosovo,XK,2020,SUCCESS,Arbër Zeneli,5000000.0,False,working,False,Arbër Zeneli,Zeneli,single
+968,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Jan Oblak,70000000.0,False,working,False,Jan Oblak,Oblak,single
+969,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Jure Balkovec,2400000.0,False,working,False,Jure Balkovec,Balkovec,single
+970,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Miha Mevlja,3000000.0,False,working,False,Miha Mevlja,Mevlja,single
+971,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Miha Blazic,2000000.0,False,working,False,Miha Blazic,Mi Blazic,single
+972,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Haris Vuckic,400000.0,False,working,False,Haris Vuckic,Vuckic,single
+973,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Jaka Bijol,2500000.0,False,working,False,Jaka Bijol,Bijol,single
+974,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Rajko Rep,700000.0,False,working,False,Rajko Rep,Rep,single
+975,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Petar Stojanović,850000.0,False,working,False,Petar Stojanović,P Stojanović,single
+976,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Amedej Vetrih,1000000.0,False,working,False,Amedej Vetrih,Vetrih,single
+977,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Damjan Bohar,2500000.0,False,working,False,Damjan Bohar,Bohar,single
+978,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Slovenia,SI,2020,SUCCESS,Andraz Sporar,5000000.0,False,working,False,Andraz Sporar,porar,single
+979,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Vasilios Barkas,2800000.0,False,working,False,Vasilios Barkas,Barkas,single
+980,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Dimitrios Siovas,2500000.0,False,working,False,Dimitrios Siovas,Siovas,single
+981,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Stratos Svarnas,1500000.0,False,working,False,Stratos Svarnas,Svarnas,single
+982,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Dimitrios Giannoulis,7000000.0,False,working,False,Dimitrios Giannoulis,D Giannoulis,single
+983,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Michalis Bakakis,900000.0,False,working,False,Michalis Bakakis,Bakakis,single
+984,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Petros Mantalos,4000000.0,False,working,False,Petros Mantalos,Mantalos,single
+985,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Dimitrios Kourbelis,1800000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+986,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Vangelis Pavlidis,2500000.0,False,working,False,Vangelis Pavlidis,E Pavlidis,single
+987,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Zeca,1500000.0,False,working,False,Zeca,Zeca,single
+988,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Anastasios Bakasetas,7000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+989,1662,Nations League 2020-2021,Slovenia vs Greece,03.09.20,Greece,GR,2020,SUCCESS,Dimitrios Limnios,2000000.0,False,working,False,Dimitrios Limnios,Limnios,single
+990,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Jan Oblak,70000000.0,False,working,False,Jan Oblak,Oblak,single
+991,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Jure Balkovec,2400000.0,False,working,False,Jure Balkovec,Balkovec,single
+992,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Miha Mevlja,3000000.0,False,working,False,Miha Mevlja,Mevlja,single
+993,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Miha Blazic,2000000.0,False,working,False,Miha Blazic,Mi Blazic,single
+994,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Nino Kouter,700000.0,False,working,False,Nino Kouter,Kouter,single
+995,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Jasmin Kurtić,2000000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+996,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Haris Vuckic,400000.0,False,working,False,Haris Vuckic,Vuckic,single
+997,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Petar Stojanović,850000.0,False,working,False,Petar Stojanović,P Stojanović,single
+998,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Miha Zajc,3000000.0,False,working,False,Miha Zajc,Zajc,single
+999,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Damjan Bohar,2500000.0,False,working,False,Damjan Bohar,Bohar,single
+1000,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Slovenia,SI,2020,SUCCESS,Andraz Sporar,5000000.0,False,working,False,Andraz Sporar,porar,single
+1001,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Alexei Koselev,1300000.0,False,working,False,Alexei Koselev,Koselev,single
+1002,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Oleg Reabciuk,2500000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+1003,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Igor Armaş,300000.0,False,working,False,Igor Armaş,Arma,single
+1004,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Victor Mudrac,175000.0,False,working,False,Victor Mudrac,Mudrac,single
+1005,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Veaceslav Posmac,500000.0,False,working,False,Veaceslav Posmac,Posmac,single
+1006,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Catalin Carp,900000.0,False,working,False,Catalin Carp,Carp,single
+1007,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Mihail Caimacov,250000.0,False,working,False,Mihail Caimacov,Caimacov,single
+1008,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Vadim Rață,600000.0,False,working,False,Vadim Rață,V Raţă,single
+1009,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Artur Ioniță,1800000.0,False,working,False,Artur Ioniță,Ioniță,single
+1010,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,SUCCESS,Sergiu Platica,350000.0,False,working,False,Sergiu Platica,S Platica,single
+1011,1663,Nations League 2020-2021,Slovenia vs Moldova,06.09.20,Moldova,MD,2020,FAIL,0,0.0,True,Lookup Required,False,0,Damașcan,none
+1012,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Samir Ujkani,200000.0,False,working,False,Samir Ujkani,Ujkani,single
+1013,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Florent Hadergjonaj,4000000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+1014,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Fidan Aliti,700000.0,False,working,False,Fidan Aliti,Aliti,single
+1015,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",14000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+1016,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Mërgim Vojvoda,5000000.0,False,working,False,Mërgim Vojvoda,Vojvoda,single
+1017,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Ibrahim Dresevic,1000000.0,False,working,False,Ibrahim Dresevic,Dresevic,single
+1018,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Valon Berisha,3500000.0,False,working,False,Valon Berisha,Val Berisha,single
+1019,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Besar Halimi,350000.0,False,working,False,Besar Halimi,B-r Halimi,single
+1020,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Bersant Celina,3000000.0,False,working,False,Bersant Celina,Celina,single
+1021,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Arbër Zeneli,5000000.0,False,working,False,Arbër Zeneli,Zeneli,single
+1022,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Kosovo,XK,2020,SUCCESS,Atdhe Nuhiu,250000.0,False,working,False,Atdhe Nuhiu,Nuhiu,single
+1023,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Vasilios Barkas,2800000.0,False,working,False,Vasilios Barkas,Barkas,single
+1024,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Konstantinos Stafylidis,1200000.0,False,working,False,Konstantinos Stafylidis,Stafylidis,single
+1025,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Stratos Svarnas,1500000.0,False,working,False,Stratos Svarnas,Svarnas,single
+1026,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Dimitrios Giannoulis,7000000.0,False,working,False,Dimitrios Giannoulis,D Giannoulis,single
+1027,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Michalis Bakakis,900000.0,False,working,False,Michalis Bakakis,Bakakis,single
+1028,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Konstantinos Fortounis,8000000.0,False,working,False,Konstantinos Fortounis,Fortounis,single
+1029,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Dimitrios Kourbelis,1800000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+1030,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Zeca,1500000.0,False,working,False,Zeca,Zeca,single
+1031,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Efthymios Koulouris,1200000.0,False,working,False,Efthymios Koulouris,Koulouris,single
+1032,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Anastasios Bakasetas,7000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+1033,1664,Nations League 2020-2021,Kosovo vs Greece,06.09.20,Greece,GR,2020,SUCCESS,Dimitrios Limnios,2000000.0,False,working,False,Dimitrios Limnios,Limnios,single
+1034,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Arijanet Muric,1300000.0,False,working,False,Arijanet Muric,A Muric,single
+1035,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Florent Hadergjonaj,4000000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+1036,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Fidan Aliti,700000.0,False,working,False,Fidan Aliti,Aliti,single
+1037,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Leart Paçarada,800000.0,False,working,False,Leart Paçarada,Paqarada,single
+1038,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Ibrahim Dresevic,1000000.0,False,working,False,Ibrahim Dresevic,Dresevic,single
+1039,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Herolind Shala,400000.0,False,working,False,Herolind Shala,Shala,single
+1040,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Valon Berisha,3500000.0,False,working,False,Valon Berisha,Val Berisha,single
+1041,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Benjamin Kololli,700000.0,False,working,False,Benjamin Kololli,Kololli,single
+1042,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Edon Zhegrova,2000000.0,False,working,False,Edon Zhegrova,Zhegrova,single
+1043,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Bersant Celina,3000000.0,False,working,False,Bersant Celina,Celina,single
+1044,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Kosovo,XK,2020,SUCCESS,Arbër Zeneli,5000000.0,False,working,False,Arbër Zeneli,Zeneli,single
+1045,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Jan Oblak,70000000.0,False,working,False,Jan Oblak,Oblak,single
+1046,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Jure Balkovec,2400000.0,False,working,False,Jure Balkovec,Balkovec,single
+1047,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Miha Mevlja,3000000.0,False,working,False,Miha Mevlja,Mevlja,single
+1048,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Miha Blazic,2000000.0,False,working,False,Miha Blazic,Mi Blazic,single
+1049,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Jaka Bijol,2500000.0,False,working,False,Jaka Bijol,Bijol,single
+1050,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Haris Vuckic,400000.0,False,working,False,Haris Vuckic,Vuckic,single
+1051,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Sandi Lovric,1500000.0,False,working,False,Sandi Lovric,S Lovric,single
+1052,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Rajko Rep,700000.0,False,working,False,Rajko Rep,Rep,single
+1053,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Jasmin Kurtić,2000000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+1054,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,Petar Stojanović,850000.0,False,working,False,Petar Stojanović,P Stojanović,single
+1055,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,0,Verbič,none
+1056,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Odysseas Vlachodimos,12000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+1057,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Georgios Tzavellas,1000000.0,False,working,False,Georgios Tzavellas,Tzavellas,single
+1058,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Pantelis Hatzidiakos,3000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+1059,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Stratos Svarnas,1500000.0,False,working,False,Stratos Svarnas,Svarnas,single
+1060,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Dimitrios Giannoulis,7000000.0,False,working,False,Dimitrios Giannoulis,D Giannoulis,single
+1061,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Petros Mantalos,4000000.0,False,working,False,Petros Mantalos,Mantalos,single
+1062,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Dimitrios Kourbelis,1800000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+1063,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Vangelis Pavlidis,2500000.0,False,working,False,Vangelis Pavlidis,E Pavlidis,single
+1064,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Zeca,1500000.0,False,working,False,Zeca,Zeca,single
+1065,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Anastasios Bakasetas,7000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+1066,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Greece,GR,2020,SUCCESS,Dimitrios Limnios,2000000.0,False,working,False,Dimitrios Limnios,Limnios,single
+1067,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none
+1068,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Oleg Reabciuk,2500000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+1069,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Victor Mudrac,175000.0,False,working,False,Victor Mudrac,Mudrac,single
+1070,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Igor Armaş,300000.0,False,working,False,Igor Armaş,Arma,single
+1071,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Veaceslav Posmac,500000.0,False,working,False,Veaceslav Posmac,Posmac,single
+1072,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Eugeniu Cociuc,225000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+1073,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Mihail Caimacov,250000.0,False,working,False,Mihail Caimacov,Caimacov,single
+1074,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Vadim Rață,600000.0,False,working,False,Vadim Rață,V Raţă,single
+1075,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Artur Ioniță,1800000.0,False,working,False,Artur Ioniță,Ioniță,single
+1076,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Ion Nicolaescu,300000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+1077,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,Sergiu Platica,350000.0,False,working,False,Sergiu Platica,S Platica,single
+1078,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none
+1079,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Oleg Reabciuk,2500000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+1080,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Victor Mudrac,175000.0,False,working,False,Victor Mudrac,Mudrac,single
+1081,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Igor Armaş,300000.0,False,working,False,Igor Armaş,Arma,single
+1082,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Petru Racu,150000.0,False,working,False,Petru Racu,Racu,single
+1083,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Catalin Carp,900000.0,False,working,False,Catalin Carp,Carp,single
+1084,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Eugeniu Cociuc,225000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+1085,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Vadim Rață,600000.0,False,working,False,Vadim Rață,V Raţă,single
+1086,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Artur Ioniță,1800000.0,False,working,False,Artur Ioniță,Ioniță,single
+1087,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Ion Nicolaescu,300000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+1088,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,Sergiu Platica,350000.0,False,working,False,Sergiu Platica,S Platica,single
+1089,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Jan Oblak,70000000.0,False,working,False,Jan Oblak,Oblak,single
+1090,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Nejc Skubic,1500000.0,False,working,False,Nejc Skubic,Skubic,single
+1091,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Jure Balkovec,2400000.0,False,working,False,Jure Balkovec,Balkovec,single
+1092,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Miha Mevlja,3000000.0,False,working,False,Miha Mevlja,Mevlja,single
+1093,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Miha Blazic,2000000.0,False,working,False,Miha Blazic,Mi Blazic,single
+1094,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Jaka Bijol,2500000.0,False,working,False,Jaka Bijol,Bijol,single
+1095,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Haris Vuckic,400000.0,False,working,False,Haris Vuckic,Vuckic,single
+1096,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Sandi Lovric,1500000.0,False,working,False,Sandi Lovric,S Lovric,single
+1097,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Jasmin Kurtić,2000000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+1098,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,0,Verbič,none
+1099,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,Damjan Bohar,2500000.0,False,working,False,Damjan Bohar,Bohar,single
