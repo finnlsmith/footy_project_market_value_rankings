@@ -1,0 +1,698 @@
+,Unnamed: 0,Match ID,Match,Date,Competition,Nationality,Country Code,ORIGINAL JERSEY,Names_Found,Season,Status,Lookup Still Required?,Lookup Return Case
+0,40,2588,Bangladesh vs Afghanistan,03-06-2021,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+1,44,2592,Bangladesh vs India,07-06-2021,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+2,54,2611,Indonesia vs Malaysia,5-9-2019,"World Cup Qualifiers, Asia, 2022",Indonesia,ID,Zul,['Zulham Zamrun'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+3,59,2623,Bangladesh vs Qatar,10-10-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+4,81,310,England vs Iran,21.11.22,World Cup 2022,Iran,IR,Hosseini,"['Hossein Hosseini', 'Majid Hosseini']",2022,FAIL,TRUE,Name Confusion
+5,82,310,England vs Iran,21.11.22,World Cup 2022,Iran,IR,Karimi,Ali Karimi,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+6,83,311,United States vs Wales,21.11.22,World Cup 2022,United States,US,Mc Kennie,['Weston Mckennie'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+7,88,313,England vs United States,25.11.22,World Cup 2022,United States,US,Mc Kennie,[‘Weston Mckennie’],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+8,93,315,Iran vs United States,29.11.22,World Cup 2022,United States,US,Mc Kennie,[‘Weston Mckennie’],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+9,99,318,Poland vs Saudi Arabia,26.11.22,World Cup 2022,Saudi Arabia,SA,Al-Dawsari,"['Salem Al-Dawsari', 'Nasser Al-Dawsari']",2022,FAIL,TRUE,Name Confusion
+10,132,1935,Ghana vs Egypt,12-11-2017,"World Cup Qualifiers, Africa, 2018",Ghana,GH,E Gyasi,['Emmanuel Gyasi'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+11,155,3539,Mali vs Cote d'Ivoire,08-07-2019,"African Cup of Nations, 2019",Mali,ML,A Diaby,['Alassane Diaby'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+12,177,3569,Tunisia vs Mali,28-06-2019,"African Cup of Nations, 2019",Mali,ML,A Diaby,['Alassane Diaby'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+13,190,3586,Mali vs Mauritania,24-06-2019,"African Cup of Nations, 2019",Mali,ML,A Diaby,['Alassane Diaby'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+14,235,4360,Paraguay vs Venezuela,10-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Herrera,Eduardo Herrera,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+15,299,4378,Brazil vs Venezuela,13-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,J Moreno,['Johan Moreno'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+16,307,4380,Venezuela vs Chile,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,J Moreno,['Johan Moreno'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+17,330,4385,Uruguay vs Paraguay,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+18,334,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+19,345,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+20,351,4392,Paraguay vs Brazil,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+21,363,4394,Bolivia vs Colombia,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+22,368,4395,Ecuador vs Paraguay,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+23,369,4395,Ecuador vs Paraguay,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+24,372,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+25,374,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Rodríguez,Miguel Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+26,375,4398,Chile vs Brazil,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+27,378,4399,Ecuador vs Chile,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+28,382,4400,Paraguay vs Colombia,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+29,395,1873,Cyprus vs Estonia,29.03.22,Nations League 2022-2023,Cyprus,CY,Cham Kyriakou,"['Charalampos Kyriakou', 'Vangelis Kyriakou']",2022,FAIL,TRUE,Name Confusion
+30,399,1879,Peru vs New Zealand,16-11-2017,"World Cup Intercontinental Playoffs, 2018",Peru,PE,A Rodríguez,['Aldair Rodríguez'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+31,402,1882,New Zealand vs Peru,11-11-2017,"World Cup Intercontinental Playoffs, 2018",Peru,PE,A Rodríguez,['Aldair Rodríguez'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+32,405,1886,Cameroon vs Libya,08-09-2013,"World Cup Qualifiers, Africa, 2014",Libya,LY,Ahmed Sa'ad,['Ahmed Abi Lashhar'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+33,412,1909,Ghana vs Egypt,15-10-2013,"World Cup Qualifiers, Africa, 2014",Egypt,EG,Wael Gomaa,['Ahmed Gomaa'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+34,445,1594,Northern Ireland vs Austria,11.10.20,Nations League 2020-2021,Northern Ireland,NI,Mc Govern,Callum McGregor,2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+35,448,1598,Austria vs Northern Ireland,15.11.20,Nations League 2020-2021,Northern Ireland,NI,Mc Govern,Callum McGregor,2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+36,464,2831,Iceland vs Slovenia,07-06-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+37,467,2832,Azerbaijan vs Luxembourg,07-06-2013,"World Cup Qualifiers, Europe, 2014",Azerbaijan,AZ,R Dadaov,['Renat Dadashov'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+38,468,2833,Iceland vs Croatia,15-11-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+39,471,2837,Iceland vs Cyprus,11-10-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+40,474,2842,Netherlands vs Estonia,22-03-2013,"World Cup Qualifiers, Europe, 2014",Estonia,EE,H Ojamaa,['Hindrek Ojamaa'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+41,476,2847,Switzerland vs Slovenia,15-10-2013,"World Cup Qualifiers, Europe, 2014",Slovenia,SI,A Struna,['Aljaz Struna'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+42,477,2853,Switzerland vs Iceland,06-09-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+43,480,2855,Estonia vs Netherlands,06-09-2013,"World Cup Qualifiers, Europe, 2014",Estonia,EE,H Ojamaa,['Hindrek Ojamaa'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+44,483,2856,Cyprus vs Slovenia,10-09-2013,"World Cup Qualifiers, Europe, 2014",Slovenia,SI,A Struna,['Aljaz Struna'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+45,485,2861,Andorra vs Turkey,22-03-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+46,489,2872,Iceland vs Albania,10-09-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+47,493,2874,Finland vs Spain,06-09-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+48,526,951,Wales vs Croatia,15.10.23,"Euros 2024, Qualifiers",Wales,WA,James,"['Daniel James', 'Jordan James']",2023,FAIL,TRUE,Name Confusion
+49,530,953,Armenia vs Wales,18.11.23,"Euros 2024, Qualifiers",Wales,WA,James,"['Daniel James', 'Jordan James']",2023,FAIL,TRUE,Name Confusion
+50,535,956,Wales vs Turkey,21.11.23,"Euros 2024, Qualifiers",Wales,WA,James,"['Daniel James', 'Jordan James']",2023,FAIL,TRUE,Name Confusion
+51,540,1985,Cape Verde vs Burkina Faso,12-11-2016,"World Cup Qualifiers, Africa, 2018",Cape Verde,CV,Ricardo,"['Ricardo Silva', 'Ricardo Gomes']",2016,FAIL,TRUE,Name Confusion
+52,545,1995,Morocco vs Mali,01-09-2017,"World Cup Qualifiers, Africa, 2018",Mali,ML,A Diaby,['Alassane Diaby'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+53,561,2531,United Arab Emirates vs Indonesia,10-10-2019,"World Cup Qualifiers, Asia, 2022",Indonesia,ID,Zul,['Zulham Zamrun'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+54,564,2537,Singapore vs Saudi Arabia,11-06-2021,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+55,570,2545,Palestine vs Singapore,03-06-2021,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+56,573,2546,India vs Bangladesh,15-10-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+57,578,2556,Saudi Arabia vs Singapore,10-10-2019,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+58,586,857,Liechtenstein vs Finland,11.06.19,"Euros 2020, Qualifiers",Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2019,FAIL,TRUE,Name Confusion
+59,589,859,Bosnia-Herzegovina vs Liechtenstein,05.09.19,"Euros 2020, Qualifiers",Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+60,593,861,Armenia vs Bosnia-Herzegovina,08.09.19,"Euros 2020, Qualifiers",Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+61,625,1086,Bosnia-Herzegovina vs Luxembourg,20.06.23,"Euros 2024, Qualifiers",Luxembourg,LU,Sinani,"['Danel Sinani', 'Dejvid Sinani']",2023,FAIL,TRUE,Name Confusion
+62,754,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Acosta,['Jhonny Acosta'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+63,769,4065,Trinidad and Tobago vs Honduras,01-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Alvin Jones']",2017,FAIL,TRUE,Name Confusion
+64,804,4071,Mexico vs Trinidad and Tobago,06-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Mexico,MX,Reyes,"['Diego Reyes', 'Luis Reyes']",2017,FAIL,TRUE,Name Confusion
+65,815,4072,Costa Rica vs Honduras,07-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Acosta,['Jhonny Acosta'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+66,827,4074,Panama vs Costa Rica,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Costa Rica,CR,Gutierrez,['Jorge Gutiérrez'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+67,840,4079,Suriname vs Cayman Islands,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Suriname,SR,Pinas,Milton Pinas,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+68,857,4093,Aruba vs Suriname,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Suriname,SR,Pinas,Milton Pinas,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+69,859,2935,Azerbaijan vs Norway,08-10-2016,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+70,860,2936,Estonia vs Gibraltar,07-10-2016,"World Cup Qualifiers, Europe, 2018",Estonia,EE,H Anier,['Hannes Anier'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+71,870,2952,Estonia vs Bosnia-Herzegovina-Herzegovina,10-10-2017,"World Cup Qualifiers, Europe, 2018",Estonia,EE,H Anier,['Hannes Anier'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+72,878,2979,Iceland vs Kosovo,09-10-2017,"World Cup Qualifiers, Europe, 2018",Kosovo,XK,B Halimi,['Betim Halimi'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+73,902,2888,Azerbaijan vs Russia,15-10-2013,"World Cup Qualifiers, Europe, 2014",Azerbaijan,AZ,R Dadaov,['Renat Dadashov'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+74,904,2896,Spain vs Finland,22-03-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+75,906,2905,Georgia vs Finland,10-09-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+76,912,2925,Turkey vs Netherlands,15-10-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+77,913,2927,Croatia vs Iceland,19-11-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+78,937,4116,Suriname vs Bermuda,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Suriname,SR,Pinas,Milton Pinas,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+79,971,4135,Canada vs Suriname,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Suriname,SR,Pinas,Milton Pinas,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+80,986,4143,Canada vs Honduras,02-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Alexander López', 'Luis López']",2021,FAIL,TRUE,Name Confusion
+81,988,4143,Canada vs Honduras,02-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Flores,Francisco Flores,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+82,1015,4403,Colombia vs Chile,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+83,1020,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+84,1021,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+85,1022,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+86,1023,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+87,1029,4408,Venezuela vs Brazil,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+88,1042,4412,Paraguay vs Argentina,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+89,1044,4412,Paraguay vs Argentina,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+90,1046,4413,Colombia vs Brazil,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+91,1049,4414,Venezuela vs Ecuador,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+92,1050,4414,Venezuela vs Ecuador,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+93,1055,4416,Argentina vs Uruguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+94,1058,4417,Chile vs Paraguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+95,1060,4417,Chile vs Paraguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+96,1070,4419,Bolivia vs Paraguay,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+97,1072,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+98,1074,4422,Chile vs Venezuela,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+99,1075,4422,Chile vs Venezuela,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+100,1078,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+101,1079,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+102,1081,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+103,1082,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+104,1093,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+105,1094,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Rodríguez,Miguel Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+106,1105,4429,Colombia vs Paraguay,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Papu Gómez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+107,1107,4431,Argentina vs Brazil,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Romero,Sergio Romero,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+108,1110,4433,Ecuador vs Brazil,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Romario Caicedo', 'Moisés Caicedo']",2022,FAIL,TRUE,Name Confusion
+109,1127,4437,Venezuela vs Bolivia,28-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,Oscar González,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+110,1141,4439,Uruguay vs Venezuela,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,Oscar González,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+111,1150,4441,Peru vs Ecuador,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2022,FAIL,TRUE,Name Confusion
+112,1181,4449,Ecuador vs Argentina,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2022,FAIL,TRUE,Name Confusion
+113,1186,4450,Venezuela vs Colombia,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,Oscar González,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+114,1204,2789,Turkey vs Andorra,06-09-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+115,1207,2794,Turkey vs Hungary,26-03-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+116,1209,2802,Belarus vs Finland,11-06-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+117,1211,2812,France vs Finland,15-10-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+118,1216,2820,Estonia vs Turkey,11-10-2013,"World Cup Qualifiers, Europe, 2014",Estonia,EE,H Ojamaa,['Hindrek Ojamaa'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+119,1217,2820,Estonia vs Turkey,11-10-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+120,1219,2821,Israel vs Azerbaijan,07-09-2013,"World Cup Qualifiers, Europe, 2014",Azerbaijan,AZ,R Dadaov,['Renat Dadashov'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+121,1220,2823,Slovenia vs Norway,11-10-2013,"World Cup Qualifiers, Europe, 2014",Slovenia,SI,A Struna,['Aljaz Struna'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+122,1221,2824,Romania vs Turkey,10-09-2013,"World Cup Qualifiers, Europe, 2014",Turkey,TR,S Kaya,['Suat Kaya'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+123,1237,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+124,1245,4306,Paraguay vs Chile,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+125,1255,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Riveros,"['Cristian Riveros', 'Marcos Riveros']",2016,FAIL,TRUE,Name Confusion
+126,1256,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+127,1268,4313,Ecuador vs Chile,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Farid Díaz'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+128,1277,4315,Paraguay vs Colombia,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+129,1296,4320,Chile vs Peru,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Farid Díaz'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+130,1305,4321,Argentina vs Paraguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+131,1316,4323,Colombia vs Chile,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Farid Díaz'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+132,1320,4325,Uruguay vs Ecuador,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2016,FAIL,TRUE,Name Confusion
+133,1326,4326,Paraguay vs Peru,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+134,1339,4330,Argentina vs Colombia,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+135,1344,4331,Chile vs Uruguay,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Farid Díaz'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+136,1371,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Díaz,['Ismael Díaz'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+137,1508,2640,Bangladesh vs Oman,15-06-2021,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+138,1509,2641,Singapore vs Uzbekistan,15-10-2019,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+139,1521,2666,Yemen vs Singapore,19-11-2019,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+140,1524,2676,Singapore vs Yemen,05-09-2019,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+141,1573,4158,Mexico vs Canada,07-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Álvarez,"['Edson Álvarez', 'Efraín Álvarez']",2021,FAIL,TRUE,Name Confusion
+142,1582,4159,Costa Rica vs El Salvador,10-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+143,1590,4162,Mexico vs Honduras,10-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+144,1605,4164,Honduras vs Jamaica,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Alexander López']",2021,FAIL,TRUE,Name Confusion
+145,1620,4168,Honduras vs Panama,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Alexander López']",2021,FAIL,TRUE,Name Confusion
+146,1631,4170,USA vs Mexico,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+147,1666,4176,Jamaica vs Mexico,27-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Sánchez,['Davinson Sánchez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+148,1668,4176,Jamaica vs Mexico,27-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Chicharito,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+149,1684,4180,Mexico vs Costa Rica,30-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Álvarez,['Julián Álvarez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+150,1713,4184,Jamaica vs Costa Rica,02-Feb-22,"World Cup 2022, Qualifiers, CONCACAF",Costa Rica,CR,Martínez,"['Christian Martínez', 'Alonso Martínez']",2022,FAIL,TRUE,Name Confusion
+151,1740,4188,Mexico vs USA,24-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Sánchez,['Davinson Sánchez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+152,1743,4188,Mexico vs USA,24-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Álvarez,['Julián Álvarez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+153,1765,4191,El Salvador vs Costa Rica,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Costa Rica,CR,Martínez,"['Christian Martínez', 'Alonso Martínez', 'Carlos Martínez']",2022,FAIL,TRUE,Name Confusion
+154,1771,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Alexander López', 'Kevin López']",2022,FAIL,TRUE,Name Confusion
+155,1773,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Sánchez,['Davinson Sánchez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+156,1776,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Álvarez,['Julián Álvarez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+157,1785,4195,Mexico vs El Salvador,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Sánchez,['Davinson Sánchez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+158,1787,4195,Mexico vs El Salvador,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Álvarez,['Julián Álvarez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+159,1862,3945,Panama vs Mexico,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+160,1877,3948,USA vs Panama,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+161,1893,3953,Panama vs Jamaica,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+162,1920,3959,Mexico vs Panama,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Torres,['Macnelly Torres'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+163,1929,3960,Costa Rica vs Mexico,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Torres,['Macnelly Torres'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+164,1937,3962,Panama vs USA,15-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+165,1956,1531,Gibraltar vs Liechtenstein,16.10.18,Nations League 2018-2020,Gibraltar,GI,Casciaro,"['Kyle Casciaro', 'Lee Casciaro']",2018,FAIL,TRUE,Name Confusion
+166,1961,1534,Liechtenstein vs Armenia,19.11.18,Nations League 2018-2020,Liechtenstein,LI,M Büchel,"['Martin Büchel', 'Marcel Büchel']",2018,FAIL,TRUE,Name Confusion
+167,1969,1543,Netherlands vs Italy,07.09.20,Nations League 2020-2021,Italy,IT,D,Danilo D’Ambrosio,2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+168,1970,1545,Bosnia-Herzegovina vs Netherlands,11.10.20,Nations League 2020-2021,Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+169,1971,1547,Italy vs Netherlands,14.10.20,Nations League 2020-2021,Italy,IT,D,Danilo D’Ambrosio,2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+170,1972,1549,Netherlands vs Bosnia-Herzegovina,15.11.20,Nations League 2020-2021,Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+171,2003,3934,Mexico vs Jamaica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Torres,['Macnelly Torres'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+172,2007,3935,Panama vs Costa Rica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+173,2017,3936,Honduras vs Mexico,22-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Torres,['Macnelly Torres'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+174,2036,3940,Mexico vs USA,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Torres,['Macnelly Torres'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+175,2038,3941,Panama vs Honduras,26-Mar-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Rodríguez,Puma,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+176,2105,847,Bosnia-Herzegovina vs Armenia,23.03.19,"Euros 2020, Qualifiers",Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+177,2114,855,Italy vs Bosnia-Herzegovina,11.06.19,"Euros 2020, Qualifiers",Bosnia-Herzegovina,BA,Todorović,['Ognjen Todorovic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+178,2247,2057,Sudan vs Guinea,06-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,M Camara,"['Mohamed Camara', 'Mady Camara']",2021,FAIL,TRUE,Name Confusion
+179,2248,2057,Sudan vs Guinea,06-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,M Camara,"['Mohamed Camara', 'Mady Camara']",2021,FAIL,TRUE,Name Confusion
+180,2252,3350,Wales vs Estonia,08-09-2021,"World Cup Qualifiers, Europe, 2022",Estonia,EE,H Anier,['Hannes Anier'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+181,2254,3354,Belgium vs Estonia,13-11-2021,"World Cup Qualifiers, Europe, 2022",Estonia,EE,H Anier,['Hannes Anier'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+182,2255,3358,Estonia vs Belgium,02-09-2021,"World Cup Qualifiers, Europe, 2022",Estonia,EE,H Anier,['Hannes Anier'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+183,2313,3101,San Marino vs Azerbaijan,04-09-2016,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+184,2326,3124,Andorra vs Hungary,09-06-2017,"World Cup Qualifiers, Europe, 2018",Hungary,HU,B Tóth,['Balázs Tóth'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+185,2328,3126,Greece vs Estonia,31-08-2017,"World Cup Qualifiers, Europe, 2018",Estonia,EE,H Anier,['Hannes Anier'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+186,2358,1632,Bulgaria vs Wales,14.10.20,Nations League 2020-2021,Wales,WA,Davies,"['Ben Davies', 'Adam Davies']",2020,FAIL,TRUE,Name Confusion
+187,2417,3180,Kosovo vs Ukraine,06-10-2017,"World Cup Qualifiers, Europe, 2018",Kosovo,XK,B Halimi,['Betim Halimi'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+188,2433,2713,Cambodia vs Pakistan,12-10-2023,"World Cup Qualifiers, Asia, 2026",Pakistan,PK,Y Butt,['Yaqoob Butt'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+189,2440,2727,Saudi Arabia vs Pakistan,16-11-2023,"World Cup Qualifiers, Asia, 2026",Pakistan,PK,Y Butt,['Yaqoob Butt'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+190,2456,4241,Uruguay vs Paraguay,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Aguilar,['Abel Aguilar'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+191,2465,4242,Argentina vs Venezuela,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,A C González,"['Alexander González', 'César González']",2013,FAIL,TRUE,Name Confusion
+192,2477,4245,Ecuador vs Paraguay,26-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Aguilar,['Abel Aguilar'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+193,2484,4246,Venezuela vs Colombia,26-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,A C González,"['Alexander González', 'César González']",2013,FAIL,TRUE,Name Confusion
+194,2493,4248,Bolivia vs Venezuela,07-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+195,2613,4043,USA vs Trinidad and Tobago,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Mekeil Williams', 'Jomal Williams']",2016,FAIL,TRUE,Name Confusion
+196,2642,2255,South Korea vs Iran,18-06-2013,"World Cup Qualifiers, Asia, 2014",Iran,IR,A Sadeghi,['Amirali Sadeghi'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+197,2653,3301,Belarus vs Estonia,27-03-2021,"World Cup Qualifiers, Europe, 2022",Estonia,EE,H Anier,['Hannes Anier'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+198,2690,1701,San Marino vs Gibraltar,14.11.20,Nations League 2020-2021,Gibraltar,GI,Casciaro,"['Kyle Casciaro', 'Lee Casciaro']",2020,FAIL,TRUE,Name Confusion
+199,2906,3641,Mexico vs Canada,12-07-2013,"Gold Cup, 2013",Mexico,MX,J Orozco,"['Javier Orozco', 'Jonathan Orozco']",2013,FAIL,TRUE,Name Confusion
+200,2910,3656,Panama vs Mexico,25-07-2013,"Gold Cup, 2013",Mexico,MX,J Orozco,"['Javier Orozco', 'Jonathan Orozco']",2013,FAIL,TRUE,Name Confusion
+201,2912,3658,Mexico vs Trinidad and Tobago,20-07-2013,"Gold Cup, 2013",Mexico,MX,J Orozco,"['Javier Orozco', 'Jonathan Orozco']",2013,FAIL,TRUE,Name Confusion
+202,2917,3672,Trinidad and Tobago vs Guatemala,10-07-2015,"Gold Cup, 2015",Trinidad and Tobago,TT,K George,['Keston George'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+203,2920,3681,Mexico vs Trinidad and Tobago,16-07-2015,"Gold Cup, 2015",Trinidad and Tobago,TT,K George,['Keston George'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+204,2921,3682,Trinidad and Tobago vs Panama,19-07-2015,"Gold Cup, 2015",Trinidad and Tobago,TT,K George,['Keston George'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+205,2925,3684,Trinidad and Tobago vs Cuba,12-07-2015,"Gold Cup, 2015",Trinidad and Tobago,TT,K George,['Keston George'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+206,2935,2180,Burkina Faso vs Niger,12-11-2021,"World Cup Qualifiers, Africa, 2022",Niger,NE,A Moumouni,"['Abdoul Madjid Moumouni', 'Abdoul Moumouni']",2021,FAIL,TRUE,Name Confusion
+207,2937,2185,Liberia vs Sierra Leone,04-09-2019,"World Cup Qualifiers, Africa, 2022",Liberia,LR,T Tisdell,"['Tonia Tisdell', 'Terrence Tisdell']",2019,FAIL,TRUE,Name Confusion
+208,2982,4253,Ecuador vs Argentina,11-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Rojas,['José Rojas'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+209,3026,3765,Mexico vs Trinidad and Tobago,11-07-2021,"Gold Cup, 2021",Mexico,MX,E Álvarez,"['Edson Álvarez', 'Efraín Álvarez']",2021,FAIL,TRUE,Name Confusion
+210,3030,3770,Guatemala vs Mexico,15-07-2021,"Gold Cup, 2021",Mexico,MX,E Álvarez,"['Edson Álvarez', 'Efraín Álvarez']",2021,FAIL,TRUE,Name Confusion
+211,3126,668,Netherlands vs Germany,24.03.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+212,3131,675,Germany vs Netherlands,06.09.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+213,3134,677,Estonia vs Netherlands,09.09.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+214,3136,679,Netherlands vs Northern Ireland,10.10.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+215,3137,680,Belarus vs Netherlands,13.10.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+216,3139,683,Northern Ireland vs Netherlands,16.11.19,"Euros 2020, Qualifiers",Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+217,3243,228,Brazil vs Belgium,06.07.18,World Cup 2018,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,FAIL,TRUE,Name Confusion
+218,3293,2502,Oman vs Bangladesh,14-11-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+219,3295,2504,Singapore vs Palestine,10-09-2019,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+220,3301,2521,Uzbekistan vs Singapore,07-06-2021,"World Cup Qualifiers, Asia, 2022",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+221,3302,2526,Lebanon vs Sri Lanka,05-06-2021,"World Cup Qualifiers, Asia, 2022",Sri Lanka,LK,Mohamed Fasal,['Rishad Mohamed Rasik'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+222,3334,1277,Venezuela vs Argentina,28.06.19,Copa America 2019,Venezuela,VE,J Moreno,['Johan Moreno'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+223,3342,1281,Venezuela vs Peru,15.06.19,Copa America 2019,Venezuela,VE,J Moreno,['Johan Moreno'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+224,3347,1283,Brazil vs Venezuela,19.06.19,Copa America 2019,Venezuela,VE,J Moreno,['Johan Moreno'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+225,3349,1284,Bolivia vs Venezuela,22.06.19,Copa America 2019,Venezuela,VE,J Moreno,['Johan Moreno'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+226,3413,2157,Somalia vs Zimbabwe,05-09-2019,"World Cup Qualifiers, Africa, 2022",Somalia,SO,A Sheikuna Mohamed,"['Mohamed Abukar Mohamed', 'Farhan Mohamed Ahmed']",2019,FAIL,TRUE,Name Confusion
+227,3414,2157,Somalia vs Zimbabwe,05-09-2019,"World Cup Qualifiers, Africa, 2022",Somalia,SO,A Ahmed,Said Ahmed Said,2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+228,3416,2157,Somalia vs Zimbabwe,05-09-2019,"World Cup Qualifiers, Africa, 2022",Somalia,SO,A Mohamed,"['Mohamed Abukar Mohamed', 'Farhan Mohamed Ahmed']",2019,FAIL,TRUE,Name Confusion
+229,3451,262,Iceland vs Croatia,26.06.18,World Cup 2018,Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2018,FAIL,TRUE,Name Confusion
+230,3510,296,Netherlands vs United States,03.12.22,World Cup 2022,United States,US,Mc Kennie,[‘Weston Mckennie’],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+231,3524,3702,Curaçao vs Mexico,17-07-2017,"Gold Cup, 2017",Mexico,MX,R López,['Rodrigo López'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+232,3543,3732,Panama vs Trinidad and Tobago,19-06-2019,"Gold Cup, 2019",Trinidad and Tobago,TT,K George,['Keston George'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+233,3547,3736,Trinidad and Tobago vs Guyana,27-06-2019,"Gold Cup, 2019",Trinidad and Tobago,TT,K George,['Keston George'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+234,3549,3737,United States vs Trinidad and Tobago,23-06-2019,"Gold Cup, 2019",Trinidad and Tobago,TT,K George,['Keston George'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+235,3553,2983,Estonia vs Cyprus,03-09-2017,"World Cup Qualifiers, Europe, 2018",Estonia,EE,H Anier,['Hannes Anier'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+236,3562,3010,Belgium vs Estonia,13-11-2016,"World Cup Qualifiers, Europe, 2018",Estonia,EE,H Anier,['Hannes Anier'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+237,3571,3272,Estonia vs Belarus,08-10-2021,"World Cup Qualifiers, Europe, 2022",Estonia,EE,H Anier,['Hannes Anier'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+238,3635,4258,Chile vs Venezuela,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+239,3651,4262,Venezuela vs Peru,10-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+240,3654,4263,Paraguay vs Argentina,10-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Fernández,Roberto Fernández,2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+241,3676,4266,Venezuela vs Paraguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+242,3684,4268,Paraguay vs Colombia,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Rojas,['José Rojas'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+243,3697,4269,Chile vs Ecuador,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2013,FAIL,TRUE,Name Confusion
+244,3707,4271,Uruguay vs Argentina,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Fernández,"['Federico Fernández', 'Augusto Fernández']",2013,FAIL,TRUE,Name Confusion
+245,3760,4280,Paraguay vs Argentina,13-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+246,3802,4287,Peru vs Paraguay,13-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+247,3809,4289,Venezuela vs Ecuador,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Rondón,"['Salomón Rondón', 'Mario Rondón']",2015,FAIL,TRUE,Name Confusion
+248,3810,4289,Venezuela vs Ecuador,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2015,FAIL,TRUE,Name Confusion
+249,3829,4293,Bolivia vs Colombia,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,"['Marvin Bejarano', 'Danny Bejarano']",2016,FAIL,TRUE,Name Confusion
+250,3831,4293,Bolivia vs Colombia,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+251,3842,4295,Chile vs Argentina,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Farid Díaz'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+252,3852,4298,Colombia vs Ecuador,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+253,3863,2735,Palestine vs Australia,21-11-2023,"World Cup Qualifiers, Asia, 2026",Palestine,PS,A Jaber,"[""Ala'a Abu Saleh""]",2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+254,3866,2742,Singapore vs Guam,12-10-2023,"World Cup Qualifiers, Asia, 2026",Singapore,SG,Z Suzliman,['Zulfadhmi Suzliman'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+255,3867,2744,Singapore vs Thailand,21-11-2023,"World Cup Qualifiers, Asia, 2026",Singapore,SG,S Sulaiman,['Safirul Sulaiman'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+256,3872,2748,Guam vs Singapore,17-10-2023,"World Cup Qualifiers, Asia, 2026",Singapore,SG,Z Suzliman,['Zulfadhmi Suzliman'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+257,3873,2749,Lebanon vs Palestine,16-11-2023,"World Cup Qualifiers, Asia, 2026",Palestine,PS,A Jaber,"[""Ala'a Abu Saleh""]",2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+258,3874,2750,Kuwait vs India,16-11-2023,"World Cup Qualifiers, Asia, 2026",India,IN,M Singh,"['Manvir Singh', 'Naorem Mahesh Singh']",2023,FAIL,TRUE,Name Confusion
+259,3876,2753,Pakistan vs Cambodia,17-10-2023,"World Cup Qualifiers, Asia, 2026",Pakistan,PK,Y Butt,['Yaqoob Butt'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+260,3881,2761,Pakistan vs Tajikistan,21-11-2023,"World Cup Qualifiers, Asia, 2026",Pakistan,PK,Y Butt,['Yaqoob Butt'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+261,3882,2763,Norway vs Iceland,15-10-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+262,3886,2764,Azerbaijan vs Northern Ireland,11-10-2013,"World Cup Qualifiers, Europe, 2014",Azerbaijan,AZ,R Dadaov,['Renat Dadashov'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+263,3887,2770,Finland vs Belarus,07-06-2013,"World Cup Qualifiers, Europe, 2014",Finland,FI,N Mäenpää,['Niilo Mäenpää'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+264,3888,2772,Slovenia vs Iceland,22-03-2013,"World Cup Qualifiers, Europe, 2014",Iceland,IS,H Halldórsson,['Hilmar Árni Halldórsson'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+265,3964,1188,Netherlands vs Ukraine,13.06.21,Euros 2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2021,FAIL,TRUE,Name Confusion
+266,3967,1190,Netherlands vs Austria,17.06.21,Euros 2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2021,FAIL,TRUE,Name Confusion
+267,3992,1746,Belgium vs Poland,08.06.22,Nations League 2022-2023,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2022,FAIL,TRUE,Name Confusion
+268,4045,451,Poland vs Scotland,14.10.14,"Euros 2016, Qualifiers",Scotland,SC,Martin,"['Russell Martin', 'Chris Martin']",2014,FAIL,TRUE,Name Confusion
+269,4047,464,Poland vs Gibraltar,07.09.15,"Euros 2016, Qualifiers",Gibraltar,GI,Casciaro,"['Kyle Casciaro', 'Lee Casciaro']",2015,FAIL,TRUE,Name Confusion
+270,4098,1351,Algeria vs Portugal,2016-08-10,"Olympics, 2016",Portugal,PT,Tiago Silva,['António Silva'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+271,4109,2099,Guinea vs Sudan,09-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,M Camara,"['Mohamed Camara', 'Mady Camara']",2021,FAIL,TRUE,Name Confusion
+272,4206,1368,Honduras vs Romania,2021-07-22,"Olympics, 2020",Romania,RO,Andrei Ciobanu,Andrei Ciobanu,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+273,4207,1368,Honduras vs Romania,2021-07-22,"Olympics, 2020",Romania,RO,George Ganea,['Gheorghe Grozav'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+274,4208,1370,Romania vs South Korea,2021-07-25,"Olympics, 2020",Romania,RO,Andrei Ciobanu,Andrei Ciobanu,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+275,4209,1370,Romania vs South Korea,2021-07-25,"Olympics, 2020",Romania,RO,George Ganea,['Gheorghe Grozav'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+276,4214,1381,Brazil vs Ivory Coast,2021-07-25,"Olympics, 2020",Ivory Coast,CI,Zié Ouattara,['Soualio Dabila Ouattara'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+277,4225,2710,Maldives vs Bangladesh,12-10-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,FAIL,TRUE,Name Confusion
+278,4229,2719,Bhutan vs Hong Kong,17-10-2023,"World Cup Qualifiers, Asia, 2026",Bhutan,BT,T Dorji,"['Tenzin Dorji', 'Tsenda Dorji']",2023,FAIL,TRUE,Name Confusion
+279,4232,2725,Nepal vs Laos,12-10-2023,"World Cup Qualifiers, Asia, 2026",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2023,FAIL,TRUE,Name Confusion
+280,4236,4200,Ecuador vs Venezuela,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+281,4247,4218,Argentina vs Ecuador,02-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,"['Wálter Ayoví', 'Jaime Ayoví']",2012,FAIL,TRUE,Name Confusion
+282,4254,4227,Peru vs Venezuela,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+283,4255,4227,Peru vs Venezuela,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+284,4259,4236,Bolivia vs Uruguay,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2012,FAIL,TRUE,Name Confusion
+285,4261,4239,Chile vs Argentina,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Gonzalez,"['Mark González', 'Marcos González']",2012,FAIL,TRUE,Name Confusion
+286,4267,3997,Canada vs Dominica,16-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Joseph,"['Malcolm Joseph', 'Travist Joseph']",2015,FAIL,TRUE,Name Confusion
+287,4269,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López', 'Henry López']",2015,FAIL,TRUE,Name Confusion
+288,4270,4011,Guatemala vs Trinidad and Tobago,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,"['Minor López', 'Dennis López', 'Hamilton López', 'Henry López']",2015,FAIL,TRUE,Name Confusion
+289,4274,4015,Jamaica vs Panama,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2015,FAIL,TRUE,Name Confusion
+290,4282,4022,Saint Vincent and the Grenadines vs Trinidad and Tobago,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Samuel,"['Shandel Samuel', 'Myron Samuel']",2016,FAIL,TRUE,Name Confusion
+291,4295,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+292,4296,4039,Panama vs Jamaica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+293,4306,4451,Bolivia vs Brazil,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2022,FAIL,TRUE,Name Confusion
+294,4332,2218,Niger vs Zambia,21-11-2023,"World Cup Qualifiers, Africa, 2026",Niger,NE,A Moumouni,"['Abdoul Madjid Moumouni', 'Abdoul Moumouni']",2023,FAIL,TRUE,Name Confusion
+295,4334,4254,Venezuela vs Uruguay,11-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2013,FAIL,TRUE,Name Confusion
+296,4337,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2013,FAIL,TRUE,Name Confusion
+297,4347,4275,Venezuela vs Paraguay,08-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,FAIL,TRUE,Name Confusion
+298,4349,4280,Paraguay vs Argentina,13-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,FAIL,TRUE,Name Confusion
+299,4350,4283,Ecuador vs Uruguay,12-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2015,FAIL,TRUE,Name Confusion
+300,4351,4287,Peru vs Paraguay,13-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,FAIL,TRUE,Name Confusion
+301,4353,4290,Uruguay vs Chile,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Pereira,"['Álvaro Pereira', 'Maximiliano Pereira']",2015,FAIL,TRUE,Name Confusion
+302,4354,4291,Paraguay vs Bolivia,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Silva,"['Antony Silva', 'Paulo da Silva']",2015,FAIL,TRUE,Name Confusion
+303,4367,2740,Bangladesh vs Lebanon,21-11-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,FAIL,TRUE,Name Confusion
+304,4372,2756,Bangladesh vs Maldives,17-10-2023,"World Cup Qualifiers, Asia, 2026",Bangladesh,BD,Sohel Rana,"['Sohel Rana', 'Md Sohel Rana']",2023,FAIL,TRUE,Name Confusion
+305,4373,609,Albania vs Serbia,08.10.15,"Euros 2016, Qualifiers",Serbia,RS,Tosic,"['Dusko Tosic', 'Zoran Tosic']",2015,FAIL,TRUE,Name Confusion
+306,4375,617,Hungary vs Iceland,12.11.20,"Euros 2020, Qualifiers",Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2020,FAIL,TRUE,Name Confusion
+307,4382,1747,Wales vs Netherlands,08.06.22,Nations League 2022-2023,Wales,WA,Davies,"['Ben Davies', 'Adam Davies']",2022,FAIL,TRUE,Name Confusion
+308,4388,444,Germany vs Scotland,07.09.14,"Euros 2016, Qualifiers",Scotland,SC,Fletcher,"['Darren Fletcher', 'Steven Fletcher']",2014,FAIL,TRUE,Name Confusion
+309,4389,466,Scotland vs Germany,07.09.15,"Euros 2016, Qualifiers",Scotland,SC,Martin,"['Russell Martin', 'Chris Martin']",2015,FAIL,TRUE,Name Confusion
+310,4393,2377,Malaysia vs Palestine,16-06-2015,"World Cup Qualifiers, Asia, 2018",Malaysia,MY,Sa,"['Safiq Rahim', 'Safee Sali', 'Safee Sali']",2015,FAIL,TRUE,Name Confusion
+311,4394,2384,Cambodia vs Syria,08-09-2015,"World Cup Qualifiers, Asia, 2018",Cambodia,KH,Sos Suhana,"['Souhana Sos', 'Sok Sovan']",2015,FAIL,TRUE,Name Confusion
+312,4406,1395,Portugal vs Netherlands,09.06.19,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2019,FAIL,TRUE,Name Confusion
+313,4408,1399,France vs Netherlands,09.09.18,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2018,FAIL,TRUE,Name Confusion
+314,4411,1403,Germany vs Netherlands,19.11.18,Nations League 2018-2020,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2018,FAIL,TRUE,Name Confusion
+315,4412,1405,Iceland vs Belgium,11.09.18,Nations League 2018-2020,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,FAIL,TRUE,Name Confusion
+316,4413,1406,Belgium vs Switzerland,12.10.18,Nations League 2018-2020,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,FAIL,TRUE,Name Confusion
+317,4414,1407,Iceland vs Switzerland,15.10.18,Nations League 2018-2020,Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2018,FAIL,TRUE,Name Confusion
+318,4415,1059,Andorra vs Belarus,09.09.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,FAIL,TRUE,Name Confusion
+319,4419,1071,Belarus vs Andorra,18.11.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,FAIL,TRUE,Name Confusion
+320,4421,2327,Qatar vs China PR,05-09-2017,"World Cup Qualifiers, Asia, 2018",Qatar,QA,Abdulkarim Salem,"['Abdulkareem Salem Al-Ali', 'Abdelkarim Hassan']",2017,FAIL,TRUE,Name Confusion
+321,4455,4070,USA vs Panama,06-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Torres,"['Román Torres', 'Gaby Torres']",2017,FAIL,TRUE,Name Confusion
+322,4461,4075,Trinidad and Tobago vs USA,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Jones,"['Joevin Jones', 'Alvin Jones']",2017,FAIL,TRUE,Name Confusion
+323,4470,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+324,4471,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,FAIL,TRUE,Name Confusion
+325,4472,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,FAIL,TRUE,Name Confusion
+326,4475,4088,Panama vs Barbados,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Panama,PA,Murillo,"['Amir Murillo', 'José Murillo']",2021,FAIL,TRUE,Name Confusion
+327,4477,4089,Anguilla vs Dominican Republic,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+328,4484,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,FAIL,TRUE,Name Confusion
+329,4485,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+330,4486,4098,Puerto Rico vs Trinidad and Tobago,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Rivera,"['Ricardo Rivera', 'Sidney Rivera', 'Wilfredo Rivera']",2021,FAIL,TRUE,Name Confusion
+331,4491,4100,Cayman Islands vs Canada,29-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,FAIL,TRUE,Name Confusion
+332,4492,4100,Cayman Islands vs Canada,29-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,FAIL,TRUE,Name Confusion
+333,4501,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,FAIL,TRUE,Name Confusion
+334,4502,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Mark Ebanks', 'Jonah Ebanks', 'Trey Ebanks']",2021,FAIL,TRUE,Name Confusion
+335,4505,4113,Antigua and Barbuda vs Grenada,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Grenada,GD,German,"['Antonio German', 'Ricardo German']",2021,FAIL,TRUE,Name Confusion
+336,4508,4120,Bahamas vs Trinidad and Tobago,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Julmis,"['Evelt Julmis', 'Peter Julmis']",2021,FAIL,TRUE,Name Confusion
+337,4528,4134,Bermuda vs Cayman Islands,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bermuda,BM,Bell,"['Detre Bell', 'Justin Bell']",2021,FAIL,TRUE,Name Confusion
+338,4531,4136,Panama vs Dominican Republic,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+339,4541,4401,Uruguay vs Bolivia,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,FAIL,TRUE,Name Confusion
+340,4542,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+341,4543,4404,Paraguay vs Venezuela,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+342,4545,4406,Argentina vs Bolivia,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+343,4547,4406,Argentina vs Bolivia,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,FAIL,TRUE,Name Confusion
+344,4553,4412,Paraguay vs Argentina,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+345,4554,4414,Venezuela vs Ecuador,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,FAIL,TRUE,Name Confusion
+346,4557,4416,Argentina vs Uruguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+347,4558,4416,Argentina vs Uruguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+348,4560,4418,Colombia vs Ecuador,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2021,FAIL,TRUE,Name Confusion
+349,4564,4419,Bolivia vs Paraguay,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+350,4565,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+351,4566,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+352,4567,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Moisés Caicedo', 'Jordy Caicedo']",2021,FAIL,TRUE,Name Confusion
+353,4569,4423,Ecuador vs Venezuela,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Hurtado,"['Jan Hurtado', 'Brayan Hurtado']",2021,FAIL,TRUE,Name Confusion
+354,4570,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+355,4571,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Rojas,"['Robert Rojas', 'Matías Rojas']",2021,FAIL,TRUE,Name Confusion
+356,4574,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+357,4575,4427,Uruguay vs Argentina,12-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+358,4578,4431,Argentina vs Brazil,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+359,4579,4431,Argentina vs Brazil,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+360,4581,4433,Ecuador vs Brazil,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Preciado,"['Ayrton Preciado', 'Angelo Preciado']",2022,FAIL,TRUE,Name Confusion
+361,4582,4434,Paraguay vs Uruguay,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,FAIL,TRUE,Name Confusion
+362,4583,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+363,4588,4438,Bolivia vs Chile,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+364,4589,4439,Uruguay vs Venezuela,01-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,FAIL,TRUE,Name Confusion
+365,4596,4444,Uruguay vs Peru,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,"['Luis Suárez', 'Damián Suárez']",2022,FAIL,TRUE,Name Confusion
+366,4597,4445,Brazil vs Chile,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+367,4599,4447,Argentina vs Venezuela,25-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Correa,"['Ángel Correa', 'Joaquín Correa']",2022,FAIL,TRUE,Name Confusion
+368,4601,4447,Argentina vs Venezuela,25-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+369,4602,4448,Peru vs Paraguay,29-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2022,FAIL,TRUE,Name Confusion
+370,4616,2606,Malaysia vs United Arab Emirates,10-09-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syahmi Safari', 'Syamer Kutty', 'Syafiq Ahmad']",2019,FAIL,TRUE,Name Confusion
+371,4617,2611,Indonesia vs Malaysia,5-9-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syamer Kutty', 'Syafiq Ahmad']",2019,FAIL,TRUE,Name Confusion
+372,4621,316,Argentina vs Saudi Arabia,22.11.22,World Cup 2022,Argentina,AR,L Martínez,"['Lautaro Martínez', 'Lisandro Martínez']",2022,FAIL,TRUE,Name Confusion
+373,4626,350,South Korea vs Portugal,02.12.22,World Cup 2022,Portugal,PT,A Silva,"['André Silva', 'António Silva']",2022,FAIL,TRUE,Name Confusion
+374,4638,4356,Chile vs Ecuador,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2017,FAIL,TRUE,Name Confusion
+375,4646,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Rodríguez,"['Jonathan Rodríguez', 'Brian Rodríguez']",2020,FAIL,TRUE,Name Confusion
+376,4647,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+377,4648,4365,Uruguay vs Chile,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+378,4649,4366,Argentina vs Ecuador,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Ibarra,"['Renato Ibarra', 'Romario Ibarra']",2020,FAIL,TRUE,Name Confusion
+379,4653,4370,Ecuador vs Uruguay,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,Rodríguez,"['Jonathan Rodríguez', 'Brian Rodríguez']",2020,FAIL,TRUE,Name Confusion
+380,4654,4373,Chile vs Colombia,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+381,4656,4375,Argentina vs Paraguay,12-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Rojas,"['Robert Rojas', 'Rodrigo Rojas']",2020,FAIL,TRUE,Name Confusion
+382,4657,4377,Chile vs Peru,13-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+383,4659,4380,Venezuela vs Chile,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Díaz,['Luis Díaz'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+384,4662,4384,Bolivia vs Venezuela,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,"['Ramiro Vaca', 'Henry Vaca']",2021,FAIL,TRUE,Name Confusion
+385,4665,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+386,4666,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+387,4671,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+388,4672,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+389,4673,4392,Paraguay vs Brazil,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2021,FAIL,TRUE,Name Confusion
+390,4677,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+391,4678,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Argentina,AR,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+392,4682,1898,Sierra Leone vs Equatorial Guinea,07-09-2013,"World Cup Qualifiers, Africa, 2014",Sierra Leone,SL,M Bangura,['Mohamed Bangura'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+393,4689,2539,Nepal vs Jordan,07-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,FAIL,TRUE,Name Confusion
+394,4690,2546,India vs Bangladesh,15-10-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,R Hasan,"['Raihan Hasan', 'Robiul Hasan', 'Riyadul Hasan Rafi', 'Riyadul Hasan Rafi']",2019,FAIL,TRUE,Name Confusion
+395,4691,2571,Qatar vs Bangladesh,04-12-2020,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,M Ra,['Monaem Raju Khan'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+396,4695,895,Spain vs Georgia,19.11.23,"Euros 2024, Qualifiers",Georgia,GE,Lochoschvili,"['Luka Lochoshvili', 'Giorgi Gocholeishvili']",2023,FAIL,TRUE,Name Confusion
+397,4700,3947,Honduras vs Jamaica,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,FAIL,TRUE,Name Confusion
+398,4703,3948,USA vs Panama,11-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"['Román Torres', 'Gaby Torres']",2013,FAIL,TRUE,Name Confusion
+399,4707,3950,Costa Rica vs Panama,18-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"['Román Torres', 'Gaby Torres']",2013,FAIL,TRUE,Name Confusion
+400,4710,3952,Mexico vs Honduras,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,FAIL,TRUE,Name Confusion
+401,4711,3952,Mexico vs Honduras,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,"['Wilson Palacios', 'Jerry Palacios']",2013,FAIL,TRUE,Name Confusion
+402,4712,3953,Panama vs Jamaica,06-Sep-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,FAIL,TRUE,Name Confusion
+403,4720,3957,Honduras vs Costa Rica,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2013,FAIL,TRUE,Name Confusion
+404,4722,3959,Mexico vs Panama,11-Oct-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"['Román Torres', 'Gaby Torres']",2013,FAIL,TRUE,Name Confusion
+405,4730,3978,Nicaragua vs Suriname,7-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Nicaragua,NI,Lopez,Marlon Lopez,2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+406,4731,3984,Dominica vs Canada,11-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Prince,"['Glenson Prince', 'Hubert Prince', 'Joslyn Prince']",2015,FAIL,TRUE,Name Confusion
+407,4732,1541,Netherlands vs Poland,04.09.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,FAIL,TRUE,Name Confusion
+408,4733,1543,Netherlands vs Italy,07.09.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,FAIL,TRUE,Name Confusion
+409,4740,1552,Poland vs Netherlands,18.11.20,Nations League 2020-2021,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2020,FAIL,TRUE,Name Confusion
+410,4741,3909,Cuba vs Honduras,07-Sep-12,"World Cup 2014, Qualifiers, CONCACAF",Cuba,CU,Colomé,"['Yoel Colomé', 'Jaime Colomé']",2012,FAIL,TRUE,Name Confusion
+411,4743,3927,Honduras vs Canada,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,García,"['Juan Carlos García', 'Boniek García']",2012,FAIL,TRUE,Name Confusion
+412,4744,3929,USA vs Guatemala,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Guatemala,GT,López,"['Jonathan López', 'Minor López']",2012,FAIL,TRUE,Name Confusion
+413,4748,3935,Panama vs Costa Rica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Torres,"['Román Torres', 'Gaby Torres']",2013,FAIL,TRUE,Name Confusion
+414,4749,3935,Panama vs Costa Rica,06-Feb-13,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Henriquez,"['Luis Henríquez', 'Amílcar Henríquez']",2013,FAIL,TRUE,Name Confusion
+415,4761,3943,Costa Rica vs Honduras,07-Jun-13,"World Cup 2014, Qualifiers, CONCACAF",Honduras,HN,Palacios,"['Wilson Palacios', 'Jerry Palacios']",2013,FAIL,TRUE,Name Confusion
+416,4762,373,Turkey vs Latvia,03.09.15,"Euros 2016, Qualifiers",Latvia,LV,Visnakovs,"['Aleksejs Visnakovs', 'Eduards Visnakovs']",2015,FAIL,TRUE,Name Confusion
+417,4763,380,Latvia vs Kazakhstan,13.10.15,"Euros 2016, Qualifiers",Latvia,LV,Visnakovs,"['Aleksejs Visnakovs', 'Eduards Visnakovs']",2015,FAIL,TRUE,Name Confusion
+418,4774,1049,Andorra vs Romania,25.03.23,"Euros 2024, Qualifiers",Andorra,AD,Vales,"['Marc Vales', 'Eric Vales']",2023,FAIL,TRUE,Name Confusion
+419,4791,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+420,4792,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+421,4796,4311,Brazil vs Colombia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,['Érick Torres'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+422,4807,4319,Bolivia vs Ecuador,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,FAIL,TRUE,Name Confusion
+423,4810,4321,Argentina vs Paraguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2016,FAIL,TRUE,Name Confusion
+424,4813,4326,Paraguay vs Peru,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Romero,"['Óscar Romero', 'Ángel Romero']",2016,FAIL,TRUE,Name Confusion
+425,4816,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,FAIL,TRUE,Name Confusion
+426,4820,4333,Colombia vs Bolivia,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Zapata,"['Cristián Zapata', 'Duván Zapata']",2017,FAIL,TRUE,Name Confusion
+427,4825,728,Spain vs Norway,23.03.19,"Euros 2020, Qualifiers",Norway,NO,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",2019,FAIL,TRUE,Name Confusion
+428,4830,1771,Iceland vs Albania,06.06.22,Nations League 2022-2023,Iceland,IS,Gudjohnsen,"['Sveinn-Aron Gudjohnsen', 'Andri Gudjohnsen']",2022,FAIL,TRUE,Name Confusion
+429,4832,1775,Iceland vs Israel,13.06.22,Nations League 2022-2023,Iceland,IS,Gudjohnsen,"['Sveinn-Aron Gudjohnsen', 'Andri Gudjohnsen']",2022,FAIL,TRUE,Name Confusion
+430,4838,2636,Vietnam vs Malaysia,10-10-2019,"World Cup Qualifiers, Asia, 2022",Malaysia,MY,Sya,"['Syahmi Safari', 'Syafiq Ahmad']",2019,FAIL,TRUE,Name Confusion
+431,4842,4148,Costa Rica vs Mexico,05-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+432,4844,4154,Panama vs Mexico,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+433,4849,4166,El Salvador vs Mexico,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+434,4850,4166,El Salvador vs Mexico,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Rodríguez,Pablo Rodríguez,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+435,4851,4169,El Salvador vs Jamaica,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+436,4852,4174,Panama vs El Salvador,16-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+437,4853,4177,Honduras vs Canada,27-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Kevin López']",2022,FAIL,TRUE,Name Confusion
+438,4856,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,López,"['Luis López', 'Alexander López', 'Kevin López']",2022,FAIL,TRUE,Name Confusion
+439,4857,4196,Costa Rica vs USA,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Costa Rica,CR,Martínez,"['Alonso Martínez', 'Carlos Martínez']",2022,FAIL,TRUE,Name Confusion
+440,4873,2488,Nepal vs Chinese Taipei,03-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,FAIL,TRUE,Name Confusion
+441,4874,2502,Oman vs Bangladesh,14-11-2019,"World Cup Qualifiers, Asia, 2022",Bangladesh,BD,R Hasan,"['Raihan Hasan', 'Robiul Hasan', 'Riyadul Hasan Rafi', 'Riyadul Hasan Rafi']",2019,FAIL,TRUE,Name Confusion
+442,4876,2516,Nepal vs Australia,11-06-2021,"World Cup Qualifiers, Asia, 2022",Nepal,NP,A Bista,"['Anjan Bista', 'Arik Bista']",2021,FAIL,TRUE,Name Confusion
+443,4880,275,Belgium vs Panama,18.06.18,World Cup 2018,Belgium,BE,Hazard,"['Eden Hazard', 'Thorgan Hazard']",2018,FAIL,TRUE,Name Confusion
+444,4887,293,Netherlands vs Argentina,09.12.22,World Cup 2022,Netherlands,NL,de Jong,"['Luuk de Jong', 'Frenkie de Jong']",2022,FAIL,TRUE,Name Confusion
+445,4928,1010,Hungary vs Serbia,14.10.23,"Euros 2024, Qualifiers",Serbia,RS,Terzić,['Nikola Terzic'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+446,4929,1638,Cyprus vs Montenegro,05.09.20,Nations League 2020-2021,Montenegro,ME,Boljević,['Vladimir Boljevic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+447,4930,1639,Luxembourg vs Montenegro,08.09.20,Nations League 2020-2021,Montenegro,ME,Boljević,['Vladimir Boljevic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+448,4931,1642,Montenegro vs Azerbaijan,10.10.20,Nations League 2020-2021,Montenegro,ME,Boljević,['Vladimir Boljevic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+449,4932,1648,Montenegro vs Cyprus,17.11.20,Nations League 2020-2021,Montenegro,ME,Boljević,['Vladimir Boljevic'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+450,4938,1796,Sweden vs Serbia,09.06.22,Nations League 2022-2023,Serbia,RS,Terzić,['Nikola Terzic'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+451,4941,18,Myanmar U-20 vs Ukraine U-20,02.06.15,"U-20 World Cup, 2015",Myanmar,MM,Tiha Htet Aung,['Than Htet Aung'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+452,4947,571,Norway vs Bulgaria,13.10.14,"Euros 2016, Qualifiers",Bulgaria,BG,Minev,"['Veselin Minev', 'Yordan Minev']",2014,FAIL,TRUE,Name Confusion
+453,4950,572,Azerbaijan vs Norway,16.11.14,"Euros 2016, Qualifiers",Azerbaijan,AZ,R Sadygov,['Rahim Sadykhov'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+454,4968,639,Montenegro vs Bulgaria,11.10.19,"Euros 2020, Qualifiers",Montenegro,ME,Boljević,['Vladimir Boljevic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+455,4969,641,Kosovo vs Montenegro,14.10.19,"Euros 2020, Qualifiers",Montenegro,ME,Boljević,['Vladimir Boljevic'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+456,4970,405,Bosnia-Herzegovina vs Andorra,06.09.15,"Euros 2016, Qualifiers",Bosnia,BA,Ibishevich,['Elvir Ibisevic'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+457,4980,477,Lithuania vs Estonia,09.10.14,"Euros 2016, Qualifiers",Lithuania,LT,Punk,['Ignas Plukas'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+458,4984,479,Estonia vs England,12.10.14,"Euros 2016, Qualifiers",Estonia,EE,Vasilyev,['Nikita Vassiljev'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+459,4986,480,Lithuania vs Slovenia,12.10.14,"Euros 2016, Qualifiers",Lithuania,LT,Punk,['Ignas Plukas'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+460,4992,481,San Marino vs Switzerland,14.10.14,"Euros 2016, Qualifiers",San Marino,SM,Gasperoni,"['Alex Gasperoni', 'Lorenzo Gasperoni']",2014,FAIL,TRUE,Name Confusion
+461,4995,359,Kazakhstan vs Czech,13.10.14,"Euros 2016, Qualifiers",Czech,CZ,Kolář,['Ondrej Kolar'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+462,4996,360,Iceland vs Netherlands,13.10.14,"Euros 2016, Qualifiers",Iceland,IS,Haldorsson,['Hilmar Árni Halldórsson'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+463,4998,360,Iceland vs Netherlands,13.10.14,"Euros 2016, Qualifiers",Iceland,IS,Bjarnason,"['Birkir Bjarnason', 'Elmar Bjarnason']",2014,FAIL,TRUE,Name Confusion
+464,5007,363,Czech vs Iceland,16.11.14,"Euros 2016, Qualifiers",Iceland,IS,Haldorsson,['Hilmar Árni Halldórsson'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+465,5015,499,Switzerland vs San Marino,09.10.15,"Euros 2016, Qualifiers",San Marino,SM,Vitaioli,"['Fabio Vitaioli', 'Matteo Vitaioli']",2015,FAIL,TRUE,Name Confusion
+466,5021,1434,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Nations League 2018-2020,Bosnia,BA,Sarić,['Dario Saric'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+467,5022,1435,Bosnia-Herzegovina vs Austria,11.09.18,Nations League 2018-2020,Bosnia,BA,Sarić,['Dario Saric'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+468,5023,1437,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Nations League 2018-2020,Bosnia,BA,Vranješ,['Stojan Vranjes'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+469,5024,1437,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Nations League 2018-2020,Bosnia,BA,Sarić,['Dario Saric'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+470,5025,1438,Austria vs Bosnia-Herzegovina,15.11.18,Nations League 2018-2020,Bosnia,BA,Vranješ,['Stojan Vranjes'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+471,5026,1438,Austria vs Bosnia-Herzegovina,15.11.18,Nations League 2018-2020,Bosnia,BA,Sarić,['Dario Saric'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+472,5029,1404,Switzerland vs Iceland,08.09.18,Nations League 2018-2020,Iceland,IS,Palsson,['Emil Pálsson'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+473,5035,508,Northern Ireland vs Faroe Islands,11.10.14,"Euros 2016, Qualifiers",North. Ireland,NI,Mc Laughlin,Connor McLaughlin,2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+474,5038,56,Colombia U-20 vs Ukraine U-20,07.06.19,U-20 World Cup 2019,Colombia,CO,Angulo,['Álvaro Angulo'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+475,5039,57,Italy U-20 vs Mali U-20,07.06.19,U-20 World Cup 2019,Mali,ML,Diaby,Abdoulaye Diaby,2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+476,5041,59,South Korea U-20 vs Senegal U-20,08.06.19,U-20 World Cup 2019,Senegal,SN,Dionku,['Daouda Diongue'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+477,5048,508,Northern Ireland vs Faroe Islands,11.10.14,"Euros 2016, Qualifiers",Faroe Islands,FO,Edmundson,['Andrias Edmundsson'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+478,5052,509,Faroe Islands vs Hungary,14.10.14,"Euros 2016, Qualifiers",Faroe Islands,FO,Edmundson,['Andrias Edmundsson'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+479,5053,509,Faroe Islands vs Hungary,14.10.14,"Euros 2016, Qualifiers",Faroe Islands,FO,Vanhamar,['Gunnar Vatnhamar'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+480,5061,511,Greece vs Northern Ireland,14.10.14,"Euros 2016, Qualifiers",North. Ireland,NI,Mc Laughlin,Connor McLaughlin,2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+481,5067,521,Faroe Islands vs Northern Ireland,04.09.15,"Euros 2016, Qualifiers",Faroe Islands,FO,Edmundson,['Andrias Edmundsson'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+482,5068,521,Faroe Islands vs Northern Ireland,04.09.15,"Euros 2016, Qualifiers",Faroe Islands,FO,Vanhamar,['Gunnar Vatnhamar'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+483,5069,521,Faroe Islands vs Northern Ireland,04.09.15,"Euros 2016, Qualifiers",North. Ireland,NI,Mc Laughlin,Connor McLaughlin,2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+484,5070,4222,Uruguay vs Peru,10-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+485,5076,1237,Brazil vs Venezuela,22.06.15,Copa America 2015,Venezuela,VE,Tunez,['Andres Tunez'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+486,5081,606,Serbia vs Armenia,04.09.15,"Euros 2016, Qualifiers",Serbia,RS,"['Djordje Ivanovic', 'Branislav Ivanovic']",['Djordje Ivanovic'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+487,5098,525,Northern Ireland vs Hungary,07.09.15,"Euros 2016, Qualifiers",North. Ireland,NI,Mc Laughlin,Connor McLaughlin,2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+488,5100,527,Hungary vs Faroe Islands,08.10.15,"Euros 2016, Qualifiers",Faroe Islands,FO,Vanhamar,['Gunnar Vatnhamar'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+489,5101,527,Hungary vs Faroe Islands,08.10.15,"Euros 2016, Qualifiers",Faroe Islands,FO,Jacobsen,['Lars Jacobsen'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+490,5103,219,South Korea vs Algeria,22.06.14,World Cup 2014,Algeria,DZ,Boogerra,['Aimen Bouguerra'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+491,5107,276,Tunisia vs England,18.06.18,World Cup 2018,Tunisia,TN,Maalul,['Mohamed Hedi Gaaloul'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+492,5108,277,Belgium vs Tunisia,23.06.18,World Cup 2018,Tunisia,TN,Maalul,['Mohamed Hedi Gaaloul'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+493,5109,1480,Lithuania vs Romania,11.10.18,Nations League 2018-2020,Romania,RO,Tamás,['Andrei Dumitras'],2018,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+494,5116,387,Wales vs Bosnia-Herzegovina,10.10.14,"Euros 2016, Qualifiers",Bosnia,BA,Ibishevich,['Elvir Ibisevic'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+495,5122,390,Wales vs Cyprus,13.10.14,"Euros 2016, Qualifiers",Wales,WA,Taylor,"['Neil Taylor', 'Jake Taylor']",2014,FAIL,TRUE,Name Confusion
+496,5125,199,France vs Honduras,15.06.14,World Cup 2014,Honduras,HN,Bernardez,['Victor Bernardez'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+497,5126,201,Honduras vs Ecuador,21.06.14,World Cup 2014,Honduras,HN,Bernardez,['Victor Bernardez'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+498,5127,202,Honduras vs Switzerland,25.06.14,World Cup 2014,Honduras,HN,Bernardez,['Victor Bernardez'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+499,5137,216,Belgium vs Algeria,17.06.14,World Cup 2014,Algeria,DZ,Boogerra,['Aimen Bouguerra'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+500,5145,467,Georgia vs Gibraltar,08.10.15,"Euros 2016, Qualifiers",Gibraltar,GI,Perez,"['Brian Perez', 'Jordan Perez']",2015,FAIL,TRUE,Name Confusion
+501,5147,468,Ireland vs Germany,08.10.15,"Euros 2016, Qualifiers",Ireland,IE,Kyogh,['Andy Keogh'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+502,5149,471,Gibraltar vs Scotland,11.10.15,"Euros 2016, Qualifiers",Gibraltar,GI,Duarte,"['Daniel Duarte', 'John-Paul Duarte']",2015,FAIL,TRUE,Name Confusion
+503,5151,472,Poland vs Ireland,11.10.15,"Euros 2016, Qualifiers",Ireland,IE,Kyogh,['Andy Keogh'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+504,5156,417,North Macedonia vs Luxembourg,09.10.14,"Euros 2016, Qualifiers",N. Macedonia,MK,Ristowski,['Milan Ristovski'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+505,5172,447,Scotland vs Georgia,11.10.14,"Euros 2016, Qualifiers",Scotland,SC,Martin,"['Russell Martin', 'Chris Martin']",2014,FAIL,TRUE,Name Confusion
+506,5180,450,Gibraltar vs Georgia,14.10.14,"Euros 2016, Qualifiers",Gibraltar,GI,Garcia,['Emili Garcia'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+507,5186,374,Latvia vs Czech,06.09.15,"Euros 2016, Qualifiers",Czech,CZ,Kolář,['Ondrej Kolar'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+508,5209,595,Armenia vs Serbia,11.10.14,"Euros 2016, Qualifiers",Serbia,RS,"['Djordje Ivanovic', 'Branislav Ivanovic']",['Djordje Ivanovic'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+509,5217,602,Portugal vs Serbia,29.03.15,"Euros 2016, Qualifiers",Serbia,RS,"['Djordje Ivanovic', 'Branislav Ivanovic']",['Djordje Ivanovic'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+510,5218,602,Portugal vs Serbia,29.03.15,"Euros 2016, Qualifiers",Serbia,RS,"['Nemanja Petrovic', 'Radosav Petrovic']",['Nemanja Petrovic'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+511,5227,431,Luxembourg vs North Macedonia,05.09.15,"Euros 2016, Qualifiers",N. Macedonia,MK,Ristowski,['Milan Ristovski'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+512,5234,530,Faroe Islands vs Romania,11.10.15,"Euros 2016, Qualifiers",Faroe Islands,FO,Vanhamar,['Gunnar Vatnhamar'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+513,5245,852,Finland vs Bosnia-Herzegovina,08.06.19,"Euros 2020, Qualifiers",Bosnia,BA,Sarić,['Dario Saric'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+514,5246,855,Italy vs Bosnia-Herzegovina,11.06.19,"Euros 2020, Qualifiers",Bosnia,BA,Sarić,['Dario Saric'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+515,5247,356,Latvia vs Iceland,10.10.14,"Euros 2016, Qualifiers",Iceland,IS,Haldorsson,['Hilmar Árni Halldórsson'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+516,5251,177,Cameroon vs Croatia,19.06.14,World Cup 2014,Cameroon,CM,Abubakar,['Aboubakar Oumarou'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+517,5252,178,Cameroon vs Brazil,23.06.14,World Cup 2014,Cameroon,CM,Abubakar,['Aboubakar Oumarou'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+518,5253,181,Chile vs Australia,14.06.14,World Cup 2014,Australia,AU,Franžič,['Tyrese Francois'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+519,5254,184,Australia vs Spain,23.06.14,World Cup 2014,Spain,ES,Vilya,['Gonzalo Villar'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+520,5258,390,Wales vs Cyprus,13.10.14,"Euros 2016, Qualifiers",Cyprus,CY,Sotiriu,['Konstantinos Sotiriou'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+521,5275,4114,Guatemala vs Saint Vincent and the Grenadines,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Guatemala,GT,Santís,"['Oscar Santis', 'Óscar Santis']",2021,FAIL,TRUE,Name Confusion
+522,5276,4132,Curaçao vs Guatemala,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Guatemala,GT,Santís,"['Oscar Santis', 'Óscar Santis']",2021,FAIL,TRUE,Name Confusion
+523,5277,4407,Brazil vs Peru,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+524,5278,4415,Bolivia vs Peru,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+525,5279,4421,Argentina vs Peru,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+526,5280,4425,Peru vs Bolivia,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+527,5281,4372,Peru vs Brazil,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Peru,PE,Gonzáles,['Jairsinho Gonzales'],2020,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+528,5282,864,Bosnia-Herzegovina vs Finland,12.10.19,"Euros 2020, Qualifiers",Bosnia,BA,Sarić,['Dario Saric'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+529,5283,868,Greece vs Bosnia-Herzegovina,15.10.19,"Euros 2020, Qualifiers",Bosnia,BA,Sarić,['Dario Saric'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+530,5284,875,Liechtenstein vs Bosnia-Herzegovina,18.11.19,"Euros 2020, Qualifiers",Bosnia,BA,Sarić,['Dario Saric'],2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+531,5291,483,San Marino vs Estonia,15.11.14,"Euros 2016, Qualifiers",Estonia,EE,Vasilyev,['Nikita Vassiljev'],2014,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+532,5293,491,Estonia vs Lithuania,05.09.15,"Euros 2016, Qualifiers",Estonia,EE,Vasilyev,['Nikita Vassiljev'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+533,5294,491,Estonia vs Lithuania,05.09.15,"Euros 2016, Qualifiers",Estonia,EE,Purier,['Eino Puri'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+534,5298,493,Switzerland vs Slovenia,05.09.15,"Euros 2016, Qualifiers",Slovenia,SI,Handanović,['Jasmin Handanovic'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+535,5321,569,Croatia vs Azerbaijan,13.10.14,"Euros 2016, Qualifiers",Azerbaijan,AZ,Huseynov,"['Badavi Hüseynov', 'Cavid Hüseynov']",2014,FAIL,TRUE,Name Confusion
+536,5326,3134,Norway vs Azerbaijan,01-09-2017,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+537,5327,3143,Azerbaijan vs Northern Ireland,10-06-2017,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+538,5328,4198,Jamaica vs Honduras,30-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+539,5330,4200,Ecuador vs Venezuela,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Lucena,['Ronaldo Lucena'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+540,5331,4201,Uruguay vs Bolivia,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Cáceres,['Sebastián Cáceres'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+541,5332,4201,Uruguay vs Bolivia,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,['Mathías Suárez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+542,5335,4202,Argentina vs Chile,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Christian Bravo'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+543,5336,4202,Argentina vs Chile,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Jara,['Ignacio Jara'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+544,5337,4202,Argentina vs Chile,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Fernández,['Ronnie Fernández'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+545,5338,4203,Peru vs Paraguay,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Peru,PE,Rodríguez,['Aldair Rodríguez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+546,5340,4203,Peru vs Paraguay,07-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Pérez,['Aldo Pérez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+547,5346,4204,Bolivia vs Colombia,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Sánchez,['Davinson Sánchez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+548,5347,4204,Bolivia vs Colombia,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Aguilar,['Felipe Aguilar'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+549,5349,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Ortiz,['Celso Ortiz'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+550,5350,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Sebastián Cáceres'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+551,5353,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Valdez,['Bruno Valdez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+552,5354,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Cáceres,['Sebastián Cáceres'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+553,5355,4205,Paraguay vs Uruguay,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,['Mathías Suárez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+554,5356,4206,Chile vs Peru,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Christian Bravo'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+555,5358,4206,Chile vs Peru,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Jara,['Ignacio Jara'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+556,5359,4206,Chile vs Peru,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Medel,['Marco Medel'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+557,5360,4206,Chile vs Peru,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Vargas,['Miguel Vargas'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+558,5361,4206,Chile vs Peru,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Peru,PE,Rodríguez,['Aldair Rodríguez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+559,5362,4207,Venezuela vs Argentina,11-Oct-11,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Lucena,['Ronaldo Lucena'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+560,5365,4208,Argentina vs Bolivia,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Romero,['Cristian Romero'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+561,5366,4208,Argentina vs Bolivia,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Alvarez,['Julian Alvarez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+562,5369,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Cáceres,['Sebastián Cáceres'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+563,5372,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Ramírez,['Ignacio Ramírez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+564,5373,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,['Mathías Suárez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+565,5374,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Christian Bravo'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+566,5376,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Medel,['Marco Medel'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+567,5378,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Fernández,['Ronnie Fernández'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+568,5379,4209,Uruguay vs Chile,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Vargas,['Miguel Vargas'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+569,5381,4210,Paraguay vs Ecuador,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Ortiz,['Celso Ortiz'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+570,5382,4210,Paraguay vs Ecuador,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Sebastián Cáceres'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+571,5384,4210,Paraguay vs Ecuador,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Valdez,['Bruno Valdez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+572,5386,4211,Colombia vs Venezuela,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Martínez,['Roger Martínez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+573,5387,4211,Colombia vs Venezuela,11-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Flores,['Wálter Flores'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+574,5390,4212,Colombia vs Argentina,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Aguilar,['Felipe Aguilar'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+575,5391,4212,Colombia vs Argentina,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Martínez,['Roger Martínez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+576,5392,4212,Colombia vs Argentina,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Romero,['Cristian Romero'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+577,5393,4212,Colombia vs Argentina,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Fernández,['Ronnie Fernández'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+578,5395,4213,Ecuador vs Peru,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Castillo,['Eryc Castillo'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+579,5400,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Christian Bravo'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+580,5402,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Medel,['Marco Medel'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+581,5403,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,['Pablo Aránguiz'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+582,5404,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Fernández,['Ronnie Fernández'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+583,5405,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Chile,CL,Vargas,['Miguel Vargas'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+584,5406,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Samudio,['Braian Samudio'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+585,5408,4215,Chile vs Paraguay,15-Nov-11,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Valdez,['Bruno Valdez'],2011,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+586,5423,4218,Argentina vs Ecuador,02-Jun-12,"World Cup 2014, Qualifiers, CONMEBOL",Argentina,AR,Fernández,['Matías Fernández'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+587,5426,4117,Dominican Republic vs Barbados,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Diaz,['Rafael Diaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+588,5427,4118,Nicaragua vs Belize,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Belize,BZ,Lopez,['Krisean Lopez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+589,5430,4136,Panama vs Dominican Republic,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Diaz,['Rafael Diaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+590,5433,4402,Peru vs Venezuela,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,González,César González,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+591,5435,4408,Venezuela vs Brazil,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Ramírez,['Moisés Ramírez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+592,5442,4435,Chile vs Argentina,27-Jan-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Vargas,Eduardo Vargas,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+593,5443,4442,Brazil vs Paraguay,1-Feb-22,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay,PY,Samudio,['Braian Samudio'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+594,5444,4445,Brazil vs Chile,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Vargas,Eduardo Vargas,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+595,5445,4446,Paraguay vs Ecuador,24-Mar-22,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Rojas,Joao Rojas,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+596,5446,1828,Kazakhstan vs Azerbaijan,03.06.22,Nations League 2022-2023,Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+597,5450,1930,Niger vs Somalia,13-10-2015,"World Cup Qualifiers, Africa, 2018",Somalia,SO,A Ahmed,"['Abdinasir Yusuf Ahmed', 'Ahmed Abubakar Shegow']",2015,FAIL,TRUE,Name Confusion
+598,5451,1930,Niger vs Somalia,13-10-2015,"World Cup Qualifiers, Africa, 2018",Somalia,SO,A Mohamed,"['Abas Amin Mohamed', 'Abas Amin Mohamed', 'Abdiqani Mohamed Bule']",2015,FAIL,TRUE,Name Confusion
+599,5452,1936,Eswatini vs Djibouti,17-10-2015,"World Cup Qualifiers, Africa, 2018",Eswatini,SZ,C Skondze,Colani Papi Skondze,2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+600,5456,4351,Paraguay vs Uruguay,05-Sep-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+601,5457,4353,Bolivia vs Brazil,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Gutiérrez,Luis Gutiérrez,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+602,5458,4353,Bolivia vs Brazil,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Morales,['Omar Morales'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+603,5459,4354,Venezuela vs Uruguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,J Moreno,['Johan Moreno'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+604,5460,4354,Venezuela vs Uruguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+605,5462,4355,Colombia vs Paraguay,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+606,5466,4384,Bolivia vs Venezuela,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,J Moreno,['Johan Moreno'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+607,5473,4397,Venezuela vs Argentina,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela,VE,Ramírez,['Moisés Ramírez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+608,5476,1913,Sudan vs Lesotho,08-09-2013,"World Cup Qualifiers, Africa, 2014",Lesotho,LS,M Ntobo,['Moitheri Ntobo'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+609,5489,3908,Panama vs Cuba,12-Jun-12,"World Cup 2014, Qualifiers, CONCACAF",Panama,PA,Aguilar,['Jorman Aguilar'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+610,5491,3909,Cuba vs Honduras,07-Sep-12,"World Cup 2014, Qualifiers, CONCACAF",CU,HN,Hernández,Marcel Hernández,2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+611,5502,3932,Mexico vs El Salvador,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Hernández,Javier Hernández,2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+612,5504,3932,Mexico vs El Salvador,16-Oct-12,"World Cup 2014, Qualifiers, CONCACAF",Mexico,MX,Hernández,Javier Hernández,2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+613,5512,4333,Colombia vs Bolivia,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Morales,['Omar Morales'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+614,5514,4334,Venezuela vs Peru,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+615,5516,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+616,5517,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+617,5520,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Ayoví,['Jaime Ayoví'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+618,5536,4224,Colombia vs Uruguay,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Colombia,CO,Aguilar,['Jorman Aguilar'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+619,5541,4225,Ecuador vs Bolivia,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Suarez,['Miguel Suarez'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+620,5544,4226,Argentina vs Paraguay,07-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cáceres,['Martín Cáceres'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+621,5553,4229,Paraguay vs Venezuela,11-Sep-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+622,5556,4232,Colombia vs Paraguay,12-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Aguilar,['Jorman Aguilar'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+623,5558,4234,Bolivia vs Peru,12-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Suarez,['Miguel Suarez'],2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+624,5564,4237,Venezuela vs Ecuador,16-Oct-12,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela,VE,Hernández,Ronald Hernández,2012,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+625,5571,4045,Mexico vs Honduras,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+626,5572,2236,Sudan vs Congo DR,19-11-2023,"World Cup Qualifiers, Africa, 2026",Sudan,SD,Mohamed Erneq,Mohamed Amin,2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+627,5573,2242,Sudan vs Togo,16-11-2023,"World Cup Qualifiers, Africa, 2026",Sudan,SD,Mohamed Erneq,Mohamed Amin,2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+628,5575,980,Sweden vs Azerbaijan,27.03.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+629,5576,981,Azerbaijan vs Estonia,17.06.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+630,5577,985,Azerbaijan vs Belgium,09.09.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+631,5578,989,Estonia vs Azerbaijan,13.10.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+632,5579,991,Azerbaijan vs Austria,16.10.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+633,5580,993,Azerbaijan vs Sweden,16.11.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+634,5581,995,Belgium vs Azerbaijan,19.11.23,"Euros 2024, Qualifiers",Azerbaijan,AZ,A Iasyev,['Arif Isayev'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+635,5588,2183,Tunisia vs Mali,29-03-2022,"World Cup Qualifiers, Africa, 2022",Mali,ML,A Diaby,['Alassane Diaby'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+636,5589,4256,Colombia vs Ecuador,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador,EC,Mendez,['Jhegson Mendez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+637,5590,4293,Bolivia vs Colombia,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Pérez,['Hernán Pérez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+638,5592,4297,Brazil vs Uruguay,25-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Rodríguez,['Alberto Rodríguez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+639,5597,2437,Jordan vs Tajikistan,13-10-2015,"World Cup Qualifiers, Asia, 2018",Tajikistan,TJ,K Saidov,['Karomatullo Saidov'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+640,5598,2394,North Korea vs Bahrain,17-11-2015,"World Cup Qualifiers, Asia, 2018",Bahrain,BH,Ali Al Sa,"['Sayed Ali Hashem', 'Sayed Ali Hashem']",2015,FAIL,TRUE,Name Confusion
+641,5601,1317,Brazil vs Venezuela,14.06.21,Copa America 2021,Venezuela,VE,J Moreno,['Johan Moreno'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+642,5602,2077,Morocco vs Guinea-Bissau,06-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea-Bissau,GW,A Mendy,['Alexandre Mendy'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+643,5603,3070,Azerbaijan vs San Marino,04-09-2017,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+644,5605,4046,Honduras vs Panama,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+645,5606,4062,Panama vs Honduras,13-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+646,5607,4065,Trinidad and Tobago vs Honduras,01-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+647,5608,4067,Honduras vs USA,05-Sep-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+648,5609,4072,Costa Rica vs Honduras,07-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+649,5610,4073,Honduras vs Mexico,10-Oct-17,"World Cup 2018, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+650,5613,4080,Dominican Republic vs Dominica,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Diaz,['Rafael Diaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+651,5618,4089,Anguilla vs Dominican Republic,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominican Republic,DO,Diaz,['Rafael Diaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+652,5619,2948,Azerbaijan vs Germany,26-03-2017,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+653,5620,2958,Azerbaijan vs Czech Republic,05-10-2017,"World Cup Qualifiers, Europe, 2018",Azerbaijan,AZ,R Sadqov,['Rashad Sadiqov'],2017,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+654,5621,4101,Belize vs Turks and Caicos Iss,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Belize,BZ,Lopez,['Krisean Lopez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+655,5630,4168,Honduras vs Panama,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+656,5632,4173,Costa Rica vs Honduras,16-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+657,5633,4177,Honduras vs Canada,27-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+658,5634,4182,Honduras vs El Salvador,30-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+659,5635,4183,USA vs Honduras,02-Feb-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+660,5636,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Mejia,Alfredo Mejia,2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+661,5644,2128,Mali vs Tunisia,25-03-2022,"World Cup Qualifiers, Africa, 2022",Mali,ML,A Diaby,['Alassane Diaby'],2022,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+662,5645,2166,Guinea-Bissau vs Sudan,15-11-2021,"World Cup Qualifiers, Africa, 2022",Guinea-Bissau,GW,A Mendy,['Alexandre Mendy'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+663,5656,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,García,Boniek García,2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+664,5665,2233,Gambia vs Cote d'Ivoire,20-11-2023,"World Cup Qualifiers, Africa, 2026",Cote d'Ivoire,CI,H Traoré,['Hamed Junior Traorè'],2023,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+665,5666,2267,Chinese Taipei vs Vietnam,08-09-2015,"World Cup Qualifiers, Asia, 2018",Vietnam,VN,V Minh Tun,['Van Tung Nguyen'],2015,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+666,5677,1245,Argentina vs Venezuela,19.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+667,5679,1259,Jamaica vs Venezuela,06.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+668,5680,1261,Uruguay vs Venezuela,10.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+669,5682,2203,Algeria vs Somalia,16-11-2023,"World Cup Qualifiers, Africa, 2026",Somalia,SO,A Mohamed,"['Abdi Mohamed', 'Farhan Mohamed Ahmed', 'Mahad Mohamed Abdulkadir']",2023,FAIL,TRUE,Name Confusion
+670,5686,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+671,5687,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+672,5689,4266,Venezuela vs Paraguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+673,5691,4268,Paraguay vs Colombia,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+674,5692,4268,Paraguay vs Colombia,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2013,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+675,5701,4296,Peru vs Venezuela,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+676,5704,4299,Venezuela vs Chile,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+677,5732,1064,Romania vs Kosovo,12.09.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,"['Amir Rrahmani', 'Albion Rrahmani']",2023,FAIL,TRUE,Name Confusion
+678,5753,4079,Suriname vs Cayman Islands,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Jonah Ebanks', 'Trey Ebanks']",2021,FAIL,TRUE,Name Confusion
+679,5757,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Williams,"['Akeem Williams, Kurtlon Williams']",2021,FAIL,TRUE,Name Confusion
+680,5767,4105,Saint Vincent and the Grenadines vs British Virgin Islands,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Williams,"['Akeem Williams, Kurtlon Williams']",2021,FAIL,TRUE,Name Confusion
+681,5774,4112,Puerto Rico vs Bahamas,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+682,5813,4379,Ecuador vs Colombia,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Beder Caicedo', 'Moisés Caicedo']",2020,FAIL,TRUE,Name Confusion
+683,5814,4385,Uruguay vs Paraguay,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,González,Carlos González,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+684,5819,4391,Venezuela vs Uruguay,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,González,Carlos González,2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+685,5833,2000,Libya vs Tunisia,11-11-2016,"World Cup Qualifiers, Africa, 2018",Libya,LY,Abdelrahman Fetori,['Abdulrahim El-Triki'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+686,5835,865,Italy vs Greece,12.10.19,"Euros 2020, Qualifiers",Italy,IT,D,Danilo D’Ambrosio,2019,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+687,5859,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+688,5861,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Ramírez,['Cristian Ramírez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+689,5863,4310,Venezuela vs Argentina,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+690,5870,4322,Venezuela vs Brazil,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+691,5872,4324,Venezuela vs Bolivia,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+692,5874,4325,Uruguay vs Ecuador,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Marcos Caicedo']",2016,FAIL,TRUE,Name Confusion
+693,5876,4327,Brazil vs Argentina,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Argentina,AR,Pérez,['Hernán Pérez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+694,5878,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo']",2016,FAIL,TRUE,Name Confusion
+695,5879,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1
+696,5912,4152,Canada vs El Salvador,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,FAIL,TRUE,Failed Using Name Looking at Season and Season +-1

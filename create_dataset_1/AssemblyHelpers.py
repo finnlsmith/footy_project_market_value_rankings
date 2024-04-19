@@ -1138,16 +1138,15 @@ def find_transfermarkt_pagesoup_player(input_playername, input_nationality_strin
                 0==0
                 #print('no href with', link)
     
-
-    print(url_tosplit)
     player_name_string = url_tosplit.split('/')[3]
     player_code = url_tosplit.split('/')[6]
 
     find_national_team_history_URL = f"https://www.transfermarkt.us/{player_name_string}/nationalmannschaft/spieler/{player_code}"
-
+    #print(find_national_team_history_URL)
     #print(f"this player is {input_playername}, URL is {find_national_team_history_URL}. lowercase is {input_playername.lower()}. transformed with my new change it's {transform_name(unidecode(input_playername.lower()))}")
 
     if((input_playername.lower() in find_national_team_history_URL) or (input_playername.lower() in find_national_team_history_URL) or (transform_name(input_playername.lower()) in find_national_team_history_URL) or (transform_name(unidecode(input_playername.lower())) in find_national_team_history_URL)):
+        #print('workin')
         page_soup_history_pg = grab_transfer_pagesoup(find_national_team_history_URL)
     else:
         page_soup_history_pg = None
@@ -1243,7 +1242,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             elif len(data_row) == 7:
                 pass
             elif len(data_row) == 12:
-                #match_date_row = data_row[1].text.strip()
+                match_date_row = data_row[1].text.strip()
                 #print('this is in the regular date loop', match_date_row, correct_date_obj)
                 #print('checking fwd', match_date_row)
                 if check_date(match_date_row, correct_date_obj):
@@ -1378,6 +1377,7 @@ def multiNameMatchDateLookup(input_list_of_names, input_nationality, input_year_
         #still multiple players w the same name who played for the nat'l team  
         datematch_required = True
         second_array_test = []
+        #print('soup dictionary', players_pagesoup_dictionary)
 
         for k in range(0, len(result_array_aftertest)):
             
