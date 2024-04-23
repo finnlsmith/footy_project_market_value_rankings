@@ -291,7 +291,7 @@
 4437,37,2225,"World Cup Qualifiers, Africa, 2026",Burundi vs Gambia,16-11-2023,Gambia,GM,2023,FAIL,Ismaila Jome,0.0,TRUE,Online Lookup Required,FALSE,Ismaila Jome,I Jome,single
 4507,107,2228,"World Cup Qualifiers, Africa, 2026",Ethiopia vs Burkina Faso,21-11-2023,Burkina Faso,BF,2023,FAIL,Ben Traoré,0,TRUE,Online Lookup Required,FALSE,Ben Traoré,B Touré,single
 4527,127,2229,"World Cup Qualifiers, Africa, 2026",Lesotho vs Benin,21-11-2023,Benin,BJ,2023,FAIL,Djiman Koukou,0,TRUE,Online Lookup Required,FALSE,Djiman Koukou,F Dodji Dokou,single
-4563,163,2231,"World Cup Qualifiers, Africa, 2026",Mozambique vs Algeria,19-11-2023,Mozambique,MZ,2023,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Hélder Pelembe,Elias Pelembe,single
+4563,163,2231,"World Cup Qualifiers, Africa, 2026",Mozambique vs Algeria,19-11-2023,Mozambique,MZ,2023,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Hélder Pelembe,Domingues,single
 4674,274,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR,19-11-2023,Sudan,SD,2023,FAIL,Mohamed Idris,0,TRUE,Online Lookup Required,FALSE,Mohamed Idris,Mohamed Eisa,single
 4715,315,2238,"World Cup Qualifiers, Africa, 2026",Burkina Faso vs Guinea-Bissau,17-11-2023,Burkina Faso,BF,2023,FAIL,Ben Traoré,0,TRUE,Online Lookup Required,FALSE,Ben Traoré,B Touré,single
 4778,378,2241,"World Cup Qualifiers, Africa, 2026",Nigeria vs Lesotho,16-11-2023,Nigeria,NG,2023,FAIL,Jamilu Collins,0,TRUE,Online Lookup Required,FALSE,Jamilu Collins,J Collins,single
@@ -391,7 +391,7 @@
 13864,598,2201,"World Cup Qualifiers, Africa, 2026",Mali vs Chad,17-11-2023,Mali,ML,2023,FAIL,Mohamed Haidara,0,TRUE,Online Lookup Required,FALSE,Mohamed Haidara,M Haïdara,single
 13933,667,2204,"World Cup Qualifiers, Africa, 2026",Niger vs Tanzania,18-11-2023,Niger,NE,2023,FAIL,Moumouni Diori,0,TRUE,Online Lookup Required,FALSE,Moumouni Diori,B Moumouni,single
 14071,805,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,FAIL,Gelício Banze,0,TRUE,Online Lookup Required,FALSE,Gelício Banze,Feliciano Jone,single
-14077,811,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Hélder Pelembe,Elias Pelembe,single
+14077,811,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Domingues,Elias Pelembe,single
 14079,813,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,FAIL,Faisal Bangal,0,TRUE,Online Lookup Required,FALSE,Faisal Bangal,Faisal Bangal,single
 14105,839,2212,"World Cup Qualifiers, Africa, 2026",Libya vs Cameroon,21-11-2023,Libya,LY,2023,FAIL,Abdelaziz Belreesh,0,TRUE,Online Lookup Required,FALSE,Abdelaziz Belreesh,Abdelaziz Ali,single
 14108,842,2212,"World Cup Qualifiers, Africa, 2026",Libya vs Cameroon,21-11-2023,Libya,LY,2023,FAIL,Abdallah Dagou,0,TRUE,Online Lookup Required,FALSE,Abdallah Dagou,Abdallah Dagou,single
@@ -435,10 +435,10 @@
 16110,644,2759,"World Cup Qualifiers, Asia, 2026",Afghanistan vs Mongolia,12-10-2023,Afghanistan,AF,2023,FAIL,Noor Husin,0,TRUE,Online Lookup Required,FALSE,Noor Husin,Noor Husin,single
 16113,647,2759,"World Cup Qualifiers, Asia, 2026",Afghanistan vs Mongolia,12-10-2023,Afghanistan,AF,2023,FAIL,Omran Haydary,0,TRUE,Online Lookup Required,FALSE,Omran Haydary,Omran Haydary,single
 16131,665,2760,"World Cup Qualifiers, Asia, 2026",Hong Kong vs Turkmenistan,21-11-2023,Hong Kong,HK,2023,FAIL,Kong-Wai Lo,0,TRUE,Online Lookup Required,FALSE,Kong-Wai Lo,Wong Wai,single
-16182,716,2763,"World Cup Qualifiers, Europe, 2014",Norway vs Iceland,15-10-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+16182,716,2763,"World Cup Qualifiers, Europe, 2014",Norway vs Iceland,15-10-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 16230,764,2765,"World Cup Qualifiers, Europe, 2014",Belgium vs North Macedonia,26-03-2013,North Macedonia,MK,2013,FAIL,Dejan Pesevski,0,TRUE,Online Lookup Required,FALSE,Dejan Pesevski,D Tasevski,single
 16270,804,2767,"World Cup Qualifiers, Europe, 2014",Belgium vs Serbia,07-06-2013,Serbia,RS,2013,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
-16380,914,2772,"World Cup Qualifiers, Europe, 2014",Slovenia vs Iceland,22-03-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+16380,914,2772,"World Cup Qualifiers, Europe, 2014",Slovenia vs Iceland,22-03-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 16548,1082,2780,"World Cup Qualifiers, Europe, 2014",North Macedonia vs Belgium,22-03-2013,North Macedonia,MK,2013,FAIL,Ahmed Iljazovski,0,TRUE,Online Lookup Required,FALSE,Ahmed Iljazovski,A Lazevski,single
 16694,128,610,"Euros 2016, Qualifiers",Portugal vs Denmark,08.10.15,Denmark,DK,2015,FAIL,Jeppe Højbjerg,0.0,TRUE,Online Lookup Required,FALSE,Jeppe Højbjerg,Hojbjerg,single
 16822,256,617,"Euros 2020, Qualifiers",Hungary vs Iceland,12.11.20,Iceland,IS,2020,FAIL,Emil Pálsson,0.0,TRUE,Online Lookup Required,FALSE,Emil Pálsson,Palsson,single
@@ -525,7 +525,7 @@
 26063,697,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,Haris Belkebla,0,TRUE,Online Lookup Required,FALSE,Haris Belkebla,Haris Belkebla,single
 26068,702,1346,"Olympics, 2016",Honduras vs Algeria,2016-08-04,Algeria,DZ,2016,FAIL,Zakaria Draoui,0,TRUE,Online Lookup Required,FALSE,Zakaria Draoui,Zakaria Haddouche,single
 26075,709,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Portugal,PT,2016,FAIL,André Martins,0,TRUE,Online Lookup Required,FALSE,André Martins,André Martins,single
-26086,720,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,Lisandro Martínez,0,TRUE,Online Lookup Required,FALSE,Lisandro Martínez,Lisandro Magallán,single
+26086,720,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,Lisandro Martínez,0,TRUE,Online Lookup Required,FALSE,Lisandro Magallán,Lisandro Magallán,single
 26087,721,1347,"Olympics, 2016",Portugal vs Argentina,2016-08-04,Argentina,AR,2016,FAIL,Santiago Ascacíbar,0,TRUE,Online Lookup Required,FALSE,Santiago Ascacíbar,Santiago Ascacibar,single
 26108,742,1348,"Olympics, 2016",Honduras vs Portugal,2016-08-07,Portugal,PT,2016,FAIL,André Martins,0,TRUE,Online Lookup Required,FALSE,André Martins,André Martins,single
 26120,754,1349,"Olympics, 2016",Argentina vs Algeria,2016-08-07,Argentina,AR,2016,FAIL,Santiago Ascacíbar,0,TRUE,Online Lookup Required,FALSE,Santiago Ascacíbar,Santiago Ascacibar,single
@@ -569,7 +569,7 @@
 26867,401,2091,"World Cup Qualifiers, Africa, 2022",Zambia vs Tunisia,07-09-2021,Zambia,ZM,2021,FAIL,Boyd Siame Musonda,0,TRUE,Online Lookup Required,FALSE,Boyd Siame Musonda,B Musonda,single
 26868,402,2091,"World Cup Qualifiers, Africa, 2022",Zambia vs Tunisia,07-09-2021,Zambia,ZM,2021,FAIL,Dickson Chapa,0,TRUE,Online Lookup Required,FALSE,Dickson Chapa,D Chapa,single
 26926,460,2093,"World Cup Qualifiers, Africa, 2022",Zimbabwe vs South Africa,03-09-2021,South Africa,ZA,2021,FAIL,Gift Links,0,TRUE,Online Lookup Required,FALSE,Gift Links,G Links,single
-26930,464,2094,"World Cup Qualifiers, Africa, 2022",Cape Verde vs Nigeria,07-09-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Carlos Bebé,Carlos Ponck,single
+26930,464,2094,"World Cup Qualifiers, Africa, 2022",Cape Verde vs Nigeria,07-09-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Ponck,Carlos Ponck,single
 26953,487,2095,"World Cup Qualifiers, Africa, 2022",Eswatini vs Djibouti,10-09-2019,Eswatini,SZ,2019,FAIL,Nkosinathi Dlamini,0,TRUE,Online Lookup Required,FALSE,Nkosinathi Dlamini,S Nkhosinathi,single
 26989,523,2096,"World Cup Qualifiers, Africa, 2022",Ghana vs South Africa,14-11-2021,South Africa,ZA,2021,FAIL,Thabo Nthethe,0,TRUE,Online Lookup Required,FALSE,Thabo Nthethe,T Phete,single
 27035,569,2098,"World Cup Qualifiers, Africa, 2022",Botswana vs Malawi,07-09-2019,Malawi,MW,2019,FAIL,Patrick Phiri,0,TRUE,Online Lookup Required,FALSE,Patrick Phiri,G Phiri,single
@@ -678,7 +678,7 @@
 37165,865,2920,"World Cup Qualifiers, Europe, 2014",San Marino vs Poland,10-09-2013,San Marino,SM,2013,FAIL,Pietro Calzolari,0.0,TRUE,Online Lookup Required,FALSE,Pietro Calzolari,P Calzolari,single
 37183,883,2921,"World Cup Qualifiers, Europe, 2014",Romania vs Hungary,06-09-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
 37216,916,2922,"World Cup Qualifiers, Europe, 2014",Bulgaria vs Malta,22-03-2013,Malta,MT,2013,FAIL,Shaun Dimech,0.0,TRUE,Online Lookup Required,FALSE,Shaun Dimech,L Dimech,single
-37324,1024,2927,"World Cup Qualifiers, Europe, 2014",Croatia vs Iceland,19-11-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+37324,1024,2927,"World Cup Qualifiers, Europe, 2014",Croatia vs Iceland,19-11-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 37359,1059,2929,"World Cup Qualifiers, Europe, 2014",Malta vs Czech Republic,11-10-2013,Malta,MT,2013,FAIL,Shaun Dimech,0.0,TRUE,Online Lookup Required,FALSE,Shaun Dimech,L Dimech,single
 37394,1094,2930,"World Cup Qualifiers, Europe, 2014",Spain vs Georgia,15-10-2013,Georgia,GE,2013,FAIL,Saba Lobjanidze,0.0,TRUE,Online Lookup Required,FALSE,Saba Lobjanidze,U Lobjanidze,single
 37464,64,4099,"World Cup 2022, Qualifiers, CONCACAF",Montserrat vs El Salvador,28-Mar-21,El Salvador,SV,2021,FAIL,Harold Alas,0,TRUE,Online Lookup Required,FALSE,Harold Alas,Alas,single
@@ -790,10 +790,10 @@
 45240,140,4356,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Ecuador,05-Oct-17,Chile,CL,2017,FAIL,Jorge Valdivia,0,TRUE,Online Lookup Required,FALSE,Jorge Valdivia,Valdivia,single
 45241,141,4356,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Ecuador,05-Oct-17,Chile,CL,2017,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 45253,153,4356,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Ecuador,05-Oct-17,Ecuador,EC,2017,FAIL,Joel Ordóñez,0,TRUE,Online Lookup Required,FALSE,Joel Ordóñez,Ordóñez,single
-45261,161,4357,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Peru,05-Oct-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
+45261,161,4357,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Peru,05-Oct-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Angel di Maria,D Maria,single
 45284,184,4358,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Argentina,10-Oct-17,Ecuador,EC,2017,FAIL,José Gabriel Cevallos,0,TRUE,Online Lookup Required,FALSE,José Gabriel Cevallos,Cevallos,single
 45286,186,4358,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Argentina,10-Oct-17,Ecuador,EC,2017,FAIL,Joel Ordóñez,0,TRUE,Online Lookup Required,FALSE,Joel Ordóñez,Ordóñez,single
-45296,196,4358,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Argentina,10-Oct-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
+45296,196,4358,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Argentina,10-Oct-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Angel di Maria,D Maria,single
 45350,250,4361,"World Cup 2018, Qualifiers, CONMEBOL",Brazil vs Chile,10-Oct-17,Brazil,BR,2017,FAIL,Hernanes,0,TRUE,Online Lookup Required,FALSE,Hernanes,Hernández,single
 45383,283,4362,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Bolivia,10-Oct-17,Bolivia,BO,2017,FAIL,Cristhian Machado,0,TRUE,Online Lookup Required,FALSE,Cristhian Machado,Machado,single
 45428,328,4365,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay vs Chile,08-Oct-20,Chile,CL,2020,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
@@ -801,14 +801,14 @@
 45594,494,4373,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Colombia,13-Oct-20,Chile,CL,2020,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 45757,657,4380,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela vs Chile,17-Nov-20,Chile,CL,2020,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 45798,698,4382,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay vs Brazil,17-Nov-20,Brazil,BR,2020,FAIL,Arthur,0,TRUE,Online Lookup Required,FALSE,Arthur,Arthur,single
-45900,800,4387,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Chile,03-Jun-21,Argentina,AR,2021,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
+45900,800,4387,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Chile,03-Jun-21,Argentina,AR,2021,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Angel di Maria,D Maria,single
 45911,811,4387,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Chile,03-Jun-21,Chile,CL,2021,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
-45916,816,4388,"World Cup 2022, Qualifiers, CONMEBOL",Brazil vs Ecuador,04-Jun-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Elias,E ilitao,single
-46015,915,4392,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay vs Brazil,08-Jun-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Elias,E ilitao,single
+45916,816,4388,"World Cup 2022, Qualifiers, CONMEBOL",Brazil vs Ecuador,04-Jun-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Éder Militão,E ilitao,single
+46015,915,4392,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay vs Brazil,08-Jun-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Éder Militão,E ilitao,single
 46034,934,4393,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Bolivia,08-Jun-21,Chile,CL,2021,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 46128,1028,4397,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela vs Argentina,02-Sep-21,Argentina,AR,2021,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
-46147,1047,4398,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Brazil,02-Sep-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Elias,E ilitao,single
-46535,335,1886,"World Cup Qualifiers, Africa, 2014",Cameroon vs Libya,08-09-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nouhou,N Nkoulou,single
+46147,1047,4398,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Brazil,02-Sep-21,Brazil,BR,2021,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Éder Militão,E ilitao,single
+46535,335,1886,"World Cup Qualifiers, Africa, 2014",Cameroon vs Libya,08-09-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nicolas N’Koulou,N Nkoulou,single
 46550,350,1886,"World Cup Qualifiers, Africa, 2014",Cameroon vs Libya,08-09-2013,Libya,LY,2013,FAIL,Omar Abdelsalam,0,TRUE,Online Lookup Required,FALSE,Omar Abdelsalam,Osama Abdusalam,single
 46561,361,1887,"World Cup Qualifiers, Africa, 2014",Egypt vs Ghana,19-11-2013,Egypt,EG,2013,FAIL,Mahmoud Hamada,0,TRUE,Online Lookup Required,FALSE,Mahmoud Hamada,Mahmoud Kahraba,single
 46644,444,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Niger,NE,2013,FAIL,Musa Shehu,0,TRUE,Online Lookup Required,FALSE,Musa Shehu,S Musa,single
@@ -822,25 +822,25 @@
 46716,516,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia,07-09-2013,Angola,AO,2013,FAIL,Mabululu,0,TRUE,Online Lookup Required,FALSE,Mabululu,Mabululu,single
 46724,524,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia,07-09-2013,Liberia,LR,2013,FAIL,Varney Sando,0,TRUE,Online Lookup Required,FALSE,Varney Sando,M Varney,single
 46798,598,1898,"World Cup Qualifiers, Africa, 2014",Sierra Leone vs Equatorial Guinea,07-09-2013,Sierra Leone,SL,2013,FAIL,Ibrahim Kargbo,0,TRUE,Online Lookup Required,FALSE,Ibrahim Kargbo,I Kargbo,single
-46819,619,1899,"World Cup Qualifiers, Africa, 2014",Cameroon vs Tunisia,17-11-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nouhou,N Nkoulou,single
+46819,619,1899,"World Cup Qualifiers, Africa, 2014",Cameroon vs Tunisia,17-11-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nicolas N’Koulou,N Nkoulou,single
 46853,653,1900,"World Cup Qualifiers, Africa, 2014",Egypt vs Guinea,10-09-2013,Guinea,GN,2013,FAIL,Ousmane Baldé,0,TRUE,Online Lookup Required,FALSE,Ousmane Baldé,H Baldé,single
 46949,749,1905,"World Cup Qualifiers, Africa, 2014",Zimbabwe vs Mozambique,08-09-2013,Zimbabwe,ZW,2013,FAIL,Bruce Kangwa,0,TRUE,Online Lookup Required,FALSE,Bruce Kangwa,B Kangwa,single
 47015,815,1908,"World Cup Qualifiers, Africa, 2014",Gambia vs Tanzania,07-09-2013,Gambia,GM,2013,FAIL,Abdoulie Mansally,0,TRUE,Online Lookup Required,FALSE,Abdoulie Mansally,A Mansally,single
 47018,818,1908,"World Cup Qualifiers, Africa, 2014",Gambia vs Tanzania,07-09-2013,Gambia,GM,2013,FAIL,Ebrima Sohna,0,TRUE,Online Lookup Required,FALSE,Ebrima Sohna,E Sohna,single
 47127,927,1913,"World Cup Qualifiers, Africa, 2014",Sudan vs Lesotho,08-09-2013,Sudan,SD,2013,FAIL,Elsadig Hassan,0,TRUE,Online Lookup Required,FALSE,Elsadig Hassan,El Taher El Hag Hassan,single
 47129,929,1913,"World Cup Qualifiers, Africa, 2014",Sudan vs Lesotho,08-09-2013,Sudan,SD,2013,FAIL,Malik Mohamed Barma,0,TRUE,Online Lookup Required,FALSE,Malik Mohamed Barma,Malik Mohammed,single
-47162,962,1914,"World Cup Qualifiers, Africa, 2014",Tunisia vs Cameroon,13-10-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nouhou,N Nkoulou,single
+47162,962,1914,"World Cup Qualifiers, Africa, 2014",Tunisia vs Cameroon,13-10-2013,Cameroon,CM,2013,FAIL,Nouhou,0,TRUE,Online Lookup Required,FALSE,Nicolas N'Koulou,N Nkoulou,single
 48319,1019,1614,Nations League 2020-2021,Turkey vs Hungary,03.09.20,Turkey,TR,2020,FAIL,Hakan Balta,0.0,TRUE,Online Lookup Required,FALSE,Hakan Balta,Hakan Yanda,single
-48401,1,2831,"World Cup Qualifiers, Europe, 2014",Iceland vs Slovenia,07-06-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
-48533,133,2837,"World Cup Qualifiers, Europe, 2014",Iceland vs Cyprus,11-10-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+48401,1,2831,"World Cup Qualifiers, Europe, 2014",Iceland vs Slovenia,07-06-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
+48533,133,2837,"World Cup Qualifiers, Europe, 2014",Iceland vs Cyprus,11-10-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 48595,195,2839,"World Cup Qualifiers, Europe, 2014",England vs Poland,15-10-2013,Poland,PL,2013,FAIL,Mateusz Legowski,0.0,TRUE,Online Lookup Required,FALSE,Mateusz Legowski,M Lewandowski,single
-48632,232,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
+48632,232,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
 48640,240,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,FAIL,Nikola Stevanovic,0.0,TRUE,Online Lookup Required,FALSE,Nikola Stevanovic,A Stevanović,single
 48786,386,2848,"World Cup Qualifiers, Europe, 2014",France vs Georgia,22-03-2013,Georgia,GE,2013,FAIL,Saba Lobjanidze,0.0,TRUE,Online Lookup Required,FALSE,Saba Lobjanidze,U Lobjanidze,single
-48830,430,2850,"World Cup Qualifiers, Europe, 2014",Wales vs Serbia,10-09-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
+48830,430,2850,"World Cup Qualifiers, Europe, 2014",Wales vs Serbia,10-09-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
 48859,459,2851,"World Cup Qualifiers, Europe, 2014",Ukraine vs Poland,11-10-2013,Poland,PL,2013,FAIL,Mateusz Legowski,0.0,TRUE,Online Lookup Required,FALSE,Mateusz Legowski,M Lewandowski,single
-48877,477,2852,"World Cup Qualifiers, Europe, 2014",Greece vs Romania,15-11-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
-48896,496,2853,"World Cup Qualifiers, Europe, 2014",Switzerland vs Iceland,06-09-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+48877,477,2852,"World Cup Qualifiers, Europe, 2014",Greece vs Romania,15-11-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Răzvan Raț,R Raț,single
+48896,496,2853,"World Cup Qualifiers, Europe, 2014",Switzerland vs Iceland,06-09-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 48951,551,2856,"World Cup Qualifiers, Europe, 2014",Cyprus vs Slovenia,10-09-2013,Cyprus,CY,2013,FAIL,Dimitris Theodorou,0.0,TRUE,Online Lookup Required,FALSE,Dimitris Theodorou,C Theo,single
 49036,636,2859,"World Cup Qualifiers, Europe, 2014",Estonia vs Andorra,26-03-2013,Andorra,AD,2013,FAIL,Victor Silverio,0.0,TRUE,Online Lookup Required,FALSE,Victor Silverio,Victor Moreira,single
 49069,669,2861,"World Cup Qualifiers, Europe, 2014",Andorra vs Turkey,22-03-2013,Andorra,AD,2013,FAIL,Victor Silverio,0.0,TRUE,Online Lookup Required,FALSE,Victor Silverio,Victor Moreira,single
@@ -848,7 +848,7 @@
 49241,841,2869,"World Cup Qualifiers, Europe, 2014",Georgia vs France,06-09-2013,Georgia,GE,2013,FAIL,Saba Lobjanidze,0.0,TRUE,Online Lookup Required,FALSE,Saba Lobjanidze,U Lobjanidze,single
 49279,879,2870,"World Cup Qualifiers, Europe, 2014",Ukraine vs Moldova,26-03-2013,Moldova,MD,2013,FAIL,Igor Bugaev,0.0,TRUE,Online Lookup Required,FALSE,Igor Bugaev,I Bugaev,single
 49284,884,2871,"World Cup Qualifiers, Europe, 2014",Romania vs Greece,19-11-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
-49303,903,2872,"World Cup Qualifiers, Europe, 2014",Iceland vs Albania,10-09-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+49303,903,2872,"World Cup Qualifiers, Europe, 2014",Iceland vs Albania,10-09-2013,Iceland,IS,2013,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 49371,971,2875,"World Cup Qualifiers, Europe, 2014",Serbia vs North Macedonia,15-10-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
 50650,50,1974,"World Cup Qualifiers, Africa, 2018",South Sudan vs Mauritania,08-10-2015,South Sudan,SS,2015,FAIL,Joseph Kuch,0,TRUE,Online Lookup Required,FALSE,Joseph Kuch,A Joseph,single
 50719,119,1977,"World Cup Qualifiers, Africa, 2018",Egypt vs Chad,17-11-2015,Egypt,EG,2015,FAIL,Mahmoud Hamada,0,TRUE,Online Lookup Required,FALSE,Mahmoud Hamada,Mahmoud Kahraba,single
@@ -892,11 +892,11 @@
 52771,1071,2577,"World Cup Qualifiers, Asia, 2022",Nepal vs Kuwait,19-11-2019,Kuwait,KW,2019,FAIL,Bashar Abdullah,0,TRUE,Online Lookup Required,FALSE,Bashar Abdullah,Dhari Abdullah,single
 52777,1077,2577,"World Cup Qualifiers, Asia, 2022",Nepal vs Kuwait,19-11-2019,Kuwait,KW,2019,FAIL,Yousef Al-Haqan,0,TRUE,Online Lookup Required,FALSE,Yousef Al-Haqan,Yousef Al Sulaiman,single
 52782,1082,2578,"World Cup Qualifiers, Asia, 2022",Iraq vs Iran,14-11-2019,Iraq,IQ,2019,FAIL,Ahmad Salah Alwan,0,TRUE,Online Lookup Required,FALSE,Ahmad Salah Alwan,Ahmad Ibrahim Al-Qafaje,single
-53338,538,881,"Euros 2024, Qualifiers",Norway vs Scotland,17.06.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-53404,604,884,"Euros 2024, Qualifiers",Norway vs Cyprus,20.06.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-53490,690,888,"Euros 2024, Qualifiers",Norway vs Georgia,12.09.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-53546,746,890,"Euros 2024, Qualifiers",Cyprus vs Norway,12.10.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-53580,780,892,"Euros 2024, Qualifiers",Norway vs Spain,15.10.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
+53338,538,881,"Euros 2024, Qualifiers",Norway vs Scotland,17.06.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+53404,604,884,"Euros 2024, Qualifiers",Norway vs Cyprus,20.06.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+53490,690,888,"Euros 2024, Qualifiers",Norway vs Georgia,12.09.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+53546,746,890,"Euros 2024, Qualifiers",Cyprus vs Norway,12.10.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+53580,780,892,"Euros 2024, Qualifiers",Norway vs Spain,15.10.23,Norway,NO,2023,FAIL,Even Hovland,0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
 56104,4,3944,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Jun-13,Jamaica,JM,2013,FAIL,Clifton Woodbine,0.0,TRUE,Online Lookup Required,FALSE,Clifton Woodbine,Woodbine,single
 56181,81,3947,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Jamaica,11-Jun-13,Jamaica,JM,2013,FAIL,Clifton Woodbine,0.0,TRUE,Online Lookup Required,FALSE,Clifton Woodbine,Woodbine,single
 56307,207,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,FAIL,Cecilio Waterman,0.0,TRUE,Online Lookup Required,FALSE,Cecilio Waterman,Waterman,single
@@ -997,7 +997,7 @@
 63070,370,2038,"World Cup Qualifiers, Africa, 2018",Cameroon vs Niger,17-11-2015,Niger,NE,2015,FAIL,Hassane Adamou,0,TRUE,Online Lookup Required,FALSE,Hassane Adamou,D Adamou,single
 63194,494,2045,"World Cup Qualifiers, Africa, 2022",Uganda vs Mali,06-09-2021,Uganda,UG,2021,FAIL,Derrick Nsibambi,0,TRUE,Online Lookup Required,FALSE,Derrick Nsibambi,D Nsimbambi,single
 63221,521,2046,"World Cup Qualifiers, Africa, 2022",Morocco vs Sudan,02-09-2021,Sudan,SD,2021,FAIL,Omer Mahmoud,0,TRUE,Online Lookup Required,FALSE,Omer Mahmoud,F Mamoun,single
-63325,625,2051,"World Cup Qualifiers, Africa, 2022",Mozambique vs Malawi,16-11-2021,Mozambique,MZ,2021,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Hélder Pelembe,Elias Pelembe,single
+63325,625,2051,"World Cup Qualifiers, Africa, 2022",Mozambique vs Malawi,16-11-2021,Mozambique,MZ,2021,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Domingues,Elias Pelembe,single
 63335,635,2051,"World Cup Qualifiers, Africa, 2022",Mozambique vs Malawi,16-11-2021,Malawi,MW,2021,FAIL,Mike Mkwate,0,TRUE,Online Lookup Required,FALSE,Mike Mkwate,M Mkwate,single
 63386,686,2054,"World Cup Qualifiers, Africa, 2022",Malawi vs Cameroon,13-11-2021,Malawi,MW,2021,FAIL,Francis Mulimbika,0,TRUE,Online Lookup Required,FALSE,Francis Mulimbika,F Mlimbika,single
 63388,688,2054,"World Cup Qualifiers, Africa, 2022",Malawi vs Cameroon,13-11-2021,Malawi,MW,2021,FAIL,Patrick Phiri,0,TRUE,Online Lookup Required,FALSE,Patrick Phiri,G Phiri,single
@@ -1014,10 +1014,10 @@
 63711,1011,2068,"World Cup Qualifiers, Africa, 2022",Ghana vs Zimbabwe,09-10-2021,Zimbabwe,ZW,2021,FAIL,Knox Mutizwa,0,TRUE,Online Lookup Required,FALSE,Knox Mutizwa,K Mutizwa,single
 63727,1027,2069,"World Cup Qualifiers, Africa, 2022",Chad vs Sudan,05-09-2019,Sudan,SD,2019,FAIL,Saleem Mohamed,0,TRUE,Online Lookup Required,FALSE,Saleem Mohamed,A Adam Mohammad,single
 63777,1077,2071,"World Cup Qualifiers, Africa, 2022",Gabon vs Egypt,05-09-2021,Egypt,EG,2021,FAIL,Mohamed Magdy,0,TRUE,Online Lookup Required,FALSE,Mohamed Magdy,Mohamed Magdi Kafsha,single
-64714,914,3375,"World Cup Qualifiers, Europe, 2022",Liechtenstein vs Iceland,31-03-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
-64747,947,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
-64753,953,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Helgi Danielsson,Þ Helgason,single
-64890,1090,3383,"World Cup Qualifiers, Europe, 2022",North Macedonia vs Iceland,14-11-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+64714,914,3375,"World Cup Qualifiers, Europe, 2022",Liechtenstein vs Iceland,31-03-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
+64747,947,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
+64753,953,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Thórir Jóhann Helgason,Þ Helgason,single
+64890,1090,3383,"World Cup Qualifiers, Europe, 2022",North Macedonia vs Iceland,14-11-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 65860,960,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Burkina Faso,BF,2015,FAIL,Mbah Koné,0,TRUE,Online Lookup Required,FALSE,Mbah Koné,M Ko,single
 65924,1024,3481,"African Cup of Nations, 2015",Equatorial Guinea vs Burkina Faso,21-01-2015,Burkina Faso,BF,2015,FAIL,Mbah Koné,0,TRUE,Online Lookup Required,FALSE,Mbah Koné,M Ko,single
 66226,226,1018,"Euros 2024, Qualifiers",Denmark vs Finland,23.03.23,Denmark,DK,2023,FAIL,Pierre-Emile Højbjerg,0,TRUE,Online Lookup Required,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single
@@ -1032,37 +1032,37 @@
 66904,904,1049,"Euros 2024, Qualifiers",Andorra vs Romania,25.03.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,TRUE,Online Lookup Required,FALSE,Luigi San Nicolas,San Nicolas,single
 67037,1037,1055,"Euros 2024, Qualifiers",Andorra vs Switzerland,16.06.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,TRUE,Online Lookup Required,FALSE,Luigi San Nicolas,San Nicolas,single
 67092,1092,1057,"Euros 2024, Qualifiers",Israel vs Andorra,19.06.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,TRUE,Online Lookup Required,FALSE,Luigi San Nicolas,San Nicolas,single
-67101,1,3384,"World Cup Qualifiers, Europe, 2022",Iceland vs Romania,02-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
-68322,122,3088,"World Cup Qualifiers, Europe, 2018",Moldova vs Serbia,06-10-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
-68785,585,3109,"World Cup Qualifiers, Europe, 2018",Wales vs Serbia,12-11-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
-69470,170,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,FAIL,MJ Williams,0.0,TRUE,Online Lookup Required,FALSE,MJ Williams,Jn Williams,single
+67101,1,3384,"World Cup Qualifiers, Europe, 2022",Iceland vs Romania,02-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0.0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
+68322,122,3088,"World Cup Qualifiers, Europe, 2018",Moldova vs Serbia,06-10-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
+68785,585,3109,"World Cup Qualifiers, Europe, 2018",Wales vs Serbia,12-11-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
+69470,170,1625,Nations League 2020-2021,Finland vs Wales,03.09.20,Wales,WA,2020,FAIL,MJ Williams,0.0,TRUE,Online Lookup Required,FALSE,Jonny Williams,Jn Williams,single
 69850,550,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,TRUE,Online Lookup Required,FALSE,Magomed Kurbanov,Magomedaliyev,single
 69894,594,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,TRUE,Online Lookup Required,FALSE,Magomed Kurbanov,Magomedaliyev,single
 69949,649,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,FAIL,Magomed Kurbanov,0.0,TRUE,Online Lookup Required,FALSE,Magomed Kurbanov,Magomedaliyev,single
 70423,23,2782,"World Cup Qualifiers, Europe, 2014",Faroe Islands vs Germany,10-09-2013,Faroe Islands,FO,2013,FAIL,Jógvan Davidsen,0.0,TRUE,Online Lookup Required,FALSE,Jógvan Davidsen,Jóhan Davidsen,single
-70445,45,2783,"World Cup Qualifiers, Europe, 2014",Serbia vs Scotland,26-03-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
+70445,45,2783,"World Cup Qualifiers, Europe, 2014",Serbia vs Scotland,26-03-2013,Serbia,RS,2013,FAIL,Boris Radunović,0.0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
 70494,94,2785,"World Cup Qualifiers, Europe, 2014",North Macedonia vs Wales,06-09-2013,North Macedonia,MK,2013,FAIL,Dejan Pesevski,0.0,TRUE,Online Lookup Required,FALSE,Dejan Pesevski,D Tasevski,single
 70533,133,2787,"World Cup Qualifiers, Europe, 2014",Faroe Islands vs Austria,15-10-2013,Faroe Islands,FO,2013,FAIL,Jógvan Davidsen,0.0,TRUE,Online Lookup Required,FALSE,Jógvan Davidsen,Jóhan Davidsen,single
 70624,224,2791,"World Cup Qualifiers, Europe, 2014",Malta vs Bulgaria,10-09-2013,Malta,MT,2013,FAIL,Shaun Dimech,0.0,TRUE,Online Lookup Required,FALSE,Shaun Dimech,L Dimech,single
 70930,530,2805,"World Cup Qualifiers, Europe, 2014",Latvia vs Bosnia-Herzegovina-Herzegovina,07-06-2013,Latvia,LV,2013,FAIL,Nikita Ivanovs,0.0,TRUE,Online Lookup Required,FALSE,Nikita Ivanovs,D Ivanovs,single
 70951,551,2806,"World Cup Qualifiers, Europe, 2014",Cyprus vs Switzerland,23-03-2013,Cyprus,CY,2013,FAIL,Dimitris Theodorou,0.0,TRUE,Online Lookup Required,FALSE,Dimitris Theodorou,C Theo,single
-70987,587,2807,"World Cup Qualifiers, Europe, 2014",Netherlands vs Romania,26-03-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
+70987,587,2807,"World Cup Qualifiers, Europe, 2014",Netherlands vs Romania,26-03-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Răzvan Raț,R Raț,single
 71007,607,2808,"World Cup Qualifiers, Europe, 2014",Liechtenstein vs Latvia,22-03-2013,Latvia,LV,2013,FAIL,Nikita Ivanovs,0.0,TRUE,Online Lookup Required,FALSE,Nikita Ivanovs,D Ivanovs,single
 71028,628,2809,"World Cup Qualifiers, Europe, 2014",Norway vs Cyprus,06-09-2013,Cyprus,CY,2013,FAIL,Dimitris Theodorou,0.0,TRUE,Online Lookup Required,FALSE,Dimitris Theodorou,C Theo,single
-71174,774,2816,"World Cup Qualifiers, Europe, 2014",Romania vs Estonia,15-10-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
+71174,774,2816,"World Cup Qualifiers, Europe, 2014",Romania vs Estonia,15-10-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Răzvan Raț,R Raț,single
 71204,804,2817,"World Cup Qualifiers, Europe, 2014",Switzerland vs Cyprus,08-06-2013,Cyprus,CY,2013,FAIL,Dimitris Theodorou,0.0,TRUE,Online Lookup Required,FALSE,Dimitris Theodorou,C Theo,single
 71226,826,2818,"World Cup Qualifiers, Europe, 2014",Kazakhstan vs Faroe Islands,06-09-2013,Faroe Islands,FO,2013,FAIL,Jógvan Davidsen,0.0,TRUE,Online Lookup Required,FALSE,Jógvan Davidsen,Jóhan Davidsen,single
 71251,851,2819,"World Cup Qualifiers, Europe, 2014",Armenia vs Malta,07-06-2013,Malta,MT,2013,FAIL,Shaun Dimech,0.0,TRUE,Online Lookup Required,FALSE,Shaun Dimech,L Dimech,single
-71349,949,2824,"World Cup Qualifiers, Europe, 2014",Romania vs Turkey,10-09-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Rațiu,R Raț,single
+71349,949,2824,"World Cup Qualifiers, Europe, 2014",Romania vs Turkey,10-09-2013,Romania,RO,2013,FAIL,Andrei Rațiu,0.0,TRUE,Online Lookup Required,FALSE,Răzvan Raț,R Raț,single
 71471,1071,2829,"World Cup Qualifiers, Europe, 2014",Hungary vs Romania,22-03-2013,Romania,RO,2013,FAIL,Andrei Radu,0.0,TRUE,Online Lookup Required,FALSE,Andrei Radu,Radu,single
-71626,126,4305,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Venezuela,01-Sep-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Bernardo Añor,J Anor,single
+71626,126,4305,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Venezuela,01-Sep-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Juanpi,J Anor,single
 71653,153,4306,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay vs Chile,01-Sep-16,Chile,CL,2016,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 71706,206,4309,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Bolivia,06-Sep-16,Chile,CL,2016,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
-71725,225,4310,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Argentina,06-Sep-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Bernardo Añor,J Anor,single
+71725,225,4310,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Argentina,06-Sep-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Juanpi,J Anor,single
 71806,306,4313,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Chile,06-Oct-16,Chile,CL,2016,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
-71827,327,4314,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Venezuela,06-Oct-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Bernardo Añor,J Anor,single
+71827,327,4314,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Venezuela,06-Oct-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Juanpi,J Anor,single
 71948,448,4320,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-16,Chile,CL,2016,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
-71989,489,4322,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Brazil,11-Oct-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Bernardo Añor,J Anor,single
+71989,489,4322,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Brazil,11-Oct-16,Venezuela,VE,2016,FAIL,Bernardo Añor,0,TRUE,Online Lookup Required,FALSE,Juanpi,J Anor,single
 72192,692,4331,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Uruguay,15-Nov-16,Chile,CL,2016,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 72238,738,4333,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Bolivia,23-Mar-17,Bolivia,BO,2017,FAIL,Héctor Cuellar,0,TRUE,Online Lookup Required,FALSE,Héctor Cuellar,Cuellar,single
 72240,740,4333,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Bolivia,23-Mar-17,Bolivia,BO,2017,FAIL,Cristhian Coimbra,0,TRUE,Online Lookup Required,FALSE,Cristhian Coimbra,Coimbra,single
@@ -1072,26 +1072,26 @@
 72335,835,4337,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Chile,23-Mar-17,Chile,CL,2017,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 72361,861,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Bolivia,BO,2017,FAIL,Edward Zenteno,0,TRUE,Online Lookup Required,FALSE,Edward Zenteno,Zenteno,single
 72366,866,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Bolivia,BO,2017,FAIL,Pablo Escobar,0,TRUE,Online Lookup Required,FALSE,Pablo Escobar,Escobar,single
-72377,877,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
+72377,877,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Angel di Maria,D Maria,single
 72379,879,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Argentina,AR,2017,FAIL,Lucas Pratto,0,TRUE,Online Lookup Required,FALSE,Lucas Pratto,Pratto,single
 72390,890,4340,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Venezuela,28-Mar-17,Chile,CL,2017,FAIL,Diego Sánchez,0,TRUE,Online Lookup Required,FALSE,Diego Sánchez,Sanchez,single
 72417,917,4341,"World Cup 2018, Qualifiers, CONMEBOL",Peru vs Uruguay,28-Mar-17,Uruguay,UY,2017,FAIL,Jorge Fucile,0,TRUE,Online Lookup Required,FALSE,Jorge Fucile,Fucile,single
 72455,955,4343,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Colombia,31-Aug-17,Venezuela,VE,2017,FAIL,Andrés Sánchez,0,TRUE,Online Lookup Required,FALSE,Andrés Sánchez,Sánchez,single
 72469,969,4344,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Paraguay,31-Aug-17,Chile,CL,2017,FAIL,Jorge Valdivia,0,TRUE,Online Lookup Required,FALSE,Jorge Valdivia,Valdivia,single
-72508,1008,4345,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Argentina,31-Aug-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Mariano Andújar,D Maria,single
+72508,1008,4345,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Argentina,31-Aug-17,Argentina,AR,2017,FAIL,Mariano Andújar,0,TRUE,Online Lookup Required,FALSE,Angel di Maria,D Maria,single
 72526,1026,4346,"World Cup 2018, Qualifiers, CONMEBOL",Peru vs Bolivia,31-Aug-17,Bolivia,BO,2017,FAIL,Edward Zenteno,0,TRUE,Online Lookup Required,FALSE,Edward Zenteno,Zenteno,single
-72566,1066,4348,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Brazil,05-Sep-17,Colombia,CO,2017,FAIL,Willer Ditta,0,TRUE,Online Lookup Required,FALSE,Willer Ditta,Willian,single
+72566,1066,4348,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Brazil,05-Sep-17,Brazil,BR,2017,FAIL,Willer Ditta,0,TRUE,Online Lookup Required,FALSE,Willian,Willian,single
 72568,1068,4348,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Brazil,05-Sep-17,Brazil,BR,2017,FAIL,Elias,0,TRUE,Online Lookup Required,FALSE,Elias,Arias,single
-72583,1083,4349,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Chile,05-Sep-17,Bolivia,BO,2017,FAIL,Óscar Díaz,0,TRUE,Online Lookup Required,FALSE,Óscar Díaz,Díaz,single
-72587,1087,4349,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Chile,05-Sep-17,Bolivia,BO,2017,FAIL,Óscar Díaz,0,TRUE,Online Lookup Required,FALSE,Óscar Díaz,Díaz,single
-72903,303,719,"Euros 2020, Qualifiers",Slovakia vs Wales,10.10.19,Wales,WA,2019,FAIL,MJ Williams,0.0,TRUE,Online Lookup Required,FALSE,MJ Williams,Jn Williams,single
+72583,1083,4349,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Chile,05-Sep-17,Chile,CH,2017,FAIL,Paulo Díaz,0,TRUE,Online Lookup Required,FALSE,Paulo Díaz,Díaz,single
+72587,1087,4349,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Chile,05-Sep-17,Chile,CH,2017,FAIL,Marcelo Díaz,0,TRUE,Online Lookup Required,FALSE,Marcelo Díaz,Díaz,single
+72903,303,719,"Euros 2020, Qualifiers",Slovakia vs Wales,10.10.19,Wales,WA,2019,FAIL,MJ Williams,0.0,TRUE,Online Lookup Required,FALSE,Jonny Williams,Jn Williams,single
 73934,234,1779,Nations League 2022-2023,Albania vs Iceland,27.09.22,Iceland,IS,2022,FAIL,Emil Pálsson,0.0,TRUE,Online Lookup Required,FALSE,Emil Pálsson,Palsson,single
-74227,527,1792,Nations League 2022-2023,Serbia vs Norway,02.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-74271,571,1794,Nations League 2022-2023,Sweden vs Norway,05.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-74326,626,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-74348,648,1798,Nations League 2022-2023,Norway vs Sweden,12.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-74403,703,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
-74458,758,1803,Nations League 2022-2023,Norway vs Serbia,27.09.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Even Hovland,E Håland,single
+74227,527,1792,Nations League 2022-2023,Serbia vs Norway,02.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+74271,571,1794,Nations League 2022-2023,Sweden vs Norway,05.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+74326,626,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+74348,648,1798,Nations League 2022-2023,Norway vs Sweden,12.06.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+74403,703,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
+74458,758,1803,Nations League 2022-2023,Norway vs Serbia,27.09.22,Norway,NO,2022,FAIL,Even Hovland,0.0,TRUE,Online Lookup Required,FALSE,Erling Haaland,E Håland,single
 74479,779,1804,Nations League 2022-2023,Lithuania vs Luxembourg,04.06.22,Lithuania,LT,2022,FAIL,Arunas Klimavicius,0.0,TRUE,Online Lookup Required,FALSE,Arunas Klimavicius,A Klimavičius,single
 74579,879,1808,Nations League 2022-2023,Faroe Islands vs Lithuania,11.06.22,Lithuania,LT,2022,FAIL,Arunas Klimavicius,0.0,TRUE,Online Lookup Required,FALSE,Arunas Klimavicius,A Klimavičius,single
 74806,6,2629,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Bahrain,14-11-2019,Hong Kong,HK,2019,FAIL,Jahangir Khan,0.0,TRUE,Online Lookup Required,FALSE,Jahangir Khan,Chan Siu Kwan,single
@@ -1137,8 +1137,8 @@
 76854,954,4191,"World Cup 2022, Qualifiers, CONCACAF",El Salvador vs Costa Rica,27-Mar-22,El Salvador,SV,2022,FAIL,Kevin Santamaría,0,TRUE,Online Lookup Required,FALSE,Kevin Santamaría,Santamaría,single
 76888,988,4192,"World Cup 2022, Qualifiers, CONCACAF",Canada vs Jamaica,27-Mar-22,Jamaica,JM,2022,FAIL,Nicholas Nelson,0,TRUE,Online Lookup Required,FALSE,Nicholas Nelson,Nelson,single
 76983,1083,4197,"World Cup 2022, Qualifiers, CONCACAF",Panama vs Canada,30-Mar-22,Panama,PA,2022,FAIL,Martín Gómez,0,TRUE,Online Lookup Required,FALSE,Martín Gómez,Martinez,single
-77799,799,3220,"World Cup Qualifiers, Europe, 2022",Iceland vs Liechtenstein,11-10-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Helgi Danielsson,Þ Helgason,single
-78090,1090,3233,"World Cup Qualifiers, Europe, 2022",Armenia vs Iceland,28-03-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+77799,799,3220,"World Cup Qualifiers, Europe, 2022",Iceland vs Liechtenstein,11-10-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Thórir Jóhann Helgason,Þ Helgason,single
+78090,1090,3233,"World Cup Qualifiers, Europe, 2022",Armenia vs Iceland,28-03-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 79967,767,1143,Euros 2016,Czech vs Croatia,17.06.16,Croatia,HR,2016,FAIL,Danijel Pranjic,0.0,TRUE,Online Lookup Required,FALSE,Danijel Pranjic,Pranjic,single
 80354,54,2278,"World Cup Qualifiers, Asia, 2018",Saudi Arabia vs Australia,06-10-2016,Saudi Arabia,SA,2016,FAIL,Nayef Hazazi,0,TRUE,Online Lookup Required,FALSE,Nayef Hazazi,Naif Hazazi,single
 80377,77,2279,"World Cup Qualifiers, Asia, 2018",Oman vs India,13-10-2015,India,IN,2015,FAIL,Gurmeet Singh,0,TRUE,Online Lookup Required,FALSE,Gurmeet Singh,Gurpreet Singh,single
@@ -1231,13 +1231,13 @@
 90306,40,2124,"World Cup Qualifiers, Africa, 2022",Kenya vs Rwanda,15-11-2021,Rwanda,RW,2021,FAIL,Keddy Nsanzimfura,0,TRUE,Online Lookup Required,FALSE,Keddy Nsanzimfura,K Nsanzimfura,single
 90380,114,2128,"World Cup Qualifiers, Africa, 2022",Mali vs Tunisia,25-03-2022,Mali,ML,2022,FAIL,Mohamed Haidara,0,TRUE,Online Lookup Required,FALSE,Mohamed Haidara,M Haïdara,single
 90429,163,2130,"World Cup Qualifiers, Africa, 2022",Central African Republic vs Cape Verde,01-09-2021,Central African Republic,CF,2021,FAIL,Hénoc Kpéko Damona,0,TRUE,Online Lookup Required,FALSE,Hénoc Kpéko Damona,H Damona,single
-90433,167,2130,"World Cup Qualifiers, Africa, 2022",Central African Republic vs Cape Verde,01-09-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Carlos Bebé,Carlos Ponck,single
+90433,167,2130,"World Cup Qualifiers, Africa, 2022",Central African Republic vs Cape Verde,01-09-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Ponck,Carlos Ponck,single
 90448,182,2131,"World Cup Qualifiers, Africa, 2022",Niger vs Algeria,12-10-2021,Niger,NE,2021,FAIL,Moumouni Diori,0,TRUE,Online Lookup Required,FALSE,Moumouni Diori,B Moumouni,single
 90546,280,2135,"World Cup Qualifiers, Africa, 2022",Tunisia vs Zambia,16-11-2021,Zambia,ZM,2021,FAIL,Dickson Chapa,0,TRUE,Online Lookup Required,FALSE,Dickson Chapa,D Chapa,single
-90608,342,2138,"World Cup Qualifiers, Africa, 2022",Liberia vs Cape Verde,07-10-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Carlos Bebé,Carlos Ponck,single
+90608,342,2138,"World Cup Qualifiers, Africa, 2022",Liberia vs Cape Verde,07-10-2021,Cape Verde,CV,2021,FAIL,Carlos Bebé,0,TRUE,Online Lookup Required,FALSE,Ponck,Carlos Ponck,single
 90684,418,2142,"World Cup Qualifiers, Africa, 2022",Lesotho vs Ethiopia,08-09-2019,Lesotho,LS,2019,FAIL,Thabiso Mari,0,TRUE,Online Lookup Required,FALSE,Thabiso Mari,L Thabiso,single
 90731,465,2144,"World Cup Qualifiers, Africa, 2022",Sudan vs Morocco,12-11-2021,Sudan,SD,2021,FAIL,Omer Mahmoud,0,TRUE,Online Lookup Required,FALSE,Omer Mahmoud,F Mamoun,single
-90769,503,2145,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire vs Mozambique,13-11-2021,Mozambique,MZ,2021,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Hélder Pelembe,Elias Pelembe,single
+90769,503,2145,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire vs Mozambique,13-11-2021,Mozambique,MZ,2021,FAIL,Hélder Pelembe,0,TRUE,Online Lookup Required,FALSE,Domingues,Elias Pelembe,single
 90817,551,2148,"World Cup Qualifiers, Africa, 2022",Zimbabwe vs Ghana,12-10-2021,Zimbabwe,ZW,2021,FAIL,Rahman Kutsanzira,0,TRUE,Online Lookup Required,FALSE,Rahman Kutsanzira,R Kutsanzira,single
 90820,554,2148,"World Cup Qualifiers, Africa, 2022",Zimbabwe vs Ghana,12-10-2021,Zimbabwe,ZW,2021,FAIL,Brendan Galloway,0,TRUE,Online Lookup Required,FALSE,Brendan Galloway,B Galloway,single
 90979,713,2155,"World Cup Qualifiers, Africa, 2022",Kenya vs Mali,10-10-2021,Kenya,KE,2021,FAIL,Boniface Muchiri,0,TRUE,Online Lookup Required,FALSE,Boniface Muchiri,B Muchiri,single
@@ -1246,14 +1246,14 @@
 91114,848,2161,"World Cup Qualifiers, Africa, 2022",Senegal vs Togo,01-09-2021,Togo,TG,2021,FAIL,Jean-Marie Nadjombe,0,TRUE,Online Lookup Required,FALSE,Jean-Marie Nadjombe,J Nadjombe,single
 91228,962,2166,"World Cup Qualifiers, Africa, 2022",Guinea-Bissau vs Sudan,15-11-2021,Sudan,SD,2021,FAIL,Omer Mahmoud,0,TRUE,Online Lookup Required,FALSE,Omer Mahmoud,F Mamoun,single
 91290,1024,2169,"World Cup Qualifiers, Africa, 2022",South Africa vs Ghana,06-09-2021,Ghana,GH,2021,FAIL,Fatawu Mohammed,0,TRUE,Online Lookup Required,FALSE,Fatawu Mohammed,F Mohammed,single
-92017,651,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0.0,TRUE,Online Lookup Required,FALSE,Mor Nguer,M Wague,single
-92039,673,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0.0,TRUE,Online Lookup Required,FALSE,Mor Nguer,M Wague,single
+92017,651,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0.0,TRUE,Online Lookup Required,FALSE,Moussa Wagué,M Wague,single
+92039,673,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0.0,TRUE,Online Lookup Required,FALSE,Moussa Wagué,M Wague,single
 93143,677,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,FAIL,Aldair Ruiz,0,TRUE,Online Lookup Required,FALSE,Aldair Ruiz,K Aldair,single
 93156,690,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,FAIL,Álex Rodríguez,0,TRUE,Online Lookup Required,FALSE,Álex Rodríguez,P Rodríguez,single
 93285,819,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,FAIL,Aldair Ruiz,0,TRUE,Online Lookup Required,FALSE,Aldair Ruiz,K Aldair,single
-93744,178,2990,"World Cup Qualifiers, Europe, 2018",Serbia vs Republic of Ireland,05-09-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Boris Radunović,B Ivanović,single
-95459,793,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
-95467,801,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Helgi Danielsson,Þ Helgason,single
-95701,1035,3281,"World Cup Qualifiers, Europe, 2022",Iceland vs North Macedonia,05-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Bödvar Bödvarsson,B Sævarsson,single
+93744,178,2990,"World Cup Qualifiers, Europe, 2018",Serbia vs Republic of Ireland,05-09-2016,Serbia,RS,2016,FAIL,Boris Radunović,0,TRUE,Online Lookup Required,FALSE,Branislav Ivanovic,B Ivanović,single
+95459,793,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
+95467,801,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,FAIL,Helgi Danielsson,0,TRUE,Online Lookup Required,FALSE,Thórir Jóhann Helgason,Þ Helgason,single
+95701,1035,3281,"World Cup Qualifiers, Europe, 2022",Iceland vs North Macedonia,05-09-2021,Iceland,IS,2021,FAIL,Bödvar Bödvarsson,0,TRUE,Online Lookup Required,FALSE,Birkir Már Saevarsson,B Sævarsson,single
 95967,201,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,FAIL,Arunas Klimavicius,0.0,TRUE,Online Lookup Required,FALSE,Arunas Klimavicius,Ar Klimavičius,single
 96435,669,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,FAIL,Izan Fernández,0.0,TRUE,Online Lookup Required,FALSE,Izan Fernández,R Fernandez,single
