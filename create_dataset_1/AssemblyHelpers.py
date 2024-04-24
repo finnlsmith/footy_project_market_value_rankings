@@ -1231,6 +1231,7 @@ def find_match_date_in_player_history(input_date, pagesoup_input):
             return False
 
     try:
+        #print(correct_date_obj)
         table_test = pagesoup_input.find_all("div", {"class": "responsive-table"})[1].find_all("tbody")[0]
         #print('regular date loop.  table test is ', table_test)
         for i in range(0, len(table_test.find_all('tr'))):
@@ -1368,9 +1369,28 @@ def multiNameMatchDateLookup(input_list_of_names, input_nationality, input_year_
 
     if(len(result_array_aftertest) == 1):
         #After this leg there's one match 
-        candidate_name_r6 = result_array_aftertest[0]
+        if len(playernames_testing) == len(result_array_aftertest):
+            #print('do what i want')
+            datematch_required = True
+            second_array_test = []
+            #print('soup dictionary', players_pagesoup_dictionary)
+
+            for k in range(0, len(result_array_aftertest)):
+                
+                currplayer_2 = result_array_aftertest[k]
+
+                #print(f'looking at {currplayer_2} to find {input_year_test} in history')
+                pagesoup_this_guy = players_pagesoup_dictionary[currplayer_2]
+
+                #print(f'inside loop searching. player is {currplayer_2}')
+
+                if(find_match_date_in_player_history(input_year_test, pagesoup_this_guy) == True):
+                    second_array_test.append(currplayer_2)
+
+        else:
+            candidate_name_r6 = result_array_aftertest[0]
         #money_thisplayer = find_money_info_from_name(candidate_name_r6, natl_test, input_year_test, salary_boolean)
-        return candidate_name_r6
+            return candidate_name_r6
         
     elif((len(playernames_testing) == len(result_array_aftertest)) | (len(result_array_aftertest) >= 2)):
         
