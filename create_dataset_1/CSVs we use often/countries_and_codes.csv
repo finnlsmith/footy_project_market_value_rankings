@@ -1,0 +1,306 @@
+,Country, Code
+0,Abkhazia,AB
+1,Afghanistan,AF
+2,Akrotiri and Dhekelia,AX
+3,Albania,AL
+4,Algeria,DZ
+5,American Samoa,AS
+6,Andorra,AD
+7,Angola,AO
+8,Anguilla,AI
+9,Antigua and Barbuda,AG
+10,Argentina,AR
+11,Armenia,AM
+12,Aruba,AW
+13,Ascension Island,AC
+14,Australia,AU
+15,Australia*,AU
+16,Austria,AT
+17,Azerbaijan,AZ
+18,Bahamas,BS
+19,Bahrain,BH
+20,Bangladesh,BD
+21,Barbados,BB
+22,Belarus,BY
+23,Belgium,BE
+24,Belize,BZ
+25,Benin,BJ
+26,Bermuda,BM
+27,Bhutan,BT
+28,Bolivia,BO
+29,Bosnia,BA
+30,Bosnia and Herzegovina,BA
+31,Bosnia-Herzegovina-Herzegovina,BA
+32,Bosnia-Herzegovina,BA
+33,Botswana,BW
+34,Brazil,BR
+35,Brunei,BN
+36,Brunei Darussalam,BN
+37,British Virgin Islands, BVI
+38,Bulgaria,BG
+39,Burkina,BF
+40,Burkina Faso,BF
+41,Burundi,BI
+42,Cambodia,KH
+43,Cameroon,CM
+44,Canada,CA
+45,Cape Verde,CV
+46,Cape Verde Islands,CV
+47,Caribbean Netherlands,BQ
+48,Cayman Islands,KY
+49,Central African Rep,CF
+50,Central African Republic,CF
+51,Central African Republic,CF
+52,C.A.R.,CF
+53,Chad,TD
+54,Chile,CL
+55,China,CN
+56,China PR,CN
+57,China_PR,CN
+58,Christmas Island,CX
+59,Cocos (Keeling) Islands,CC
+60,Colombia,CO
+61,Comoros,KM
+62,Comoros Islands,KM
+63,Comores,KM
+64,Congo DR, DR
+65,Congo R,CG
+66,Congo,CG
+67,Cook Islands,CK
+68,Costa Rica,CR
+69,Croatia,HR
+70,Cuba,CU
+71,Curaçao,CW
+72,Curacao,CW
+73,Cyprus,CY
+74,Czech,CZ
+75,Czech Rep,CZ
+76,Czech Republic,CZ
+77,Denmark,DK
+78,Diego Garcia,DG
+79,Djibouti,DJ
+80,Dominica,DM
+81,Dominicana,DO
+82,Dominican Republic,DO
+83,DR Congo,DR
+84,Democratic Republic of the Congo,DR
+85,East Timor,EA
+86,Ecuador,EC
+87,Egypt,EG
+88,El Salvador,SV
+89,England,EN
+90,Eq. Guinea,GQ
+91,Equatorial Guinea,GQ
+92,Eritrea,ER
+93,Estonia,EE
+94,Eswatini,SZ
+95,eSwatini,SZ
+96,Ethiopia,ET
+97,Falkland Islands (Islas Malvinas),FK
+98,Faroe Islands,FO
+99,Faroe Isl,FO
+100,Fiji,FJ
+101,Finland,FI
+102,France,FR
+103,French Guiana,GF
+104,French Guyana,GF
+105,Fr.Polynesia,PF
+106,French Polynesia,PF
+107,Fr. Polynesia,PF
+108,Gabon,GA
+109,Gambia,GM
+110,Georgia,GE
+111,Germany,DE
+112,Ghana,GH
+113,Gibraltar,GI
+114,Greece,GR
+115,Greenland,GL
+116,Grenada,GD
+117,Guadeloupe,GP
+118,Guam,GU
+119,Guatemala,GT
+120,Guernsey,GG
+121,Guinea,GN
+122,Guinea Bissau,GW
+123,Guinea-Bissau,GW
+124,Guyana,GY
+125,Haiti,HT
+126,Honduras,HN
+127,Hong Kong,HK
+128,Hungary,HU
+129,Iceland,IS
+130,India,IN
+131,Indonesia,ID
+132,Iran,IR
+133,Iraq,IQ
+134,Ireland,IE
+135,Republic of Ireland,IE
+136,Isle of Man,IM
+137,Israel,IL
+138,Italy,IT
+139,Ivory Coast,CI
+140,Cote d'Ivoire,CI
+141,Jamaica,JM
+142,Japan,JP
+143,Jersey,JE
+144,Jordan,JO
+145,Kazakhstan,KZ
+146,Kenya,KE
+147,Kiribati,KI
+148,Kosovo,XK
+149,Korea Republic,KR
+150,Kuwait,KW
+151,Kyrgyzstan,KG
+152,Laos,LA
+153,Latvia,LV
+154,Lebanon,LB
+155,Lesotho,LS
+156,Liberia,LR
+157,Libya,LY
+158,Liechtenstein,LI
+159,Lithuania,LT
+160,Luxembourg,LU
+161,Macao,MF
+162,Macau,MF
+163,Madagascar,MG
+164,Malawi,MW
+165,Malaysia,MY
+166,Maldives,MV
+167,Mali,ML
+168,Malta,MT
+169,Marshall Islands,MH
+170,Martinique,MQ
+171,Mauritania,MR
+172,Mauritius,MU
+173,Mayotte,YT
+174,Mexico,MX
+175,Micronesia,FM
+176,Moldova,MD
+177,Monaco,MC
+178,Mongolia,MN
+179,Montenegro,ME
+180,Montserrat,MS
+181,Morocco,MA
+182,Mozambique,MZ
+183,Myanmar,MM
+184,Namibia,
+185,Nauru,NR
+186,Nepal,NP
+187,Netherlands,NL
+188,New Caledonia,NC
+189,New Zealand,NZ
+190,Nicaragua,NI
+191,Niger,NE
+192,Nigeria,NG
+193,Niue,NU
+194,Norfolk Island,NF
+195,Korea DPR,KP
+196,North Korea,KP
+197,N. Macedonia,MK
+198,N.Macedonia,MK
+199,North Macedonia,MK
+200,North. Ireland, NI
+201,Northern Ireland, NI
+202,Northern Mariana Islands,MP
+203,Norway,NO
+204,Oman,OM
+205,Pakistan,PK
+206,Palau,PW
+207,Palestine,PS
+208,Panama,PA
+209,Papua New Guinea,PG
+210,Paraguay,PY
+211,Peru,PE
+212,Philippines,PH
+213,Pitcairn Islands,PN
+214,Poland,PL
+215,Portugal,PT
+216,Puerto Rico,PR
+217,Qatar,QA
+218,Republic of the Congo,CG
+219,Réunion,RE
+220,Romania,RO
+221,Russia,RU
+222,FUR,RU
+223,RSA,ZA
+224,Rwanda,RW
+225,Samoa,WS
+226,San Marino,SM
+227,São Tomé and Príncipe,ST
+228,Sao Tome e Principe,ST
+229,Sao Tome,ST
+230,Saudi Arabia,SA
+231,Scotland,SC
+232,Senegal,SN
+233,Serbia,RS
+234,Seychelles,SC
+235,Sierra Leone,SL
+236,Singapore,SG
+237,Sint Maarten,SX
+238,Slovakia,SK
+239,Slovenia,SI
+240,Solomon Islands,SB
+241,Somalia,SO
+242,South Africa,ZA
+243,South Georgia & South Sandwich Islands,GS
+244,South Korea,KR
+245,South Sudan,SS
+246,Spain,ES
+247,Sri Lanka,LK
+248,St. Barthélemy,BL
+249,St. Helena,SH
+250,St. Kitts and Nevis,KN
+251,Saint Kitts and Nevis,KN
+252,Saint Lucia,LC
+253,St. Martin,MF
+254,St. Pierre & Miquelon,PM
+255,Saint Vincent and the Grenadines,VC
+256,Sudan,SD
+257,Suriname,SR
+258,Svalbard & Jan Mayen,SJ
+259,Swaziland,SZ
+260,Sweden,SE
+261,Switzerland,CH
+262,Syria,SY
+263,Chinese Taipei,TW
+264,Tahiti, TI
+265,Tajikistan,TJ
+266,Tanzania,TZ
+267,Tanzania*,TZ
+268,Thailand,TH
+269,The Gambia,GM
+270,Timor-Leste,TL
+271,Togo,TG
+272,Tokelau,TK
+273,Tonga,TO
+274,Trinidad and Tobago,TT
+275,Tristan da Cunha,TA
+276,Tunisia,TN
+277,Turkey,TR
+278,Türkiye,TR
+279,Turkmenistan,TM
+280,Turks and Caicos Iss,TC
+281,Turks and Caicos Islands,TC
+282,Tuvalu,TV
+283,U.S. Outlying Islands,UM
+284,US Virgin Islands,VI
+285,Uganda,UG
+286,Ukraine,UA
+287,United Arab Emirates,AE
+288,UAE,AE
+289,United Kingdom,GB
+290,United States,US
+291,USA,US
+292,Uruguay,UY
+293,Uzbekistan,UZ
+294,United States Virgin Islands,VI
+295,Vanuatu,VU
+296,Vatican City,VA
+297,Venezuela,VE
+298,Vietnam,VN
+299,Wales,WA
+300,Wallis & Futuna,WF
+301,Western Sahara,EH
+302,Yemen,YE
+303,Zambia,ZM
+304,Zimbabwe,ZW

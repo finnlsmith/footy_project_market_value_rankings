@@ -1,0 +1,33 @@
+,Unnamed: 0,Jersey Name,Name Match,Date,Nationality,Country Code,Match ID,Competition,Match,Lookup Still Required?,Lookup Return Case,Status
+0,340,Rui Gomes,['Rui'],07-09-2021,Equatorial Guinea,GQ,2101,"World Cup Qualifiers, Africa, 2022",Equatorial Guinea vs Mauritania,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+1,534,Aloísio,['Aloísio'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+2,535,Alan,['Alan'],01-02-2022,China PR,CN,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+3,542,Wang Gang,['Gang Wang'],07-10-2021,China PR,CN,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+4,777,Wang Gang,['Gang Wang'],7-9-2021,China PR,CN,2567,"World Cup Qualifiers, Asia, 2022",China PR vs Japan,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+5,789,Aloísio,['Aloísio'],16-11-2021,China PR,CN,2569,"World Cup Qualifiers, Asia, 2022",China PR vs Australia,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+6,984,Aloísio,['Aloísio'],11-11-2021,China PR,CN,2632,"World Cup Qualifiers, Asia, 2022",China PR vs Oman,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+7,1203,D Giorgi,Diego Gil,07-Oct-11,Venezuela,VE,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+8,1204,D Giorgi,Diego Gil,02-Jun-12,Venezuela,VE,4216,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Venezuela,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+9,1205,D Giorgi,Diego Gil,09-Jun-12,Venezuela,VE,4221,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Chile,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+10,1210,I Inomov,Farrukh Ikromov,06-09-2013,Uzbekistan,UZ,2254,"World Cup Qualifiers, Asia, 2014",Jordan vs Uzbekistan,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+11,1234,M Manser,Mohamed Ben Mansour,18-01-2015,Tunisia,TN,3495,"African Cup of Nations, 2015",Tunisia vs Cape Verde,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+12,1248,K Carter,Keron Clarke,09-07-2013,Trinidad and Tobago,TT,3651,"Gold Cup, 2013",El Salvador vs Trinidad and Tobago,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+13,1249,M Adoassou,Eli Matthieu Adaoussou,10-09-2019,Chad,TD,2175,"World Cup Qualifiers, Africa, 2022",Sudan vs Chad,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+14,1300,Menzi Masuku,Senzo Meyiwa,2016-08-04,South Africa,ZA,1329,"Olympics, 2016",Brazil vs South Africa,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+15,1301,Menzi Masuku,Senzo Meyiwa,2016-08-10,South Africa,ZA,1333,"Olympics, 2016",South Africa vs Iraq,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+16,1302,Astrit Ajdarević,Yasin Ayari,2016-08-04,Sweden,SE,1334,"Olympics, 2016",Sweden vs Colombia,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+17,1303,Seth Muenfuh Sincere,Seth Mayi,2016-08-04,Nigeria,NG,1335,"Olympics, 2016",Nigeria vs Japan,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+18,1304,Astrit Ajdarević,Yasin Ayari,2016-08-07,Sweden,SE,1336,"Olympics, 2016",Sweden vs Nigeria,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+19,1305,Seth Muenfuh Sincere,Seth Mayi,2016-08-07,Nigeria,NG,1336,"Olympics, 2016",Sweden vs Nigeria,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+20,1306,Astrit Ajdarević,Yasin Ayari,2016-08-10,Sweden,SE,1338,"Olympics, 2016",Japan vs Sweden,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+21,1307,Seth Muenfuh Sincere,Seth Mayi,2016-08-10,Nigeria,NG,1339,"Olympics, 2016",Colombia vs Nigeria,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+22,1368,M Manser,Mohamed Ben Mansour,17-11-2015,Tunisia,TN,1968,"World Cup Qualifiers, Africa, 2018",Tunisia vs Mauritania,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+23,1370,D Maria,David Martínez,05-Sep-17,Venezuela,VE,4352,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Venezuela,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+24,1371,M Thuma,Misani Ega Thupa,07-09-2013,Botswana,BW,1888,"World Cup Qualifiers, Africa, 2014",South Africa vs Botswana,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+25,1372,T Motlhabankwe,Thabang Mosige,07-09-2013,Botswana,BW,1888,"World Cup Qualifiers, Africa, 2014",South Africa vs Botswana,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+26,1373,S Thompson,Tommy Songo,07-09-2013,Liberia,LR,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+27,1375,B Barry,Vakoun Bayo,16-11-2013,Cote d'Ivoire,CI,1906,"World Cup Qualifiers, Africa, 2014",Senegal vs Cote d'Ivoire,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+28,1376,B Barry,Vakoun Bayo,07-09-2013,Cote d'Ivoire,CI,1907,"World Cup Qualifiers, Africa, 2014",Cote d'Ivoire vs Morocco,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+29,1377,B Barry,Vakoun Bayo,12-10-2013,Cote d'Ivoire,CI,1911,"World Cup Qualifiers, Africa, 2014",Cote d'Ivoire vs Senegal,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+30,1387,A Akuie,William Akio,13-10-2015,South Sudan,SS,1973,"World Cup Qualifiers, Africa, 2018",Mauritania vs South Sudan,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL
+31,1489,D Daluri,David Alfred Urbano,08-09-2019,South Sudan,SS,2136,"World Cup Qualifiers, Africa, 2022",Equatorial Guinea vs South Sudan,TRUE,Failed Using Name Looking at Season and Season +-1,FAIL

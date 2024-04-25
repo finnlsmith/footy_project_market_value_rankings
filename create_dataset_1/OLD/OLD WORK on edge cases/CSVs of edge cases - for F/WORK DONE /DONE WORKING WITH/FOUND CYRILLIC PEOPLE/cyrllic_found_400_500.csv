@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,400,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,4. Делгаду,Delgado,"['Ricardo Delgado', 'Gilson Delgado']",Success
+1,401,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,14. Мальже,Malzhe,['Kevin Malget'],Success
+2,402,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,18. Янс,Jans,['Laurent Jans'],Success
+3,403,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,8. Мартинс К.,K Martins,['Christopher Martins Pereira'],Success
+4,404,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,10. Пайяль,Payal,['Ben Payal'],Success
+5,405,439,"Euros 2016, Qualifiers",09.10.15,Spain vs Luxembourg,2015,Luxembourg,LU,17. Мутш,Mutsh,['Mario Mutsch'],Success
+6,406,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,6. Шиков,Shikov,['Vance Sikov'],Success
+7,407,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,2. Брдаровски,Brdarovski,['Vladica Brdarovski'],Success
+8,408,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,3. Жута,Yellow,0,Fail
+9,409,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,4. Петрович,['Kire Ristevski'],['Kire Ristevski'],Success
+10,410,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,5. Мойсов,Moisov,['Daniel Mojsov'],Success
+11,411,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,9. Трайковски,Trajkovski,['Aleksandar Trajkovski'],Success
+12,412,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,17. Степанович,Stepanovich,['Ostoja Stjepanovic'],Success
+13,413,440,"Euros 2016, Qualifiers",12.10.15,Belarus vs North Macedonia,2015,N. Macedonia,MK,22. Митов-Нилсон,Mitov Nilson,['David Mitov Nilsson'],Success
+14,414,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,1. Жубер,Joubert,['Jonathan Joubert'],Success
+15,415,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,2. Шано,Shano,0,Fail
+16,416,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,4. Делгаду,Delgado,"['Ricardo Delgado', 'Gilson Delgado']",Success
+17,417,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,6. Филлипс,Chris Philipps,['Chris Philipps'],Success
+18,418,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,8. Мартинс,Martins,"['Marvin Martins', 'Christopher Martins Pereira']",Success
+19,419,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,10. Пайяль,Payal,['Ben Payal'],Success
+20,420,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,17. Мутш,Mutsh,['Mario Mutsch'],Success
+21,421,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Luxembourg,LU,18. Янс,Jans,['Laurent Jans'],Success
+22,422,441,"Euros 2016, Qualifiers",12.10.15,Luxembourg vs Slovakia,2015,Slovakia,SK,5. Дьомбер,Diomber,0,Fail
+23,423,444,"Euros 2016, Qualifiers",07.09.14,Germany vs Scotland,2014,Scotland,SC,11. Анья,Anya,['Ikechi Anya'],Success
+24,424,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Ireland,IE,1. Форд,Ford,['David Forde'],Success
+25,425,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Ireland,IE,8. Хендрик,Hendrik,['Jeff Hendrick'],Success
+26,426,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Ireland,IE,12. Мейлер,Mailer,['David Meyler'],Success
+27,427,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Ireland,IE,20. Хулахан,Hulahan,['Wes Hoolahan'],Success
+28,428,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,1. Дж.Перес,J Perez,['Jordan Perez'],Success
+29,429,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,2. Уайзмен,Wiseman,['Scott Wiseman'],Success
+30,430,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,3. Д.Чиполина,Dchipolina,['Kenneth Chipolina'],Success
+31,431,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,5. Р.Кашаро,R Kasharo,0,Fail
+32,432,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,6. Р.Чиполина,R Chipolina,['Roy Chipolina'],Success
+33,433,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,8. Бадо,Bado,"['Julio Bado', 'Rafael Bado']",Success
+34,434,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,10. Уокер,Walker,['Liam Walker'],Success
+35,435,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,11. Гослинг,Gosling,['Jake Gosling'],Success
+36,436,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,16. Б.Перес,B Peres,['Brian Perez'],Success
+37,437,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,19. Пайас,Payas,['Aaron Payas'],Success
+38,438,446,"Euros 2016, Qualifiers",11.10.14,Ireland vs Gibraltar,2014,Gibraltar,GI,7. Л.Кашаро,L Kasharo,0,Fail
+39,439,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,1. Маршалл,Marshall,['David Marshall'],Success
+40,440,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,2. Хаттон,Hatton,['Alan Hutton'],Success
+41,441,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,3. Робертсон,Robertson,['Andrew Robertson'],Success
+42,442,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,4. Мартин,Martin,"['Russell Martin', 'Chris Martin', 'Martin Williams']",Success
+43,443,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,5. Хенли,Henley,"['Grant Hanley', 'Henney Dufrene']",Success
+44,444,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,6. Мэлони,Malonie,['Shaun Maloney'],Success
+45,445,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,7. Моррисон,Morrison,['James Morrison'],Success
+46,446,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,8. Браун,Brown,"['Scott Brown', 'Jacob Brown', 'Julio Brown']",Success
+47,447,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,9. Флетчер,Fletcher,"['Darren Fletcher', 'Steven Fletcher']",Success
+48,448,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,11. Анья,Anya,['Ikechi Anya'],Success
+49,449,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Scotland,SC,10. Нейсмит,Naismith,['Steven Naismith'],Success
+50,450,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,1. Лория,Loria,['Giorgi Loria'],Success
+51,451,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,2. Лобжанидже,Lobzhanidzhe,['Ucha Lobzhanidze'],Success
+52,452,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,3. Квирквелия,Kvirkvelia,"['Solomon Kvirkvelia', 'Davit Kvirkvelia']",Success
+53,453,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,5. Григалава,Grigalava,['Gia Grigalava'],Success
+54,454,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,6. Хубутия,Khubutia,['Akaki Khubutia'],Success
+55,455,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,7. Канкава,Kankava,['Jaba Kankava'],Success
+56,456,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,8. Даушвили,Daushvili,['Murtaz Daushvili'],Success
+57,457,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,16. Квирквелия,Kvirkvelia,"['Solomon Kvirkvelia', 'Davit Kvirkvelia']",Success
+58,458,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,19. Папава,Papava,['Giorgi Papava'],Success
+59,459,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,20. Казаишвили,Kazaishvili,0,Fail
+60,460,447,"Euros 2016, Qualifiers",11.10.14,Scotland vs Georgia,2014,Georgia,GE,9. Гелашвили,Gelashvili,"['Nikoloz Gelashvili', 'Iva Gelashvili']",Success
+61,461,448,"Euros 2016, Qualifiers",11.10.14,Poland vs Germany,2014,Poland,PL,6. Йодловец,Jodlowiec,['Tomasz Jodlowiec'],Success
+62,462,449,"Euros 2016, Qualifiers",14.10.14,Germany vs Ireland,2014,Ireland,IE,1. Форд,Ford,['David Forde'],Success
+63,463,449,"Euros 2016, Qualifiers",14.10.14,Germany vs Ireland,2014,Ireland,IE,6. Уилан,Whelan,['Glenn Whelan'],Success
+64,464,449,"Euros 2016, Qualifiers",14.10.14,Germany vs Ireland,2014,Ireland,IE,12. Мейлер,Mailer,['David Meyler'],Success
+65,465,449,"Euros 2016, Qualifiers",14.10.14,Germany vs Ireland,2014,Ireland,IE,18. Куинн,Quinn,['Stephen Quinn'],Success
+66,466,449,"Euros 2016, Qualifiers",14.10.14,Germany vs Ireland,2014,Ireland,IE,19. Уолтерс,Walters,['Jonathan Walters'],Success
+67,467,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,13. Робба,Robba,['Jamie Robba'],Success
+68,468,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,2. Уайзмен,Wiseman,['Scott Wiseman'],Success
+69,469,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,3. Д.Чиполина,Dchipolina,['Kenneth Chipolina'],Success
+70,470,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,5. Р.Кашаро,R Kasharo,0,Fail
+71,471,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,18. Сантос,Santos,"['Kevin de los Santos', 'Yogan Santos', 'Shaun De Los Santos', 'Ethan Santos']",Success
+72,472,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,10. Уокер,Walker,['Liam Walker'],Success
+73,473,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,16. Б.Перес,B Peres,['Brian Perez'],Success
+74,474,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,20. Гарсия,Garcia,"['Jean-Carlos Garcia', 'Kieron Garcia']",Success
+75,475,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,21. Гиллинг,Gilling,['Robert Guiling'],Success
+76,476,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,7. Л.Кашаро,L Kasharo,0,Fail
+77,477,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Gibraltar,GI,9. К.Кашаро,K Casharo,['Kyle Casciaro'],Success
+78,478,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,1. Лория,Loria,['Giorgi Loria'],Success
+79,479,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,2. Лобжанидзе,Lobzhanidze,['Ucha Lobzhanidze'],Success
+80,480,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,3. Кверквелия,Kverkvelia,"['Solomon Kvirkvelia', 'Davit Kvirkvelia']",Success
+81,481,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,5. Григалава,Grigalava,['Gia Grigalava'],Success
+82,482,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,6. Хубутия,Khubutia,['Akaki Khubutia'],Success
+83,483,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,7. Канкава,Kankava,['Jaba Kankava'],Success
+84,484,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,9. Гелашвили,Gelashvili,"['Nikoloz Gelashvili', 'Iva Gelashvili']",Success
+85,485,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,10. Ананидзе,Ananidze,['Jano Ananidze'],Success
+86,486,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,21. Дзария,Dzaria,['Irakli Dzaria'],Success
+87,487,450,"Euros 2016, Qualifiers",14.10.14,Gibraltar vs Georgia,2014,Georgia,GE,11. Чантурия,Giorgi Chanturia,['Giorgi Chanturia'],Success
+88,488,451,"Euros 2016, Qualifiers",14.10.14,Poland vs Scotland,2014,Poland,PL,16. Мончински,Monczynski,['Krzysztof Maczynski'],Success
+89,489,451,"Euros 2016, Qualifiers",14.10.14,Poland vs Scotland,2014,Scotland,SC,5. Грир,Greer,['Gordon Greer'],Success
+90,490,451,"Euros 2016, Qualifiers",14.10.14,Poland vs Scotland,2014,Scotland,SC,8. Браун,Brown,"['Scott Brown', 'Jacob Brown', 'Julio Brown']",Success
+91,491,451,"Euros 2016, Qualifiers",14.10.14,Poland vs Scotland,2014,Scotland,SC,11. Анья,Anya,['Ikechi Anya'],Success
+92,492,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,1. Лория,Loria,['Giorgi Loria'],Success
+93,493,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,2. Лобжанидзе,Lobzhanidze,['Ucha Lobzhanidze'],Success
+94,494,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,3. Кверквелия,Kverkvelia,"['Solomon Kvirkvelia', 'Davit Kvirkvelia']",Success
+95,495,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,4. Кашия,Kashia,['Guram Kashia'],Success
+96,496,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,5. Амисулашвили,Amisulashvili,['Aleksandre Amisulashvili'],Success
+97,497,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,6. Махарадзе,Makharadze,"['Kakhi Makharadze', 'Zauri Makharadze']",Success
+98,498,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,7. Канкава,Kankava,['Jaba Kankava'],Success
+99,499,455,"Euros 2016, Qualifiers",29.03.15,Georgia vs Germany,2015,Georgia,GE,10. Окриашвили,Okriashvili,['Tornike Okriashvili'],Success
