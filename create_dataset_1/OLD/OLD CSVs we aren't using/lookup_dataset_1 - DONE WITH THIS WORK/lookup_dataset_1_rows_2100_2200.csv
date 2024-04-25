@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Sergey Ignatovich,300000.0,False,working,False,Sergey Ignatovich,S Ignatovich,single
+1,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Kirill Pechenin,500000.0,False,working,False,Kirill Pechenin,Pechenin,single
+2,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+3,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+4,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Artem Bykov,550000.0,False,Data Ended before season : 2023,False,Artem Bykov,Art Bykov,single
+5,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Pavel Savitskiy,800000.0,False,Data Ended before season : 2023,False,Pavel Savitskiy,Savitski,single
+6,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+7,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Valeriy Bocherov,550000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+8,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Evgeniy Yablonskiy,700000.0,False,Data Ended before season : 2023,False,Evgeniy Yablonskiy,Yablonski,single
+9,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Roman Yuzepchuk,600000.0,False,working,False,Roman Yuzepchuk,Yuzepchuck,single
+10,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Belarus,BY,2023,SUCCESS,Kirill Kaplenko,900000.0,False,working,False,Kirill Kaplenko,K Kaplenko,single
+11,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Arijanet Muric,7000000.0,False,working,False,Arijanet Muric,A Muric,single
+12,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+13,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,Used Large Dataset,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+14,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+15,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Ibrahim Dresevic,1500000.0,False,Used Large Dataset,False,Ibrahim Dresevic,Dresevic,single
+16,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Donat Rrudhani,700000.0,False,Data Ended before season : 2023,False,Donat Rrudhani,Rrudhani,single
+17,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Leart Paçarada,2000000.0,False,Data Ended before season : 2023,False,Leart Paçarada,Paqarada,single
+18,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Betim Fazliji,700000.0,False,Data Ended before season : 2023,False,Betim Fazliji,Fazliji,single
+19,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Florent Muslija,2500000.0,False,working,False,Florent Muslija,Muslija,single
+20,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Bersant Celina,2500000.0,False,Data Ended before season : 2023,False,Bersant Celina,Celina,single
+21,1058,"Euros 2024, Qualifiers",Belarus vs Kosovo,19.06.23,Kosovo,XK,2023,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+22,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+23,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+24,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,True,Online Lookup Required,False,Luigi San Nicolas,San Nicolas,single
+25,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+26,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Albert Alavedra,100000.0,False,Data Ended before season : 2023,False,Albert Alavedra,Alavedra,single
+27,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+28,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Marc Pujol,10000.0,False,working,False,Marc Pujol,M Pujol,single
+29,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+30,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Jordi Aláez,25000.0,False,working,False,Jordi Aláez,Alaez,single
+31,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Berto Rosas,250000.0,False,Data Ended before season : 2023,False,Berto Rosas,Rosas,single
+32,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Andorra,AD,2023,SUCCESS,Alex Martínez,200000.0,False,working,False,Alex Martínez,Alex Martínez,single
+33,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Maksim Plotnikov,350000.0,False,Data Ended before season : 2023,False,Maksim Plotnikov,M Plotnikov,single
+34,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Kirill Pechenin,500000.0,False,working,False,Kirill Pechenin,Pechenin,single
+35,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+36,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Sergey Politevich,150000.0,False,working,False,Sergey Politevich,Politevich,single
+37,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+38,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Artem Bykov,550000.0,False,Data Ended before season : 2023,False,Artem Bykov,Art Bykov,single
+39,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Pavel Savitskiy,800000.0,False,Data Ended before season : 2023,False,Pavel Savitskiy,Savitski,single
+40,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+41,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Nikita Korzun,350000.0,False,working,False,Nikita Korzun,Korzun,single
+42,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Artem Kontsevoy,600000.0,False,working,False,Artem Kontsevoy,Ar Kontsevoi,single
+43,1059,"Euros 2024, Qualifiers",Andorra vs Belarus,09.09.23,Belarus,BY,2023,SUCCESS,Vitaliy Lisakovich,1300000.0,False,Data Ended before season : 2023,False,Vitaliy Lisakovich,V Lisakovich,single
+44,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+45,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+46,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Cristian Manea,3500000.0,False,Data Ended before season : 2023,False,Cristian Manea,Manea,single
+47,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+48,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Marius Marin,1600000.0,False,working,False,Marius Marin,M Marin,single
+49,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+50,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+51,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Răzvan Marin,2500000.0,False,working,False,Răzvan Marin,R Marin,single
+52,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Deian Sorescu,1500000.0,False,Data Ended before season : 2023,False,Deian Sorescu,Sorescu,single
+53,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Denis Alibec,800000.0,False,working,False,Denis Alibec,D Alibec,single
+54,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Romania,RO,2023,SUCCESS,Florinel Coman,5000000.0,False,working,False,Florinel Coman,F Coman,single
+55,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Omri Glazer,2000000.0,False,working,False,Omri Glazer,O Glazer,single
+56,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Eli Dasa,1800000.0,False,working,False,Eli Dasa,Dasa,single
+57,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Miguel Vítor,300000.0,False,working,False,Miguel Vítor,M Vítor,single
+58,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Shon Goldberg,800000.0,False,working,False,Shon Goldberg,Goldberg,single
+59,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Roy Revivo,800000.0,False,working,False,Roy Revivo,Revivo,single
+60,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Neta Lavi,1500000.0,False,working,False,Neta Lavi,Lavi,single
+61,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Dor Peretz,1500000.0,False,working,False,Dor Peretz,Do Peretz,single
+62,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Oscar Gloukh,15000000.0,False,working,False,Oscar Gloukh,Gloukh,single
+63,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Manor Solomon,18000000.0,False,Used Large Dataset,False,Manor Solomon,Solomon,single
+64,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,Sagiv Jehezkel,1700000.0,False,working,False,Sagiv Jehezkel,Jehezkel,single
+65,1060,"Euros 2024, Qualifiers",Romania vs Israel,09.09.23,Israel,IL,2023,SUCCESS,"['Alon Turgeman', 'Dor Turgeman']",1000000.0,False,working,False,"['Alon Turgeman', 'Dor Turgeman']",Turgeman,multiple
+66,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Arijanet Muric,7000000.0,False,working,False,Arijanet Muric,A Muric,single
+67,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+68,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,Used Large Dataset,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+69,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+70,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Leart Paçarada,2000000.0,False,Data Ended before season : 2023,False,Leart Paçarada,Paqarada,single
+71,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Florian Loshaj,650000.0,False,working,False,Florian Loshaj,Loshaj,single
+72,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Betim Fazliji,700000.0,False,Data Ended before season : 2023,False,Betim Fazliji,Fazliji,single
+73,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Milot Rashica,7500000.0,False,working,False,Milot Rashica,Rashica,single
+74,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Valon Berisha,1800000.0,False,Data Ended before season : 2023,False,Valon Berisha,Val Berisha,single
+75,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Bernard Berisha,1000000.0,False,working,False,Bernard Berisha,Bern Berisha,single
+76,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Kosovo,XK,2023,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+77,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+78,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+79,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+80,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+81,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+82,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Denis Zakaria,22000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+83,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Remo Freuler,6500000.0,False,working,False,Remo Freuler,Freuler,single
+84,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+85,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Xherdan Shaqiri,2500000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+86,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Zeki Amdouni,15000000.0,False,working,False,Zeki Amdouni,Amdouni,single
+87,1061,"Euros 2024, Qualifiers",Kosovo vs Switzerland,09.09.23,Switzerland,CH,2023,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+88,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Yvon Mvogo,3500000.0,False,working,False,Yvon Mvogo,Mvogo,single
+89,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Nico Elvedi,14000000.0,False,working,False,Nico Elvedi,Elvedi,single
+90,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+91,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+92,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Remo Freuler,6500000.0,False,working,False,Remo Freuler,Freuler,single
+93,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+94,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Renato Steffen,1000000.0,False,working,False,Renato Steffen,Steffen,single
+95,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Cedric Itten,4000000.0,False,Data Ended before season : 2023,False,Cedric Itten,Itten,single
+96,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Xherdan Shaqiri,2500000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+97,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Zeki Amdouni,15000000.0,False,working,False,Zeki Amdouni,Amdouni,single
+98,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Switzerland,CH,2023,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+99,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+100,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+101,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,FAIL,0,0,True,Lookup Required,False,0,Sola,none
+102,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,True,Online Lookup Required,False,Luigi San Nicolas,San Nicolas,single
+103,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+104,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Joel Guillén,-,False,Data Ended before season : 2023,False,Joel Guillén,Guillen,single
+105,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Albert Alavedra,100000.0,False,Data Ended before season : 2023,False,Albert Alavedra,Alavedra,single
+106,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Marc García,150000.0,False,working,False,Marc García,M Garcia,single
+107,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Eric Vales,100000.0,False,working,False,Eric Vales,E Vales,single
+108,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+109,1062,"Euros 2024, Qualifiers",Switzerland vs Andorra,12.09.23,Andorra,AD,2023,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+110,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Omri Glazer,2000000.0,False,working,False,Omri Glazer,O Glazer,single
+111,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Eli Dasa,1800000.0,False,working,False,Eli Dasa,Dasa,single
+112,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Miguel Vítor,300000.0,False,working,False,Miguel Vítor,M Vítor,single
+113,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Stav Lemkin,1000000.0,False,working,False,Stav Lemkin,Lemkin,single
+114,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Roy Revivo,800000.0,False,working,False,Roy Revivo,Revivo,single
+115,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Neta Lavi,1500000.0,False,working,False,Neta Lavi,Lavi,single
+116,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Dor Peretz,1500000.0,False,working,False,Dor Peretz,Do Peretz,single
+117,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Oscar Gloukh,15000000.0,False,working,False,Oscar Gloukh,Gloukh,single
+118,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Manor Solomon,18000000.0,False,Used Large Dataset,False,Manor Solomon,Solomon,single
+119,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Sagiv Jehezkel,1700000.0,False,working,False,Sagiv Jehezkel,Jehezkel,single
+120,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Israel,IL,2023,SUCCESS,Shon Weissman,2000000.0,False,working,False,Shon Weissman,Weissman,single
+121,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Maksim Plotnikov,350000.0,False,Data Ended before season : 2023,False,Maksim Plotnikov,M Plotnikov,single
+122,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Kirill Pechenin,500000.0,False,working,False,Kirill Pechenin,Pechenin,single
+123,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+124,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Sergey Politevich,150000.0,False,working,False,Sergey Politevich,Politevich,single
+125,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Sergey Karpovich,450000.0,False,working,False,Sergey Karpovich,S Karpovich,single
+126,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+127,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Artem Kontsevoy,600000.0,False,working,False,Artem Kontsevoy,Ar Kontsevoi,single
+128,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Valeriy Bocherov,550000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+129,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Nikita Korzun,350000.0,False,working,False,Nikita Korzun,Korzun,single
+130,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Kirill Kaplenko,900000.0,False,working,False,Kirill Kaplenko,K Kaplenko,single
+131,1063,"Euros 2024, Qualifiers",Israel vs Belarus,12.09.23,Belarus,BY,2023,SUCCESS,Vladislav Morozov,900000.0,False,working,False,Vladislav Morozov,V Morozov,single
+132,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+133,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+134,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+135,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Andrei Rațiu,1500000.0,False,working,False,Andrei Rațiu,Ratiu,single
+136,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Vladimir Screciu,2200000.0,False,working,False,Vladimir Screciu,Screciu,single
+137,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Alexandru Cicâldău,4000000.0,False,working,False,Alexandru Cicâldău,Cicâldău,single
+138,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+139,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+140,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Ianis Hagi,3500000.0,False,working,False,Ianis Hagi,I Hagi,single
+141,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,George Pușcaș,2000000.0,False,working,False,George Pușcaș,Puscas,single
+142,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Romania,RO,2023,SUCCESS,Florinel Coman,5000000.0,False,working,False,Florinel Coman,F Coman,single
+143,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Arijanet Muric,7000000.0,False,working,False,Arijanet Muric,A Muric,single
+144,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+145,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,Used Large Dataset,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+146,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+147,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Leart Paçarada,2000000.0,False,Data Ended before season : 2023,False,Leart Paçarada,Paqarada,single
+148,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Florian Loshaj,650000.0,False,working,False,Florian Loshaj,Loshaj,single
+149,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Milot Rashica,7500000.0,False,working,False,Milot Rashica,Rashica,single
+150,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Valon Berisha,1800000.0,False,Data Ended before season : 2023,False,Valon Berisha,Val Berisha,single
+151,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Bernard Berisha,1000000.0,False,working,False,Bernard Berisha,Bern Berisha,single
+152,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Edon Zhegrova,8000000.0,False,Used Large Dataset,False,Edon Zhegrova,Zhegrova,single
+153,1064,"Euros 2024, Qualifiers",Romania vs Kosovo,12.09.23,Kosovo,XK,2023,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+154,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Sergey Ignatovich,300000.0,False,working,False,Sergey Ignatovich,S Ignatovich,single
+155,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Kirill Pechenin,500000.0,False,working,False,Kirill Pechenin,Pechenin,single
+156,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+157,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Sergey Politevich,150000.0,False,working,False,Sergey Politevich,Politevich,single
+158,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+159,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Roman Yuzepchuk,600000.0,False,working,False,Roman Yuzepchuk,Yuzepchuck,single
+160,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Artem Kontsevoy,600000.0,False,working,False,Artem Kontsevoy,Ar Kontsevoi,single
+161,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+162,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Nikita Korzun,350000.0,False,working,False,Nikita Korzun,Korzun,single
+163,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Vladislav Morozov,900000.0,False,working,False,Vladislav Morozov,V Morozov,single
+164,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Belarus,BY,2023,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+165,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+166,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+167,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+168,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Andrei Rațiu,1500000.0,False,working,False,Andrei Rațiu,Ratiu,single
+169,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Vladimir Screciu,2200000.0,False,working,False,Vladimir Screciu,Screciu,single
+170,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+171,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+172,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Răzvan Marin,2500000.0,False,working,False,Răzvan Marin,R Marin,single
+173,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Denis Alibec,800000.0,False,working,False,Denis Alibec,D Alibec,single
+174,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Denis Drăguş,2000000.0,False,working,False,Denis Drăguş,D Dragus,single
+175,1065,"Euros 2024, Qualifiers",Belarus vs Romania,12.10.23,Romania,RO,2023,SUCCESS,Dennis Man,3200000.0,False,Data Ended before season : 2023,False,Dennis Man,D Man,single
+176,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+177,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+178,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Eric Vales,100000.0,False,working,False,Eric Vales,E Vales,single
+179,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,True,Online Lookup Required,False,Luigi San Nicolas,San Nicolas,single
+180,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+181,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",50000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+182,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+183,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+184,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Jordi Aláez,25000.0,False,working,False,Jordi Aláez,Alaez,single
+185,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+186,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Andorra,AD,2023,FAIL,0,0,True,Lookup Required,False,0,Vieitez,none
+187,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Arijanet Muric,7000000.0,False,working,False,Arijanet Muric,A Muric,single
+188,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Florent Hadergjonaj,2000000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+189,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+190,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Lumbardh Dellova,600000.0,False,working,False,Lumbardh Dellova,Dellova Lumbardh,single
+191,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+192,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Florian Loshaj,650000.0,False,working,False,Florian Loshaj,Loshaj,single
+193,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Kreshnik Hajrizi,1000000.0,False,working,False,Kreshnik Hajrizi,Hajrizi,single
+194,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Milot Rashica,7500000.0,False,working,False,Milot Rashica,Rashica,single
+195,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Florent Muslija,2500000.0,False,working,False,Florent Muslija,Muslija,single
+196,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Qëndrim Zyba,500000.0,False,working,False,Qëndrim Zyba,Zyba,single
+197,1066,"Euros 2024, Qualifiers",Andorra vs Kosovo,12.10.23,Kosovo,XK,2023,SUCCESS,Albion Rrahmani,350000.0,False,Data Ended before season : 2023,False,Albion Rrahmani,Al Rrahmani,single
+198,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+199,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+200,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+201,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+202,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+203,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Renato Steffen,1000000.0,False,working,False,Renato Steffen,Steffen,single
+204,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Jordan Lotomba,8000000.0,False,Used Large Dataset,False,Jordan Lotomba,Lotomba,single
+205,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Djibril Sow,22000000.0,False,Used Large Dataset,False,Djibril Sow,Dj Sow,single
+206,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Cedric Itten,4000000.0,False,Data Ended before season : 2023,False,Cedric Itten,Itten,single
+207,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Remo Freuler,6500000.0,False,working,False,Remo Freuler,Freuler,single
+208,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Switzerland,CH,2023,SUCCESS,Xherdan Shaqiri,2500000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+209,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Sergey Ignatovich,300000.0,False,working,False,Sergey Ignatovich,S Ignatovich,single
+210,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+211,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Sergey Politevich,150000.0,False,working,False,Sergey Politevich,Politevich,single
+212,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Sergey Karpovich,450000.0,False,working,False,Sergey Karpovich,S Karpovich,single
+213,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Vladislav Malkevich,600000.0,False,working,False,Vladislav Malkevich,Malkevich,single
+214,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+215,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Artem Kontsevoy,600000.0,False,working,False,Artem Kontsevoy,Ar Kontsevoi,single
+216,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Valeriy Bocherov,550000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+217,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Nikita Korzun,350000.0,False,working,False,Nikita Korzun,Korzun,single
+218,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+219,1067,"Euros 2024, Qualifiers",Switzerland vs Belarus,15.10.23,Belarus,BY,2023,SUCCESS,Ivan Bakhar,700000.0,False,working,False,Ivan Bakhar,Bakhar,single
+220,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+221,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+222,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+223,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+224,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+225,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Ianis Hagi,3500000.0,False,working,False,Ianis Hagi,I Hagi,single
+226,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Răzvan Marin,2500000.0,False,working,False,Răzvan Marin,R Marin,single
+227,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,FAIL,0,0,True,Lookup Required,False,0,Moruțan,none
+228,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Deian Sorescu,1500000.0,False,Data Ended before season : 2023,False,Deian Sorescu,Sorescu,single
+229,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Florinel Coman,5000000.0,False,working,False,Florinel Coman,F Coman,single
+230,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Romania,RO,2023,SUCCESS,Daniel Bîrligea,700000.0,False,Data Ended before season : 2023,False,Daniel Bîrligea,Birligea,single
+231,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+232,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+233,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Eric Vales,100000.0,False,working,False,Eric Vales,E Vales,single
+234,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,True,Online Lookup Required,False,Luigi San Nicolas,San Nicolas,single
+235,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+236,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",50000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+237,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Marc García,150000.0,False,working,False,Marc García,M Garcia,single
+238,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+239,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+240,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+241,1068,"Euros 2024, Qualifiers",Romania vs Andorra,15.10.23,Andorra,AD,2023,SUCCESS,Aaron Sánchez,50000.0,False,working,False,Aaron Sánchez,A Sánchez,single
+242,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Arijanet Muric,7000000.0,False,working,False,Arijanet Muric,A Muric,single
+243,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+244,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Lumbardh Dellova,600000.0,False,working,False,Lumbardh Dellova,Dellova Lumbardh,single
+245,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Ilir Krasniqi,500000.0,False,working,False,Ilir Krasniqi,Krasniqi Ilir,single
+246,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Florian Loshaj,650000.0,False,working,False,Florian Loshaj,Loshaj,single
+247,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Milot Rashica,7500000.0,False,working,False,Milot Rashica,Rashica,single
+248,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Florent Muslija,2500000.0,False,working,False,Florent Muslija,Muslija,single
+249,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Qëndrim Zyba,500000.0,False,working,False,Qëndrim Zyba,Zyba,single
+250,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Bernard Berisha,1000000.0,False,working,False,Bernard Berisha,Bern Berisha,single
+251,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Lirim Kastrati,350000.0,False,working,False,Lirim Kastrati,L Kastrati,single
+252,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Kosovo,XK,2023,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+253,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Omri Glazer,2000000.0,False,working,False,Omri Glazer,O Glazer,single
+254,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Eli Dasa,1800000.0,False,working,False,Eli Dasa,Dasa,single
+255,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Shon Goldberg,800000.0,False,working,False,Shon Goldberg,Goldberg,single
+256,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Miguel Vítor,300000.0,False,working,False,Miguel Vítor,M Vítor,single
+257,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Roy Revivo,800000.0,False,working,False,Roy Revivo,Revivo,single
+258,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Neta Lavi,1500000.0,False,working,False,Neta Lavi,Lavi,single
+259,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Dor Peretz,1500000.0,False,working,False,Dor Peretz,Do Peretz,single
+260,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Oscar Gloukh,15000000.0,False,working,False,Oscar Gloukh,Gloukh,single
+261,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Gadi Kinda,4000000.0,False,working,False,Gadi Kinda,Kinda,single
+262,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Sagiv Jehezkel,1700000.0,False,working,False,Sagiv Jehezkel,Jehezkel,single
+263,1069,"Euros 2024, Qualifiers",Kosovo vs Israel,12.11.23,Israel,IL,2023,SUCCESS,Eran Zahavi,1200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+264,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Omri Glazer,2000000.0,False,working,False,Omri Glazer,O Glazer,single
+265,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Eli Dasa,1800000.0,False,working,False,Eli Dasa,Dasa,single
+266,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Shon Goldberg,800000.0,False,working,False,Shon Goldberg,Goldberg,single
+267,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Raz Shlomo,700000.0,False,working,False,Raz Shlomo,Shlomo,single
+268,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Ofir Davidzada,300000.0,False,working,False,Ofir Davidzada,Davidzada,single
+269,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Neta Lavi,1500000.0,False,working,False,Neta Lavi,Lavi,single
+270,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Ramzi Safuri,1400000.0,False,working,False,Ramzi Safuri,Safouri,single
+271,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Mohammed Abu Fani,2500000.0,False,working,False,Mohammed Abu Fani,Abu Fani,single
+272,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,FAIL,0,0,True,Lookup Required,False,0,Gorno,none
+273,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,"['Alon Turgeman', 'Dor Turgeman']",1000000.0,False,working,False,"['Alon Turgeman', 'Dor Turgeman']",Turgeman,multiple
+274,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Israel,IL,2023,SUCCESS,Anan Khalaili,1200000.0,False,working,False,Anan Khalaili,Khalaili,single
+275,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+276,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+277,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+278,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Cédric Zesiger,7500000.0,False,working,False,Cédric Zesiger,Zesiger,single
+279,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+280,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Denis Zakaria,22000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+281,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Noah Okafor,20000000.0,False,working,False,Noah Okafor,Okafor,single
+282,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+283,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Remo Freuler,6500000.0,False,working,False,Remo Freuler,Freuler,single
+284,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Zeki Amdouni,15000000.0,False,working,False,Zeki Amdouni,Amdouni,single
+285,1070,"Euros 2024, Qualifiers",Israel vs Switzerland,15.11.23,Switzerland,CH,2023,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+286,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Sergey Ignatovich,300000.0,False,working,False,Sergey Ignatovich,S Ignatovich,single
+287,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Kirill Pechenin,500000.0,False,working,False,Kirill Pechenin,Pechenin,single
+288,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Egor Parkhomenko,350000.0,False,working,False,Egor Parkhomenko,E Parkhomenko,single
+289,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Sergey Karpovich,450000.0,False,working,False,Sergey Karpovich,S Karpovich,single
+290,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+291,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Aleksandr Pavlovets,350000.0,False,working,False,Aleksandr Pavlovets,A Pavlovets,single
+292,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+293,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Kirill Kaplenko,900000.0,False,working,False,Kirill Kaplenko,K Kaplenko,single
+294,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Vladislav Morozov,900000.0,False,working,False,Vladislav Morozov,V Morozov,single
+295,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+296,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Belarus,BY,2023,SUCCESS,Dmitriy Antilevskiy,450000.0,False,working,False,Dmitriy Antilevskiy,D Antilevski,single
+297,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+298,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Eric de Pablos,250000.0,False,Data Ended before season : 2023,False,Eric de Pablos,De Pablos,single
+299,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+300,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+301,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Kiko Pomares,0.0,False,Large Dataset had 0,False,Kiko Pomares,Pomares,single
+302,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+303,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+304,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+305,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Jordi Aláez,25000.0,False,working,False,Jordi Aláez,Alaez,single
+306,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+307,1071,"Euros 2024, Qualifiers",Belarus vs Andorra,18.11.23,Andorra,AD,2023,SUCCESS,Alex Martínez,200000.0,False,working,False,Alex Martínez,Alex Martínez,single
+308,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+309,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Nico Elvedi,14000000.0,False,working,False,Nico Elvedi,Elvedi,single
+310,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+311,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Ulisses Garcia,3000000.0,False,working,False,Ulisses Garcia,UGarcia,single
+312,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Eray Cömert,4000000.0,False,working,False,Eray Cömert,Cömert,single
+313,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Denis Zakaria,22000000.0,False,working,False,Denis Zakaria,D Zakaria,single
+314,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Remo Freuler,6500000.0,False,working,False,Remo Freuler,Freuler,single
+315,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Noah Okafor,20000000.0,False,working,False,Noah Okafor,Okafor,single
+316,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+317,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Xherdan Shaqiri,2500000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+318,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Switzerland,CH,2023,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+319,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Visar Bekaj,350000.0,False,working,False,Visar Bekaj,Bekaj,single
+320,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Florent Hadergjonaj,2000000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+321,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+322,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Lumbardh Dellova,600000.0,False,working,False,Lumbardh Dellova,Dellova Lumbardh,single
+323,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+324,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Ilir Krasniqi,500000.0,False,working,False,Ilir Krasniqi,Krasniqi Ilir,single
+325,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Florent Muslija,2500000.0,False,working,False,Florent Muslija,Muslija,single
+326,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Qëndrim Zyba,500000.0,False,working,False,Qëndrim Zyba,Zyba,single
+327,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Bernard Berisha,1000000.0,False,working,False,Bernard Berisha,Bern Berisha,single
+328,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Zymer Bytyqi,2000000.0,False,working,False,Zymer Bytyqi,Z Bytyqi,single
+329,1072,"Euros 2024, Qualifiers",Switzerland vs Kosovo,18.11.23,Kosovo,XK,2023,SUCCESS,Elbasan Rashani,1800000.0,False,working,False,Elbasan Rashani,Rashani,single
+330,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Omri Glazer,2000000.0,False,working,False,Omri Glazer,O Glazer,single
+331,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Eli Dasa,1800000.0,False,working,False,Eli Dasa,Dasa,single
+332,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Shon Goldberg,800000.0,False,working,False,Shon Goldberg,Goldberg,single
+333,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Miguel Vítor,300000.0,False,working,False,Miguel Vítor,M Vítor,single
+334,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Roy Revivo,800000.0,False,working,False,Roy Revivo,Revivo,single
+335,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Neta Lavi,1500000.0,False,working,False,Neta Lavi,Lavi,single
+336,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Dor Peretz,1500000.0,False,working,False,Dor Peretz,Do Peretz,single
+337,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Oscar Gloukh,15000000.0,False,working,False,Oscar Gloukh,Gloukh,single
+338,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Eran Zahavi,1200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+339,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,Anan Khalaili,1200000.0,False,working,False,Anan Khalaili,Khalaili,single
+340,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Israel,IL,2023,SUCCESS,"['Alon Turgeman', 'Dor Turgeman']",1000000.0,False,working,False,"['Alon Turgeman', 'Dor Turgeman']",Turgeman,multiple
+341,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+342,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+343,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+344,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Andrei Rațiu,1500000.0,False,working,False,Andrei Rațiu,Ratiu,single
+345,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Vladimir Screciu,2200000.0,False,working,False,Vladimir Screciu,Screciu,single
+346,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+347,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+348,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Ianis Hagi,3500000.0,False,working,False,Ianis Hagi,I Hagi,single
+349,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Răzvan Marin,2500000.0,False,working,False,Răzvan Marin,R Marin,single
+350,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,George Pușcaș,2000000.0,False,working,False,George Pușcaș,Puscas,single
+351,1073,"Euros 2024, Qualifiers",Israel vs Romania,18.11.23,Romania,RO,2023,SUCCESS,Denis Drăguş,2000000.0,False,working,False,Denis Drăguş,D Dragus,single
+352,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Horaţiu Moldovan,2600000.0,False,working,False,Horaţiu Moldovan,H Moldovan,single
+353,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Radu Drăgușin,20000000.0,False,working,False,Radu Drăgușin,Dragusin,single
+354,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Andrei Burcă,3200000.0,False,working,False,Andrei Burcă,Burca,single
+355,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Andrei Rațiu,1500000.0,False,working,False,Andrei Rațiu,Ratiu,single
+356,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Marius Marin,1600000.0,False,working,False,Marius Marin,M Marin,single
+357,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Alexandru Cicâldău,4000000.0,False,working,False,Alexandru Cicâldău,Cicâldău,single
+358,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Nicolae Stanciu,5000000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+359,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Nicuşor Bancu,1500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+360,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,FAIL,0,0,True,Lookup Required,False,0,Moruțan,none
+361,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Denis Alibec,800000.0,False,working,False,Denis Alibec,D Alibec,single
+362,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Romania,RO,2023,SUCCESS,Florinel Coman,5000000.0,False,working,False,Florinel Coman,F Coman,single
+363,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Yvon Mvogo,3500000.0,False,working,False,Yvon Mvogo,Mvogo,single
+364,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Nico Elvedi,14000000.0,False,working,False,Nico Elvedi,Elvedi,single
+365,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Manuel Akanji,42000000.0,False,working,False,Manuel Akanji,Akanji,single
+366,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+367,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Ulisses Garcia,3000000.0,False,working,False,Ulisses Garcia,UGarcia,single
+368,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Michel Aebischer,6000000.0,False,working,False,Michel Aebischer,Aebischer,single
+369,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Noah Okafor,20000000.0,False,working,False,Noah Okafor,Okafor,single
+370,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+371,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Xherdan Shaqiri,2500000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+372,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
+373,1074,"Euros 2024, Qualifiers",Romania vs Switzerland,21.11.23,Switzerland,CH,2023,SUCCESS,Dan Ndoye,10000000.0,False,working,False,Dan Ndoye,D Ndoye,single
+374,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Visar Bekaj,350000.0,False,working,False,Visar Bekaj,Bekaj,single
+375,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Florent Hadergjonaj,2000000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+376,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Fidan Aliti,750000.0,False,working,False,Fidan Aliti,Aliti,single
+377,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Lumbardh Dellova,600000.0,False,working,False,Lumbardh Dellova,Dellova Lumbardh,single
+378,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Mërgim Vojvoda,4000000.0,False,Used Large Dataset,False,Mërgim Vojvoda,Vojvoda,single
+379,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Ilir Krasniqi,500000.0,False,working,False,Ilir Krasniqi,Krasniqi Ilir,single
+380,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Florent Muslija,2500000.0,False,working,False,Florent Muslija,Muslija,single
+381,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Qëndrim Zyba,500000.0,False,working,False,Qëndrim Zyba,Zyba,single
+382,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Bernard Berisha,1000000.0,False,working,False,Bernard Berisha,Bern Berisha,single
+383,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Zymer Bytyqi,2000000.0,False,working,False,Zymer Bytyqi,Z Bytyqi,single
+384,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Kosovo,XK,2023,SUCCESS,Elbasan Rashani,1800000.0,False,working,False,Elbasan Rashani,Rashani,single
+385,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Pavel Pavlyuchenko,350000.0,False,working,False,Pavel Pavlyuchenko,P Pavlyuchenko,single
+386,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+387,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Sergey Politevich,150000.0,False,working,False,Sergey Politevich,Politevich,single
+388,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Vladislav Malkevich,600000.0,False,working,False,Vladislav Malkevich,Malkevich,single
+389,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+390,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Roman Yuzepchuk,600000.0,False,working,False,Roman Yuzepchuk,Yuzepchuck,single
+391,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Maks Ebong,1000000.0,False,working,False,Maks Ebong,Ebong,single
+392,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Nikita Korzun,350000.0,False,working,False,Nikita Korzun,Korzun,single
+393,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Kirill Kaplenko,900000.0,False,working,False,Kirill Kaplenko,K Kaplenko,single
+394,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Maksim Skavysh,300000.0,False,working,False,Maksim Skavysh,Skavysh,single
+395,1075,"Euros 2024, Qualifiers",Kosovo vs Belarus,21.11.23,Belarus,BY,2023,SUCCESS,Dmitriy Antilevskiy,450000.0,False,working,False,Dmitriy Antilevskiy,D Antilevski,single
+396,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Iker Álvarez,800000.0,False,working,False,Iker Álvarez,I Álvarez,single
+397,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Ian Olivera,0.0,False,Large Dataset had 0,False,Ian Olivera,Oliveira Ian,single
+398,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Max Llovera,0.0,False,Large Dataset had 0,False,Max Llovera,Llovera,single
+399,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Eric Vales,100000.0,False,working,False,Eric Vales,E Vales,single
+400,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,FAIL,Luigi San Nicolas,0,True,Online Lookup Required,False,Luigi San Nicolas,San Nicolas,single
+401,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+402,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,FAIL,"['Marc Vales', 'Eric Vales']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Marc Vales', 'Eric Vales']]",False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+403,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+404,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Jordi Aláez,25000.0,False,working,False,Jordi Aláez,Alaez,single
+405,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+406,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Andorra,AD,2023,FAIL,0,0,True,Lookup Required,False,0,Vieitez,none
+407,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Daniel Peretz,4000000.0,False,working,False,Daniel Peretz,Da Peretz,single
+408,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Avishay Cohen,350000.0,False,working,False,Avishay Cohen,Av Cohen,single
+409,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Raz Shlomo,700000.0,False,working,False,Raz Shlomo,Shlomo,single
+410,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Stav Lemkin,1000000.0,False,working,False,Stav Lemkin,Lemkin,single
+411,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Ofir Davidzada,300000.0,False,working,False,Ofir Davidzada,Davidzada,single
+412,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Dor Peretz,1500000.0,False,working,False,Dor Peretz,Do Peretz,single
+413,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Gabi Kanichowsky,1600000.0,False,working,False,Gabi Kanichowsky,Kanichowsky,single
+414,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Gadi Kinda,4000000.0,False,working,False,Gadi Kinda,Kinda,single
+415,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Tai Baribo,2000000.0,False,working,False,Tai Baribo,Baribo,single
+416,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Anan Khalaili,1200000.0,False,working,False,Anan Khalaili,Khalaili,single
+417,1076,"Euros 2024, Qualifiers",Andorra vs Israel,21.11.23,Israel,IL,2023,SUCCESS,Dean David,1300000.0,False,working,False,Dean David,D David,single
+418,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Rui Patrício,3500000.0,False,working,False,Rui Patrício,Rui Patricio,single
+419,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+420,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Raphaël Guerreiro,15000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+421,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Gonçalo Inácio,40000000.0,False,working,False,Gonçalo Inácio,Inacio,single
+422,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+423,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+424,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+425,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+426,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+427,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+428,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+429,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+430,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+431,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Jens Hofer,0.0,False,Large Dataset had 0,False,Jens Hofer,Hofer,single
+432,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+433,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+434,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+435,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+436,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Noah Frommelt,-,False,Data Ended before season : 2023,False,Noah Frommelt,Frommelt,single
+437,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Nicolas Hasler,200000.0,False,Data Ended before season : 2023,False,Nicolas Hasler,N Hasler,single
+438,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+439,1077,"Euros 2024, Qualifiers",Portugal vs Liechtenstein,23.03.23,Liechtenstein,LI,2023,SUCCESS,Philipp Gassner,75000.0,False,Data Ended before season : 2023,False,Philipp Gassner,Gassner,single
+440,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+441,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Jusuf Gazibegovic,4000000.0,False,working,False,Jusuf Gazibegovic,Gazibegovic,single
+442,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sinisa Sanicanin,1800000.0,False,Data Ended before season : 2023,False,Sinisa Sanicanin,Sanicanin,single
+443,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+444,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Anel Ahmedhodzic,20000000.0,False,Used Large Dataset,False,Anel Ahmedhodzic,Ahmedhodžić,single
+445,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Hrvoje Milicevic,700000.0,False,Data Ended before season : 2023,False,Hrvoje Milicevic,Miličević Hrvoje,single
+446,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Benjamin Tahirovic,6000000.0,False,working,False,Benjamin Tahirovic,Tahirovic,single
+447,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none
+448,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amir Hadziahmetovic,8000000.0,False,working,False,Amir Hadziahmetovic,Hadžiahmetović,single
+449,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Smail Prevljak,1200000.0,False,working,False,Smail Prevljak,Prevljak,single
+450,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+451,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+452,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Daníel Leó Grétarsson,350000.0,False,working,False,Daníel Leó Grétarsson,Gretarsson,single
+453,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+454,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Hördur Magnússon,2000000.0,False,Data Ended before season : 2023,False,Hördur Magnússon,H Magnússon,single
+455,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Davíd Kristján Ólafsson,500000.0,False,Data Ended before season : 2023,False,Davíd Kristján Ólafsson,D Ólafsson,single
+456,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+457,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+458,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,Arnór Sigurdsson,4500000.0,False,Data Ended before season : 2023,False,Arnór Sigurdsson,A Sigurðsson,single
+459,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+460,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+461,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+462,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+463,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Lubomir Satka,700000.0,False,working,False,Lubomir Satka,atka,single
+464,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+465,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+466,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+467,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+468,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Lukas Haraslin,4500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+469,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+470,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+471,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+472,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Slovakia,SK,2023,SUCCESS,Tomas Suslov,2000000.0,False,working,False,Tomas Suslov,T Suslov,single
+473,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+474,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+475,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Mica Pinto,850000.0,False,working,False,Mica Pinto,Mica Pinto,single
+476,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+477,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Lars Gerson,125000.0,False,working,False,Lars Gerson,Gerson,single
+478,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+479,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+480,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+481,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+482,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Florian Bohnert,500000.0,False,working,False,Florian Bohnert,Bohnert,single
+483,1079,"Euros 2024, Qualifiers",Slovakia vs Luxembourg,23.03.23,Luxembourg,LU,2023,SUCCESS,Yvandro Borges Sanches,1000000.0,False,Used Large Dataset,False,Yvandro Borges Sanches,Borges Sanches,single
+484,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+485,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Jens Hofer,0.0,False,Large Dataset had 0,False,Jens Hofer,Hofer,single
+486,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+487,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+488,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+489,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+490,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Noah Frommelt,-,False,Data Ended before season : 2023,False,Noah Frommelt,Frommelt,single
+491,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Nicolas Hasler,200000.0,False,Data Ended before season : 2023,False,Nicolas Hasler,N Hasler,single
+492,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+493,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+494,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Liechtenstein,LI,2023,SUCCESS,Philipp Gassner,75000.0,False,Data Ended before season : 2023,False,Philipp Gassner,Gassner,single
+495,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+496,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Hördur Magnússon,2000000.0,False,Data Ended before season : 2023,False,Hördur Magnússon,H Magnússon,single
+497,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Davíd Kristján Ólafsson,500000.0,False,Data Ended before season : 2023,False,Davíd Kristján Ólafsson,D Ólafsson,single
+498,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+499,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+500,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Arnór Sigurdsson,4500000.0,False,Data Ended before season : 2023,False,Arnór Sigurdsson,A Sigurðsson,single
+501,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Aron Gunnarsson,400000.0,False,Data Ended before season : 2023,False,Aron Gunnarsson,A Gunnarsson,single
+502,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+503,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+504,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+505,1080,"Euros 2024, Qualifiers",Liechtenstein vs Iceland,26.03.23,Iceland,IS,2023,SUCCESS,Stefán Teitur Thórdarson,1000000.0,False,working,False,Stefán Teitur Thórdarson,S Thordarson,single
+506,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+507,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+508,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Mica Pinto,850000.0,False,working,False,Mica Pinto,Mica Pinto,single
+509,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+510,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Marvin Martins,700000.0,False,working,False,Marvin Martins,M Martins,single
+511,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+512,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Lars Gerson,125000.0,False,working,False,Lars Gerson,Gerson,single
+513,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+514,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+515,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+516,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Luxembourg,LU,2023,SUCCESS,Vincent Thill,700000.0,False,working,False,Vincent Thill,V Thill,single
+517,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Rui Patrício,3500000.0,False,working,False,Rui Patrício,Rui Patricio,single
+518,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+519,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+520,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,"['Adrien Silva', 'André Silva', 'António Silva']",45000000.0,False,working,False,"['Adrien Silva', 'André Silva', 'António Silva']",A Silva,multiple
+521,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Nuno Mendes,65000000.0,False,Used Large Dataset,False,Nuno Mendes,N Mendes,single
+522,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+523,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+524,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+525,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+526,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+527,1081,"Euros 2024, Qualifiers",Luxembourg vs Portugal,26.03.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+528,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+529,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+530,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+531,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+532,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+533,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+534,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Lukas Haraslin,4500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+535,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+536,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+537,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+538,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+539,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+540,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Jusuf Gazibegovic,4000000.0,False,working,False,Jusuf Gazibegovic,Gazibegovic,single
+541,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sinisa Sanicanin,1800000.0,False,Data Ended before season : 2023,False,Sinisa Sanicanin,Sanicanin,single
+542,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+543,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Anel Ahmedhodzic,20000000.0,False,Used Large Dataset,False,Anel Ahmedhodzic,Ahmedhodžić,single
+544,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Hrvoje Milicevic,700000.0,False,Data Ended before season : 2023,False,Hrvoje Milicevic,Miličević Hrvoje,single
+545,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Benjamin Tahirovic,6000000.0,False,working,False,Benjamin Tahirovic,Tahirovic,single
+546,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none
+547,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amir Hadziahmetovic,8000000.0,False,working,False,Amir Hadziahmetovic,Hadžiahmetović,single
+548,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Smail Prevljak,1200000.0,False,working,False,Smail Prevljak,Prevljak,single
+549,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+550,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+551,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+552,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+553,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+554,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Marvin Martins,700000.0,False,working,False,Marvin Martins,M Martins,single
+555,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+556,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+557,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+558,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Alessio Curci,200000.0,False,working,False,Alessio Curci,A Curci,single
+559,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Yvandro Borges Sanches,1000000.0,False,Used Large Dataset,False,Yvandro Borges Sanches,Borges Sanches,single
+560,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Luxembourg,LU,2023,SUCCESS,Vincent Thill,700000.0,False,working,False,Vincent Thill,V Thill,single
+561,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+562,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+563,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+564,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+565,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+566,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+567,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+568,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Nicolas Hasler,200000.0,False,Data Ended before season : 2023,False,Nicolas Hasler,N Hasler,single
+569,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+570,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+571,1083,"Euros 2024, Qualifiers",Luxembourg vs Liechtenstein,17.06.23,Liechtenstein,LI,2023,SUCCESS,Ferhat Saglam,-,False,Data Ended before season : 2023,False,Ferhat Saglam,F Saglam,single
+572,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+573,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+574,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Raphaël Guerreiro,15000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+575,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+576,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,"['Adrien Silva', 'André Silva', 'António Silva']",45000000.0,False,working,False,"['Adrien Silva', 'André Silva', 'António Silva']",A Silva,multiple
+577,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+578,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+579,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+580,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+581,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+582,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+583,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+584,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+585,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sinisa Sanicanin,1800000.0,False,Data Ended before season : 2023,False,Sinisa Sanicanin,Sanicanin,single
+586,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+587,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,Lookup Required,False,0,A Barišić,none
+588,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Anel Ahmedhodzic,20000000.0,False,Used Large Dataset,False,Anel Ahmedhodzic,Ahmedhodžić,single
+589,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+590,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Miroslav Stevanovic,1000000.0,False,working,False,Miroslav Stevanovic,Stevanovic,single
+591,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amir Hadziahmetovic,8000000.0,False,working,False,Amir Hadziahmetovic,Hadžiahmetović,single
+592,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Pjanić,none
+593,1084,"Euros 2024, Qualifiers",Portugal vs Bosnia-Herzegovina,17.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+594,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+595,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Alfons Sampsted,2500000.0,False,Used Large Dataset,False,Alfons Sampsted,Sampsted,single
+596,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+597,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Hördur Magnússon,2000000.0,False,Data Ended before season : 2023,False,Hördur Magnússon,H Magnússon,single
+598,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+599,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Albert Gudmundsson,12000000.0,False,Used Large Dataset,False,Albert Gudmundsson,A Gudmundsson,single
+600,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+601,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,Aron Gunnarsson,400000.0,False,Data Ended before season : 2023,False,Aron Gunnarsson,A Gunnarsson,single
+602,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+603,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+604,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+605,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+606,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+607,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+608,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+609,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+610,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+611,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+612,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+613,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Hamšík,none
+614,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+615,1085,"Euros 2024, Qualifiers",Iceland vs Slovakia,17.06.23,Slovakia,SK,2023,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+616,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+617,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+618,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sinisa Sanicanin,1800000.0,False,Data Ended before season : 2023,False,Sinisa Sanicanin,Sanicanin,single
+619,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+620,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,Lookup Required,False,0,A Barišić,none
+621,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+622,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Miroslav Stevanovic,1000000.0,False,working,False,Miroslav Stevanovic,Stevanovic,single
+623,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Benjamin Tahirovic,6000000.0,False,working,False,Benjamin Tahirovic,Tahirovic,single
+624,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Pjanić,none
+625,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Kenan Kodro,1200000.0,False,Data Ended before season : 2023,False,Kenan Kodro,Kodro,single
+626,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+627,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+628,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+629,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+630,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+631,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+632,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+633,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+634,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+635,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Florian Bohnert,500000.0,False,working,False,Florian Bohnert,Bohnert,single
+636,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Alessio Curci,200000.0,False,working,False,Alessio Curci,A Curci,single
+637,1086,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Luxembourg,20.06.23,Luxembourg,LU,2023,SUCCESS,Yvandro Borges Sanches,1000000.0,False,Used Large Dataset,False,Yvandro Borges Sanches,Borges Sanches,single
+638,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+639,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Valgeir Lunddal Fridriksson,1200000.0,False,Data Ended before season : 2023,False,Valgeir Lunddal Fridriksson,V Fridriksson,single
+640,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+641,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+642,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Hördur Magnússon,2000000.0,False,Data Ended before season : 2023,False,Hördur Magnússon,H Magnússon,single
+643,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+644,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Albert Gudmundsson,12000000.0,False,Used Large Dataset,False,Albert Gudmundsson,A Gudmundsson,single
+645,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+646,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+647,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+648,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+649,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+650,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+651,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Pepe,800000.0,False,working,False,Pepe,Pepe,single
+652,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+653,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+654,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+655,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+656,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+657,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+658,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+659,1087,"Euros 2024, Qualifiers",Iceland vs Portugal,20.06.23,Portugal,PT,2023,SUCCESS,Rafael Leão,90000000.0,False,Used Large Dataset,False,Rafael Leão,Rafael Leão,single
+660,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+661,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+662,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Jens Hofer,0.0,False,Large Dataset had 0,False,Jens Hofer,Hofer,single
+663,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+664,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+665,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+666,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Fabio Wolfinger,-,False,Data Ended before season : 2023,False,Fabio Wolfinger,F Wolfinger,single
+667,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+668,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+669,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+670,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Liechtenstein,LI,2023,SUCCESS,Ferhat Saglam,-,False,Data Ended before season : 2023,False,Ferhat Saglam,F Saglam,single
+671,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+672,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+673,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+674,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+675,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+676,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+677,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+678,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+679,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Hamšík,none
+680,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+681,1088,"Euros 2024, Qualifiers",Liechtenstein vs Slovakia,20.06.23,Slovakia,SK,2023,SUCCESS,Tomas Suslov,2000000.0,False,working,False,Tomas Suslov,T Suslov,single
+682,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+683,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Dennis Hadzikadunic,2000000.0,False,working,False,Dennis Hadzikadunic,Hadžikadunić,single
+684,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+685,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+686,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Hrvoje Milicevic,700000.0,False,Data Ended before season : 2023,False,Hrvoje Milicevic,Miličević Hrvoje,single
+687,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none
+688,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Pjanić,none
+689,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Adi Nalic,700000.0,False,Data Ended before season : 2023,False,Adi Nalic,Nalic,single
+690,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+691,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Nemanja Bilbija,700000.0,False,working,False,Nemanja Bilbija,Bilbija,single
+692,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+693,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+694,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+695,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+696,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+697,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+698,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+699,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+700,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+701,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+702,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Ferhat Saglam,-,False,Data Ended before season : 2023,False,Ferhat Saglam,F Saglam,single
+703,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+704,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+705,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+706,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+707,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Mica Pinto,850000.0,False,working,False,Mica Pinto,Mica Pinto,single
+708,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Marvin Martins,700000.0,False,working,False,Marvin Martins,M Martins,single
+709,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+710,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+711,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+712,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+713,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Alessio Curci,200000.0,False,working,False,Alessio Curci,A Curci,single
+714,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Luxembourg,LU,2023,SUCCESS,Yvandro Borges Sanches,1000000.0,False,Used Large Dataset,False,Yvandro Borges Sanches,Borges Sanches,single
+715,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+716,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Valgeir Lunddal Fridriksson,1200000.0,False,Data Ended before season : 2023,False,Valgeir Lunddal Fridriksson,V Fridriksson,single
+717,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+718,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Hördur Magnússon,2000000.0,False,Data Ended before season : 2023,False,Hördur Magnússon,H Magnússon,single
+719,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+720,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+721,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Kolbeinn Finnsson,700000.0,False,working,False,Kolbeinn Finnsson,Finnsson,single
+722,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+723,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+724,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+725,1090,"Euros 2024, Qualifiers",Luxembourg vs Iceland,08.09.23,Iceland,IS,2023,SUCCESS,Saevar Atli Magnússon,450000.0,False,Data Ended before season : 2023,False,Saevar Atli Magnússon,S Magnússon,single
+726,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+727,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+728,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+729,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+730,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+731,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+732,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Lukas Haraslin,4500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+733,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+734,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+735,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+736,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Slovakia,SK,2023,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+737,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+738,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,"['Adrien Silva', 'André Silva', 'António Silva']",45000000.0,False,working,False,"['Adrien Silva', 'André Silva', 'António Silva']",A Silva,multiple
+739,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+740,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+741,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+742,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Vitinha,45000000.0,False,working,False,Vitinha,F Vitinha,single
+743,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+744,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+745,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+746,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+747,1091,"Euros 2024, Qualifiers",Slovakia vs Portugal,08.09.23,Portugal,PT,2023,SUCCESS,Rafael Leão,90000000.0,False,Used Large Dataset,False,Rafael Leão,Rafael Leão,single
+748,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+749,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Nélson Semedo,15000000.0,False,working,False,Nélson Semedo,N Semedo,single
+750,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+751,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Gonçalo Inácio,40000000.0,False,working,False,Gonçalo Inácio,Inacio,single
+752,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+753,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+754,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+755,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+756,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Diogo Jota,50000000.0,False,working,False,Diogo Jota,Jota,single
+757,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Gonçalo Ramos,50000000.0,False,working,False,Gonçalo Ramos,G Ramos,single
+758,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Portugal,PT,2023,SUCCESS,Rafael Leão,90000000.0,False,Used Large Dataset,False,Rafael Leão,Rafael Leão,single
+759,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+760,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+761,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+762,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Mica Pinto,850000.0,False,working,False,Mica Pinto,Mica Pinto,single
+763,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+764,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+765,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+766,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Timothé Rupil,175000.0,False,working,False,Timothé Rupil,Rupil,single
+767,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Florian Bohnert,500000.0,False,working,False,Florian Bohnert,Bohnert,single
+768,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Alessio Curci,200000.0,False,working,False,Alessio Curci,A Curci,single
+769,1092,"Euros 2024, Qualifiers",Portugal vs Luxembourg,11.09.23,Luxembourg,LU,2023,SUCCESS,Yvandro Borges Sanches,1000000.0,False,Used Large Dataset,False,Yvandro Borges Sanches,Borges Sanches,single
+770,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+771,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Alfons Sampsted,2500000.0,False,Used Large Dataset,False,Alfons Sampsted,Sampsted,single
+772,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Hjörtur Hermannsson,900000.0,False,Data Ended before season : 2023,False,Hjörtur Hermannsson,Hermannsson,single
+773,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+774,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+775,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+776,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Kolbeinn Finnsson,700000.0,False,working,False,Kolbeinn Finnsson,Finnsson,single
+777,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+778,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,Mikael Anderson,1000000.0,False,Data Ended before season : 2023,False,Mikael Anderson,Mik Anderson,single
+779,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+780,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Iceland,IS,2023,SUCCESS,"['Orri Óskarsson', 'Óskar Sverrisson']",400000.0,False,Data Ended before season : 2023,False,"['Orri Óskarsson', 'Óskar Sverrisson']",Oskarsson,multiple
+781,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+782,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Dennis Hadzikadunic,2000000.0,False,working,False,Dennis Hadzikadunic,Hadžikadunić,single
+783,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Jusuf Gazibegovic,4000000.0,False,working,False,Jusuf Gazibegovic,Gazibegovic,single
+784,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+785,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+786,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Hrvoje Milicevic,700000.0,False,Data Ended before season : 2023,False,Hrvoje Milicevic,Miličević Hrvoje,single
+787,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none
+788,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amir Hadziahmetovic,8000000.0,False,working,False,Amir Hadziahmetovic,Hadžiahmetović,single
+789,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Benjamin Tahirovic,6000000.0,False,working,False,Benjamin Tahirovic,Tahirovic,single
+790,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+791,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+792,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+793,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Michal Tomic,1500000.0,False,working,False,Michal Tomic,Tomic,single
+794,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+795,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+796,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+797,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+798,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,László Bénes,4000000.0,False,working,False,László Bénes,Benes,single
+799,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Lukas Haraslin,4500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+800,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+801,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+802,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Slovakia,SK,2023,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+803,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+804,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+805,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+806,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+807,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+808,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+809,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+810,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+811,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+812,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Ferhat Saglam,-,False,Data Ended before season : 2023,False,Ferhat Saglam,F Saglam,single
+813,1094,"Euros 2024, Qualifiers",Slovakia vs Liechtenstein,11.09.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+814,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+815,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,"['Adrien Silva', 'André Silva', 'António Silva']",45000000.0,False,working,False,"['Adrien Silva', 'André Silva', 'António Silva']",A Silva,multiple
+816,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+817,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+818,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+819,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+820,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+821,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+822,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+823,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Gonçalo Ramos,50000000.0,False,working,False,Gonçalo Ramos,G Ramos,single
+824,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Portugal,PT,2023,SUCCESS,Rafael Leão,90000000.0,False,Used Large Dataset,False,Rafael Leão,Rafael Leão,single
+825,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+826,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+827,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+828,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+829,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+830,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+831,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+832,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+833,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+834,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+835,1095,"Euros 2024, Qualifiers",Portugal vs Slovakia,13.10.23,Slovakia,SK,2023,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+836,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Rúnar Alex Rúnarsson,1500000.0,False,Data Ended before season : 2023,False,Rúnar Alex Rúnarsson,R Rúnarsson,single
+837,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Alfons Sampsted,2500000.0,False,Used Large Dataset,False,Alfons Sampsted,Sampsted,single
+838,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+839,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+840,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+841,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+842,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Arnór Sigurdsson,4500000.0,False,Data Ended before season : 2023,False,Arnór Sigurdsson,A Sigurðsson,single
+843,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Kolbeinn Finnsson,700000.0,False,working,False,Kolbeinn Finnsson,Finnsson,single
+844,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+845,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,Ísak Bergmann Jóhannesson,3000000.0,False,Data Ended before season : 2023,False,Ísak Bergmann Jóhannesson,Í Jóhannesson,single
+846,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Iceland,IS,2023,SUCCESS,"['Orri Óskarsson', 'Óskar Sverrisson']",400000.0,False,Data Ended before season : 2023,False,"['Orri Óskarsson', 'Óskar Sverrisson']",Oskarsson,multiple
+847,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+848,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+849,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+850,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+851,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Eldin Dzogovic,100000.0,False,Data Ended before season : 2023,False,Eldin Dzogovic,Dzogovic,single
+852,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Mica Pinto,850000.0,False,working,False,Mica Pinto,Mica Pinto,single
+853,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+854,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+855,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+856,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Alessio Curci,200000.0,False,working,False,Alessio Curci,A Curci,single
+857,1096,"Euros 2024, Qualifiers",Iceland vs Luxembourg,13.10.23,Luxembourg,LU,2023,SUCCESS,Vincent Thill,700000.0,False,working,False,Vincent Thill,V Thill,single
+858,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+859,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+860,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+861,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Jens Hofer,0.0,False,Large Dataset had 0,False,Jens Hofer,Hofer,single
+862,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,"['Marcel Büchel', 'Martin Büchel']",300000.0,False,working,False,"['Marcel Büchel', 'Martin Büchel']",M-l Büchel,multiple
+863,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+864,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+865,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+866,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+867,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Fabio Luque-Notaro,-,False,Data Ended before season : 2023,False,Fabio Luque-Notaro,Notaro,single
+868,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+869,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+870,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Dennis Hadzikadunic,2000000.0,False,working,False,Dennis Hadzikadunic,Hadžikadunić,single
+871,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+872,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,Lookup Required,False,0,A Barišić,none
+873,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+874,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Rahmanovic,2000000.0,False,working,False,Amar Rahmanovic,Rahmanović,single
+875,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+876,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Miroslav Stevanovic,1000000.0,False,working,False,Miroslav Stevanovic,Stevanovic,single
+877,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Pjanić,none
+878,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+879,1097,"Euros 2024, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,13.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+880,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,ehić,none
+881,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Dennis Hadzikadunic,2000000.0,False,working,False,Dennis Hadzikadunic,Hadžikadunić,single
+882,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Sead Kolasinac,8000000.0,False,Used Large Dataset,False,Sead Kolasinac,Kolasinac,single
+883,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,Lookup Required,False,0,A Barišić,none
+884,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+885,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Rahmanovic,2000000.0,False,working,False,Amar Rahmanovic,Rahmanović,single
+886,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+887,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Miroslav Stevanovic,1000000.0,False,working,False,Miroslav Stevanovic,Stevanovic,single
+888,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,FAIL,0,0,True,asswipe was in DB in before or after season,False,0,Pjanić,none
+889,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Edin Dzeko,4000000.0,False,Used Large Dataset,False,Edin Dzeko,Dzeko,single
+890,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+891,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+892,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+893,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Gonçalo Inácio,40000000.0,False,working,False,Gonçalo Inácio,Inacio,single
+894,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Diogo Dalot,40000000.0,False,Used Large Dataset,False,Diogo Dalot,Dalot,single
+895,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+896,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+897,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+898,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Danilo Pereira,10000000.0,False,Used Large Dataset,False,Danilo Pereira,Danilo Pereira,single
+899,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Otávio,30000000.0,False,working,False,Otávio,Otávio,single
+900,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+901,1098,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Portugal,16.10.23,Portugal,PT,2023,SUCCESS,Rafael Leão,90000000.0,False,Used Large Dataset,False,Rafael Leão,Rafael Leão,single
+902,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Elías Rafn Ólafsson,600000.0,False,Data Ended before season : 2023,False,Elías Rafn Ólafsson,E Olafsson,single
+903,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Alfons Sampsted,2500000.0,False,Used Large Dataset,False,Alfons Sampsted,Sampsted,single
+904,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+905,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+906,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+907,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",10000000.0,False,Used Large Dataset,False,"['Tryggvi Hrafn Haraldsson', 'Hákon Arnar Haraldsson']",Haraldsson,multiple
+908,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Gylfi Sigurdsson,-,False,Data Ended before season : 2023,False,Gylfi Sigurdsson,G Sigurdsson,single
+909,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Kolbeinn Finnsson,700000.0,False,working,False,Kolbeinn Finnsson,Finnsson,single
+910,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+911,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+912,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+913,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+914,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+915,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+916,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,"['Marco Marxer', 'Martin Marxer']",0.0,False,Large Dataset said 0,False,"['Marco Marxer', 'Martin Marxer']",M Marxer,multiple
+917,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,"['Marcel Büchel', 'Martin Büchel']",300000.0,False,working,False,"['Marcel Büchel', 'Martin Büchel']",M-l Büchel,multiple
+918,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+919,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+920,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+921,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+922,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+923,1099,"Euros 2024, Qualifiers",Iceland vs Liechtenstein,16.10.23,Liechtenstein,LI,2023,SUCCESS,Julien Hasler,0.0,False,Large Dataset had 0,False,Julien Hasler,J Hasler,single
+924,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+925,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+926,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+927,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Marvin Martins,700000.0,False,working,False,Marvin Martins,M Martins,single
+928,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+929,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Lars Gerson,125000.0,False,working,False,Lars Gerson,Gerson,single
+930,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+931,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+932,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+933,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+934,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Luxembourg,LU,2023,SUCCESS,Vincent Thill,700000.0,False,working,False,Vincent Thill,V Thill,single
+935,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+936,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+937,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+938,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+939,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+940,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+941,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+942,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+943,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Robert Polievka,1000000.0,False,working,False,Robert Polievka,Polievka,single
+944,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Tomas Suslov,2000000.0,False,working,False,Tomas Suslov,T Suslov,single
+945,1100,"Euros 2024, Qualifiers",Luxembourg vs Slovakia,16.10.23,Slovakia,SK,2023,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+946,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+947,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+948,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Enes Mahmutovic,400000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+949,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+950,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Marvin Martins,700000.0,False,working,False,Marvin Martins,M Martins,single
+951,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Christopher Martins Pereira,4500000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+952,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+953,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+954,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+955,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+956,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Luxembourg,LU,2023,SUCCESS,Florian Bohnert,500000.0,False,working,False,Florian Bohnert,Bohnert,single
+957,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Nikola Vasilj,1000000.0,False,working,False,Nikola Vasilj,N Vasilj,single
+958,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Renato Gojkovic,1500000.0,False,working,False,Renato Gojkovic,R Gojkovic,single
+959,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Nihad Mujakic,2300000.0,False,working,False,Nihad Mujakic,N Mujakic,single
+960,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Adnan Kovacevic,450000.0,False,working,False,Adnan Kovacevic,Ad Kovacevic,single
+961,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amar Dedic,20000000.0,False,working,False,Amar Dedic,A Dedic,single
+962,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none
+963,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+964,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Amir Hadziahmetovic,8000000.0,False,working,False,Amir Hadziahmetovic,Hadžiahmetović,single
+965,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Miroslav Stevanovic,1000000.0,False,working,False,Miroslav Stevanovic,Stevanovic,single
+966,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Said Hamulic,1000000.0,False,working,False,Said Hamulic,Hamulic,single
+967,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Haris Tabakovic,2500000.0,False,working,False,Haris Tabakovic,Tabakovic,single
+968,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Martin Dúbravka,1000000.0,False,working,False,Martin Dúbravka,Dubravka,single
+969,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Denis Vavro,4000000.0,False,working,False,Denis Vavro,Vavro,single
+970,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+971,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+972,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+973,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+974,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Lukas Haraslin,4500000.0,False,working,False,Lukas Haraslin,Haraslin,single
+975,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Juraj Kucka,900000.0,False,working,False,Juraj Kucka,Kucka,single
+976,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Stanislav Lobotka,35000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+977,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+978,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Slovakia,SK,2023,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+979,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Elías Rafn Ólafsson,600000.0,False,Data Ended before season : 2023,False,Elías Rafn Ólafsson,E Olafsson,single
+980,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Alfons Sampsted,2500000.0,False,Used Large Dataset,False,Alfons Sampsted,Sampsted,single
+981,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+982,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Arnór Ingvi Traustason,1200000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+983,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+984,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Arnór Sigurdsson,4500000.0,False,Data Ended before season : 2023,False,Arnór Sigurdsson,A Sigurðsson,single
+985,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Kolbeinn Finnsson,700000.0,False,working,False,Kolbeinn Finnsson,Finnsson,single
+986,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+987,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,Kristian Hlynsson,850000.0,False,Used Large Dataset,False,Kristian Hlynsson,Kr Hlynsson,single
+988,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+989,1102,"Euros 2024, Qualifiers",Slovakia vs Iceland,16.11.23,Iceland,IS,2023,SUCCESS,"['Orri Óskarsson', 'Óskar Sverrisson']",400000.0,False,Data Ended before season : 2023,False,"['Orri Óskarsson', 'Óskar Sverrisson']",Oskarsson,multiple
+990,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+991,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+992,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+993,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+994,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+995,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,"['Marcel Büchel', 'Martin Büchel']",300000.0,False,working,False,"['Marcel Büchel', 'Martin Büchel']",M-l Büchel,multiple
+996,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+997,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+998,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+999,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+1000,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Liechtenstein,LI,2023,SUCCESS,Julien Hasler,0.0,False,Large Dataset had 0,False,Julien Hasler,J Hasler,single
+1001,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,José Sá,16000000.0,False,working,False,José Sá,José Sá,single
+1002,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Tiago Gomes,-,False,Data Ended before season : 2023,False,Tiago Gomes,Tote Gomes,single
+1003,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,"['Adrien Silva', 'André Silva', 'António Silva']",45000000.0,False,working,False,"['Adrien Silva', 'André Silva', 'António Silva']",A Silva,multiple
+1004,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+1005,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+1006,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1007,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+1008,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+1009,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Diogo Jota,50000000.0,False,working,False,Diogo Jota,Jota,single
+1010,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1011,1103,"Euros 2024, Qualifiers",Liechtenstein vs Portugal,16.11.23,Portugal,PT,2023,SUCCESS,Gonçalo Ramos,50000000.0,False,working,False,Gonçalo Ramos,G Ramos,single
+1012,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+1013,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+1014,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Gonçalo Inácio,40000000.0,False,working,False,Gonçalo Inácio,Inacio,single
+1015,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,João Cancelo,40000000.0,False,working,False,João Cancelo,Cancelo,single
+1016,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,João Palhinha,60000000.0,False,working,False,João Palhinha,Palhinha,single
+1017,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Bruno Fernandes,70000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+1018,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1019,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,João Félix,40000000.0,False,working,False,João Félix,J Félix,single
+1020,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Otávio,30000000.0,False,working,False,Otávio,Otávio,single
+1021,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,Cristiano Ronaldo,15000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1022,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Portugal,PT,2023,SUCCESS,João Mário,16000000.0,False,working,False,João Mário,João Mário Neto,single
+1023,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Hákon Rafn Valdimarsson,1800000.0,False,working,False,Hákon Rafn Valdimarsson,Valdimarsson HR,single
+1024,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Sverrir Ingi Ingason,4000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+1025,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Hjörtur Hermannsson,900000.0,False,Data Ended before season : 2023,False,Hjörtur Hermannsson,Hermannsson,single
+1026,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Gudmundur Thórarinsson,400000.0,False,Data Ended before season : 2023,False,Gudmundur Thórarinsson,Thórarinsson,single
+1027,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+1028,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Arnór Sigurdsson,4500000.0,False,Data Ended before season : 2023,False,Arnór Sigurdsson,A Sigurðsson,single
+1029,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Willum Thór Willumsson,1300000.0,False,Used Large Dataset,False,Willum Thór Willumsson,W Willumsson,single
+1030,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,Ísak Bergmann Jóhannesson,3000000.0,False,Data Ended before season : 2023,False,Ísak Bergmann Jóhannesson,Í Jóhannesson,single
+1031,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",3500000.0,False,Data Ended before season : 2023,False,"['Steinthór Freyr Thorsteinsson', 'Jón Dagur Thorsteinsson']",Thorsteinsson,multiple
+1032,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",1200000.0,False,Used Large Dataset,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+1033,1104,"Euros 2024, Qualifiers",Portugal vs Iceland,19.11.23,Iceland,IS,2023,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",350000.0,False,Data Ended before season : 2023,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+1034,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,0,Pirić,none
+1035,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Renato Gojkovic,1500000.0,False,working,False,Renato Gojkovic,R Gojkovic,single
+1036,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Dennis Hadzikadunic,2000000.0,False,working,False,Dennis Hadzikadunic,Hadžikadunić,single
+1037,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Nihad Mujakic,2300000.0,False,working,False,Nihad Mujakic,N Mujakic,single
+1038,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Jusuf Gazibegovic,4000000.0,False,working,False,Jusuf Gazibegovic,Gazibegovic,single
+1039,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,0,Bašić,none
+1040,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Gojko Cimirot,1300000.0,False,working,False,Gojko Cimirot,Cimirot,single
+1041,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Haris Hajradinovic,2500000.0,False,working,False,Haris Hajradinovic,Hajradinović,single
+1042,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Said Hamulic,1000000.0,False,working,False,Said Hamulic,Hamulic,single
+1043,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Smail Prevljak,1200000.0,False,working,False,Smail Prevljak,Prevljak,single
+1044,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,Ermedin Demirovic,20000000.0,False,working,False,Ermedin Demirovic,Demirovic,single
+1045,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+1046,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Peter Pekarik,300000.0,False,working,False,Peter Pekarik,Pekarik,single
+1047,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Lubomir Satka,700000.0,False,working,False,Lubomir Satka,atka,single
+1048,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Milan Skriniar,45000000.0,False,working,False,Milan Skriniar,kriniar,single
+1049,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,David Hancko,35000000.0,False,working,False,David Hancko,Hancko,single
+1050,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Ondrej Duda,4000000.0,False,working,False,Ondrej Duda,Duda,single
+1051,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,László Bénes,4000000.0,False,working,False,László Bénes,Benes,single
+1052,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,0,4500000.0,False,working,False,0,Hrošovský,none
+1053,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Robert Mak,650000.0,False,working,False,Robert Mak,R Mak,single
+1054,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,Tomas Suslov,2000000.0,False,working,False,Tomas Suslov,T Suslov,single
+1055,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+1056,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+1057,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+1058,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+1059,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+1060,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Jens Hofer,0.0,False,Large Dataset had 0,False,Jens Hofer,Hofer,single
+1061,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,"['Marcel Büchel', 'Martin Büchel']",300000.0,False,working,False,"['Marcel Büchel', 'Martin Büchel']",M-l Büchel,multiple
+1062,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wieser,150000.0,False,working,False,Sandro Wieser,Wieser,single
+1063,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+1064,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+1065,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Dennis Salanović,150000.0,False,working,False,Dennis Salanović,Salanovic,single
+1066,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Liechtenstein,LI,2023,SUCCESS,Julien Hasler,0.0,False,Large Dataset had 0,False,Julien Hasler,J Hasler,single
+1067,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Anthony Moris,1500000.0,False,working,False,Anthony Moris,Moris,single
+1068,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Maxime Chanot,500000.0,False,working,False,Maxime Chanot,Chanot,single
+1069,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+1070,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Seid Korac,450000.0,False,working,False,Seid Korac,Korac,single
+1071,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Laurent Jans,300000.0,False,working,False,Laurent Jans,Jans,single
+1072,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",800000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+1073,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",1700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+1074,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Leandro Barreiro,14000000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+1075,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Mathias Olesen,1200000.0,False,working,False,Mathias Olesen,Olesen,single
+1076,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Sébastien Thill,250000.0,False,working,False,Sébastien Thill,S Thill,single
+1077,1106,"Euros 2024, Qualifiers",Liechtenstein vs Luxembourg,19.11.23,Luxembourg,LU,2023,SUCCESS,Vincent Thill,700000.0,False,working,False,Vincent Thill,V Thill,single
+1078,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Rui Patrício,15000000.0,False,working,False,Rui Patrício,Rui Patricio,single
+1079,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Pepe,10000000.0,False,working,False,Pepe,Pepe,single
+1080,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,José Fonte,5000000.0,False,working,False,José Fonte,J Fonte,single
+1081,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Raphaël Guerreiro,7500000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1082,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,William Carvalho,26000000.0,False,working,False,William Carvalho,W Carvalho,single
+1083,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Cédric Soares,9500000.0,False,working,False,Cédric Soares,Cedric Soares,single
+1084,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,João Mário,8000000.0,False,working,False,João Mário,Joao Mario,single
+1085,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Renato Sanches,800000.0,False,working,False,Renato Sanches,R Sanches,single
+1086,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Nani,15000000.0,False,working,False,Nani,Nani,single
+1087,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Adrien Silva,12500000.0,False,working,False,Adrien Silva,Adrien Silva,single
+1088,1108,Euros 2016,Portugal vs France,10.07.16,Portugal,PT,2016,SUCCESS,Cristiano Ronaldo,110000000.0,False,working,False,Cristiano Ronaldo,Cristiano Ronaldo,single
+1089,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Hugo Lloris,24000000.0,False,working,False,Hugo Lloris,Lloris,single
+1090,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Patrice Evra,1000000.0,False,working,False,Patrice Evra,Evra,single
+1091,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Bacary Sagna,4000000.0,False,working,False,Bacary Sagna,Sagna,single
+1092,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Laurent Koscielny,22000000.0,False,working,False,Laurent Koscielny,Koscielny,single
+1093,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Samuel Umtiti,30000000.0,False,working,False,Samuel Umtiti,Umtiti,single
+1094,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Antoine Griezmann,80000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1095,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Blaise Matuidi,30000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+1096,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Paul Pogba,75000000.0,False,working,False,Paul Pogba,Pogba,single
+1097,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Moussa Sissoko,20000000.0,False,working,False,Moussa Sissoko,M Sissoko,single
+1098,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Dimitri Payet,26000000.0,False,working,False,Dimitri Payet,Payet,single
+1099,1108,Euros 2016,Portugal vs France,10.07.16,France,FR,2016,SUCCESS,Olivier Giroud,22000000.0,False,working,False,Olivier Giroud,Giroud,single

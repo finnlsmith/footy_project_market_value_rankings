@@ -1,0 +1,311 @@
+,Match ID,Match,Date,Competition,Nationality,Country Code,ORIGINAL JERSEY,Names_Found,Season,Status
+0,2687,Japan vs Vietnam,29-03-2022,"World Cup Qualifiers, Asia, 2022",Vietnam,VN,Nguyn Thanh Bình,['Thanh Binh Nguyen'],2022,Success
+1,4240,Colombia vs Bolivia,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Marvin Bejarano,2013,Success
+2,4241,Uruguay vs Paraguay,22-Mar-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cardozo,Óscar Cardozo,2013,Success
+3,4248,Bolivia vs Venezuela,07-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Chávez,Daniel Chávez,2013,Success
+4,4010,USA vs Saint Vincent and the Grenadines,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,James,Gavin James,2015,Success
+5,4013,Mexico vs El Salvador,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Barahona,Juan Barahona,2015,Success
+6,4013,Mexico vs El Salvador,13-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Pineda,['Denis Pineda'],2015,Success
+7,4020,El Salvador vs Canada,17-Nov-15,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Pineda,['Denis Pineda'],2015,Success
+8,4027,Guatemala vs USA,25-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",Guatemala,GT,López,Hamilton López,2016,Success
+9,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,García,Boniek García,2016,Success
+10,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Barahona,Juan Barahona,2016,Success
+11,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Menjívar,Richard Menjívar,2016,Success
+12,4029,Honduras vs El Salvador,29-Mar-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Pineda,['Denis Pineda'],2016,Success
+13,4035,Saint Vincent and the Grenadines vs USA,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,James,Gavin James,2016,Success
+14,4036,Haiti vs Costa Rica,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Haiti,HT,Pierre,Paulson Pierre,2016,Success
+15,4038,El Salvador vs Mexico,02-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Cerén,Óscar Cerén,2016,Success
+16,4041,Canada vs El Salvador,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",El Salvador,SV,Barahona,Juan Barahona,2016,Success
+17,4042,Costa Rica vs Panama,06-Sep-16,"World Cup 2018, Qualifiers, CONCACAF",Panama,PA,Vargas,Manuel Vargas,2016,Success
+18,2233,Gambia vs Cote d'Ivoire,20-11-2023,"World Cup Qualifiers, Africa, 2026",Cote d'Ivoire,CI,H Traoré,['Hamed Junior Traorè'],2023,Success
+19,2267,Chinese Taipei vs Vietnam,08-09-2015,"World Cup Qualifiers, Asia, 2018",Vietnam,VN,V Minh Tun,['Van Tung Nguyen'],2015,Success
+20,3306,Russia vs Cyprus,11-11-2021,"World Cup Qualifiers, Europe, 2022",Russia,RU,A Miranchuk,['Anton Miranchuk'],2021,Success
+21,1699,Liechtenstein vs Gibraltar,10.10.20,Nations League 2020-2021,Liechtenstein,LI,M-n Buchel,Martin Büchel,2020,Success
+22,1705,Netherlands vs Italy,18.06.23,Nations League 2022-2023,Netherlands,NL,de Jong,Frenkie de Jong,2023,Success
+23,1706,Netherlands vs Croatia,14.06.23,Nations League 2022-2023,Netherlands,NL,de Jong,Frenkie de Jong,2023,Success
+24,988,Sweden vs Austria,12.09.23,"Euros 2024, Qualifiers",Sweden,SE,Ekdal,Albin Ekdal,2023,Success
+25,992,Belgium vs Sweden,16.10.23,"Euros 2024, Qualifiers",Sweden,SE,Ekdal,Albin Ekdal,2023,Success
+26,996,Sweden vs Estonia,19.11.23,"Euros 2024, Qualifiers",Sweden,SE,Ekdal,Albin Ekdal,2023,Success
+27,3499,Guinea vs Mali,28-01-2015,"African Cup of Nations, 2015",Mali,ML,S Kéita,Seydou Keita,2015,Fail
+28,3499,Guinea vs Mali,28-01-2015,"African Cup of Nations, 2015",Mali,ML,A Diaby,['Alassane Diaby'],2015,Success
+29,3501,Cote d'Ivoire vs Mali,24-01-2015,"African Cup of Nations, 2015",Mali,ML,S Kéita,Seydou Keita,2015,Fail
+30,1245,Argentina vs Venezuela,19.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+31,1251,United States vs Paraguay,12.06.16,Copa America 2016,Paraguay,PY,Balbuena,Fabián Balbuena,2016,Success
+32,1259,Jamaica vs Venezuela,06.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+33,1261,Uruguay vs Venezuela,10.06.16,Copa America 2016,Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+34,759,Israel vs Austria,24.03.19,"Euros 2020, Qualifiers",Austria,AT,Zulj,['Peter Zulj'],2019,Success
+35,2203,Algeria vs Somalia,16-11-2023,"World Cup Qualifiers, Africa, 2026",Somalia,SO,A Mohamed,"['Abdi Mohamed', 'Farhan Mohamed Ahmed', 'Mahad Mohamed Abdulkadir']",2023,Multi
+36,2211,Liberia vs Malawi,17-11-2023,"World Cup Qualifiers, Africa, 2026",Liberia,LR,T Tisdell,Tonia Tisdell,2023,Success
+37,4250,Paraguay vs Chile,07-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cardozo,['Luis Cardozo'],2013,Success
+38,4255,Chile vs Bolivia,11-Jun-13,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Diego Bejarano,2013,Success
+39,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,Success
+40,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2013,Success
+41,4257,Paraguay vs Bolivia,06-Sep-13,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia,BO,Bejarano,Danny Bejarano,2013,Success
+42,4266,Venezuela vs Paraguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,Success
+43,4266,Venezuela vs Paraguay,11-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Cardozo,Óscar Cardozo,2013,Success
+44,4268,Paraguay vs Colombia,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Gómez,['Gabriel Gómez'],2013,Success
+45,4268,Paraguay vs Colombia,15-Oct-13,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay,PY,Romero,['Sergio Romero'],2013,Success
+46,4274,Bolivia vs Uruguay,08-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Vaca,Daniel Vaca,2015,Success
+47,4275,Venezuela vs Paraguay,08-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Lucena,['Franklin Lucena'],2015,Success
+48,4275,Venezuela vs Paraguay,08-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Valdez,Bruno Valdez,2015,Success
+49,4278,Ecuador vs Bolivia,13-Oct-15,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Flores,Jorge Flores,2015,Success
+50,4284,Bolivia vs Venezuela,12-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Vargas,Jefre Vargas,2015,Success
+51,4291,Paraguay vs Bolivia,17-Nov-15,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia,BO,Flores,Jorge Flores,2015,Success
+52,4294,Ecuador vs Paraguay,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Valdez,Bruno Valdez,2016,Success
+53,4295,Chile vs Argentina,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Fernández,['Matías Fernández'],2016,Success
+54,4296,Peru vs Venezuela,24-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+55,4297,Brazil vs Uruguay,25-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+56,4297,Brazil vs Uruguay,25-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+57,4299,Venezuela vs Chile,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+58,2773,San Marino vs England,22-03-2013,"World Cup Qualifiers, Europe, 2014",San Marino,SM,A Della Valle,Alessandro Della Valle,2013,Success
+59,627,England vs Czech,22.03.19,"Euros 2020, Qualifiers",England,EN,Henderson,Jordan Henderson,2019,Success
+60,635,England vs Bulgaria,07.09.19,"Euros 2020, Qualifiers",England,EN,Henderson,Jordan Henderson,2019,Success
+61,636,England vs Kosovo,10.09.19,"Euros 2020, Qualifiers",England,EN,Henderson,Jordan Henderson,2019,Success
+62,638,Czech vs England,11.10.19,"Euros 2020, Qualifiers",England,EN,Henderson,Jordan Henderson,2019,Success
+63,640,Bulgaria vs England,14.10.19,"Euros 2020, Qualifiers",England,EN,Henderson,Jordan Henderson,2019,Success
+64,655,Serbia vs Portugal,07.09.19,"Euros 2020, Qualifiers",Serbia,RS,Matic,['Nemanja Matic'],2019,Success
+65,3794,Costa Rica vs Martinique,05-07-2023,"Gold Cup, 2023",Costa Rica,CR,J Vargas,['Juan Pablo Vargas'],2023,Success
+66,3805,Mexico vs Honduras,26-06-2023,"Gold Cup, 2023",Mexico,MX,E Álvarez,Edson Álvarez,2023,Success
+67,3805,Mexico vs Honduras,26-06-2023,"Gold Cup, 2023",Mexico,MX,E Sánchez,Érick Sánchez,2023,Success
+68,3808,Jamaica vs Mexico,13-07-2023,"Gold Cup, 2023",Mexico,MX,E Sánchez,Érick Sánchez,2023,Success
+69,3810,Haiti vs Mexico,30-06-2023,"Gold Cup, 2023",Mexico,MX,E Álvarez,Edson Álvarez,2023,Success
+70,3810,Haiti vs Mexico,30-06-2023,"Gold Cup, 2023",Mexico,MX,E Sánchez,Érick Sánchez,2023,Success
+71,3811,Mexico vs Qatar,03-07-2023,"Gold Cup, 2023",Mexico,MX,E Álvarez,Edson Álvarez,2023,Success
+72,3813,El Salvador vs Costa Rica,01-07-2023,"Gold Cup, 2023",Costa Rica,CR,J Vargas,['Juan Pablo Vargas'],2023,Success
+73,2451,Maldives vs Bhutan,29-03-2016,"World Cup Qualifiers, Asia, 2018",Maldives,MV,Assadhulla Abdulla,['Abdulla Assadhulla'],2016,Success
+74,2463,Palestine vs Timor-Leste,29-03-2016,"World Cup Qualifiers, Asia, 2018",Timor-Leste,TL,Ramos,Ramos Maxanches,2016,Success
+75,446,Ireland vs Gibraltar,11.10.14,"Euros 2016, Qualifiers",Ireland,IE,Keane,['Robbie Keane'],2014,Success
+76,449,Germany vs Ireland,14.10.14,"Euros 2016, Qualifiers",Ireland,IE,Keane,['Robbie Keane'],2014,Success
+77,465,Ireland vs Georgia,07.09.15,"Euros 2016, Qualifiers",Ireland,IE,Keane,['Robbie Keane'],2015,Success
+78,1314,Chile vs Paraguay,25.06.21,Copa America 2021,Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+79,1347,Portugal vs Argentina,2016-08-04,"Olympics, 2016",Argentina,AR,Cristian Espinoza,['Cristian Pavón'],2016,Success
+80,2087,Morocco vs Guinea,16-11-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,A Camara,Aguibou Camara,2021,Success
+81,2088,Guinea vs Guinea-Bissau,12-11-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,A Camara,Aguibou Camara,2021,Success
+82,2099,Guinea vs Sudan,09-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,A Camara,Aguibou Camara,2021,Success
+83,1058,Belarus vs Kosovo,19.06.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,Amir Rrahmani,2023,Success
+84,1061,Kosovo vs Switzerland,09.09.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,Amir Rrahmani,2023,Success
+85,1064,Romania vs Kosovo,12.09.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,"['Amir Rrahmani', 'Albion Rrahmani']",2023,Multi
+86,1078,Bosnia-Herzegovina vs Iceland,23.03.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+87,1078,Bosnia-Herzegovina vs Iceland,23.03.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+88,1080,Liechtenstein vs Iceland,26.03.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+89,1080,Liechtenstein vs Iceland,26.03.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+90,1085,Iceland vs Slovakia,17.06.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2023,Multi
+91,1087,Iceland vs Portugal,20.06.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson']",2023,Multi
+92,1090,Luxembourg vs Iceland,08.09.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+93,1090,Luxembourg vs Iceland,08.09.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+94,1093,Iceland vs Bosnia-Herzegovina,11.09.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+95,1093,Iceland vs Bosnia-Herzegovina,11.09.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+96,1096,Iceland vs Luxembourg,13.10.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+97,1099,Iceland vs Liechtenstein,16.10.23,"Euros 2024, Qualifiers",Iceland,IS,Haraldsson,['Hákon Arnar Haraldsson'],2023,Success
+98,1102,Slovakia vs Iceland,16.11.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+99,1104,Portugal vs Iceland,19.11.23,"Euros 2024, Qualifiers",Iceland,IS,Gudmundsson,Jóhann Berg Gudmundsson,2023,Success
+100,2340,Myanmar vs Lebanon,08-10-2015,"World Cup Qualifiers, Asia, 2018",Myanmar,MM,Thiha Zaw,Thiha Zaw,2015,Success
+101,2341,Bhutan vs Qatar,17-11-2015,"World Cup Qualifiers, Asia, 2018",Bhutan,BT,T Dorji,Tshering Dorji,2015,Success
+102,2342,Syria vs Cambodia,24-03-2016,"World Cup Qualifiers, Asia, 2018",Cambodia,KH,Sos Suhana,Souhana Sos,2016,Success
+103,2349,Cambodia vs Japan,17-11-2015,"World Cup Qualifiers, Asia, 2018",Cambodia,KH,Sos Suhana,Souhana Sos,2015,Success
+104,4048,Trinidad and Tobago vs Costa Rica,11-Nov-16,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago,TT,Williams,"['Jan-Michael Williams', 'Jomal Williams']",2016,Multi
+105,4060,Mexico vs Honduras,08-Jun-17,"World Cup 2018, Qualifiers, CONCACAF",Mexico,MX,Corona,Jesús Corona,2017,Success
+106,4079,Suriname vs Cayman Islands,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Ebanks,"['Jonah Ebanks', 'Trey Ebanks']",2021,Multi
+107,4080,Dominican Republic vs Dominica,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Thomas,Briel Thomas,2021,Success
+108,4082,Saint Kitts and Nevis vs Puerto Rico,24-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Kitts and Nevis,KN,Flemming,Ordell Flemming,2021,Success
+109,4084,Trinidad and Tobago vs Guyana,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Guyana,GY,Wilson,Daniel Wilson,2021,Success
+110,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Williams,"['Akeem Williams, Kurtlon Williams']",2021,Multi
+111,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Charles,Nigel Charles,2021,Success
+112,4087,Curaçao vs Saint Vincent and the Grenadines,25-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Stewart,Cornelius Stewart,2021,Success
+113,4092,Bahamas vs Saint Kitts and Nevis,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Russell,Logan Russell,2021,Success
+114,4092,Bahamas vs Saint Kitts and Nevis,27-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Julmis,Peter Julmis,2021,Success
+115,529,Romania vs Finland,08.10.15,"Euros 2016, Qualifiers",Finland,FI,Moisander,Niklas Moisander,2015,Success
+116,554,Liechtenstein vs Russia,08.09.15,"Euros 2016, Qualifiers",Liechtenstein,LI,M-n Buchel,Martin Büchel,2015,Success
+117,2894,Liechtenstein vs Slovakia,07-06-2013,"World Cup Qualifiers, Europe, 2014",Liechtenstein,LI,M Büchel,Martin Büchel,2013,Success
+118,4104,Barbados vs Anguilla,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Williams,Mario Williams,2021,Success
+119,4105,Saint Vincent and the Grenadines vs British Virgin Islands,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Stewart,Cornelius Stewart,2021,Success
+120,4105,Saint Vincent and the Grenadines vs British Virgin Islands,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Williams,"['Akeem Williams, Kurtlon Williams']",2021,Success
+121,4106,Guyana vs Bahamas,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Guyana,GY,Wilson,Daniel Wilson,2021,Success
+122,4106,Guyana vs Bahamas,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Russell,Logan Russell,2021,Success
+123,4106,Guyana vs Bahamas,30-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Bahamas,BS,Julmis,Peter Julmis,2021,Success
+124,4108,Dominica vs Anguilla,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Thomas,Briel Thomas,2021,Success
+125,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Cayman Islands,KY,Wood,Theron Wood,2021,Success
+126,4111,Cayman Islands vs Aruba,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Aruba,AW,Lewis,Fernando Lewis,2021,Success
+127,4112,Puerto Rico vs Bahamas,02-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Puerto Rico,PR,Díaz,['Luis Díaz'],2021,Success
+128,4114,Guatemala vs Saint Vincent and the Grenadines,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Stewart,Cornelius Stewart,2021,Success
+129,4115,Saint Kitts and Nevis vs Guyana,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Kitts and Nevis,KN,Flemming,Ordell Flemming,2021,Success
+130,4116,Suriname vs Bermuda,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bermuda,BM,Jones,Rahzir Jones,2021,Success
+131,4116,Suriname vs Bermuda,04-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Bermuda,BM,Robinson,Luke Robinson,2021,Success
+132,4121,US Virgin Islands vs El Salvador,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+133,4122,Anguilla vs Panama,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Panama,PA,Córdoba,Omar Córdoba,2021,Success
+134,4123,Aruba vs Canada,05-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Aruba,AW,Lewis,Fernando Lewis,2021,Success
+135,4127,Saint Vincent and the Grenadines vs Cuba,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Saint Vincent and the Grenadines,VC,Charles,,2021,Success
+136,4131,El Salvador vs Antigua and Barbuda,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+137,4133,Barbados vs Dominica,08-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",Barbados,BB,Brathwaite,Liam Brathwaite,2021,Success
+138,4141,El Salvador vs Saint Kitts and Nevis,15-Jun-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+139,4144,El Salvador vs USA,02-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+140,4147,El Salvador vs Honduras,05-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+141,4403,Colombia vs Chile,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2021,Success
+142,4403,Colombia vs Chile,09-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+143,4411,Peru vs Chile,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+144,4411,Peru vs Chile,07-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+145,4417,Chile vs Paraguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+146,4417,Chile vs Paraguay,10-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+147,4418,Colombia vs Ecuador,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Zapata,Duván Zapata,2021,Success
+148,4422,Chile vs Venezuela,14-Oct-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+149,4424,Paraguay vs Chile,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+150,4426,Brazil vs Colombia,11-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Zapata,Duván Zapata,2021,Success
+151,4432,Chile vs Ecuador,16-Nov-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+152,2583,Vietnam vs Oman,24-03-2022,"World Cup Qualifiers, Asia, 2022",Vietnam,VN,Nguyn Thành Chung,['Thanh Chung Nguyen'],2022,Success
+153,2584,Kyrgyzstan vs Myanmar,10-10-2019,"World Cup Qualifiers, Asia, 2022",Myanmar,MM,Thu Aung,['Aung Thu'],2019,Success
+154,1927,Guinea vs Libya,31-08-2017,"World Cup Qualifiers, Africa, 2018",Guinea,GN,F Camara,Fodé Camara,2017,Success
+155,1938,Mali vs Botswana,17-11-2015,"World Cup Qualifiers, Africa, 2018",Mali,ML,A Diaby,['Alassane Diaby'],2015,Success
+156,1947,Guinea vs Congo DR,13-11-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,A Bangoura,Alsény Bangoura,2016,Success
+157,1947,Guinea vs Congo DR,13-11-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,F Camara,Fodé Camara,2016,Success
+158,1968,Tunisia vs Mauritania,17-11-2015,"World Cup Qualifiers, Africa, 2018",Mauritania,MR,M Wade,Mamadou Idrissa Wade,2015,Success
+159,1970,Libya vs Guinea,04-09-2017,"World Cup Qualifiers, Africa, 2018",Guinea,GN,F Camara,Fodé Camara,2017,Success
+160,4350,Ecuador vs Peru,05-Sep-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Marcos Caicedo,2017,Success
+161,4356,Chile vs Ecuador,05-Oct-17,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2017,Success
+162,4366,Argentina vs Ecuador,08-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2020,Success
+163,4370,Ecuador vs Uruguay,13-Oct-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Moisés Caicedo,2020,Success
+164,4374,Bolivia vs Ecuador,12-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Ribera,Oscar Ribera,2020,Success
+165,4374,Bolivia vs Ecuador,12-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Beder Caicedo', 'Moisés Caicedo']",2020,Multi
+166,4379,Ecuador vs Colombia,17-Nov-20,"World Cup 2022, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Beder Caicedo', 'Moisés Caicedo']",2020,Multi
+167,4385,Uruguay vs Paraguay,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,González,Carlos González,2021,Success
+168,4386,Peru vs Colombia,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Zapata,Duván Zapata,2021,Success
+169,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+170,4387,Argentina vs Chile,03-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+171,4390,Colombia vs Argentina,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Zapata,Duván Zapata,2021,Success
+172,4391,Venezuela vs Uruguay,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay,UY,González,Carlos González,2021,Success
+173,4393,Chile vs Bolivia,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+174,4393,Chile vs Bolivia,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+175,4393,Chile vs Bolivia,08-Jun-21,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia,BO,Sagredo,José Sagredo,2021,Success
+176,4394,Bolivia vs Colombia,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2021,Success
+177,4398,Chile vs Brazil,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+178,4398,Chile vs Brazil,02-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+179,4399,Ecuador vs Chile,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+180,4399,Ecuador vs Chile,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Chile,CL,Aránguiz,Charles Aránguiz,2021,Success
+181,4400,Paraguay vs Colombia,05-Sep-21,"World Cup 2022, Qualifiers, CONMEBOL",Colombia,CO,Murillo,Óscar Murillo,2021,Success
+182,1900,Egypt vs Guinea,10-09-2013,"World Cup Qualifiers, Africa, 2014",Guinea,GN,I Sylla,Issiaga Sylla,2013,Success
+183,907,Ireland vs Netherlands,10.09.23,"Euros 2024, Qualifiers",Netherlands,NL,de Jong,Frenkie de Jong,2023,Success
+184,1985,Cape Verde vs Burkina Faso,12-11-2016,"World Cup Qualifiers, Africa, 2018",Burkina Faso,BF,H Ko,Hervé Koffi,2016,Success
+185,1998,Morocco vs Cote d'Ivoire,12-11-2016,"World Cup Qualifiers, Africa, 2018",Cote d'Ivoire,CI,A Traoré,Adama Traoré,2016,Success
+186,2000,Libya vs Tunisia,11-11-2016,"World Cup Qualifiers, Africa, 2018",Libya,LY,Abdelrahman Fetori,['Abdulrahim El-Triki'],2016,Success
+187,2010,Burkina Faso vs South Africa,08-10-2016,"World Cup Qualifiers, Africa, 2018",Burkina Faso,BF,H Ko,Hervé Koffi,2016,Success
+188,865,Italy vs Greece,12.10.19,"Euros 2020, Qualifiers",Italy,IT,D,Danilo D’Ambrosio,2019,Success
+189,878,Spain vs Norway,25.03.23,"Euros 2024, Qualifiers",Spain,ES,Nacho,['Nacho Fernández'],2023,Success
+190,905,Netherlands vs Greece,07.09.23,"Euros 2024, Qualifiers",Netherlands,NL,de Jong,Frenkie de Jong,2023,Success
+191,576,Croatia vs Norway,28.03.15,"Euros 2016, Qualifiers",Norway,NO,Elyounoussi,Tarik Elyounoussi,2015,Success
+192,582,Bulgaria vs Norway,03.09.15,"Euros 2016, Qualifiers",Norway,NO,Elyounoussi,Omar Elabdellaoui,2015,Success
+193,3984,Dominica vs Canada,11-Jun-15,"World Cup 2018, Qualifiers, CONCACAF",Dominica,DM,Joseph,Malcolm Joseph,2015,Success
+194,367,Netherlands vs Turkey,28.03.15,"Euros 2016, Qualifiers",Netherlands,NL,de Jong,Nigel de Jong,2015,Success
+195,2037,Tunisia vs Guinea,09-10-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,A Bangoura,Alsény Bangoura,2016,Success
+196,2037,Tunisia vs Guinea,09-10-2016,"World Cup Qualifiers, Africa, 2018",Guinea,GN,F Camara,Fodé Camara,2016,Success
+197,2041,Mauritania vs Tunisia,13-11-2015,"World Cup Qualifiers, Africa, 2018",Mauritania,MR,M Wade,Mamadou Idrissa Wade,2015,Success
+198,2051,Mozambique vs Malawi,16-11-2021,"World Cup Qualifiers, Africa, 2022",Malawi,MW,G Chirwa,Gomezgani Chirwa,2021,Success
+199,2057,Sudan vs Guinea,06-10-2021,"World Cup Qualifiers, Africa, 2022",Guinea,GN,A Camara,Aguibou Camara,2021,Success
+200,2061,Djibouti vs Niger,06-09-2021,"World Cup Qualifiers, Africa, 2022",Djibouti,DJ,M Mohamed,Mohamed Bourhan Mohamed,2021,Success
+201,2069,Chad vs Sudan,05-09-2019,"World Cup Qualifiers, Africa, 2022",Sudan,SD,Ahmed Hamid Al Tash,"['Atthar Eltahir', 'Mohamed Al-Rasheed']",2019,Multi
+202,3349,Slovenia vs Russia,11-10-2021,"World Cup Qualifiers, Europe, 2022",Russia,RU,A Miranchuk,['Anton Miranchuk'],2021,Success
+203,3370,Russia vs Malta,07-09-2021,"World Cup Qualifiers, Europe, 2022",Russia,RU,A Miranchuk,['Anton Miranchuk'],2021,Success
+204,3482,Mali vs Cameroon,20-01-2015,"African Cup of Nations, 2015",Mali,ML,S Kéita,"['Sekou Koita', 'Seydou Keita']",2015,Fail
+205,1047,Israel vs Kosovo,25.03.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,Amir Rrahmani,2023,Success
+206,1052,Kosovo vs Andorra,28.03.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,Amir Rrahmani,2023,Success
+207,1053,Kosovo vs Romania,16.06.23,"Euros 2024, Qualifiers",Kosovo,XK,Rrahmani,Amir Rrahmani,2023,Success
+208,4300,Uruguay vs Peru,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+209,4302,Paraguay vs Brazil,29-Mar-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+210,4303,Ecuador vs Brazil,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Felipe Caicedo,2016,Success
+211,4303,Ecuador vs Brazil,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+212,4305,Colombia vs Venezuela,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+213,4307,Argentina vs Uruguay,01-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+214,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Ramírez,['Cristian Ramírez'],2016,Success
+215,4308,Uruguay vs Paraguay,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+216,4310,Venezuela vs Argentina,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+217,4311,Brazil vs Colombia,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+218,4312,Peru vs Ecuador,06-Sep-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Felipe Caicedo,2016,Success
+219,4313,Ecuador vs Chile,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo']",2016,Multi
+220,4314,Uruguay vs Venezuela,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+221,4317,Brazil vs Bolivia,06-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+222,4318,Colombia vs Uruguay,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+223,4322,Venezuela vs Brazil,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+224,4322,Venezuela vs Brazil,11-Oct-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+225,4324,Venezuela vs Bolivia,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+226,4325,Uruguay vs Ecuador,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+227,4325,Uruguay vs Ecuador,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,Multi
+228,4327,Brazil vs Argentina,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+229,4327,Brazil vs Argentina,10-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Argentina,AR,Pérez,['Hernán Pérez'],2016,Success
+230,4328,Bolivia vs Paraguay,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay,PY,Riveros,Marcos Riveros,2016,Success
+231,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Felipe Caicedo', 'Luis Caicedo', 'Marcos Caicedo']",2016,Multi
+232,4329,Ecuador vs Venezuela,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela,VE,Martinez,['Adrián Martínez'],2016,Success
+233,4331,Chile vs Uruguay,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay,UY,Suárez,Luis Suárez,2016,Success
+234,4332,Peru vs Brazil,15-Nov-16,"World Cup 2018, Qualifiers, CONMEBOL",Brazil,BR,D Alves,Dani Alves,2016,Success
+235,4333,Colombia vs Bolivia,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Colombia,CO,Torres,Macnelly Torres,2017,Success
+236,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Mina,['Arturo Mina'],2017,Success
+237,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Luis Caicedo,2017,Success
+238,4335,Paraguay vs Ecuador,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,Luis Caicedo,2017,Success
+239,4337,Argentina vs Chile,23-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2017,Success
+240,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Mina,['Arturo Mina'],2017,Success
+241,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Luis Caicedo', 'Marcos Caicedo']",2017,Multi
+242,4338,Ecuador vs Colombia,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador,EC,Caicedo,"['Luis Caicedo', 'Marcos Caicedo']",2017,Multi
+243,4340,Chile vs Venezuela,28-Mar-17,"World Cup 2018, Qualifiers, CONMEBOL",Chile,CL,Bravo,['Claudio Bravo'],2017,Success
+244,726,Sweden vs Romania,23.03.19,"Euros 2020, Qualifiers",Sweden,SE,Augustinsson,Ludwig Augustinsson,2019,Success
+245,726,Sweden vs Romania,23.03.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+246,729,Norway vs Sweden,26.03.19,"Euros 2020, Qualifiers",Sweden,SE,Augustinsson,Ludwig Augustinsson,2019,Success
+247,729,Norway vs Sweden,26.03.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+248,729,Norway vs Sweden,26.03.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+249,732,Sweden vs Malta,07.06.19,"Euros 2020, Qualifiers",Sweden,SE,Augustinsson,Ludwig Augustinsson,2019,Success
+250,732,Sweden vs Malta,07.06.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+251,735,Spain vs Sweden,10.06.19,"Euros 2020, Qualifiers",Sweden,SE,Augustinsson,Ludwig Augustinsson,2019,Success
+252,735,Spain vs Sweden,10.06.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+253,735,Spain vs Sweden,10.06.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+254,740,Faroe Islands vs Sweden,05.09.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+255,740,Faroe Islands vs Sweden,05.09.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+256,743,Sweden vs Norway,08.09.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+257,743,Sweden vs Norway,08.09.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+258,746,Malta vs Sweden,12.10.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+259,746,Malta vs Sweden,12.10.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+260,747,Sweden vs Spain,15.10.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+261,747,Sweden vs Spain,15.10.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+262,752,Romania vs Sweden,15.11.19,"Euros 2020, Qualifiers",Sweden,SE,S Larsson,Sebastian Larsson,2019,Success
+263,752,Romania vs Sweden,15.11.19,"Euros 2020, Qualifiers",Sweden,SE,Ekdal,['Albin Ekdal'],2019,Success
+264,4152,Canada vs El Salvador,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+265,4152,Canada vs El Salvador,08-Sep-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,Martínez,['Luis Martínez'],2021,Success
+266,4157,El Salvador vs Panama,07-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+267,4159,Costa Rica vs El Salvador,10-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+268,4166,El Salvador vs Mexico,13-Oct-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+269,4169,El Salvador vs Jamaica,12-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+270,4174,Panama vs El Salvador,16-Nov-21,"World Cup 2022, Qualifiers, CONCACAF",El Salvador,SV,González,Mario González,2021,Success
+271,4180,Mexico vs Costa Rica,30-Jan-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Corona,['Jesús Corona'],2022,Success
+272,4183,USA vs Honduras,02-Feb-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Delgado,['Juan Delgado'],2022,Success
+273,4188,Mexico vs USA,24-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Corona,['Jesús Corona'],2022,Success
+274,4190,Panama vs Honduras,24-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Honduras,HN,Delgado,['Juan Delgado'],2022,Success
+275,4192,Canada vs Jamaica,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Jamaica,JM,Thomas,Ricardo Thomas,2022,Success
+276,4193,Honduras vs Mexico,27-Mar-22,"World Cup 2022, Qualifiers, CONCACAF",Mexico,MX,Corona,['Jesús Corona'],2022,Success
+277,3751,El Salvador vs Guatemala,12-07-2021,"Gold Cup, 2021",El Salvador,SV,M González,['Mario González'],2021,Success
+278,3769,Mexico vs El Salvador,19-07-2021,"Gold Cup, 2021",El Salvador,SV,M González,['Mario González'],2021,Success
+279,3778,Qatar vs El Salvador,25-07-2021,"Gold Cup, 2021",El Salvador,SV,M González,['Mario González'],2021,Success
+280,3781,Trinidad and Tobago vs El Salvador,15-07-2021,"Gold Cup, 2021",El Salvador,SV,M González,['Mario González'],2021,Success
+281,3783,Mexico vs Costa Rica,09-07-2023,"Gold Cup, 2023",Mexico,MX,E Álvarez,Edson Álvarez,2023,Success
+282,3783,Mexico vs Costa Rica,09-07-2023,"Gold Cup, 2023",Costa Rica,CR,J Vargas,['Juan Pablo Vargas'],2023,Success
+283,3788,Costa Rica vs Panama,27-06-2023,"Gold Cup, 2023",Costa Rica,CR,J Vargas,['Juan Pablo Vargas'],2023,Success
+284,3790,Mexico vs Panama,17-07-2023,"Gold Cup, 2023",Mexico,MX,E Álvarez,Edson Álvarez,2023,Success
+285,1114,France vs Iceland,03.07.16,Euros 2016,Iceland,IS,Sigthorsson,['Kolbeinn Sigthórsson'],2016,Success
+286,1122,England vs Iceland,27.06.16,Euros 2016,Iceland,IS,Sigthorsson,['Kolbeinn Sigthórsson'],2016,Success
+287,1154,Portugal vs Iceland,14.06.16,Euros 2016,Iceland,IS,Sigthorsson,['Kolbeinn Sigthórsson'],2016,Success
+288,1155,Iceland vs Hungary,18.06.16,Euros 2016,Iceland,IS,Sigthorsson,['Kolbeinn Sigthórsson'],2016,Success
+289,1157,Iceland vs Austria,22.06.16,Euros 2016,Iceland,IS,Sigthorsson,['Kolbeinn Sigthórsson'],2016,Success
+290,2313,Singapore vs Cambodia,13-10-2015,"World Cup Qualifiers, Asia, 2018",Cambodia,KH,Sos Suhana,Souhana Sos,2015,Success
+291,4096,Dominica vs Panama,28-Mar-21,"World Cup 2022, Qualifiers, CONCACAF",Dominica,DM,Thomas,Briel Thomas,2021,Success
+292,177,Cameroon vs Croatia,19.06.14,World Cup 2014,Cameroon,CM,Matip,Joel Matip,2014,Success
+293,178,Cameroon vs Brazil,23.06.14,World Cup 2014,Cameroon,CM,Matip,Joel Matip,2014,Success
+294,180,Spain vs Netherlands,13.06.14,World Cup 2014,Spain,ES,Alonso,['Xabi Alonso'],2014,Success
+295,183,Spain vs Chile,18.06.14,World Cup 2014,Spain,ES,Alonso,['Xabi Alonso'],2014,Success
+296,184,Australia vs Spain,23.06.14,World Cup 2014,Spain,ES,Alonso,['Xabi Alonso'],2014,Success
+297,199,France vs Honduras,15.06.14,World Cup 2014,Honduras,HN,Palacios,Wilson Palacios,2014,Success
+298,1299,Brazil vs Argentina,11.07.21,Copa America 2021,Brazil,BR,Everton Soares,['Everton'],2021,Success
+299,1301,Brazil vs Peru,06.07.21,Copa America 2021,Brazil,BR,Everton Soares,['Everton'],2021,Success
+300,1304,Brazil vs Chile,03.07.21,Copa America 2021,Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+301,1307,Argentina vs Chile,15.06.21,Copa America 2021,Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+302,1308,Paraguay vs Bolivia,15.06.21,Copa America 2021,Bolivia,BO,Sagredo,José Sagredo,2021,Success
+303,1309,Chile vs Bolivia,19.06.21,Copa America 2021,Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+304,1311,Uruguay vs Chile,22.06.21,Copa America 2021,Chile,CL,Bravo,['Claudio Bravo'],2021,Success
+305,2128,Mali vs Tunisia,25-03-2022,"World Cup Qualifiers, Africa, 2022",Mali,ML,C Traoré,Cheick Traoré,2022,Success
+306,2139,Burundi vs Tanzania,04-09-2019,"World Cup Qualifiers, Africa, 2022",Burundi,BI,P Kwizera,Pierre Kwizera,2019,Success
+307,2145,Cote d'Ivoire vs Mozambique,13-11-2021,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire,CI,H Traoré,['Hamed Junior Traorè'],2021,Success
+308,3236,Russia vs Croatia,01-09-2021,"World Cup Qualifiers, Europe, 2022",Russia,RU,A Miranchuk,['Anton Miranchuk'],2021,Success
+309,3265,Cyprus vs Russia,04-09-2021,"World Cup Qualifiers, Europe, 2022",Russia,RU,A Miranchuk,['Anton Miranchuk'],2021,Success

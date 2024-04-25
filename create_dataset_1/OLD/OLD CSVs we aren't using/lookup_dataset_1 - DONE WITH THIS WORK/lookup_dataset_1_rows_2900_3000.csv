@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Konstantinos Panagi,600000.0,False,working,False,Konstantinos Panagi,Panagi,single
+1,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Nikolas Ioannou,900000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+2,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Demetriou,none
+3,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Ioannis Kousoulos,600000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+4,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Konstantinos Laifis,6000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+5,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Georgios Efrem,1000000.0,False,working,False,Georgios Efrem,Efrem,single
+6,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Charalampos Kyriakou,900000.0,False,working,False,Charalampos Kyriakou,Char Kyriakou,single
+7,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Fotis Papoulis,300000.0,False,working,False,Fotis Papoulis,Papoulis,single
+8,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Kostakis Artymatas,500000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+9,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Pieros Sotiriou,1250000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+10,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Cyprus,CY,2018,SUCCESS,Grigoris Kastanos,400000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+11,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Vid Belec,800000.0,False,working,False,Vid Belec,Belec,single
+12,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Bojan Jokic,700000.0,False,working,False,Bojan Jokic,Jokic,single
+13,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Miha Mevlja,3500000.0,False,working,False,Miha Mevlja,Mevlja,single
+14,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Miha Blazic,1200000.0,False,working,False,Miha Blazic,Mi Blazic,single
+15,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Petar Stojanović,1350000.0,False,working,False,Petar Stojanović,P Stojanović,single
+16,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,7. Дервишевич,cyrillic
+17,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Jasmin Kurtić,6000000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+18,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,15. Чернигой,cyrillic
+19,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none
+20,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Miha Zajc,5500000.0,False,working,False,Miha Zajc,Zajc,single
+21,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,Robert Beric,5000000.0,False,working,False,Robert Beric,Beric,single
+22,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Rune Jarstein,2000000.0,False,working,False,Rune Jarstein,Jarstein,single
+23,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Haitam Aleesami,1500000.0,False,working,False,Haitam Aleesami,Aleesami,single
+24,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Even Hovland,600000.0,False,working,False,Even Hovland,Hovland,single
+25,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Sigurd Rosted,2000000.0,False,working,False,Sigurd Rosted,Rosted,single
+26,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Stefan Johansen,4000000.0,False,working,False,Stefan Johansen,S Johansen,single
+27,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Omar Elabdellaoui,5000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+28,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Ole Selnæs,7000000.0,False,working,False,Ole Selnæs,Selnæs,single
+29,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Markus Henriksen,5000000.0,False,working,False,Markus Henriksen,M Henriksen,single
+30,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Joshua King,20000000.0,False,working,False,Joshua King,Jo King,single
+31,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,FAIL,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Mohamed Elyounoussi', 'Tarik Elyounoussi']",False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+32,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Norway,NO,2018,SUCCESS,Mohamed Elyounoussi,15000000.0,False,working,False,Mohamed Elyounoussi,M Elyounoussi,single
+33,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Vid Belec,800000.0,False,working,False,Vid Belec,Belec,single
+34,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Nejc Skubic,2500000.0,False,working,False,Nejc Skubic,Skubic,single
+35,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Bojan Jokic,700000.0,False,working,False,Bojan Jokic,Jokic,single
+36,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Miha Mevlja,3500000.0,False,working,False,Miha Mevlja,Mevlja,single
+37,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Luka Krajnc,800000.0,False,working,False,Luka Krajnc,Krajnc,single
+38,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Leo Stulac,2300000.0,False,working,False,Leo Stulac,tulac,single
+39,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,15. Чернигой,cyrillic
+40,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Rene Krhin,2000000.0,False,working,False,Rene Krhin,Krhin,single
+41,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Miha Zajc,5500000.0,False,working,False,Miha Zajc,Zajc,single
+42,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Roman Bezjak,700000.0,False,working,False,Roman Bezjak,Bezjak,single
+43,1468,Nations League 2018-2020,Norway vs Slovenia,13.10.18,Slovenia,SI,2018,SUCCESS,Andraz Sporar,1000000.0,False,working,False,Andraz Sporar,porar,single
+44,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Plamen Iliev,2000000.0,False,working,False,Plamen Iliev,P Iliev,single
+45,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Petar Zanev,500000.0,False,working,False,Petar Zanev,Zanev,single
+46,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Nikolay Bodurov,600000.0,False,working,False,Nikolay Bodurov,Bodurov,single
+47,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Strahil Popov,1250000.0,False,working,False,Strahil Popov,S Popov,single
+48,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Anton Nedyalkov,2700000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+49,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Simeon Slavchev,1000000.0,False,working,False,Simeon Slavchev,Slavchev,single
+50,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+51,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Todor Nedelev,2200000.0,False,working,False,Todor Nedelev,Nedelev,single
+52,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",350000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+53,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Ivelin Popov,2750000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+54,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Bulgaria,BG,2018,SUCCESS,Kiril Despodov,3000000.0,False,working,False,Kiril Despodov,Despodov,single
+55,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Konstantinos Panagi,600000.0,False,working,False,Konstantinos Panagi,Panagi,single
+56,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Nikolas Ioannou,900000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+57,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,4. Меркис,cyrillic
+58,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Demetriou,none
+59,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Ioannis Kousoulos,600000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+60,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Konstantinos Laifis,6000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+61,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Andreas Avraam,400000.0,False,working,False,Andreas Avraam,An Avraam,single
+62,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Fotis Papoulis,300000.0,False,working,False,Fotis Papoulis,Papoulis,single
+63,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Kostakis Artymatas,500000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+64,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Pieros Sotiriou,1250000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+65,1469,Nations League 2018-2020,Bulgaria vs Cyprus,13.10.18,Cyprus,CY,2018,SUCCESS,Grigoris Kastanos,400000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+66,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Rune Jarstein,2000000.0,False,working,False,Rune Jarstein,Jarstein,single
+67,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Haitam Aleesami,1500000.0,False,working,False,Haitam Aleesami,Aleesami,single
+68,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Sigurd Rosted,2000000.0,False,working,False,Sigurd Rosted,Rosted,single
+69,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Håvard Nordtveit,4000000.0,False,working,False,Håvard Nordtveit,Nordtveit,single
+70,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Stefan Johansen,4000000.0,False,working,False,Stefan Johansen,S Johansen,single
+71,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Omar Elabdellaoui,5000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+72,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Ole Selnæs,7000000.0,False,working,False,Ole Selnæs,Selnæs,single
+73,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Markus Henriksen,5000000.0,False,working,False,Markus Henriksen,M Henriksen,single
+74,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Joshua King,20000000.0,False,working,False,Joshua King,Jo King,single
+75,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,FAIL,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Mohamed Elyounoussi', 'Tarik Elyounoussi']]",False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+76,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Norway,NO,2018,SUCCESS,Mohamed Elyounoussi,15000000.0,False,working,False,Mohamed Elyounoussi,M Elyounoussi,single
+77,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Plamen Iliev,2000000.0,False,working,False,Plamen Iliev,P Iliev,single
+78,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Petar Zanev,500000.0,False,working,False,Petar Zanev,Zanev,single
+79,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Bozhidar Chorbadzhiyski,1300000.0,False,working,False,Bozhidar Chorbadzhiyski,Chorbadzhiyski,single
+80,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Nikolay Bodurov,600000.0,False,working,False,Nikolay Bodurov,Bodurov,single
+81,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,FAIL,0,0.0,True,not done yet,False,0,11. Бандаловски,cyrillic
+82,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Vasil Bozhikov,650000.0,False,working,False,Vasil Bozhikov,Bozhikov,single
+83,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Simeon Slavchev,1000000.0,False,working,False,Simeon Slavchev,Slavchev,single
+84,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+85,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Todor Nedelev,2200000.0,False,working,False,Todor Nedelev,Nedelev,single
+86,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Ivelin Popov,2750000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+87,1470,Nations League 2018-2020,Norway vs Bulgaria,16.10.18,Bulgaria,BG,2018,SUCCESS,Kiril Despodov,3000000.0,False,working,False,Kiril Despodov,Despodov,single
+88,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Vid Belec,800000.0,False,working,False,Vid Belec,Belec,single
+89,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Nejc Skubic,2500000.0,False,working,False,Nejc Skubic,Skubic,single
+90,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Bojan Jokic,700000.0,False,working,False,Bojan Jokic,Jokic,single
+91,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Miha Mevlja,3500000.0,False,working,False,Miha Mevlja,Mevlja,single
+92,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Nemanja Mitrovic,800000.0,False,working,False,Nemanja Mitrovic,Mitrovic,single
+93,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,15. Чернигой,cyrillic
+94,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Rene Krhin,2000000.0,False,working,False,Rene Krhin,Krhin,single
+95,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Josip Ilicic,17000000.0,False,working,False,Josip Ilicic,Ilicic,single
+96,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Miha Zajc,5500000.0,False,working,False,Miha Zajc,Zajc,single
+97,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Roman Bezjak,700000.0,False,working,False,Roman Bezjak,Bezjak,single
+98,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Slovenia,SI,2018,SUCCESS,Robert Beric,5000000.0,False,working,False,Robert Beric,Beric,single
+99,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Konstantinos Panagi,600000.0,False,working,False,Konstantinos Panagi,Panagi,single
+100,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,4. Меркис,cyrillic
+101,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,"['Valentinos Sielis', 'Christos Sielis']",600000.0,False,working,False,"['Valentinos Sielis', 'Christos Sielis']",Sielis,multiple
+102,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Demetriou,none
+103,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Ioannis Kousoulos,600000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+104,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,17. Маргаса,cyrillic
+105,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Georgios Vasiliou,200000.0,False,working,False,Georgios Vasiliou,G Vasiliou,single
+106,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Fotis Papoulis,300000.0,False,working,False,Fotis Papoulis,Papoulis,single
+107,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Kostakis Artymatas,500000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+108,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Pieros Sotiriou,1250000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+109,1471,Nations League 2018-2020,Slovenia vs Cyprus,16.10.18,Cyprus,CY,2018,SUCCESS,Grigoris Kastanos,400000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+110,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Konstantinos Panagi,600000.0,False,working,False,Konstantinos Panagi,Panagi,single
+111,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,4. Меркис,cyrillic
+112,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Ioannis Kousoulos,600000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+113,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,17. Маргаса,cyrillic
+114,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Konstantinos Laifis,6000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+115,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Georgios Efrem,1000000.0,False,working,False,Georgios Efrem,Efrem,single
+116,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",900000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+117,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Andreas Avraam,400000.0,False,working,False,Andreas Avraam,An Avraam,single
+118,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Kostakis Artymatas,500000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+119,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Andreas Makris,400000.0,False,working,False,Andreas Makris,Makris,single
+120,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Cyprus,CY,2018,SUCCESS,Panagiotis Zachariou,150000.0,False,working,False,Panagiotis Zachariou,Zachariou,single
+121,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,FAIL,0,0.0,True,not done yet,False,0,1. Петков Г.,cyrillic
+122,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Nikolay Bodurov,600000.0,False,working,False,Nikolay Bodurov,Bodurov,single
+123,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Vasil Bozhikov,650000.0,False,working,False,Vasil Bozhikov,Bozhikov,single
+124,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Strahil Popov,1250000.0,False,working,False,Strahil Popov,S Popov,single
+125,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Anton Nedyalkov,2700000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+126,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Simeon Slavchev,1000000.0,False,working,False,Simeon Slavchev,Slavchev,single
+127,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+128,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Todor Nedelev,2200000.0,False,working,False,Todor Nedelev,Nedelev,single
+129,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,"['Bozhidar Kraev', 'Andrian Kraev']",350000.0,False,working,False,"['Bozhidar Kraev', 'Andrian Kraev']",Kraev,multiple
+130,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Galin Ivanov,350000.0,False,working,False,Galin Ivanov,G Ivanov,single
+131,1472,Nations League 2018-2020,Cyprus vs Bulgaria,16.11.18,Bulgaria,BG,2018,SUCCESS,Ivelin Popov,2750000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+132,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Vid Belec,800000.0,False,working,False,Vid Belec,Belec,single
+133,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Nejc Skubic,2500000.0,False,working,False,Nejc Skubic,Skubic,single
+134,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+135,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,FAIL,"['Andraz Struna', 'Aljaz Struna']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Andraz Struna', 'Aljaz Struna']",False,"['Andraz Struna', 'Aljaz Struna']",Struna,multiple
+136,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Miha Mevlja,3500000.0,False,working,False,Miha Mevlja,Mevlja,single
+137,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Rajko Rotman,500000.0,False,working,False,Rajko Rotman,Rotman,single
+138,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,8. Дервишевич,cyrillic
+139,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,15. Чернигой,cyrillic
+140,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none
+141,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Miha Zajc,5500000.0,False,working,False,Miha Zajc,Zajc,single
+142,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,Andraz Sporar,1000000.0,False,working,False,Andraz Sporar,porar,single
+143,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Rune Jarstein,2000000.0,False,working,False,Rune Jarstein,Jarstein,single
+144,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Haitam Aleesami,1500000.0,False,working,False,Haitam Aleesami,Aleesami,single
+145,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Sigurd Rosted,2000000.0,False,working,False,Sigurd Rosted,Rosted,single
+146,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Håvard Nordtveit,4000000.0,False,working,False,Håvard Nordtveit,Nordtveit,single
+147,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Stefan Johansen,4000000.0,False,working,False,Stefan Johansen,S Johansen,single
+148,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Omar Elabdellaoui,5000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+149,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Ole Selnæs,7000000.0,False,working,False,Ole Selnæs,Selnæs,single
+150,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Markus Henriksen,5000000.0,False,working,False,Markus Henriksen,M Henriksen,single
+151,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Ola Kamara,2000000.0,False,working,False,Ola Kamara,O Kamara,single
+152,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,FAIL,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Mohamed Elyounoussi', 'Tarik Elyounoussi']]",False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+153,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Norway,NO,2018,SUCCESS,Mohamed Elyounoussi,15000000.0,False,working,False,Mohamed Elyounoussi,M Elyounoussi,single
+154,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Konstantinos Panagi,600000.0,False,working,False,Konstantinos Panagi,Panagi,single
+155,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Nikolas Ioannou,900000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+156,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,FAIL,0,0.0,True,not done yet,False,0,4. Меркис,cyrillic
+157,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,"['Valentinos Sielis', 'Christos Sielis']",600000.0,False,working,False,"['Valentinos Sielis', 'Christos Sielis']",Sielis,multiple
+158,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Ioannis Kousoulos,600000.0,False,working,False,Ioannis Kousoulos,Kousoulos,single
+159,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Konstantinos Laifis,6000000.0,False,working,False,Konstantinos Laifis,Laifis,single
+160,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",900000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+161,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Andreas Avraam,400000.0,False,working,False,Andreas Avraam,An Avraam,single
+162,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Kostakis Artymatas,500000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+163,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Panagiotis Zachariou,150000.0,False,working,False,Panagiotis Zachariou,Zachariou,single
+164,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Cyprus,CY,2018,SUCCESS,Grigoris Kastanos,400000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+165,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Rune Jarstein,2000000.0,False,working,False,Rune Jarstein,Jarstein,single
+166,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Birger Meling,1500000.0,False,working,False,Birger Meling,Meling,single
+167,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Sigurd Rosted,2000000.0,False,working,False,Sigurd Rosted,Rosted,single
+168,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Håvard Nordtveit,4000000.0,False,working,False,Håvard Nordtveit,Nordtveit,single
+169,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Omar Elabdellaoui,5000000.0,False,working,False,Omar Elabdellaoui,Elabdellaoui,single
+170,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Ole Selnæs,7000000.0,False,working,False,Ole Selnæs,Selnæs,single
+171,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Markus Henriksen,5000000.0,False,working,False,Markus Henriksen,M Henriksen,single
+172,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Iver Fossum,1500000.0,False,working,False,Iver Fossum,Fossum,single
+173,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Ola Kamara,2000000.0,False,working,False,Ola Kamara,O Kamara,single
+174,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,FAIL,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Mohamed Elyounoussi', 'Tarik Elyounoussi']]",False,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Elyounoussi,multiple
+175,1474,Nations League 2018-2020,Cyprus vs Norway,19.11.18,Norway,NO,2018,SUCCESS,Mohamed Elyounoussi,15000000.0,False,working,False,Mohamed Elyounoussi,M Elyounoussi,single
+176,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,FAIL,0,0.0,True,not done yet,False,0,1. Петков Г.,cyrillic
+177,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Nikolay Bodurov,600000.0,False,working,False,Nikolay Bodurov,Bodurov,single
+178,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Vasil Bozhikov,650000.0,False,working,False,Vasil Bozhikov,Bozhikov,single
+179,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Strahil Popov,1250000.0,False,working,False,Strahil Popov,S Popov,single
+180,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Anton Nedyalkov,2700000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+181,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Simeon Slavchev,1000000.0,False,working,False,Simeon Slavchev,Slavchev,single
+182,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Georgi Kostadinov,1500000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+183,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,FAIL,0,0.0,True,not done yet,False,0,22. Димитров Н.,cyrillic
+184,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Spas Delev,500000.0,False,working,False,Spas Delev,Delev,single
+185,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Ivelin Popov,2750000.0,False,working,False,Ivelin Popov,Iv Iv Popov,single
+186,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Bulgaria,BG,2018,SUCCESS,Stanislav Kostov,700000.0,False,working,False,Stanislav Kostov,S Kostov,single
+187,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Vid Belec,800000.0,False,working,False,Vid Belec,Belec,single
+188,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Nejc Skubic,2500000.0,False,working,False,Nejc Skubic,Skubic,single
+189,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,FAIL,"['Andraz Struna', 'Aljaz Struna']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Andraz Struna', 'Aljaz Struna']]",False,"['Andraz Struna', 'Aljaz Struna']",Struna,multiple
+190,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Miha Mevlja,3500000.0,False,working,False,Miha Mevlja,Mevlja,single
+191,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Miha Blazic,1200000.0,False,working,False,Miha Blazic,Mi Blazic,single
+192,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Rajko Rotman,500000.0,False,working,False,Rajko Rotman,Rotman,single
+193,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,FAIL,0,0.0,True,not done yet,False,0,8. Дервишевич,cyrillic
+194,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none
+195,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Josip Ilicic,17000000.0,False,working,False,Josip Ilicic,Ilicic,single
+196,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Miha Zajc,5500000.0,False,working,False,Miha Zajc,Zajc,single
+197,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,Roman Bezjak,700000.0,False,working,False,Roman Bezjak,Bezjak,single
+198,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+199,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,FAIL,0,0.0,True,not done yet,False,0,5. Янкаускас А.,cyrillic
+200,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Egidijus Vaitkunas,250000.0,False,working,False,Egidijus Vaitkunas,Vaitkunas,single
+201,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,FAIL,Arunas Klimavicius,0.0,True,Online Lookup Required,False,Arunas Klimavicius,Ar Klimavičius,single
+202,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Ovidijus Verbickas,450000.0,False,working,False,Ovidijus Verbickas,Verbickas,single
+203,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Arvydas Novikovas,1500000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+204,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Vykintas Slivka,350000.0,False,working,False,Vykintas Slivka,Slivka,single
+205,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Mantas Kuklys,500000.0,False,working,False,Mantas Kuklys,Kuklys,single
+206,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+207,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+208,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+209,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Marko Dmitrović,10000000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+210,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+211,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Milan Rodic,3000000.0,False,working,False,Milan Rodic,Rodic,single
+212,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,FAIL,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Nikola Milenkovic', 'Milos Veljkovic']",False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+213,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+214,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+215,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,"['Nemanja Matic', 'Uros Matic']",30000000.0,False,working,False,"['Nemanja Matic', 'Uros Matic']",Matic,multiple
+216,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Andrija Zivkovic,10000000.0,False,working,False,Andrija Zivkovic,A Živković,single
+217,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+218,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+219,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Serbia,RS,2018,SUCCESS,Filip Kostic,22000000.0,False,working,False,Filip Kostic,F Kostic,single
+220,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+221,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Vlad Chiricheș,4500000.0,False,working,False,Vlad Chiricheș,Chiriches,single
+222,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+223,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Nicuşor Bancu,2500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+224,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Alexandru Chipciu,2000000.0,False,working,False,Alexandru Chipciu,Chipciu,single
+225,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Mihai Pintilii,350000.0,False,working,False,Mihai Pintilii,Pintilii,single
+226,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Alexandru Maxim,2000000.0,False,working,False,Alexandru Maxim,A Maxim,single
+227,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Romario Benzar,2500000.0,False,working,False,Romario Benzar,Benzar,single
+228,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,FAIL,0,0.0,True,Lookup Required,False,0,Mitriță,none
+229,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+230,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Romania,RO,2018,SUCCESS,Claudiu Keșerü,3250000.0,False,working,False,Claudiu Keșerü,Keseru,single
+231,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+232,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Filip Stojkovic,3000000.0,False,working,False,Filip Stojkovic,F Stojković,single
+233,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none
+234,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Stefan Savic,35000000.0,False,working,False,Stefan Savic,Savic,single
+235,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+236,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,FAIL,0,0.0,True,not done yet,False,0,3. Больевич В.,cyrillic
+237,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Nikola Vukcevic,2500000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+238,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Aleksandar Scekic,1000000.0,False,working,False,Aleksandar Scekic,Scekic,single
+239,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,Mirko Ivanic,2250000.0,False,working,False,Mirko Ivanic,Ivanic,single
+240,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none
+241,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+242,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Marko Dmitrović,10000000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+243,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+244,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Uros Spajic,7500000.0,False,working,False,Uros Spajic,Spajic,single
+245,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+246,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Aleksandar Kolarov,8000000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+247,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+248,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",4000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+249,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Sergej Milinkovic-Savic,65000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+250,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Adem Ljajic,12000000.0,False,working,False,Adem Ljajic,Ljajic,single
+251,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+252,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+253,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+254,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Mihai Bălașa,1300000.0,False,working,False,Mihai Bălașa,Bălașa Mihai,single
+255,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Cristian Manea,4000000.0,False,working,False,Cristian Manea,Manea,single
+256,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+257,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Nicuşor Bancu,2500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+258,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Alexandru Chipciu,2000000.0,False,working,False,Alexandru Chipciu,Chipciu,single
+259,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Paul Anton,1500000.0,False,working,False,Paul Anton,P Anton,single
+260,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Răzvan Marin,13500000.0,False,working,False,Răzvan Marin,R Marin,single
+261,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+262,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,19. Цукудян,cyrillic
+263,1478,Nations League 2018-2020,Serbia vs Romania,10.09.18,Romania,RO,2018,SUCCESS,Denis Drăguş,2000000.0,False,working,False,Denis Drăguş,D Dragus,single
+264,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+265,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Filip Stojkovic,3000000.0,False,working,False,Filip Stojkovic,F Stojković,single
+266,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none
+267,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Stefan Savic,35000000.0,False,working,False,Stefan Savic,Savic,single
+268,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+269,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Nikola Vukcevic,2500000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+270,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Nebojsa Kosovic,750000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+271,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Marko Jankovic,1800000.0,False,working,False,Marko Jankovic,M Janković,single
+272,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Mirko Ivanic,2250000.0,False,working,False,Mirko Ivanic,Ivanic,single
+273,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,Fatos Beqiraj,800000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+274,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+275,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+276,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Linas Klimavicius,600000.0,False,working,False,Linas Klimavicius,L Klimavičius,single
+277,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Egidijus Vaitkunas,250000.0,False,working,False,Egidijus Vaitkunas,Vaitkunas,single
+278,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Povilas Leimonas,250000.0,False,working,False,Povilas Leimonas,Leimonas,single
+279,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Ovidijus Verbickas,450000.0,False,working,False,Ovidijus Verbickas,Verbickas,single
+280,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Arvydas Novikovas,1500000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+281,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Vykintas Slivka,350000.0,False,working,False,Vykintas Slivka,Slivka,single
+282,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Justas Lasickas,150000.0,False,working,False,Justas Lasickas,Lasickas,single
+283,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+284,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+285,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+286,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+287,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Linas Klimavicius,600000.0,False,working,False,Linas Klimavicius,L Klimavičius,single
+288,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,FAIL,0,0.0,True,not done yet,False,0,5. Янкаускас А.,cyrillic
+289,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Vaidas Slavickas,175000.0,False,working,False,Vaidas Slavickas,Slavickas,single
+290,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,FAIL,0,0.0,True,not done yet,False,0,9. Шернас,cyrillic
+291,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Arvydas Novikovas,1500000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+292,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Vykintas Slivka,350000.0,False,working,False,Vykintas Slivka,Slivka,single
+293,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+294,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+295,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+296,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+297,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+298,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Cristian Manea,4000000.0,False,working,False,Cristian Manea,Manea,single
+299,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+300,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,4. Тамаш,cyrillic
+301,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Nicuşor Bancu,2500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+302,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Alexandru Chipciu,2000000.0,False,working,False,Alexandru Chipciu,Chipciu,single
+303,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Paul Anton,1500000.0,False,working,False,Paul Anton,P Anton,single
+304,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Răzvan Marin,13500000.0,False,working,False,Răzvan Marin,R Marin,single
+305,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,FAIL,0,0.0,True,Lookup Required,False,0,Mitriță,none
+306,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+307,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,19. Цукудян,cyrillic
+308,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+309,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Filip Stojkovic,3000000.0,False,working,False,Filip Stojkovic,F Stojković,single
+310,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none
+311,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Marko Vesovic,1500000.0,False,working,False,Marko Vesovic,Vesovic,single
+312,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+313,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Nikola Vukcevic,2500000.0,False,working,False,Nikola Vukcevic,N Vukcevic,single
+314,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Aleksandar Scekic,1000000.0,False,working,False,Aleksandar Scekic,Scekic,single
+315,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none
+316,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Stevan Jovetic,10000000.0,False,working,False,Stevan Jovetic,S Jovetic,single
+317,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,Fatos Beqiraj,800000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+318,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+319,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Marko Dmitrović,10000000.0,False,working,False,Marko Dmitrović,Dmitrović,single
+320,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+321,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Milan Rodic,3000000.0,False,working,False,Milan Rodic,Rodic,single
+322,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,FAIL,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Nikola Milenkovic', 'Milos Veljkovic']]",False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+323,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+324,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+325,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",4000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+326,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Mijat Gacinovic,11000000.0,False,working,False,Mijat Gacinovic,Gacinovic,single
+327,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Andrija Zivkovic,10000000.0,False,working,False,Andrija Zivkovic,A Živković,single
+328,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+329,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+330,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+331,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Alin Toșca,1250000.0,False,working,False,Alin Toșca,Toșca,single
+332,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Cristian Manea,4000000.0,False,working,False,Cristian Manea,Manea,single
+333,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+334,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,4. Тамаш,cyrillic
+335,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Alexandru Maxim,2000000.0,False,working,False,Alexandru Maxim,A Maxim,single
+336,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Răzvan Marin,13500000.0,False,working,False,Răzvan Marin,R Marin,single
+337,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+338,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,FAIL,Alexandru Băluță,0.0,True,Was in  DB before or after season,True,Alexandru Băluță,A Baluta,single
+339,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,19. Цукудян,cyrillic
+340,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Romania,RO,2018,SUCCESS,Denis Drăguş,2000000.0,False,working,False,Denis Drăguş,D Dragus,single
+341,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Predrag Rajkovic,3500000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+342,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+343,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Milan Rodic,3000000.0,False,working,False,Milan Rodic,Rodic,single
+344,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,FAIL,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Nikola Milenkovic', 'Milos Veljkovic']]",False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+345,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+346,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+347,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Mijat Gacinovic,11000000.0,False,working,False,Mijat Gacinovic,Gacinovic,single
+348,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",4000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+349,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+350,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+351,1482,Nations League 2018-2020,Romania vs Serbia,14.10.18,Serbia,RS,2018,SUCCESS,Nemanja Radonjic,5000000.0,False,working,False,Nemanja Radonjic,N Radonjić,single
+352,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+353,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Linas Klimavicius,600000.0,False,working,False,Linas Klimavicius,L Klimavičius,single
+354,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Justinas Janusevskis,200000.0,False,working,False,Justinas Janusevskis,Januševskis,single
+355,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,FAIL,0,0.0,True,not done yet,False,0,20. Боровский,cyrillic
+356,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Arvydas Novikovas,1500000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+357,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Vykintas Slivka,350000.0,False,working,False,Vykintas Slivka,Slivka,single
+358,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+359,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Nerijus Valskis,250000.0,False,working,False,Nerijus Valskis,Valskis,single
+360,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+361,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+362,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+363,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+364,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Filip Stojkovic,3000000.0,False,working,False,Filip Stojkovic,F Stojković,single
+365,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Boris Kopitovic,1000000.0,False,working,False,Boris Kopitovic,Koptović,single
+366,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none
+367,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Marko Vesovic,1500000.0,False,working,False,Marko Vesovic,Vesovic,single
+368,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+369,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Nebojsa Kosovic,750000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+370,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Aleksandar Scekic,1000000.0,False,working,False,Aleksandar Scekic,Scekic,single
+371,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,Mirko Ivanic,2250000.0,False,working,False,Mirko Ivanic,Ivanic,single
+372,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none
+373,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+374,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Predrag Rajkovic,3500000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+375,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+376,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,FAIL,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Nikola Milenkovic', 'Milos Veljkovic']]",False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+377,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+378,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Aleksandar Kolarov,8000000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+379,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+380,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Mijat Gacinovic,11000000.0,False,working,False,Mijat Gacinovic,Gacinovic,single
+381,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,"['Nemanja Matic', 'Uros Matic']",30000000.0,False,working,False,"['Nemanja Matic', 'Uros Matic']",Matic,multiple
+382,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Adem Ljajic,12000000.0,False,working,False,Adem Ljajic,Ljajic,single
+383,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+384,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+385,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+386,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Boris Kopitovic,1000000.0,False,working,False,Boris Kopitovic,Koptović,single
+387,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Marko Vesovic,1500000.0,False,working,False,Marko Vesovic,Vesovic,single
+388,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+389,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Marko Jankovic,1800000.0,False,working,False,Marko Jankovic,M Janković,single
+390,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Nebojsa Kosovic,750000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+391,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Aleksandar Scekic,1000000.0,False,working,False,Aleksandar Scekic,Scekic,single
+392,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none
+393,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,Mirko Ivanic,2250000.0,False,working,False,Mirko Ivanic,Ivanic,single
+394,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none
+395,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+396,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+397,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Cosmin Moți,1000000.0,False,working,False,Cosmin Moți,Moti,single
+398,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+399,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Romario Benzar,2500000.0,False,working,False,Romario Benzar,Benzar,single
+400,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Alexandru Chipciu,2000000.0,False,working,False,Alexandru Chipciu,Chipciu,single
+401,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Alexandru Maxim,2000000.0,False,working,False,Alexandru Maxim,A Maxim,single
+402,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Nicuşor Bancu,2500000.0,False,working,False,Nicuşor Bancu,Bancu,single
+403,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Paul Anton,1500000.0,False,working,False,Paul Anton,P Anton,single
+404,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+405,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,George Pușcaș,3000000.0,False,working,False,George Pușcaș,Puscas,single
+406,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Romania,RO,2018,SUCCESS,Claudiu Keșerü,3250000.0,False,working,False,Claudiu Keșerü,Keseru,single
+407,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+408,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+409,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Egidijus Vaitkunas,250000.0,False,working,False,Egidijus Vaitkunas,Vaitkunas,single
+410,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+411,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Arvydas Novikovas,1500000.0,False,working,False,Arvydas Novikovas,Novikovas,single
+412,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Domantas Simkus,250000.0,False,working,False,Domantas Simkus,imkus,single
+413,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Deimantas Petravicius,175000.0,False,working,False,Deimantas Petravicius,Petravičius,single
+414,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+415,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+416,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+417,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,Gratas Sirgedas,100000.0,False,working,False,Gratas Sirgedas,Sirgedas,single
+418,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Predrag Rajkovic,3500000.0,False,working,False,Predrag Rajkovic,P Rajković,single
+419,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+420,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Milan Rodic,3000000.0,False,working,False,Milan Rodic,Rodic,single
+421,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,FAIL,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Nikola Milenkovic', 'Milos Veljkovic']]",False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+422,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+423,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Nemanja Maksimovic,15000000.0,False,working,False,Nemanja Maksimovic,Nem Maksimovic,single
+424,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Mijat Gacinovic,11000000.0,False,working,False,Mijat Gacinovic,Gacinovic,single
+425,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,"['Sasa Lukic', 'Nenad Lukic']",4000000.0,False,working,False,"['Sasa Lukic', 'Nenad Lukic']",Lukic,multiple
+426,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Adem Ljajic,12000000.0,False,working,False,Adem Ljajic,Ljajic,single
+427,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Andrija Zivkovic,10000000.0,False,working,False,Andrija Zivkovic,A Živković,single
+428,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+429,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Ernestas Setkus,500000.0,False,working,False,Ernestas Setkus,etkus,single
+430,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Justinas Janusevskis,200000.0,False,working,False,Justinas Janusevskis,Januševskis,single
+431,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Edvinas Girdvainis,300000.0,False,working,False,Edvinas Girdvainis,Girdvainis,single
+432,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Vaidas Slavickas,175000.0,False,working,False,Vaidas Slavickas,Slavickas,single
+433,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none
+434,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Deimantas Petravicius,175000.0,False,working,False,Deimantas Petravicius,Petravičius,single
+435,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Modestas Vorobjovas,200000.0,False,working,False,Modestas Vorobjovas,M Vorobjovas,single
+436,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Fedor Černych,1500000.0,False,working,False,Fedor Černych,Černych,single
+437,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Rolandas Baravykas,250000.0,False,working,False,Rolandas Baravykas,Baravykas,single
+438,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Donatas Kazlauskas,200000.0,False,working,False,Donatas Kazlauskas,Kazlauskas,single
+439,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,Gratas Sirgedas,100000.0,False,working,False,Gratas Sirgedas,Sirgedas,single
+440,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Danijel Petkovic,700000.0,False,working,False,Danijel Petkovic,D Petković,single
+441,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Boris Kopitovic,1000000.0,False,working,False,Boris Kopitovic,Koptović,single
+442,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Marko Vesovic,1500000.0,False,working,False,Marko Vesovic,Vesovic,single
+443,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none
+444,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Marko Jankovic,1800000.0,False,working,False,Marko Jankovic,M Janković,single
+445,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Nebojsa Kosovic,750000.0,False,working,False,Nebojsa Kosovic,Kosovic,single
+446,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none
+447,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Mirko Ivanic,2250000.0,False,working,False,Mirko Ivanic,Ivanic,single
+448,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none
+449,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,Fatos Beqiraj,800000.0,False,working,False,Fatos Beqiraj,Beqiraj,single
+450,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none
+451,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Ciprian Tătărușanu,2500000.0,False,working,False,Ciprian Tătărușanu,Tatarusanu,single
+452,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Alin Toșca,1250000.0,False,working,False,Alin Toșca,Toșca,single
+453,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Cosmin Moți,1000000.0,False,working,False,Cosmin Moți,Moti,single
+454,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Cristian Manea,4000000.0,False,working,False,Cristian Manea,Manea,single
+455,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Cristian Săpunaru,175000.0,False,working,False,Cristian Săpunaru,Sapunaru,single
+456,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Alexandru Chipciu,2000000.0,False,working,False,Alexandru Chipciu,Chipciu,single
+457,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Alexandru Maxim,2000000.0,False,working,False,Alexandru Maxim,A Maxim,single
+458,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Paul Anton,1500000.0,False,working,False,Paul Anton,P Anton,single
+459,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Nicolae Stanciu,3500000.0,False,working,False,Nicolae Stanciu,Stanciu,single
+460,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,SUCCESS,Claudiu Keșerü,3250000.0,False,working,False,Claudiu Keșerü,Keseru,single
+461,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Romania,RO,2018,FAIL,0,0.0,True,not done yet,False,0,19. Цукудян,cyrillic
+462,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none
+463,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,FAIL,0,0.0,True,Lookup Required,False,0,Malyi,none
+464,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Evgeniy Postnikov,1000000.0,False,working,False,Evgeniy Postnikov,Postnikov,single
+465,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Dmitriy Shomko,2500000.0,False,working,False,Dmitriy Shomko,Shomko,single
+466,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+467,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Islambek Kuat,1800000.0,False,working,False,Islambek Kuat,Kuat,single
+468,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Serikzhan Muzhikov,900000.0,False,working,False,Serikzhan Muzhikov,Muzhikov,single
+469,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Islamkhan,2000000.0,False,working,False,Bauyrzhan Islamkhan,Islamkhan,single
+470,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Georgiy Zhukov,1000000.0,False,working,False,Georgiy Zhukov,G Zhukov,single
+471,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Aleksey Shchetkin,1800000.0,False,working,False,Aleksey Shchetkin,Shchotkin,single
+472,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,Roman Murtazaev,2500000.0,False,working,False,Roman Murtazaev,Murtazaev,single
+473,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+474,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+475,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Guram Kashia,1000000.0,False,working,False,Guram Kashia,Kashia,single
+476,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Solomon Kvirkvelia,10000000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+477,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Giorgi Navalovski,300000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+478,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+479,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Jaba Kankava,1000000.0,False,working,False,Jaba Kankava,Kankava,single
+480,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+481,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Giorgi Merebashvili,250000.0,False,working,False,Giorgi Merebashvili,Merebashvili,single
+482,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+483,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Georgia,GE,2018,SUCCESS,Giorgi Kvilitaia,2500000.0,False,working,False,Giorgi Kvilitaia,Kvilitaia,single
+484,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+485,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+486,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Aleksandrs Solovjovs,150000.0,False,working,False,Aleksandrs Solovjovs,Solovjovs,single
+487,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,6. Габов,cyrillic
+488,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+489,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,8. Фертовс,cyrillic
+490,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Davis Ikaunieks,500000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+491,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Glebs Kluskins,150000.0,False,working,False,Glebs Kluskins,Kluskins,single
+492,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,10. Шабала,cyrillic
+493,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,Deniss Rakels,300000.0,False,working,False,Deniss Rakels,Rakels Deniss,single
+494,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,16. Лукьяновс,cyrillic
+495,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+496,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,FAIL,0,0.0,True,not done yet,False,0,6. Лима,cyrillic
+497,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+498,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+499,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+500,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+501,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+502,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+503,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+504,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+505,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Andorra,AD,2018,SUCCESS,Ludovic Clemente,0.0,False,Large Dataset had 0,False,Ludovic Clemente,Clemente,single
+506,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+507,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+508,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Guram Kashia,1000000.0,False,working,False,Guram Kashia,Kashia,single
+509,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Solomon Kvirkvelia,10000000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+510,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Giorgi Navalovski,300000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+511,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+512,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Jaba Kankava,1000000.0,False,working,False,Jaba Kankava,Kankava,single
+513,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+514,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+515,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Tornike Okriashvili,800000.0,False,working,False,Tornike Okriashvili,Okriashvili,single
+516,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Georgia,GE,2018,SUCCESS,Nika Kacharava,700000.0,False,working,False,Nika Kacharava,Katcharava,single
+517,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+518,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Vitalijs Maksimenko,300000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+519,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+520,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,6. Габов,cyrillic
+521,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Vjaceslavs Isajevs,175000.0,False,working,False,Vjaceslavs Isajevs,V Isajevs,single
+522,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+523,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Ritvars Rugins,300000.0,False,working,False,Ritvars Rugins,Rugins,single
+524,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,8. Фертовс,cyrillic
+525,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Vladislavs Gutkovskis,125000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+526,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,Arturs Karasausks,300000.0,False,working,False,Arturs Karasausks,Karašausks,single
+527,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,16. Лукьяновс,cyrillic
+528,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+529,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Jordi Rubio', 'Jesús Rubio']",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+530,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+531,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+532,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+533,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+534,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+535,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+536,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+537,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Ludovic Clemente,0.0,False,Large Dataset had 0,False,Ludovic Clemente,Clemente,single
+538,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Andorra,AD,2018,SUCCESS,Sebastián Gómez,175000.0,False,working,False,Sebastián Gómez,Seb Gómez,single
+539,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none
+540,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Evgeniy Postnikov,1000000.0,False,working,False,Evgeniy Postnikov,Postnikov,single
+541,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Dmitriy Shomko,2500000.0,False,working,False,Dmitriy Shomko,Shomko,single
+542,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+543,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Yuriy Logvinenko,900000.0,False,working,False,Yuriy Logvinenko,Y Logvinenko,single
+544,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Islambek Kuat,1800000.0,False,working,False,Islambek Kuat,Kuat,single
+545,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Serikzhan Muzhikov,900000.0,False,working,False,Serikzhan Muzhikov,Muzhikov,single
+546,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Islamkhan,2000000.0,False,working,False,Bauyrzhan Islamkhan,Islamkhan,single
+547,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Erkebulan Tungyshbaev,1200000.0,False,working,False,Erkebulan Tungyshbaev,Tungyshbaev,single
+548,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Aleksey Shchetkin,1800000.0,False,working,False,Aleksey Shchetkin,Shchotkin,single
+549,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,Roman Murtazaev,2500000.0,False,working,False,Roman Murtazaev,Murtazaev,single
+550,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+551,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+552,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Guram Kashia,1000000.0,False,working,False,Guram Kashia,Kashia,single
+553,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Solomon Kvirkvelia,10000000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+554,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Giorgi Navalovski,300000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+555,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+556,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Jaba Kankava,1000000.0,False,working,False,Jaba Kankava,Kankava,single
+557,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+558,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Otar Kiteishvili,1500000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+559,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+560,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Georgia,GE,2018,SUCCESS,Nika Kacharava,700000.0,False,working,False,Nika Kacharava,Katcharava,single
+561,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+562,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Jordi Rubio', 'Jesús Rubio']]",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+563,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+564,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+565,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+566,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+567,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+568,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+569,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,FAIL,0,0.0,True,not done yet,False,0,22. Родригес В.,cyrillic
+570,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+571,1492,Nations League 2018-2020,Georgia vs Andorra,13.10.18,Andorra,AD,2018,SUCCESS,Sebastián Gómez,175000.0,False,working,False,Sebastián Gómez,Seb Gómez,single
+572,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+573,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Vitalijs Maksimenko,300000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+574,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+575,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Vjaceslavs Isajevs,175000.0,False,working,False,Vjaceslavs Isajevs,V Isajevs,single
+576,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+577,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Ritvars Rugins,300000.0,False,working,False,Ritvars Rugins,Rugins,single
+578,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",200000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+579,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,10. Шабала,cyrillic
+580,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Arturs Karasausks,300000.0,False,working,False,Arturs Karasausks,Karašausks,single
+581,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,Deniss Rakels,300000.0,False,working,False,Deniss Rakels,Rakels Deniss,single
+582,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,16. Лукьяновс,cyrillic
+583,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none
+584,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,FAIL,0,0.0,True,Lookup Required,False,0,Malyi,none
+585,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Evgeniy Postnikov,1000000.0,False,working,False,Evgeniy Postnikov,Postnikov,single
+586,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Dmitriy Shomko,2500000.0,False,working,False,Dmitriy Shomko,Shomko,single
+587,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+588,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Islambek Kuat,1800000.0,False,working,False,Islambek Kuat,Kuat,single
+589,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Islamkhan,2000000.0,False,working,False,Bauyrzhan Islamkhan,Islamkhan,single
+590,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Georgiy Zhukov,1000000.0,False,working,False,Georgiy Zhukov,G Zhukov,single
+591,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Aleksey Shchetkin,1800000.0,False,working,False,Aleksey Shchetkin,Shchotkin,single
+592,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Roman Murtazaev,2500000.0,False,working,False,Roman Murtazaev,Murtazaev,single
+593,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,Bakhtiyor Zaynutdinov,1200000.0,False,working,False,Bakhtiyor Zaynutdinov,Zaynutdinov,single
+594,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none
+595,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Evgeniy Postnikov,1000000.0,False,working,False,Evgeniy Postnikov,Postnikov,single
+596,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Gafurzhan Suyumbaev,1400000.0,False,working,False,Gafurzhan Suyumbaev,Suyumbaev,single
+597,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+598,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Yuriy Logvinenko,900000.0,False,working,False,Yuriy Logvinenko,Y Logvinenko,single
+599,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Serikzhan Muzhikov,900000.0,False,working,False,Serikzhan Muzhikov,Muzhikov,single
+600,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Islamkhan,2000000.0,False,working,False,Bauyrzhan Islamkhan,Islamkhan,single
+601,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Georgiy Zhukov,1000000.0,False,working,False,Georgiy Zhukov,G Zhukov,single
+602,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Turysbek,1000000.0,False,working,False,Bauyrzhan Turysbek,Turysbek,single
+603,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Erkebulan Seydakhmet,300000.0,False,working,False,Erkebulan Seydakhmet,Seidakhmet,single
+604,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,Bakhtiyor Zaynutdinov,1200000.0,False,working,False,Bakhtiyor Zaynutdinov,Zaynutdinov,single
+605,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+606,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+607,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+608,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+609,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+610,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+611,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+612,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+613,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Marc Pujol,0.0,False,Large Dataset had 0,False,Marc Pujol,M Pujol,single
+614,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,SUCCESS,Jordi Aláez,0.0,False,Large Dataset had 0,False,Jordi Aláez,Alaez,single
+615,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Andorra,AD,2018,FAIL,0,0.0,True,not done yet,False,0,22. Родригес В.,cyrillic
+616,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+617,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Vitalijs Maksimenko,300000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+618,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+619,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Igors Tarasovs,250000.0,False,working,False,Igors Tarasovs,Tarasovs,single
+620,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+621,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,21. Жулев,cyrillic
+622,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,8. Фертовс,cyrillic
+623,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Andrejs Ciganiks,200000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+624,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Vladislavs Gutkovskis,125000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+625,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Arturs Karasausks,300000.0,False,working,False,Arturs Karasausks,Karašausks,single
+626,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,Deniss Rakels,300000.0,False,working,False,Deniss Rakels,Rakels Deniss,single
+627,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+628,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+629,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Guram Kashia,1000000.0,False,working,False,Guram Kashia,Kashia,single
+630,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Lasha Dvali,900000.0,False,working,False,Lasha Dvali,Dvali,single
+631,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Davit Khocholava,5000000.0,False,working,False,Davit Khocholava,Khocholava,single
+632,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+633,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Jaba Kankava,1000000.0,False,working,False,Jaba Kankava,Kankava,single
+634,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+635,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Giorgi Merebashvili,250000.0,False,working,False,Giorgi Merebashvili,Merebashvili,single
+636,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+637,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+638,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none
+639,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,FAIL,0,0.0,True,Lookup Required,False,0,Malyi,none
+640,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Gafurzhan Suyumbaev,1400000.0,False,working,False,Gafurzhan Suyumbaev,Suyumbaev,single
+641,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+642,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Yuriy Logvinenko,900000.0,False,working,False,Yuriy Logvinenko,Y Logvinenko,single
+643,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Serikzhan Muzhikov,900000.0,False,working,False,Serikzhan Muzhikov,Muzhikov,single
+644,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Islamkhan,2000000.0,False,working,False,Bauyrzhan Islamkhan,Islamkhan,single
+645,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Georgiy Zhukov,1000000.0,False,working,False,Georgiy Zhukov,G Zhukov,single
+646,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Roman Murtazaev,2500000.0,False,working,False,Roman Murtazaev,Murtazaev,single
+647,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Bauyrzhan Turysbek,1000000.0,False,working,False,Bauyrzhan Turysbek,Turysbek,single
+648,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,Bakhtiyor Zaynutdinov,1200000.0,False,working,False,Bakhtiyor Zaynutdinov,Zaynutdinov,single
+649,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+650,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Vitalijs Maksimenko,300000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+651,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+652,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,6. Габов,cyrillic
+653,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Vjaceslavs Isajevs,175000.0,False,working,False,Vjaceslavs Isajevs,V Isajevs,single
+654,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Igors Tarasovs,250000.0,False,working,False,Igors Tarasovs,Tarasovs,single
+655,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+656,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Andrejs Ciganiks,200000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+657,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,10. Шабала,cyrillic
+658,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Arturs Karasausks,300000.0,False,working,False,Arturs Karasausks,Karašausks,single
+659,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,Deniss Rakels,300000.0,False,working,False,Deniss Rakels,Rakels Deniss,single
+660,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+661,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+662,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0.0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Jordi Rubio', 'Jesús Rubio']]",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+663,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+664,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+665,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+666,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+667,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+668,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+669,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,FAIL,Izan Fernández,0.0,True,Online Lookup Required,False,Izan Fernández,R Fernandez,single
+670,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Alex Martínez,0.0,False,Large Dataset had 0,False,Alex Martínez,Alex Martínez,single
+671,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+672,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+673,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Jemal Tabidze,1500000.0,False,working,False,Jemal Tabidze,Tabidze,single
+674,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Giorgi Navalovski,300000.0,False,working,False,Giorgi Navalovski,Navalovski,single
+675,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Davit Khocholava,5000000.0,False,working,False,Davit Khocholava,Khocholava,single
+676,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+677,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+678,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Otar Kiteishvili,1500000.0,False,working,False,Otar Kiteishvili,Kiteishvili,single
+679,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+680,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+681,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Georgia,GE,2018,SUCCESS,Bachana Arabuli,300000.0,False,working,False,Bachana Arabuli,Arabuli,single
+682,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+683,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+684,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Luigi San Nicolas,125000.0,False,working,False,Luigi San Nicolas,San Nicolas,single
+685,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Joan Cervós,0.0,False,Large Dataset had 0,False,Joan Cervós,Cervós,single
+686,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+687,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Marc García,0.0,False,Large Dataset had 0,False,Marc García,M Garcia,single
+688,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+689,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Sergi Moreno,75000.0,False,working,False,Sergi Moreno,S Moreno,single
+690,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Jordi Aláez,0.0,False,Large Dataset had 0,False,Jordi Aláez,Alaez,single
+691,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,FAIL,0,0.0,True,not done yet,False,0,22. Родригес В.,cyrillic
+692,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Andorra,AD,2018,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+693,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+694,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Vitalijs Maksimenko,300000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+695,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Kaspars Dubra,700000.0,False,working,False,Kaspars Dubra,Dubra,single
+696,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Vjaceslavs Isajevs,175000.0,False,working,False,Vjaceslavs Isajevs,V Isajevs,single
+697,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+698,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Davis Ikaunieks,500000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+699,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Andrejs Ciganiks,200000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+700,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",200000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+701,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,FAIL,0,0.0,True,not done yet,False,0,10. Шабала,cyrillic
+702,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Arturs Karasausks,300000.0,False,working,False,Arturs Karasausks,Karašausks,single
+703,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,Deniss Rakels,300000.0,False,working,False,Deniss Rakels,Rakels Deniss,single
+704,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Giorgi Loria,400000.0,False,working,False,Giorgi Loria,G Loria,single
+705,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Otar Kakabadze,1000000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+706,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Guram Kashia,1000000.0,False,working,False,Guram Kashia,Kashia,single
+707,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Solomon Kvirkvelia,10000000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+708,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Lasha Dvali,900000.0,False,working,False,Lasha Dvali,Dvali,single
+709,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Nika Kvekveskiri,1500000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+710,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Jaba Kankava,1000000.0,False,working,False,Jaba Kankava,Kankava,single
+711,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Valeri Qazaishvili,1500000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+712,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Giorgi Merebashvili,250000.0,False,working,False,Giorgi Merebashvili,Merebashvili,single
+713,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,FAIL,0,0.0,True,Lookup Required,False,0,Gviliya,none
+714,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Georgia,GE,2018,SUCCESS,Giorgi Chakvetadze,9000000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+715,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Dmitriy Nepogodov,1400000.0,False,working,False,Dmitriy Nepogodov,Nepohodov,single
+716,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,FAIL,0,0.0,True,Lookup Required,False,0,Malyi,none
+717,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Gafurzhan Suyumbaev,1400000.0,False,working,False,Gafurzhan Suyumbaev,Suyumbaev,single
+718,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Abzal Beysebekov,1300000.0,False,working,False,Abzal Beysebekov,Beisebekov,single
+719,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Yuriy Logvinenko,900000.0,False,working,False,Yuriy Logvinenko,Y Logvinenko,single
+720,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Islambek Kuat,1800000.0,False,working,False,Islambek Kuat,Kuat,single
+721,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Serikzhan Muzhikov,900000.0,False,working,False,Serikzhan Muzhikov,Muzhikov,single
+722,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Aleksey Shchetkin,1800000.0,False,working,False,Aleksey Shchetkin,Shchotkin,single
+723,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Roman Murtazaev,2500000.0,False,working,False,Roman Murtazaev,Murtazaev,single
+724,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Bakhtiyor Zaynutdinov,1200000.0,False,working,False,Bakhtiyor Zaynutdinov,Zaynutdinov,single
+725,1499,Nations League 2018-2020,Georgia vs Kazakhstan,19.11.18,Kazakhstan,KZ,2018,SUCCESS,Maksim Fedin,900000.0,False,working,False,Maksim Fedin,Fedin,single
+726,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Sergey Chernik,600000.0,False,working,False,Sergey Chernik,Chernik,single
+727,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+728,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Igor Shitov,450000.0,False,working,False,Igor Shitov,Shitov,single
+729,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Sergey Politevich,600000.0,False,working,False,Sergey Politevich,Politevich,single
+730,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Drahun,none
+731,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Renan Bressan,750000.0,False,working,False,Renan Bressan,Bressan,single
+732,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Pavel Nekhaychik,1000000.0,False,working,False,Pavel Nekhaychik,Nekhaichik,single
+733,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+734,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Maksim Volodko,1000000.0,False,working,False,Maksim Volodko,M Volodko,single
+735,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+736,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,Belarus,BY,2018,SUCCESS,Denis Laptev,600000.0,False,working,False,Denis Laptev,D Laptev,single
+737,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+738,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Davide Cesarini,0.0,False,Large Dataset had 0,False,Davide Cesarini,D Cesarini,single
+739,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Davide Simoncini,0.0,False,Large Dataset had 0,False,Davide Simoncini,D Simoncini,single
+740,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,FAIL,0,0.0,True,not done yet,False,0,17. Бьорди,cyrillic
+741,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Alex Gasperoni,0.0,False,Large Dataset had 0,False,Alex Gasperoni,Gasperoni Alex,single
+742,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Mattia Giardi,0.0,False,Large Dataset had 0,False,Mattia Giardi,Giardi,single
+743,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Michael Battistini,0.0,False,Large Dataset had 0,False,Michael Battistini,Mic Battistini,single
+744,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Lorenzo Lunadei,0.0,False,Large Dataset had 0,False,Lorenzo Lunadei,Lunadei,single
+745,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Mirko Palazzi,25000.0,False,working,False,Mirko Palazzi,Palazzi,single
+746,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Matteo Vitaioli,0.0,False,Large Dataset had 0,False,Matteo Vitaioli,M Vitaioli,single
+747,1500,Nations League 2018-2020,Belarus vs San Marino,08.09.18,San Marino,SM,2018,SUCCESS,Filippo Berardi,125000.0,False,working,False,Filippo Berardi,F Berardi,single
+748,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Anthony Moris,400000.0,False,working,False,Anthony Moris,Moris,single
+749,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+750,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Kevin Malget,175000.0,False,working,False,Kevin Malget,Malget,single
+751,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+752,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+753,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+754,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Lars Gerson,800000.0,False,working,False,Lars Gerson,Gerson,single
+755,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,"['Gerson Rodrigues', 'James Rodrigues']",700000.0,False,working,False,"['Gerson Rodrigues', 'James Rodrigues']",Rodrigues,multiple
+756,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",275000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+757,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Olivier Thill,1750000.0,False,working,False,Olivier Thill,O Thill,single
+758,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Luxembourg,LU,2018,SUCCESS,Dave Turpel,225000.0,False,working,False,Dave Turpel,Turpel,single
+759,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+760,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,FAIL,0,0.0,True,not done yet,False,0,2. Рябчук,cyrillic
+761,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+762,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+763,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Dinu Graur,300000.0,False,working,False,Dinu Graur,Graur,single
+764,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+765,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+766,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Eugeniu Cociuc,500000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+767,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,FAIL,0,0.0,True,not done yet,False,0,10. Дедов,cyrillic
+768,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+769,1501,Nations League 2018-2020,Luxembourg vs Moldova,08.09.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+770,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+771,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Davide Simoncini,0.0,False,Large Dataset had 0,False,Davide Simoncini,D Simoncini,single
+772,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Cristian Brolli,0.0,False,Large Dataset had 0,False,Cristian Brolli,Brolli,single
+773,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Andrea Grandoni,0.0,False,Large Dataset had 0,False,Andrea Grandoni,Grandoni,single
+774,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Michael Battistini,0.0,False,Large Dataset had 0,False,Michael Battistini,Mic Battistini,single
+775,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Mattia Giardi,0.0,False,Large Dataset had 0,False,Mattia Giardi,Giardi,single
+776,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Enrico Golinucci,0.0,False,Large Dataset had 0,False,Enrico Golinucci,E Golinucci,single
+777,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Mirko Palazzi,25000.0,False,working,False,Mirko Palazzi,Palazzi,single
+778,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Matteo Vitaioli,0.0,False,Large Dataset had 0,False,Matteo Vitaioli,M Vitaioli,single
+779,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Filippo Berardi,125000.0,False,working,False,Filippo Berardi,F Berardi,single
+780,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,San Marino,SM,2018,SUCCESS,Danilo Rinaldi,0.0,False,Large Dataset had 0,False,Danilo Rinaldi,D Rinaldi,single
+781,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Anthony Moris,400000.0,False,working,False,Anthony Moris,Moris,single
+782,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+783,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+784,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+785,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Chris Philipps,500000.0,False,working,False,Chris Philipps,Philipps,single
+786,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+787,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",275000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+788,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Olivier Thill,1750000.0,False,working,False,Olivier Thill,O Thill,single
+789,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,FAIL,0,0.0,True,not done yet,False,0,16. Баррейро,cyrillic
+790,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,FAIL,0,0.0,True,not done yet,False,0,9. Да Мота,cyrillic
+791,1502,Nations League 2018-2020,San Marino vs Luxembourg,11.09.18,Luxembourg,LU,2018,SUCCESS,Aurélien Joachim,400000.0,False,working,False,Aurélien Joachim,Joachim,single
+792,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+793,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,FAIL,0,0.0,True,not done yet,False,0,2. Рябчук,cyrillic
+794,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+795,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+796,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Dinu Graur,300000.0,False,working,False,Dinu Graur,Graur,single
+797,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+798,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+799,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Artur Ioniță,4500000.0,False,working,False,Artur Ioniță,Ioniță,single
+800,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+801,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+802,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Moldova,MD,2018,FAIL,0,0.0,True,not done yet,False,0,22. Николаеску,cyrillic
+803,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Sergey Chernik,600000.0,False,working,False,Sergey Chernik,Chernik,single
+804,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+805,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Igor Shitov,450000.0,False,working,False,Igor Shitov,Shitov,single
+806,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Sergey Politevich,600000.0,False,working,False,Sergey Politevich,Politevich,single
+807,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Drahun,none
+808,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Renan Bressan,750000.0,False,working,False,Renan Bressan,Bressan,single
+809,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Pavel Nekhaychik,1000000.0,False,working,False,Pavel Nekhaychik,Nekhaichik,single
+810,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+811,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Maksim Volodko,1000000.0,False,working,False,Maksim Volodko,M Volodko,single
+812,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+813,1503,Nations League 2018-2020,Moldova vs Belarus,11.09.18,Belarus,BY,2018,SUCCESS,Denis Laptev,600000.0,False,working,False,Denis Laptev,D Laptev,single
+814,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Andrey Gorbunov,150000.0,False,working,False,Andrey Gorbunov,Gorbunov,single
+815,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+816,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Denis Polyakov,1200000.0,False,working,False,Denis Polyakov,Polyakov,single
+817,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Drahun,none
+818,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Pavel Nekhaychik,1000000.0,False,working,False,Pavel Nekhaychik,Nekhaichik,single
+819,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Putsila,none
+820,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Mikhail Sivakov,1400000.0,False,working,False,Mikhail Sivakov,Sivakov,single
+821,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+822,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Maksim Volodko,1000000.0,False,working,False,Maksim Volodko,M Volodko,single
+823,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+824,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Belarus,BY,2018,SUCCESS,Anton Saroka,450000.0,False,working,False,Anton Saroka,Saroka,single
+825,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Anthony Moris,400000.0,False,working,False,Anthony Moris,Moris,single
+826,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+827,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Kevin Malget,175000.0,False,working,False,Kevin Malget,Malget,single
+828,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+829,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+830,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Chris Philipps,500000.0,False,working,False,Chris Philipps,Philipps,single
+831,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+832,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",275000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+833,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Olivier Thill,1750000.0,False,working,False,Olivier Thill,O Thill,single
+834,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Dave Turpel,225000.0,False,working,False,Dave Turpel,Turpel,single
+835,1504,Nations League 2018-2020,Belarus vs Luxembourg,12.10.18,Luxembourg,LU,2018,SUCCESS,Aurélien Joachim,400000.0,False,working,False,Aurélien Joachim,Joachim,single
+836,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+837,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Oleg Reabciuk,750000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+838,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+839,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+840,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+841,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+842,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Eugeniu Cociuc,500000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+843,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Artur Ioniță,4500000.0,False,working,False,Artur Ioniță,Ioniță,single
+844,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+845,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+846,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,Moldova,MD,2018,FAIL,0,0.0,True,Lookup Required,False,0,Damașcan,none
+847,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+848,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,FAIL,0,0.0,True,not done yet,False,0,5. Витайоли Ф.,cyrillic
+849,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Manuel Battistini,0.0,False,Large Dataset had 0,False,Manuel Battistini,Man Battistini,single
+850,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Cristian Brolli,0.0,False,Large Dataset had 0,False,Cristian Brolli,Brolli,single
+851,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Andrea Grandoni,0.0,False,Large Dataset had 0,False,Andrea Grandoni,Grandoni,single
+852,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Alex Gasperoni,0.0,False,Large Dataset had 0,False,Alex Gasperoni,Gasperoni Alex,single
+853,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Mattia Giardi,0.0,False,Large Dataset had 0,False,Mattia Giardi,Giardi,single
+854,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Marcello Mularoni,0.0,False,Large Dataset had 0,False,Marcello Mularoni,Mularoni,single
+855,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Enrico Golinucci,0.0,False,Large Dataset had 0,False,Enrico Golinucci,E Golinucci,single
+856,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Matteo Vitaioli,0.0,False,Large Dataset had 0,False,Matteo Vitaioli,M Vitaioli,single
+857,1505,Nations League 2018-2020,Moldova vs San Marino,12.10.18,San Marino,SM,2018,SUCCESS,Adolfo Hirsch,0.0,False,Large Dataset had 0,False,Adolfo Hirsch,José Hirsch,single
+858,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Andrey Gorbunov,150000.0,False,working,False,Andrey Gorbunov,Gorbunov,single
+859,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+860,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Denis Polyakov,1200000.0,False,working,False,Denis Polyakov,Polyakov,single
+861,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Yuriy Kendysh,1100000.0,False,working,False,Yuriy Kendysh,Kendysh,single
+862,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Y Kavalyow,none
+863,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Mikhail Sivakov,1400000.0,False,working,False,Mikhail Sivakov,Sivakov,single
+864,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+865,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Aleksey Rios,650000.0,False,working,False,Aleksey Rios,Rios,single
+866,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+867,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Anton Saroka,450000.0,False,working,False,Anton Saroka,Saroka,single
+868,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Belarus,BY,2018,SUCCESS,Sergey Kislyak,350000.0,False,working,False,Sergey Kislyak,Kislyak,single
+869,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+870,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Oleg Reabciuk,750000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+871,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+872,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+873,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+874,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+875,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",225000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+876,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Artur Ioniță,4500000.0,False,working,False,Artur Ioniță,Ioniță,single
+877,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+878,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+879,1506,Nations League 2018-2020,Belarus vs Moldova,15.10.18,Moldova,MD,2018,FAIL,0,0.0,True,Lookup Required,False,0,Damașcan,none
+880,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Ralph Schon,150000.0,False,working,False,Ralph Schon,R Schon,single
+881,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+882,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+883,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Chris Philipps,500000.0,False,working,False,Chris Philipps,Philipps,single
+884,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+885,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Mathias Jänisch,125000.0,False,working,False,Mathias Jänisch,Jänisch,single
+886,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",275000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+887,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Olivier Thill,1750000.0,False,working,False,Olivier Thill,O Thill,single
+888,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Leandro Barreiro,500000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+889,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Vincent Thill,2000000.0,False,working,False,Vincent Thill,V Thill,single
+890,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,Luxembourg,LU,2018,SUCCESS,Dave Turpel,225000.0,False,working,False,Dave Turpel,Turpel,single
+891,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+892,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Davide Cesarini,0.0,False,Large Dataset had 0,False,Davide Cesarini,D Cesarini,single
+893,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,FAIL,0,0.0,True,not done yet,False,0,5. Витайоли Ф.,cyrillic
+894,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Andrea Grandoni,0.0,False,Large Dataset had 0,False,Andrea Grandoni,Grandoni,single
+895,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Davide Simoncini,0.0,False,Large Dataset had 0,False,Davide Simoncini,D Simoncini,single
+896,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Alex Gasperoni,0.0,False,Large Dataset had 0,False,Alex Gasperoni,Gasperoni Alex,single
+897,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Mattia Giardi,0.0,False,Large Dataset had 0,False,Mattia Giardi,Giardi,single
+898,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Marcello Mularoni,0.0,False,Large Dataset had 0,False,Marcello Mularoni,Mularoni,single
+899,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Enrico Golinucci,0.0,False,Large Dataset had 0,False,Enrico Golinucci,E Golinucci,single
+900,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Fabio Ramon Tomassini,0.0,False,Large Dataset had 0,False,Fabio Ramon Tomassini,F Tomassini,single
+901,1507,Nations League 2018-2020,Luxembourg vs San Marino,15.10.18,San Marino,SM,2018,SUCCESS,Matteo Vitaioli,0.0,False,Large Dataset had 0,False,Matteo Vitaioli,M Vitaioli,single
+902,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+903,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,FAIL,0,0.0,True,not done yet,False,0,5. Витайоли Ф.,cyrillic
+904,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Manuel Battistini,0.0,False,Large Dataset had 0,False,Manuel Battistini,Man Battistini,single
+905,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Andrea Grandoni,0.0,False,Large Dataset had 0,False,Andrea Grandoni,Grandoni,single
+906,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Davide Simoncini,0.0,False,Large Dataset had 0,False,Davide Simoncini,D Simoncini,single
+907,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Lorenzo Lunadei,0.0,False,Large Dataset had 0,False,Lorenzo Lunadei,Lunadei,single
+908,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Marcello Mularoni,0.0,False,Large Dataset had 0,False,Marcello Mularoni,Mularoni,single
+909,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Enrico Golinucci,0.0,False,Large Dataset had 0,False,Enrico Golinucci,E Golinucci,single
+910,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Mirko Palazzi,25000.0,False,working,False,Mirko Palazzi,Palazzi,single
+911,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Matteo Vitaioli,0.0,False,Large Dataset had 0,False,Matteo Vitaioli,M Vitaioli,single
+912,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,San Marino,SM,2018,SUCCESS,Nicola Nanni,75000.0,False,working,False,Nicola Nanni,N Nanni,single
+913,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+914,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Oleg Reabciuk,750000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+915,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+916,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+917,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+918,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+919,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Eugeniu Cociuc,500000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+920,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Artur Ioniță,4500000.0,False,working,False,Artur Ioniță,Ioniță,single
+921,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+922,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+923,1508,Nations League 2018-2020,San Marino vs Moldova,15.11.18,Moldova,MD,2018,SUCCESS,Ion Nicolaescu,50000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+924,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Anthony Moris,400000.0,False,working,False,Anthony Moris,Moris,single
+925,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+926,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+927,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Chris Philipps,500000.0,False,working,False,Chris Philipps,Philipps,single
+928,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Christopher Martins Pereira,2000000.0,False,working,False,Christopher Martins Pereira,Martins-Pereira,single
+929,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Mathias Jänisch,125000.0,False,working,False,Mathias Jänisch,Jänisch,single
+930,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Lars Gerson,800000.0,False,working,False,Lars Gerson,Gerson,single
+931,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,"['Danel Sinani', 'Dejvid Sinani']",275000.0,False,working,False,"['Danel Sinani', 'Dejvid Sinani']",Sinani,multiple
+932,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Olivier Thill,1750000.0,False,working,False,Olivier Thill,O Thill,single
+933,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Dave Turpel,225000.0,False,working,False,Dave Turpel,Turpel,single
+934,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Luxembourg,LU,2018,SUCCESS,Aurélien Joachim,400000.0,False,working,False,Aurélien Joachim,Joachim,single
+935,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Andrey Gorbunov,150000.0,False,working,False,Andrey Gorbunov,Gorbunov,single
+936,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+937,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Igor Shitov,450000.0,False,working,False,Igor Shitov,Shitov,single
+938,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Drahun,none
+939,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Pavel Savitskiy,1500000.0,False,working,False,Pavel Savitskiy,Savitski,single
+940,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Mikhail Sivakov,1400000.0,False,working,False,Mikhail Sivakov,Sivakov,single
+941,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+942,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Maksim Volodko,1000000.0,False,working,False,Maksim Volodko,M Volodko,single
+943,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+944,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,FAIL,0,0.0,True,not done yet,False,0,10. Глеб А.,cyrillic
+945,1509,Nations League 2018-2020,Luxembourg vs Belarus,15.11.18,Belarus,BY,2018,SUCCESS,Anton Saroka,450000.0,False,working,False,Anton Saroka,Saroka,single
+946,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Elia Benedettini,125000.0,False,working,False,Elia Benedettini,E Benedettini,single
+947,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,FAIL,0,0.0,True,not done yet,False,0,5. Витайоли Ф.,cyrillic
+948,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Davide Simoncini,0.0,False,Large Dataset had 0,False,Davide Simoncini,D Simoncini,single
+949,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Manuel Battistini,0.0,False,Large Dataset had 0,False,Manuel Battistini,Man Battistini,single
+950,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Alex Gasperoni,0.0,False,Large Dataset had 0,False,Alex Gasperoni,Gasperoni Alex,single
+951,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Enrico Golinucci,0.0,False,Large Dataset had 0,False,Enrico Golinucci,E Golinucci,single
+952,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Alessandro Golinucci,0.0,False,Large Dataset had 0,False,Alessandro Golinucci,A Golinucci,single
+953,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Mirko Palazzi,25000.0,False,working,False,Mirko Palazzi,Palazzi,single
+954,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Nicola Nanni,75000.0,False,working,False,Nicola Nanni,N Nanni,single
+955,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Danilo Rinaldi,0.0,False,Large Dataset had 0,False,Danilo Rinaldi,D Rinaldi,single
+956,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,San Marino,SM,2018,SUCCESS,Adolfo Hirsch,0.0,False,Large Dataset had 0,False,Adolfo Hirsch,José Hirsch,single
+957,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Sergey Chernik,600000.0,False,working,False,Sergey Chernik,Chernik,single
+958,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Aleksandr Martynovich,4000000.0,False,working,False,Aleksandr Martynovich,Martynovich,single
+959,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Igor Shitov,450000.0,False,working,False,Igor Shitov,Shitov,single
+960,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Denis Polyakov,1200000.0,False,working,False,Denis Polyakov,Polyakov,single
+961,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Sergey Politevich,600000.0,False,working,False,Sergey Politevich,Politevich,single
+962,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,FAIL,0,0.0,True,Lookup Required,False,0,Drahun,none
+963,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Pavel Savitskiy,1500000.0,False,working,False,Pavel Savitskiy,Savitski,single
+964,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Ivan Maevskiy,1300000.0,False,working,False,Ivan Maevskiy,I Mayewski,single
+965,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Igor Stasevich,400000.0,False,working,False,Igor Stasevich,Stasevich,single
+966,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,FAIL,0,0.0,True,not done yet,False,0,10. Глеб А.,cyrillic
+967,1510,Nations League 2018-2020,San Marino vs Belarus,18.11.18,Belarus,BY,2018,SUCCESS,Anton Saroka,450000.0,False,working,False,Anton Saroka,Saroka,single
+968,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Alexei Koselev,1500000.0,False,working,False,Alexei Koselev,Koselev,single
+969,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Oleg Reabciuk,750000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+970,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Veaceslav Posmac,1000000.0,False,working,False,Veaceslav Posmac,Posmac,single
+971,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Alexandru Epureanu,1750000.0,False,working,False,Alexandru Epureanu,Epureanu,single
+972,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Catalin Carp,1200000.0,False,working,False,Catalin Carp,Carp,single
+973,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Alexandru Gatcan,300000.0,False,working,False,Alexandru Gatcan,Gatcan,single
+974,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",225000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+975,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Artur Ioniță,4500000.0,False,working,False,Artur Ioniță,Ioniță,single
+976,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,Radu Ginsari,500000.0,False,working,False,Radu Ginsari,Gînsari,single
+977,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,SUCCESS,"['Alexandru Antoniuc', 'Maxim Antoniuc']",400000.0,False,working,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+978,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Moldova,MD,2018,FAIL,0,0.0,True,Lookup Required,False,0,Damașcan,none
+979,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Anthony Moris,400000.0,False,working,False,Anthony Moris,Moris,single
+980,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Maxime Chanot,1000000.0,False,working,False,Maxime Chanot,Chanot,single
+981,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Enes Mahmutovic,75000.0,False,working,False,Enes Mahmutovic,Mahmutović,single
+982,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Dirk Carlson,300000.0,False,working,False,Dirk Carlson,D Carlson,single
+983,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Laurent Jans,700000.0,False,working,False,Laurent Jans,Jans,single
+984,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Chris Philipps,500000.0,False,working,False,Chris Philipps,Philipps,single
+985,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Leandro Barreiro,500000.0,False,working,False,Leandro Barreiro,L Barreiro,single
+986,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Florian Bohnert,100000.0,False,working,False,Florian Bohnert,Bohnert,single
+987,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,FAIL,0,0.0,True,not done yet,False,0,9. Да Мота,cyrillic
+988,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Stefano Bensi,150000.0,False,working,False,Stefano Bensi,Bensi,single
+989,1511,Nations League 2018-2020,Moldova vs Luxembourg,18.11.18,Luxembourg,LU,2018,SUCCESS,Aurélien Joachim,400000.0,False,working,False,Aurélien Joachim,Joachim,single
+990,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,FAIL,0,0.0,True,not done yet,False,0,1. Агаев К.,cyrillic
+991,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,"['Aykhan Abbasov', 'Samir Abbasov', 'Urfan Abbasov', 'Mirabdulla Abbasov']",500000.0,False,working,False,"['Aykhan Abbasov', 'Samir Abbasov', 'Urfan Abbasov', 'Mirabdulla Abbasov']",Abbasov,multiple
+992,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Pavlo Pashayev,500000.0,False,working,False,Pavlo Pashayev,Pashayev,single
+993,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Maksim Medvedev,1300000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+994,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Badavi Hüseynov,1200000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+995,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+996,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Emin Mahmudov,900000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+997,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+998,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Richard Almeyda,1600000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+999,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,SUCCESS,Mahir Emreli,1200000.0,False,working,False,Mahir Emreli,Emreli,single
+1000,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Azerbaijan,AZ,2018,FAIL,0,0.0,True,not done yet,False,0,10. Гурбанов Р.,cyrillic
+1001,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Samir Ujkani,200000.0,False,working,False,Samir Ujkani,Ujkani,single
+1002,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Fidan Aliti,700000.0,False,working,False,Fidan Aliti,Aliti,single
+1003,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",1500000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+1004,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Mërgim Vojvoda,1000000.0,False,working,False,Mërgim Vojvoda,Vojvoda,single
+1005,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Leart Paçarada,900000.0,False,working,False,Leart Paçarada,Paqarada,single
+1006,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Herolind Shala,400000.0,False,working,False,Herolind Shala,Shala,single
+1007,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Hekuran Kryeziu,1750000.0,False,working,False,Hekuran Kryeziu,H Kryeziu,single
+1008,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Arbër Zeneli,6000000.0,False,working,False,Arbër Zeneli,Zeneli,single
+1009,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Edon Zhegrova,1500000.0,False,working,False,Edon Zhegrova,Zhegrova,single
+1010,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Bersant Celina,5000000.0,False,working,False,Bersant Celina,Celina,single
+1011,1512,Nations League 2018-2020,Azerbaijan vs Kosovo,07.09.18,Kosovo,XK,2018,SUCCESS,Vedat Muriqi,2500000.0,False,working,False,Vedat Muriqi,Muriqi,single
+1012,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Gunnar Nielsen,150000.0,False,working,False,Gunnar Nielsen,G Nielsen,single
+1013,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Viljormur Davidsen,350000.0,False,working,False,Viljormur Davidsen,V Davidsen,single
+1014,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Atli Gregersen,25000.0,False,working,False,Atli Gregersen,Gregersen,single
+1015,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Sonni Nattestad,150000.0,False,working,False,Sonni Nattestad,Nattestad,single
+1016,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Hallur Hansson,600000.0,False,working,False,Hallur Hansson,H Hansson,single
+1017,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Brandur Hendriksson,250000.0,False,working,False,Brandur Hendriksson,Olsen Hendriksson,single
+1018,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Gilli Rólantsson,500000.0,False,working,False,Gilli Rólantsson,Rólantsson,single
+1019,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Sölvi Vatnhamar,100000.0,False,working,False,Sölvi Vatnhamar,S Vatnhamar,single
+1020,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,René Joensen,150000.0,False,working,False,René Joensen,R Joensen,single
+1021,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Gunnar Vatnhamar,75000.0,False,working,False,Gunnar Vatnhamar,G Vatnhamar,single
+1022,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Faroe Islands,FO,2018,SUCCESS,Jóan Símun Edmundsson,800000.0,False,working,False,Jóan Símun Edmundsson,J Edmundsson,single
+1023,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,1. Хогг,cyrillic
+1024,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,3. Зерафа Дж.,cyrillic
+1025,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Joseph Mbong,225000.0,False,working,False,Joseph Mbong,J Mbong,single
+1026,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Steve Borg,200000.0,False,working,False,Steve Borg,S Borg,single
+1027,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Andrei Agius,175000.0,False,working,False,Andrei Agius,A Agius,single
+1028,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Paul Fenech,175000.0,False,working,False,Paul Fenech,P Fenech,single
+1029,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,André Schembri,400000.0,False,working,False,André Schembri,Schembri,single
+1030,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Rowen Muscat,175000.0,False,working,False,Rowen Muscat,R Muscat,single
+1031,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,SUCCESS,Zach Muscat,14000000.0,False,Used Large Dataset,False,Zach Muscat,Z Muscat,single
+1032,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,9. Мифсуд,cyrillic
+1033,1513,Nations League 2018-2020,Faroe Islands vs Malta,07.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,19. Эффйонг,cyrillic
+1034,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Samir Ujkani,200000.0,False,working,False,Samir Ujkani,Ujkani,single
+1035,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Fidan Aliti,700000.0,False,working,False,Fidan Aliti,Aliti,single
+1036,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",1500000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+1037,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Mërgim Vojvoda,1000000.0,False,working,False,Mërgim Vojvoda,Vojvoda,single
+1038,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Herolind Shala,400000.0,False,working,False,Herolind Shala,Shala,single
+1039,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Hekuran Kryeziu,1750000.0,False,working,False,Hekuran Kryeziu,H Kryeziu,single
+1040,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Milot Rashica,20000000.0,False,working,False,Milot Rashica,Rashica,single
+1041,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Arbër Zeneli,6000000.0,False,working,False,Arbër Zeneli,Zeneli,single
+1042,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Benjamin Kololli,2750000.0,False,working,False,Benjamin Kololli,Kololli,single
+1043,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Donis Avdijaj,2000000.0,False,working,False,Donis Avdijaj,Avdijaj,single
+1044,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Kosovo,XK,2018,SUCCESS,Atdhe Nuhiu,500000.0,False,working,False,Atdhe Nuhiu,Nuhiu,single
+1045,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Gunnar Nielsen,150000.0,False,working,False,Gunnar Nielsen,G Nielsen,single
+1046,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Viljormur Davidsen,350000.0,False,working,False,Viljormur Davidsen,V Davidsen,single
+1047,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Atli Gregersen,25000.0,False,working,False,Atli Gregersen,Gregersen,single
+1048,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Sonni Nattestad,150000.0,False,working,False,Sonni Nattestad,Nattestad,single
+1049,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Hallur Hansson,600000.0,False,working,False,Hallur Hansson,H Hansson,single
+1050,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Kaj Leo í Bartalsstovu,100000.0,False,working,False,Kaj Leo í Bartalsstovu,Bartalsstovu,single
+1051,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Brandur Hendriksson,250000.0,False,working,False,Brandur Hendriksson,Olsen Hendriksson,single
+1052,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Gilli Rólantsson,500000.0,False,working,False,Gilli Rólantsson,Rólantsson,single
+1053,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,René Joensen,150000.0,False,working,False,René Joensen,R Joensen,single
+1054,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Gunnar Vatnhamar,75000.0,False,working,False,Gunnar Vatnhamar,G Vatnhamar,single
+1055,1514,Nations League 2018-2020,Kosovo vs Faroe Islands,10.09.18,Faroe Islands,FO,2018,SUCCESS,Jóan Símun Edmundsson,800000.0,False,working,False,Jóan Símun Edmundsson,J Edmundsson,single
+1056,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,1. Хогг,cyrillic
+1057,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,3. Зерафа Дж.,cyrillic
+1058,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,SUCCESS,Joseph Mbong,225000.0,False,working,False,Joseph Mbong,J Mbong,single
+1059,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,SUCCESS,Steve Borg,200000.0,False,working,False,Steve Borg,S Borg,single
+1060,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,SUCCESS,Andrei Agius,175000.0,False,working,False,Andrei Agius,A Agius,single
+1061,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,17. Камильери Р.,cyrillic
+1062,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,6. Фенек Р.,cyrillic
+1063,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,SUCCESS,Paul Fenech,175000.0,False,working,False,Paul Fenech,P Fenech,single
+1064,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,SUCCESS,André Schembri,400000.0,False,working,False,André Schembri,Schembri,single
+1065,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,9. Мифсуд,cyrillic
+1066,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Malta,MT,2018,FAIL,0,0.0,True,not done yet,False,0,14. Фарруджа,cyrillic
+1067,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,FAIL,0,0.0,True,not done yet,False,0,1. Агаев К.,cyrillic
+1068,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Pavlo Pashayev,500000.0,False,working,False,Pavlo Pashayev,Pashayev,single
+1069,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Maksim Medvedev,1300000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+1070,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Tamkin Khalilzada,400000.0,False,working,False,Tamkin Khalilzada,Khalilzade,single
+1071,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Badavi Hüseynov,1200000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+1072,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+1073,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Emin Mahmudov,900000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+1074,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,FAIL,0,0.0,True,not done yet,False,0,9. Алиев Р.,cyrillic
+1075,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Richard Almeyda,1600000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+1076,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Mahir Emreli,1200000.0,False,working,False,Mahir Emreli,Emreli,single
+1077,1515,Nations League 2018-2020,Malta vs Azerbaijan,10.09.18,Azerbaijan,AZ,2018,SUCCESS,Dimitrij Nazarov,500000.0,False,working,False,Dimitrij Nazarov,D Nazarov,single
+1078,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Gunnar Nielsen,150000.0,False,working,False,Gunnar Nielsen,G Nielsen,single
+1079,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Viljormur Davidsen,350000.0,False,working,False,Viljormur Davidsen,V Davidsen,single
+1080,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Atli Gregersen,25000.0,False,working,False,Atli Gregersen,Gregersen,single
+1081,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Odmar Faerö,100000.0,False,working,False,Odmar Faerö,Faerö,single
+1082,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Hallur Hansson,600000.0,False,working,False,Hallur Hansson,H Hansson,single
+1083,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Kaj Leo í Bartalsstovu,100000.0,False,working,False,Kaj Leo í Bartalsstovu,Bartalsstovu,single
+1084,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Brandur Hendriksson,250000.0,False,working,False,Brandur Hendriksson,Olsen Hendriksson,single
+1085,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Gilli Rólantsson,500000.0,False,working,False,Gilli Rólantsson,Rólantsson,single
+1086,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,René Joensen,150000.0,False,working,False,René Joensen,R Joensen,single
+1087,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,FAIL,0,0.0,True,not done yet,False,0,10. Юстинуссен Ф.,cyrillic
+1088,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Faroe Islands,FO,2018,SUCCESS,Jóan Símun Edmundsson,800000.0,False,working,False,Jóan Símun Edmundsson,J Edmundsson,single
+1089,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,FAIL,0,0.0,True,not done yet,False,0,1. Агаев К.,cyrillic
+1090,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Pavlo Pashayev,500000.0,False,working,False,Pavlo Pashayev,Pashayev,single
+1091,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Maksim Medvedev,1300000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+1092,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,"['Nodar Mammadov', 'Elvin Mammadov', 'Aqil Mammadov', 'Rahil Mammadov', 'Asif Mammadov']",400000.0,False,working,False,"['Nodar Mammadov', 'Elvin Mammadov', 'Aqil Mammadov', 'Rahil Mammadov', 'Asif Mammadov']",Mammadov,multiple
+1093,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Badavi Hüseynov,1200000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+1094,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,"['Qara Qarayev', 'Kamran Agayev']",1000000.0,False,working,False,"['Qara Qarayev', 'Kamran Agayev']",Garayev,multiple
+1095,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Araz Abdullayev,500000.0,False,working,False,Araz Abdullayev,A Abdullayev,single
+1096,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Richard Almeyda,1600000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+1097,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Mahir Emreli,1200000.0,False,working,False,Mahir Emreli,Emreli,single
+1098,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Dimitrij Nazarov,500000.0,False,working,False,Dimitrij Nazarov,D Nazarov,single
+1099,1516,Nations League 2018-2020,Faroe Islands vs Azerbaijan,11.10.18,Azerbaijan,AZ,2018,SUCCESS,Renat Dadashov,225000.0,False,working,False,Renat Dadashov,Re Dadashov,single

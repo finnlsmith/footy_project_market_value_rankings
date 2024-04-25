@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Heinz Lindner,0.0,False,Not in either dataset for currect season but present in both seasons around match,True,Heinz Lindner,Lindner,single
+1,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+2,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,FAIL,0,0.0,True,Lookup Required,False,0,M Woeber,none
+3,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+4,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+5,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,David Alaba,52000000.0,False,working,False,David Alaba,Alaba,single
+6,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+7,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Florian Grillitsch,20000000.0,False,working,False,Florian Grillitsch,Grillitsch,single
+8,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+9,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+10,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+11,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+12,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+13,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+14,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+15,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+16,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+17,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+18,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+19,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Arkadiusz Milik,32000000.0,False,Used Large Dataset,False,Arkadiusz Milik,Milik,single
+20,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+21,756,"Euros 2020, Qualifiers",Austria vs Poland,21.03.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+22,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,FAIL,"['Ariel Harush', 'Omri Ben Harush']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Ariel Harush', 'Omri Ben Harush']",False,"['Ariel Harush', 'Omri Ben Harush']",Harush,multiple
+23,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+24,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Taleb Tawatha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Taleb Tawatha,Tawatha,single
+25,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+26,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+27,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+28,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Sheran Yeini,300000.0,False,working,False,Sheran Yeini,Yeini,single
+29,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+30,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Beram Kayal,1200000.0,False,working,False,Beram Kayal,Kayal,single
+31,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+32,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+33,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+34,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+35,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+36,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+37,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+38,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+39,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+40,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+41,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+42,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Miha Zajc,3200000.0,False,working,False,Miha Zajc,Zajc,single
+43,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+44,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+45,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+46,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+47,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+48,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Aleksandar Trajkovski,1200000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+49,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+50,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+51,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+52,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Ferhan Hasani,500000.0,False,working,False,Ferhan Hasani,Fe Hasani,single
+53,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+54,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+55,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+56,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+57,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+58,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+59,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,FAIL,0,0,True,not done yet,False,0,6. Габов,cyrillic
+60,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Vjaceslavs Isajevs,175000.0,False,Data Ended before season : 2019,False,Vjaceslavs Isajevs,V Isajevs,single
+61,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Igors Tarasovs,250000.0,False,working,False,Igors Tarasovs,Tarasovs,single
+62,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Andrejs Ciganiks,200000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+63,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,FAIL,0,0,True,not done yet,False,0,10. Шабала,cyrillic
+64,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Arturs Karasausks,300000.0,False,Data Ended before season : 2019,False,Arturs Karasausks,Karašausks,single
+65,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,Deniss Rakels,300000.0,False,Data Ended before season : 2019,False,Deniss Rakels,Rakels Deniss,single
+66,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,FAIL,"['Ariel Harush', 'Omri Ben Harush']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ariel Harush', 'Omri Ben Harush']]",False,"['Ariel Harush', 'Omri Ben Harush']",Harush,multiple
+67,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+68,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+69,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+70,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Orel Dgani,325000.0,False,working,False,Orel Dgani,Dgani,single
+71,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+72,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Sheran Yeini,300000.0,False,working,False,Sheran Yeini,Yeini,single
+73,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+74,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Beram Kayal,1200000.0,False,working,False,Beram Kayal,Kayal,single
+75,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+76,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+77,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Heinz Lindner,0,False,Not in either dataset for currect season but present in both seasons around match,True,Heinz Lindner,Lindner,single
+78,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+79,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,FAIL,0,0,True,Lookup Required,False,0,M Woeber,none
+80,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+81,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+82,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+83,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+84,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,"['Robert Zulj', 'Peter Zulj']",800000.0,False,Used Large Dataset,False,"['Robert Zulj', 'Peter Zulj']",Zulj,multiple
+85,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+86,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Xaver Schlager,12000000.0,False,Used Large Dataset,False,Xaver Schlager,X Schlager,single
+87,759,"Euros 2020, Qualifiers",Israel vs Austria,24.03.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+88,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+89,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Michal Pazdan,550000.0,False,Used Large Dataset,False,Michal Pazdan,Pazdan,single
+90,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+91,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+92,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+93,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Arkadiusz Reca,2400000.0,False,working,False,Arkadiusz Reca,Reca,single
+94,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+95,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+96,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+97,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+98,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Poland,PL,2019,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+99,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+100,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+101,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+102,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+103,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Vjaceslavs Isajevs,175000.0,False,Data Ended before season : 2019,False,Vjaceslavs Isajevs,V Isajevs,single
+104,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+105,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Davis Ikaunieks,400000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+106,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+107,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+108,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Arturs Karasausks,300000.0,False,Data Ended before season : 2019,False,Arturs Karasausks,Karašausks,single
+109,760,"Euros 2020, Qualifiers",Poland vs Latvia,24.03.19,Latvia,LV,2019,SUCCESS,Deniss Rakels,300000.0,False,Data Ended before season : 2019,False,Deniss Rakels,Rakels Deniss,single
+110,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+111,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+112,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+113,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+114,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+115,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+116,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+117,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+118,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+119,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Miha Zajc,3200000.0,False,working,False,Miha Zajc,Zajc,single
+120,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+121,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+122,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+123,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+124,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+125,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+126,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+127,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+128,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+129,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+130,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+131,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+132,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Heinz Lindner,0,False,Not in either dataset for currect season but present in both seasons around match,True,Heinz Lindner,Lindner,single
+133,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+134,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+135,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+136,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+137,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,David Alaba,52000000.0,False,working,False,David Alaba,Alaba,single
+138,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+139,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+140,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+141,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Xaver Schlager,12000000.0,False,Used Large Dataset,False,Xaver Schlager,X Schlager,single
+142,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+143,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+144,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+145,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+146,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+147,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+148,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,15. Чернигой,cyrillic
+149,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Jaka Bijol,2500000.0,False,working,False,Jaka Bijol,Bijol,single
+150,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+151,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+152,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Miha Zajc,3200000.0,False,working,False,Miha Zajc,Zajc,single
+153,762,"Euros 2020, Qualifiers",Austria vs Slovenia,07.06.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+154,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+155,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+156,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+157,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+158,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+159,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+160,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+161,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+162,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Krste Velkoski,200000.0,False,working,False,Krste Velkoski,K Velkoski,single
+163,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+164,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+165,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Lukasz Fabianski,3200000.0,False,Used Large Dataset,False,Lukasz Fabianski,Fabianski,single
+166,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+167,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+168,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+169,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+170,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+171,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+172,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+173,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Przemyslaw Frankowski,1600000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+174,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+175,763,"Euros 2020, Qualifiers",North Macedonia vs Poland,07.06.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+176,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+177,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+178,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+179,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+180,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Kristers Tobers,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kristers Tobers,Tobers,single
+181,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+182,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Davis Ikaunieks,400000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+183,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+184,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+185,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Arturs Karasausks,300000.0,False,Data Ended before season : 2019,False,Arturs Karasausks,Karašausks,single
+186,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Latvia,LV,2019,SUCCESS,Deniss Rakels,300000.0,False,Data Ended before season : 2019,False,Deniss Rakels,Rakels Deniss,single
+187,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,FAIL,"['Ariel Harush', 'Omri Ben Harush']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ariel Harush', 'Omri Ben Harush']]",False,"['Ariel Harush', 'Omri Ben Harush']",Harush,multiple
+188,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+189,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+190,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+191,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Ben Bitton,800000.0,False,Data Ended before season : 2019,False,Ben Bitton,B Bitton,single
+192,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+193,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Sheran Yeini,300000.0,False,working,False,Sheran Yeini,Yeini,single
+194,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+195,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Beram Kayal,1200000.0,False,working,False,Beram Kayal,Kayal,single
+196,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+197,764,"Euros 2020, Qualifiers",Latvia vs Israel,07.06.19,Israel,IL,2019,SUCCESS,Dia Saba,2400000.0,False,working,False,Dia Saba,Saba,single
+198,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Lukasz Fabianski,3200000.0,False,Used Large Dataset,False,Lukasz Fabianski,Fabianski,single
+199,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+200,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+201,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+202,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+203,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+204,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+205,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+206,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+207,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+208,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Poland,PL,2019,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+209,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,FAIL,"['Ariel Harush', 'Omri Ben Harush']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ariel Harush', 'Omri Ben Harush']]",False,"['Ariel Harush', 'Omri Ben Harush']",Harush,multiple
+210,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+211,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+212,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+213,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Ben Bitton,800000.0,False,Data Ended before season : 2019,False,Ben Bitton,B Bitton,single
+214,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+215,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Sheran Yeini,300000.0,False,working,False,Sheran Yeini,Yeini,single
+216,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+217,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Beram Kayal,1200000.0,False,working,False,Beram Kayal,Kayal,single
+218,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Manor Solomon,5800000.0,False,working,False,Manor Solomon,Solomon,single
+219,765,"Euros 2020, Qualifiers",Poland vs Israel,10.06.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+220,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+221,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+222,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+223,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+224,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Arijan Ademi,5500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+225,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+226,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+227,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+228,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+229,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+230,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+231,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Heinz Lindner,0,False,Not in either dataset for currect season but present in both seasons around match,True,Heinz Lindner,Lindner,single
+232,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+233,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+234,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+235,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+236,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Stefan Ilsanker,2400000.0,False,working,False,Stefan Ilsanker,Ilsanker,single
+237,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+238,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+239,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+240,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Xaver Schlager,12000000.0,False,Used Large Dataset,False,Xaver Schlager,X Schlager,single
+241,766,"Euros 2020, Qualifiers",North Macedonia vs Austria,10.06.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+242,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+243,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+244,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+245,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+246,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Aleksandrs Solovjovs,0,False,Not in either dataset for currect season but present in both seasons around match,True,Aleksandrs Solovjovs,Solovjovs,single
+247,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+248,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Kristers Tobers,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kristers Tobers,Tobers,single
+249,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+250,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+251,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+252,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,Deniss Rakels,300000.0,False,Data Ended before season : 2019,False,Deniss Rakels,Rakels Deniss,single
+253,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+254,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+255,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+256,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+257,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+258,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,15. Чернигой,cyrillic
+259,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Denis Popovic,1500000.0,False,Data Ended before season : 2019,False,Denis Popovic,D Popovic,single
+260,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+261,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+262,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Miha Zajc,3200000.0,False,working,False,Miha Zajc,Zajc,single
+263,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Slovenia,SI,2019,SUCCESS,Robert Beric,2400000.0,False,working,False,Robert Beric,Beric,single
+264,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Ofir Marciano,325000.0,False,working,False,Ofir Marciano,Marciano,single
+265,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+266,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Hatem Elhamed,725000.0,False,working,False,Hatem Elhamed,Elhamed,single
+267,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+268,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+269,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Orel Dgani,325000.0,False,working,False,Orel Dgani,Dgani,single
+270,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+271,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+272,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Manor Solomon,5800000.0,False,working,False,Manor Solomon,Solomon,single
+273,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+274,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+275,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+276,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+277,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+278,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+279,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+280,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Arijan Ademi,5500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+281,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+282,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+283,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+284,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+285,768,"Euros 2020, Qualifiers",Israel vs North Macedonia,05.09.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+286,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Cican Stankovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cican Stankovic,C Stankovic,single
+287,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+288,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+289,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+290,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+291,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,David Alaba,52000000.0,False,working,False,David Alaba,Alaba,single
+292,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+293,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+294,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+295,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+296,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+297,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+298,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+299,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+300,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+301,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Antonijs Cernomordijs,300000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+302,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Kristers Tobers,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kristers Tobers,Tobers,single
+303,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+304,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Boriss Bogdaskins,200000.0,False,Data Ended before season : 2019,False,Boriss Bogdaskins,Bogdaskins,single
+305,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Andrejs Ciganiks,200000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+306,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+307,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,Armands Petersons,125000.0,False,Data Ended before season : 2019,False,Armands Petersons,Petersons,single
+308,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+309,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Jure Balkovec,800000.0,False,working,False,Jure Balkovec,Balkovec,single
+310,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+311,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+312,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+313,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+314,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+315,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+316,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+317,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+318,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,Roman Bezjak,475000.0,False,working,False,Roman Bezjak,Bezjak,single
+319,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Lukasz Fabianski,3200000.0,False,Used Large Dataset,False,Lukasz Fabianski,Fabianski,single
+320,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Michal Pazdan,550000.0,False,Used Large Dataset,False,Michal Pazdan,Pazdan,single
+321,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+322,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+323,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+324,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+325,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+326,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+327,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+328,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+329,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Poland,PL,2019,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+330,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Lukasz Fabianski,3200000.0,False,Used Large Dataset,False,Lukasz Fabianski,Fabianski,single
+331,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+332,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+333,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,FAIL,0,0,True,not done yet,False,0,15. Глик,cyrillic
+334,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+335,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+336,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Krystian Bielik,5400000.0,False,working,False,Krystian Bielik,K Bielik,single
+337,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+338,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Dawid Kownacki,4800000.0,False,Used Large Dataset,False,Dawid Kownacki,Kownacki,single
+339,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+340,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+341,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Cican Stankovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cican Stankovic,C Stankovic,single
+342,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+343,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Stefan Posch,11000000.0,False,working,False,Stefan Posch,Posch,single
+344,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+345,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+346,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,David Alaba,52000000.0,False,working,False,David Alaba,Alaba,single
+347,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+348,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+349,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+350,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+351,771,"Euros 2020, Qualifiers",Poland vs Austria,09.09.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+352,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+353,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+354,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+355,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+356,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+357,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+358,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+359,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+360,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+361,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+362,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,Roman Bezjak,475000.0,False,working,False,Roman Bezjak,Bezjak,single
+363,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Ofir Marciano,325000.0,False,working,False,Ofir Marciano,Marciano,single
+364,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+365,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Hatem Elhamed,725000.0,False,working,False,Hatem Elhamed,Elhamed,single
+366,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+367,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+368,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Orel Dgani,325000.0,False,working,False,Orel Dgani,Dgani,single
+369,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+370,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Dor Peretz,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dor Peretz,Do Peretz,single
+371,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Manor Solomon,5800000.0,False,working,False,Manor Solomon,Solomon,single
+372,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+373,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Israel,IL,2019,SUCCESS,Shon Weissman,2400000.0,False,working,False,Shon Weissman,Weissman,single
+374,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+375,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+376,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+377,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Antonijs Cernomordijs,300000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+378,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+379,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Ritvars Rugins,300000.0,False,working,False,Ritvars Rugins,Rugins,single
+380,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Martins Kigurs,200000.0,False,working,False,Martins Kigurs,igurs,single
+381,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Janis Ikaunieks,0,False,Not in either dataset for currect season but present in both seasons around match,True,Janis Ikaunieks,J Ikaunieks,single
+382,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Roberts Uldrikis,900000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+383,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+384,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,Armands Petersons,125000.0,False,Data Ended before season : 2019,False,Armands Petersons,Petersons,single
+385,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+386,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+387,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+388,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+389,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Arijan Ademi,5500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+390,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Aleksandar Trajkovski,1200000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+391,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+392,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+393,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+394,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,"['Ivan Trickovski', 'Tome Pačovski']",650000.0,False,working,False,"['Ivan Trickovski', 'Tome Pačovski']",Tričkovski,multiple
+395,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+396,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Cican Stankovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cican Stankovic,C Stankovic,single
+397,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+398,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Stefan Posch,11000000.0,False,working,False,Stefan Posch,Posch,single
+399,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+400,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+401,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Stefan Ilsanker,2400000.0,False,working,False,Stefan Ilsanker,Ilsanker,single
+402,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+403,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+404,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+405,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+406,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+407,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Ofir Marciano,325000.0,False,working,False,Ofir Marciano,Marciano,single
+408,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+409,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Hatem Elhamed,725000.0,False,working,False,Hatem Elhamed,Elhamed,single
+410,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Taleb Tawatha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Taleb Tawatha,Tawatha,single
+411,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+412,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Eitan Tibi,475000.0,False,working,False,Eitan Tibi,Tibi,single
+413,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Nir Bitton,1200000.0,False,working,False,Nir Bitton,N Bitton,single
+414,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+415,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Manor Solomon,5800000.0,False,working,False,Manor Solomon,Solomon,single
+416,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+417,774,"Euros 2020, Qualifiers",Austria vs Israel,10.10.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+418,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+419,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+420,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+421,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+422,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+423,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Arijan Ademi,5500000.0,False,working,False,Arijan Ademi,Ar Ademi,single
+424,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+425,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Stefan Spirovski,400000.0,False,working,False,Stefan Spirovski,Spirovski,single
+426,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+427,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+428,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+429,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+430,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Jure Balkovec,800000.0,False,working,False,Jure Balkovec,Balkovec,single
+431,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+432,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+433,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+434,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+435,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+436,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+437,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+438,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+439,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,Roman Bezjak,475000.0,False,working,False,Roman Bezjak,Bezjak,single
+440,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none
+441,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+442,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+443,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+444,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+445,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,"['Juris Laizans', 'Olegs Laizans']",250000.0,False,working,False,"['Juris Laizans', 'Olegs Laizans']",Laizans,multiple
+446,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Ritvars Rugins,300000.0,False,working,False,Ritvars Rugins,Rugins,single
+447,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Janis Ikaunieks,0,False,Not in either dataset for currect season but present in both seasons around match,True,Janis Ikaunieks,J Ikaunieks,single
+448,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Martins Kigurs,200000.0,False,working,False,Martins Kigurs,igurs,single
+449,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+450,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,Deniss Rakels,300000.0,False,Data Ended before season : 2019,False,Deniss Rakels,Rakels Deniss,single
+451,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+452,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+453,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+454,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+455,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+456,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Maciej Rybus,0,False,Not in either dataset for currect season but present in both seasons around match,True,Maciej Rybus,Rybus,single
+457,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Mateusz Klich,2800000.0,False,working,False,Mateusz Klich,Klich,single
+458,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Damian Szymanski,0,False,Not in either dataset for currect season but present in both seasons around match,True,Damian Szymanski,D Szymanski,single
+459,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+460,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+461,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+462,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+463,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+464,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+465,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+466,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Bartosz Bereszynski,6500000.0,False,Used Large Dataset,False,Bartosz Bereszynski,Bereszynski,single
+467,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Arkadiusz Reca,2400000.0,False,working,False,Arkadiusz Reca,Reca,single
+468,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Jacek Goralski,2400000.0,False,working,False,Jacek Goralski,Góralski,single
+469,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Damian Szymanski,0,False,Not in either dataset for currect season but present in both seasons around match,True,Damian Szymanski,D Szymanski,single
+470,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+471,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+472,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+473,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+474,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+475,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+476,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Ezgjan Alioski,3500000.0,False,working,False,Ezgjan Alioski,Alioski,single
+477,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+478,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Egzon Bejtulai,475000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+479,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+480,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Stefan Spirovski,400000.0,False,working,False,Stefan Spirovski,Spirovski,single
+481,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+482,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Ilija Nestorovski,2800000.0,False,working,False,Ilija Nestorovski,Nestorovski,single
+483,777,"Euros 2020, Qualifiers",Poland vs North Macedonia,13.10.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+484,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+485,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Jure Balkovec,800000.0,False,working,False,Jure Balkovec,Balkovec,single
+486,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+487,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+488,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+489,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+490,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+491,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+492,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+493,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+494,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,Roman Bezjak,475000.0,False,working,False,Roman Bezjak,Bezjak,single
+495,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Cican Stankovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cican Stankovic,C Stankovic,single
+496,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+497,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Stefan Posch,11000000.0,False,working,False,Stefan Posch,Posch,single
+498,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+499,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+500,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Stefan Ilsanker,2400000.0,False,working,False,Stefan Ilsanker,Ilsanker,single
+501,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+502,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+503,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+504,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+505,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Austria,AT,2019,SUCCESS,Michael Gregoritsch,5500000.0,False,working,False,Michael Gregoritsch,Gregoritsch,single
+506,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Ofir Marciano,325000.0,False,working,False,Ofir Marciano,Marciano,single
+507,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+508,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Dan Glazer,950000.0,False,working,False,Dan Glazer,D Glazer,single
+509,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Taleb Tawatha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Taleb Tawatha,Tawatha,single
+510,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+511,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Hatem Elhamed,725000.0,False,working,False,Hatem Elhamed,Elhamed,single
+512,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Nir Bitton,1200000.0,False,working,False,Nir Bitton,N Bitton,single
+513,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+514,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+515,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+516,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Israel,IL,2019,SUCCESS,Dia Saba,2400000.0,False,working,False,Dia Saba,Saba,single
+517,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+518,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+519,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+520,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Igors Tarasovs,250000.0,False,working,False,Igors Tarasovs,Tarasovs,single
+521,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Antonijs Cernomordijs,300000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+522,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Vitalijs Jagodinskis,300000.0,False,working,False,Vitalijs Jagodinskis,Jagodinskis,single
+523,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Janis Ikaunieks,0,False,Not in either dataset for currect season but present in both seasons around match,True,Janis Ikaunieks,J Ikaunieks,single
+524,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Martins Kigurs,200000.0,False,working,False,Martins Kigurs,igurs,single
+525,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Raivis Jurkovskis,200000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+526,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+527,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+528,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+529,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,FAIL,0,0,True,not done yet,False,0,5. Струна Ал.,cyrillic
+530,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Bojan Jokic,475000.0,False,working,False,Bojan Jokic,Jokic,single
+531,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+532,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+533,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Haris Vuckic,650000.0,False,working,False,Haris Vuckic,Vuckic,single
+534,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+535,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+536,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+537,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+538,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,Andraz Sporar,3200000.0,False,working,False,Andraz Sporar,porar,single
+539,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+540,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+541,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+542,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+543,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+544,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Igors Tarasovs,250000.0,False,working,False,Igors Tarasovs,Tarasovs,single
+545,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Davis Ikaunieks,400000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+546,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Raivis Jurkovskis,200000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+547,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+548,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Vladislavs Gutkovskis,250000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+549,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,Vladislavs Fjodorovs,250000.0,False,working,False,Vladislavs Fjodorovs,V Fjodorovs,single
+550,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Alexander Schlager,3500000.0,False,working,False,Alexander Schlager,A Schlager,single
+551,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+552,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Stefan Lainer,14500000.0,False,Used Large Dataset,False,Stefan Lainer,Lainer,single
+553,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Martin Hinteregger,14500000.0,False,Used Large Dataset,False,Martin Hinteregger,Hinteregger,single
+554,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Andreas Ulmer,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andreas Ulmer,Ulmer,single
+555,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,David Alaba,52000000.0,False,working,False,David Alaba,Alaba,single
+556,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Marcel Sabitzer,32000000.0,False,working,False,Marcel Sabitzer,Sabitzer,single
+557,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+558,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Konrad Laimer,24000000.0,False,working,False,Konrad Laimer,Laimer,single
+559,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Valentino Lazaro,15000000.0,False,working,False,Valentino Lazaro,Lazaro,single
+560,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,Austria,AT,2019,SUCCESS,Marko Arnautovic,16000000.0,False,working,False,Marko Arnautovic,Arnautovic,single
+561,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+562,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,FAIL,"['Tome Pačovski', 'Tome Kitanovski']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Tome Pačovski', 'Tome Kitanovski']",False,"['Tome Pačovski', 'Tome Kitanovski']",Toševski,multiple
+563,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+564,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+565,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Mario Mladenovski,150000.0,False,working,False,Mario Mladenovski,Mladenovski,single
+566,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Tihomir Kostadinov,400000.0,False,working,False,Tihomir Kostadinov,T Kostadinov,single
+567,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Aleksandar Trajkovski,1200000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+568,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+569,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+570,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Stefan Spirovski,400000.0,False,working,False,Stefan Spirovski,Spirovski,single
+571,781,"Euros 2020, Qualifiers",Austria vs North Macedonia,16.11.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+572,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Ofir Marciano,325000.0,False,working,False,Ofir Marciano,Marciano,single
+573,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+574,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Dan Glazer,950000.0,False,working,False,Dan Glazer,D Glazer,single
+575,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Loai Taha,0,False,Not in either dataset for currect season but present in both seasons around match,True,Loai Taha,L Taha,single
+576,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Eitan Tibi,475000.0,False,working,False,Eitan Tibi,Tibi,single
+577,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,FAIL,0,0,True,not done yet,False,0,20. Бен-Харуш,cyrillic
+578,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Nir Bitton,1200000.0,False,working,False,Nir Bitton,N Bitton,single
+579,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+580,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Beram Kayal,1200000.0,False,working,False,Beram Kayal,Kayal,single
+581,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+582,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+583,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+584,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+585,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+586,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+587,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Tomasz Kedziora,2800000.0,False,working,False,Tomasz Kedziora,Kędziora,single
+588,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Krystian Bielik,5400000.0,False,working,False,Krystian Bielik,K Bielik,single
+589,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Arkadiusz Reca,2400000.0,False,working,False,Arkadiusz Reca,Reca,single
+590,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Damian Szymanski,0,False,Not in either dataset for currect season but present in both seasons around match,True,Damian Szymanski,D Szymanski,single
+591,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+592,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,SUCCESS,Przemyslaw Frankowski,1600000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+593,782,"Euros 2020, Qualifiers",Israel vs Poland,16.11.19,Poland,PL,2019,FAIL,0,0,True,Lookup Required,False,0,K Piątek,none
+594,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Wojciech Szczesny,32000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+595,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Jan Bednarek,12000000.0,False,working,False,Jan Bednarek,Bednarek,single
+596,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Grzegorz Krychowiak,16000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+597,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Kamil Glik,4800000.0,False,working,False,Kamil Glik,Glik,single
+598,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Arkadiusz Reca,2400000.0,False,working,False,Arkadiusz Reca,Reca,single
+599,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Jacek Goralski,2400000.0,False,working,False,Jacek Goralski,Góralski,single
+600,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Damian Szymanski,0,False,Not in either dataset for currect season but present in both seasons around match,True,Damian Szymanski,D Szymanski,single
+601,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Piotr Zieliński,32000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+602,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Lukasz Piszczek,2000000.0,False,Used Large Dataset,False,Lukasz Piszczek,Piszczek,single
+603,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Robert Lewandowski,56000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+604,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Poland,PL,2019,SUCCESS,Kamil Grosicki,2400000.0,False,working,False,Kamil Grosicki,Grosicki,single
+605,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Jan Oblak,80000000.0,False,working,False,Jan Oblak,Oblak,single
+606,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Jure Balkovec,800000.0,False,working,False,Jure Balkovec,Balkovec,single
+607,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Miha Mevlja,2400000.0,False,working,False,Miha Mevlja,Mevlja,single
+608,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Miha Blazic,1200000.0,False,working,False,Miha Blazic,Mi Blazic,single
+609,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Jasmin Kurtić,3500000.0,False,working,False,Jasmin Kurtić,Kurtic,single
+610,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Jaka Bijol,2500000.0,False,working,False,Jaka Bijol,Bijol,single
+611,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Petar Stojanović,1200000.0,False,working,False,Petar Stojanović,P Stojanović,single
+612,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none
+613,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Rene Krhin,1200000.0,False,working,False,Rene Krhin,Krhin,single
+614,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Josip Ilicic,17500000.0,False,working,False,Josip Ilicic,Ilicic,single
+615,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,Tim Matavz,1600000.0,False,working,False,Tim Matavz,Matavž,single
+616,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Stole Dimitrievski,2400000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+617,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Kire Ristevski,400000.0,False,working,False,Kire Ristevski,Ristevski,single
+618,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Visar Musliu,600000.0,False,working,False,Visar Musliu,Musliu,single
+619,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Stefan Ristovski,3200000.0,False,working,False,Stefan Ristovski,S Ristovski,single
+620,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Tihomir Kostadinov,400000.0,False,working,False,Tihomir Kostadinov,T Kostadinov,single
+621,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Darko Velkovski,400000.0,False,working,False,Darko Velkovski,D Velkoski,single
+622,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Boban Nikolov,725000.0,False,working,False,Boban Nikolov,Nikolov,single
+623,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Enis Bardhi,12000000.0,False,working,False,Enis Bardhi,Bardhi,single
+624,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Eljif Elmas,15500000.0,False,working,False,Eljif Elmas,Elmas,single
+625,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Vlatko Stojanovski,400000.0,False,working,False,Vlatko Stojanovski,Stojanovski,single
+626,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,North Macedonia,MK,2019,SUCCESS,Goran Pandev,325000.0,False,working,False,Goran Pandev,Pandev,single
+627,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,FAIL,"['Ariel Harush', 'Omri Ben Harush']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Ariel Harush', 'Omri Ben Harush']]",False,"['Ariel Harush', 'Omri Ben Harush']",Harush,multiple
+628,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Eli Dasa,800000.0,False,working,False,Eli Dasa,Dasa,single
+629,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Dan Glazer,950000.0,False,working,False,Dan Glazer,D Glazer,single
+630,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Eitan Tibi,475000.0,False,working,False,Eitan Tibi,Tibi,single
+631,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Sun Menahem,400000.0,False,working,False,Sun Menahem,Menachem,single
+632,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Nir Bitton,1200000.0,False,working,False,Nir Bitton,N Bitton,single
+633,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,FAIL,0,0,True,Lookup Required,False,0,Natkho,none
+634,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Ilay Elmkies,525000.0,False,working,False,Ilay Elmkies,Elmkies,single
+635,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Eran Zahavi,5200000.0,False,working,False,Eran Zahavi,E Zahavi,single
+636,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Munas Dabbur,8000000.0,False,working,False,Munas Dabbur,Dabbur,single
+637,784,"Euros 2020, Qualifiers",North Macedonia vs Israel,19.11.19,Israel,IL,2019,SUCCESS,Dia Saba,2400000.0,False,working,False,Dia Saba,Saba,single
+638,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Pavels Steinbors,250000.0,False,working,False,Pavels Steinbors,Steinbors,single
+639,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Vitalijs Maksimenko,250000.0,False,working,False,Vitalijs Maksimenko,V Maksimenko,single
+640,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,FAIL,0,0,True,Lookup Required,False,0,M Ošs,none
+641,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Kaspars Dubra,650000.0,False,working,False,Kaspars Dubra,Dubra,single
+642,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none
+643,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Raivis Jurkovskis,200000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+644,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Davis Ikaunieks,400000.0,False,working,False,Davis Ikaunieks,D Ikaunieks,single
+645,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Aleksejs Grjaznovs,100000.0,False,working,False,Aleksejs Grjaznovs,Grjaznovs,single
+646,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",250000.0,False,working,False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+647,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Roberts Uldrikis,900000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+648,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,Vladislavs Fjodorovs,250000.0,False,working,False,Vladislavs Fjodorovs,V Fjodorovs,single
+649,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Pavao Pervan,650000.0,False,working,False,Pavao Pervan,Pervan,single
+650,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Aleksandar Dragovic,5200000.0,False,working,False,Aleksandar Dragovic,Dragovic,single
+651,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Stefan Posch,11000000.0,False,working,False,Stefan Posch,Posch,single
+652,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,FAIL,0,0,True,Lookup Required,False,0,M Woeber,none
+653,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Christopher Trimmel,550000.0,False,working,False,Christopher Trimmel,Trimmel,single
+654,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Stefan Ilsanker,2400000.0,False,working,False,Stefan Ilsanker,Ilsanker,single
+655,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Florian Grillitsch,20000000.0,False,working,False,Florian Grillitsch,Grillitsch,single
+656,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Julian Baumgartlinger,2400000.0,False,working,False,Julian Baumgartlinger,Baumgartlinger,single
+657,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Thomas Goiginger,2800000.0,False,working,False,Thomas Goiginger,Goiginger,single
+658,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Louis Schaub,3200000.0,False,working,False,Louis Schaub,Schaub,single
+659,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Austria,AT,2019,SUCCESS,Michael Gregoritsch,5500000.0,False,working,False,Michael Gregoritsch,Gregoritsch,single
+660,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Etrit Berisha,2400000.0,False,working,False,Etrit Berisha,Et Berisha,single
+661,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Iván Balliu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Iván Balliu,Balliu,single
+662,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+663,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+664,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Frédéric Veseli,725000.0,False,working,False,Frédéric Veseli,Veseli,single
+665,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Berat Djimsiti,12000000.0,False,working,False,Berat Djimsiti,Djimsiti,single
+666,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Ledian Memushaj,650000.0,False,working,False,Ledian Memushaj,Memushaj,single
+667,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Taulant Xhaka,2500000.0,False,Data Ended before season : 2019,False,Taulant Xhaka,T Xhaka,single
+668,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Amir Abrashi,1600000.0,False,Used Large Dataset,False,Amir Abrashi,Abrashi,single
+669,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Bekim Balaj,1000000.0,False,working,False,Bekim Balaj,Balaj,single
+670,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Albania,AL,2019,SUCCESS,Myrto Uzuni,800000.0,False,working,False,Myrto Uzuni,Uzuni,single
+671,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+672,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Hasan Ali Kaldırım,1700000.0,False,working,False,Hasan Ali Kaldırım,Ali Kaldrm,single
+673,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+674,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Gökhan Gönül,450000.0,False,Used Large Dataset,False,Gökhan Gönül,Gonul,single
+675,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+676,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Okay Yokuşlu,6000000.0,False,working,False,Okay Yokuşlu,Yokulu,single
+677,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Hakan Çalhanoğlu,14500000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+678,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Mahmut Tekdemir,1400000.0,False,Used Large Dataset,False,Mahmut Tekdemir,Tekdemir,single
+679,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Emre Belözoğlu,400000.0,False,working,False,Emre Belözoğlu,Belözoglu,single
+680,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Burak Yılmaz,1400000.0,False,Used Large Dataset,False,Burak Yılmaz,B Yilmaz,single
+681,786,"Euros 2020, Qualifiers",Albania vs Turkey,22.03.19,Turkey,TR,2019,SUCCESS,Cenk Tosun,12000000.0,False,Used Large Dataset,False,Cenk Tosun,Tosun,single
+682,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+683,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+684,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Veaceslav Posmac,0,False,Not in either dataset for currect season but present in both seasons around match,True,Veaceslav Posmac,Posmac,single
+685,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Catalin Carp,0,False,Not in either dataset for currect season but present in both seasons around match,True,Catalin Carp,Carp,single
+686,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Eugeniu Cebotaru,0,False,Not in either dataset for currect season but present in both seasons around match,True,Eugeniu Cebotaru,Cebotaru,single
+687,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Eugeniu Cociuc,350000.0,False,working,False,Eugeniu Cociuc,Cociuc,single
+688,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",275000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+689,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Artur Ioniță,3500000.0,False,working,False,Artur Ioniță,Ioniță,single
+690,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+691,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,SUCCESS,Ion Nicolaescu,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ion Nicolaescu,I Nicolaescu,single
+692,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,Moldova,MD,2019,FAIL,"['Alexandru Antoniuc', 'Maxim Antoniuc']",0,True,Online Lookup Required,False,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+693,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+694,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Benjamin Pavard,28000000.0,False,working,False,Benjamin Pavard,Pavard,single
+695,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+696,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Samuel Umtiti,32000000.0,False,Used Large Dataset,False,Samuel Umtiti,Umtiti,single
+697,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Layvin Kurzawa,12000000.0,False,Used Large Dataset,False,Layvin Kurzawa,Kurzawa,single
+698,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Paul Pogba,80000000.0,False,Used Large Dataset,False,Paul Pogba,Pogba,single
+699,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,N'Golo Kanté,80000000.0,False,working,False,N'Golo Kanté,N Kante,single
+700,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Blaise Matuidi,10500000.0,False,Used Large Dataset,False,Blaise Matuidi,Matuidi,single
+701,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+702,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+703,787,"Euros 2020, Qualifiers",Moldova vs France,22.03.19,France,FR,2019,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+704,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+705,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+706,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+707,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Joan Cervós,50000.0,False,working,False,Joan Cervós,Cervós,single
+708,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+709,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+710,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+711,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+712,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+713,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+714,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Andorra,AD,2019,SUCCESS,Alex Martínez,50000.0,False,working,False,Alex Martínez,Alex Martínez,single
+715,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+716,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Birkir Már Saevarsson,250000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+717,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+718,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+719,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+720,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+721,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+722,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+723,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,Arnór Sigurdsson,6300000.0,False,working,False,Arnór Sigurdsson,A Sigurðsson,single
+724,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",8000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+725,788,"Euros 2020, Qualifiers",Andorra vs Iceland,22.03.19,Iceland,IS,2019,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",5500000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+726,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+727,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+728,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Hasan Ali Kaldırım,1700000.0,False,working,False,Hasan Ali Kaldırım,Ali Kaldrm,single
+729,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+730,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+731,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Dorukhan Toköz,4800000.0,False,Used Large Dataset,False,Dorukhan Toköz,Toköz,single
+732,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Hakan Çalhanoğlu,14500000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+733,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Mahmut Tekdemir,1400000.0,False,Used Large Dataset,False,Mahmut Tekdemir,Tekdemir,single
+734,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Deniz Türüç,2800000.0,False,working,False,Deniz Türüç,D Türüç,single
+735,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Burak Yılmaz,1400000.0,False,Used Large Dataset,False,Burak Yılmaz,B Yilmaz,single
+736,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Turkey,TR,2019,SUCCESS,Cenk Tosun,12000000.0,False,Used Large Dataset,False,Cenk Tosun,Tosun,single
+737,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+738,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+739,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Artiom Rozgoniuc,0,False,Not in either dataset for currect season but present in both seasons around match,True,Artiom Rozgoniuc,Rozgoniuc,single
+740,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Veaceslav Posmac,0,False,Not in either dataset for currect season but present in both seasons around match,True,Veaceslav Posmac,Posmac,single
+741,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Dinu Graur,325000.0,False,working,False,Dinu Graur,Graur,single
+742,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Catalin Carp,0,False,Not in either dataset for currect season but present in both seasons around match,True,Catalin Carp,Carp,single
+743,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Eugeniu Cebotaru,0,False,Not in either dataset for currect season but present in both seasons around match,True,Eugeniu Cebotaru,Cebotaru,single
+744,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",275000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+745,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Artur Ioniță,3500000.0,False,working,False,Artur Ioniță,Ioniță,single
+746,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+747,789,"Euros 2020, Qualifiers",Turkey vs Moldova,25.03.19,Moldova,MD,2019,SUCCESS,Vladimir Ambros,350000.0,False,working,False,Vladimir Ambros,Ambros,single
+748,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+749,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Benjamin Pavard,28000000.0,False,working,False,Benjamin Pavard,Pavard,single
+750,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+751,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Samuel Umtiti,32000000.0,False,Used Large Dataset,False,Samuel Umtiti,Umtiti,single
+752,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Layvin Kurzawa,12000000.0,False,Used Large Dataset,False,Layvin Kurzawa,Kurzawa,single
+753,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Paul Pogba,80000000.0,False,Used Large Dataset,False,Paul Pogba,Pogba,single
+754,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,N'Golo Kanté,80000000.0,False,working,False,N'Golo Kanté,N Kante,single
+755,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Blaise Matuidi,10500000.0,False,Used Large Dataset,False,Blaise Matuidi,Matuidi,single
+756,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+757,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+758,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,France,FR,2019,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+759,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+760,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Birkir Már Saevarsson,250000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+761,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Sverrir Ingi Ingason,3200000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+762,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+763,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Hördur Magnússon,4000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+764,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+765,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+766,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+767,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",800000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+768,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+769,790,"Euros 2020, Qualifiers",France vs Iceland,25.03.19,Iceland,IS,2019,SUCCESS,Albert Gudmundsson,2000000.0,False,working,False,Albert Gudmundsson,A Gudmundsson,single
+770,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+771,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+772,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+773,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+774,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+775,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+776,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+777,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+778,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,FAIL,0,0,True,not done yet,False,0,22. Родригес В.,cyrillic
+779,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+780,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Andorra,AD,2019,SUCCESS,Ludovic Clemente,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ludovic Clemente,Clemente,single
+781,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Etrit Berisha,2400000.0,False,working,False,Etrit Berisha,Et Berisha,single
+782,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+783,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+784,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,FAIL,Naser Aliji,0,True,Was in  DB before or after season,True,Naser Aliji,Aliji,single
+785,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Berat Djimsiti,12000000.0,False,working,False,Berat Djimsiti,Djimsiti,single
+786,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Eros Grezda,1500000.0,False,Data Ended before season : 2019,False,Eros Grezda,Grezda,single
+787,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,"['Migjen Basha', 'Vullnet Basha']",400000.0,False,Data Ended before season : 2019,False,"['Migjen Basha', 'Vullnet Basha']",Basha,multiple
+788,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Taulant Xhaka,2500000.0,False,Data Ended before season : 2019,False,Taulant Xhaka,T Xhaka,single
+789,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Ergys Kaçe,600000.0,False,Data Ended before season : 2019,False,Ergys Kaçe,Kaçe,single
+790,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Armando Sadiku,0,False,Not in either dataset for currect season but present in both seasons around match,True,Armando Sadiku,A Sadiku,single
+791,791,"Euros 2020, Qualifiers",Andorra vs Albania,25.03.19,Albania,AL,2019,SUCCESS,Myrto Uzuni,800000.0,False,working,False,Myrto Uzuni,Uzuni,single
+792,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+793,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Hjörtur Hermannsson,650000.0,False,working,False,Hjörtur Hermannsson,Hermannsson,single
+794,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+795,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+796,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+797,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",8000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+798,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+799,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",800000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+800,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+801,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+802,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Iceland,IS,2019,SUCCESS,Vidar Örn Kjartansson,1200000.0,False,working,False,Vidar Örn Kjartansson,Kjartansson,single
+803,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Etrit Berisha,2400000.0,False,working,False,Etrit Berisha,Et Berisha,single
+804,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Kastriot Dermaku,800000.0,False,working,False,Kastriot Dermaku,Dermaku,single
+805,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+806,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+807,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Frédéric Veseli,725000.0,False,working,False,Frédéric Veseli,Veseli,single
+808,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,"['Migjen Basha', 'Vullnet Basha']",400000.0,False,Data Ended before season : 2019,False,"['Migjen Basha', 'Vullnet Basha']",Basha,multiple
+809,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Taulant Xhaka,2500000.0,False,Data Ended before season : 2019,False,Taulant Xhaka,T Xhaka,single
+810,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Amir Abrashi,1600000.0,False,Used Large Dataset,False,Amir Abrashi,Abrashi,single
+811,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Ermir Lenjani,600000.0,False,working,False,Ermir Lenjani,Lenjani,single
+812,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Sokol Cikalleshi,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sokol Cikalleshi,Cikalleshi,single
+813,792,"Euros 2020, Qualifiers",Iceland vs Albania,08.06.19,Albania,AL,2019,SUCCESS,Bekim Balaj,1000000.0,False,working,False,Bekim Balaj,Balaj,single
+814,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+815,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+816,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Igor Armaş,325000.0,False,working,False,Igor Armaş,Arma,single
+817,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Stefan Efros,0,False,Not in either dataset for currect season but present in both seasons around match,True,Stefan Efros,Efros,single
+818,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Catalin Carp,0,False,Not in either dataset for currect season but present in both seasons around match,True,Catalin Carp,Carp,single
+819,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",275000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+820,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Alexandru Suvorov,250000.0,False,working,False,Alexandru Suvorov,Suvorov,single
+821,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Artur Ioniță,3500000.0,False,working,False,Artur Ioniță,Ioniță,single
+822,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+823,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,FAIL,"['Alexandru Antoniuc', 'Maxim Antoniuc']",0,True,Was in  DB before or after season,True,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+824,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Moldova,MD,2019,FAIL,0,0,True,Lookup Required,False,0,Damașcan,none
+825,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+826,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+827,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+828,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Joan Cervós,50000.0,False,working,False,Joan Cervós,Cervós,single
+829,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+830,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+831,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+832,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+833,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+834,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Jordi Aláez,0.0,False,Large Dataset had 0,False,Jordi Aláez,Alaez,single
+835,793,"Euros 2020, Qualifiers",Moldova vs Andorra,08.06.19,Andorra,AD,2019,SUCCESS,Ludovic Clemente,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ludovic Clemente,Clemente,single
+836,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+837,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+838,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Hasan Ali Kaldırım,1700000.0,False,working,False,Hasan Ali Kaldırım,Ali Kaldrm,single
+839,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+840,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+841,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Dorukhan Toköz,4800000.0,False,Used Large Dataset,False,Dorukhan Toköz,Toköz,single
+842,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Cengiz Ünder,24000000.0,False,Used Large Dataset,False,Cengiz Ünder,Ünder,single
+843,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Mahmut Tekdemir,1400000.0,False,Used Large Dataset,False,Mahmut Tekdemir,Tekdemir,single
+844,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,FAIL,0,0,True,Lookup Required,False,0,Kilinç,none
+845,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Kenan Karaman,2000000.0,False,Used Large Dataset,False,Kenan Karaman,K Karaman,single
+846,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,Turkey,TR,2019,SUCCESS,Burak Yılmaz,1400000.0,False,Used Large Dataset,False,Burak Yılmaz,B Yilmaz,single
+847,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+848,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Benjamin Pavard,28000000.0,False,working,False,Benjamin Pavard,Pavard,single
+849,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+850,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Samuel Umtiti,32000000.0,False,Used Large Dataset,False,Samuel Umtiti,Umtiti,single
+851,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Lucas Digne,28000000.0,False,working,False,Lucas Digne,Digne,single
+852,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Paul Pogba,80000000.0,False,Used Large Dataset,False,Paul Pogba,Pogba,single
+853,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Moussa Sissoko,20000000.0,False,working,False,Moussa Sissoko,M Sissoko,single
+854,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Blaise Matuidi,10500000.0,False,Used Large Dataset,False,Blaise Matuidi,Matuidi,single
+855,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+856,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+857,794,"Euros 2020, Qualifiers",Turkey vs France,08.06.19,France,FR,2019,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+858,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+859,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+860,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Hjörtur Hermannsson,650000.0,False,working,False,Hjörtur Hermannsson,Hermannsson,single
+861,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+862,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+863,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+864,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+865,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+866,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,Emil Hallfredsson,0,False,Not in either dataset for currect season but present in both seasons around match,True,Emil Hallfredsson,E Hallfredsson,single
+867,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",8000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+868,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Iceland,IS,2019,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",950000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+869,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+870,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+871,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Hasan Ali Kaldırım,1700000.0,False,working,False,Hasan Ali Kaldırım,Ali Kaldrm,single
+872,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+873,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+874,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Dorukhan Toköz,4800000.0,False,Used Large Dataset,False,Dorukhan Toköz,Toköz,single
+875,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Ozan Tufan,4500000.0,False,working,False,Ozan Tufan,Tufan,single
+876,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Hakan Çalhanoğlu,14500000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+877,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,İrfan Can Kahveci,7000000.0,False,Used Large Dataset,False,İrfan Can Kahveci,I Kahveci,single
+878,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Kenan Karaman,2000000.0,False,Used Large Dataset,False,Kenan Karaman,K Karaman,single
+879,795,"Euros 2020, Qualifiers",Iceland vs Turkey,11.06.19,Turkey,TR,2019,SUCCESS,Burak Yılmaz,1400000.0,False,Used Large Dataset,False,Burak Yılmaz,B Yilmaz,single
+880,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Etrit Berisha,2400000.0,False,working,False,Etrit Berisha,Et Berisha,single
+881,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+882,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Mergim Mavraj,350000.0,False,Data Ended before season : 2019,False,Mergim Mavraj,Mavraj,single
+883,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+884,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Frédéric Veseli,725000.0,False,working,False,Frédéric Veseli,Veseli,single
+885,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Ermir Lenjani,600000.0,False,working,False,Ermir Lenjani,Lenjani,single
+886,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Ylber Ramadani,300000.0,False,working,False,Ylber Ramadani,Ramadani,single
+887,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Ergys Kaçe,600000.0,False,Data Ended before season : 2019,False,Ergys Kaçe,Kaçe,single
+888,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Amir Abrashi,1600000.0,False,Used Large Dataset,False,Amir Abrashi,Abrashi,single
+889,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Armando Sadiku,0,False,Not in either dataset for currect season but present in both seasons around match,True,Armando Sadiku,A Sadiku,single
+890,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Albania,AL,2019,SUCCESS,Myrto Uzuni,800000.0,False,working,False,Myrto Uzuni,Uzuni,single
+891,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+892,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+893,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Igor Armaş,325000.0,False,working,False,Igor Armaş,Arma,single
+894,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Stefan Efros,0,False,Not in either dataset for currect season but present in both seasons around match,True,Stefan Efros,Efros,single
+895,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Catalin Carp,0,False,Not in either dataset for currect season but present in both seasons around match,True,Catalin Carp,Carp,single
+896,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Eugeniu Cebotaru,0,False,Not in either dataset for currect season but present in both seasons around match,True,Eugeniu Cebotaru,Cebotaru,single
+897,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",275000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+898,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Alexandru Suvorov,250000.0,False,working,False,Alexandru Suvorov,Suvorov,single
+899,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+900,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,FAIL,"['Alexandru Antoniuc', 'Maxim Antoniuc']",0,True,Was in  DB before or after season,True,"['Alexandru Antoniuc', 'Maxim Antoniuc']",Antoniuc,multiple
+901,796,"Euros 2020, Qualifiers",Albania vs Moldova,11.06.19,Moldova,MD,2019,FAIL,0,0,True,Lookup Required,False,0,Damașcan,none
+902,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+903,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+904,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Joan Cervós,50000.0,False,working,False,Joan Cervós,Cervós,single
+905,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+906,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+907,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+908,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+909,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+910,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Jordi Aláez,0.0,False,Large Dataset had 0,False,Jordi Aláez,Alaez,single
+911,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Sebastián Gómez,175000.0,False,working,False,Sebastián Gómez,Seb Gómez,single
+912,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,Andorra,AD,2019,SUCCESS,Alex Martínez,50000.0,False,working,False,Alex Martínez,Alex Martínez,single
+913,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+914,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Kurt Zouma,28000000.0,False,working,False,Kurt Zouma,Zouma,single
+915,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Léo Dubois,12000000.0,False,working,False,Léo Dubois,Dubois,single
+916,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Clément Lenglet,48000000.0,False,working,False,Clément Lenglet,Lenglet,single
+917,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Ferland Mendy,32000000.0,False,Used Large Dataset,False,Ferland Mendy,Fe Mendy,single
+918,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Paul Pogba,80000000.0,False,Used Large Dataset,False,Paul Pogba,Pogba,single
+919,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Tanguy Ndombélé,52000000.0,False,working,False,Tanguy Ndombélé,Ndombélé,single
+920,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Wissam Ben Yedder,40000000.0,False,working,False,Wissam Ben Yedder,Ben Yedder,single
+921,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+922,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+923,797,"Euros 2020, Qualifiers",Andorra vs France,11.06.19,France,FR,2019,SUCCESS,Florian Thauvin,32000000.0,False,Used Large Dataset,False,Florian Thauvin,Thauvin,single
+924,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+925,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Hjörtur Hermannsson,650000.0,False,working,False,Hjörtur Hermannsson,Hermannsson,single
+926,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+927,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Arnór Ingvi Traustason,1000000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+928,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+929,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+930,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+931,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+932,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+933,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,"['Kolbeinn Sigthórsson', 'Victor Pálsson']",650000.0,False,working,False,"['Kolbeinn Sigthórsson', 'Victor Pálsson']",Sigthorsson,multiple
+934,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Iceland,IS,2019,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",950000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+935,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+936,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+937,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Igor Armaş,325000.0,False,working,False,Igor Armaş,Arma,single
+938,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Victor Mudrac,0,False,Not in either dataset for currect season but present in both seasons around match,True,Victor Mudrac,Mudrac,single
+939,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Dinu Graur,325000.0,False,working,False,Dinu Graur,Graur,single
+940,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Catalin Carp,0,False,Not in either dataset for currect season but present in both seasons around match,True,Catalin Carp,Carp,single
+941,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Eugeniu Cebotaru,0,False,Not in either dataset for currect season but present in both seasons around match,True,Eugeniu Cebotaru,Cebotaru,single
+942,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Alexandru Suvorov,250000.0,False,working,False,Alexandru Suvorov,Suvorov,single
+943,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Artur Ioniță,3500000.0,False,working,False,Artur Ioniță,Ioniță,single
+944,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+945,798,"Euros 2020, Qualifiers",Iceland vs Moldova,07.09.19,Moldova,MD,2019,SUCCESS,Vadim Cemirtan,200000.0,False,Data Ended before season : 2019,False,Vadim Cemirtan,Cemîrtan,single
+946,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+947,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Benjamin Pavard,28000000.0,False,working,False,Benjamin Pavard,Pavard,single
+948,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+949,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Clément Lenglet,48000000.0,False,working,False,Clément Lenglet,Lenglet,single
+950,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Lucas Hernández,56000000.0,False,Used Large Dataset,False,Lucas Hernández,Lucas Hernandez,single
+951,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Thomas Lemar,24000000.0,False,working,False,Thomas Lemar,Lemar,single
+952,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Kingsley Coman,40000000.0,False,working,False,Kingsley Coman,Coman,single
+953,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Corentin Tolisso,25500000.0,False,working,False,Corentin Tolisso,Tolisso,single
+954,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Blaise Matuidi,10500000.0,False,Used Large Dataset,False,Blaise Matuidi,Matuidi,single
+955,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+956,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+957,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Thomas Strakosha,20000000.0,False,working,False,Thomas Strakosha,Strakosha,single
+958,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+959,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Mergim Mavraj,350000.0,False,Data Ended before season : 2019,False,Mergim Mavraj,Mavraj,single
+960,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+961,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Berat Djimsiti,12000000.0,False,working,False,Berat Djimsiti,Djimsiti,single
+962,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Ylber Ramadani,300000.0,False,working,False,Ylber Ramadani,Ramadani,single
+963,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Keidi Bare,1200000.0,False,working,False,Keidi Bare,Bare,single
+964,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Odise Roshi,950000.0,False,working,False,Odise Roshi,Roshi,single
+965,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Amir Abrashi,1600000.0,False,Used Large Dataset,False,Amir Abrashi,Abrashi,single
+966,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Myrto Uzuni,800000.0,False,working,False,Myrto Uzuni,Uzuni,single
+967,799,"Euros 2020, Qualifiers",France vs Albania,07.09.19,Albania,AL,2019,SUCCESS,Bekim Balaj,1000000.0,False,working,False,Bekim Balaj,Balaj,single
+968,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+969,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+970,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Çağlar Söyüncü,32000000.0,False,Used Large Dataset,False,Çağlar Söyüncü,Soyuncu,single
+971,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+972,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Umut Meraş,800000.0,False,working,False,Umut Meraş,Mera,single
+973,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Hakan Çalhanoğlu,14500000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+974,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,FAIL,0,0,True,Lookup Required,False,0,Yazc,none
+975,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,İrfan Can Kahveci,7000000.0,False,Used Large Dataset,False,İrfan Can Kahveci,I Kahveci,single
+976,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Emre Belözoğlu,400000.0,False,working,False,Emre Belözoğlu,Belözoglu,single
+977,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Güven Yalçın,3200000.0,False,working,False,Güven Yalçın,G Yalçn,single
+978,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Turkey,TR,2019,SUCCESS,Cenk Tosun,12000000.0,False,Used Large Dataset,False,Cenk Tosun,Tosun,single
+979,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+980,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+981,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+982,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Joan Cervós,50000.0,False,working,False,Joan Cervós,Cervós,single
+983,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+984,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+985,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+986,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+987,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,FAIL,0,0,True,not done yet,False,0,22. Родригес В.,cyrillic
+988,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+989,800,"Euros 2020, Qualifiers",Turkey vs Andorra,07.09.19,Andorra,AD,2019,SUCCESS,Ludovic Clemente,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ludovic Clemente,Clemente,single
+990,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Hugo Lloris,14500000.0,False,Used Large Dataset,False,Hugo Lloris,Lloris,single
+991,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Lucas Digne,28000000.0,False,working,False,Lucas Digne,Digne,single
+992,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+993,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Léo Dubois,12000000.0,False,working,False,Léo Dubois,Dubois,single
+994,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Clément Lenglet,48000000.0,False,working,False,Clément Lenglet,Lenglet,single
+995,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Kingsley Coman,40000000.0,False,working,False,Kingsley Coman,Coman,single
+996,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Moussa Sissoko,20000000.0,False,working,False,Moussa Sissoko,M Sissoko,single
+997,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Corentin Tolisso,25500000.0,False,working,False,Corentin Tolisso,Tolisso,single
+998,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Jonathan Ikoné,36000000.0,False,Used Large Dataset,False,Jonathan Ikoné,Ikoné,single
+999,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1000,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+1001,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Josep Gomes,75000.0,False,working,False,Josep Gomes,Josep Gomes,single
+1002,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Ildefons Lima,75000.0,False,working,False,Ildefons Lima,I Lima,single
+1003,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Luigi San Nicolas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luigi San Nicolas,San Nicolas,single
+1004,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Joan Cervós,50000.0,False,working,False,Joan Cervós,Cervós,single
+1005,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,"['Jordi Rubio', 'Jesús Rubio']",100000.0,False,working,False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+1006,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+1007,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,"['Marc Vales', 'Eric Vales']",200000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+1008,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Marc Rebés,100000.0,False,working,False,Marc Rebés,Rebés,single
+1009,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+1010,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Cristian Martínez,0.0,False,Large Dataset had 0,False,Cristian Martínez,C Martínez,single
+1011,801,"Euros 2020, Qualifiers",France vs Andorra,10.09.19,Andorra,AD,2019,SUCCESS,Ludovic Clemente,0,False,Not in either dataset for currect season but present in both seasons around match,True,Ludovic Clemente,Clemente,single
+1012,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Thomas Strakosha,20000000.0,False,working,False,Thomas Strakosha,Strakosha,single
+1013,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Elseid Hysaj,13000000.0,False,working,False,Elseid Hysaj,Hysaj,single
+1014,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Kastriot Dermaku,800000.0,False,working,False,Kastriot Dermaku,Dermaku,single
+1015,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+1016,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Berat Djimsiti,12000000.0,False,working,False,Berat Djimsiti,Djimsiti,single
+1017,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Ermir Lenjani,600000.0,False,working,False,Ermir Lenjani,Lenjani,single
+1018,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Keidi Bare,1200000.0,False,working,False,Keidi Bare,Bare,single
+1019,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,"['Jürgen Gjasula', 'Klaus Gjasula']",725000.0,False,working,False,"['Jürgen Gjasula', 'Klaus Gjasula']",Gjasula,multiple
+1020,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Ledian Memushaj,650000.0,False,working,False,Ledian Memushaj,Memushaj,single
+1021,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Rey Manaj,725000.0,False,working,False,Rey Manaj,Manaj,single
+1022,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Albania,AL,2019,SUCCESS,Sokol Cikalleshi,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sokol Cikalleshi,Cikalleshi,single
+1023,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+1024,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Hjörtur Hermannsson,650000.0,False,working,False,Hjörtur Hermannsson,Hermannsson,single
+1025,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+1026,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+1027,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+1028,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+1029,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+1030,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",800000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+1031,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Aron Gunnarsson,1700000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+1032,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,Emil Hallfredsson,0,False,Not in either dataset for currect season but present in both seasons around match,True,Emil Hallfredsson,E Hallfredsson,single
+1033,802,"Euros 2020, Qualifiers",Albania vs Iceland,10.09.19,Iceland,IS,2019,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",950000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+1034,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Alexei Koselev,0,False,Not in either dataset for currect season but present in both seasons around match,True,Alexei Koselev,Koselev,single
+1035,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Oleg Reabciuk,800000.0,False,Used Large Dataset,False,Oleg Reabciuk,Reabciuk,single
+1036,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Victor Mudrac,0,False,Not in either dataset for currect season but present in both seasons around match,True,Victor Mudrac,Mudrac,single
+1037,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Dinu Graur,325000.0,False,working,False,Dinu Graur,Graur,single
+1038,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Stefan Efros,0,False,Not in either dataset for currect season but present in both seasons around match,True,Stefan Efros,Efros,single
+1039,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Eugeniu Cebotaru,0,False,Not in either dataset for currect season but present in both seasons around match,True,Eugeniu Cebotaru,Cebotaru,single
+1040,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,FAIL,"['Mihai Turcan', 'Iaser Turcan']",0,True,Online Lookup Required,False,"['Mihai Turcan', 'Iaser Turcan']",urcan,multiple
+1041,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Alexandru Suvorov,250000.0,False,working,False,Alexandru Suvorov,Suvorov,single
+1042,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Constantin Sandu,200000.0,False,Data Ended before season : 2019,False,Constantin Sandu,Sandu,single
+1043,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Artur Ioniță,3500000.0,False,working,False,Artur Ioniță,Ioniță,single
+1044,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Moldova,MD,2019,SUCCESS,Radu Ginsari,475000.0,False,working,False,Radu Ginsari,Gînsari,single
+1045,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+1046,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+1047,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+1048,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+1049,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Umut Meraş,800000.0,False,working,False,Umut Meraş,Mera,single
+1050,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Dorukhan Toköz,4800000.0,False,Used Large Dataset,False,Dorukhan Toköz,Toköz,single
+1051,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Ozan Tufan,4500000.0,False,working,False,Ozan Tufan,Tufan,single
+1052,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,İrfan Can Kahveci,7000000.0,False,Used Large Dataset,False,İrfan Can Kahveci,I Kahveci,single
+1053,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Deniz Türüç,2800000.0,False,working,False,Deniz Türüç,D Türüç,single
+1054,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Kenan Karaman,2000000.0,False,Used Large Dataset,False,Kenan Karaman,K Karaman,single
+1055,803,"Euros 2020, Qualifiers",Moldova vs Turkey,10.09.19,Turkey,TR,2019,SUCCESS,Cenk Tosun,12000000.0,False,Used Large Dataset,False,Cenk Tosun,Tosun,single
+1056,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",175000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+1057,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,Ragnar Sigurdsson,2200000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+1058,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,Arnór Ingvi Traustason,1000000.0,False,working,False,Arnór Ingvi Traustason,Traustason,single
+1059,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,Ari Freyr Skúlason,400000.0,False,working,False,Ari Freyr Skúlason,A Skulason,single
+1060,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,FAIL,Emil Pálsson,0,True,Online Lookup Required,False,Emil Pálsson,Palsson,single
+1061,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",800000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+1062,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,Gylfi Sigurdsson,22500000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+1063,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",1700000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+1064,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",800000.0,False,working,False,"['Rúnar Már Sigurjónsson', 'Oliver Sigurjónsson']",Sigurjónsson,multiple
+1065,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",8000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+1066,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,Iceland,IS,2019,SUCCESS,"['Kolbeinn Sigthórsson', 'Victor Pálsson']",650000.0,False,working,False,"['Kolbeinn Sigthórsson', 'Victor Pálsson']",Sigthorsson,multiple
+1067,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Steve Mandanda,2400000.0,False,working,False,Steve Mandanda,Mandanda,single
+1068,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Benjamin Pavard,28000000.0,False,working,False,Benjamin Pavard,Pavard,single
+1069,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Raphaël Varane,64000000.0,False,working,False,Raphaël Varane,Varane,single
+1070,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Clément Lenglet,48000000.0,False,working,False,Clément Lenglet,Lenglet,single
+1071,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Lucas Digne,28000000.0,False,working,False,Lucas Digne,Digne,single
+1072,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Kingsley Coman,40000000.0,False,working,False,Kingsley Coman,Coman,single
+1073,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,N'Golo Kanté,80000000.0,False,working,False,N'Golo Kanté,N Kante,single
+1074,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Corentin Tolisso,25500000.0,False,working,False,Corentin Tolisso,Tolisso,single
+1075,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Blaise Matuidi,10500000.0,False,Used Large Dataset,False,Blaise Matuidi,Matuidi,single
+1076,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Antoine Griezmann,96000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+1077,804,"Euros 2020, Qualifiers",Iceland vs France,11.10.19,France,FR,2019,SUCCESS,Olivier Giroud,7000000.0,False,working,False,Olivier Giroud,Giroud,single
+1078,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Mert Günok,4000000.0,False,Used Large Dataset,False,Mert Günok,Günok,single
+1079,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Zeki Çelik,16000000.0,False,working,False,Zeki Çelik,Çelik,single
+1080,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,FAIL,"['Kaan Ayhan', 'Yalçın Ayhan']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, ORIGINAL NAME WAS 22. Ayhan",False,"['Kaan Ayhan', 'Yalçın Ayhan']",Ayhan,multiple
+1081,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Merih Demiral,27000000.0,False,working,False,Merih Demiral,Demiral,single
+1082,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Umut Meraş,800000.0,False,working,False,Umut Meraş,Mera,single
+1083,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Ozan Tufan,4500000.0,False,working,False,Ozan Tufan,Tufan,single
+1084,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Hakan Çalhanoğlu,14500000.0,False,working,False,Hakan Çalhanoğlu,Çalhanoğlu,single
+1085,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Mahmut Tekdemir,1400000.0,False,Used Large Dataset,False,Mahmut Tekdemir,Tekdemir,single
+1086,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Emre Belözoğlu,400000.0,False,working,False,Emre Belözoğlu,Belözoglu,single
+1087,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Burak Yılmaz,1400000.0,False,Used Large Dataset,False,Burak Yılmaz,B Yilmaz,single
+1088,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Turkey,TR,2019,SUCCESS,Cenk Tosun,12000000.0,False,Used Large Dataset,False,Cenk Tosun,Tosun,single
+1089,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Thomas Strakosha,20000000.0,False,working,False,Thomas Strakosha,Strakosha,single
+1090,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Kastriot Dermaku,800000.0,False,working,False,Kastriot Dermaku,Dermaku,single
+1091,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Ardian Ismajli,800000.0,False,working,False,Ardian Ismajli,Ismajli,single
+1092,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Frédéric Veseli,725000.0,False,working,False,Frédéric Veseli,Veseli,single
+1093,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Berat Djimsiti,12000000.0,False,working,False,Berat Djimsiti,Djimsiti,single
+1094,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Ermir Lenjani,600000.0,False,working,False,Ermir Lenjani,Lenjani,single
+1095,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Keidi Bare,1200000.0,False,working,False,Keidi Bare,Bare,single
+1096,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,"['Jürgen Gjasula', 'Klaus Gjasula']",725000.0,False,working,False,"['Jürgen Gjasula', 'Klaus Gjasula']",Gjasula,multiple
+1097,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Ledian Memushaj,650000.0,False,working,False,Ledian Memushaj,Memushaj,single
+1098,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Rey Manaj,725000.0,False,working,False,Rey Manaj,Manaj,single
+1099,805,"Euros 2020, Qualifiers",Turkey vs Albania,11.10.19,Albania,AL,2019,SUCCESS,Sokol Cikalleshi,0,False,Not in either dataset for currect season but present in both seasons around match,True,Sokol Cikalleshi,Cikalleshi,single

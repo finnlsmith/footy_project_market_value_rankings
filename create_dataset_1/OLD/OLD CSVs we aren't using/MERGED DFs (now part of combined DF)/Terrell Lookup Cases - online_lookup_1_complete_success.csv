@@ -1,0 +1,706 @@
+,Unnamed: 0,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case,Status New
+0,1,2687,"World Cup Qualifiers, Asia, 2022",Japan vs Vietnam,29-03-2022,Vietnam,VN,2022,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+1,2,2687,"World Cup Qualifiers, Asia, 2022",Japan vs Vietnam,29-03-2022,Vietnam,VN,2022,SUCCESS,Minh Tuan Ha,300000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+2,5,2692,"World Cup Qualifiers, Asia, 2022",Iran vs Iraq,15-06-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+3,6,2698,"World Cup Qualifiers, Asia, 2022",Oman vs Vietnam,12-10-2021,Oman,OM,2021,SUCCESS,Mohsin Al Harbi,200000,FALSE,Found in Curr Season,FALSE,Mohsin Jouhar,Mohsin Al Khaldi,single,Done
+4,7,2698,"World Cup Qualifiers, Asia, 2022",Oman vs Vietnam,12-10-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+5,8,2698,"World Cup Qualifiers, Asia, 2022",Oman vs Vietnam,12-10-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+6,10,2699,"World Cup Qualifiers, Asia, 2022",Kuwait vs Nepal,05-09-2019,Kuwait,KW,2019,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+7,11,2702,"World Cup Qualifiers, Asia, 2022",Vietnam vs United Arab Emirates,14-11-2019,Vietnam,VN,2019,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+8,12,2702,"World Cup Qualifiers, Asia, 2022",Vietnam vs United Arab Emirates,14-11-2019,Vietnam,VN,2019,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+9,14,2704,"World Cup Qualifiers, Asia, 2022",Vietnam vs Thailand,19-11-2019,Vietnam,VN,2019,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+10,15,2704,"World Cup Qualifiers, Asia, 2022",Vietnam vs Thailand,19-11-2019,Vietnam,VN,2019,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+11,19,2709,"World Cup Qualifiers, Asia, 2026",Myanmar vs North Korea,21-11-2023,North Korea,KP,2023,SUCCESS,Kum-Il Song,100000,FALSE,Found in Curr Season,FALSE,Yu-song Kim,Kim Yu-Song,single,Done
+12,23,2711,"World Cup Qualifiers, Asia, 2026",Oman vs Chinese Taipei,16-11-2023,Oman,OM,2023,SUCCESS,Mohamed Al-Maashari,180000,FALSE,Only Before,FALSE,Mohamed Ramadhan,Mohamed Al Amri,single,Done
+13,24,2711,"World Cup Qualifiers, Asia, 2026",Oman vs Chinese Taipei,16-11-2023,Chinese Taipei,TW,2023,SUCCESS,Cheng Chou,100000,FALSE,Found in Curr Season,FALSE,Chao-An Chen,Chen Chao-an,single,Done
+14,25,2716,"World Cup Qualifiers, Asia, 2026",Philippines vs Vietnam,16-11-2023,Vietnam,VN,2023,SUCCESS,Cong Vinh Le,300000,FALSE,Only Before,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+15,26,2716,"World Cup Qualifiers, Asia, 2026",Philippines vs Vietnam,16-11-2023,Vietnam,VN,2023,SUCCESS,Minh Tuan Ha,400000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+16,29,2718,"World Cup Qualifiers, Asia, 2026",Syria vs North Korea,16-11-2023,North Korea,KP,2023,SUCCESS,Kum-Il Song,100000,FALSE,Found in Curr Season,FALSE,Yu-song Kim,Kim Yu-Song,single,Done
+17,32,2719,"World Cup Qualifiers, Asia, 2026",Bhutan vs Hong Kong,17-10-2023,Hong Kong,HK,2023,SUCCESS,Kong-Wai Lo,250000,FALSE,Found in Curr Season,FALSE,Wai Wong,Wong Wai,single,Done
+18,33,2720,"World Cup Qualifiers, Asia, 2026",Hong Kong vs Bhutan,12-10-2023,Hong Kong,HK,2023,SUCCESS,Kong-Wai Lo,250000,FALSE,Found in Curr Season,FALSE,Wai Wong,Wong Wai,single,Done
+19,34,2721,"World Cup Qualifiers, Asia, 2026",Mongolia vs Afghanistan,17-10-2023,Mongolia,MN,2023,SUCCESS,Temuulen Dugeree,0,FALSE,Only Before + Zero Before,FALSE,Temulen Uuganbat,U Temuulen,single,Done
+20,42,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq,21-11-2023,Vietnam,VN,2023,SUCCESS,Cong Vinh Le,300000,FALSE,Only Before,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+21,43,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq,21-11-2023,Vietnam,VN,2023,SUCCESS,Thanh Hien Nguyen,360000,FALSE,Only Before,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+22,44,2724,"World Cup Qualifiers, Asia, 2026",Vietnam vs Iraq,21-11-2023,Vietnam,VN,2023,SUCCESS,Minh Tuan Ha,400000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+23,46,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Máximo Banguera,0,FALSE,Only After + Zero After,FALSE,Máximo Banguera,Banguera,single,Done
+24,47,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Juan Carlos Paredes,350000,FALSE,Found in Curr Season,FALSE,Juan Carlos Paredes,Paredes,single,Done
+25,48,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Jairo Campos,800000,FALSE,Found in Curr Season,FALSE,Jairo Campos,Campos,single,Done
+26,49,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Frickson Erazo,1000000,FALSE,Found in Curr Season,FALSE,Frickson Erazo,Erazo,single,Done
+27,50,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Luis Saritama,600000,FALSE,Found in Curr Season,FALSE,Luis Saritama,Saritama,single,Done
+28,51,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Ecuador,EC,2011,SUCCESS,Christian Noboa,8000000,FALSE,Found in Curr Season,FALSE,Christian Noboa,Noboa,single,Done
+29,52,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Venezuela,VE,2011,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+30,53,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Venezuela,VE,2011,SUCCESS,Sema Velázquez,400000,FALSE,Found in Curr Season,FALSE,Sema Velázquez,Velásquez,single,Done
+31,54,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Venezuela,VE,2011,SUCCESS,Luis Manuel Seijas,1500000,FALSE,Found in Curr Season,FALSE,Luis Manuel Seijas,Seijas,single,Done
+32,55,4200,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Venezuela,07-Oct-11,Venezuela,VE,2011,SUCCESS,Fernando Aristeguieta,800000,FALSE,Only After,FALSE,Fernando Aristeguieta,Aristeguieta,single,Done
+33,56,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Fernando Muslera,13000000,FALSE,Found in Curr Season,FALSE,Fernando Muslera,Muslera,single,Done
+34,57,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Godín,12000000,FALSE,Found in Curr Season,FALSE,Diego Godín,Godín,single,Done
+35,58,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Lugano,5000000,FALSE,Found in Curr Season,FALSE,Diego Lugano,Lugano,single,Done
+36,59,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Pérez,2500000,FALSE,Found in Curr Season,FALSE,Diego Pérez,Pérez,single,Done
+37,60,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Egidio Arévalo Ríos,2000000,FALSE,Found in Curr Season,FALSE,Egidio Arévalo Ríos,Arévalo,single,Done
+38,61,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Edinson Cavani,35000000,FALSE,Found in Curr Season,FALSE,Edinson Cavani,Cavani,single,Done
+39,62,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Forlán,3500000,FALSE,Found in Curr Season,FALSE,Diego Forlán,Forlan,single,Done
+40,63,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Bolivia,BO,2011,SUCCESS,Ronald Raldes,1000000,FALSE,Found in Curr Season,FALSE,Ronald Raldes,Raldes,single,Done
+41,64,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Bolivia,BO,2011,SUCCESS,Rudy Cardozo,0,FALSE,Only After + Zero After,FALSE,Rudy Cardozo,Cardozo,single,Done
+42,65,4201,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Bolivia,07-Oct-11,Bolivia,BO,2011,SUCCESS,Marcelo Moreno,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Moreno,M Moreno,single,Done
+43,66,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Mariano Andújar,4000000,FALSE,Found in Curr Season,FALSE,Mariano Andújar,Andújar,single,Done
+44,67,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Pablo Zabaleta,14500000,FALSE,Found in Curr Season,FALSE,Pablo Zabaleta,Zabaleta,single,Done
+45,68,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Nicolás Otamendi,9500000,FALSE,Found in Curr Season,FALSE,Nicolás Otamendi,Otamendi,single,Done
+46,69,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Marcos Rojo,2000000,FALSE,Found in Curr Season,FALSE,Marcos Rojo,Rojo,single,Done
+47,70,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,José Sosa,5500000,FALSE,Found in Curr Season,FALSE,José Sosa,Sosa,single,Done
+48,71,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Éver Banega,13000000,FALSE,Found in Curr Season,FALSE,Éver Banega,Banega,single,Done
+49,72,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Lionel Messi,100000000,FALSE,Found in Curr Season,FALSE,Lionel Messi,Messi,single,Done
+50,73,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Argentina,AR,2011,SUCCESS,Gonzalo Higuaín,35000000,FALSE,Found in Curr Season,FALSE,Gonzalo Higuaín,Higuaín,single,Done
+51,74,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Arturo Vidal,24000000,FALSE,Found in Curr Season,FALSE,Arturo Vidal,Vidal,single,Done
+52,75,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Mauricio Isla,14000000,FALSE,Found in Curr Season,FALSE,Mauricio Isla,Isla,single,Done
+53,76,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Carlos Carmona,2000000,FALSE,Found in Curr Season,FALSE,Carlos Carmona,Carmona,single,Done
+54,77,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Jean Beausejour,6000000,FALSE,Found in Curr Season,FALSE,Jean Beausejour,Beausejour,single,Done
+55,78,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Jorge Valdivia,2500000,FALSE,Found in Curr Season,FALSE,Jorge Valdivia,Valdivia,single,Done
+56,79,4202,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Chile,07-Oct-11,Chile,CL,2011,SUCCESS,Mauricio Pinilla,4000000,FALSE,Found in Curr Season,FALSE,Mauricio Pinilla,Pinilla,single,Done
+57,81,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Raúl Fernández,900000,FALSE,Found in Curr Season,FALSE,Raúl Fernández,Fernández,single,Done
+58,82,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Santiago Acasiete,600000,FALSE,Found in Curr Season,FALSE,Santiago Acasiete,Acasiete,single,Done
+59,83,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Yoshimar Yotún,150000,FALSE,Found in Curr Season,FALSE,Yoshimar Yotún,Yotún,single,Done
+60,84,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Adán Balbín,200000,FALSE,Found in Curr Season,FALSE,Adán Balbín,Balbín,single,Done
+61,85,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Juan Manuel Vargas,9000000,FALSE,Found in Curr Season,FALSE,Juan Manuel Vargas,Vargas,single,Done
+62,86,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Jefferson Farfán,18000000,FALSE,Found in Curr Season,FALSE,Jefferson Farfán,Farfán,single,Done
+63,87,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Rinaldo Cruzado,1000000,FALSE,Found in Curr Season,FALSE,Rinaldo Cruzado,Cruzado,single,Done
+64,88,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Claudio Pizarro,5000000,FALSE,Found in Curr Season,FALSE,Claudio Pizarro,Pizarro,single,Done
+65,89,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Peru,PE,2011,SUCCESS,Paolo Guerrero,6000000,FALSE,Found in Curr Season,FALSE,Paolo Guerrero,Guerrero,single,Done
+66,90,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+67,91,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Iván Piris,2000000,FALSE,Found in Curr Season,FALSE,Iván Piris,Piris,single,Done
+68,92,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Darío Verón,2000000,FALSE,Found in Curr Season,FALSE,Darío Verón,Verón,single,Done
+69,94,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+70,95,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Marcelo Estigarribia,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Estigarribia,Estigarribia,single,Done
+71,97,4203,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Paraguay,07-Oct-11,Paraguay,PY,2011,SUCCESS,Roque Santa Cruz,4000000,FALSE,Found in Curr Season,FALSE,Roque Santa Cruz,S Cruz,single,Done
+72,98,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Bolivia,BO,2011,SUCCESS,Ronald Raldes,1000000,FALSE,Found in Curr Season,FALSE,Ronald Raldes,Raldes,single,Done
+73,99,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Bolivia,BO,2011,SUCCESS,Rudy Cardozo,0,FALSE,Only After + Zero After,FALSE,Rudy Cardozo,Cardozo,single,Done
+74,100,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Bolivia,BO,2011,SUCCESS,Juan Carlos Arce,500000,FALSE,Found in Curr Season,FALSE,Juan Carlos Arce,Arce,single,Done
+75,101,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Bolivia,BO,2011,SUCCESS,Pablo Escobar,0,FALSE,Both Empty,FALSE,Pablo Escobar,Escobar,single,Done
+76,102,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Bolivia,BO,2011,SUCCESS,Marcelo Moreno,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Moreno,M Moreno,single,Done
+77,103,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,David Ospina,6500000,FALSE,Found in Curr Season,FALSE,David Ospina,Ospina,single,Done
+78,104,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,Camilo Zúñiga,6000000,FALSE,Found in Curr Season,FALSE,Camilo Zúñiga,Zúñiga,single,Done
+79,105,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,Luis Amaranto Perea,1500000,FALSE,Found in Curr Season,FALSE,Luis Amaranto Perea,Perea,single,Done
+80,106,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,Pablo Armero,10500000,FALSE,Found in Curr Season,FALSE,Pablo Armero,Armero,single,Done
+81,107,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,Fredy Guarín,12000000,FALSE,Found in Curr Season,FALSE,Fredy Guarín,Guarín,single,Done
+82,108,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,James Rodríguez,13000000,FALSE,Found in Curr Season,FALSE,James Rodríguez,James,single,Done
+83,109,4204,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Colombia,11-Oct-11,Colombia,CO,2011,SUCCESS,Teófilo Gutiérrez,2500000,FALSE,Found in Curr Season,FALSE,Teófilo Gutiérrez,Gutiérrez,single,Done
+84,110,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+85,111,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Paraguay,PY,2011,SUCCESS,Darío Verón,2000000,FALSE,Found in Curr Season,FALSE,Darío Verón,Verón,single,Done
+86,112,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+87,113,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Paraguay,PY,2011,SUCCESS,Marcelo Estigarribia,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Estigarribia,Estigarribia,single,Done
+88,114,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Fernando Muslera,13000000,FALSE,Found in Curr Season,FALSE,Fernando Muslera,Muslera,single,Done
+89,115,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Lugano,5000000,FALSE,Found in Curr Season,FALSE,Diego Lugano,Lugano,single,Done
+90,116,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Godín,12000000,FALSE,Found in Curr Season,FALSE,Diego Godín,Godín,single,Done
+91,117,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Edinson Cavani,35000000,FALSE,Found in Curr Season,FALSE,Edinson Cavani,Cavani,single,Done
+92,118,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Pérez,2500000,FALSE,Found in Curr Season,FALSE,Diego Pérez,Pérez,single,Done
+93,119,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Egidio Arévalo Ríos,2000000,FALSE,Found in Curr Season,FALSE,Egidio Arévalo Ríos,Arévalo,single,Done
+94,120,4205,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Uruguay,11-Oct-11,Uruguay,UY,2011,SUCCESS,Diego Forlán,3500000,FALSE,Found in Curr Season,FALSE,Diego Forlán,Forlan,single,Done
+95,121,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Chile,CL,2011,SUCCESS,Mauricio Isla,14000000,FALSE,Found in Curr Season,FALSE,Mauricio Isla,Isla,single,Done
+96,122,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Chile,CL,2011,SUCCESS,Arturo Vidal,24000000,FALSE,Found in Curr Season,FALSE,Arturo Vidal,Vidal,single,Done
+97,123,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Chile,CL,2011,SUCCESS,Jean Beausejour,6000000,FALSE,Found in Curr Season,FALSE,Jean Beausejour,Beausejour,single,Done
+98,124,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Chile,CL,2011,SUCCESS,Jorge Valdivia,2500000,FALSE,Found in Curr Season,FALSE,Jorge Valdivia,Valdivia,single,Done
+99,126,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Raúl Fernández,900000,FALSE,Found in Curr Season,FALSE,Raúl Fernández,Fernández,single,Done
+100,127,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Renzo Revoredo,400000,FALSE,Found in Curr Season,FALSE,Renzo Revoredo,Revoredo,single,Done
+101,128,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Santiago Acasiete,600000,FALSE,Found in Curr Season,FALSE,Santiago Acasiete,Acasiete,single,Done
+102,129,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Yoshimar Yotún,150000,FALSE,Found in Curr Season,FALSE,Yoshimar Yotún,Yotún,single,Done
+103,130,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Jefferson Farfán,18000000,FALSE,Found in Curr Season,FALSE,Jefferson Farfán,Farfán,single,Done
+104,131,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Rinaldo Cruzado,1000000,FALSE,Found in Curr Season,FALSE,Rinaldo Cruzado,Cruzado,single,Done
+105,132,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Adán Balbín,200000,FALSE,Found in Curr Season,FALSE,Adán Balbín,Balbín,single,Done
+106,133,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Juan Manuel Vargas,9000000,FALSE,Found in Curr Season,FALSE,Juan Manuel Vargas,Vargas,single,Done
+107,134,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Claudio Pizarro,5000000,FALSE,Found in Curr Season,FALSE,Claudio Pizarro,Pizarro,single,Done
+108,135,4206,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-11,Peru,PE,2011,SUCCESS,Paolo Guerrero,6000000,FALSE,Found in Curr Season,FALSE,Paolo Guerrero,Guerrero,single,Done
+109,136,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+110,137,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Roberto Rosales,3500000,FALSE,Found in Curr Season,FALSE,Roberto Rosales,Rosales,single,Done
+111,138,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Oswaldo Vizcarrondo,800000,FALSE,Found in Curr Season,FALSE,Oswaldo Vizcarrondo,Vizcarrondo,single,Done
+112,139,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Fernando Amorebieta,9000000,FALSE,Found in Curr Season,FALSE,Fernando Amorebieta,Amorebieta,single,Done
+113,140,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Gabriel Cichero,600000,FALSE,Found in Curr Season,FALSE,Gabriel Cichero,Cichero,single,Done
+114,141,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Tomás Rincón,4000000,FALSE,Found in Curr Season,FALSE,Tomás Rincón,Rincón,single,Done
+115,142,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Juan Arango,3500000,FALSE,Found in Curr Season,FALSE,Juan Arango,Arango,single,Done
+116,143,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Venezuela,VE,2011,SUCCESS,Miku Fedor,4000000,FALSE,Found in Curr Season,FALSE,Miku,Miku,single,Done
+117,144,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Mariano Andújar,4000000,FALSE,Found in Curr Season,FALSE,Mariano Andújar,Andújar,single,Done
+118,145,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Martín Demichelis,3500000,FALSE,Found in Curr Season,FALSE,Martín Demichelis,Demichelis,single,Done
+119,146,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Nicolás Otamendi,9500000,FALSE,Found in Curr Season,FALSE,Nicolás Otamendi,Otamendi,single,Done
+120,147,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Pablo Zabaleta,14500000,FALSE,Found in Curr Season,FALSE,Pablo Zabaleta,Zabaleta,single,Done
+121,148,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Javier Mascherano,30000000,FALSE,Found in Curr Season,FALSE,Javier Mascherano,Mascherano,single,Done
+122,149,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Mariano Andújar,30000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+123,150,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Marcos Rojo,2000000,FALSE,Found in Curr Season,FALSE,Marcos Rojo,Rojo,single,Done
+124,151,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,José Sosa,5500000,FALSE,Found in Curr Season,FALSE,José Sosa,Sosa,single,Done
+125,152,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Lionel Messi,100000000,FALSE,Found in Curr Season,FALSE,Lionel Messi,Messi,single,Done
+126,153,4207,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Argentina,11-Oct-11,Argentina,AR,2011,SUCCESS,Gonzalo Higuaín,35000000,FALSE,Found in Curr Season,FALSE,Gonzalo Higuaín,Higuaín,single,Done
+127,154,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Pablo Zabaleta,14500000,FALSE,Found in Curr Season,FALSE,Pablo Zabaleta,Zabaleta,single,Done
+128,155,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Martín Demichelis,3500000,FALSE,Found in Curr Season,FALSE,Martín Demichelis,Demichelis,single,Done
+129,156,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Clemente Rodríguez,2000000,FALSE,Found in Curr Season,FALSE,Clemente Rodríguez,Clemente,single,Done
+130,157,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Fernando Gago,6500000,FALSE,Found in Curr Season,FALSE,Fernando Gago,Gago,single,Done
+131,158,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Javier Mascherano,30000000,FALSE,Found in Curr Season,FALSE,Javier Mascherano,Mascherano,single,Done
+132,159,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Lionel Messi,100000000,FALSE,Found in Curr Season,FALSE,Lionel Messi,Messi,single,Done
+133,160,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Javier Pastore,29000000,FALSE,Found in Curr Season,FALSE,Javier Pastore,Pastore,single,Done
+134,161,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Argentina,AR,2011,SUCCESS,Gonzalo Higuaín,35000000,FALSE,Found in Curr Season,FALSE,Gonzalo Higuaín,Higuaín,single,Done
+135,162,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Bolivia,BO,2011,SUCCESS,Rudy Cardozo,0,FALSE,Only After + Zero After,FALSE,Rudy Cardozo,Cardozo,single,Done
+136,163,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Bolivia,BO,2011,SUCCESS,Pablo Escobar,0,FALSE,Both Empty,FALSE,Pablo Escobar,Escobar,single,Done
+137,164,4208,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Bolivia,11-Nov-11,Bolivia,BO,2011,SUCCESS,Marcelo Moreno,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Moreno,M Moreno,single,Done
+138,165,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Fernando Muslera,13000000,FALSE,Found in Curr Season,FALSE,Fernando Muslera,Muslera,single,Done
+139,166,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Diego Lugano,5000000,FALSE,Found in Curr Season,FALSE,Diego Lugano,Lugano,single,Done
+140,167,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Diego Godín,12000000,FALSE,Found in Curr Season,FALSE,Diego Godín,Godín,single,Done
+141,168,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Diego Pérez,2500000,FALSE,Found in Curr Season,FALSE,Diego Pérez,Pérez,single,Done
+142,169,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Egidio Arévalo Ríos,2000000,FALSE,Found in Curr Season,FALSE,Egidio Arévalo Ríos,Arévalo,single,Done
+143,170,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Uruguay,UY,2011,SUCCESS,Edinson Cavani,35000000,FALSE,Found in Curr Season,FALSE,Edinson Cavani,Cavani,single,Done
+144,171,4209,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Chile,11-Nov-11,Chile,CL,2011,SUCCESS,Mauricio Isla,14000000,FALSE,Found in Curr Season,FALSE,Mauricio Isla,Isla,single,Done
+145,173,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+146,174,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Paraguay,PY,2011,SUCCESS,Darío Verón,2000000,FALSE,Found in Curr Season,FALSE,Darío Verón,Verón,single,Done
+147,175,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Paraguay,PY,2011,SUCCESS,Víctor Ayala,600000,FALSE,Only After,FALSE,Víctor Ayala,Ayala,single,Done
+148,176,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Paraguay,PY,2011,SUCCESS,Marcelo Estigarribia,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Estigarribia,Estigarribia,single,Done
+149,177,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Paraguay,PY,2011,SUCCESS,Lucas Barrios,10000000,FALSE,Found in Curr Season,FALSE,Lucas Barrios,Barrios,single,Done
+150,178,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Ecuador,EC,2011,SUCCESS,Máximo Banguera,0,FALSE,Only After + Zero After,FALSE,Máximo Banguera,Banguera,single,Done
+151,179,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Ecuador,EC,2011,SUCCESS,Gabriel Achilier,800000,FALSE,Found in Curr Season,FALSE,Gabriel Achilier,Achilier,single,Done
+152,180,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Ecuador,EC,2011,SUCCESS,Frickson Erazo,1000000,FALSE,Found in Curr Season,FALSE,Frickson Erazo,Erazo,single,Done
+153,181,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Ecuador,EC,2011,SUCCESS,Luis Saritama,600000,FALSE,Found in Curr Season,FALSE,Luis Saritama,Saritama,single,Done
+154,182,4210,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Ecuador,11-Nov-11,Ecuador,EC,2011,SUCCESS,Christian Noboa,8000000,FALSE,Found in Curr Season,FALSE,Christian Noboa,Noboa,single,Done
+155,184,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,David Ospina,6500000,FALSE,Found in Curr Season,FALSE,David Ospina,Ospina,single,Done
+156,185,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,Luis Amaranto Perea,1500000,FALSE,Found in Curr Season,FALSE,Luis Amaranto Perea,Perea,single,Done
+157,186,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,Mario Yepes,750000,FALSE,Found in Curr Season,FALSE,Mario Yepes,Yepes,single,Done
+158,187,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,Pablo Armero,10500000,FALSE,Found in Curr Season,FALSE,Pablo Armero,Armero,single,Done
+159,188,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,Fredy Guarín,12000000,FALSE,Found in Curr Season,FALSE,Fredy Guarín,Guarín,single,Done
+160,189,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,James Rodríguez,13000000,FALSE,Found in Curr Season,FALSE,James Rodríguez,James,single,Done
+161,190,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Colombia,CO,2011,SUCCESS,Teófilo Gutiérrez,2500000,FALSE,Found in Curr Season,FALSE,Teófilo Gutiérrez,Gutiérrez,single,Done
+162,191,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+163,192,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Roberto Rosales,3500000,FALSE,Found in Curr Season,FALSE,Roberto Rosales,Rosales,single,Done
+164,193,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Oswaldo Vizcarrondo,800000,FALSE,Found in Curr Season,FALSE,Oswaldo Vizcarrondo,Vizcarrondo,single,Done
+165,194,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Fernando Amorebieta,9000000,FALSE,Found in Curr Season,FALSE,Fernando Amorebieta,Amorebieta,single,Done
+166,195,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Gabriel Cichero,600000,FALSE,Found in Curr Season,FALSE,Gabriel Cichero,Cichero,single,Done
+167,196,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Tomás Rincón,4000000,FALSE,Found in Curr Season,FALSE,Tomás Rincón,Rincón,single,Done
+168,197,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Juan Arango,3500000,FALSE,Found in Curr Season,FALSE,Juan Arango,Arango,single,Done
+169,198,4211,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Venezuela,11-Nov-11,Venezuela,VE,2011,SUCCESS,Miku Fedor,4000000,FALSE,Found in Curr Season,FALSE,Miku,Miku,single,Done
+170,199,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,David Ospina,6500000,FALSE,Found in Curr Season,FALSE,David Ospina,Ospina,single,Done
+171,200,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,Camilo Zúñiga,6000000,FALSE,Found in Curr Season,FALSE,Camilo Zúñiga,Zúñiga,single,Done
+172,201,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,Mario Yepes,750000,FALSE,Found in Curr Season,FALSE,Mario Yepes,Yepes,single,Done
+173,202,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,Pablo Armero,10500000,FALSE,Found in Curr Season,FALSE,Pablo Armero,Armero,single,Done
+174,203,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,James Rodríguez,13000000,FALSE,Found in Curr Season,FALSE,James Rodríguez,James,single,Done
+175,204,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Colombia,CO,2011,SUCCESS,Adrián Ramos,4500000,FALSE,Found in Curr Season,FALSE,Adrián Ramos,Ramos,single,Done
+176,205,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,Pablo Zabaleta,14500000,FALSE,Found in Curr Season,FALSE,Pablo Zabaleta,Zabaleta,single,Done
+177,206,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,Clemente Rodríguez,2000000,FALSE,Found in Curr Season,FALSE,Clemente Rodríguez,Clemente,single,Done
+178,207,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,José Sosa,5500000,FALSE,Found in Curr Season,FALSE,José Sosa,Sosa,single,Done
+179,208,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,Javier Mascherano,30000000,FALSE,Found in Curr Season,FALSE,Javier Mascherano,Mascherano,single,Done
+180,209,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,Lionel Messi,100000000,FALSE,Found in Curr Season,FALSE,Lionel Messi,Messi,single,Done
+181,210,4212,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Argentina,15-Nov-11,Argentina,AR,2011,SUCCESS,Gonzalo Higuaín,35000000,FALSE,Found in Curr Season,FALSE,Gonzalo Higuaín,Higuaín,single,Done
+182,211,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Ecuador,EC,2011,SUCCESS,Máximo Banguera,0,FALSE,Only After + Zero After,FALSE,Máximo Banguera,Banguera,single,Done
+183,212,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Ecuador,EC,2011,SUCCESS,Juan Carlos Paredes,350000,FALSE,Found in Curr Season,FALSE,Juan Carlos Paredes,Paredes,single,Done
+184,213,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Ecuador,EC,2011,SUCCESS,Frickson Erazo,1000000,FALSE,Found in Curr Season,FALSE,Frickson Erazo,Erazo,single,Done
+185,214,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Ecuador,EC,2011,SUCCESS,Jairo Campos,800000,FALSE,Found in Curr Season,FALSE,Jairo Campos,Campos,single,Done
+186,215,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Ecuador,EC,2011,SUCCESS,Luis Saritama,600000,FALSE,Found in Curr Season,FALSE,Luis Saritama,Saritama,single,Done
+187,216,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Raúl Fernández,900000,FALSE,Found in Curr Season,FALSE,Raúl Fernández,Fernández,single,Done
+188,217,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Renzo Revoredo,400000,FALSE,Found in Curr Season,FALSE,Renzo Revoredo,Revoredo,single,Done
+189,218,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Christian Ramos,300000,FALSE,Found in Curr Season,FALSE,Christian Ramos,Ramos,single,Done
+190,219,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Santiago Acasiete,600000,FALSE,Found in Curr Season,FALSE,Santiago Acasiete,Acasiete,single,Done
+191,220,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Óscar Vílchez,250000,FALSE,Found in Curr Season,FALSE,Óscar Vílchez,Vílchez,single,Done
+192,221,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Carlos Lobatón,300000,FALSE,Found in Curr Season,FALSE,Carlos Lobatón,Lobatón,single,Done
+193,222,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Edwin Retamoso,225000,FALSE,Found in Curr Season,FALSE,Edwin Retamoso,Retamozo,single,Done
+194,223,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Juan Manuel Vargas,9000000,FALSE,Found in Curr Season,FALSE,Juan Manuel Vargas,Vargas,single,Done
+195,224,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Paolo Guerrero,6000000,FALSE,Found in Curr Season,FALSE,Paolo Guerrero,Guerrero,single,Done
+196,225,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Jefferson Farfán,18000000,FALSE,Found in Curr Season,FALSE,Jefferson Farfán,Farfán,single,Done
+197,226,4213,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Peru,15-Nov-11,Peru,PE,2011,SUCCESS,Claudio Pizarro,5000000,FALSE,Found in Curr Season,FALSE,Claudio Pizarro,Pizarro,single,Done
+198,227,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+199,228,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Roberto Rosales,3500000,FALSE,Found in Curr Season,FALSE,Roberto Rosales,Rosales,single,Done
+200,229,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Oswaldo Vizcarrondo,800000,FALSE,Found in Curr Season,FALSE,Oswaldo Vizcarrondo,Vizcarrondo,single,Done
+201,230,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Fernando Amorebieta,9000000,FALSE,Found in Curr Season,FALSE,Fernando Amorebieta,Amorebieta,single,Done
+202,231,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Gabriel Cichero,600000,FALSE,Found in Curr Season,FALSE,Gabriel Cichero,Cichero,single,Done
+203,232,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Tomás Rincón,4000000,FALSE,Found in Curr Season,FALSE,Tomás Rincón,Rincón,single,Done
+204,233,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Venezuela,VE,2011,SUCCESS,Juan Arango,3500000,FALSE,Found in Curr Season,FALSE,Juan Arango,Arango,single,Done
+205,234,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Bolivia,BO,2011,SUCCESS,Ronald Raldes,1000000,FALSE,Found in Curr Season,FALSE,Ronald Raldes,Raldes,single,Done
+206,235,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Bolivia,BO,2011,SUCCESS,Rudy Cardozo,0,FALSE,Only After + Zero After,FALSE,Rudy Cardozo,Cardozo,single,Done
+207,236,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Bolivia,BO,2011,SUCCESS,Pablo Escobar,0,FALSE,Both Empty,FALSE,Pablo Escobar,Escobar,single,Done
+208,237,4214,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Bolivia,15-Nov-11,Bolivia,BO,2011,SUCCESS,Marcelo Moreno,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Moreno,M Moreno,single,Done
+209,238,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Chile,CL,2011,SUCCESS,Mauricio Isla,14000000,FALSE,Found in Curr Season,FALSE,Mauricio Isla,Isla,single,Done
+210,239,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Chile,CL,2011,SUCCESS,Diego Sánchez,30000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+211,241,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Paraguay,PY,2011,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+212,242,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Paraguay,PY,2011,SUCCESS,Darío Verón,2000000,FALSE,Found in Curr Season,FALSE,Darío Verón,Verón,single,Done
+213,243,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Paraguay,PY,2011,SUCCESS,Víctor Ayala,600000,FALSE,Only After,FALSE,Víctor Ayala,Ayala,single,Done
+214,244,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Paraguay,PY,2011,SUCCESS,Marcelo Estigarribia,2500000,FALSE,Found in Curr Season,FALSE,Marcelo Estigarribia,Estigarribia,single,Done
+215,245,4215,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Paraguay,15-Nov-11,Paraguay,PY,2011,SUCCESS,Julio dos Santos,500000,FALSE,Found in Curr Season,FALSE,Julio dos Santos,D Santos,single,Done
+216,246,4216,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Venezuela,02-Jun-12,Venezuela,VE,2012,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+217,247,4217,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Chile,02-Jun-12,Bolivia,BO,2012,SUCCESS,Pablo Escobar,0,FALSE,Only Before + Zero Before,FALSE,Pablo Escobar,Escobar,single,Done
+218,248,4217,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Chile,02-Jun-12,Bolivia,BO,2012,SUCCESS,Jhasmani Campos,100000,FALSE,Found in Curr Season,FALSE,Jhasmani Campos,Campos,single,Done
+219,249,4217,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Chile,02-Jun-12,Bolivia,BO,2012,SUCCESS,Ricardo Pedriel,2400000,FALSE,Only Before,FALSE,Ricardo Pedriel,Pedriel,single,Done
+220,250,4217,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Chile,02-Jun-12,Chile,CL,2012,SUCCESS,Diego Sánchez,26000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+221,252,4219,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Colombia,03-Jun-12,Peru,PE,2012,SUCCESS,Renzo Revoredo,400000,FALSE,Found in Curr Season,FALSE,Renzo Revoredo,Revoredo,single,Done
+222,253,4220,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Paraguay,09-Jun-12,Bolivia,BO,2012,SUCCESS,Gabriel Valverde,0,FALSE,Only Before + Zero Before,FALSE,Gabriel Valverde,Valverde,single,Done
+223,254,4220,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Paraguay,09-Jun-12,Bolivia,BO,2012,SUCCESS,Pablo Escobar,0,FALSE,Only Before + Zero Before,FALSE,Pablo Escobar,Escobar,single,Done
+224,256,4220,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Paraguay,09-Jun-12,Paraguay,PY,2012,SUCCESS,Eduardo Aranda,660000,FALSE,Only Before,FALSE,Eduardo Aranda,Aranda,single,Done
+225,258,4221,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Chile,09-Jun-12,Venezuela,VE,2012,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+226,259,4221,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Chile,09-Jun-12,Venezuela,VE,2012,SUCCESS,Miku Fedor,4000000,FALSE,Found in Curr Season,FALSE,Miku,Miku,single,Done
+227,260,4221,"World Cup 2014, Qualifiers, CONMEBOL",Venezuela vs Chile,09-Jun-12,Chile,CL,2012,SUCCESS,Diego Sánchez,26000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+228,262,4224,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Uruguay,07-Sep-12,Uruguay,UY,2012,SUCCESS,Mauricio Victorino,2750000,FALSE,Found in Curr Season,FALSE,Mauricio Victorino,Victorino,single,Done
+229,263,4226,"World Cup 2014, Qualifiers, CONMEBOL",Argentina vs Paraguay,07-Sep-12,Paraguay,PY,2012,SUCCESS,Iván Piris,2500000,FALSE,Found in Curr Season,FALSE,Iván Piris,Piris,single,Done
+230,264,4227,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Venezuela,07-Sep-12,Peru,PE,2012,SUCCESS,Renzo Revoredo,400000,FALSE,Found in Curr Season,FALSE,Renzo Revoredo,Revoredo,single,Done
+231,265,4227,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Venezuela,07-Sep-12,Venezuela,VE,2012,SUCCESS,Renny Vega,1500000,FALSE,Found in Curr Season,FALSE,Renny Vega,Vega,single,Done
+232,266,4227,"World Cup 2014, Qualifiers, CONMEBOL",Peru vs Venezuela,07-Sep-12,Venezuela,VE,2012,SUCCESS,Miku Fedor,4000000,FALSE,Found in Curr Season,FALSE,Miku,Miku,single,Done
+233,267,4228,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Colombia,11-Sep-12,Chile,CL,2012,SUCCESS,Diego Sánchez,26000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+234,269,4229,"World Cup 2014, Qualifiers, CONMEBOL",Paraguay vs Venezuela,11-Sep-12,Paraguay,PY,2012,SUCCESS,Darío Verón,1800000,FALSE,Found in Curr Season,FALSE,Darío Verón,Verón,single,Done
+235,270,4232,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Paraguay,12-Oct-12,Paraguay,PY,2012,SUCCESS,Diego Barreto,250000,FALSE,Found in Curr Season,FALSE,Diego Barreto,Barreto,single,Done
+236,271,4232,"World Cup 2014, Qualifiers, CONMEBOL",Colombia vs Paraguay,12-Oct-12,Paraguay,PY,2012,SUCCESS,Iván Piris,2500000,FALSE,Found in Curr Season,FALSE,Iván Piris,Piris,single,Done
+237,272,4233,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Chile,12-Oct-12,Chile,CL,2012,SUCCESS,Diego Sánchez,26000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+238,273,4234,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Peru,12-Oct-12,Bolivia,BO,2012,SUCCESS,Gabriel Valverde,0,FALSE,Only Before + Zero Before,FALSE,Gabriel Valverde,Valverde,single,Done
+239,274,4234,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Peru,12-Oct-12,Bolivia,BO,2012,SUCCESS,Jhasmani Campos,100000,FALSE,Found in Curr Season,FALSE,Jhasmani Campos,Campos,single,Done
+240,275,4234,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Peru,12-Oct-12,Peru,PE,2012,SUCCESS,Joel Sánchez,480000,FALSE,Only Before,FALSE,Joel Sánchez,Sánchez,single,Done
+241,276,4236,"World Cup 2014, Qualifiers, CONMEBOL",Bolivia vs Uruguay,16-Oct-12,Uruguay,UY,2012,SUCCESS,Mauricio Victorino,2750000,FALSE,Found in Curr Season,FALSE,Mauricio Victorino,Victorino,single,Done
+242,280,4239,"World Cup 2014, Qualifiers, CONMEBOL",Chile vs Argentina,16-Oct-12,Chile,CL,2012,SUCCESS,Diego Sánchez,26000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+243,281,4241,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Paraguay,22-Mar-13,Paraguay,PY,2013,SUCCESS,Diego Barreto,200000,FALSE,Only Before,FALSE,Diego Barreto,Barreto,single,Done
+244,284,4245,"World Cup 2014, Qualifiers, CONMEBOL",Ecuador vs Paraguay,26-Mar-13,Paraguay,PY,2013,SUCCESS,Diego Barreto,200000,FALSE,Only Before,FALSE,Diego Barreto,Barreto,single,Done
+245,290,2228,"World Cup Qualifiers, Africa, 2026",Ethiopia vs Burkina Faso,21-11-2023,Burkina Faso,BF,2023,SUCCESS,Ben Traoré,1500000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+246,291,2229,"World Cup Qualifiers, Africa, 2026",Lesotho vs Benin,21-11-2023,Benin,BJ,2023,SUCCESS,Djiman Koukou,350000,FALSE,Found in Curr Season,FALSE,Dokou Dodo,F Dodji Dokou,single,Done
+247,292,2231,"World Cup Qualifiers, Africa, 2026",Mozambique vs Algeria,19-11-2023,Mozambique,MZ,2023,SUCCESS,Hélder Pelembe,25000,FALSE,Found in Curr Season,FALSE,Domingues,Domingues,single,Done
+248,293,2236,"World Cup Qualifiers, Africa, 2026",Sudan vs Congo DR,19-11-2023,Sudan,SD,2023,SUCCESS,Mohamed Idris,350000,FALSE,Found in Curr Season,FALSE,Mo Eisa,Mohamed Eisa,single,Done
+249,294,2238,"World Cup Qualifiers, Africa, 2026",Burkina Faso vs Guinea-Bissau,17-11-2023,Burkina Faso,BF,2023,SUCCESS,Ben Traoré,1500000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+250,296,2242,"World Cup Qualifiers, Africa, 2026",Sudan vs Togo,16-11-2023,Sudan,SD,2023,SUCCESS,Mohamed Idris,350000,FALSE,Found in Curr Season,FALSE,Mo Eisa,Mohamed Eisa,single,Done
+251,307,2260,"World Cup Qualifiers, Asia, 2014",Australia vs Iraq,18-06-2013,Iraq,IQ,2013,SUCCESS,Ahmad Salah Alwan,50000,FALSE,Used Average of Season Before and After,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+252,309,2261,"World Cup Qualifiers, Asia, 2014",Uzbekistan vs Jordan,10-09-2013,Jordan,JO,2013,SUCCESS,Ahmed Hisham,0,FALSE,Used Average of Season Before and After,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+253,310,2263,"World Cup Qualifiers, Asia, 2018",Iraq vs Chinese Taipei,03-09-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+254,311,2263,"World Cup Qualifiers, Asia, 2018",Iraq vs Chinese Taipei,03-09-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+255,313,2266,"World Cup Qualifiers, Asia, 2018",Laos vs Kuwait,08-09-2015,Kuwait,KW,2015,SUCCESS,Saleh Al Buraiki,100000,FALSE,Found in Curr Season,FALSE,Saleh Sheikh Al-Sheikh,Saleh Al Hendi,single,Done
+256,314,2266,"World Cup Qualifiers, Asia, 2018",Laos vs Kuwait,08-09-2015,Kuwait,KW,2015,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+257,315,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam,08-09-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+258,316,2267,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Vietnam,08-09-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+259,320,4452,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Uruguay,29-Mar-22,Chile,CL,2022,SUCCESS,Diego Sánchez,4000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+260,322,1708,Nations League 2022-2023,France vs Denmark,03.06.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+261,323,1711,Nations League 2022-2023,Austria vs Denmark,06.06.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+262,324,1712,Nations League 2022-2023,Denmark vs Croatia,10.06.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+263,325,1715,Nations League 2022-2023,Denmark vs Austria,13.06.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+264,326,1717,Nations League 2022-2023,Croatia vs Denmark,22.09.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+265,327,1718,Nations League 2022-2023,Denmark vs France,25.09.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+266,328,981,"Euros 2024, Qualifiers",Azerbaijan vs Estonia,17.06.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+267,329,985,"Euros 2024, Qualifiers",Azerbaijan vs Belgium,09.09.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+268,330,989,"Euros 2024, Qualifiers",Estonia vs Azerbaijan,13.10.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+269,331,991,"Euros 2024, Qualifiers",Azerbaijan vs Austria,16.10.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+270,332,993,"Euros 2024, Qualifiers",Azerbaijan vs Sweden,16.11.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+271,333,995,"Euros 2024, Qualifiers",Belgium vs Azerbaijan,19.11.23,Azerbaijan,AZ,2023,SUCCESS,Magomed Kurbanov,850000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+272,335,3516,"African Cup of Nations, 2017",Burkina Faso vs Tunisia,28-01-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+273,336,3518,"African Cup of Nations, 2017",Burkina Faso vs Ghana,04-02-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+274,337,3527,"African Cup of Nations, 2017",Burkina Faso vs Egypt,01-02-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+275,338,3527,"African Cup of Nations, 2017",Burkina Faso vs Egypt,01-02-2017,Egypt,EG,2017,SUCCESS,Mahmoud Hamada,1700000,FALSE,Found in Curr Season,FALSE,Kahraba,Mahmoud Kahraba,single,Done
+276,339,1251,Copa America 2016,United States vs Paraguay,12.06.16,Paraguay,PY,2016,SUCCESS,Hugo Martínez,1500000,FALSE,Found in Curr Season,FALSE,Víctor Ayala,Ayala Hugo,single,Done
+277,341,3642,"Gold Cup, 2013",Honduras vs Costa Rica,22-07-2013,Honduras,HN,2013,SUCCESS,Alexander López,0,FALSE,Only Before + Zero Before,FALSE,Alexander López,A López,single,Done
+278,342,3643,"Gold Cup, 2013",United States vs El Salvador,21-07-2013,El Salvador,SV,2013,SUCCESS,Rodolfo Zelaya,60000,FALSE,Only Before,FALSE,Rodolfo Zelaya,R Zelaya,single,Done
+279,343,3644,"Gold Cup, 2013",El Salvador vs Haiti,16-07-2013,El Salvador,SV,2013,SUCCESS,Rodolfo Zelaya,60000,FALSE,Only Before,FALSE,Rodolfo Zelaya,R Zelaya,single,Done
+280,344,3645,"Gold Cup, 2013",Cuba vs Belize,16-07-2013,Belize,BZ,2013,SUCCESS,Tyrone Pandy,0,FALSE,Only Before + Zero Before,FALSE,Tyrone Pandy,T Pandy,single,Done
+281,345,3645,"Gold Cup, 2013",Cuba vs Belize,16-07-2013,Belize,BZ,2013,SUCCESS,Kahlil Velásquez,0,FALSE,Only Before + Zero Before,FALSE,Kahlil Velásquez,K Velasquez,single,Done
+282,346,3645,"Gold Cup, 2013",Cuba vs Belize,16-07-2013,Belize,BZ,2013,SUCCESS,Michael Salazar,0,FALSE,Only Before + Zero Before,FALSE,Michael Salazar,M Salazar,single,Done
+283,347,3646,"Gold Cup, 2013",Belize vs United States,10-07-2013,Belize,BZ,2013,SUCCESS,Tyrone Pandy,0,FALSE,Only Before + Zero Before,FALSE,Tyrone Pandy,T Pandy,single,Done
+284,348,3647,"Gold Cup, 2013",Martinique vs Mexico,14-07-2013,Mexico,MX,2013,SUCCESS,Alejandro Castro,960000,FALSE,Only Before,FALSE,Alejandro Castro,A Castro,single,Done
+285,349,3648,"Gold Cup, 2013",Canada vs Martinique,07-07-2013,Canada,CA,2013,SUCCESS,Will Johnson,720000,FALSE,Only Before,FALSE,Will Johnson,W Johnson,single,Done
+286,350,3649,"Gold Cup, 2013",Costa Rica vs Belize,13-07-2013,Belize,BZ,2013,SUCCESS,Tyrone Pandy,0,FALSE,Only Before + Zero Before,FALSE,Tyrone Pandy,T Pandy,single,Done
+287,351,3649,"Gold Cup, 2013",Costa Rica vs Belize,13-07-2013,Belize,BZ,2013,SUCCESS,Michael Salazar,0,FALSE,Only Before + Zero Before,FALSE,Michael Salazar,M Salazar,single,Done
+288,352,3650,"Gold Cup, 2013",Costa Rica vs Cuba,10-07-2013,Costa Rica,CR,2013,SUCCESS,Osvaldo Rodríguez,0,FALSE,Only Before + Zero Before,FALSE,Osvaldo Rodríguez,O Rodríguez,single,Done
+289,353,3651,"Gold Cup, 2013",El Salvador vs Trinidad and Tobago,09-07-2013,El Salvador,SV,2013,SUCCESS,Rodolfo Zelaya,60000,FALSE,Only Before,FALSE,Rodolfo Zelaya,R Zelaya,single,Done
+290,354,3651,"Gold Cup, 2013",El Salvador vs Trinidad and Tobago,09-07-2013,Trinidad and Tobago,TT,2013,SUCCESS,Seon Power,90000,FALSE,Only Before,FALSE,Seon Power,S Power,single,Done
+291,355,3652,"Gold Cup, 2013",United States vs Honduras,25-07-2013,Honduras,HN,2013,SUCCESS,Alexander López,0,FALSE,Only Before + Zero Before,FALSE,Alexander López,A López,single,Done
+292,356,3653,"Gold Cup, 2013",Honduras vs Trinidad and Tobago,16-07-2013,Honduras,HN,2013,SUCCESS,Alexander López,0,FALSE,Only Before + Zero Before,FALSE,Alexander López,A López,single,Done
+293,357,3653,"Gold Cup, 2013",Honduras vs Trinidad and Tobago,16-07-2013,Honduras,HN,2013,SUCCESS,Bryan Barrios,0,FALSE,Only Before + Zero Before,FALSE,Mario Berríos,M Berrios,single,Done
+294,358,3653,"Gold Cup, 2013",Honduras vs Trinidad and Tobago,16-07-2013,Trinidad and Tobago,TT,2013,SUCCESS,Che Benny,600000,FALSE,Only Before,FALSE,Cornell Glen,C Glenn,single,Done
+295,359,3656,"Gold Cup, 2013",Panama vs Mexico,25-07-2013,Mexico,MX,2013,SUCCESS,Alejandro Castro,960000,FALSE,Only Before,FALSE,Alejandro Castro,A Castro,single,Done
+296,360,3657,"Gold Cup, 2013",Mexico vs Panama,08-07-2013,Mexico,MX,2013,SUCCESS,Israel Jiménez,2040000,FALSE,Only Before,FALSE,Israel Jiménez,I Jiménez,single,Done
+297,361,3657,"Gold Cup, 2013",Mexico vs Panama,08-07-2013,Mexico,MX,2013,SUCCESS,Jair Pereira,600000,FALSE,Only Before,FALSE,Jair Pereira,J Pereira,single,Done
+298,362,3657,"Gold Cup, 2013",Mexico vs Panama,08-07-2013,Mexico,MX,2013,SUCCESS,Alejandro Castro,960000,FALSE,Only Before,FALSE,Alejandro Castro,A Castro,single,Done
+299,363,3657,"Gold Cup, 2013",Mexico vs Panama,08-07-2013,Panama,PA,2013,SUCCESS,Cecilio Waterman,120000,FALSE,Only Before,FALSE,Cecilio Waterman,C Waterman,single,Done
+300,364,3658,"Gold Cup, 2013",Mexico vs Trinidad and Tobago,20-07-2013,Mexico,MX,2013,SUCCESS,Alejandro Castro,960000,FALSE,Only Before,FALSE,Alejandro Castro,A Castro,single,Done
+301,365,3658,"Gold Cup, 2013",Mexico vs Trinidad and Tobago,20-07-2013,Trinidad and Tobago,TT,2013,SUCCESS,Seon Power,90000,FALSE,Only Before,FALSE,Seon Power,S Power,single,Done
+302,366,3658,"Gold Cup, 2013",Mexico vs Trinidad and Tobago,20-07-2013,Trinidad and Tobago,TT,2013,SUCCESS,Che Benny,600000,FALSE,Only Before,FALSE,Cornell Glen,C Glenn,single,Done
+303,367,3661,"Gold Cup, 2013",Panama vs Canada,14-07-2013,Panama,PA,2013,SUCCESS,Jean Cedeño,0,FALSE,Only Before + Zero Before,FALSE,Jean Cedeño,Jean Cedeño,single,Done
+304,368,3663,"Gold Cup, 2013",Panama vs Martinique,12-07-2013,Panama,PA,2013,SUCCESS,Cecilio Waterman,120000,FALSE,Only Before,FALSE,Cecilio Waterman,C Waterman,single,Done
+305,369,3664,"Gold Cup, 2013",Trinidad and Tobago vs Haiti,13-07-2013,Trinidad and Tobago,TT,2013,SUCCESS,Seon Power,90000,FALSE,Only Before,FALSE,Seon Power,S Power,single,Done
+306,370,3665,"Gold Cup, 2013",Honduras vs El Salvador,13-07-2013,Honduras,HN,2013,SUCCESS,Alexander López,0,FALSE,Only Before + Zero Before,FALSE,Alexander López,A López,single,Done
+307,371,3665,"Gold Cup, 2013",Honduras vs El Salvador,13-07-2013,Honduras,HN,2013,SUCCESS,Bryan Barrios,0,FALSE,Only Before + Zero Before,FALSE,Mario Berríos,M Berrios,single,Done
+308,372,3665,"Gold Cup, 2013",Honduras vs El Salvador,13-07-2013,El Salvador,SV,2013,SUCCESS,Rodolfo Zelaya,60000,FALSE,Only Before,FALSE,Rodolfo Zelaya,R Zelaya,single,Done
+309,373,2175,"World Cup Qualifiers, Africa, 2022",Sudan vs Chad,10-09-2019,Sudan,SD,2019,SUCCESS,Saleem Mohamed,0,FALSE,Only After + Zero After,FALSE,Ahmed Adam,A Adam Mohammad,single,Done
+310,375,2178,"World Cup Qualifiers, Africa, 2022",Egypt vs Gabon,16-11-2021,Egypt,EG,2021,SUCCESS,Mohamed Magdy,1500000,FALSE,Found in Curr Season,FALSE,Afsha,Mohamed Magdi Kafsha,single,Done
+311,377,2180,"World Cup Qualifiers, Africa, 2022",Burkina Faso vs Niger,12-11-2021,Niger,NE,2021,SUCCESS,Moumouni Diori,0,FALSE,Used Average of Season Before and After,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+312,378,2183,"World Cup Qualifiers, Africa, 2022",Tunisia vs Mali,29-03-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+313,383,2191,"World Cup Qualifiers, Africa, 2022",Malawi vs Cote d'Ivoire,08-10-2021,Malawi,MW,2021,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+314,388,2197,"World Cup Qualifiers, Africa, 2022",Cameroon vs Mozambique,08-10-2021,Mozambique,MZ,2021,SUCCESS,Gelício Banze,0,FALSE,Used Average of Season Before and After,FALSE,Nené,Feliciano Jone,single,Done
+315,389,2201,"World Cup Qualifiers, Africa, 2026",Mali vs Chad,17-11-2023,Mali,ML,2023,SUCCESS,Mohamed Haidara,3000000,FALSE,Only Before,FALSE,Massadio Haidara,M Haïdara,single,Done
+316,390,2204,"World Cup Qualifiers, Africa, 2026",Niger vs Tanzania,18-11-2023,Niger,NE,2023,SUCCESS,Moumouni Diori,0,FALSE,Only Before + Zero Before,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+317,391,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,SUCCESS,Gelício Banze,75000,FALSE,Found in Curr Season,FALSE,Nené,Feliciano Jone,single,Done
+318,392,2210,"World Cup Qualifiers, Africa, 2026",Botswana vs Mozambique,16-11-2023,Mozambique,MZ,2023,SUCCESS,Hélder Pelembe,25000,FALSE,Found in Curr Season,FALSE,Domingues,Elias Pelembe,single,Done
+319,396,2212,"World Cup Qualifiers, Africa, 2026",Libya vs Cameroon,21-11-2023,Libya,LY,2023,SUCCESS,Ahmed Azzaqa,25000,FALSE,Found in Curr Season,FALSE,Ahmed Kraouaa,Ahmed Ekrawa,single,Done
+320,398,2216,"World Cup Qualifiers, Africa, 2026",Eswatini vs Libya,17-11-2023,Libya,LY,2023,SUCCESS,Ahmed Azzaqa,25000,FALSE,Found in Curr Season,FALSE,Ahmed Kraouaa,Ahmed Ekrawa,single,Done
+321,402,2221,"World Cup Qualifiers, Africa, 2026",Mali vs Central African Republic,20-11-2023,Mali,ML,2023,SUCCESS,Mohamed Haidara,3000000,FALSE,Only Before,FALSE,Massadio Haidara,M Haïdara,single,Done
+322,408,4271,"World Cup 2014, Qualifiers, CONMEBOL",Uruguay vs Argentina,15-Oct-13,Argentina,AR,2013,SUCCESS,Agustín Rossi,2500000,FALSE,Found in Curr Season,FALSE,Augusto Fernández,Augusto,single,Done
+323,409,4275,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Paraguay,08-Oct-15,Venezuela,VE,2015,SUCCESS,José Martínez,2000000,FALSE,Found in Curr Season,FALSE,Jeffrén,J uarez,single,Done
+324,410,4289,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Ecuador,17-Nov-15,Venezuela,VE,2015,SUCCESS,José Martínez,2000000,FALSE,Found in Curr Season,FALSE,Jeffrén,J uarez,single,Done
+325,411,4295,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Argentina,24-Mar-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+326,412,4296,"World Cup 2018, Qualifiers, CONMEBOL",Peru vs Venezuela,24-Mar-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+327,413,4299,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Chile,29-Mar-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+328,414,4299,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Chile,29-Mar-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+329,418,2741,"World Cup Qualifiers, Asia, 2026",Chinese Taipei vs Timor-Leste,12-10-2023,Chinese Taipei,TW,2023,SUCCESS,Cheng Chou,100000,FALSE,Found in Curr Season,FALSE,Chao-An Chen,Chen Chao-an,single,Done
+330,421,2746,"World Cup Qualifiers, Asia, 2026",Kyrgyzstan vs Oman,21-11-2023,Oman,OM,2023,SUCCESS,Mohamed Al-Maashari,180000,FALSE,Only Before,FALSE,Mohamed Ramadhan,Mohamed Al Amri,single,Done
+331,422,2747,"World Cup Qualifiers, Asia, 2026",Qatar vs Afghanistan,16-11-2023,Qatar,QA,2023,SUCCESS,Ahmed Al-Saadi,550000,FALSE,Found in Curr Season,FALSE,Ahmed Alaaeldin,Ahmed Alaa,single,Done
+332,427,2751,"World Cup Qualifiers, Asia, 2026",Myanmar vs Macao,12-10-2023,Macao,MF,2023,SUCCESS,Ho-Man Chan,75000,FALSE,Found in Curr Season,FALSE,Man-Fai Ho,Ho Man Fai,single,Done
+333,428,2755,"World Cup Qualifiers, Asia, 2026",Macao vs Myanmar,17-10-2023,Macao,MF,2023,SUCCESS,Ho-Man Chan,75000,FALSE,Found in Curr Season,FALSE,Man-Fai Ho,Ho Man Fai,single,Done
+334,435,2760,"World Cup Qualifiers, Asia, 2026",Hong Kong vs Turkmenistan,21-11-2023,Hong Kong,HK,2023,SUCCESS,Kong-Wai Lo,250000,FALSE,Found in Curr Season,FALSE,Wai Wong,Wong Wai,single,Done
+335,436,2763,"World Cup Qualifiers, Europe, 2014",Norway vs Iceland,15-10-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+336,437,2765,"World Cup Qualifiers, Europe, 2014",Belgium vs North Macedonia,26-03-2013,North Macedonia,MK,2013,SUCCESS,Dejan Pesevski,1500000,FALSE,Only Before,FALSE,Darko Tasevski,D Tasevski,single,Done
+337,438,2767,"World Cup Qualifiers, Europe, 2014",Belgium vs Serbia,07-06-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+338,439,2772,"World Cup Qualifiers, Europe, 2014",Slovenia vs Iceland,22-03-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+339,440,2780,"World Cup Qualifiers, Europe, 2014",North Macedonia vs Belgium,22-03-2013,North Macedonia,MK,2013,SUCCESS,Ahmed Iljazovski,1140000,FALSE,Only Before,FALSE,Aleksandar Lazevski,A Lazevski,single,Done
+340,441,610,"Euros 2016, Qualifiers",Portugal vs Denmark,08.10.15,Denmark,DK,2015,SUCCESS,Jeppe Højbjerg,6000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+341,444,1162,Euros 2020,England vs Denmark,07.07.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+342,445,1165,Euros 2020,Czech vs Denmark,03.07.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+343,446,1167,Euros 2020,Wales vs Denmark,26.06.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+344,447,1181,Euros 2020,Denmark vs Finland,12.06.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+345,448,1184,Euros 2020,Denmark vs Belgium,17.06.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+346,449,1185,Euros 2020,Russia vs Denmark,21.06.21,Denmark,DK,2021,SUCCESS,Pierre-Emile Højbjerg,30000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+347,451,2428,"World Cup Qualifiers, Asia, 2018",Turkmenistan vs India,08-10-2015,India,IN,2015,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+348,455,2450,"World Cup Qualifiers, Asia, 2018",Kuwait vs Myanmar,03-09-2015,Kuwait,KW,2015,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+349,458,2451,"World Cup Qualifiers, Asia, 2018",Maldives vs Bhutan,29-03-2016,Maldives,MV,2016,SUCCESS,Mohamed Sakhaau,0,FALSE,Used Average of Season Before and After,FALSE,Samdhooh Mohamed,Mohamed Samdooh,single,Done
+350,461,2460,"World Cup Qualifiers, Asia, 2018",Kuwait vs Lebanon,13-10-2015,Kuwait,KW,2015,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+351,464,2467,"World Cup Qualifiers, Asia, 2018",Iran vs India,24-03-2016,India,IN,2016,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+352,466,2469,"World Cup Qualifiers, Asia, 2018",India vs Turkmenistan,29-03-2016,India,IN,2016,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+353,471,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Cyprus,CY,2015,SUCCESS,Charalampos Kyriakidis,500000,FALSE,Found in Curr Season,FALSE,Konstantinos Charalampidis,Charalambides,single,Done
+354,476,2424,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Brunei,12-3-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+355,477,2424,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Brunei,12-3-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+356,478,2425,"World Cup Qualifiers, Asia, 2018",Japan vs Afghanistan,24-03-2016,Afghanistan,AF,2016,SUCCESS,Sayed Fatemi,0,FALSE,Used Average of Season Before and After,FALSE,Sayed Mohammad Hashemi,Sayed Hashimi,single,Done
+357,479,2425,"World Cup Qualifiers, Asia, 2018",Japan vs Afghanistan,24-03-2016,Afghanistan,AF,2016,SUCCESS,Mohammad Afshar,200000,FALSE,Found in Curr Season,FALSE,Sharif Mukhammad,Mohammad Sharif,single,Done
+358,480,1319,Copa America 2021,Colombia vs Venezuela,18.06.21,Venezuela,VE,2021,SUCCESS,Edgar Jiménez,3500000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+359,481,1321,Copa America 2021,Venezuela vs Ecuador,21.06.21,Venezuela,VE,2021,SUCCESS,Edgar Jiménez,3500000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+360,482,1325,Copa America 2021,Venezuela vs Peru,28.06.21,Venezuela,VE,2021,SUCCESS,Edgar Jiménez,3500000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+361,492,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,SUCCESS,Andrés Felipe Román,0,FALSE,Only Before + Zero Before,FALSE,Andrés Roa,Andrés Felipe Roa,single,Done
+362,499,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,SUCCESS,Andrés Felipe Román,0,FALSE,Only Before + Zero Before,FALSE,Andrés Roa,Andrés Felipe Roa,single,Done
+363,543,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,SUCCESS,Andrés Felipe Román,0,FALSE,Only Before + Zero Before,FALSE,Andrés Roa,Andrés Felipe Roa,single,Done
+364,559,2075,"World Cup Qualifiers, Africa, 2022",Niger vs Burkina Faso,02-09-2021,Niger,NE,2021,SUCCESS,Moumouni Diori,0,FALSE,Used Average of Season Before and After,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+365,562,2085,"World Cup Qualifiers, Africa, 2022",Ethiopia vs Lesotho,04-09-2019,Lesotho,LS,2019,SUCCESS,Thabiso Mari,0,FALSE,Only Before + Zero Before,FALSE,Ntsane Lichaba,L Thabiso,single,Done
+366,566,2090,"World Cup Qualifiers, Africa, 2022",Djibouti vs Eswatini,04-09-2019,Eswatini,SZ,2019,SUCCESS,Nkosinathi Dlamini,0,FALSE,Only After + Zero After,FALSE,Lindo Mkhonta,S Nkhosinathi,single,Done
+367,570,2094,"World Cup Qualifiers, Africa, 2022",Cape Verde vs Nigeria,07-09-2021,Cape Verde,CV,2021,SUCCESS,Carlos Bebé,1500000,FALSE,Found in Curr Season,FALSE,Ponck,Carlos Ponck,single,Done
+368,571,2095,"World Cup Qualifiers, Africa, 2022",Eswatini vs Djibouti,10-09-2019,Eswatini,SZ,2019,SUCCESS,Nkosinathi Dlamini,0,FALSE,Only After + Zero After,FALSE,Lindo Mkhonta,S Nkhosinathi,single,Done
+369,572,2096,"World Cup Qualifiers, Africa, 2022",Ghana vs South Africa,14-11-2021,South Africa,ZA,2021,SUCCESS,Thabo Nthethe,600000,FALSE,Found in Curr Season,FALSE,Cafú Phete,T Phete,single,Done
+370,573,2098,"World Cup Qualifiers, Africa, 2022",Botswana vs Malawi,07-09-2019,Malawi,MW,2019,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+371,574,2104,"World Cup Qualifiers, Africa, 2022",Cameroon vs Malawi,03-09-2021,Malawi,MW,2021,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+372,576,2105,"World Cup Qualifiers, Africa, 2022",Malawi vs Mozambique,07-09-2021,Malawi,MW,2021,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+373,578,2105,"World Cup Qualifiers, Africa, 2022",Malawi vs Mozambique,07-09-2021,Mozambique,MZ,2021,SUCCESS,Gelício Banze,0,FALSE,Used Average of Season Before and After,FALSE,Nené,Feliciano Jone,single,Done
+374,579,2106,"World Cup Qualifiers, Africa, 2022",South Africa vs Zimbabwe,11-11-2021,South Africa,ZA,2021,SUCCESS,Thabo Nthethe,600000,FALSE,Found in Curr Season,FALSE,Cafú Phete,T Phete,single,Done
+375,639,2331,"World Cup Qualifiers, Asia, 2018",Brunei vs Chinese Taipei,17-03-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+376,640,2331,"World Cup Qualifiers, Asia, 2018",Brunei vs Chinese Taipei,17-03-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+377,641,2333,"World Cup Qualifiers, Asia, 2018",Thailand vs Chinese Taipei,12-11-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+378,642,2333,"World Cup Qualifiers, Asia, 2018",Thailand vs Chinese Taipei,12-11-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+379,644,2345,"World Cup Qualifiers, Asia, 2018",China PR vs Maldives,24-03-2016,Maldives,MV,2016,SUCCESS,Mohamed Sakhaau,0,FALSE,Used Average of Season Before and After,FALSE,Samdhooh Mohamed,Mohamed Samdooh,single,Done
+380,646,2360,"World Cup Qualifiers, Asia, 2018",Lebanon vs Myanmar,29-03-2016,Lebanon,LB,2016,SUCCESS,Abbas Ali Atwi,150000,FALSE,Found in Curr Season,FALSE,Abbas Atwi,Abbas Ahmad Atwi,single,Done
+381,648,2362,"World Cup Qualifiers, Asia, 2018",Afghanistan vs Singapore,29-03-2016,Afghanistan,AF,2016,SUCCESS,Sayed Fatemi,0,FALSE,Used Average of Season Before and After,FALSE,Sayed Mohammad Hashemi,Sayed Hashimi,single,Done
+382,650,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq,17-11-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Only Before + Zero Before,FALSE,Ming-Han Chiang,Chiang Ming-han,single,Done
+383,651,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq,17-11-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+384,652,2368,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Iraq,17-11-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+385,653,4051,"World Cup 2018, Qualifiers, CONCACAF",Panama vs Mexico,15-Nov-16,Mexico,MX,2016,SUCCESS,Julián Araujo,1800000,FALSE,Found in Curr Season,FALSE,Néstor Araújo,Araujo,single,Done
+386,654,4051,"World Cup 2018, Qualifiers, CONCACAF",Panama vs Mexico,15-Nov-16,Mexico,MX,2016,SUCCESS,Jonathan Gómez,6000000,FALSE,Found in Curr Season,FALSE,Jonathan dos Santos,Jonathan,single,Done
+387,655,4053,"World Cup 2018, Qualifiers, CONCACAF",Mexico vs Costa Rica,24-Mar-17,Mexico,MX,2017,SUCCESS,Julián Araujo,2000000,FALSE,Found in Curr Season,FALSE,Néstor Araújo,Araujo,single,Done
+388,656,4056,"World Cup 2018, Qualifiers, CONCACAF",Trinidad and Tobago vs Mexico,28-Mar-17,Mexico,MX,2017,SUCCESS,Julián Araujo,2000000,FALSE,Found in Curr Season,FALSE,Néstor Araújo,Araujo,single,Done
+389,657,4060,"World Cup 2018, Qualifiers, CONCACAF",Mexico vs Honduras,08-Jun-17,Mexico,MX,2017,SUCCESS,Jonathan Gómez,6000000,FALSE,Found in Curr Season,FALSE,Jonathan dos Santos,Jonathan,single,Done
+390,658,4061,"World Cup 2018, Qualifiers, CONCACAF",Mexico vs USA,11-Jun-17,Mexico,MX,2017,SUCCESS,Jonathan Gómez,6000000,FALSE,Found in Curr Season,FALSE,Jonathan dos Santos,Jonathan,single,Done
+391,659,4066,"World Cup 2018, Qualifiers, CONCACAF",Mexico vs Panama,01-Sep-17,Mexico,MX,2017,SUCCESS,Julián Araujo,2000000,FALSE,Found in Curr Season,FALSE,Néstor Araújo,Araujo,single,Done
+392,660,4073,"World Cup 2018, Qualifiers, CONCACAF",Honduras vs Mexico,10-Oct-17,Mexico,MX,2017,SUCCESS,Julián Araujo,2000000,FALSE,Found in Curr Season,FALSE,Néstor Araújo,Araujo,single,Done
+393,661,4073,"World Cup 2018, Qualifiers, CONCACAF",Honduras vs Mexico,10-Oct-17,Mexico,MX,2017,SUCCESS,Jonathan Gómez,6000000,FALSE,Found in Curr Season,FALSE,Jonathan dos Santos,Jonathan,single,Done
+394,663,4084,"World Cup 2022, Qualifiers, CONCACAF",Trinidad and Tobago vs Guyana,25-Mar-21,Guyana,GY,2021,SUCCESS,Joshua Brown,50000,FALSE,Found in Curr Season,FALSE,Keanu Marsh-Brown,M Brown,single,Done
+395,665,4085,"World Cup 2022, Qualifiers, CONCACAF",El Salvador vs Grenada,25-Mar-21,Grenada,GD,2021,SUCCESS,Marcio McQueen,50000,FALSE,Found in Curr Season,FALSE,Alexander McQueen,Mc Queen,single,Done
+396,666,2971,"World Cup Qualifiers, Europe, 2018",Serbia vs Austria,09-10-2016,Serbia,RS,2016,SUCCESS,Boris Radunović,5000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+397,667,2887,"World Cup Qualifiers, Europe, 2014",Austria vs Republic of Ireland,10-09-2013,Republic of Ireland,IE,2013,SUCCESS,Jimmy Dunne,1600000,FALSE,Only Before,FALSE,Richard Dunne,R Dunne,single,Done
+398,669,2892,"World Cup Qualifiers, Europe, 2014",Republic of Ireland vs Kazakhstan,15-10-2013,Republic of Ireland,IE,2013,SUCCESS,Jimmy Dunne,1600000,FALSE,Only Before,FALSE,Richard Dunne,R Dunne,single,Done
+399,670,2897,"World Cup Qualifiers, Europe, 2014",Serbia vs Croatia,06-09-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+400,674,2913,"World Cup Qualifiers, Europe, 2014",Malta vs Italy,26-03-2013,Malta,MT,2013,SUCCESS,Shaun Dimech,60000,FALSE,Only Before,FALSE,Luke Dimech,L Dimech,single,Done
+401,675,2917,"World Cup Qualifiers, Europe, 2014",Malta vs Denmark,06-09-2013,Denmark,DK,2013,SUCCESS,Rasmus Falk,960000,FALSE,Only Before,FALSE,Rasmus Falk,R Falk,single,Done
+402,676,2920,"World Cup Qualifiers, Europe, 2014",San Marino vs Poland,10-09-2013,San Marino,SM,2013,SUCCESS,Pietro Calzolari,0,FALSE,Only Before + Zero Before,FALSE,Pietro Calzolari,P Calzolari,single,Done
+403,677,2921,"World Cup Qualifiers, Europe, 2014",Romania vs Hungary,06-09-2013,Romania,RO,2013,SUCCESS,Andrei Rațiu,1500000,FALSE,Found in Curr Season,FALSE,Răzvan Raţ,R Raț,single,Done
+404,678,2922,"World Cup Qualifiers, Europe, 2014",Bulgaria vs Malta,22-03-2013,Malta,MT,2013,SUCCESS,Shaun Dimech,60000,FALSE,Only Before,FALSE,Luke Dimech,L Dimech,single,Done
+405,679,2927,"World Cup Qualifiers, Europe, 2014",Croatia vs Iceland,19-11-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+406,680,2929,"World Cup Qualifiers, Europe, 2014",Malta vs Czech Republic,11-10-2013,Malta,MT,2013,SUCCESS,Shaun Dimech,60000,FALSE,Only Before,FALSE,Luke Dimech,L Dimech,single,Done
+407,683,4106,"World Cup 2022, Qualifiers, CONCACAF",Guyana vs Bahamas,30-Mar-21,Guyana,GY,2021,SUCCESS,Joshua Brown,50000,FALSE,Found in Curr Season,FALSE,Keanu Marsh-Brown,M Brown,single,Done
+408,684,4113,"World Cup 2022, Qualifiers, CONCACAF",Antigua and Barbuda vs Grenada,04-Jun-21,Grenada,GD,2021,SUCCESS,Marcio McQueen,50000,FALSE,Found in Curr Season,FALSE,Alexander McQueen,Mc Queen,single,Done
+409,685,4115,"World Cup 2022, Qualifiers, CONCACAF",Saint Kitts and Nevis vs Guyana,04-Jun-21,Guyana,GY,2021,SUCCESS,Joshua Brown,50000,FALSE,Found in Curr Season,FALSE,Keanu Marsh-Brown,M Brown,single,Done
+410,686,4126,"World Cup 2022, Qualifiers, CONCACAF",Guyana vs Puerto Rico,08-Jun-21,Guyana,GY,2021,SUCCESS,Joshua Brown,50000,FALSE,Found in Curr Season,FALSE,Keanu Marsh-Brown,M Brown,single,Done
+411,687,4406,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Bolivia,09-Sep-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+412,689,4411,"World Cup 2022, Qualifiers, CONMEBOL",Peru vs Chile,07-Oct-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+413,690,4412,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay vs Argentina,07-Oct-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+414,692,4417,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Paraguay,10-Oct-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+415,693,4421,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Peru,14-Oct-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+416,694,4422,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Venezuela,14-Oct-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+417,695,4424,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay vs Chile,11-Nov-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+418,696,4427,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay vs Argentina,12-Nov-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+419,697,4431,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Brazil,16-Nov-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+420,699,4432,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Ecuador,16-Nov-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+421,702,4435,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Argentina,27-Jan-22,Chile,CL,2022,SUCCESS,Diego Sánchez,4000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+422,703,4435,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Argentina,27-Jan-22,Argentina,AR,2022,SUCCESS,Mariano Andújar,8000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+423,705,4438,"World Cup 2022, Qualifiers, CONMEBOL",Bolivia vs Chile,01-Feb-22,Chile,CL,2022,SUCCESS,Diego Sánchez,4000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+424,706,4440,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Colombia,01-Feb-22,Argentina,AR,2022,SUCCESS,Mariano Andújar,8000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+425,711,4445,"World Cup 2022, Qualifiers, CONMEBOL",Brazil vs Chile,24-Mar-22,Chile,CL,2022,SUCCESS,Diego Sánchez,4000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+426,713,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+427,714,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+428,715,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+429,716,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+430,717,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+431,718,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Magomed Kurbanov,800000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+432,720,2580,"World Cup Qualifiers, Asia, 2022",Iraq vs Cambodia,7-6-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+433,722,2581,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Jordan,05-09-2019,Jordan,JO,2019,SUCCESS,Ahmed Hisham,100000,FALSE,Used Average of Season Before and After,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+434,723,2582,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs Vietnam,02-09-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+435,724,2582,"World Cup Qualifiers, Asia, 2022",Saudi Arabia vs Vietnam,02-09-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+436,725,2583,"World Cup Qualifiers, Asia, 2022",Vietnam vs Oman,24-03-2022,Vietnam,VN,2022,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+437,726,2583,"World Cup Qualifiers, Asia, 2022",Vietnam vs Oman,24-03-2022,Vietnam,VN,2022,SUCCESS,Minh Tuan Ha,300000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+438,732,2593,"World Cup Qualifiers, Asia, 2022",Vietnam vs Indonesia,07-06-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+439,734,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea,16-11-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+440,735,2594,"World Cup Qualifiers, Asia, 2022",Iraq vs South Korea,16-11-2021,Iraq,IQ,2021,SUCCESS,Mohammed Salih,300000,FALSE,Found in Curr Season,FALSE,Mohammed Ali Abbood,Mohammed Ali,single,Done
+441,737,2595,"World Cup Qualifiers, Asia, 2022",Kuwait vs Chinese Taipei,14-11-2019,Kuwait,KW,2019,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+442,738,2596,"World Cup Qualifiers, Asia, 2022",Malaysia vs Vietnam,11-6-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+443,739,2596,"World Cup Qualifiers, Asia, 2022",Malaysia vs Vietnam,11-6-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+444,740,2597,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Iraq,11-06-2021,Hong Kong,HK,2021,SUCCESS,Kong-Wai Lo,175000,FALSE,Found in Curr Season,FALSE,Wai Wong,Wong Wai,single,Done
+445,741,2597,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Iraq,11-06-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+446,743,2600,"World Cup Qualifiers, Asia, 2022",Iraq vs Syria,11-11-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+447,744,2600,"World Cup Qualifiers, Asia, 2022",Iraq vs Syria,11-11-2021,Iraq,IQ,2021,SUCCESS,Mohammed Salih,300000,FALSE,Found in Curr Season,FALSE,Mohammed Ali Abbood,Mohammed Ali,single,Done
+448,746,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR,01-02-2022,Vietnam,VN,2022,SUCCESS,Xuan Hung Luc,400000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+449,747,2603,"World Cup Qualifiers, Asia, 2022",Vietnam vs China PR,01-02-2022,Vietnam,VN,2022,SUCCESS,Minh Tuan Ha,300000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+450,749,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei,07-06-2021,Chinese Taipei,TW,2021,SUCCESS,Cheng Chou,62500,FALSE,Used Average of Season Before and After,FALSE,Chao-An Chen,Chen Chao-an,single,Done
+451,750,2607,"World Cup Qualifiers, Asia, 2022",Australia vs Vietnam,27-01-2022,Vietnam,VN,2022,SUCCESS,Minh Tuan Ha,300000,FALSE,Found in Curr Season,FALSE,Tuan Hai Pham,Phm Tun Hi,single,Done
+452,752,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam,07-10-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+453,753,2613,"World Cup Qualifiers, Asia, 2022",China PR vs Vietnam,07-10-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+454,754,2615,"World Cup Qualifiers, Asia, 2022",Bahrain vs Iraq,05-09-2019,Iraq,IQ,2019,SUCCESS,Ahmad Salah Alwan,300000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+455,756,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait,15-06-2021,Chinese Taipei,TW,2021,SUCCESS,Cheng Chou,62500,FALSE,Used Average of Season Before and After,FALSE,Chao-An Chen,Chen Chao-an,single,Done
+456,758,2628,"World Cup Qualifiers, Asia, 2022",Iran vs Iraq,27-01-2022,Iraq,IQ,2022,SUCCESS,Ahmad Salah Alwan,720000,FALSE,Only Before,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+457,759,2628,"World Cup Qualifiers, Asia, 2022",Iran vs Iraq,27-01-2022,Iraq,IQ,2022,SUCCESS,Mohammed Salih,300000,FALSE,Found in Curr Season,FALSE,Mohammed Ali Abbood,Mohammed Ali,single,Done
+458,760,322,World Cup 2022,Denmark vs Tunisia,22.11.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+459,761,325,World Cup 2022,France vs Denmark,26.11.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+460,762,327,World Cup 2022,Australia vs Denmark,30.11.22,Denmark,DK,2022,SUCCESS,Pierre-Emile Højbjerg,45000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+461,764,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Tanzania,TZ,2015,SUCCESS,Haji Mnoga,0,FALSE,Only After + Zero After,FALSE,Mwinyi Mngwali,H Mngwali,single,Done
+462,765,1924,"World Cup Qualifiers, Africa, 2018",Tanzania vs Malawi,07-10-2015,Malawi,MW,2015,SUCCESS,Patrick Phiri,50000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+463,766,1927,"World Cup Qualifiers, Africa, 2018",Guinea vs Libya,31-08-2017,Libya,LY,2017,SUCCESS,Muad Allafi,50000,FALSE,Found in Curr Season,FALSE,Muaid Ellafi,Mouaid Alla,single,Done
+464,767,1928,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Senegal,05-09-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+465,771,1957,"World Cup Qualifiers, Africa, 2018",South Africa vs Burkina Faso,07-10-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+466,772,1960,"World Cup Qualifiers, Africa, 2018",Chad vs Egypt,14-11-2015,Egypt,EG,2015,SUCCESS,Mahmoud Hamada,1500000,FALSE,Found in Curr Season,FALSE,Kahraba,Mahmoud Kahraba,single,Done
+467,775,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Malawi,MW,2015,SUCCESS,Patrick Phiri,50000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+468,776,1969,"World Cup Qualifiers, Africa, 2018",Malawi vs Tanzania,11-10-2015,Tanzania,TZ,2015,SUCCESS,Haji Mnoga,0,FALSE,Only After + Zero After,FALSE,Mwinyi Mngwali,H Mngwali,single,Done
+469,777,1970,"World Cup Qualifiers, Africa, 2018",Libya vs Guinea,04-09-2017,Libya,LY,2017,SUCCESS,Muad Allafi,50000,FALSE,Found in Curr Season,FALSE,Muaid Ellafi,Mouaid Alla,single,Done
+470,778,1971,"World Cup Qualifiers, Africa, 2018",Burkina Faso vs Cape Verde,14-11-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+471,780,3563,"African Cup of Nations, 2019",Guinea-Bissau vs Ghana,02-07-2019,Ghana,GH,2019,SUCCESS,Kwabena Adusei,300000,FALSE,Only Before,FALSE,Owusu,O Kwabena,single,Done
+472,789,4356,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Ecuador,05-Oct-17,Chile,CL,2017,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+473,791,4357,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Peru,05-Oct-17,Argentina,AR,2017,SUCCESS,Mariano Andújar,55000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+474,794,4358,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Argentina,10-Oct-17,Argentina,AR,2017,SUCCESS,Mariano Andújar,55000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+475,797,4365,"World Cup 2022, Qualifiers, CONMEBOL",Uruguay vs Chile,08-Oct-20,Chile,CL,2020,SUCCESS,Diego Sánchez,25000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+476,799,4373,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Colombia,13-Oct-20,Chile,CL,2020,SUCCESS,Diego Sánchez,25000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+477,800,4380,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela vs Chile,17-Nov-20,Chile,CL,2020,SUCCESS,Diego Sánchez,25000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+478,802,4387,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Chile,03-Jun-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+479,803,4387,"World Cup 2022, Qualifiers, CONMEBOL",Argentina vs Chile,03-Jun-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+480,804,4388,"World Cup 2022, Qualifiers, CONMEBOL",Brazil vs Ecuador,04-Jun-21,Brazil,BR,2021,SUCCESS,Elias,40000000,FALSE,Found in Curr Season,FALSE,Éder Militão,E ilitao,single,Done
+481,805,4392,"World Cup 2022, Qualifiers, CONMEBOL",Paraguay vs Brazil,08-Jun-21,Brazil,BR,2021,SUCCESS,Elias,40000000,FALSE,Found in Curr Season,FALSE,Éder Militão,E ilitao,single,Done
+482,806,4393,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Bolivia,08-Jun-21,Chile,CL,2021,SUCCESS,Diego Sánchez,14500000,FALSE,Used Average of Season Before and After,FALSE,Alexis Sánchez,Sanchez,single,Done
+483,807,4397,"World Cup 2022, Qualifiers, CONMEBOL",Venezuela vs Argentina,02-Sep-21,Argentina,AR,2021,SUCCESS,Mariano Andújar,32000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+484,808,4398,"World Cup 2022, Qualifiers, CONMEBOL",Chile vs Brazil,02-Sep-21,Brazil,BR,2021,SUCCESS,Elias,40000000,FALSE,Found in Curr Season,FALSE,Éder Militão,E ilitao,single,Done
+485,811,1887,"World Cup Qualifiers, Africa, 2014",Egypt vs Ghana,19-11-2013,Egypt,EG,2013,SUCCESS,Mahmoud Hamada,100000,FALSE,Found in Curr Season,FALSE,Kahraba,Mahmoud Kahraba,single,Done
+486,813,1892,"World Cup Qualifiers, Africa, 2014",Togo vs Congo DR,08-09-2013,Togo,TG,2013,SUCCESS,Baba Tchagouni,300000,FALSE,Only Before,FALSE,Baba Tchagouni,B Tchagouni,single,Done
+487,818,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia,07-09-2013,Angola,AO,2013,SUCCESS,Ito,0,FALSE,Only Before + Zero Before,FALSE,Ito,Ito,single,Done
+488,819,1894,"World Cup Qualifiers, Africa, 2014",Angola vs Liberia,07-09-2013,Angola,AO,2013,SUCCESS,Guilherme Afonso,360000,FALSE,Only Before,FALSE,Guilherme Afonso,Guilherme,single,Done
+489,828,1913,"World Cup Qualifiers, Africa, 2014",Sudan vs Lesotho,08-09-2013,Sudan,SD,2013,SUCCESS,Elsadig Hassan,0,FALSE,Only After + Zero After,FALSE,Eltaher Elhag,El Taher El Hag Hassan,single,Done
+490,830,1914,"World Cup Qualifiers, Africa, 2014",Tunisia vs Cameroon,13-10-2013,Cameroon,CM,2013,SUCCESS,Nouhou,8000000,FALSE,Found in Curr Season,FALSE,Nicolas N'Koulou,N Nkoulou,single,Done
+491,832,2831,"World Cup Qualifiers, Europe, 2014",Iceland vs Slovenia,07-06-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+492,833,2837,"World Cup Qualifiers, Europe, 2014",Iceland vs Cyprus,11-10-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+493,834,2839,"World Cup Qualifiers, Europe, 2014",England vs Poland,15-10-2013,Poland,PL,2013,SUCCESS,Mateusz Legowski,320000,FALSE,Only Before,FALSE,Mariusz Lewandowski,M Lewandowski,single,Done
+494,835,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+495,836,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,SUCCESS,Nikola Stevanovic,3240000,FALSE,Only Before,FALSE,Alen Stevanovic,A Stevanović,single,Done
+496,838,2850,"World Cup Qualifiers, Europe, 2014",Wales vs Serbia,10-09-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+497,839,2851,"World Cup Qualifiers, Europe, 2014",Ukraine vs Poland,11-10-2013,Poland,PL,2013,SUCCESS,Mateusz Legowski,320000,FALSE,Only Before,FALSE,Mariusz Lewandowski,M Lewandowski,single,Done
+498,841,2853,"World Cup Qualifiers, Europe, 2014",Switzerland vs Iceland,06-09-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+499,845,2866,"World Cup Qualifiers, Europe, 2014",Republic of Ireland vs Sweden,06-09-2013,Republic of Ireland,IE,2013,SUCCESS,Jimmy Dunne,1600000,FALSE,Only Before,FALSE,Richard Dunne,R Dunne,single,Done
+500,847,2870,"World Cup Qualifiers, Europe, 2014",Ukraine vs Moldova,26-03-2013,Moldova,MD,2013,SUCCESS,Igor Bugaev,480000,FALSE,Only Before,FALSE,Igor Bugaev,I Bugaev,single,Done
+501,848,2871,"World Cup Qualifiers, Europe, 2014",Romania vs Greece,19-11-2013,Romania,RO,2013,SUCCESS,Andrei Rațiu,1500000,FALSE,Found in Curr Season,FALSE,Răzvan Raţ,R Raț,single,Done
+502,849,2872,"World Cup Qualifiers, Europe, 2014",Iceland vs Albania,10-09-2013,Iceland,IS,2013,SUCCESS,Bödvar Bödvarsson,700000,FALSE,Found in Curr Season,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+503,850,2875,"World Cup Qualifiers, Europe, 2014",Serbia vs North Macedonia,15-10-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+504,852,1977,"World Cup Qualifiers, Africa, 2018",Egypt vs Chad,17-11-2015,Egypt,EG,2015,SUCCESS,Mahmoud Hamada,1500000,FALSE,Found in Curr Season,FALSE,Kahraba,Mahmoud Kahraba,single,Done
+505,853,1980,"World Cup Qualifiers, Africa, 2018",Tunisia vs Libya,11-11-2017,Libya,LY,2017,SUCCESS,Muad Allafi,50000,FALSE,Found in Curr Season,FALSE,Muaid Ellafi,Mouaid Alla,single,Done
+506,854,1988,"World Cup Qualifiers, Africa, 2018",Uganda vs Egypt,31-08-2017,Egypt,EG,2017,SUCCESS,Mahmoud Hamada,1700000,FALSE,Found in Curr Season,FALSE,Kahraba,Mahmoud Kahraba,single,Done
+507,859,2002,"World Cup Qualifiers, Africa, 2018",Senegal vs Burkina Faso,02-09-2017,Burkina Faso,BF,2017,SUCCESS,Ben Traoré,400000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+508,860,2004,"World Cup Qualifiers, Africa, 2018",Tanzania vs Algeria,14-11-2015,Tanzania,TZ,2015,SUCCESS,Haji Mnoga,0,FALSE,Only After + Zero After,FALSE,Mwinyi Mngwali,H Mngwali,single,Done
+509,861,2016,"World Cup Qualifiers, Africa, 2018",Libya vs Congo DR,07-10-2017,Libya,LY,2017,SUCCESS,Muad Allafi,50000,FALSE,Found in Curr Season,FALSE,Muaid Ellafi,Mouaid Alla,single,Done
+510,862,2529,"World Cup Qualifiers, Asia, 2022",Lebanon vs Iraq,01-02-2022,Iraq,IQ,2022,SUCCESS,Ahmad Salah Alwan,720000,FALSE,Only Before,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+511,863,2529,"World Cup Qualifiers, Asia, 2022",Lebanon vs Iraq,01-02-2022,Iraq,IQ,2022,SUCCESS,Mohammed Salih,300000,FALSE,Found in Curr Season,FALSE,Mohammed Ali Abbood,Mohammed Ali,single,Done
+512,866,2534,"World Cup Qualifiers, Asia, 2022",Qatar vs India,10-09-2019,India,IN,2019,SUCCESS,Gurmeet Singh,300000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+513,870,2538,"World Cup Qualifiers, Asia, 2022",Kuwait vs Jordan,11-06-2021,Jordan,JO,2021,SUCCESS,Ahmed Hisham,350000,FALSE,Found in Curr Season,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+514,872,2552,"World Cup Qualifiers, Asia, 2022",Vietnam vs Japan,11-11-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+515,873,2552,"World Cup Qualifiers, Asia, 2022",Vietnam vs Japan,11-11-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+516,875,2558,"World Cup Qualifiers, Asia, 2022",Indonesia vs Vietnam,15-10-2019,Vietnam,VN,2019,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+517,876,2558,"World Cup Qualifiers, Asia, 2022",Indonesia vs Vietnam,15-10-2019,Vietnam,VN,2019,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+518,881,2563,"World Cup Qualifiers, Asia, 2022",Vietnam vs Saudi Arabia,16-11-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+519,882,2563,"World Cup Qualifiers, Asia, 2022",Vietnam vs Saudi Arabia,16-11-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+520,883,2566,"World Cup Qualifiers, Asia, 2022",Jordan vs Australia,14-11-2019,Jordan,JO,2019,SUCCESS,Ahmed Hisham,100000,FALSE,Used Average of Season Before and After,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+521,885,2571,"World Cup Qualifiers, Asia, 2022",Qatar vs Bangladesh,04-12-2020,Qatar,QA,2020,SUCCESS,Ahmed Al-Saadi,600000,FALSE,Found in Curr Season,FALSE,Ahmed Alaaeldin,Ahmed Alaa,single,Done
+522,887,2575,"World Cup Qualifiers, Asia, 2022",Cambodia vs Iraq,15-10-2019,Iraq,IQ,2019,SUCCESS,Ahmad Salah Alwan,300000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+523,890,2577,"World Cup Qualifiers, Asia, 2022",Nepal vs Kuwait,19-11-2019,Kuwait,KW,2019,SUCCESS,Bashar Abdullah,0,FALSE,Only Before + Zero Before,FALSE,Dhary Saeed,Dhari Abdullah,single,Done
+524,891,2577,"World Cup Qualifiers, Asia, 2022",Nepal vs Kuwait,19-11-2019,Kuwait,KW,2019,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+525,892,2578,"World Cup Qualifiers, Asia, 2022",Iraq vs Iran,14-11-2019,Iraq,IQ,2019,SUCCESS,Ahmad Salah Alwan,300000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+526,893,881,"Euros 2024, Qualifiers",Norway vs Scotland,17.06.23,Norway,NO,2023,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+527,894,884,"Euros 2024, Qualifiers",Norway vs Cyprus,20.06.23,Norway,NO,2023,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+528,895,888,"Euros 2024, Qualifiers",Norway vs Georgia,12.09.23,Norway,NO,2023,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+529,896,890,"Euros 2024, Qualifiers",Cyprus vs Norway,12.10.23,Norway,NO,2023,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+530,897,892,"Euros 2024, Qualifiers",Norway vs Spain,15.10.23,Norway,NO,2023,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+531,900,3953,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Jamaica,06-Sep-13,Panama,PA,2013,SUCCESS,Cecilio Waterman,120000,FALSE,Only Before,FALSE,Cecilio Waterman,Waterman,single,Done
+532,904,1554,Nations League 2020-2021,Denmark vs Belgium,05.09.20,Denmark,DK,2020,SUCCESS,Pierre-Emile Højbjerg,35000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+533,907,1558,Nations League 2020-2021,Iceland vs Denmark,11.10.20,Denmark,DK,2020,SUCCESS,Pierre-Emile Højbjerg,35000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+534,908,1559,Nations League 2020-2021,England vs Denmark,14.10.20,Denmark,DK,2020,SUCCESS,Pierre-Emile Højbjerg,35000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+535,911,1564,Nations League 2020-2021,Belgium vs Denmark,18.11.20,Denmark,DK,2020,SUCCESS,Pierre-Emile Højbjerg,35000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+536,912,3897,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Canada,08-Jun-12,Cuba,CU,2012,SUCCESS,Carlos Francisco,0,FALSE,Only Before + Zero Before,FALSE,Carlos Francisco,Francisco,single,Done
+537,913,3897,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Canada,08-Jun-12,Cuba,CU,2012,SUCCESS,Alain Cervantes,90000,FALSE,Only Before,FALSE,Alain Cervantes,Cervantes,single,Done
+538,914,3897,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Canada,08-Jun-12,Canada,CA,2012,SUCCESS,Will Johnson,600000,FALSE,Found in Curr Season,FALSE,Will Johnson,Johnson,single,Done
+539,915,3898,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs Guyana,08-Jun-12,Guyana,GY,2012,SUCCESS,Jordi Cortizo,600000,FALSE,Only Before,FALSE,Leon Cort,Cort,single,Done
+540,917,3900,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Panama,08-Jun-12,Panama,PA,2012,SUCCESS,Luis Mejía,150000,FALSE,Found in Curr Season,FALSE,Luis Mejía,Mejía,single,Done
+541,918,3901,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs El Salvador,08-Jun-12,Costa Rica,CR,2012,SUCCESS,Brayan Rojas,1500000,FALSE,Found in Curr Season,FALSE,Óscar Rojas,Óscar Rojas,single,Done
+542,928,3907,"World Cup 2014, Qualifiers, CONCACAF",Guyana vs Costa Rica,12-Jun-12,Guyana,GY,2012,SUCCESS,Chris Bourne,0,FALSE,Only Before + Zero Before,FALSE,Chris Bourne,Bourne,single,Done
+543,933,3908,"World Cup 2014, Qualifiers, CONCACAF",Panama vs Cuba,12-Jun-12,Panama,PA,2012,SUCCESS,David Perez,1500000,FALSE,Found in Curr Season,FALSE,Blas Pérez,B Perez,single,Done
+544,934,3909,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Honduras,07-Sep-12,Honduras,HN,2012,SUCCESS,Onel Hernández,1000000,FALSE,Found in Curr Season,FALSE,Víctor Bernárdez,Bernárdez,single,Done
+545,935,3909,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Honduras,07-Sep-12,Cuba,CU,2012,SUCCESS,Félix Guerra,0,FALSE,Only Before + Zero Before,FALSE,Félix Guerra,Figueroa,single,Done
+546,936,3909,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Honduras,07-Sep-12,Cuba,CU,2012,SUCCESS,Keyler García,0,FALSE,Only Before + Zero Before,FALSE,Keyler García,García,single,Done
+547,937,3909,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Honduras,07-Sep-12,Cuba,CU,2012,SUCCESS,Keyler García,0,FALSE,Only Before + Zero Before,FALSE,Keyler García,García,single,Done
+548,939,3909,"World Cup 2014, Qualifiers, CONCACAF",Cuba vs Honduras,07-Sep-12,Cuba,CU,2012,SUCCESS,Roby Norales,0,FALSE,Used Average of Season Before and After,FALSE,Jorge Corrales,Corrales,single,Done
+549,943,3910,"World Cup 2014, Qualifiers, CONCACAF",Jamaica vs USA,07-Sep-12,Jamaica,JM,2012,SUCCESS,Nyron Nosworthy,400000,FALSE,Only Before,FALSE,Nyron Nosworthy,Nosworthy,single,Done
+550,947,3912,"World Cup 2014, Qualifiers, CONCACAF",Canada vs Panama,07-Sep-12,Canada,CA,2012,SUCCESS,Patrice Bernier,500000,FALSE,Found in Curr Season,FALSE,Patrice Bernier,Bernier,single,Done
+551,954,3914,"World Cup 2014, Qualifiers, CONCACAF",Costa Rica vs Mexico,07-Sep-12,Costa Rica,CR,2012,SUCCESS,Alan Cervantes,1300000,FALSE,Found in Curr Season,FALSE,Michael Barrantes,Barrantes,single,Done
+552,956,3920,"World Cup 2014, Qualifiers, CONCACAF",USA vs Jamaica,11-Sep-12,Jamaica,JM,2012,SUCCESS,Nyron Nosworthy,400000,FALSE,Only Before,FALSE,Nyron Nosworthy,Nosworthy,single,Done
+553,958,3927,"World Cup 2014, Qualifiers, CONCACAF",Honduras vs Canada,16-Oct-12,Canada,CA,2012,SUCCESS,Will Johnson,600000,FALSE,Found in Curr Season,FALSE,Will Johnson,Johnson,single,Done
+554,973,3932,"World Cup 2014, Qualifiers, CONCACAF",Mexico vs El Salvador,16-Oct-12,El Salvador,SV,2012,SUCCESS,Jairo Henríquez,0,FALSE,Used Average of Season Before and After,FALSE,Mardoqueo Henríquez,Enríquez,single,Done
+555,979,3591,"African Cup of Nations, 2021",Burkina Faso vs Ethiopia,17-01-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+556,980,3595,"African Cup of Nations, 2021",Egypt vs Morocco,30-01-2022,Egypt,EG,2022,SUCCESS,Mohamed Aboutreika,1200000,FALSE,Found in Curr Season,FALSE,Gabaski,Mohamed Abou Gabal,single,Done
+557,981,3603,"African Cup of Nations, 2021",Tunisia vs Mali,12-01-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+558,982,3604,"African Cup of Nations, 2021",Burkina Faso vs Gabon,23-01-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+559,983,3615,"African Cup of Nations, 2021",Cape Verde vs Burkina Faso,13-01-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+560,984,3616,"African Cup of Nations, 2021",Burkina Faso vs Cameroon,05-02-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+561,985,3617,"African Cup of Nations, 2021",Cameroon vs Burkina Faso,09-01-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+562,986,3619,"African Cup of Nations, 2021",Burkina Faso vs Tunisia,29-01-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+563,987,3622,"African Cup of Nations, 2021",Gambia vs Mali,16-01-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+564,988,3625,"African Cup of Nations, 2021",Burkina Faso vs Senegal,02-02-2022,Burkina Faso,BF,2022,SUCCESS,Ben Traoré,175000,FALSE,Found in Curr Season,FALSE,Ibrahim Blati Touré,B Touré,single,Done
+565,989,3631,"African Cup of Nations, 2021",Mali vs Mauritania,20-01-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+566,990,3632,"African Cup of Nations, 2021",Senegal vs Egypt,06-02-2022,Egypt,EG,2022,SUCCESS,Mohamed Aboutreika,1200000,FALSE,Found in Curr Season,FALSE,Gabaski,Mohamed Abou Gabal,single,Done
+567,991,3635,"African Cup of Nations, 2021",Mali vs Equatorial Guinea,26-01-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+568,992,3637,"African Cup of Nations, 2021",Cameroon vs Egypt,03-02-2022,Egypt,EG,2022,SUCCESS,Mohamed Aboutreika,1200000,FALSE,Found in Curr Season,FALSE,Gabaski,Mohamed Abou Gabal,single,Done
+569,993,2032,"World Cup Qualifiers, Africa, 2018",Algeria vs Tanzania,17-11-2015,Tanzania,TZ,2015,SUCCESS,Haji Mnoga,0,FALSE,Only After + Zero After,FALSE,Mwinyi Mngwali,H Mngwali,single,Done
+570,998,2051,"World Cup Qualifiers, Africa, 2022",Mozambique vs Malawi,16-11-2021,Mozambique,MZ,2021,SUCCESS,Hélder Pelembe,75000,FALSE,Found in Curr Season,FALSE,Domingues,Elias Pelembe,single,Done
+571,1001,2054,"World Cup Qualifiers, Africa, 2022",Malawi vs Cameroon,13-11-2021,Malawi,MW,2021,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+572,1003,2060,"World Cup Qualifiers, Africa, 2022",Algeria vs Niger,08-10-2021,Niger,NE,2021,SUCCESS,Souleymane Sacko,0,FALSE,Used Average of Season Before and After,FALSE,Mahamadou Souley,M Souley Salamoun,single,Done
+573,1004,2060,"World Cup Qualifiers, Africa, 2022",Algeria vs Niger,08-10-2021,Niger,NE,2021,SUCCESS,Moumouni Diori,0,FALSE,Used Average of Season Before and After,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+574,1005,2061,"World Cup Qualifiers, Africa, 2022",Djibouti vs Niger,06-09-2021,Niger,NE,2021,SUCCESS,Souleymane Sacko,0,FALSE,Used Average of Season Before and After,FALSE,Mahamadou Souley,M Souley Salamoun,single,Done
+575,1006,2061,"World Cup Qualifiers, Africa, 2022",Djibouti vs Niger,06-09-2021,Niger,NE,2021,SUCCESS,Moumouni Diori,0,FALSE,Used Average of Season Before and After,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+576,1007,2062,"World Cup Qualifiers, Africa, 2022",Malawi vs Botswana,10-09-2019,Malawi,MW,2019,SUCCESS,Patrick Phiri,250000,FALSE,Found in Curr Season,FALSE,Gerald Phiri Junior,G Phiri,single,Done
+577,1013,2069,"World Cup Qualifiers, Africa, 2022",Chad vs Sudan,05-09-2019,Sudan,SD,2019,SUCCESS,Saleem Mohamed,0,FALSE,Only After + Zero After,FALSE,Ahmed Adam,A Adam Mohammad,single,Done
+578,1014,2071,"World Cup Qualifiers, Africa, 2022",Gabon vs Egypt,05-09-2021,Egypt,EG,2021,SUCCESS,Mohamed Magdy,1500000,FALSE,Found in Curr Season,FALSE,Afsha,Mohamed Magdi Kafsha,single,Done
+579,1015,3375,"World Cup Qualifiers, Europe, 2022",Liechtenstein vs Iceland,31-03-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+580,1016,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+581,1017,3377,"World Cup Qualifiers, Europe, 2022",Iceland vs Armenia,08-10-2021,Iceland,IS,2021,SUCCESS,Helgi Danielsson,125000,FALSE,Found in Curr Season,FALSE,Thórir Jóhann Helgason,Þ Helgason,single,Done
+582,1018,3383,"World Cup Qualifiers, Europe, 2022",North Macedonia vs Iceland,14-11-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+583,1021,1018,"Euros 2024, Qualifiers",Denmark vs Finland,23.03.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+584,1022,1020,"Euros 2024, Qualifiers",Kazakhstan vs Denmark,26.03.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+585,1023,1024,"Euros 2024, Qualifiers",Denmark vs Northern Ireland,16.06.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+586,1024,1027,"Euros 2024, Qualifiers",Slovenia vs Denmark,19.06.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+587,1025,1030,"Euros 2024, Qualifiers",Denmark vs San Marino,07.09.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+588,1026,1033,"Euros 2024, Qualifiers",Finland vs Denmark,10.09.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+589,1027,1037,"Euros 2024, Qualifiers",Denmark vs Kazakhstan,14.10.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+590,1028,1040,"Euros 2024, Qualifiers",San Marino vs Denmark,17.10.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+591,1029,1043,"Euros 2024, Qualifiers",Denmark vs Slovenia,17.11.23,Denmark,DK,2023,SUCCESS,Pierre-Emile Højbjerg,28000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+592,1033,3384,"World Cup Qualifiers, Europe, 2022",Iceland vs Romania,02-09-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+593,1034,3088,"World Cup Qualifiers, Europe, 2018",Moldova vs Serbia,06-10-2016,Serbia,RS,2016,SUCCESS,Boris Radunović,5000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+594,1035,3109,"World Cup Qualifiers, Europe, 2018",Wales vs Serbia,12-11-2016,Serbia,RS,2016,SUCCESS,Boris Radunović,5000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+595,1037,1643,Nations League 2020-2021,Azerbaijan vs Cyprus,13.10.20,Azerbaijan,AZ,2020,SUCCESS,Magomed Kurbanov,500000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+596,1038,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Azerbaijan,AZ,2020,SUCCESS,Magomed Kurbanov,500000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+597,1039,1647,Nations League 2020-2021,Luxembourg vs Azerbaijan,17.11.20,Azerbaijan,AZ,2020,SUCCESS,Magomed Kurbanov,500000,FALSE,Found in Curr Season,FALSE,Shahrudin Mahammadaliyev,Magomedaliyev,single,Done
+598,1041,2783,"World Cup Qualifiers, Europe, 2014",Serbia vs Scotland,26-03-2013,Serbia,RS,2013,SUCCESS,Boris Radunović,19000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+599,1042,2785,"World Cup Qualifiers, Europe, 2014",North Macedonia vs Wales,06-09-2013,North Macedonia,MK,2013,SUCCESS,Dejan Pesevski,1500000,FALSE,Only Before,FALSE,Darko Tasevski,D Tasevski,single,Done
+600,1044,2791,"World Cup Qualifiers, Europe, 2014",Malta vs Bulgaria,10-09-2013,Malta,MT,2013,SUCCESS,Shaun Dimech,60000,FALSE,Only Before,FALSE,Luke Dimech,L Dimech,single,Done
+601,1045,2805,"World Cup Qualifiers, Europe, 2014",Latvia vs Bosnia-Herzegovina-Herzegovina,07-06-2013,Latvia,LV,2013,SUCCESS,Nikita Ivanovs,420000,FALSE,Only Before,FALSE,Deniss Ivanovs,D Ivanovs,single,Done
+602,1048,2808,"World Cup Qualifiers, Europe, 2014",Liechtenstein vs Latvia,22-03-2013,Latvia,LV,2013,SUCCESS,Nikita Ivanovs,420000,FALSE,Only Before,FALSE,Deniss Ivanovs,D Ivanovs,single,Done
+603,1053,2819,"World Cup Qualifiers, Europe, 2014",Armenia vs Malta,07-06-2013,Malta,MT,2013,SUCCESS,Shaun Dimech,60000,FALSE,Only Before,FALSE,Luke Dimech,L Dimech,single,Done
+604,1056,4305,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Venezuela,01-Sep-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+605,1057,4306,"World Cup 2018, Qualifiers, CONMEBOL",Paraguay vs Chile,01-Sep-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+606,1058,4309,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Bolivia,06-Sep-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+607,1059,4310,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Argentina,06-Sep-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+608,1060,4313,"World Cup 2018, Qualifiers, CONMEBOL",Ecuador vs Chile,06-Oct-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+609,1061,4314,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Venezuela,06-Oct-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+610,1062,4320,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Peru,11-Oct-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+611,1063,4322,"World Cup 2018, Qualifiers, CONMEBOL",Venezuela vs Brazil,11-Oct-16,Venezuela,VE,2016,SUCCESS,Bernardo Añor,1000000,FALSE,Used Average of Season Before and After,FALSE,Juanpi,J Anor,single,Done
+612,1064,4331,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Uruguay,15-Nov-16,Chile,CL,2016,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+613,1069,4337,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Chile,23-Mar-17,Argentina,AR,2017,SUCCESS,Mariano Andújar,55000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+614,1070,4337,"World Cup 2018, Qualifiers, CONMEBOL",Argentina vs Chile,23-Mar-17,Chile,CL,2017,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+615,1073,4339,"World Cup 2018, Qualifiers, CONMEBOL",Bolivia vs Argentina,28-Mar-17,Argentina,AR,2017,SUCCESS,Mariano Andújar,55000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+616,1075,4340,"World Cup 2018, Qualifiers, CONMEBOL",Chile vs Venezuela,28-Mar-17,Chile,CL,2017,SUCCESS,Diego Sánchez,55000000,FALSE,Found in Curr Season,FALSE,Alexis Sánchez,Sanchez,single,Done
+617,1079,4345,"World Cup 2018, Qualifiers, CONMEBOL",Uruguay vs Argentina,31-Aug-17,Argentina,AR,2017,SUCCESS,Mariano Andújar,55000000,FALSE,Found in Curr Season,FALSE,Ángel Di María,D Maria,single,Done
+618,1081,4348,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Brazil,05-Sep-17,Brazil,BR,2017,SUCCESS,Willer Ditta,32000000,FALSE,Found in Curr Season,FALSE,Willian,Willian,single,Done
+619,1082,4348,"World Cup 2018, Qualifiers, CONMEBOL",Colombia vs Brazil,05-Sep-17,Colombia,CO,2017,SUCCESS,Elias,6000000,FALSE,Found in Curr Season,FALSE,Santiago Arias,Arias,single,Done
+620,1087,1792,Nations League 2022-2023,Serbia vs Norway,02.06.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+621,1088,1794,Nations League 2022-2023,Sweden vs Norway,05.06.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+622,1089,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+623,1090,1798,Nations League 2022-2023,Norway vs Sweden,12.06.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+624,1091,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+625,1092,1803,Nations League 2022-2023,Norway vs Serbia,27.09.22,Norway,NO,2022,SUCCESS,Even Hovland,180000000,FALSE,Found in Curr Season,FALSE,Erling Haaland,E Håland,single,Done
+626,1095,2629,"World Cup Qualifiers, Asia, 2022",Hong Kong vs Bahrain,14-11-2019,Hong Kong,HK,2019,SUCCESS,Jahangir Khan,200000,FALSE,Found in Curr Season,FALSE,Siu-Kwan Philip Chan,Chan Siu Kwan,single,Done
+627,1096,2634,"World Cup Qualifiers, Asia, 2022",Iraq vs Iran,07-09-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+628,1097,2636,"World Cup Qualifiers, Asia, 2022",Vietnam vs Malaysia,10-10-2019,Vietnam,VN,2019,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+629,1098,2636,"World Cup Qualifiers, Asia, 2022",Vietnam vs Malaysia,10-10-2019,Vietnam,VN,2019,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+630,1099,2637,"World Cup Qualifiers, Asia, 2022",Iraq vs Hong Kong,10-10-2019,Iraq,IQ,2019,SUCCESS,Ahmad Salah Alwan,300000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+631,1101,2640,"World Cup Qualifiers, Asia, 2022",Bangladesh vs Oman,15-06-2021,Oman,OM,2021,SUCCESS,Mohsin Al Harbi,200000,FALSE,Found in Curr Season,FALSE,Mohsin Jouhar,Mohsin Al Khaldi,single,Done
+632,1102,2642,"World Cup Qualifiers, Asia, 2022",Australia vs Jordan,15-06-2021,Jordan,JO,2021,SUCCESS,Ahmed Hisham,350000,FALSE,Found in Curr Season,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+633,1103,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia,07-09-2021,Vietnam,VN,2021,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+634,1104,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia,07-09-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+635,1105,2643,"World Cup Qualifiers, Asia, 2022",Vietnam vs Australia,07-09-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+636,1106,2644,"World Cup Qualifiers, Asia, 2022",Jordan vs Chinese Taipei,19-11-2019,Jordan,JO,2019,SUCCESS,Ahmed Hisham,100000,FALSE,Used Average of Season Before and After,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+637,1111,2655,"World Cup Qualifiers, Asia, 2022",Malaysia vs Timor-Leste,07-06-2019,Timor-Leste,TL,2019,SUCCESS,Luis da Silva,12500,FALSE,Used Average of Season Before and After,FALSE,Gaspar Lucas,G Da Silva,single,Done
+638,1112,2657,"World Cup Qualifiers, Asia, 2022",India vs Oman,05-09-2019,India,IN,2019,SUCCESS,Gurmeet Singh,300000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+639,1113,2659,"World Cup Qualifiers, Asia, 2022",Iraq vs Bahrain,19-11-2019,Iraq,IQ,2019,SUCCESS,Ahmad Salah Alwan,300000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+640,1114,2662,"World Cup Qualifiers, Asia, 2022",Syria vs Iraq,29-03-2022,Iraq,IQ,2022,SUCCESS,Ahmad Salah Alwan,720000,FALSE,Only Before,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+641,1115,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam,05-09-2019,Vietnam,VN,2019,SUCCESS,Cong Vinh Le,200000,FALSE,Found in Curr Season,FALSE,Van Lam Dang,ng Văn Lâm,single,Done
+642,1116,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam,05-09-2019,Vietnam,VN,2019,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+643,1117,2663,"World Cup Qualifiers, Asia, 2022",Thailand vs Vietnam,05-09-2019,Vietnam,VN,2019,SUCCESS,Duy Cuong Luong,200000,FALSE,Found in Curr Season,FALSE,Phong Hong Duy Nguyen,Duy Nguyen Phong Hong,single,Done
+644,1118,2664,"World Cup Qualifiers, Asia, 2022",Jordan vs Nepal,15-10-2019,Jordan,JO,2019,SUCCESS,Ahmed Hisham,100000,FALSE,Used Average of Season Before and After,FALSE,Ahmad Sameer,Ahmed Samir,single,Done
+645,1122,2670,"World Cup Qualifiers, Asia, 2022",Pakistan vs Cambodia,11-06-2019,Cambodia,KH,2019,SUCCESS,Ouk Sothy,0,FALSE,Used Average of Season Before and After,FALSE,Sovann Ouk,Ouk Sovann,single,Done
+646,1123,2673,"World Cup Qualifiers, Asia, 2022",Cambodia vs Bahrain,10-09-2019,Cambodia,KH,2019,SUCCESS,Ouk Sothy,0,FALSE,Used Average of Season Before and After,FALSE,Sovann Ouk,Ouk Sovann,single,Done
+647,1125,2677,"World Cup Qualifiers, Asia, 2022",South Korea vs Iraq,02-09-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+648,1126,4161,"World Cup 2022, Qualifiers, CONCACAF",Panama vs USA,10-Oct-21,Panama,PA,2021,SUCCESS,Martín Gómez,300000,FALSE,Found in Curr Season,FALSE,Christian Martínez,Martinez,single,Done
+649,1127,4165,"World Cup 2022, Qualifiers, CONCACAF",Canada vs Panama,13-Oct-21,Panama,PA,2021,SUCCESS,Martín Gómez,300000,FALSE,Found in Curr Season,FALSE,Christian Martínez,Martinez,single,Done
+650,1128,4168,"World Cup 2022, Qualifiers, CONCACAF",Honduras vs Panama,12-Nov-21,Panama,PA,2021,SUCCESS,Martín Gómez,300000,FALSE,Found in Curr Season,FALSE,Christian Martínez,Martinez,single,Done
+651,1137,4197,"World Cup 2022, Qualifiers, CONCACAF",Panama vs Canada,30-Mar-22,Panama,PA,2022,SUCCESS,Martín Gómez,250000,FALSE,Found in Curr Season,FALSE,Christian Martínez,Martinez,single,Done
+652,1138,3220,"World Cup Qualifiers, Europe, 2022",Iceland vs Liechtenstein,11-10-2021,Iceland,IS,2021,SUCCESS,Helgi Danielsson,125000,FALSE,Found in Curr Season,FALSE,Thórir Jóhann Helgason,Þ Helgason,single,Done
+653,1139,3233,"World Cup Qualifiers, Europe, 2022",Armenia vs Iceland,28-03-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+654,1142,2279,"World Cup Qualifiers, Asia, 2018",Oman vs India,13-10-2015,India,IN,2015,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+655,1144,2289,"World Cup Qualifiers, Asia, 2018",India vs Iran,08-09-2015,India,IN,2015,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+656,1145,2290,"World Cup Qualifiers, Asia, 2018",Iran vs Oman,29-03-2016,Oman,OM,2016,SUCCESS,Mohsin Al Harbi,100000,FALSE,Found in Curr Season,FALSE,Mohsin Jouhar,Mohsin Al Khaldi,single,Done
+657,1146,2291,"World Cup Qualifiers, Asia, 2018",Maldives vs China PR,8-9-2015,Maldives,MV,2015,SUCCESS,Mohamed Sakhaau,0,FALSE,Used Average of Season Before and After,FALSE,Samdhooh Mohamed,Mohamed Samdooh,single,Done
+658,1148,2298,"World Cup Qualifiers, Asia, 2018",Vietnam vs Chinese Taipei,24-03-2016,Chinese Taipei,TW,2016,SUCCESS,Cheng-Yi Lin,0,FALSE,Used Average of Season Before and After,FALSE,Yi-Wei Chen,Chen Yi-wei,single,Done
+659,1149,2299,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Thailand,16-06-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,0,FALSE,Used Average of Season Before and After,FALSE,Ting-Yang Chen,Chen Ting-yang,single,Done
+660,1150,2299,"World Cup Qualifiers, Asia, 2018",Chinese Taipei vs Thailand,16-06-2015,Chinese Taipei,TW,2015,SUCCESS,Chien-ming Wang,75000,FALSE,Found in Curr Season,FALSE,Po-Liang Chen,Chen Po-liang,single,Done
+661,1153,2304,"World Cup Qualifiers, Asia, 2018",Qatar vs Maldives,13-10-2015,Maldives,MV,2015,SUCCESS,Mohamed Sakhaau,0,FALSE,Used Average of Season Before and After,FALSE,Samdhooh Mohamed,Mohamed Samdooh,single,Done
+662,1156,2311,"World Cup Qualifiers, Asia, 2018",India vs Guam,12-11-2015,India,IN,2015,SUCCESS,Gurmeet Singh,100000,FALSE,Found in Curr Season,FALSE,Gurpreet Singh Sandhu,Gurpreet Singh,single,Done
+663,1158,692,"Euros 2020, Qualifiers",Denmark vs Georgia,10.06.19,Denmark,DK,2019,SUCCESS,Pierre-Emile Højbjerg,12000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+664,1159,695,"Euros 2020, Qualifiers",Gibraltar vs Denmark,05.09.19,Denmark,DK,2019,SUCCESS,Pierre-Emile Højbjerg,12000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+665,1160,697,"Euros 2020, Qualifiers",Georgia vs Denmark,08.09.19,Denmark,DK,2019,SUCCESS,Pierre-Emile Højbjerg,12000000,FALSE,Found in Curr Season,FALSE,Pierre-Emile Højbjerg,Hojbjerg,single,Done
+666,1180,165,World Cup 2014,Netherlands vs Costa Rica,05.07.14,Costa Rica,CR,2014,SUCCESS,Luis Díaz,1000000,FALSE,Found in Curr Season,FALSE,Júnior Díaz,Ju Diaz,single,Done
+667,1181,169,World Cup 2014,Costa Rica vs Greece,29.06.14,Costa Rica,CR,2014,SUCCESS,Luis Díaz,1000000,FALSE,Found in Curr Season,FALSE,Júnior Díaz,Ju Diaz,single,Done
+668,1182,175,World Cup 2014,Mexico vs Cameroon,13.06.14,Cameroon,CM,2014,SUCCESS,Nouhou,13000000,FALSE,Found in Curr Season,FALSE,Nicolas N'Koulou,Nkoulou,single,Done
+669,1183,177,World Cup 2014,Cameroon vs Croatia,19.06.14,Cameroon,CM,2014,SUCCESS,Nouhou,13000000,FALSE,Found in Curr Season,FALSE,Nicolas N'Koulou,Nkoulou,single,Done
+670,1184,178,World Cup 2014,Cameroon vs Brazil,23.06.14,Cameroon,CM,2014,SUCCESS,Nouhou,13000000,FALSE,Found in Curr Season,FALSE,Nicolas N'Koulou,Nkoulou,single,Done
+671,1187,192,World Cup 2014,Uruguay vs Costa Rica,14.06.14,Costa Rica,CR,2014,SUCCESS,Luis Díaz,1000000,FALSE,Found in Curr Season,FALSE,Júnior Díaz,Ju Diaz,single,Done
+672,1188,195,World Cup 2014,Italy vs Costa Rica,20.06.14,Costa Rica,CR,2014,SUCCESS,Luis Díaz,1000000,FALSE,Found in Curr Season,FALSE,Júnior Díaz,Ju Diaz,single,Done
+673,1189,197,World Cup 2014,Costa Rica vs England,24.06.14,Costa Rica,CR,2014,SUCCESS,Luis Díaz,1000000,FALSE,Found in Curr Season,FALSE,Júnior Díaz,Ju Diaz,single,Done
+674,1193,2484,"World Cup Qualifiers, Asia, 2022",Syria vs South Korea,01-02-2022,South Korea,KR,2022,SUCCESS,Jeong-ho Hong,3500000,FALSE,Found in Curr Season,FALSE,Woo-yeong Jeong,Jeong Woo-Yeong,single,Done
+675,1197,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei,03-06-2021,Chinese Taipei,TW,2021,SUCCESS,Cheng Chou,50000,FALSE,Found in Curr Season,FALSE,Hao Cheng,Chen Chao-an,single,Done
+676,1199,2495,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Vietnam,15-06-2021,Vietnam,VN,2021,SUCCESS,Thanh Hien Nguyen,300000,FALSE,Found in Curr Season,FALSE,Ngoc Hai Que,Qu Ngc Hi,single,Done
+677,1200,2495,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Vietnam,15-06-2021,Vietnam,VN,2021,SUCCESS,Xuan Hung Luc,200000,FALSE,Found in Curr Season,FALSE,Hoang Duc Nguyen,Nguyn Hoàng c,single,Done
+678,1203,2498,"World Cup Qualifiers, Asia, 2022",United Arab Emirates vs Iraq,12-10-2021,Iraq,IQ,2021,SUCCESS,Ahmad Salah Alwan,600000,FALSE,Found in Curr Season,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+679,1207,2502,"World Cup Qualifiers, Asia, 2022",Oman vs Bangladesh,14-11-2019,Oman,OM,2019,SUCCESS,Mohsin Al Harbi,100000,FALSE,Found in Curr Season,FALSE,Mohsin Jouhar,Mohsin Al Khaldi,single,Done
+680,1208,2502,"World Cup Qualifiers, Asia, 2022",Oman vs Bangladesh,14-11-2019,Oman,OM,2019,SUCCESS,Said Obaid,87500,FALSE,Used Average of Season Before and After,FALSE,Salah Al-Yahyaei,Said Salim,single,Done
+681,1213,2511,"World Cup Qualifiers, Asia, 2022",Cambodia vs Pakistan,06-06-2019,Cambodia,KH,2019,SUCCESS,Ouk Sothy,0,FALSE,Used Average of Season Before and After,FALSE,Sovann Ouk,Ouk Sovann,single,Done
+682,1216,2518,"World Cup Qualifiers, Asia, 2022",Iraq vs United Arab Emirates,24-03-2022,Iraq,IQ,2022,SUCCESS,Ahmad Salah Alwan,720000,FALSE,Only Before,FALSE,Ahmed Ibrahim Khalaf,Ahmad Ibrahim Al-Qafaje,single,Done
+683,1219,2523,"World Cup Qualifiers, Asia, 2022",Jordan vs Kuwait,10-10-2019,Kuwait,KW,2019,SUCCESS,Bashar Abdullah,0,FALSE,Only Before + Zero Before,FALSE,Dhary Saeed,Dhari Abdullah,single,Done
+684,1221,2523,"World Cup Qualifiers, Asia, 2022",Jordan vs Kuwait,10-10-2019,Kuwait,KW,2019,SUCCESS,Yousef Al-Haqan,100000,FALSE,Found in Curr Season,FALSE,Yousef Nasser,Yousef Al Sulaiman,single,Done
+685,1223,2524,"World Cup Qualifiers, Asia, 2022",Bahrain vs Cambodia,03-06-2021,Cambodia,KH,2021,SUCCESS,Ouk Sothy,12500,FALSE,Used Average of Season Before and After,FALSE,Sovann Ouk,Ouk Sovann,single,Done
+686,1224,1277,Copa America 2019,Venezuela vs Argentina,28.06.19,Venezuela,VE,2019,SUCCESS,Edgar Jiménez,3000000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+687,1225,1281,Copa America 2019,Venezuela vs Peru,15.06.19,Venezuela,VE,2019,SUCCESS,Edgar Jiménez,3000000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+688,1226,1283,Copa America 2019,Brazil vs Venezuela,19.06.19,Venezuela,VE,2019,SUCCESS,Edgar Jiménez,3000000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+689,1227,1284,Copa America 2019,Bolivia vs Venezuela,22.06.19,Venezuela,VE,2019,SUCCESS,Edgar Jiménez,3000000,FALSE,Found in Curr Season,FALSE,Wuilker Fariñez,Farinez,single,Done
+690,1230,2128,"World Cup Qualifiers, Africa, 2022",Mali vs Tunisia,25-03-2022,Mali,ML,2022,SUCCESS,Mohamed Haidara,2500000,FALSE,Found in Curr Season,FALSE,Massadio Haidara,M Haïdara,single,Done
+691,1232,2130,"World Cup Qualifiers, Africa, 2022",Central African Republic vs Cape Verde,01-09-2021,Cape Verde,CV,2021,SUCCESS,Carlos Bebé,1500000,FALSE,Found in Curr Season,FALSE,Ponck,Carlos Ponck,single,Done
+692,1233,2131,"World Cup Qualifiers, Africa, 2022",Niger vs Algeria,12-10-2021,Niger,NE,2021,SUCCESS,Moumouni Diori,0,FALSE,Used Average of Season Before and After,FALSE,Abdoul Madjid Moumouni,B Moumouni,single,Done
+693,1235,2138,"World Cup Qualifiers, Africa, 2022",Liberia vs Cape Verde,07-10-2021,Cape Verde,CV,2021,SUCCESS,Carlos Bebé,1500000,FALSE,Found in Curr Season,FALSE,Ponck,Carlos Ponck,single,Done
+694,1236,2142,"World Cup Qualifiers, Africa, 2022",Lesotho vs Ethiopia,08-09-2019,Lesotho,LS,2019,SUCCESS,Thabiso Mari,0,FALSE,Only Before + Zero Before,FALSE,Ntsane Lichaba,L Thabiso,single,Done
+695,1238,2145,"World Cup Qualifiers, Africa, 2022",Cote d'Ivoire vs Mozambique,13-11-2021,Mozambique,MZ,2021,SUCCESS,Hélder Pelembe,75000,FALSE,Found in Curr Season,FALSE,Domingues,Elias Pelembe,single,Done
+696,1242,2156,"World Cup Qualifiers, Africa, 2022",Egypt vs Angola,01-09-2021,Egypt,EG,2021,SUCCESS,Mohamed Magdy,1500000,FALSE,Found in Curr Season,FALSE,Afsha,Mohamed Magdi Kafsha,single,Done
+697,1247,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Mor Nguer,800000,FALSE,Found in Curr Season,FALSE,Moussa Wagué,M Wague,single,Done
+698,1248,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Mor Nguer,800000,FALSE,Found in Curr Season,FALSE,Moussa Wagué,M Wague,single,Done
+699,1250,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Álex Rodríguez,450000,FALSE,Found in Curr Season,FALSE,Puma,P Rodríguez,single,Done
+700,1252,2990,"World Cup Qualifiers, Europe, 2018",Serbia vs Republic of Ireland,05-09-2016,Serbia,RS,2016,SUCCESS,Boris Radunović,5000000,FALSE,Found in Curr Season,FALSE,Branislav Ivanovic,B Ivanović,single,Done
+701,1253,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+702,1254,3270,"World Cup Qualifiers, Europe, 2022",Iceland vs Germany,08-09-2021,Iceland,IS,2021,SUCCESS,Helgi Danielsson,125000,FALSE,Found in Curr Season,FALSE,Thórir Jóhann Helgason,Þ Helgason,single,Done
+703,1255,3281,"World Cup Qualifiers, Europe, 2022",Iceland vs North Macedonia,05-09-2021,Iceland,IS,2021,SUCCESS,Bödvar Bödvarsson,160000,FALSE,Only Before,FALSE,Birkir Már Saevarsson,B Sævarsson,single,Done
+704,1257,1497,Nations League 2018-2020,Andorra vs Georgia,15.11.18,Andorra,AD,2018,SUCCESS,Izan Fernández,25000,FALSE,Used Average of Season Before and After,FALSE,Cucu,R Fernandez,single,Done

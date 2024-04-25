@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,2500,59,U-20 World Cup 2019,08.06.19,South Korea U-20 vs Senegal U-20,2019,Senegal,SN,13. Сиссе,Pape Abou Cisse,['Souleymane Cissé'],Success
+1,2501,59,U-20 World Cup 2019,08.06.19,South Korea U-20 vs Senegal U-20,2019,Senegal,SN,4. Дианье,Diagne,['Cavin Diagne'],Success
+2,2502,59,U-20 World Cup 2019,08.06.19,South Korea U-20 vs Senegal U-20,2019,Senegal,SN,7. Санья,Sanya,['Amadou Sagna'],Success
+3,2503,59,U-20 World Cup 2019,08.06.19,South Korea U-20 vs Senegal U-20,2019,Senegal,SN,15. Ньянг,Niang,['Ousseynou Niang'],Success
+4,2504,59,U-20 World Cup 2019,08.06.19,South Korea U-20 vs Senegal U-20,2019,Senegal,SN,19. Баджи,Badji,['Youssouph Badji'],Success
+5,2505,158,World Cup 2014,13.07.14,Germany vs Argentina,2014,Germany,DE,11. Клозе,Klose,['Miroslav Klose'],Success
+6,2506,158,World Cup 2014,13.07.14,Germany vs Argentina,2014,Argentina,AR,8. Перес Эн.,Peres En,['Enzo Pérez'],Success
+7,2507,159,World Cup 2014,12.07.14,Brazil vs Netherlands,2014,Brazil,BR,14. Максвелл,Maxwell,['Maxwell'],Success
+8,2508,159,World Cup 2014,12.07.14,Brazil vs Netherlands,2014,Brazil,BR,23. Майкон,Maicon,['Maicon'],Success
+9,2509,159,World Cup 2014,12.07.14,Brazil vs Netherlands,2014,Brazil,BR,21. Жо,Jo,"['Jô', 'Jorge', 'Jonas', 'Willian José', 'Joelinton', 'João Gomes', 'João Pedro']",Success
+10,2510,160,World Cup 2014,08.07.14,Brazil vs Germany,2014,Brazil,BR,23. Майкон,Maicon,['Maicon'],Success
+11,2511,160,World Cup 2014,08.07.14,Brazil vs Germany,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+12,2512,160,World Cup 2014,08.07.14,Brazil vs Germany,2014,Germany,DE,11. Клозе,Klose,['Miroslav Klose'],Success
+13,2513,161,World Cup 2014,09.07.14,Netherlands vs Argentina,2014,Argentina,AR,8. Перес Эн.,Peres En,['Enzo Pérez'],Success
+14,2514,162,World Cup 2014,04.07.14,France vs Germany,2014,Germany,DE,11. Клозе,Klose,['Miroslav Klose'],Success
+15,2515,163,World Cup 2014,04.07.14,Brazil vs Colombia,2014,Brazil,BR,23. Майкон,Maicon,['Maicon'],Success
+16,2516,163,World Cup 2014,04.07.14,Brazil vs Colombia,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+17,2517,163,World Cup 2014,04.07.14,Brazil vs Colombia,2014,Colombia,CO,3. Йепес,Yepes,['Mario Yepes'],Success
+18,2518,163,World Cup 2014,04.07.14,Brazil vs Colombia,2014,Colombia,CO,13. Гуарин,Guarin,['Fredy Guarín'],Success
+19,2519,164,World Cup 2014,05.07.14,Argentina vs Belgium,2014,Belgium,BE,15. ван Буйтен,van Buyten,['Daniel Van Buyten'],Success
+20,2520,166,World Cup 2014,28.06.14,Brazil vs Chile,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+21,2521,167,World Cup 2014,28.06.14,Colombia vs Uruguay,2014,Colombia,CO,3. Йепес,Yepes,['Mario Yepes'],Success
+22,2522,167,World Cup 2014,28.06.14,Colombia vs Uruguay,2014,Colombia,CO,8. Агилар,Abel Aguilar,['Abel Aguilar'],Success
+23,2523,167,World Cup 2014,28.06.14,Colombia vs Uruguay,2014,Uruguay,UY,10. Форлан,Forlan,['Diego Forlán'],Success
+24,2524,168,World Cup 2014,29.06.14,Netherlands vs Mexico,2014,Mexico,MX,2. Маса Родригес,Masa Rodriguez,['Francisco Rodríguez'],Success
+25,2525,169,World Cup 2014,29.06.14,Costa Rica vs Greece,2014,Greece,GR,10. Карагунис,Karagunis,['Georgios Karagounis'],Success
+26,2526,169,World Cup 2014,29.06.14,Costa Rica vs Greece,2014,Greece,GR,14. Салпигидис,Dimitrios Salpingidis,['Dimitrios Salpingidis'],Success
+27,2527,170,World Cup 2014,30.06.14,France vs Nigeria,2014,Nigeria,NG,1. Эньяма,Enyama,['Vincent Enyeama'],Success
+28,2528,170,World Cup 2014,30.06.14,France vs Nigeria,2014,Nigeria,NG,13. Ошанива,Oshaniva,['Juwon Oshaniwa'],Success
+29,2529,171,World Cup 2014,30.06.14,Germany vs Algeria,2014,Algeria,DZ,19. Таидер,Taider,['Saphir Taïder'],Success
+30,2530,173,World Cup 2014,01.07.14,Belgium vs United States,2014,Belgium,BE,15. ван Буйтен,van Buyten,['Daniel Van Buyten'],Success
+31,2531,173,World Cup 2014,01.07.14,Belgium vs United States,2014,United States,US,3. Гонсалес О.,O Gonzalez,['Omar González'],Success
+32,2532,173,World Cup 2014,01.07.14,Belgium vs United States,2014,United States,US,7. Бисли,Bisli,['DaMarcus Beasley'],Success
+33,2533,174,World Cup 2014,12.06.14,Brazil vs Croatia,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+34,2534,174,World Cup 2014,12.06.14,Brazil vs Croatia,2014,Croatia,HR,1. Плетикоса,Pletikosa,['Stipe Pletikosa'],Success
+35,2535,175,World Cup 2014,13.06.14,Mexico vs Cameroon,2014,Mexico,MX,2. Маса Родригес,Masa Rodriguez,['Francisco Rodríguez'],Success
+36,2536,175,World Cup 2014,13.06.14,Mexico vs Cameroon,2014,Mexico,MX,23. Васкес Х.,H  Vaskes,['José Juan Vázquez'],Success
+37,2537,175,World Cup 2014,13.06.14,Mexico vs Cameroon,2014,Cameroon,CM,16. Итанж,Itang,['Charles Itandje'],Success
+38,2538,175,World Cup 2014,13.06.14,Mexico vs Cameroon,2014,Cameroon,CM,4. Джегу,Jegu,['Aurélien Chedjou'],Success
+39,2539,175,World Cup 2014,13.06.14,Mexico vs Cameroon,2014,Cameroon,CM,18. Эно,Hainaut,['Eyong Enoh'],Success
+40,2540,176,World Cup 2014,17.06.14,Brazil vs Mexico,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+41,2541,176,World Cup 2014,17.06.14,Brazil vs Mexico,2014,Mexico,MX,2. Маса Родригес,Masa Rodriguez,['Francisco Rodríguez'],Success
+42,2542,176,World Cup 2014,17.06.14,Brazil vs Mexico,2014,Mexico,MX,23. Васкес Х.,H  Vaskes,['José Juan Vázquez'],Success
+43,2543,177,World Cup 2014,19.06.14,Cameroon vs Croatia,2014,Cameroon,CM,16. Итанж,Itang,['Charles Itandje'],Success
+44,2544,177,World Cup 2014,19.06.14,Cameroon vs Croatia,2014,Cameroon,CM,18. Эно,Hainaut,['Eyong Enoh'],Success
+45,2545,177,World Cup 2014,19.06.14,Cameroon vs Croatia,2014,Cameroon,CM,10. Абубакар,Abubakar,"['Vincent Aboubakar', 'Aboubakar Oumarou']",Success
+46,2546,177,World Cup 2014,19.06.14,Cameroon vs Croatia,2014,Croatia,HR,1. Плетикоса,Pletikosa,['Stipe Pletikosa'],Success
+47,2547,178,World Cup 2014,23.06.14,Cameroon vs Brazil,2014,Cameroon,CM,16. Итанж,Itang,['Charles Itandje'],Success
+48,2548,178,World Cup 2014,23.06.14,Cameroon vs Brazil,2014,Cameroon,CM,18. Эно,Hainaut,['Eyong Enoh'],Success
+49,2549,178,World Cup 2014,23.06.14,Cameroon vs Brazil,2014,Cameroon,CM,10. Абубакар,Abubakar,"['Vincent Aboubakar', 'Aboubakar Oumarou']",Success
+50,2550,178,World Cup 2014,23.06.14,Cameroon vs Brazil,2014,Brazil,BR,9. Фред,Fred,['Fred'],Success
+51,2551,179,World Cup 2014,23.06.14,Croatia vs Mexico,2014,Croatia,HR,1. Плетикоса,Pletikosa,['Stipe Pletikosa'],Success
+52,2552,179,World Cup 2014,23.06.14,Croatia vs Mexico,2014,Mexico,MX,2. Маса Родригес,Masa Rodriguez,['Francisco Rodríguez'],Success
+53,2553,179,World Cup 2014,23.06.14,Croatia vs Mexico,2014,Mexico,MX,23. Васкес Х.,H  Vaskes,['José Juan Vázquez'],Success
+54,2554,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,2. Франжич,Franžič,"['Ivan Franjic', 'Tyrese Francois']",Success
+55,2555,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,5. Миллигэн,Milligan,['Mark Milligan'],Success
+56,2556,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,6. Шпиранович,Spiranovic,['Matthew Spiranovic'],Success
+57,2557,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,22. Уилкинсон,Wilkinson,['Alex Wilkinson'],Success
+58,2558,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,23. Брешиано,Bresciano,['Mark Bresciano'],Success
+59,2559,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,4. Кэйхилл,Cahill,['Tim Cahill'],Success
+60,2560,181,World Cup 2014,14.06.14,Chile vs Australia,2014,Australia,AU,11. Оар,Oar,['Tommy Oar'],Success
+61,2561,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,6. Шпиранович,Spiranovic,['Matthew Spiranovic'],Success
+62,2562,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,22. Уилкинсон,Wilkinson,['Alex Wilkinson'],Success
+63,2563,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,17. Маккей,Mackay,['Matt McKay'],Success
+64,2564,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,23. Брешиано,Bresciano,['Mark Bresciano'],Success
+65,2565,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,4. Кэйхилл,Cahill,['Tim Cahill'],Success
+66,2566,182,World Cup 2014,18.06.14,Australia vs Netherlands,2014,Australia,AU,11. Оар,Oar,['Tommy Oar'],Success
+67,2567,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,6. Шпиранович,Spiranovic,['Matthew Spiranovic'],Success
+68,2568,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,22. Уилкинсон,Wilkinson,['Alex Wilkinson'],Success
+69,2569,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,13. Бозанич,Bozanić,['Oliver Bozanic'],Success
+70,2570,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,17. Маккей,Mackay,['Matt McKay'],Success
+71,2571,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,11. Оар,Oar,['Tommy Oar'],Success
+72,2572,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Australia,AU,9. Таггарт,Taggart,['Adam Taggart'],Success
+73,2573,184,World Cup 2014,23.06.14,Australia vs Spain,2014,Spain,ES,7. Вилья,Vilya,"['David Villa', 'Gonzalo Villar']",Success
+74,2574,186,World Cup 2014,14.06.14,Colombia vs Greece,2014,Colombia,CO,3. Йепес,Yepes,['Mario Yepes'],Success
+75,2575,186,World Cup 2014,14.06.14,Colombia vs Greece,2014,Colombia,CO,8. Агилар,Abel Aguilar,['Abel Aguilar'],Success
+76,2576,186,World Cup 2014,14.06.14,Colombia vs Greece,2014,Greece,GR,21. Кацуранис,Kacuranis,"['Orestis Karnezis', 'Konstantinos Katsouranis', 'Georgios Karagounis']",Success
+77,2577,186,World Cup 2014,14.06.14,Colombia vs Greece,2014,Greece,GR,14. Салпигидис,Dimitrios Salpingidis,['Dimitrios Salpingidis'],Success
+78,2578,186,World Cup 2014,14.06.14,Colombia vs Greece,2014,Greece,GR,17. Гекас,Gekas,['Theofanis Gekas'],Success
+79,2579,187,World Cup 2014,15.06.14,Ivory Coast vs Japan,2014,Ivory Coast,CI,1. Барри,Barry,['Boubacar Copa'],Success
+80,2580,187,World Cup 2014,15.06.14,Ivory Coast vs Japan,2014,Ivory Coast,CI,5. Зокора,Zokora,['Didier Zokora'],Success
+81,2581,187,World Cup 2014,15.06.14,Ivory Coast vs Japan,2014,Japan,JP,6. Моришигэ,Morishige,['Masato Morishige'],Success
+82,2582,187,World Cup 2014,15.06.14,Ivory Coast vs Japan,2014,Japan,JP,16. Ямагучи,Yamaguchi,['Hotaru Yamaguchi'],Success
+83,2583,187,World Cup 2014,15.06.14,Ivory Coast vs Japan,2014,Japan,JP,4. Хонда,Honda,['Keisuke Honda'],Success
+84,2584,188,World Cup 2014,19.06.14,Colombia vs Ivory Coast,2014,Colombia,CO,3. Йепес,Yepes,['Mario Yepes'],Success
+85,2585,188,World Cup 2014,19.06.14,Colombia vs Ivory Coast,2014,Colombia,CO,8. Агилар,Abel Aguilar,['Abel Aguilar'],Success
+86,2586,188,World Cup 2014,19.06.14,Colombia vs Ivory Coast,2014,Ivory Coast,CI,1. Барри,Barry,0,Fail
+87,2587,188,World Cup 2014,19.06.14,Colombia vs Ivory Coast,2014,Ivory Coast,CI,5. Зокора,Zokora,['Didier Zokora'],Success
+88,2588,189,World Cup 2014,20.06.14,Japan vs Greece,2014,Japan,JP,15. Конно,Konno,['Yasuyuki Konno'],Success
+89,2589,189,World Cup 2014,20.06.14,Japan vs Greece,2014,Japan,JP,16. Ямагучи,Yamaguchi,['Hotaru Yamaguchi'],Success
+90,2590,189,World Cup 2014,20.06.14,Japan vs Greece,2014,Japan,JP,4. Хонда,Honda,['Keisuke Honda'],Success
+91,2591,189,World Cup 2014,20.06.14,Japan vs Greece,2014,Japan,JP,13. Окубо,Okubo,['Yoshito Okubo'],Success
+92,2592,189,World Cup 2014,20.06.14,Japan vs Greece,2014,Greece,GR,21. Кацуранис,Kacuranis,"['Orestis Karnezis', 'Konstantinos Katsouranis', 'Georgios Karagounis']",Success
+93,2593,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Japan,JP,15. Конно,Konno,['Yasuyuki Konno'],Success
+94,2594,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Japan,JP,14. Аояма,Aoyama,['Toshihiro Aoyama'],Success
+95,2595,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Japan,JP,4. Хонда,Honda,['Keisuke Honda'],Success
+96,2596,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Japan,JP,13. Окубо,Okubo,['Yoshito Okubo'],Success
+97,2597,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Colombia,CO,13. Гуарин,Guarin,['Fredy Guarín'],Success
+98,2598,190,World Cup 2014,24.06.14,Japan vs Colombia,2014,Colombia,CO,19. Рамос А.,A Ramos,['Adrián Ramos'],Success
+99,2599,191,World Cup 2014,24.06.14,Greece vs Ivory Coast,2014,Greece,GR,10. Карагунис,Karagunis,['Georgios Karagounis'],Success

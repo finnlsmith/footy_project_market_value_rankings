@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Johny Placide,750000.0,False,working,False,Johny Placide,J Placide,single
+1,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Kevin Lafrance,400000.0,False,working,False,Kevin Lafrance,K Lafrance,single
+2,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Jean Sony Alcénat,1700000.0,False,working,False,Jean Sony Alcénat,J Alcenat,single
+3,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Mechack Jérôme,0.0,False,Large Dataset had 0,False,Mechack Jérôme,M Jérôme,single
+4,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Kim Jaggy,300000.0,False,working,False,Kim Jaggy,K Jaggy,single
+5,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Frantz Bertin,200000.0,False,working,False,Frantz Bertin,F Bertin,single
+6,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Wilde-Donald Guerrier,550000.0,False,working,False,Wilde-Donald Guerrier,W Guerrier,single
+7,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Pascal Millien,0.0,False,Large Dataset had 0,False,Pascal Millien,P Millien,single
+8,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,James Marcelin,125000.0,False,working,False,James Marcelin,J Marcelin,single
+9,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Duckens Nazon,0.0,False,Large Dataset had 0,False,Duckens Nazon,D Nazon,single
+10,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Haiti,HT,2015,SUCCESS,Kervens Belfort,300000.0,False,working,False,Kervens Belfort,K Belfort,single
+11,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Donis Escober,400000.0,False,working,False,Donis Escober,D Escober,single
+12,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Andy Nájar,3000000.0,False,working,False,Andy Nájar,A Najar,single
+13,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Wilmer Crisanto,0.0,False,Large Dataset had 0,False,Wilmer Crisanto,W Crisanto,single
+14,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Brayan Beckeles,250000.0,False,working,False,Brayan Beckeles,B Beckeles,single
+15,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,"['Jerry Palacios', 'Johnny Palacios']",600000.0,False,working,False,"['Jerry Palacios', 'Johnny Palacios']",J Palacios,multiple
+16,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Maynor Figueroa,3000000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+17,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Mario Martínez,700000.0,False,working,False,Mario Martínez,M Martínez,single
+18,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Alfredo Mejía,200000.0,False,working,False,Alfredo Mejía,A Mejía,single
+19,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Jorge Claros,400000.0,False,working,False,Jorge Claros,J Claros,single
+20,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Érick Andino,0.0,False,Large Dataset had 0,False,Érick Andino,E Andino,single
+21,3690,"Gold Cup, 2015",Haiti vs Honduras,14-07-2015,Honduras,HN,2015,SUCCESS,Choco Lozano,3800000.0,False,Used Large Dataset,False,Choco Lozano,A Lozano,single
+22,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Jaime Penedo,100000.0,False,working,False,Jaime Penedo,J Penedo,single
+23,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Adolfo Machado,275000.0,False,working,False,Adolfo Machado,A Machado,single
+24,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Luis Henríquez,600000.0,False,working,False,Luis Henríquez,L Henríquez,single
+25,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,H Cummings,single
+26,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Román Torres,950000.0,False,working,False,Román Torres,R Torres,single
+27,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Alberto Quintero,0.0,False,Large Dataset had 0,False,Alberto Quintero,A Quintero,single
+28,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Aníbal Godoy,150000.0,False,working,False,Aníbal Godoy,A Godoy,single
+29,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Gabriel Gómez,325000.0,False,working,False,Gabriel Gómez,G Gómez,single
+30,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,"['Luis Tejada', 'Leonel Tejada']",800000.0,False,working,False,"['Luis Tejada', 'Leonel Tejada']",L Tejada,multiple
+31,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Valentín Pimentel,0.0,False,Large Dataset had 0,False,Valentín Pimentel,V Pimentel,single
+32,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Panama,PA,2015,SUCCESS,Blas Pérez,800000.0,False,working,False,Blas Pérez,B Pérez,single
+33,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Johny Placide,750000.0,False,working,False,Johny Placide,J Placide,single
+34,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Jean-Marc Alexandre,100000.0,False,working,False,Jean-Marc Alexandre,J Alexandre,single
+35,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Jean Sony Alcénat,1700000.0,False,working,False,Jean Sony Alcénat,J Alcenat,single
+36,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Mechack Jérôme,0.0,False,Large Dataset had 0,False,Mechack Jérôme,M Jérôme,single
+37,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Kim Jaggy,300000.0,False,working,False,Kim Jaggy,K Jaggy,single
+38,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Jean-Jacques Pierre,0.0,False,Not in either dataset for currect season but present in both seasons around match,True,Jean-Jacques Pierre,J Pierre,single
+39,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Wilde-Donald Guerrier,550000.0,False,working,False,Wilde-Donald Guerrier,W Guerrier,single
+40,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Réginal Goreux,2800000.0,False,working,False,Réginal Goreux,R Goreux,single
+41,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,James Marcelin,125000.0,False,working,False,James Marcelin,J Marcelin,single
+42,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Jeff Louis,2500000.0,False,working,False,Jeff Louis,J Louis,single
+43,3691,"Gold Cup, 2015",Panama vs Haiti,08-07-2015,Haiti,HT,2015,SUCCESS,Kervens Belfort,300000.0,False,working,False,Kervens Belfort,K Belfort,single
+44,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Brad Guzan,3000000.0,False,working,False,Brad Guzan,B Guzan,single
+45,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Tim Ream,1500000.0,False,working,False,Tim Ream,T Ream,single
+46,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Graham Zusi,750000.0,False,working,False,Graham Zusi,G Zusi,single
+47,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Omar González,1200000.0,False,working,False,Omar González,O González,single
+48,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,John Anthony Brooks,7000000.0,False,working,False,John Anthony Brooks,J Brooks,single
+49,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Timothy Chandler,2000000.0,False,working,False,Timothy Chandler,T Chandler,single
+50,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Fabian Johnson,7000000.0,False,working,False,Fabian Johnson,F Johnson,single
+51,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Joe Corona,1200000.0,False,working,False,Joe Corona,J Corona,single
+52,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Michael Bradley,3000000.0,False,working,False,Michael Bradley,M Bradley,single
+53,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Chris Wondolowski,1000000.0,False,working,False,Chris Wondolowski,C Wondolowski,single
+54,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,United States,US,2015,SUCCESS,Aron Jóhannsson,3500000.0,False,working,False,Aron Jóhannsson,A Jóhannsson,single
+55,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Luis Mejía,500000.0,False,working,False,Luis Mejía,L Mejía,single
+56,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Adolfo Machado,275000.0,False,working,False,Adolfo Machado,A Machado,single
+57,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Éric Davis,75000.0,False,working,False,Éric Davis,E Davis,single
+58,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Hárold Cummings,125000.0,False,working,False,Hárold Cummings,H Cummings,single
+59,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Román Torres,950000.0,False,working,False,Román Torres,R Torres,single
+60,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Armando Cooper,350000.0,False,working,False,Armando Cooper,A Cooper,single
+61,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Miguel Camargo,0.0,False,Large Dataset had 0,False,Miguel Camargo,M Camargo,single
+62,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Alberto Quintero,0.0,False,Large Dataset had 0,False,Alberto Quintero,A Quintero,single
+63,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Aníbal Godoy,150000.0,False,working,False,Aníbal Godoy,A Godoy,single
+64,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Rolando Blackburn,375000.0,False,working,False,Rolando Blackburn,R Blackburn,single
+65,3692,"Gold Cup, 2015",United States vs Panama,25-07-2015,Panama,PA,2015,SUCCESS,Roberto Nurse,0.0,False,Large Dataset had 0,False,Roberto Nurse,R Nurse,single
+66,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Online Lookup Required,False,0,K Olimpa,none
+67,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,K Vitulin,none
+68,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,J Delem,none
+69,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,S Crétinoir,none
+70,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,A Jean-Baptiste,none
+71,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,J Nedra,none
+72,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,D Hérelle,none
+73,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Online Lookup Required,False,0,J Audel,none
+74,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,S Abaul,none
+75,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,Y Arquin,none
+76,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Martinique,MQ,2017,FAIL,0,0.0,True,Lookup Required,False,0,K Parsemain,none
+77,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Justo Lorente,150000.0,False,working,False,Justo Lorente,J Llorente,single
+78,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+79,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Copete,0.0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+80,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,FAIL,Erick Téllez,0.0,True,Was in  DB before or after season,True,Erick Téllez,E Tellez,single
+81,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,M Rosas,single
+82,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Carlos Chavarría,0.0,False,Large Dataset had 0,False,Carlos Chavarría,C Chavarria,single
+83,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Marlon López,75000.0,False,working,False,Marlon López,M Lopez,single
+84,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Bismark Montiel,0.0,False,Large Dataset had 0,False,Bismark Montiel,B Montiel,single
+85,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Elvis Figueroa,-,False,Data Ended before season : 2017,False,Elvis Figueroa,E Pinel Figueroa,single
+86,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Galeano,0.0,False,Large Dataset had 0,False,Luis Galeano,L Galeano,single
+87,3693,"Gold Cup, 2017",Martinique vs Nicaragua,09-07-2017,Nicaragua,NI,2017,SUCCESS,Jorge García,-,False,Data Ended before season : 2017,False,Jorge García,J García,single
+88,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+89,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+90,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+91,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+92,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+93,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Owayne Gordon,175000.0,False,working,False,Owayne Gordon,O Gordon,single
+94,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Kevon Lambert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kevon Lambert,K Lambert,single
+95,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+96,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Shaun Francis,400000.0,False,working,False,Shaun Francis,S Francis,single
+97,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Romario Williams,100000.0,False,working,False,Romario Williams,R Williams,single
+98,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Jamaica,JM,2017,SUCCESS,Darren Mattocks,750000.0,False,working,False,Darren Mattocks,D Mattocks,single
+99,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Milan Borjan,1800000.0,False,working,False,Milan Borjan,M Borjan,single
+100,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Michael Petrasso,5000000.0,False,Used Large Dataset,False,Michael Petrasso,M Petrasso,single
+101,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Dejan Jakovic,350000.0,False,working,False,Dejan Jakovic,D Jaković,single
+102,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Steven Vitória,300000.0,False,working,False,Steven Vitória,S Vitória,single
+103,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Marcel de Jong,600000.0,False,working,False,Marcel de Jong,M de Jong,single
+104,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Scott Arfield,3000000.0,False,working,False,Scott Arfield,S Ar,single
+105,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Samuel Piette,200000.0,False,working,False,Samuel Piette,S Piette,single
+106,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Russell Teibert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Russell Teibert,R Teibert,single
+107,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Junior Hoilett,3500000.0,False,working,False,Junior Hoilett,J Hoilett,single
+108,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Cyle Larin,2500000.0,False,working,False,Cyle Larin,C Larin,single
+109,3694,"Gold Cup, 2017",Jamaica vs Canada,21-07-2017,Canada,CA,2017,SUCCESS,Alphonso Davies,200000.0,False,working,False,Alphonso Davies,A Davies,single
+110,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Eloy Room,4500000.0,False,working,False,Eloy Room,E Room,single
+111,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Cuco Martina,2000000.0,False,working,False,Cuco Martina,C Martina,single
+112,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Quentin Jakoba,0.0,False,Large Dataset had 0,False,Quentin Jakoba,Q Jakoba,single
+113,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Darryl Lachman,800000.0,False,working,False,Darryl Lachman,D Lachman,single
+114,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Gillian Justiana,175000.0,False,working,False,Gillian Justiana,G Justiana,single
+115,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Dustley Mulder,500000.0,False,Data Ended before season : 2017,False,Dustley Mulder,D Mulder,single
+116,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Leandro Bacuna,3000000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+117,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Gevaro Nepomuceno,350000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+118,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Elson Hooi,200000.0,False,working,False,Elson Hooi,E Hooi,single
+119,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Jarchinio Antonia,600000.0,False,working,False,Jarchinio Antonia,J Antonia,single
+120,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Curaçao,CW,2017,SUCCESS,Rangelo Janga,225000.0,False,working,False,Rangelo Janga,R Janga,single
+121,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+122,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+123,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+124,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+125,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+126,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Oniel Fisher,125000.0,False,working,False,Oniel Fisher,O Fisher,single
+127,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Kevon Lambert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kevon Lambert,K Lambert,single
+128,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+129,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Owayne Gordon,175000.0,False,working,False,Owayne Gordon,O Gordon,single
+130,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,"['Jason Johnson', 'Jermaine Johnson']",0.0,False,Large Dataset said 0,False,"['Jason Johnson', 'Jermaine Johnson']",J Johnson,multiple
+131,3695,"Gold Cup, 2017",Curaçao vs Jamaica,10-07-2017,Jamaica,JM,2017,SUCCESS,Romario Williams,100000.0,False,working,False,Romario Williams,R Williams,single
+132,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,José Calderón,175000.0,False,working,False,José Calderón,J Calderón,single
+133,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Amir Murillo,25000.0,False,working,False,Amir Murillo,A Murillo,single
+134,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Fidel Escobar,50000.0,False,working,False,Fidel Escobar,F Escobar,single
+135,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Roderick Miller,0,False,Not in either dataset for currect season but present in both seasons around match,True,Roderick Miller,R Miller,single
+136,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Éric Davis,100000.0,False,working,False,Éric Davis,E Davis,single
+137,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+138,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Gabriel Gómez,450000.0,False,working,False,Gabriel Gómez,G Gómez,single
+139,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Aníbal Godoy,500000.0,False,working,False,Aníbal Godoy,A Godoy,single
+140,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Miguel Camargo,400000.0,False,working,False,Miguel Camargo,M Camargo,single
+141,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Gaby Torres,900000.0,False,working,False,Gaby Torres,G Torres,single
+142,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Panama,PA,2017,SUCCESS,Ismael Díaz,800000.0,False,working,False,Ismael Díaz,I Díaz,single
+143,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Justo Lorente,150000.0,False,working,False,Justo Lorente,J Llorente,single
+144,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+145,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,FAIL,Erick Téllez,0,True,Was in  DB before or after season,True,Erick Téllez,E Tellez,single
+146,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Copete,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+147,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,M Rosas,single
+148,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Dany Cadena,0.0,False,Large Dataset had 0,False,Dany Cadena,D Cadena,single
+149,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Marlon López,75000.0,False,working,False,Marlon López,M Lopez,single
+150,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Juan Barrera,250000.0,False,working,False,Juan Barrera,J Barrera,single
+151,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Galeano,0.0,False,Large Dataset had 0,False,Luis Galeano,L Galeano,single
+152,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Carlos Chavarría,0.0,False,Large Dataset had 0,False,Carlos Chavarría,C Chavarria,single
+153,3696,"Gold Cup, 2017",Panama vs Nicaragua,12-07-2017,Nicaragua,NI,2017,SUCCESS,Eulises Pavón,-,False,Data Ended before season : 2017,False,Eulises Pavón,E Pavón,single
+154,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Jesús Corona,10000000.0,False,working,False,Jesús Corona,J Corona,single
+155,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",500000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+156,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Hugo Ayala,2500000.0,False,working,False,Hugo Ayala,H Ayala,single
+157,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Jair Pereira,1500000.0,False,working,False,Jair Pereira,J Pereira,single
+158,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Érick Gutiérrez,5000000.0,False,working,False,Érick Gutiérrez,É Gutiérrez,single
+159,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Jesús Molina,2800000.0,False,working,False,Jesús Molina,J Molina,single
+160,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,"['Edwin Hernández', 'Elías Hernández']",2800000.0,False,working,False,"['Edwin Hernández', 'Elías Hernández']",E Hernández,multiple
+161,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Jesús Dueñas,2500000.0,False,working,False,Jesús Dueñas,J Dueñas,single
+162,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Rodolfo Pizarro,5000000.0,False,working,False,Rodolfo Pizarro,R Pizarro,single
+163,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,Orbelín Pineda,4000000.0,False,working,False,Orbelín Pineda,O Pineda,single
+164,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Mexico,MX,2017,SUCCESS,"['Érick Torres', 'Jairo Torres']",1300000.0,False,Data Ended before season : 2017,False,"['Érick Torres', 'Jairo Torres']",E Torres,multiple
+165,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+166,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+167,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+168,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+169,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+170,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Owayne Gordon,175000.0,False,working,False,Owayne Gordon,O Gordon,single
+171,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+172,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Ladale Richie,0.0,False,Large Dataset had 0,False,Ladale Richie,L Richie,single
+173,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Shaun Francis,400000.0,False,working,False,Shaun Francis,S Francis,single
+174,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Romario Williams,100000.0,False,working,False,Romario Williams,R Williams,single
+175,3697,"Gold Cup, 2017",Mexico vs Jamaica,24-07-2017,Jamaica,JM,2017,SUCCESS,Darren Mattocks,750000.0,False,working,False,Darren Mattocks,D Mattocks,single
+176,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Tim Howard,2000000.0,False,Data Ended before season : 2017,False,Tim Howard,T Howard,single
+177,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Eric Lichaj,1500000.0,False,working,False,Eric Lichaj,E Lichaj,single
+178,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Omar González,2000000.0,False,working,False,Omar González,O González,single
+179,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Matt Hedges,1250000.0,False,working,False,Matt Hedges,M Hedges,single
+180,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Justin Morrow,750000.0,False,working,False,Justin Morrow,J Morrow,single
+181,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Paul Arriola,800000.0,False,working,False,Paul Arriola,P Arriola,single
+182,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Darlington Nagbe,1750000.0,False,working,False,Darlington Nagbe,D Nagbe,single
+183,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Michael Bradley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Bradley,M Bradley,single
+184,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Gyasi Zardes,2000000.0,False,working,False,Gyasi Zardes,G Zardes,single
+185,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Clint Dempsey,5000000.0,False,Data Ended before season : 2017,False,Clint Dempsey,C Dempsey,single
+186,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,United States,US,2017,SUCCESS,Jozy Altidore,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jozy Altidore,J Altidore,single
+187,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Derby Carrillo,0.0,False,Large Dataset had 0,False,Derby Carrillo,D Carrillo,single
+188,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Bryan Tamacas,0.0,False,Large Dataset had 0,False,Bryan Tamacas,B Tamacas,single
+189,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Henry Romero,-,False,Data Ended before season : 2017,False,Henry Romero,H Romero,single
+190,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Iván Mancia,0.0,False,Large Dataset had 0,False,Iván Mancia,I Mancia,single
+191,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Alexander Larín,275000.0,False,working,False,Alexander Larín,A Larín,single
+192,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Gerson Mayén,175000.0,False,working,False,Gerson Mayén,G Mayén,single
+193,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Narciso Orellana,0,False,Not in either dataset for currect season but present in both seasons around match,True,Narciso Orellana,N Orellana,single
+194,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Darwin Cerén,0,False,Not in either dataset for currect season but present in both seasons around match,True,Darwin Cerén,D Cerén,single
+195,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Denis Pineda,50000.0,False,working,False,Denis Pineda,D Pineda,single
+196,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,FAIL,Rodolfo Zelaya,0,True,Was in  DB before or after season,True,Rodolfo Zelaya,R Zelaya,single
+197,3698,"Gold Cup, 2017",United States vs El Salvador,20-07-2017,El Salvador,SV,2017,SUCCESS,Nelson Bonilla,300000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+198,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Luis López,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis López,L Lopez,single
+199,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Félix Crisanto,0.0,False,Large Dataset had 0,False,Félix Crisanto,F Crisanto,single
+200,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Henry Figueroa,0.0,False,Large Dataset had 0,False,Henry Figueroa,H Figueroa,single
+201,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Maynor Figueroa,400000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+202,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Éver Alvarado,100000.0,False,working,False,Éver Alvarado,Ever Alvarado,single
+203,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Carlos Sánchez,3500000.0,False,working,False,Carlos Sánchez,C Sánchez,single
+204,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Carlos Discua,275000.0,False,Data Ended before season : 2017,False,Carlos Discua,C Discua,single
+205,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Alfredo Mejía,500000.0,False,working,False,Alfredo Mejía,A Mejía,single
+206,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Bryan Acosta,600000.0,False,working,False,Bryan Acosta,B Acosta,single
+207,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Romell Quioto,900000.0,False,working,False,Romell Quioto,R Quioto,single
+208,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Honduras,HN,2017,SUCCESS,Ovidio Lanza,0.0,False,Large Dataset had 0,False,Ovidio Lanza,C Lanza,single
+209,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Patrick Pemberton,375000.0,False,working,False,Patrick Pemberton,P Pemberton,single
+210,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Giancarlo González,3400000.0,False,working,False,Giancarlo González,G González,single
+211,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Jhonny Acosta,250000.0,False,working,False,Jhonny Acosta,J Acosta,single
+212,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Kenner Gutiérrez,250000.0,False,working,False,Kenner Gutiérrez,K Gutiérrez,single
+213,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Cristian Gamboa,1500000.0,False,working,False,Cristian Gamboa,C Gamboa,single
+214,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,David Guzmán,325000.0,False,working,False,David Guzmán,D Guzmán,single
+215,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Bryan Ruiz,7500000.0,False,working,False,Bryan Ruiz,B Ruiz,single
+216,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Francisco Calvo,350000.0,False,working,False,Francisco Calvo,F Calvo,single
+217,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,"['Johan Venegas', 'Jeikel Venegas']",700000.0,False,working,False,"['Johan Venegas', 'Jeikel Venegas']",J Venegas,multiple
+218,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Marcos Ureña,400000.0,False,working,False,Marcos Ureña,M Ureña,single
+219,3699,"Gold Cup, 2017",Honduras vs Costa Rica,08-07-2017,Costa Rica,CR,2017,SUCCESS,Rodney Wallace,1000000.0,False,working,False,Rodney Wallace,R Wallace,single
+220,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Patrick Pemberton,375000.0,False,working,False,Patrick Pemberton,P Pemberton,single
+221,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,José Salvatierra,300000.0,False,Data Ended before season : 2017,False,José Salvatierra,J Salvatierra,single
+222,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Giancarlo González,3400000.0,False,working,False,Giancarlo González,G González,single
+223,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Jhonny Acosta,250000.0,False,working,False,Jhonny Acosta,J Acosta,single
+224,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Kendall Waston,700000.0,False,working,False,Kendall Waston,K Waston,single
+225,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Francisco Calvo,350000.0,False,working,False,Francisco Calvo,F Calvo,single
+226,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Bryan Ruiz,7500000.0,False,working,False,Bryan Ruiz,B Ruiz,single
+227,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,David Guzmán,325000.0,False,working,False,David Guzmán,D Guzmán,single
+228,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Yeltsin Tejeda,1500000.0,False,working,False,Yeltsin Tejeda,Y Tejeda,single
+229,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,David Ramírez,300000.0,False,working,False,David Ramírez,D Ramírez,single
+230,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,Costa Rica,CR,2017,SUCCESS,Marcos Ureña,400000.0,False,working,False,Marcos Ureña,M Ureña,single
+231,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Tim Howard,2000000.0,False,Data Ended before season : 2017,False,Tim Howard,T Howard,single
+232,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Graham Zusi,700000.0,False,working,False,Graham Zusi,G Zusi,single
+233,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Omar González,2000000.0,False,working,False,Omar González,O González,single
+234,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Matt Besler,1000000.0,False,working,False,Matt Besler,M Besler,single
+235,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Jorge Villafaña,1000000.0,False,working,False,Jorge Villafaña,J Villafaña,single
+236,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Paul Arriola,800000.0,False,working,False,Paul Arriola,P Arriola,single
+237,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Michael Bradley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Bradley,M Bradley,single
+238,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Kellyn Acosta,700000.0,False,working,False,Kellyn Acosta,K Acosta,single
+239,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Darlington Nagbe,1750000.0,False,working,False,Darlington Nagbe,D Nagbe,single
+240,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Jozy Altidore,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jozy Altidore,J Altidore,single
+241,3700,"Gold Cup, 2017",Costa Rica vs United States,23-07-2017,United States,US,2017,SUCCESS,Jordan Morris,850000.0,False,working,False,Jordan Morris,J Morris,single
+242,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Luis López,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis López,L Lopez,single
+243,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Brayan Beckeles,1000000.0,False,working,False,Brayan Beckeles,B Beckeles,single
+244,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Henry Figueroa,0.0,False,Large Dataset had 0,False,Henry Figueroa,H Figueroa,single
+245,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Maynor Figueroa,400000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+246,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Éver Alvarado,100000.0,False,working,False,Éver Alvarado,Ever Alvarado,single
+247,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Alfredo Mejía,500000.0,False,working,False,Alfredo Mejía,A Mejía,single
+248,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Bryan Acosta,600000.0,False,working,False,Bryan Acosta,B Acosta,single
+249,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Alberth Elis,1000000.0,False,working,False,Alberth Elis,A Elis,single
+250,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Alexander López,375000.0,False,working,False,Alexander López,A López,single
+251,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Romell Quioto,900000.0,False,working,False,Romell Quioto,R Quioto,single
+252,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,Honduras,HN,2017,SUCCESS,Ovidio Lanza,0.0,False,Large Dataset had 0,False,Ovidio Lanza,C Lanza,single
+253,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,D Léon,none
+254,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,G Lescot,none
+255,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,K Rimane,none
+256,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,C Fabien,none
+257,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,A Soubervie,none
+258,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,F Malouda,none
+259,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,Loïc Baal,none
+260,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,Ludovic Baal,none
+261,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,J Legrand,none
+262,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,A Abelinti,none
+263,3701,"Gold Cup, 2017",Honduras vs French Guyana,12-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,S Privat,none
+264,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Eloy Room,4500000.0,False,working,False,Eloy Room,E Room,single
+265,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Shanon Carmelia,0.0,False,Large Dataset had 0,False,Shanon Carmelia,S Carmelia,single
+266,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Dustley Mulder,500000.0,False,Data Ended before season : 2017,False,Dustley Mulder,D Mulder,single
+267,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Darryl Lachman,800000.0,False,working,False,Darryl Lachman,D Lachman,single
+268,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Ayrton Statie,100000.0,False,working,False,Ayrton Statie,A Statie,single
+269,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Leandro Bacuna,3000000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+270,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Michaël Maria,300000.0,False,working,False,Michaël Maria,M Maria,single
+271,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Jarchinio Antonia,600000.0,False,working,False,Jarchinio Antonia,J Antonia,single
+272,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Gevaro Nepomuceno,350000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+273,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Quenten Martinus,750000.0,False,working,False,Quenten Martinus,Q Martinus,single
+274,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Curaçao,CW,2017,SUCCESS,Gino van Kessel,1250000.0,False,working,False,Gino van Kessel,G van Kessel,single
+275,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Jesús Corona,10000000.0,False,working,False,Jesús Corona,J Corona,single
+276,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Luis Rodríguez,1000000.0,False,working,False,Luis Rodríguez,L Rodríguez,single
+277,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Jair Pereira,1500000.0,False,working,False,Jair Pereira,J Pereira,single
+278,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,César Montes,2500000.0,False,working,False,César Montes,C Montes,single
+279,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,FAIL,Luis Reyes,0,True,Was in  DB before or after season,True,Luis Reyes,L Reyes,single
+280,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Orbelín Pineda,4000000.0,False,working,False,Orbelín Pineda,O Pineda,single
+281,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,"['Jorge Hernández', 'José Hernández']",2300000.0,False,working,False,"['Jorge Hernández', 'José Hernández']",J Hernández,multiple
+282,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Érick Gutiérrez,5000000.0,False,working,False,Érick Gutiérrez,É Gutiérrez,single
+283,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,"['Raúl López', 'Rodrigo López']",1500000.0,False,working,False,"['Raúl López', 'Rodrigo López']",R López,multiple
+284,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,Martín Barragán,1000000.0,False,working,False,Martín Barragán,M Barragán,single
+285,3702,"Gold Cup, 2017",Curaçao vs Mexico,17-07-2017,Mexico,MX,2017,SUCCESS,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",1200000.0,False,working,False,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",A Sepúlveda,multiple
+286,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Moisés Muñoz,1000000.0,False,working,False,Moisés Muñoz,M Muñoz,single
+287,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",500000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+288,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Hugo Ayala,2500000.0,False,working,False,Hugo Ayala,H Ayala,single
+289,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Hedgardo Marín,1200000.0,False,working,False,Hedgardo Marín,H Marín,single
+290,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Jesús Gallardo,1200000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+291,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Jesús Dueñas,2500000.0,False,working,False,Jesús Dueñas,J Dueñas,single
+292,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Jesús Molina,2800000.0,False,working,False,Jesús Molina,J Molina,single
+293,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Rodolfo Pizarro,5000000.0,False,working,False,Rodolfo Pizarro,R Pizarro,single
+294,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,"['Edwin Hernández', 'Elías Hernández']",2800000.0,False,working,False,"['Edwin Hernández', 'Elías Hernández']",E Hernández,multiple
+295,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,"['Érick Torres', 'Jairo Torres']",1300000.0,False,Data Ended before season : 2017,False,"['Érick Torres', 'Jairo Torres']",E Torres,multiple
+296,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Mexico,MX,2017,SUCCESS,Orbelín Pineda,4000000.0,False,working,False,Orbelín Pineda,O Pineda,single
+297,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+298,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+299,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+300,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+301,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+302,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Kevon Lambert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kevon Lambert,K Lambert,single
+303,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Oniel Fisher,125000.0,False,working,False,Oniel Fisher,O Fisher,single
+304,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+305,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Michael Binns,100000.0,False,working,False,Michael Binns,M Binns,single
+306,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Cory Burke,0.0,False,Large Dataset had 0,False,Cory Burke,C Burke,single
+307,3703,"Gold Cup, 2017",Mexico vs Jamaica,14-07-2017,Jamaica,JM,2017,SUCCESS,Darren Mattocks,750000.0,False,working,False,Darren Mattocks,D Mattocks,single
+308,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Jesús Corona,10000000.0,False,working,False,Jesús Corona,J Corona,single
+309,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",500000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+310,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Hugo Ayala,2500000.0,False,working,False,Hugo Ayala,H Ayala,single
+311,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Jair Pereira,1500000.0,False,working,False,Jair Pereira,J Pereira,single
+312,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Jesús Gallardo,1200000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+313,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Rodolfo Pizarro,5000000.0,False,working,False,Rodolfo Pizarro,R Pizarro,single
+314,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Jesús Molina,2800000.0,False,working,False,Jesús Molina,J Molina,single
+315,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Jesús Dueñas,2500000.0,False,working,False,Jesús Dueñas,J Dueñas,single
+316,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,"['Edwin Hernández', 'Elías Hernández']",2800000.0,False,working,False,"['Edwin Hernández', 'Elías Hernández']",E Hernández,multiple
+317,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",1200000.0,False,working,False,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",A Sepúlveda,multiple
+318,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Mexico,MX,2017,SUCCESS,Orbelín Pineda,4000000.0,False,working,False,Orbelín Pineda,O Pineda,single
+319,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Luis López,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis López,L Lopez,single
+320,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Félix Crisanto,0.0,False,Large Dataset had 0,False,Félix Crisanto,F Crisanto,single
+321,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Henry Figueroa,0.0,False,Large Dataset had 0,False,Henry Figueroa,H Figueroa,single
+322,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Maynor Figueroa,400000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+323,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Éver Alvarado,100000.0,False,working,False,Éver Alvarado,Ever Alvarado,single
+324,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Carlos Sánchez,3500000.0,False,working,False,Carlos Sánchez,C Sánchez,single
+325,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Alberth Elis,1000000.0,False,working,False,Alberth Elis,A Elis,single
+326,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Alfredo Mejía,500000.0,False,working,False,Alfredo Mejía,A Mejía,single
+327,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Bryan Acosta,600000.0,False,working,False,Bryan Acosta,B Acosta,single
+328,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Romell Quioto,900000.0,False,working,False,Romell Quioto,R Quioto,single
+329,3704,"Gold Cup, 2017",Mexico vs Honduras,21-07-2017,Honduras,HN,2017,SUCCESS,Ovidio Lanza,0.0,False,Large Dataset had 0,False,Ovidio Lanza,C Lanza,single
+330,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Brad Guzan,2500000.0,False,working,False,Brad Guzan,B Guzan,single
+331,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Graham Zusi,700000.0,False,working,False,Graham Zusi,G Zusi,single
+332,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Omar González,2000000.0,False,working,False,Omar González,O González,single
+333,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Matt Besler,1000000.0,False,working,False,Matt Besler,M Besler,single
+334,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Jorge Villafaña,1000000.0,False,working,False,Jorge Villafaña,J Villafaña,single
+335,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Alejandro Bedoya,2000000.0,False,working,False,Alejandro Bedoya,A Bedoya,single
+336,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Dax McCarty,1750000.0,False,working,False,Dax McCarty,D Mc Carty,single
+337,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Kellyn Acosta,700000.0,False,working,False,Kellyn Acosta,K Acosta,single
+338,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Kelyn Rowe,950000.0,False,working,False,Kelyn Rowe,K Rowe,single
+339,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Joe Corona,1200000.0,False,working,False,Joe Corona,J Corona,single
+340,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,United States,US,2017,SUCCESS,Dom Dwyer,1750000.0,False,working,False,Dom Dwyer,D Dwyer,single
+341,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,José Calderón,175000.0,False,working,False,José Calderón,J Calderón,single
+342,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Amir Murillo,25000.0,False,working,False,Amir Murillo,A Murillo,single
+343,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Jan Carlos Vargas,0.0,False,Large Dataset had 0,False,Jan Carlos Vargas,J Vargas,single
+344,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Roberto Chen,350000.0,False,working,False,Roberto Chen,R Chen,single
+345,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Luis Ovalle,400000.0,False,working,False,Luis Ovalle,L Ovalle,single
+346,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+347,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Gabriel Gómez,450000.0,False,working,False,Gabriel Gómez,G Gómez,single
+348,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Aníbal Godoy,500000.0,False,working,False,Aníbal Godoy,A Godoy,single
+349,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Miguel Camargo,400000.0,False,working,False,Miguel Camargo,M Camargo,single
+350,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Ismael Díaz,800000.0,False,working,False,Ismael Díaz,I Díaz,single
+351,3705,"Gold Cup, 2017",United States vs Panama,08-07-2017,Panama,PA,2017,SUCCESS,Gaby Torres,900000.0,False,working,False,Gaby Torres,G Torres,single
+352,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Justo Lorente,150000.0,False,working,False,Justo Lorente,J Llorente,single
+353,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+354,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Cyril Errington,0.0,False,Large Dataset had 0,False,Cyril Errington,C Errington,single
+355,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Copete,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+356,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Bismarck Véliz,0.0,False,Large Dataset had 0,False,Bismarck Véliz,B Veliz,single
+357,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Bryan García,-,False,Data Ended before season : 2017,False,Bryan García,B García,single
+358,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Marlon López,75000.0,False,working,False,Marlon López,M Lopez,single
+359,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Peralta,-,False,Data Ended before season : 2017,False,Luis Peralta,L Peralta,single
+360,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Juan Barrera,250000.0,False,working,False,Juan Barrera,J Barrera,single
+361,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Dany Cadena,0.0,False,Large Dataset had 0,False,Dany Cadena,D Cadena,single
+362,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,Nicaragua,NI,2017,SUCCESS,Luis Galeano,0.0,False,Large Dataset had 0,False,Luis Galeano,L Galeano,single
+363,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Bill Hamid,800000.0,False,working,False,Bill Hamid,B Hamid,single
+364,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Graham Zusi,700000.0,False,working,False,Graham Zusi,G Zusi,single
+365,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Matt Miazga,2500000.0,False,working,False,Matt Miazga,M Miazga,single
+366,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Matt Besler,1000000.0,False,working,False,Matt Besler,M Besler,single
+367,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Jorge Villafaña,1000000.0,False,working,False,Jorge Villafaña,J Villafaña,single
+368,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Dax McCarty,1750000.0,False,working,False,Dax McCarty,D Mc Carty,single
+369,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Chris Pontius,350000.0,False,Data Ended before season : 2017,False,Chris Pontius,C Pontius,single
+370,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Alejandro Bedoya,2000000.0,False,working,False,Alejandro Bedoya,A Bedoya,single
+371,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Joe Corona,1200000.0,False,working,False,Joe Corona,J Corona,single
+372,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Kelyn Rowe,950000.0,False,working,False,Kelyn Rowe,K Rowe,single
+373,3706,"Gold Cup, 2017",Nicaragua vs United States,16-07-2017,United States,US,2017,SUCCESS,Dom Dwyer,1750000.0,False,working,False,Dom Dwyer,D Dwyer,single
+374,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Patrick Pemberton,375000.0,False,working,False,Patrick Pemberton,P Pemberton,single
+375,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Cristian Gamboa,1500000.0,False,working,False,Cristian Gamboa,C Gamboa,single
+376,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Giancarlo González,3400000.0,False,working,False,Giancarlo González,G González,single
+377,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Jhonny Acosta,250000.0,False,working,False,Jhonny Acosta,J Acosta,single
+378,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Kenner Gutiérrez,250000.0,False,working,False,Kenner Gutiérrez,K Gutiérrez,single
+379,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Francisco Calvo,350000.0,False,working,False,Francisco Calvo,F Calvo,single
+380,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Joel Campbell,8000000.0,False,working,False,Joel Campbell,J Campbell,single
+381,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,David Guzmán,325000.0,False,working,False,David Guzmán,D Guzmán,single
+382,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Bryan Ruiz,7500000.0,False,working,False,Bryan Ruiz,B Ruiz,single
+383,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Rodney Wallace,1000000.0,False,working,False,Rodney Wallace,R Wallace,single
+384,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Costa Rica,CR,2017,SUCCESS,Marcos Ureña,400000.0,False,working,False,Marcos Ureña,M Ureña,single
+385,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Milan Borjan,1800000.0,False,working,False,Milan Borjan,M Borjan,single
+386,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Michael Petrasso,5000000.0,False,Used Large Dataset,False,Michael Petrasso,M Petrasso,single
+387,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Dejan Jakovic,350000.0,False,working,False,Dejan Jakovic,D Jaković,single
+388,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Steven Vitória,300000.0,False,working,False,Steven Vitória,S Vitória,single
+389,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Sam Adekugbe,200000.0,False,working,False,Sam Adekugbe,S Adekugbe,single
+390,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Samuel Piette,200000.0,False,working,False,Samuel Piette,S Piette,single
+391,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Alphonso Davies,200000.0,False,working,False,Alphonso Davies,A Davies,single
+392,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Scott Arfield,3000000.0,False,working,False,Scott Arfield,S Ar,single
+393,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Mark-Anthony Kaye,0.0,False,Large Dataset had 0,False,Mark-Anthony Kaye,M Kaye,single
+394,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Junior Hoilett,3500000.0,False,working,False,Junior Hoilett,J Hoilett,single
+395,3707,"Gold Cup, 2017",Costa Rica vs Canada,12-07-2017,Canada,CA,2017,SUCCESS,Anthony Jackson-Hamel,250000.0,False,working,False,Anthony Jackson-Hamel,A Jackson-Hamel,single
+396,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,José Calderón,175000.0,False,working,False,José Calderón,J Calderón,single
+397,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Amir Murillo,25000.0,False,working,False,Amir Murillo,A Murillo,single
+398,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Fidel Escobar,50000.0,False,working,False,Fidel Escobar,F Escobar,single
+399,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Roberto Chen,350000.0,False,working,False,Roberto Chen,R Chen,single
+400,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Luis Ovalle,400000.0,False,working,False,Luis Ovalle,L Ovalle,single
+401,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Gabriel Gómez,450000.0,False,working,False,Gabriel Gómez,G Gómez,single
+402,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Abdiel Arroyo,350000.0,False,working,False,Abdiel Arroyo,A Arroyo,single
+403,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Armando Cooper,300000.0,False,working,False,Armando Cooper,A Cooper,single
+404,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Aníbal Godoy,500000.0,False,working,False,Aníbal Godoy,A Godoy,single
+405,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Miguel Camargo,400000.0,False,working,False,Miguel Camargo,M Camargo,single
+406,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Panama,PA,2017,SUCCESS,Gaby Torres,900000.0,False,working,False,Gaby Torres,G Torres,single
+407,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Online Lookup Required,False,0,K Olimpa,none
+408,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,K Vitulin,none
+409,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,J Delem,none
+410,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,S Crétinoir,none
+411,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,A Jean-Baptiste,none
+412,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,J Nedra,none
+413,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,C Jougon,none
+414,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Online Lookup Required,False,0,J Audel,none
+415,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,S Abaul,none
+416,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,K Parsemain,none
+417,3708,"Gold Cup, 2017",Panama vs Martinique,15-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Online Lookup Required,False,0,S Langil,none
+418,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Patrick Pemberton,375000.0,False,working,False,Patrick Pemberton,P Pemberton,single
+419,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,José Salvatierra,300000.0,False,Data Ended before season : 2017,False,José Salvatierra,J Salvatierra,single
+420,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Giancarlo González,3400000.0,False,working,False,Giancarlo González,G González,single
+421,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Kendall Waston,700000.0,False,working,False,Kendall Waston,K Waston,single
+422,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Francisco Calvo,350000.0,False,working,False,Francisco Calvo,F Calvo,single
+423,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Jhonny Acosta,250000.0,False,working,False,Jhonny Acosta,J Acosta,single
+424,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Yeltsin Tejeda,1500000.0,False,working,False,Yeltsin Tejeda,Y Tejeda,single
+425,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Bryan Ruiz,7500000.0,False,working,False,Bryan Ruiz,B Ruiz,single
+426,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,David Guzmán,325000.0,False,working,False,David Guzmán,D Guzmán,single
+427,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,David Ramírez,300000.0,False,working,False,David Ramírez,D Ramírez,single
+428,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Costa Rica,CR,2017,SUCCESS,Marcos Ureña,400000.0,False,working,False,Marcos Ureña,M Ureña,single
+429,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,José Calderón,175000.0,False,working,False,José Calderón,J Calderón,single
+430,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Amir Murillo,25000.0,False,working,False,Amir Murillo,A Murillo,single
+431,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Fidel Escobar,50000.0,False,working,False,Fidel Escobar,F Escobar,single
+432,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Roberto Chen,350000.0,False,working,False,Roberto Chen,R Chen,single
+433,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Luis Ovalle,400000.0,False,working,False,Luis Ovalle,L Ovalle,single
+434,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Gabriel Gómez,450000.0,False,working,False,Gabriel Gómez,G Gómez,single
+435,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+436,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Armando Cooper,300000.0,False,working,False,Armando Cooper,A Cooper,single
+437,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Aníbal Godoy,500000.0,False,working,False,Aníbal Godoy,A Godoy,single
+438,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Miguel Camargo,400000.0,False,working,False,Miguel Camargo,M Camargo,single
+439,3709,"Gold Cup, 2017",Costa Rica vs Panama,19-07-2017,Panama,PA,2017,SUCCESS,Gaby Torres,900000.0,False,working,False,Gaby Torres,G Torres,single
+440,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Milan Borjan,1800000.0,False,working,False,Milan Borjan,M Borjan,single
+441,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Michael Petrasso,5000000.0,False,Used Large Dataset,False,Michael Petrasso,M Petrasso,single
+442,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Manjrekar James,200000.0,False,working,False,Manjrekar James,M James,single
+443,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Steven Vitória,300000.0,False,working,False,Steven Vitória,S Vitória,single
+444,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Sam Adekugbe,200000.0,False,working,False,Sam Adekugbe,S Adekugbe,single
+445,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Scott Arfield,3000000.0,False,working,False,Scott Arfield,S Ar,single
+446,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Samuel Piette,200000.0,False,working,False,Samuel Piette,S Piette,single
+447,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Patrice Bernier,300000.0,False,Data Ended before season : 2017,False,Patrice Bernier,P Bernier,single
+448,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Junior Hoilett,3500000.0,False,working,False,Junior Hoilett,J Hoilett,single
+449,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Lucas Cavallini,0,False,Not in either dataset for currect season but present in both seasons around match,True,Lucas Cavallini,L Cavallini,single
+450,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Canada,CA,2017,SUCCESS,Marcel de Jong,600000.0,False,working,False,Marcel de Jong,M de Jong,single
+451,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Luis López,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis López,L Lopez,single
+452,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Félix Crisanto,0.0,False,Large Dataset had 0,False,Félix Crisanto,F Crisanto,single
+453,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Henry Figueroa,0.0,False,Large Dataset had 0,False,Henry Figueroa,H Figueroa,single
+454,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Maynor Figueroa,400000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+455,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Carlos Sánchez,3500000.0,False,working,False,Carlos Sánchez,C Sánchez,single
+456,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Alfredo Mejía,500000.0,False,working,False,Alfredo Mejía,A Mejía,single
+457,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Jorge Claros,250000.0,False,working,False,Jorge Claros,J Claros,single
+458,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Alberth Elis,1000000.0,False,working,False,Alberth Elis,A Elis,single
+459,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Carlos Discua,275000.0,False,Data Ended before season : 2017,False,Carlos Discua,C Discua,single
+460,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Romell Quioto,900000.0,False,working,False,Romell Quioto,R Quioto,single
+461,3710,"Gold Cup, 2017",Canada vs Honduras,15-07-2017,Honduras,HN,2017,SUCCESS,Ovidio Lanza,0.0,False,Large Dataset had 0,False,Ovidio Lanza,C Lanza,single
+462,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+463,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+464,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+465,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+466,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+467,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Oniel Fisher,125000.0,False,working,False,Oniel Fisher,O Fisher,single
+468,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Kevon Lambert,0,False,Not in either dataset for currect season but present in both seasons around match,True,Kevon Lambert,K Lambert,single
+469,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+470,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Cory Burke,0.0,False,Large Dataset had 0,False,Cory Burke,C Burke,single
+471,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Romario Williams,100000.0,False,working,False,Romario Williams,R Williams,single
+472,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,Jamaica,JM,2017,SUCCESS,Darren Mattocks,750000.0,False,working,False,Darren Mattocks,D Mattocks,single
+473,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Derby Carrillo,0.0,False,Large Dataset had 0,False,Derby Carrillo,D Carrillo,single
+474,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Bryan Tamacas,0.0,False,Large Dataset had 0,False,Bryan Tamacas,B Tamacas,single
+475,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Henry Romero,-,False,Data Ended before season : 2017,False,Henry Romero,H Romero,single
+476,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Iván Mancia,0.0,False,Large Dataset had 0,False,Iván Mancia,I Mancia,single
+477,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Rubén Marroquín,0,False,Not in either dataset for currect season but present in both seasons around match,True,Rubén Marroquín,R Marroquin,single
+478,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Narciso Orellana,0,False,Not in either dataset for currect season but present in both seasons around match,True,Narciso Orellana,N Orellana,single
+479,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Darwin Cerén,0,False,Not in either dataset for currect season but present in both seasons around match,True,Darwin Cerén,D Cerén,single
+480,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Gerson Mayén,175000.0,False,working,False,Gerson Mayén,G Mayén,single
+481,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Nelson Bonilla,300000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+482,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,SUCCESS,Denis Pineda,50000.0,False,working,False,Denis Pineda,D Pineda,single
+483,3711,"Gold Cup, 2017",Jamaica vs El Salvador,16-07-2017,El Salvador,SV,2017,FAIL,Rodolfo Zelaya,0,True,Was in  DB before or after season,True,Rodolfo Zelaya,R Zelaya,single
+484,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Jesús Corona,10000000.0,False,working,False,Jesús Corona,J Corona,single
+485,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",500000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+486,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Hugo Ayala,2500000.0,False,working,False,Hugo Ayala,H Ayala,single
+487,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Hedgardo Marín,1200000.0,False,working,False,Hedgardo Marín,H Marín,single
+488,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,FAIL,Luis Reyes,0,True,Was in  DB before or after season,True,Luis Reyes,L Reyes,single
+489,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Jesús Dueñas,2500000.0,False,working,False,Jesús Dueñas,J Dueñas,single
+490,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,"['Jorge Hernández', 'José Hernández']",2300000.0,False,working,False,"['Jorge Hernández', 'José Hernández']",J Hernández,multiple
+491,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Rodolfo Pizarro,5000000.0,False,working,False,Rodolfo Pizarro,R Pizarro,single
+492,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,Jesús Gallardo,1200000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+493,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",1200000.0,False,working,False,"['Ángel Sepúlveda', 'Gilberto Sepúlveda']",A Sepúlveda,multiple
+494,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,Mexico,MX,2017,SUCCESS,"['Edwin Hernández', 'Elías Hernández']",2800000.0,False,working,False,"['Edwin Hernández', 'Elías Hernández']",E Hernández,multiple
+495,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Benjí Villalobos,0.0,False,Large Dataset had 0,False,Benjí Villalobos,B Villalobos,single
+496,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Bryan Tamacas,0.0,False,Large Dataset had 0,False,Bryan Tamacas,B Tamacas,single
+497,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Henry Romero,-,False,Data Ended before season : 2017,False,Henry Romero,H Romero,single
+498,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Iván Mancia,0.0,False,Large Dataset had 0,False,Iván Mancia,I Mancia,single
+499,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Alexander Larín,275000.0,False,working,False,Alexander Larín,A Larín,single
+500,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Gerson Mayén,175000.0,False,working,False,Gerson Mayén,G Mayén,single
+501,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Darwin Cerén,0,False,Not in either dataset for currect season but present in both seasons around match,True,Darwin Cerén,D Cerén,single
+502,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Narciso Orellana,0,False,Not in either dataset for currect season but present in both seasons around match,True,Narciso Orellana,N Orellana,single
+503,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Andrés Flores,0,False,Not in either dataset for currect season but present in both seasons around match,True,Andrés Flores,A Flores,single
+504,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,FAIL,Rodolfo Zelaya,0,True,Was in  DB before or after season,True,Rodolfo Zelaya,R Zelaya,single
+505,3712,"Gold Cup, 2017",Mexico vs El Salvador,10-07-2017,El Salvador,SV,2017,SUCCESS,Nelson Bonilla,300000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+506,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Derby Carrillo,0.0,False,Large Dataset had 0,False,Derby Carrillo,D Carrillo,single
+507,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Bryan Tamacas,0.0,False,Large Dataset had 0,False,Bryan Tamacas,B Tamacas,single
+508,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Henry Romero,-,False,Data Ended before season : 2017,False,Henry Romero,H Romero,single
+509,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Iván Mancia,0.0,False,Large Dataset had 0,False,Iván Mancia,I Mancia,single
+510,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Alexander Larín,275000.0,False,working,False,Alexander Larín,A Larín,single
+511,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Gerson Mayén,175000.0,False,working,False,Gerson Mayén,G Mayén,single
+512,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Darwin Cerén,0,False,Not in either dataset for currect season but present in both seasons around match,True,Darwin Cerén,D Cerén,single
+513,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Narciso Orellana,0,False,Not in either dataset for currect season but present in both seasons around match,True,Narciso Orellana,N Orellana,single
+514,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Denis Pineda,50000.0,False,working,False,Denis Pineda,D Pineda,single
+515,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,FAIL,Rodolfo Zelaya,0,True,Was in  DB before or after season,True,Rodolfo Zelaya,R Zelaya,single
+516,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,El Salvador,SV,2017,SUCCESS,Nelson Bonilla,300000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+517,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Eloy Room,4500000.0,False,working,False,Eloy Room,E Room,single
+518,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Juriën Gaari,0.0,False,Large Dataset had 0,False,Juriën Gaari,J Gaari,single
+519,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Quentin Jakoba,0.0,False,Large Dataset had 0,False,Quentin Jakoba,Q Jakoba,single
+520,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Darryl Lachman,800000.0,False,working,False,Darryl Lachman,D Lachman,single
+521,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Gillian Justiana,175000.0,False,working,False,Gillian Justiana,G Justiana,single
+522,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Dustley Mulder,500000.0,False,Data Ended before season : 2017,False,Dustley Mulder,D Mulder,single
+523,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Leandro Bacuna,3000000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+524,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Gevaro Nepomuceno,350000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+525,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Elson Hooi,200000.0,False,working,False,Elson Hooi,E Hooi,single
+526,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Jarchinio Antonia,600000.0,False,working,False,Jarchinio Antonia,J Antonia,single
+527,3713,"Gold Cup, 2017",El Salvador vs Curaçao,14-07-2017,Curaçao,CW,2017,SUCCESS,Rangelo Janga,225000.0,False,working,False,Rangelo Janga,R Janga,single
+528,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,D Léon,none
+529,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,A Soubervie,none
+530,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,G Lescot,none
+531,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,C Fabien,none
+532,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,J Legrand,none
+533,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,R Contout,none
+534,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,K Rimane,none
+535,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,Loïc Baal,none
+536,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,S Dutard,none
+537,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,R Evens,none
+538,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,S Privat,none
+539,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Milan Borjan,1800000.0,False,working,False,Milan Borjan,M Borjan,single
+540,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Michael Petrasso,5000000.0,False,Used Large Dataset,False,Michael Petrasso,M Petrasso,single
+541,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Dejan Jakovic,350000.0,False,working,False,Dejan Jakovic,D Jaković,single
+542,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Steven Vitória,300000.0,False,working,False,Steven Vitória,S Vitória,single
+543,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Marcel de Jong,600000.0,False,working,False,Marcel de Jong,M de Jong,single
+544,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Patrice Bernier,300000.0,False,Data Ended before season : 2017,False,Patrice Bernier,P Bernier,single
+545,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Samuel Piette,200000.0,False,working,False,Samuel Piette,S Piette,single
+546,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Scott Arfield,3000000.0,False,working,False,Scott Arfield,S Ar,single
+547,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Junior Hoilett,3500000.0,False,working,False,Junior Hoilett,J Hoilett,single
+548,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Lucas Cavallini,0,False,Not in either dataset for currect season but present in both seasons around match,True,Lucas Cavallini,L Cavallini,single
+549,3714,"Gold Cup, 2017",French Guyana vs Canada,08-07-2017,Canada,CA,2017,SUCCESS,Alphonso Davies,200000.0,False,working,False,Alphonso Davies,A Davies,single
+550,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Dany Carvajal,300000.0,False,working,False,Dany Carvajal,D Carvajal,single
+551,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,José Salvatierra,300000.0,False,Data Ended before season : 2017,False,José Salvatierra,J Salvatierra,single
+552,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Giancarlo González,3400000.0,False,working,False,Giancarlo González,G González,single
+553,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Michael Umaña,300000.0,False,Data Ended before season : 2017,False,Michael Umaña,M Umaña,single
+554,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Francisco Calvo,350000.0,False,working,False,Francisco Calvo,F Calvo,single
+555,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Randall Azofeifa,400000.0,False,working,False,Randall Azofeifa,R Azofeifa,single
+556,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Yeltsin Tejeda,1500000.0,False,working,False,Yeltsin Tejeda,Y Tejeda,single
+557,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Ulises Segura,250000.0,False,working,False,Ulises Segura,U Segura,single
+558,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,Bryan Ruiz,7500000.0,False,working,False,Bryan Ruiz,B Ruiz,single
+559,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,SUCCESS,David Ramírez,300000.0,False,working,False,David Ramírez,D Ramírez,single
+560,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,Costa Rica,CR,2017,FAIL,Ariel Rodríguez,0,True,Was in  DB before or after season,True,Ariel Rodríguez,A Rodríguez,single
+561,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,D Léon,none
+562,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,A Soubervie,none
+563,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,H Rosimé,none
+564,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,G Lescot,none
+565,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,C Fabien,none
+566,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,J Legrand,none
+567,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,R Contout,none
+568,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,Loïc Baal,none
+569,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,Ludovic Baal,none
+570,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,R Evens,none
+571,3715,"Gold Cup, 2017",Costa Rica vs French Guyana,15-07-2017,French Guyana,GF,2017,FAIL,0,0,True,Lookup Required,False,0,A Abelinti,none
+572,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Tim Howard,2000000.0,False,Data Ended before season : 2017,False,Tim Howard,T Howard,single
+573,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Graham Zusi,700000.0,False,working,False,Graham Zusi,G Zusi,single
+574,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Omar González,2000000.0,False,working,False,Omar González,O González,single
+575,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Matt Besler,1000000.0,False,working,False,Matt Besler,M Besler,single
+576,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Jorge Villafaña,1000000.0,False,working,False,Jorge Villafaña,J Villafaña,single
+577,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Paul Arriola,800000.0,False,working,False,Paul Arriola,P Arriola,single
+578,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Kellyn Acosta,700000.0,False,working,False,Kellyn Acosta,K Acosta,single
+579,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Michael Bradley,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Bradley,M Bradley,single
+580,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Darlington Nagbe,1750000.0,False,working,False,Darlington Nagbe,D Nagbe,single
+581,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Jordan Morris,850000.0,False,working,False,Jordan Morris,J Morris,single
+582,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,United States,US,2017,SUCCESS,Jozy Altidore,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jozy Altidore,J Altidore,single
+583,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Andre Blake,800000.0,False,working,False,Andre Blake,A Blake,single
+584,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Alvas Powell,675000.0,False,working,False,Alvas Powell,A Powell,single
+585,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Damion Lowe,150000.0,False,working,False,Damion Lowe,D Lowe,single
+586,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Jermaine Taylor,425000.0,False,working,False,Jermaine Taylor,J Taylor,single
+587,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Kemar Lawrence,1250000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+588,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Oniel Fisher,125000.0,False,working,False,Oniel Fisher,O Fisher,single
+589,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Ladale Richie,0.0,False,Large Dataset had 0,False,Ladale Richie,L Richie,single
+590,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Je-Vaughn Watson,600000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+591,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Owayne Gordon,175000.0,False,working,False,Owayne Gordon,O Gordon,single
+592,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Romario Williams,100000.0,False,working,False,Romario Williams,R Williams,single
+593,3716,"Gold Cup, 2017",United States vs Jamaica,27-07-2017,Jamaica,JM,2017,SUCCESS,Darren Mattocks,750000.0,False,working,False,Darren Mattocks,D Mattocks,single
+594,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Brad Guzan,2500000.0,False,working,False,Brad Guzan,B Guzan,single
+595,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Eric Lichaj,1500000.0,False,working,False,Eric Lichaj,E Lichaj,single
+596,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Omar González,2000000.0,False,working,False,Omar González,O González,single
+597,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Matt Hedges,1250000.0,False,working,False,Matt Hedges,M Hedges,single
+598,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Justin Morrow,750000.0,False,working,False,Justin Morrow,J Morrow,single
+599,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Paul Arriola,800000.0,False,working,False,Paul Arriola,P Arriola,single
+600,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Kellyn Acosta,700000.0,False,working,False,Kellyn Acosta,K Acosta,single
+601,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Cristian Roldán,675000.0,False,working,False,Cristian Roldán,C Roldán,single
+602,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Gyasi Zardes,2000000.0,False,working,False,Gyasi Zardes,G Zardes,single
+603,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Juan Agudelo,800000.0,False,working,False,Juan Agudelo,J Agudelo,single
+604,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,United States,US,2017,SUCCESS,Jordan Morris,850000.0,False,working,False,Jordan Morris,J Morris,single
+605,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Online Lookup Required,False,0,K Olimpa,none
+606,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,K Vitulin,none
+607,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,J Delem,none
+608,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,N Zaïre,none
+609,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,S Crétinoir,none
+610,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,A Jean-Baptiste,none
+611,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,S Abaul,none
+612,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,D Hérelle,none
+613,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Online Lookup Required,False,0,J Audel,none
+614,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,K Parsemain,none
+615,3717,"Gold Cup, 2017",United States vs Martinique,13-07-2017,Martinique,MQ,2017,FAIL,0,0,True,Lookup Required,False,0,Y Arquin,none
+616,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,G Ochoa,single
+617,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Luis Rodríguez,2800000.0,False,working,False,Luis Rodríguez,L Rodríguez,single
+618,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Diego Reyes,1600000.0,False,working,False,Diego Reyes,D Reyes,single
+619,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Néstor Araújo,5500000.0,False,working,False,Néstor Araújo,N Araújo,single
+620,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Jesús Gallardo,5000000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+621,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Jonathan dos Santos,1600000.0,False,working,False,Jonathan dos Santos,J dos Santos,single
+622,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",8000000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+623,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Érick Gutiérrez,4800000.0,False,working,False,Érick Gutiérrez,É Gutiérrez,single
+624,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Uriel Antuna,4000000.0,False,working,False,Uriel Antuna,U Antuna,single
+625,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Raúl Jiménez,40000000.0,False,working,False,Raúl Jiménez,R Jiménez,single
+626,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Mexico,MX,2019,SUCCESS,Roberto Alvarado,7500000.0,False,working,False,Roberto Alvarado,R Alvarado,single
+627,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Milan Borjan,2600000.0,False,working,False,Milan Borjan,M Borjan,single
+628,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Zachary Brault-Guillard,0,False,Not in either dataset for currect season but present in both seasons around match,True,Zachary Brault-Guillard,Z Brault-Guillard,single
+629,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Atiba Hutchinson,325000.0,False,Used Large Dataset,False,Atiba Hutchinson,A Hutchinson,single
+630,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Doneil Henry,800000.0,False,working,False,Doneil Henry,D Henry,single
+631,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Derek Cornelius,450000.0,False,working,False,Derek Cornelius,D Cornelius,single
+632,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Russell Teibert,600000.0,False,working,False,Russell Teibert,R Teibert,single
+633,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Cyle Larin,3200000.0,False,working,False,Cyle Larin,C Larin,single
+634,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Will Johnson,0.0,False,Large Dataset had 0,False,Will Johnson,W Johnson,single
+635,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Mark-Anthony Kaye,2400000.0,False,working,False,Mark-Anthony Kaye,M Kaye,single
+636,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Alphonso Davies,45000000.0,False,working,False,Alphonso Davies,A Davies,single
+637,3719,"Gold Cup, 2019",Mexico vs Canada,20-06-2019,Canada,CA,2019,SUCCESS,Lucas Cavallini,3500000.0,False,working,False,Lucas Cavallini,L Cavallini,single
+638,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Akel Clarke,0.0,False,Large Dataset had 0,False,Akel Clarke,A Clarke,single
+639,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,FAIL,Jordan Dover,0,True,Was in  DB before or after season,True,Jordan Dover,J Dover,single
+640,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Terence Vancooten,0.0,False,Large Dataset had 0,False,Terence Vancooten,T Vancooten,single
+641,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Matthew Briggs,250000.0,False,working,False,Matthew Briggs,M Briggs,single
+642,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Liam Gordon,0.0,False,Large Dataset had 0,False,Liam Gordon,L Gordon,single
+643,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Sam Cox,0.0,False,Large Dataset had 0,False,Sam Cox,S Cox,single
+644,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Elliot Bonds,0.0,False,Large Dataset had 0,False,Elliot Bonds,E Bonds,single
+645,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Terell Ondaan,550000.0,False,working,False,Terell Ondaan,T Ondaan,single
+646,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Neil Danns,150000.0,False,working,False,Neil Danns,N Danns,single
+647,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Callum Harriott,250000.0,False,working,False,Callum Harriott,C Harriott,single
+648,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Guyana,GY,2019,SUCCESS,Emery Welshman,175000.0,False,working,False,Emery Welshman,E Welshman,single
+649,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Luis Mejía,725000.0,False,working,False,Luis Mejía,L Mejía,single
+650,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Amir Murillo,2800000.0,False,working,False,Amir Murillo,A Murillo,single
+651,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Román Torres,300000.0,False,working,False,Román Torres,R Torres,single
+652,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Hárold Cummings,475000.0,False,working,False,Hárold Cummings,H Cummings,single
+653,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Éric Davis,550000.0,False,working,False,Éric Davis,E Davis,single
+654,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Yoel Bárcenas,950000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+655,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Fidel Escobar,200000.0,False,working,False,Fidel Escobar,F Escobar,single
+656,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Armando Cooper,250000.0,False,working,False,Armando Cooper,A Cooper,single
+657,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Alberto Quintero,525000.0,False,working,False,Alberto Quintero,A Quintero,single
+658,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Abdiel Arroyo,200000.0,False,working,False,Abdiel Arroyo,A Arroyo,single
+659,3720,"Gold Cup, 2019",Guyana vs Panama,22-06-2019,Panama,PA,2019,SUCCESS,Rolando Blackburn,325000.0,False,working,False,Rolando Blackburn,R Blackburn,single
+660,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,G Ochoa,single
+661,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Luis Rodríguez,2800000.0,False,working,False,Luis Rodríguez,L Rodríguez,single
+662,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Carlos Salcedo,5000000.0,False,working,False,Carlos Salcedo,C Salcedo,single
+663,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Néstor Araújo,5500000.0,False,working,False,Néstor Araújo,N Araújo,single
+664,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Jesús Gallardo,5000000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+665,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,C Rodríguez,single
+666,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Diego Reyes,1600000.0,False,working,False,Diego Reyes,D Reyes,single
+667,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Andrés Guardado,3200000.0,False,working,False,Andrés Guardado,A Guardado,single
+668,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Uriel Antuna,4000000.0,False,working,False,Uriel Antuna,U Antuna,single
+669,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Raúl Jiménez,40000000.0,False,working,False,Raúl Jiménez,R Jiménez,single
+670,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Mexico,MX,2019,SUCCESS,Roberto Alvarado,7500000.0,False,working,False,Roberto Alvarado,R Alvarado,single
+671,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Sandy Sánchez,0.0,False,Large Dataset had 0,False,Sandy Sánchez,Sandy Sanchez,single
+672,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Lionis Martínez,-,False,Data Ended before season : 2019,False,Lionis Martínez,L Martínez,single
+673,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Yosel Piedra,0.0,False,Large Dataset had 0,False,Yosel Piedra,Y Piedra,single
+674,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Yasmani López,-,False,Data Ended before season : 2019,False,Yasmani López,Y López,single
+675,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Dariel Morejón,0.0,False,Large Dataset had 0,False,Dariel Morejón,D Morejon,single
+676,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Rolando Abreu,0.0,False,Large Dataset had 0,False,Rolando Abreu,R Abreu,single
+677,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,FAIL,Aldair Ruiz,0,True,Online Lookup Required,False,Aldair Ruiz,K Aldair,single
+678,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Luismel Morris,-,False,Data Ended before season : 2019,False,Luismel Morris,L Morris,single
+679,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Aricheell Hernández,0.0,False,Large Dataset had 0,False,Aricheell Hernández,A Hernández,single
+680,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Andy Baquero,0.0,False,Large Dataset had 0,False,Andy Baquero,A Baquero,single
+681,3721,"Gold Cup, 2019",Mexico vs Cuba,16-06-2019,Cuba,CU,2019,SUCCESS,Luis Paradela,75000.0,False,working,False,Luis Paradela,L Paradela,single
+682,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,José Calderón,225000.0,False,working,False,José Calderón,J Calderón,single
+683,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Francisco Palacios,0.0,False,Large Dataset had 0,False,Francisco Palacios,F Palacios,single
+684,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Adolfo Machado,275000.0,False,working,False,Adolfo Machado,A Machado,single
+685,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Hárold Cummings,475000.0,False,working,False,Hárold Cummings,H Cummings,single
+686,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,FAIL,Kevin Galván,0,True,Was in  DB before or after season,True,Kevin Galván,K Galván,single
+687,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Omar Browne,300000.0,False,working,False,Omar Browne,O Browne,single
+688,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Fidel Escobar,200000.0,False,working,False,Fidel Escobar,F Escobar,single
+689,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,FAIL,Marcos Sánchez,0,True,Was in  DB before or after season,True,Marcos Sánchez,M Sánchez,single
+690,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,FAIL,Álex Rodríguez,0,True,Online Lookup Required,False,Álex Rodríguez,P Rodríguez,single
+691,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,José Fajardo,300000.0,False,working,False,José Fajardo,J Fajardo,single
+692,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,Panama,PA,2019,SUCCESS,Gaby Torres,650000.0,False,working,False,Gaby Torres,G Torres,single
+693,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Sean Johnson,1400000.0,False,working,False,Sean Johnson,S Johnson,single
+694,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Reggie Cannon,2700000.0,False,working,False,Reggie Cannon,R Cannon,single
+695,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Matt Miazga,2000000.0,False,working,False,Matt Miazga,M Miazga,single
+696,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Omar González,2500000.0,False,Data Ended before season : 2019,False,Omar González,O González,single
+697,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Daniel Lovitz,750000.0,False,working,False,Daniel Lovitz,D Lovitz,single
+698,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Wil Trapp,2400000.0,False,working,False,Wil Trapp,W Trapp,single
+699,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Jordan Morris,2800000.0,False,working,False,Jordan Morris,J Morris,single
+700,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Cristian Roldán,3200000.0,False,working,False,Cristian Roldán,C Roldán,single
+701,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Djordje Mihailovic,0,False,Not in either dataset for currect season but present in both seasons around match,True,Djordje Mihailovic,D Mihailović,single
+702,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Jonathan Lewis,800000.0,False,working,False,Jonathan Lewis,J Lewis,single
+703,3722,"Gold Cup, 2019",Panama vs United States,27-06-2019,United States,US,2019,SUCCESS,Jozy Altidore,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jozy Altidore,J Altidore,single
+704,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Andre Blake,1200000.0,False,working,False,Andre Blake,A Blake,single
+705,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Alvas Powell,475000.0,False,working,False,Alvas Powell,A Powell,single
+706,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Damion Lowe,325000.0,False,working,False,Damion Lowe,D Lowe,single
+707,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Shaun Francis,0.0,False,Large Dataset had 0,False,Shaun Francis,S Francis,single
+708,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Kemar Lawrence,1600000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+709,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",250000.0,False,working,False,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",D Williams,multiple
+710,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Michael Hector,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Hector,M Hector,single
+711,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Dever Orgill,900000.0,False,working,False,Dever Orgill,D Orgill,single
+712,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Peter-Lee Vassell,175000.0,False,working,False,Peter-Lee Vassell,P Vassell,single
+713,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Leon Bailey,29500000.0,False,working,False,Leon Bailey,L Bailey,single
+714,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Jamaica,JM,2019,SUCCESS,Brian Brown,275000.0,False,working,False,Brian Brown,B Brown,single
+715,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Luis López,175000.0,False,working,False,Luis López,L Lopez,single
+716,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Brayan Beckeles,1000000.0,False,Data Ended before season : 2019,False,Brayan Beckeles,B Beckeles,single
+717,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Henry Figueroa,250000.0,False,working,False,Henry Figueroa,H Figueroa,single
+718,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Maynor Figueroa,200000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+719,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Emilio Izaguirre,325000.0,False,working,False,Emilio Izaguirre,E Izaguirre,single
+720,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Alberth Elis,2800000.0,False,working,False,Alberth Elis,A Elis,single
+721,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Luis Garrido,200000.0,False,working,False,Luis Garrido,L Garrido,single
+722,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Héctor Castellanos,150000.0,False,working,False,Héctor Castellanos,H Castellanos,single
+723,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Alexander López,300000.0,False,working,False,Alexander López,A López,single
+724,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Choco Lozano,800000.0,False,working,False,Choco Lozano,A Lozano,single
+725,3723,"Gold Cup, 2019",Jamaica vs Honduras,18-06-2019,Honduras,HN,2019,SUCCESS,Romell Quioto,0,False,Not in either dataset for currect season but present in both seasons around match,True,Romell Quioto,R Quioto,single
+726,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Dale Eve,0.0,False,Large Dataset had 0,False,Dale Eve,D Eve,single
+727,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Donte Brangman,0.0,False,Large Dataset had 0,False,Donte Brangman,D Brangman,single
+728,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Dante Leverock,150000.0,False,working,False,Dante Leverock,D Leverock,single
+729,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Jaylon Bather,0.0,False,Large Dataset had 0,False,Jaylon Bather,J Bather,single
+730,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Calon Minors,0.0,False,Large Dataset had 0,False,Calon Minors,C Minors,single
+731,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Willie Clemons,0.0,False,Large Dataset had 0,False,Willie Clemons,W Clemons,single
+732,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Osagi Bascome,0.0,False,Large Dataset had 0,False,Osagi Bascome,O Bascome,single
+733,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Lejaun Simmons,0.0,False,Large Dataset had 0,False,Lejaun Simmons,L Simmons,single
+734,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Marco Warren,0.0,False,Large Dataset had 0,False,Marco Warren,M Warren,single
+735,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Zeiko Lewis,150000.0,False,working,False,Zeiko Lewis,Z Lewis,single
+736,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Bermuda,BM,2019,SUCCESS,Nahki Wells,3200000.0,False,working,False,Nahki Wells,N Wells,single
+737,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Henry Maradiaga,0.0,False,Large Dataset had 0,False,Henry Maradiaga,H Maradiaga,single
+738,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+739,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,"['Luis López', 'Óscar López', 'Alyer López']",175000.0,False,working,False,"['Luis López', 'Óscar López', 'Alyer López']",O López,multiple
+740,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Luis Copete,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+741,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,M Rosas,single
+742,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Kevin Serapio,0.0,False,Large Dataset had 0,False,Kevin Serapio,K Serapio,single
+743,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Juan Barrera,300000.0,False,working,False,Juan Barrera,J Barrera,single
+744,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Renato Punyed,0.0,False,Large Dataset had 0,False,Renato Punyed,R Punyed,single
+745,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Luis Galeano,0.0,False,Large Dataset had 0,False,Luis Galeano,L Galeano,single
+746,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Byron Bonilla,225000.0,False,working,False,Byron Bonilla,B Bonilla,single
+747,3724,"Gold Cup, 2019",Bermuda vs Nicaragua,25-06-2019,Nicaragua,NI,2019,SUCCESS,Jorge Betancur,300000.0,False,working,False,Jorge Betancur,J Betancur,single
+748,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Luis López,175000.0,False,working,False,Luis López,L Lopez,single
+749,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Félix Crisanto,350000.0,False,working,False,Félix Crisanto,F Crisanto,single
+750,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Henry Figueroa,250000.0,False,working,False,Henry Figueroa,H Figueroa,single
+751,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Maynor Figueroa,200000.0,False,working,False,Maynor Figueroa,M Figueroa,single
+752,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Éver Alvarado,250000.0,False,working,False,Éver Alvarado,Ever Alvarado,single
+753,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Jorge Álvarez,225000.0,False,working,False,Jorge Álvarez,J Alvarez,single
+754,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Luis Garrido,200000.0,False,working,False,Luis Garrido,L Garrido,single
+755,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Bryan Acosta,1600000.0,False,working,False,Bryan Acosta,B Acosta,single
+756,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Alberth Elis,2800000.0,False,working,False,Alberth Elis,A Elis,single
+757,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Rubilio Castillo,200000.0,False,working,False,Rubilio Castillo,R Castillo,single
+758,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,Honduras,HN,2019,SUCCESS,Michaell Chirinos,550000.0,False,working,False,Michaell Chirinos,M Chirinos,single
+759,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Henry Hernández,0.0,False,Large Dataset had 0,False,Henry Hernández,H Hernández,single
+760,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Bryan Tamacas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Bryan Tamacas,B Tamacas,single
+761,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Roberto Domínguez,325000.0,False,working,False,Roberto Domínguez,R Domínguez,single
+762,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Iván Mancia,250000.0,False,working,False,Iván Mancia,I Mancia,single
+763,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Jonathan Jiménez,200000.0,False,working,False,Jonathan Jiménez,J Jiménez,single
+764,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Narciso Orellana,250000.0,False,working,False,Narciso Orellana,N Orellana,single
+765,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Darwin Cerén,400000.0,False,working,False,Darwin Cerén,D Cerén,single
+766,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Óscar Cerén,275000.0,False,working,False,Óscar Cerén,Ó Cerén,single
+767,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Marvin Monterroza,225000.0,False,working,False,Marvin Monterroza,M Monterroza,single
+768,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Juan Carlos Portillo,200000.0,False,working,False,Juan Carlos Portillo,J Portillo,single
+769,3725,"Gold Cup, 2019",Honduras vs El Salvador,26-06-2019,El Salvador,SV,2019,SUCCESS,Nelson Bonilla,650000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+770,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Eloy Room,950000.0,False,working,False,Eloy Room,E Room,single
+771,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Juriën Gaari,400000.0,False,working,False,Juriën Gaari,J Gaari,single
+772,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Darryl Lachman,550000.0,False,working,False,Darryl Lachman,D Lachman,single
+773,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Cuco Martina,1200000.0,False,Used Large Dataset,False,Cuco Martina,C Martina,single
+774,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Jurich Carolina,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jurich Carolina,J Carolina,single
+775,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,"['Shermar Martina', 'Shermaine Martina']",175000.0,False,working,False,"['Shermar Martina', 'Shermaine Martina']",S Martina,multiple
+776,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Leandro Bacuna,2400000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+777,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Gevaro Nepomuceno,200000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+778,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Michaël Maria,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michaël Maria,M Maria,single
+779,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Elson Hooi,475000.0,False,working,False,Elson Hooi,E Hooi,single
+780,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,Curaçao,CW,2019,SUCCESS,Charlison Benschop,400000.0,False,working,False,Charlison Benschop,C Benschop,single
+781,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Henry Hernández,0.0,False,Large Dataset had 0,False,Henry Hernández,H Hernández,single
+782,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Bryan Tamacas,0,False,Not in either dataset for currect season but present in both seasons around match,True,Bryan Tamacas,B Tamacas,single
+783,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Roberto Domínguez,325000.0,False,working,False,Roberto Domínguez,R Domínguez,single
+784,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Iván Mancia,250000.0,False,working,False,Iván Mancia,I Mancia,single
+785,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Jonathan Jiménez,200000.0,False,working,False,Jonathan Jiménez,J Jiménez,single
+786,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Narciso Orellana,250000.0,False,working,False,Narciso Orellana,N Orellana,single
+787,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Óscar Cerén,275000.0,False,working,False,Óscar Cerén,Ó Cerén,single
+788,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Darwin Cerén,400000.0,False,working,False,Darwin Cerén,D Cerén,single
+789,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Andrés Flores,450000.0,False,working,False,Andrés Flores,A Flores,single
+790,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Jaime Alás,100000.0,False,working,False,Jaime Alás,J Alas,single
+791,3726,"Gold Cup, 2019",Curaçao vs El Salvador,18-06-2019,El Salvador,SV,2019,SUCCESS,Nelson Bonilla,650000.0,False,working,False,Nelson Bonilla,N Bonilla,single
+792,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Andre Blake,1200000.0,False,working,False,Andre Blake,A Blake,single
+793,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Alvas Powell,475000.0,False,working,False,Alvas Powell,A Powell,single
+794,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Damion Lowe,325000.0,False,working,False,Damion Lowe,D Lowe,single
+795,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Shaun Francis,0.0,False,Large Dataset had 0,False,Shaun Francis,S Francis,single
+796,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Kemar Lawrence,1600000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+797,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",250000.0,False,working,False,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",D Williams,multiple
+798,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Je-Vaughn Watson,100000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+799,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Junior Flemmings,300000.0,False,working,False,Junior Flemmings,J Flemmings,single
+800,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Andre Lewis,225000.0,False,working,False,Andre Lewis,A Lewis,single
+801,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Ricardo Morris,0.0,False,Large Dataset had 0,False,Ricardo Morris,R Morris,single
+802,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Jamaica,JM,2019,SUCCESS,Shamar Nicholson,1600000.0,False,working,False,Shamar Nicholson,S Nicholson,single
+803,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Eloy Room,950000.0,False,working,False,Eloy Room,E Room,single
+804,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Juriën Gaari,400000.0,False,working,False,Juriën Gaari,J Gaari,single
+805,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Cuco Martina,1200000.0,False,Used Large Dataset,False,Cuco Martina,C Martina,single
+806,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Darryl Lachman,550000.0,False,working,False,Darryl Lachman,D Lachman,single
+807,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Ayrton Statie,0.0,False,Large Dataset had 0,False,Ayrton Statie,A Statie,single
+808,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Michaël Maria,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michaël Maria,M Maria,single
+809,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Gevaro Nepomuceno,200000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+810,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Elson Hooi,475000.0,False,working,False,Elson Hooi,E Hooi,single
+811,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Leandro Bacuna,2400000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+812,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Jarchinio Antonia,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jarchinio Antonia,J Antonia,single
+813,3727,"Gold Cup, 2019",Jamaica vs Curaçao,26-06-2019,Curaçao,CW,2019,SUCCESS,Jafar Arias,400000.0,False,working,False,Jafar Arias,J Arias,single
+814,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Sandy Sánchez,0.0,False,Large Dataset had 0,False,Sandy Sánchez,Sandy Sanchez,single
+815,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Erick Rizo,0.0,False,Large Dataset had 0,False,Erick Rizo,E Rizo,single
+816,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Yosel Piedra,0.0,False,Large Dataset had 0,False,Yosel Piedra,Y Piedra,single
+817,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,FAIL,0,0,True,Lookup Required,False,0,D Luís,none
+818,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Dariel Morejón,0.0,False,Large Dataset had 0,False,Dariel Morejón,D Morejon,single
+819,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,FAIL,Aldair Ruiz,0,True,Online Lookup Required,False,Aldair Ruiz,K Aldair,single
+820,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Andy Baquero,0.0,False,Large Dataset had 0,False,Andy Baquero,A Baquero,single
+821,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Maikel Reyes,0.0,False,Large Dataset had 0,False,Maikel Reyes,M Reyes,single
+822,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Aricheell Hernández,0.0,False,Large Dataset had 0,False,Aricheell Hernández,A Hernández,single
+823,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,FAIL,Roberney Caballero,0,True,Was in  DB before or after season,True,Roberney Caballero,R Caballero,single
+824,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Cuba,CU,2019,SUCCESS,Luis Paradela,75000.0,False,working,False,Luis Paradela,L Paradela,single
+825,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,L Chauvet,none
+826,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,R Barthelery,none
+827,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,J Delem,none
+828,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Online Lookup Required,False,0,J Babin,none
+829,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,S Camille,none
+830,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,D Hérelle,none
+831,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Online Lookup Required,False,0,J Marveaux,none
+832,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,M Biron,none
+833,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,S Abaul,none
+834,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,K Fortuné,none
+835,3728,"Gold Cup, 2019",Cuba vs Martinique,20-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,K Parsemain,none
+836,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Zack Steffen,6000000.0,False,working,False,Zack Steffen,Z Steffen,single
+837,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Nick Lima,800000.0,False,working,False,Nick Lima,N Lima,single
+838,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Walker Zimmerman,2000000.0,False,working,False,Walker Zimmerman,W Zimmerman,single
+839,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Aaron Long,2800000.0,False,working,False,Aaron Long,A Long,single
+840,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Tim Ream,1200000.0,False,working,False,Tim Ream,T Ream,single
+841,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,"['Terrence Boyd', 'Tyler Boyd']",1600000.0,False,working,False,"['Terrence Boyd', 'Tyler Boyd']",T Boyd,multiple
+842,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Weston McKennie,20000000.0,False,working,False,Weston McKennie,W Mc Kennie,single
+843,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Michael Bradley,1600000.0,False,working,False,Michael Bradley,M Bradley,single
+844,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Paul Arriola,2800000.0,False,working,False,Paul Arriola,P Arriola,single
+845,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,FAIL,0,0,True,Lookup Required,False,0,C Pulišić,none
+846,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,United States,US,2019,SUCCESS,Gyasi Zardes,2800000.0,False,working,False,Gyasi Zardes,G Zardes,single
+847,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Akel Clarke,0.0,False,Large Dataset had 0,False,Akel Clarke,A Clarke,single
+848,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,FAIL,Jordan Dover,0,True,Was in  DB before or after season,True,Jordan Dover,J Dover,single
+849,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Terence Vancooten,0.0,False,Large Dataset had 0,False,Terence Vancooten,T Vancooten,single
+850,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Matthew Briggs,250000.0,False,working,False,Matthew Briggs,M Briggs,single
+851,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Liam Gordon,0.0,False,Large Dataset had 0,False,Liam Gordon,L Gordon,single
+852,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Brandon Beresford,150000.0,False,Data Ended before season : 2019,False,Brandon Beresford,B Beresford,single
+853,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Elliot Bonds,0.0,False,Large Dataset had 0,False,Elliot Bonds,E Bonds,single
+854,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Keanu Marsh-Brown,50000.0,False,working,False,Keanu Marsh-Brown,K Marsh-Brown,single
+855,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Neil Danns,150000.0,False,working,False,Neil Danns,N Danns,single
+856,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Callum Harriott,250000.0,False,working,False,Callum Harriott,C Harriott,single
+857,3729,"Gold Cup, 2019",United States vs Guyana,19-06-2019,Guyana,GY,2019,SUCCESS,Emery Welshman,175000.0,False,working,False,Emery Welshman,E Welshman,single
+858,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Andre Blake,1200000.0,False,working,False,Andre Blake,A Blake,single
+859,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Alvas Powell,475000.0,False,working,False,Alvas Powell,A Powell,single
+860,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Damion Lowe,325000.0,False,working,False,Damion Lowe,D Lowe,single
+861,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Shaun Francis,0.0,False,Large Dataset had 0,False,Shaun Francis,S Francis,single
+862,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Kemar Lawrence,1600000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+863,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Michael Hector,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Hector,M Hector,single
+864,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Je-Vaughn Watson,100000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+865,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Dever Orgill,900000.0,False,working,False,Dever Orgill,D Orgill,single
+866,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Junior Flemmings,300000.0,False,working,False,Junior Flemmings,J Flemmings,single
+867,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Leon Bailey,29500000.0,False,working,False,Leon Bailey,L Bailey,single
+868,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Jamaica,JM,2019,SUCCESS,Shamar Nicholson,1600000.0,False,working,False,Shamar Nicholson,S Nicholson,single
+869,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Luis Mejía,725000.0,False,working,False,Luis Mejía,L Mejía,single
+870,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Amir Murillo,2800000.0,False,working,False,Amir Murillo,A Murillo,single
+871,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Román Torres,300000.0,False,working,False,Román Torres,R Torres,single
+872,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Hárold Cummings,475000.0,False,working,False,Hárold Cummings,H Cummings,single
+873,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Éric Davis,550000.0,False,working,False,Éric Davis,E Davis,single
+874,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Yoel Bárcenas,950000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+875,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Fidel Escobar,200000.0,False,working,False,Fidel Escobar,F Escobar,single
+876,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Armando Cooper,250000.0,False,working,False,Armando Cooper,A Cooper,single
+877,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Alberto Quintero,525000.0,False,working,False,Alberto Quintero,A Quintero,single
+878,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Abdiel Arroyo,200000.0,False,working,False,Abdiel Arroyo,A Arroyo,single
+879,3730,"Gold Cup, 2019",Jamaica vs Panama,30-06-2019,Panama,PA,2019,SUCCESS,Gaby Torres,650000.0,False,working,False,Gaby Torres,G Torres,single
+880,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Zack Steffen,6000000.0,False,working,False,Zack Steffen,Z Steffen,single
+881,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Nick Lima,800000.0,False,working,False,Nick Lima,N Lima,single
+882,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Walker Zimmerman,2000000.0,False,working,False,Walker Zimmerman,W Zimmerman,single
+883,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Aaron Long,2800000.0,False,working,False,Aaron Long,A Long,single
+884,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Tim Ream,1200000.0,False,working,False,Tim Ream,T Ream,single
+885,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Weston McKennie,20000000.0,False,working,False,Weston McKennie,W Mc Kennie,single
+886,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Michael Bradley,1600000.0,False,working,False,Michael Bradley,M Bradley,single
+887,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Paul Arriola,2800000.0,False,working,False,Paul Arriola,P Arriola,single
+888,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,"['Terrence Boyd', 'Tyler Boyd']",1600000.0,False,working,False,"['Terrence Boyd', 'Tyler Boyd']",T Boyd,multiple
+889,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,SUCCESS,Gyasi Zardes,2800000.0,False,working,False,Gyasi Zardes,G Zardes,single
+890,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,United States,US,2019,FAIL,0,0,True,Lookup Required,False,0,C Pulišić,none
+891,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Eloy Room,950000.0,False,working,False,Eloy Room,E Room,single
+892,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Juriën Gaari,400000.0,False,working,False,Juriën Gaari,J Gaari,single
+893,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Cuco Martina,1200000.0,False,Used Large Dataset,False,Cuco Martina,C Martina,single
+894,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Darryl Lachman,550000.0,False,working,False,Darryl Lachman,D Lachman,single
+895,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Ayrton Statie,0.0,False,Large Dataset had 0,False,Ayrton Statie,A Statie,single
+896,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,"['Shermar Martina', 'Shermaine Martina']",175000.0,False,working,False,"['Shermar Martina', 'Shermaine Martina']",S Martina,multiple
+897,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Leandro Bacuna,2400000.0,False,working,False,Leandro Bacuna,L Bacuna,single
+898,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Gevaro Nepomuceno,200000.0,False,working,False,Gevaro Nepomuceno,G Nepomuceno,single
+899,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Elson Hooi,475000.0,False,working,False,Elson Hooi,E Hooi,single
+900,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Kenji Gorré,175000.0,False,working,False,Kenji Gorré,K Gorré,single
+901,3731,"Gold Cup, 2019",United States vs Curaçao,01-07-2019,Curaçao,CW,2019,SUCCESS,Jafar Arias,400000.0,False,working,False,Jafar Arias,J Arias,single
+902,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Luis Mejía,725000.0,False,working,False,Luis Mejía,L Mejía,single
+903,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Amir Murillo,2800000.0,False,working,False,Amir Murillo,A Murillo,single
+904,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Román Torres,300000.0,False,working,False,Román Torres,R Torres,single
+905,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Hárold Cummings,475000.0,False,working,False,Hárold Cummings,H Cummings,single
+906,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Éric Davis,550000.0,False,working,False,Éric Davis,E Davis,single
+907,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Alberto Quintero,525000.0,False,working,False,Alberto Quintero,A Quintero,single
+908,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Fidel Escobar,200000.0,False,working,False,Fidel Escobar,F Escobar,single
+909,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Armando Cooper,250000.0,False,working,False,Armando Cooper,A Cooper,single
+910,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Yoel Bárcenas,950000.0,False,working,False,Yoel Bárcenas,Y Bárcenas,single
+911,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,José Fajardo,300000.0,False,working,False,José Fajardo,J Fajardo,single
+912,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Panama,PA,2019,SUCCESS,Gaby Torres,650000.0,False,working,False,Gaby Torres,G Torres,single
+913,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Marvin Phillip,150000.0,False,working,False,Marvin Phillip,M Phillip,single
+914,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Alvin Jones,175000.0,False,working,False,Alvin Jones,A Jones,single
+915,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Daneil Cyrus,150000.0,False,working,False,Daneil Cyrus,D Cyrus,single
+916,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Aubrey David,250000.0,False,working,False,Aubrey David,A David,single
+917,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Mekeil Williams,275000.0,False,working,False,Mekeil Williams,M Williams,single
+918,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Khaleem Hyland,1000000.0,False,working,False,Khaleem Hyland,K Hyland,single
+919,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,"['Kevan George', 'Keston George']",175000.0,False,working,False,"['Kevan George', 'Keston George']",K George,multiple
+920,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Nathan Lewis,0.0,False,Large Dataset had 0,False,Nathan Lewis,N Lewis,single
+921,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Kevin Molino,550000.0,False,working,False,Kevin Molino,K Molino,single
+922,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,"['Jan-Michael Williams', 'Jomal Williams', 'Jesse Williams']",0.0,False,Large Dataset said 0,False,"['Jan-Michael Williams', 'Jomal Williams', 'Jesse Williams']",J Williams,multiple
+923,3732,"Gold Cup, 2019",Panama vs Trinidad and Tobago,19-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Levi García,950000.0,False,working,False,Levi García,L García,single
+924,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Leonel Moreira,325000.0,False,working,False,Leonel Moreira,L Moreira,single
+925,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Cristian Gamboa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cristian Gamboa,C Gamboa,single
+926,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Kendall Waston,600000.0,False,working,False,Kendall Waston,K Waston,single
+927,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Óscar Duarte,725000.0,False,working,False,Óscar Duarte,Ó Duarte,single
+928,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Bryan Oviedo,550000.0,False,working,False,Bryan Oviedo,B Oviedo,single
+929,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Joel Campbell,2000000.0,False,working,False,Joel Campbell,J Campbell,single
+930,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Celso Borges,600000.0,False,working,False,Celso Borges,C Borges,single
+931,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Allan Cruz,650000.0,False,working,False,Allan Cruz,Allan Cruz,single
+932,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Elías Aguilar,450000.0,False,working,False,Elías Aguilar,E Aguilar,single
+933,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Mayron George,300000.0,False,working,False,Mayron George,M George,single
+934,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Costa Rica,CR,2019,SUCCESS,Jonathan McDonald,350000.0,False,Data Ended before season : 2019,False,Jonathan McDonald,J Mc Donald,single
+935,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Dale Eve,0.0,False,Large Dataset had 0,False,Dale Eve,D Eve,single
+936,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Donte Brangman,0.0,False,Large Dataset had 0,False,Donte Brangman,D Brangman,single
+937,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Dante Leverock,150000.0,False,working,False,Dante Leverock,D Leverock,single
+938,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Jaylon Bather,0.0,False,Large Dataset had 0,False,Jaylon Bather,J Bather,single
+939,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Jalen Harvey,0.0,False,Large Dataset had 0,False,Jalen Harvey,O Harvey,single
+940,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Osagi Bascome,0.0,False,Large Dataset had 0,False,Osagi Bascome,O Bascome,single
+941,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Milan Butterfield,0.0,False,Large Dataset had 0,False,Milan Butterfield,M Butter,single
+942,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Zeiko Lewis,150000.0,False,working,False,Zeiko Lewis,Z Lewis,single
+943,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Willie Clemons,0.0,False,Large Dataset had 0,False,Willie Clemons,W Clemons,single
+944,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Reggie Lambe,200000.0,False,working,False,Reggie Lambe,R Lambe,single
+945,3733,"Gold Cup, 2019",Costa Rica vs Bermuda,21-06-2019,Bermuda,BM,2019,SUCCESS,Nahki Wells,3200000.0,False,working,False,Nahki Wells,N Wells,single
+946,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,L Chauvet,none
+947,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,R Barthelery,none
+948,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,J Delem,none
+949,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Online Lookup Required,False,0,J Babin,none
+950,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,S Camille,none
+951,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,D Hérelle,none
+952,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Online Lookup Required,False,0,J Marveaux,none
+953,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,Yann Thimon,none
+954,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,S Abaul,none
+955,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,K Fortuné,none
+956,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Martinique,MQ,2019,FAIL,0,0,True,Lookup Required,False,0,K Parsemain,none
+957,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,"['Javier Orozco', 'Jonathan Orozco']",1600000.0,False,working,False,"['Javier Orozco', 'Jonathan Orozco']",J Orozco,multiple
+958,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Fernando Navarro,1600000.0,False,working,False,Fernando Navarro,F Navarro,single
+959,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,César Montes,5000000.0,False,working,False,César Montes,C Montes,single
+960,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Carlos Salcedo,5000000.0,False,working,False,Carlos Salcedo,C Salcedo,single
+961,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Jesús Gallardo,5000000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+962,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Carlos Rodríguez,7500000.0,False,working,False,Carlos Rodríguez,C Rodríguez,single
+963,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",8000000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+964,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Andrés Guardado,3200000.0,False,working,False,Andrés Guardado,A Guardado,single
+965,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Uriel Antuna,4000000.0,False,working,False,Uriel Antuna,U Antuna,single
+966,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Raúl Jiménez,40000000.0,False,working,False,Raúl Jiménez,R Jiménez,single
+967,3734,"Gold Cup, 2019",Martinique vs Mexico,24-06-2019,Mexico,MX,2019,SUCCESS,Roberto Alvarado,7500000.0,False,working,False,Roberto Alvarado,R Alvarado,single
+968,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Johny Placide,400000.0,False,working,False,Johny Placide,J Placide,single
+969,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Carlens Arcus,550000.0,False,working,False,Carlens Arcus,C Arcus,single
+970,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Andrew Jean-Baptiste,0.0,False,Large Dataset had 0,False,Andrew Jean-Baptiste,A Jean-Baptiste,single
+971,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Jems Geffrard,100000.0,False,working,False,Jems Geffrard,J Geffrard,single
+972,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Christiano François,275000.0,False,working,False,Christiano François,A Christian,single
+973,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Steeven Saba,150000.0,False,working,False,Steeven Saba,S Saba,single
+974,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Bryan Alceus,150000.0,False,working,False,Bryan Alceus,B Alceus,single
+975,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Wilde-Donald Guerrier,550000.0,False,working,False,Wilde-Donald Guerrier,W Guerrier,single
+976,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Hervé Bazile,475000.0,False,working,False,Hervé Bazile,H Bazile,single
+977,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Duckens Nazon,300000.0,False,working,False,Duckens Nazon,D Nazon,single
+978,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Haiti,HT,2019,SUCCESS,Frantzdy Pierrot,800000.0,False,working,False,Frantzdy Pierrot,F Pierrot,single
+979,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Guillermo Ochoa,2000000.0,False,working,False,Guillermo Ochoa,G Ochoa,single
+980,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Luis Rodríguez,2800000.0,False,working,False,Luis Rodríguez,L Rodríguez,single
+981,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Carlos Salcedo,5000000.0,False,working,False,Carlos Salcedo,C Salcedo,single
+982,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Héctor Moreno,3200000.0,False,working,False,Héctor Moreno,H Moreno,single
+983,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Jesús Gallardo,5000000.0,False,working,False,Jesús Gallardo,J Gallardo,single
+984,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Jonathan dos Santos,1600000.0,False,working,False,Jonathan dos Santos,J dos Santos,single
+985,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,"['Edson Álvarez', 'Efraín Álvarez']",8000000.0,False,working,False,"['Edson Álvarez', 'Efraín Álvarez']",E Álvarez,multiple
+986,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Andrés Guardado,3200000.0,False,working,False,Andrés Guardado,A Guardado,single
+987,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Roberto Alvarado,7500000.0,False,working,False,Roberto Alvarado,R Alvarado,single
+988,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Raúl Jiménez,40000000.0,False,working,False,Raúl Jiménez,R Jiménez,single
+989,3735,"Gold Cup, 2019",Haiti vs Mexico,03-07-2019,Mexico,MX,2019,SUCCESS,Rodolfo Pizarro,8000000.0,False,working,False,Rodolfo Pizarro,R Pizarro,single
+990,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Adrian Foncette,0.0,False,Large Dataset had 0,False,Adrian Foncette,A Foncette,single
+991,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Aubrey David,250000.0,False,working,False,Aubrey David,A David,single
+992,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Carlyle Mitchell,200000.0,False,working,False,Carlyle Mitchell,C Mitchell,single
+993,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Daneil Cyrus,150000.0,False,working,False,Daneil Cyrus,D Cyrus,single
+994,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Mekeil Williams,275000.0,False,working,False,Mekeil Williams,M Williams,single
+995,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Leston Paul,150000.0,False,working,False,Leston Paul,L Paul,single
+996,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,"['Kevan George', 'Keston George']",175000.0,False,working,False,"['Kevan George', 'Keston George']",K George,multiple
+997,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Kevin Molino,550000.0,False,working,False,Kevin Molino,K Molino,single
+998,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Levi García,950000.0,False,working,False,Levi García,L García,single
+999,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Shahdon Winchester,300000.0,False,Data Ended before season : 2019,False,Shahdon Winchester,S Winchester,single
+1000,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,"['Jan-Michael Williams', 'Jomal Williams', 'Jesse Williams']",0.0,False,Large Dataset said 0,False,"['Jan-Michael Williams', 'Jomal Williams', 'Jesse Williams']",J Williams,multiple
+1001,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Quillan Roberts,100000.0,False,working,False,Quillan Roberts,Q Roberts,single
+1002,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Sam Cox,0.0,False,Large Dataset had 0,False,Sam Cox,S Cox,single
+1003,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Terence Vancooten,0.0,False,Large Dataset had 0,False,Terence Vancooten,T Vancooten,single
+1004,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Ronayne Marsh-Brown,-,False,Data Ended before season : 2019,False,Ronayne Marsh-Brown,R Marsh-Brown,single
+1005,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Kadell Daniel,0.0,False,Large Dataset had 0,False,Kadell Daniel,K Daniel,single
+1006,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,FAIL,Anthony Jeffrey,0,True,Was in  DB before or after season,True,Anthony Jeffrey,A Jeffrey,single
+1007,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Elliot Bonds,0.0,False,Large Dataset had 0,False,Elliot Bonds,E Bonds,single
+1008,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Neil Danns,150000.0,False,working,False,Neil Danns,N Danns,single
+1009,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Keanu Marsh-Brown,50000.0,False,working,False,Keanu Marsh-Brown,K Marsh-Brown,single
+1010,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Pernell Schultz,0.0,False,Large Dataset had 0,False,Pernell Schultz,P Schultz,single
+1011,3736,"Gold Cup, 2019",Trinidad and Tobago vs Guyana,27-06-2019,Guyana,GY,2019,SUCCESS,Sheldon Holder,0.0,False,Large Dataset had 0,False,Sheldon Holder,S Holder,single
+1012,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Zack Steffen,6000000.0,False,working,False,Zack Steffen,Z Steffen,single
+1013,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Nick Lima,800000.0,False,working,False,Nick Lima,N Lima,single
+1014,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Walker Zimmerman,2000000.0,False,working,False,Walker Zimmerman,W Zimmerman,single
+1015,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Aaron Long,2800000.0,False,working,False,Aaron Long,A Long,single
+1016,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Tim Ream,1200000.0,False,working,False,Tim Ream,T Ream,single
+1017,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Weston McKennie,20000000.0,False,working,False,Weston McKennie,W Mc Kennie,single
+1018,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Michael Bradley,1600000.0,False,working,False,Michael Bradley,M Bradley,single
+1019,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,FAIL,0,0,True,Lookup Required,False,0,C Pulišić,none
+1020,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,"['Terrence Boyd', 'Tyler Boyd']",1600000.0,False,working,False,"['Terrence Boyd', 'Tyler Boyd']",T Boyd,multiple
+1021,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Gyasi Zardes,2800000.0,False,working,False,Gyasi Zardes,G Zardes,single
+1022,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,United States,US,2019,SUCCESS,Paul Arriola,2800000.0,False,working,False,Paul Arriola,P Arriola,single
+1023,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Marvin Phillip,150000.0,False,working,False,Marvin Phillip,M Phillip,single
+1024,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Alvin Jones,175000.0,False,working,False,Alvin Jones,A Jones,single
+1025,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Daneil Cyrus,150000.0,False,working,False,Daneil Cyrus,D Cyrus,single
+1026,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Aubrey David,250000.0,False,working,False,Aubrey David,A David,single
+1027,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Neveal Hackshaw,275000.0,False,working,False,Neveal Hackshaw,N Hackshaw,single
+1028,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Khaleem Hyland,1000000.0,False,working,False,Khaleem Hyland,K Hyland,single
+1029,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,"['Kevan George', 'Keston George']",175000.0,False,working,False,"['Kevan George', 'Keston George']",K George,multiple
+1030,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Leston Paul,150000.0,False,working,False,Leston Paul,L Paul,single
+1031,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Nathan Lewis,0.0,False,Large Dataset had 0,False,Nathan Lewis,N Lewis,single
+1032,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Levi García,950000.0,False,working,False,Levi García,L García,single
+1033,3737,"Gold Cup, 2019",United States vs Trinidad and Tobago,23-06-2019,Trinidad and Tobago,TT,2019,SUCCESS,Cordell Cato,500000.0,False,Data Ended before season : 2019,False,Cordell Cato,C Cato,single
+1034,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Andre Blake,1200000.0,False,working,False,Andre Blake,A Blake,single
+1035,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Alvas Powell,475000.0,False,working,False,Alvas Powell,A Powell,single
+1036,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Michael Hector,0,False,Not in either dataset for currect season but present in both seasons around match,True,Michael Hector,M Hector,single
+1037,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Shaun Francis,0.0,False,Large Dataset had 0,False,Shaun Francis,S Francis,single
+1038,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Kemar Lawrence,1600000.0,False,working,False,Kemar Lawrence,K Lawrence,single
+1039,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Junior Flemmings,300000.0,False,working,False,Junior Flemmings,J Flemmings,single
+1040,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Je-Vaughn Watson,100000.0,False,working,False,Je-Vaughn Watson,J Watson,single
+1041,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",250000.0,False,working,False,"['Dicoy Williams', 'Dino Williams', 'Damion Williams', 'Devon Williams']",D Williams,multiple
+1042,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Leon Bailey,29500000.0,False,working,False,Leon Bailey,L Bailey,single
+1043,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Peter-Lee Vassell,175000.0,False,working,False,Peter-Lee Vassell,P Vassell,single
+1044,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,Jamaica,JM,2019,SUCCESS,Darren Mattocks,800000.0,False,Data Ended before season : 2019,False,Darren Mattocks,D Mattocks,single
+1045,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Zack Steffen,6000000.0,False,working,False,Zack Steffen,Z Steffen,single
+1046,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Reggie Cannon,2700000.0,False,working,False,Reggie Cannon,R Cannon,single
+1047,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Matt Miazga,2000000.0,False,working,False,Matt Miazga,M Miazga,single
+1048,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Aaron Long,2800000.0,False,working,False,Aaron Long,A Long,single
+1049,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Tim Ream,1200000.0,False,working,False,Tim Ream,T Ream,single
+1050,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Jordan Morris,2800000.0,False,working,False,Jordan Morris,J Morris,single
+1051,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Weston McKennie,20000000.0,False,working,False,Weston McKennie,W Mc Kennie,single
+1052,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Michael Bradley,1600000.0,False,working,False,Michael Bradley,M Bradley,single
+1053,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Paul Arriola,2800000.0,False,working,False,Paul Arriola,P Arriola,single
+1054,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,FAIL,0,0,True,Lookup Required,False,0,C Pulišić,none
+1055,3738,"Gold Cup, 2019",Jamaica vs United States,04-07-2019,United States,US,2019,SUCCESS,Jozy Altidore,0,False,Not in either dataset for currect season but present in both seasons around match,True,Jozy Altidore,J Altidore,single
+1056,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Leonel Moreira,325000.0,False,working,False,Leonel Moreira,L Moreira,single
+1057,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Cristian Gamboa,0,False,Not in either dataset for currect season but present in both seasons around match,True,Cristian Gamboa,C Gamboa,single
+1058,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Kendall Waston,600000.0,False,working,False,Kendall Waston,K Waston,single
+1059,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Óscar Duarte,725000.0,False,working,False,Óscar Duarte,Ó Duarte,single
+1060,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Bryan Oviedo,550000.0,False,working,False,Bryan Oviedo,B Oviedo,single
+1061,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Celso Borges,600000.0,False,working,False,Celso Borges,C Borges,single
+1062,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Joel Campbell,2000000.0,False,working,False,Joel Campbell,J Campbell,single
+1063,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Allan Cruz,650000.0,False,working,False,Allan Cruz,Allan Cruz,single
+1064,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Elías Aguilar,450000.0,False,working,False,Elías Aguilar,E Aguilar,single
+1065,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Jonathan McDonald,350000.0,False,Data Ended before season : 2019,False,Jonathan McDonald,J Mc Donald,single
+1066,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Costa Rica,CR,2019,SUCCESS,Mayron George,300000.0,False,working,False,Mayron George,M George,single
+1067,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Justo Lorente,0,False,Not in either dataset for currect season but present in both seasons around match,True,Justo Lorente,J Llorente,single
+1068,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+1069,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Carlos Montenegro,150000.0,False,working,False,Carlos Montenegro,C Montenegro,single
+1070,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Luis Copete,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+1071,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,M Rosas,single
+1072,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Juan Barrera,300000.0,False,working,False,Juan Barrera,J Barrera,single
+1073,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Marlon López,0,False,Not in either dataset for currect season but present in both seasons around match,True,Marlon López,M Lopez,single
+1074,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Renato Punyed,0.0,False,Large Dataset had 0,False,Renato Punyed,R Punyed,single
+1075,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Francisco Flores,100000.0,False,working,False,Francisco Flores,F Flores,single
+1076,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Byron Bonilla,225000.0,False,working,False,Byron Bonilla,B Bonilla,single
+1077,3739,"Gold Cup, 2019",Costa Rica vs Nicaragua,17-06-2019,Nicaragua,NI,2019,SUCCESS,Jorge Betancur,300000.0,False,working,False,Jorge Betancur,J Betancur,single
+1078,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Henry Maradiaga,0.0,False,Large Dataset had 0,False,Henry Maradiaga,H Maradiaga,single
+1079,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Josué Quijano,0.0,False,Large Dataset had 0,False,Josué Quijano,J Quijano,single
+1080,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,"['Luis López', 'Óscar López', 'Alyer López']",175000.0,False,working,False,"['Luis López', 'Óscar López', 'Alyer López']",O López,multiple
+1081,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Luis Copete,0,False,Not in either dataset for currect season but present in both seasons around match,True,Luis Copete,L Copete,single
+1082,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Manuel Rosas,0.0,False,Large Dataset had 0,False,Manuel Rosas,M Rosas,single
+1083,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Renato Punyed,0.0,False,Large Dataset had 0,False,Renato Punyed,R Punyed,single
+1084,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Kevin Serapio,0.0,False,Large Dataset had 0,False,Kevin Serapio,K Serapio,single
+1085,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Dany Cadena,0,False,Not in either dataset for currect season but present in both seasons around match,True,Dany Cadena,D Cadena,single
+1086,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Juan Barrera,300000.0,False,working,False,Juan Barrera,J Barrera,single
+1087,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Jorge Betancur,300000.0,False,working,False,Jorge Betancur,J Betancur,single
+1088,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Nicaragua,NI,2019,SUCCESS,Byron Bonilla,225000.0,False,working,False,Byron Bonilla,B Bonilla,single
+1089,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Johny Placide,400000.0,False,working,False,Johny Placide,J Placide,single
+1090,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Carlens Arcus,550000.0,False,working,False,Carlens Arcus,C Arcus,single
+1091,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Andrew Jean-Baptiste,0.0,False,Large Dataset had 0,False,Andrew Jean-Baptiste,A Jean-Baptiste,single
+1092,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Jems Geffrard,100000.0,False,working,False,Jems Geffrard,J Geffrard,single
+1093,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Wilde-Donald Guerrier,550000.0,False,working,False,Wilde-Donald Guerrier,W Guerrier,single
+1094,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Steeven Saba,150000.0,False,working,False,Steeven Saba,S Saba,single
+1095,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Bryan Alceus,150000.0,False,working,False,Bryan Alceus,B Alceus,single
+1096,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Zachary Herivaux,175000.0,False,working,False,Zachary Herivaux,Z Herivaux,single
+1097,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Derrick Etienne Jr.,400000.0,False,working,False,Derrick Etienne Jr.,D Etienne,single
+1098,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Duckens Nazon,300000.0,False,working,False,Duckens Nazon,D Nazon,single
+1099,3740,"Gold Cup, 2019",Nicaragua vs Haiti,21-06-2019,Haiti,HT,2019,SUCCESS,Frantzdy Pierrot,800000.0,False,working,False,Frantzdy Pierrot,F Pierrot,single

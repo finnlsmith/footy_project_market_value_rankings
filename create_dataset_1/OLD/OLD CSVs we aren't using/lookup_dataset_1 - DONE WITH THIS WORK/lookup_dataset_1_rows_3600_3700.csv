@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Arijanet Muric,12000000.0,False,working,False,Arijanet Muric,A Muric,single
+1,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Lirim Kastrati,500000.0,False,working,False,Lirim Kastrati,Kastrati LII,single
+2,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Fidan Aliti,1300000.0,False,working,False,Fidan Aliti,Aliti,single
+3,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+4,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Mirlind Kryeziu,400000.0,False,working,False,Mirlind Kryeziu,M Kryeziu,single
+5,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Florian Loshaj,500000.0,False,working,False,Florian Loshaj,Loshaj,single
+6,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Milot Rashica,8500000.0,False,working,False,Milot Rashica,Rashica,single
+7,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Betim Fazliji,700000.0,False,working,False,Betim Fazliji,Fazliji,single
+8,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Edon Zhegrova,8000000.0,False,working,False,Edon Zhegrova,Zhegrova,single
+9,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Arbër Zeneli,3500000.0,False,working,False,Arbër Zeneli,Zeneli,single
+10,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Kosovo,XK,2022,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+11,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Odysseas Vlachodimos,16000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+12,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,George Baldock,3500000.0,False,working,False,George Baldock,Baldock,single
+13,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Konstantinos Mavropanos,15000000.0,False,working,False,Konstantinos Mavropanos,Mavropanos,single
+14,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Pantelis Hatzidiakos,4000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+15,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Konstantinos Tsimikas,18000000.0,False,working,False,Konstantinos Tsimikas,Tsimikas,single
+16,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Dimitrios Kourbelis,1500000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+17,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Georgios Masouras,6000000.0,False,working,False,Georgios Masouras,G Masouras,single
+18,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Petros Mantalos,2500000.0,False,working,False,Petros Mantalos,Mantalos,single
+19,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Anastasios Bakasetas,10000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+20,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Georgios Giakoumakis,5000000.0,False,working,False,Georgios Giakoumakis,Giakoumakis,single
+21,1819,Nations League 2022-2023,Kosovo vs Greece,05.06.22,Greece,GR,2022,SUCCESS,Dimitrios Limnios,2000000.0,False,working,False,Dimitrios Limnios,Limnios,single
+22,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Odysseas Vlachodimos,16000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+23,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,George Baldock,3500000.0,False,working,False,George Baldock,Baldock,single
+24,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Konstantinos Mavropanos,15000000.0,False,working,False,Konstantinos Mavropanos,Mavropanos,single
+25,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Pantelis Hatzidiakos,4000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+26,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Konstantinos Tsimikas,18000000.0,False,working,False,Konstantinos Tsimikas,Tsimikas,single
+27,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Anastasios Douvikas,9000000.0,False,working,False,Anastasios Douvikas,Douvikas,single
+28,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Vangelis Pavlidis,14000000.0,False,working,False,Vangelis Pavlidis,E Pavlidis,single
+29,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Petros Mantalos,2500000.0,False,working,False,Petros Mantalos,Mantalos,single
+30,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Manolis Siopis,5500000.0,False,working,False,Manolis Siopis,Siopis,single
+31,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Anastasios Bakasetas,10000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+32,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Greece,GR,2022,SUCCESS,Dimitrios Limnios,2000000.0,False,working,False,Dimitrios Limnios,Limnios,single
+33,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Neofytos Michail,400000.0,False,working,False,Neofytos Michail,Neofytos,single
+34,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Nikolas Ioannou,750000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+35,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none
+36,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Pavlos Correa,300000.0,False,working,False,Pavlos Correa,P Korrea,single
+37,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Fanos Katelaris,400000.0,False,working,False,Fanos Katelaris,Katelaris,single
+38,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",800000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+39,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Fotis Papoulis,200000.0,False,working,False,Fotis Papoulis,Papoulis,single
+40,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Kostakis Artymatas,700000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+41,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Ioannis Pittas,1200000.0,False,working,False,Ioannis Pittas,Pittas,single
+42,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,Pieros Sotiriou,1400000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+43,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,"['Georgios Loizou', 'Loizos Loizou']",1500000.0,False,working,False,"['Georgios Loizou', 'Loizos Loizou']",Loizou,multiple
+44,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Samir Ujkani,100000.0,False,working,False,Samir Ujkani,Ujkani,single
+45,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Lirim Kastrati,500000.0,False,working,False,Lirim Kastrati,Kastrati LII,single
+46,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+47,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Mirlind Kryeziu,400000.0,False,working,False,Mirlind Kryeziu,M Kryeziu,single
+48,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Ibrahim Dresevic,1500000.0,False,working,False,Ibrahim Dresevic,Dresevic,single
+49,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Donat Rrudhani,700000.0,False,working,False,Donat Rrudhani,Rrudhani,single
+50,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Milot Rashica,8500000.0,False,working,False,Milot Rashica,Rashica,single
+51,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Florent Muslija,1500000.0,False,working,False,Florent Muslija,Muslija,single
+52,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Valon Berisha,1800000.0,False,working,False,Valon Berisha,Val Berisha,single
+53,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+54,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Kosovo,XK,2022,SUCCESS,Zymer Bytyqi,3500000.0,False,working,False,Zymer Bytyqi,Z Bytyqi,single
+55,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Bailey Peacock-Farrell,1000000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+56,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Jonny Evans,2000000.0,False,working,False,Jonny Evans,J Evans,single
+57,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Conor McMenamin,250000.0,False,working,False,Conor McMenamin,Mcmenamin,single
+58,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Ciaron Brown,350000.0,False,working,False,Ciaron Brown,Ci Brown,single
+59,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Daniel Ballard,2500000.0,False,working,False,Daniel Ballard,Ballard,single
+60,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Ali McCann,2800000.0,False,working,False,Ali McCann,Mc Cann,single
+61,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,George Saville,2500000.0,False,working,False,George Saville,G Saville,single
+62,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Steven Davis,500000.0,False,working,False,Steven Davis,Davis,single
+63,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,"['Caolan Lavery', 'Shayne Lavery']",800000.0,False,working,False,"['Caolan Lavery', 'Shayne Lavery']",Lavery,multiple
+64,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Brodie Spencer,0.0,False,Large Dataset had 0,False,Brodie Spencer,Spencer,single
+65,1821,Nations League 2022-2023,Kosovo vs Northern Ireland,09.06.22,Northern Ireland, NI,2022,SUCCESS,Kyle Lafferty,75000.0,False,working,False,Kyle Lafferty,K Lafferty,single
+66,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,"['Trevor Carson', 'Josh Carson']",275000.0,False,working,False,"['Trevor Carson', 'Josh Carson']",Carson,multiple
+67,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Jonny Evans,2000000.0,False,working,False,Jonny Evans,J Evans,single
+68,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Conor McMenamin,250000.0,False,working,False,Conor McMenamin,Mcmenamin,single
+69,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Paddy McNair,4500000.0,False,working,False,Paddy McNair,Mc Nair,single
+70,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Ciaron Brown,350000.0,False,working,False,Ciaron Brown,Ci Brown,single
+71,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Daniel Ballard,2500000.0,False,working,False,Daniel Ballard,Ballard,single
+72,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Shea Charles,-,False,Used Large Dataset,False,Shea Charles,Sh Charles,single
+73,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Steven Davis,500000.0,False,working,False,Steven Davis,Davis,single
+74,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,"['Caolan Lavery', 'Shayne Lavery']",800000.0,False,working,False,"['Caolan Lavery', 'Shayne Lavery']",Lavery,multiple
+75,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Brodie Spencer,0.0,False,Large Dataset had 0,False,Brodie Spencer,Spencer,single
+76,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Northern Ireland, NI,2022,SUCCESS,Kyle Lafferty,75000.0,False,working,False,Kyle Lafferty,K Lafferty,single
+77,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Andreas Christodoulou,300000.0,False,working,False,Andreas Christodoulou,A Christodoulou,single
+78,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none
+79,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Konstantinos Laifis,1800000.0,False,working,False,Konstantinos Laifis,Laifis,single
+80,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Nikolas Panagiotou,700000.0,False,working,False,Nikolas Panagiotou,N Panagiotou,single
+81,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",800000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+82,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Dimitrios Christofi,300000.0,False,working,False,Dimitrios Christofi,Christofi,single
+83,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Kostakis Artymatas,700000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+84,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Marinos Tzionis,1500000.0,False,working,False,Marinos Tzionis,Tzionis,single
+85,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Ioannis Pittas,1200000.0,False,working,False,Ioannis Pittas,Pittas,single
+86,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Andronikos Kakoullis,700000.0,False,working,False,Andronikos Kakoullis,Kakoullis,single
+87,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,Grigoris Kastanos,1800000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+88,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Odysseas Vlachodimos,16000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+89,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,George Baldock,3500000.0,False,working,False,George Baldock,Baldock,single
+90,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Konstantinos Mavropanos,15000000.0,False,working,False,Konstantinos Mavropanos,Mavropanos,single
+91,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Pantelis Hatzidiakos,4000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+92,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Konstantinos Tsimikas,18000000.0,False,working,False,Konstantinos Tsimikas,Tsimikas,single
+93,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Andreas Bouchalakis,3000000.0,False,working,False,Andreas Bouchalakis,Bouchalakis,single
+94,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Georgios Masouras,6000000.0,False,working,False,Georgios Masouras,G Masouras,single
+95,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Anastasios Chatzigiovanis,1500000.0,False,working,False,Anastasios Chatzigiovanis,Chatzigiovanis,single
+96,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Vangelis Pavlidis,14000000.0,False,working,False,Vangelis Pavlidis,E Pavlidis,single
+97,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Manolis Siopis,5500000.0,False,working,False,Manolis Siopis,Siopis,single
+98,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Greece,GR,2022,SUCCESS,Anastasios Bakasetas,10000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+99,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Arijanet Muric,12000000.0,False,working,False,Arijanet Muric,A Muric,single
+100,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Fidan Aliti,1300000.0,False,working,False,Fidan Aliti,Aliti,single
+101,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+102,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Mirlind Kryeziu,400000.0,False,working,False,Mirlind Kryeziu,M Kryeziu,single
+103,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Donat Rrudhani,700000.0,False,working,False,Donat Rrudhani,Rrudhani,single
+104,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Toni Domgjoni,800000.0,False,working,False,Toni Domgjoni,T Domgjoni,single
+105,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Milot Rashica,8500000.0,False,working,False,Milot Rashica,Rashica,single
+106,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Florent Muslija,1500000.0,False,working,False,Florent Muslija,Muslija,single
+107,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Valon Berisha,1800000.0,False,working,False,Valon Berisha,Val Berisha,single
+108,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+109,1823,Nations League 2022-2023,Greece vs Kosovo,12.06.22,Kosovo,XK,2022,SUCCESS,Zymer Bytyqi,3500000.0,False,working,False,Zymer Bytyqi,Z Bytyqi,single
+110,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Bailey Peacock-Farrell,1000000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+111,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Tom Flanagan,250000.0,False,working,False,Tom Flanagan,T Flanagan,single
+112,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Jonny Evans,2000000.0,False,working,False,Jonny Evans,J Evans,single
+113,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Paddy McNair,4500000.0,False,working,False,Paddy McNair,Mc Nair,single
+114,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Conor Bradley,1500000.0,False,working,False,Conor Bradley,C Bradley,single
+115,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Jamal Lewis,6000000.0,False,working,False,Jamal Lewis,J Lewis,single
+116,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,George Saville,2500000.0,False,working,False,George Saville,G Saville,single
+117,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Steven Davis,500000.0,False,working,False,Steven Davis,Davis,single
+118,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Corry Evans,300000.0,False,working,False,Corry Evans,C Evans,single
+119,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Dion Charles,800000.0,False,working,False,Dion Charles,Di Charles,single
+120,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Northern Ireland, NI,2022,SUCCESS,Josh Magennis,300000.0,False,working,False,Josh Magennis,Magennis,single
+121,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Arijanet Muric,12000000.0,False,working,False,Arijanet Muric,A Muric,single
+122,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Florent Hadergjonaj,3100000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+123,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Fidan Aliti,1300000.0,False,working,False,Fidan Aliti,Aliti,single
+124,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Ibrahim Dresevic,1500000.0,False,working,False,Ibrahim Dresevic,Dresevic,single
+125,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Donat Rrudhani,700000.0,False,working,False,Donat Rrudhani,Rrudhani,single
+126,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Milot Rashica,8500000.0,False,working,False,Milot Rashica,Rashica,single
+127,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Florent Muslija,1500000.0,False,working,False,Florent Muslija,Muslija,single
+128,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Betim Fazliji,700000.0,False,working,False,Betim Fazliji,Fazliji,single
+129,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Bersant Celina,2500000.0,False,working,False,Bersant Celina,Celina,single
+130,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Elbasan Rashani,2000000.0,False,working,False,Elbasan Rashani,Rashani,single
+131,1824,Nations League 2022-2023,Northern Ireland vs Kosovo,24.09.22,Kosovo,XK,2022,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+132,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Konstantinos Panagi,200000.0,False,working,False,Konstantinos Panagi,Panagi,single
+133,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Nikolas Ioannou,750000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+134,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Stelios Andreou,2000000.0,False,working,False,Stelios Andreou,S Andreou,single
+135,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Fanos Katelaris,400000.0,False,working,False,Fanos Katelaris,Katelaris,single
+136,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",800000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+137,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Valentin Roberge,300000.0,False,working,False,Valentin Roberge,Roberge,single
+138,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Kostakis Artymatas,700000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+139,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Marinos Tzionis,1500000.0,False,working,False,Marinos Tzionis,Tzionis,single
+140,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Pieros Sotiriou,1400000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+141,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,"['Georgios Loizou', 'Loizos Loizou']",1500000.0,False,working,False,"['Georgios Loizou', 'Loizos Loizou']",Loizou,multiple
+142,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Cyprus,CY,2022,SUCCESS,Grigoris Kastanos,1800000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+143,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Odysseas Vlachodimos,16000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+144,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,George Baldock,3500000.0,False,working,False,George Baldock,Baldock,single
+145,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Konstantinos Mavropanos,15000000.0,False,working,False,Konstantinos Mavropanos,Mavropanos,single
+146,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Pantelis Hatzidiakos,4000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+147,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Konstantinos Tsimikas,18000000.0,False,working,False,Konstantinos Tsimikas,Tsimikas,single
+148,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Dimitrios Kourbelis,1500000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+149,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Georgios Masouras,6000000.0,False,working,False,Georgios Masouras,G Masouras,single
+150,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Anastasios Douvikas,9000000.0,False,working,False,Anastasios Douvikas,Douvikas,single
+151,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Dimitrios Pelkas,2800000.0,False,working,False,Dimitrios Pelkas,Pelkas,single
+152,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Manolis Siopis,5500000.0,False,working,False,Manolis Siopis,Siopis,single
+153,1825,Nations League 2022-2023,Cyprus vs Greece,24.09.22,Greece,GR,2022,SUCCESS,Anastasios Bakasetas,10000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+154,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Odysseas Vlachodimos,16000000.0,False,working,False,Odysseas Vlachodimos,Vlachodimos,single
+155,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,George Baldock,3500000.0,False,working,False,George Baldock,Baldock,single
+156,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Konstantinos Mavropanos,15000000.0,False,working,False,Konstantinos Mavropanos,Mavropanos,single
+157,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Pantelis Hatzidiakos,4000000.0,False,working,False,Pantelis Hatzidiakos,Chatzidiakos,single
+158,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Konstantinos Tsimikas,18000000.0,False,working,False,Konstantinos Tsimikas,Tsimikas,single
+159,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Dimitrios Kourbelis,1500000.0,False,working,False,Dimitrios Kourbelis,Kourbelis,single
+160,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Georgios Masouras,6000000.0,False,working,False,Georgios Masouras,G Masouras,single
+161,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Dimitrios Pelkas,2800000.0,False,working,False,Dimitrios Pelkas,Pelkas,single
+162,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Petros Mantalos,2500000.0,False,working,False,Petros Mantalos,Mantalos,single
+163,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Anastasios Bakasetas,10000000.0,False,working,False,Anastasios Bakasetas,Bakasetas,single
+164,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Greece,GR,2022,SUCCESS,Fotis Ioannidis,2500000.0,False,working,False,Fotis Ioannidis,F Ioannidis,single
+165,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Bailey Peacock-Farrell,1000000.0,False,working,False,Bailey Peacock-Farrell,Peacock-Farrell,single
+166,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Tom Flanagan,250000.0,False,working,False,Tom Flanagan,T Flanagan,single
+167,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Jonny Evans,2000000.0,False,working,False,Jonny Evans,J Evans,single
+168,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Paddy McNair,4500000.0,False,working,False,Paddy McNair,Mc Nair,single
+169,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Ali McCann,2800000.0,False,working,False,Ali McCann,Mc Cann,single
+170,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Conor Bradley,1500000.0,False,working,False,Conor Bradley,C Bradley,single
+171,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Jamal Lewis,6000000.0,False,working,False,Jamal Lewis,J Lewis,single
+172,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Steven Davis,500000.0,False,working,False,Steven Davis,Davis,single
+173,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,"['Caolan Lavery', 'Shayne Lavery']",800000.0,False,working,False,"['Caolan Lavery', 'Shayne Lavery']",Lavery,multiple
+174,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Jordan Thompson,900000.0,False,working,False,Jordan Thompson,J Thompson,single
+175,1826,Nations League 2022-2023,Greece vs Northern Ireland,27.09.22,Northern Ireland, NI,2022,SUCCESS,Josh Magennis,300000.0,False,working,False,Josh Magennis,Magennis,single
+176,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Samir Ujkani,100000.0,False,working,False,Samir Ujkani,Ujkani,single
+177,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,"['Amir Rrahmani', 'Albion Rrahmani']",25000000.0,False,working,False,"['Amir Rrahmani', 'Albion Rrahmani']",Rrahmani,multiple
+178,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Florent Hadergjonaj,3100000.0,False,working,False,Florent Hadergjonaj,Hadergjonaj,single
+179,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Mirlind Kryeziu,400000.0,False,working,False,Mirlind Kryeziu,M Kryeziu,single
+180,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Donat Rrudhani,700000.0,False,working,False,Donat Rrudhani,Rrudhani,single
+181,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Florent Muslija,1500000.0,False,working,False,Florent Muslija,Muslija,single
+182,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Betim Fazliji,700000.0,False,working,False,Betim Fazliji,Fazliji,single
+183,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Arbër Zeneli,3500000.0,False,working,False,Arbër Zeneli,Zeneli,single
+184,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Vedat Muriqi,15000000.0,False,working,False,Vedat Muriqi,Muriqi,single
+185,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Bersant Celina,2500000.0,False,working,False,Bersant Celina,Celina,single
+186,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Kosovo,XK,2022,SUCCESS,Elbasan Rashani,2000000.0,False,working,False,Elbasan Rashani,Rashani,single
+187,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Konstantinos Panagi,200000.0,False,working,False,Konstantinos Panagi,Panagi,single
+188,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Nikolas Ioannou,750000.0,False,working,False,Nikolas Ioannou,N Ioannou,single
+189,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Stelios Andreou,2000000.0,False,working,False,Stelios Andreou,S Andreou,single
+190,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Kostakis Artymatas,700000.0,False,working,False,Kostakis Artymatas,Artymatas,single
+191,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Fanos Katelaris,400000.0,False,working,False,Fanos Katelaris,Katelaris,single
+192,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",800000.0,False,working,False,"['Charalampos Kyriakou', 'Andreas Kyriakou', 'Vangelis Kyriakou']",Cham Kyriakou,multiple
+193,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Marinos Tzionis,1500000.0,False,working,False,Marinos Tzionis,Tzionis,single
+194,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Valentin Roberge,300000.0,False,working,False,Valentin Roberge,Roberge,single
+195,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Grigoris Kastanos,1800000.0,False,working,False,Grigoris Kastanos,Kastanos,single
+196,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,"['Georgios Loizou', 'Loizos Loizou']",1500000.0,False,working,False,"['Georgios Loizou', 'Loizos Loizou']",Loizou,multiple
+197,1827,Nations League 2022-2023,Kosovo vs Cyprus,27.09.22,Cyprus,CY,2022,SUCCESS,Pieros Sotiriou,1400000.0,False,working,False,Pieros Sotiriou,P Sotiriou,single
+198,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+199,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+200,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Eldos Akhmetov,150000.0,False,working,False,Eldos Akhmetov,E Akhmetov,single
+201,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Bagdat Kairov,450000.0,False,working,False,Bagdat Kairov,Kairov,single
+202,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+203,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+204,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Askhat Tagybergen,850000.0,False,working,False,Askhat Tagybergen,Tagybergen,single
+205,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Bauyrzhan Baytana,350000.0,False,working,False,Bauyrzhan Baytana,Baytana,single
+206,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Yan Vorogovskiy,600000.0,False,working,False,Yan Vorogovskiy,Vorogovskiy,single
+207,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Elkhan Astanov,600000.0,False,working,False,Elkhan Astanov,E Astanov,single
+208,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Kazakhstan,KZ,2022,SUCCESS,Abat Aymbetov,900000.0,False,working,False,Abat Aymbetov,Aymbetov,single
+209,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+210,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+211,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Maksim Medvedev,250000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+212,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,FAIL,0,0,True,Lookup Required,False,0,Hahgverdi,none
+213,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Badavi Hüseynov,300000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+214,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Azar Salahly,400000.0,False,working,False,Azar Salahly,Salahli,single
+215,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+216,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+217,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,FAIL,"['Arif Isayev', 'Ali Babayev']",0,True,Online Lookup Required,False,"['Arif Isayev', 'Ali Babayev']",A Iasyev,multiple
+218,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+219,1828,Nations League 2022-2023,Kazakhstan vs Azerbaijan,03.06.22,Azerbaijan,AZ,2022,SUCCESS,Mahir Emreli,1200000.0,False,working,False,Mahir Emreli,Emreli,single
+220,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Pavel Pavlyuchenko,300000.0,False,working,False,Pavel Pavlyuchenko,P Pavlyuchenko,single
+221,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Ruslan Khadarkevich,250000.0,False,working,False,Ruslan Khadarkevich,Khadarkevich,single
+222,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Sergey Politevich,200000.0,False,working,False,Sergey Politevich,Politevich,single
+223,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Ruslan Yudenkov,50000.0,False,working,False,Ruslan Yudenkov,Judenkov,single
+224,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Roman Begunov,300000.0,False,working,False,Roman Begunov,Begunov,single
+225,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Gleb Shevchenko,700000.0,False,working,False,Gleb Shevchenko,G Shevchenko,single
+226,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+227,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Valeriy Bocherov,450000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+228,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Maks Ebong,1200000.0,False,working,False,Maks Ebong,Ebong,single
+229,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Ivan Bakhar,600000.0,False,working,False,Ivan Bakhar,Bakhar,single
+230,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Belarus,BY,2022,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+231,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+232,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Vernon De Marco,600000.0,False,working,False,Vernon De Marco,De Marco,single
+233,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Lubomir Satka,800000.0,False,working,False,Lubomir Satka,atka,single
+234,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+235,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Peter Pekarik,500000.0,False,working,False,Peter Pekarik,Pekarik,single
+236,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Ondrej Duda,3400000.0,False,working,False,Ondrej Duda,Duda,single
+237,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Juraj Kucka,1200000.0,False,working,False,Juraj Kucka,Kucka,single
+238,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Stanislav Lobotka,40000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+239,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Vladimir Weiss,500000.0,False,working,False,Vladimir Weiss,Weiss,single
+240,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+241,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,0,Almási,none
+242,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+243,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Juraj Chvatal,300000.0,False,working,False,Juraj Chvatal,Chvatal,single
+244,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+245,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+246,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Albert Rusnák,3000000.0,False,working,False,Albert Rusnák,Rusnák,single
+247,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Martin Koscelnik,600000.0,False,working,False,Martin Koscelnik,Koscelník,single
+248,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Juraj Kucka,1200000.0,False,working,False,Juraj Kucka,Kucka,single
+249,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Stanislav Lobotka,40000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+250,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Vladimir Weiss,500000.0,False,working,False,Vladimir Weiss,Weiss,single
+251,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,Ivan Schranz,2000000.0,False,working,False,Ivan Schranz,Schranz,single
+252,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,0,Almási,none
+253,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+254,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+255,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Mikhail Gabyshev,150000.0,False,working,False,Mikhail Gabyshev,Gabyshev,single
+256,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+257,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,FAIL,0,0,True,Lookup Required,False,0,Malyi,none
+258,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Islambek Kuat,500000.0,False,working,False,Islambek Kuat,Kuat,single
+259,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+260,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Timur Dosmagambetov,300000.0,False,working,False,Timur Dosmagambetov,Dosmagambetov,single
+261,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Ramazan Orazov,450000.0,False,working,False,Ramazan Orazov,Orazov,single
+262,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Elkhan Astanov,600000.0,False,working,False,Elkhan Astanov,E Astanov,single
+263,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Kazakhstan,KZ,2022,SUCCESS,Abat Aymbetov,900000.0,False,working,False,Abat Aymbetov,Aymbetov,single
+264,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Pavel Pavlyuchenko,300000.0,False,working,False,Pavel Pavlyuchenko,P Pavlyuchenko,single
+265,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Danila Nechaev,800000.0,False,working,False,Danila Nechaev,D Nechaev,single
+266,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Ruslan Khadarkevich,250000.0,False,working,False,Ruslan Khadarkevich,Khadarkevich,single
+267,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Vladislav Malkevich,550000.0,False,working,False,Vladislav Malkevich,Malkevich,single
+268,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Sergey Politevich,200000.0,False,working,False,Sergey Politevich,Politevich,single
+269,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+270,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Artem Bykov,550000.0,False,working,False,Artem Bykov,Art Bykov,single
+271,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Gleb Shevchenko,700000.0,False,working,False,Gleb Shevchenko,G Shevchenko,single
+272,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Andrey Solovey,450000.0,False,working,False,Andrey Solovey,Solovey,single
+273,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+274,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Belarus,BY,2022,SUCCESS,Valeriy Bocherov,450000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+275,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+276,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+277,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Maksim Medvedev,250000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+278,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,FAIL,0,0,True,Lookup Required,False,0,Hahgverdi,none
+279,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",500000.0,False,working,False,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",J Huseynov,multiple
+280,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Azar Salahly,400000.0,False,working,False,Azar Salahly,Salahli,single
+281,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+282,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+283,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+284,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Richard Almeyda,250000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+285,1831,Nations League 2022-2023,Belarus vs Azerbaijan,06.06.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+286,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+287,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+288,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Maksim Medvedev,250000.0,False,working,False,Maksim Medvedev,M Medvedev,single
+289,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,FAIL,0,0,True,Lookup Required,False,0,Hahgverdi,none
+290,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",500000.0,False,working,False,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",J Huseynov,multiple
+291,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Azar Salahly,400000.0,False,working,False,Azar Salahly,Salahli,single
+292,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+293,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+294,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+295,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Richard Almeyda,250000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+296,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+297,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+298,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Vernon De Marco,600000.0,False,working,False,Vernon De Marco,De Marco,single
+299,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Lubomir Satka,800000.0,False,working,False,Lubomir Satka,atka,single
+300,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Peter Pekarik,500000.0,False,working,False,Peter Pekarik,Pekarik,single
+301,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Martin Valjent,4500000.0,False,working,False,Martin Valjent,Valjent,single
+302,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Albert Rusnák,3000000.0,False,working,False,Albert Rusnák,Rusnák,single
+303,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none
+304,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Lukas Haraslin,2000000.0,False,working,False,Lukas Haraslin,Haraslin,single
+305,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Stanislav Lobotka,40000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+306,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,David Strelec,1100000.0,False,working,False,David Strelec,Strelec,single
+307,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,Tomas Suslov,2000000.0,False,working,False,Tomas Suslov,T Suslov,single
+308,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Pavel Pavlyuchenko,300000.0,False,working,False,Pavel Pavlyuchenko,P Pavlyuchenko,single
+309,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Kirill Pechenin,700000.0,False,working,False,Kirill Pechenin,Pechenin,single
+310,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Ruslan Khadarkevich,250000.0,False,working,False,Ruslan Khadarkevich,Khadarkevich,single
+311,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Ruslan Yudenkov,50000.0,False,working,False,Ruslan Yudenkov,Judenkov,single
+312,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Zakhar Volkov,600000.0,False,working,False,Zakhar Volkov,Z Volkov,single
+313,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Roman Begunov,300000.0,False,working,False,Roman Begunov,Begunov,single
+314,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Artem Bykov,550000.0,False,working,False,Artem Bykov,Art Bykov,single
+315,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+316,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Pavel Sedko,400000.0,False,working,False,Pavel Sedko,Sedko,single
+317,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Maks Ebong,1200000.0,False,working,False,Maks Ebong,Ebong,single
+318,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Belarus,BY,2022,SUCCESS,Ivan Bakhar,600000.0,False,working,False,Ivan Bakhar,Bakhar,single
+319,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+320,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+321,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Bagdat Kairov,450000.0,False,working,False,Bagdat Kairov,Kairov,single
+322,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+323,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,FAIL,0,0,True,Lookup Required,False,0,Malyi,none
+324,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Islambek Kuat,500000.0,False,working,False,Islambek Kuat,Kuat,single
+325,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+326,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Yan Vorogovskiy,600000.0,False,working,False,Yan Vorogovskiy,Vorogovskiy,single
+327,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Ramazan Orazov,450000.0,False,working,False,Ramazan Orazov,Orazov,single
+328,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Elkhan Astanov,600000.0,False,working,False,Elkhan Astanov,E Astanov,single
+329,1833,Nations League 2022-2023,Belarus vs Kazakhstan,10.06.22,Kazakhstan,KZ,2022,SUCCESS,Abat Aymbetov,900000.0,False,working,False,Abat Aymbetov,Aymbetov,single
+330,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+331,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+332,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Mikhail Gabyshev,150000.0,False,working,False,Mikhail Gabyshev,Gabyshev,single
+333,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+334,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,FAIL,0,0,True,Lookup Required,False,0,Malyi,none
+335,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+336,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Askhat Tagybergen,850000.0,False,working,False,Askhat Tagybergen,Tagybergen,single
+337,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Yan Vorogovskiy,600000.0,False,working,False,Yan Vorogovskiy,Vorogovskiy,single
+338,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Timur Dosmagambetov,300000.0,False,working,False,Timur Dosmagambetov,Dosmagambetov,single
+339,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Elkhan Astanov,600000.0,False,working,False,Elkhan Astanov,E Astanov,single
+340,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Kazakhstan,KZ,2022,SUCCESS,Abat Aymbetov,900000.0,False,working,False,Abat Aymbetov,Aymbetov,single
+341,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+342,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Norbert Gyomber,1500000.0,False,working,False,Norbert Gyomber,Gyomber,single
+343,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Juraj Chvatal,300000.0,False,working,False,Juraj Chvatal,Chvatal,single
+344,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Peter Pekarik,500000.0,False,working,False,Peter Pekarik,Pekarik,single
+345,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Martin Valjent,4500000.0,False,working,False,Martin Valjent,Valjent,single
+346,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Ondrej Duda,3400000.0,False,working,False,Ondrej Duda,Duda,single
+347,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Albert Rusnák,3000000.0,False,working,False,Albert Rusnák,Rusnák,single
+348,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none
+349,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Lukas Haraslin,2000000.0,False,working,False,Lukas Haraslin,Haraslin,single
+350,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Juraj Kucka,1200000.0,False,working,False,Juraj Kucka,Kucka,single
+351,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,Matus Bero,2300000.0,False,working,False,Matus Bero,Bero,single
+352,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+353,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+354,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Abbas Hüseynov,450000.0,False,working,False,Abbas Hüseynov,Ab Huseynov,single
+355,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Badavi Hüseynov,300000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+356,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",500000.0,False,working,False,"['Cavid Hüseynov', 'Calal Hüseynov', 'Abbas Hüseynov']",J Huseynov,multiple
+357,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Azar Salahly,400000.0,False,working,False,Azar Salahly,Salahli,single
+358,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+359,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+360,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+361,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Richard Almeyda,250000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+362,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+363,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Pavel Pavlyuchenko,300000.0,False,working,False,Pavel Pavlyuchenko,P Pavlyuchenko,single
+364,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Kirill Pechenin,700000.0,False,working,False,Kirill Pechenin,Pechenin,single
+365,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Ruslan Khadarkevich,250000.0,False,working,False,Ruslan Khadarkevich,Khadarkevich,single
+366,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Vladislav Malkevich,550000.0,False,working,False,Vladislav Malkevich,Malkevich,single
+367,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Sergey Politevich,200000.0,False,working,False,Sergey Politevich,Politevich,single
+368,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Valeriy Bocherov,450000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+369,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Gleb Shevchenko,700000.0,False,working,False,Gleb Shevchenko,G Shevchenko,single
+370,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+371,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Maks Ebong,1200000.0,False,working,False,Maks Ebong,Ebong,single
+372,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Ivan Bakhar,600000.0,False,working,False,Ivan Bakhar,Bakhar,single
+373,1835,Nations League 2022-2023,Azerbaijan vs Belarus,13.06.22,Belarus,BY,2022,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+374,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+375,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+376,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Mikhail Gabyshev,150000.0,False,working,False,Mikhail Gabyshev,Gabyshev,single
+377,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+378,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,FAIL,0,0,True,Lookup Required,False,0,Malyi,none
+379,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+380,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Askhat Tagybergen,850000.0,False,working,False,Askhat Tagybergen,Tagybergen,single
+381,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Yan Vorogovskiy,600000.0,False,working,False,Yan Vorogovskiy,Vorogovskiy,single
+382,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Ramazan Orazov,450000.0,False,working,False,Ramazan Orazov,Orazov,single
+383,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Abat Aymbetov,900000.0,False,working,False,Abat Aymbetov,Aymbetov,single
+384,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Kazakhstan,KZ,2022,SUCCESS,Bakhtiyor Zaynutdinov,6000000.0,False,working,False,Bakhtiyor Zaynutdinov,Zaynutdinov,single
+385,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Egor Khatkevich,200000.0,False,working,False,Egor Khatkevich,Hatkevich,single
+386,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Kirill Pechenin,700000.0,False,working,False,Kirill Pechenin,Pechenin,single
+387,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Maksim Shvetsov,700000.0,False,working,False,Maksim Shvetsov,M Shvetsov,single
+388,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+389,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Ruslan Yudenkov,50000.0,False,working,False,Ruslan Yudenkov,Judenkov,single
+390,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Gleb Shevchenko,700000.0,False,working,False,Gleb Shevchenko,G Shevchenko,single
+391,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Pavel Savitskiy,800000.0,False,working,False,Pavel Savitskiy,Savitski,single
+392,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+393,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Maks Ebong,1200000.0,False,working,False,Maks Ebong,Ebong,single
+394,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Egor Bogomolskiy,300000.0,False,working,False,Egor Bogomolskiy,Bogomolski,single
+395,1836,Nations League 2022-2023,Kazakhstan vs Belarus,22.09.22,Belarus,BY,2022,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+396,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+397,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Lubomir Satka,800000.0,False,working,False,Lubomir Satka,atka,single
+398,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Kristian Vallo,400000.0,False,working,False,Kristian Vallo,Vallo,single
+399,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+400,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,David Hancko,25000000.0,False,working,False,David Hancko,Hancko,single
+401,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,László Bénes,2200000.0,False,working,False,László Bénes,Benes,single
+402,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Erik Jirka,750000.0,False,working,False,Erik Jirka,E Jirka,single
+403,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Matus Bero,2300000.0,False,working,False,Matus Bero,Bero,single
+404,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,Stanislav Lobotka,40000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+405,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,0,500000.0,False,working,False,0,Regáli,none
+406,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+407,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+408,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+409,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,FAIL,0,0,True,Lookup Required,False,0,Hahgverdi,none
+410,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Badavi Hüseynov,300000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+411,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,"['Elvin Cafarquliyev', 'Farid Quliyev', 'Tarlan Quliyev']",750000.0,False,working,False,"['Elvin Cafarquliyev', 'Farid Quliyev', 'Tarlan Quliyev']",Jafarguliyev,multiple
+412,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+413,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+414,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+415,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Richard Almeyda,250000.0,False,working,False,Richard Almeyda,Richard Almeida,single
+416,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Ozan Kökcü,350000.0,False,working,False,Ozan Kökcü,Kökcü,single
+417,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+418,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Marek Rodak,3000000.0,False,working,False,Marek Rodak,Rodak,single
+419,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Lubomir Satka,800000.0,False,working,False,Lubomir Satka,atka,single
+420,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Milan Skriniar,50000000.0,False,working,False,Milan Skriniar,kriniar,single
+421,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Peter Pekarik,500000.0,False,working,False,Peter Pekarik,Pekarik,single
+422,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,David Hancko,25000000.0,False,working,False,David Hancko,Hancko,single
+423,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,László Bénes,2200000.0,False,working,False,László Bénes,Benes,single
+424,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Erik Jirka,750000.0,False,working,False,Erik Jirka,E Jirka,single
+425,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Juraj Kucka,1200000.0,False,working,False,Juraj Kucka,Kucka,single
+426,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,Stanislav Lobotka,40000000.0,False,working,False,Stanislav Lobotka,Lobotka,single
+427,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,SUCCESS,David Duris,600000.0,False,working,False,David Duris,D Duris,single
+428,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Slovakia,SK,2022,FAIL,0,0,True,Lookup Required,False,0,Boženík,none
+429,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Maksim Plotnikov,350000.0,False,working,False,Maksim Plotnikov,M Plotnikov,single
+430,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Denis Polyakov,350000.0,False,working,False,Denis Polyakov,Polyakov,single
+431,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Danila Nechaev,800000.0,False,working,False,Danila Nechaev,D Nechaev,single
+432,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Ruslan Yudenkov,50000.0,False,working,False,Ruslan Yudenkov,Judenkov,single
+433,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Ruslan Khadarkevich,250000.0,False,working,False,Ruslan Khadarkevich,Khadarkevich,single
+434,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Vladislav Malkevich,550000.0,False,working,False,Vladislav Malkevich,Malkevich,single
+435,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Valeriy Bocherov,450000.0,False,working,False,Valeriy Bocherov,Bocherov,single
+436,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Evgeniy Yablonskiy,700000.0,False,working,False,Evgeniy Yablonskiy,Yablonski,single
+437,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Valeriy Gromyko,850000.0,False,working,False,Valeriy Gromyko,Gromyko,single
+438,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Ivan Bakhar,600000.0,False,working,False,Ivan Bakhar,Bakhar,single
+439,1838,Nations League 2022-2023,Slovakia vs Belarus,25.09.22,Belarus,BY,2022,SUCCESS,Vladislav Klimovich,400000.0,False,working,False,Vladislav Klimovich,Vl Klimovich,single
+440,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,FAIL,Magomed Kurbanov,0,True,Online Lookup Required,False,Magomed Kurbanov,Magomedaliyev,single
+441,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Bahlul Mustafazada,550000.0,False,working,False,Bahlul Mustafazada,Mustafazada,single
+442,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,FAIL,0,0,True,Lookup Required,False,0,Hahgverdi,none
+443,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Badavi Hüseynov,300000.0,False,working,False,Badavi Hüseynov,B Huseynov,single
+444,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,"['Elvin Cafarquliyev', 'Farid Quliyev', 'Tarlan Quliyev']",750000.0,False,working,False,"['Elvin Cafarquliyev', 'Farid Quliyev', 'Tarlan Quliyev']",Jafarguliyev,multiple
+445,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Emin Mahmudov,1400000.0,False,working,False,Emin Mahmudov,E Makhmudov,single
+446,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Ramil Sheydayev,1200000.0,False,working,False,Ramil Sheydayev,Sheydaev,single
+447,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Eddy Israfilov,450000.0,False,working,False,Eddy Israfilov,Israfilov,single
+448,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,0,500000.0,False,working,False,0,Ozobić,none
+449,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Ozan Kökcü,350000.0,False,working,False,Ozan Kökcü,Kökcü,single
+450,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,Renat Dadashov,1600000.0,False,working,False,Renat Dadashov,Re Dadashov,single
+451,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Igor Shatskiy,600000.0,False,working,False,Igor Shatskiy,Shatskiy,single
+452,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Nuraly Alip,1200000.0,False,working,False,Nuraly Alip,Alip,single
+453,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Bagdat Kairov,450000.0,False,working,False,Bagdat Kairov,Kairov,single
+454,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Marat Bystrov,1000000.0,False,working,False,Marat Bystrov,M Bystrov,single
+455,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Aleksandr Marochkin,450000.0,False,working,False,Aleksandr Marochkin,Marochkin,single
+456,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Islambek Kuat,500000.0,False,working,False,Islambek Kuat,Kuat,single
+457,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Aslan Darabaev,150000.0,False,working,False,Aslan Darabaev,Darabaev,single
+458,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Elkhan Astanov,600000.0,False,working,False,Elkhan Astanov,E Astanov,single
+459,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Timur Dosmagambetov,300000.0,False,working,False,Timur Dosmagambetov,Dosmagambetov,single
+460,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Ramazan Orazov,450000.0,False,working,False,Ramazan Orazov,Orazov,single
+461,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Kazakhstan,KZ,2022,SUCCESS,Abylaykhan Zhumabek,300000.0,False,working,False,Abylaykhan Zhumabek,Zhumabek,single
+462,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Nikolay Mihaylov,200000.0,False,working,False,Nikolay Mihaylov,Mihaylov,single
+463,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Petko Hristov,900000.0,False,working,False,Petko Hristov,P Hristov,single
+464,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Ivan Turitsov,1000000.0,False,working,False,Ivan Turitsov,Turitsov,single
+465,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Andrea Hristov,200000.0,False,working,False,Andrea Hristov,A Hristov,single
+466,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Anton Nedyalkov,3000000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+467,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Filip Krastev,4000000.0,False,working,False,Filip Krastev,F Krastev,single
+468,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Todor Nedelev,1000000.0,False,working,False,Todor Nedelev,Nedelev,single
+469,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",1000000.0,False,working,False,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Milanov,multiple
+470,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Ivaylo Chochev,2800000.0,False,working,False,Ivaylo Chochev,Chochev,single
+471,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Atanas Iliev,300000.0,False,working,False,Atanas Iliev,A Iliev,single
+472,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,Bulgaria,BG,2022,SUCCESS,Kiril Despodov,4500000.0,False,working,False,Kiril Despodov,Despodov,single
+473,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Stole Dimitrievski,4000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+474,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Visar Musliu,500000.0,False,working,False,Visar Musliu,Musliu,single
+475,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+476,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+477,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+478,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Darko Churlinov,2200000.0,False,working,False,Darko Churlinov,Churlinov,single
+479,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+480,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Stefan Spirovski,150000.0,False,working,False,Stefan Spirovski,Spirovski,single
+481,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Stefan Ashkovski,400000.0,False,working,False,Stefan Ashkovski,Ashkovski,single
+482,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Aleksandar Trajkovski,450000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+483,1840,Nations League 2022-2023,Bulgaria vs North Macedonia,02.06.22,North Macedonia,MK,2022,SUCCESS,Milan Ristovski,450000.0,False,working,False,Milan Ristovski,M Ristovski,single
+484,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Giorgi Loria,150000.0,False,working,False,Giorgi Loria,G Loria,single
+485,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Otar Kakabadze,700000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+486,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+487,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+488,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Anzor Mekvabishvili,1000000.0,False,working,False,Anzor Mekvabishvili,Mekvabishvili,single
+489,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Giorgi Aburjania,800000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+490,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+491,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Saba Lobjanidze,2800000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+492,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Giorgi Chakvetadze,2400000.0,False,working,False,Giorgi Chakvetadze,Chakvetadze,single
+493,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Georgiy Tsitaishvili,600000.0,False,working,False,Georgiy Tsitaishvili,Tsitaishvili,single
+494,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Georgia,GE,2022,SUCCESS,Georges Mikautadze,10000000.0,False,working,False,Georges Mikautadze,Mikautadze,single
+495,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Dayle Coleing,150000.0,False,working,False,Dayle Coleing,Coleing,single
+496,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Jolley,125000.0,False,working,False,Ethan Jolley,Jolley,single
+497,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+498,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+499,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+500,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+501,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+502,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+503,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Kian Ronan,100000.0,False,working,False,Kian Ronan,Ronan,single
+504,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+505,1841,Nations League 2022-2023,Georgia vs Gibraltar,02.06.22,Gibraltar,GI,2022,SUCCESS,Reece Styche,0.0,False,Large Dataset had 0,False,Reece Styche,Styche,single
+506,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Dayle Coleing,150000.0,False,working,False,Dayle Coleing,Coleing,single
+507,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Jolley,125000.0,False,working,False,Ethan Jolley,Jolley,single
+508,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+509,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+510,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Jayce Olivero,125000.0,False,working,False,Jayce Olivero,Olivero,single
+511,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Julian Valarino,75000.0,False,working,False,Julian Valarino,Valarino,single
+512,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+513,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+514,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+515,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,"['Dean Torrilla', 'Graeme Torrilla']",75000.0,False,working,False,"['Dean Torrilla', 'Graeme Torrilla']",Torilla,multiple
+516,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,Gibraltar,GI,2022,SUCCESS,Reece Styche,0.0,False,Large Dataset had 0,False,Reece Styche,Styche,single
+517,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Dejan Iliev,300000.0,False,working,False,Dejan Iliev,Iliev,single
+518,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Todor Todoroski,350000.0,False,working,False,Todor Todoroski,Todoroski,single
+519,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Visar Musliu,500000.0,False,working,False,Visar Musliu,Musliu,single
+520,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+521,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Nikola Serafimov,450000.0,False,working,False,Nikola Serafimov,Serafimov,single
+522,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+523,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+524,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Boban Nikolov,400000.0,False,working,False,Boban Nikolov,Nikolov,single
+525,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Stefan Spirovski,150000.0,False,working,False,Stefan Spirovski,Spirovski,single
+526,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Aleksandar Trajkovski,450000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+527,1842,Nations League 2022-2023,Gibraltar vs North Macedonia,05.06.22,North Macedonia,MK,2022,SUCCESS,Milan Ristovski,450000.0,False,working,False,Milan Ristovski,M Ristovski,single
+528,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Nikolay Mihaylov,200000.0,False,working,False,Nikolay Mihaylov,Mihaylov,single
+529,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Ivan Turitsov,1000000.0,False,working,False,Ivan Turitsov,Turitsov,single
+530,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Andrea Hristov,200000.0,False,working,False,Andrea Hristov,A Hristov,single
+531,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Anton Nedyalkov,3000000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+532,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Todor Nedelev,1000000.0,False,working,False,Todor Nedelev,Nedelev,single
+533,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Edisson Jordanov,500000.0,False,working,False,Edisson Jordanov,E Jordanov,single
+534,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",1000000.0,False,working,False,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Milanov,multiple
+535,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Ivaylo Chochev,2800000.0,False,working,False,Ivaylo Chochev,Chochev,single
+536,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Martin Minchev,1000000.0,False,working,False,Martin Minchev,M Minchev,single
+537,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Atanas Iliev,300000.0,False,working,False,Atanas Iliev,A Iliev,single
+538,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Bulgaria,BG,2022,SUCCESS,Kiril Despodov,4500000.0,False,working,False,Kiril Despodov,Despodov,single
+539,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Giorgi Loria,150000.0,False,working,False,Giorgi Loria,G Loria,single
+540,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Otar Kakabadze,700000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+541,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+542,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Solomon Kvirkvelia,700000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+543,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Irakli Azarovi,1200000.0,False,working,False,Irakli Azarovi,I Azarov,single
+544,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+545,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Giorgi Aburjania,800000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+546,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+547,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+548,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Nika Kvekveskiri,1000000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+549,1843,Nations League 2022-2023,Bulgaria vs Georgia,05.06.22,Georgia,GE,2022,SUCCESS,Budu Zivzivadze,600000.0,False,working,False,Budu Zivzivadze,Zivzivadze,single
+550,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Stole Dimitrievski,4000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+551,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Visar Musliu,500000.0,False,working,False,Visar Musliu,Musliu,single
+552,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+553,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+554,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+555,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Darko Churlinov,2200000.0,False,working,False,Darko Churlinov,Churlinov,single
+556,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+557,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Stefan Spirovski,150000.0,False,working,False,Stefan Spirovski,Spirovski,single
+558,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Stefan Ashkovski,400000.0,False,working,False,Stefan Ashkovski,Ashkovski,single
+559,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Aleksandar Trajkovski,450000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+560,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,North Macedonia,MK,2022,SUCCESS,Milan Ristovski,450000.0,False,working,False,Milan Ristovski,M Ristovski,single
+561,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Giorgi Mamardashvili,25000000.0,False,working,False,Giorgi Mamardashvili,Mamardashvili,single
+562,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Otar Kakabadze,700000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+563,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+564,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Solomon Kvirkvelia,700000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+565,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+566,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Giorgi Aburjania,800000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+567,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+568,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+569,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Nika Kvekveskiri,1000000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+570,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Budu Zivzivadze,600000.0,False,working,False,Budu Zivzivadze,Zivzivadze,single
+571,1844,Nations League 2022-2023,North Macedonia vs Georgia,09.06.22,Georgia,GE,2022,SUCCESS,Georgiy Tsitaishvili,600000.0,False,working,False,Georgiy Tsitaishvili,Tsitaishvili,single
+572,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Dayle Coleing,150000.0,False,working,False,Dayle Coleing,Coleing,single
+573,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+574,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+575,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Jayce Olivero,125000.0,False,working,False,Jayce Olivero,Olivero,single
+576,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+577,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Julian Valarino,75000.0,False,working,False,Julian Valarino,Valarino,single
+578,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+579,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+580,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+581,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,"['Dean Torrilla', 'Graeme Torrilla']",75000.0,False,working,False,"['Dean Torrilla', 'Graeme Torrilla']",Torilla,multiple
+582,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Gibraltar,GI,2022,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+583,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Svetoslav Vutsov,1000000.0,False,working,False,Svetoslav Vutsov,S Vutsov,single
+584,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Bozhidar Chorbadzhiyski,150000.0,False,working,False,Bozhidar Chorbadzhiyski,Chorbadzhiyski,single
+585,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Viktor Popov,1000000.0,False,working,False,Viktor Popov,V Popov,single
+586,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Petko Hristov,900000.0,False,working,False,Petko Hristov,P Hristov,single
+587,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Andrian Kraev,1500000.0,False,working,False,Andrian Kraev,A Kraev,single
+588,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Filip Krastev,4000000.0,False,working,False,Filip Krastev,F Krastev,single
+589,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Edisson Jordanov,500000.0,False,working,False,Edisson Jordanov,E Jordanov,single
+590,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",1000000.0,False,working,False,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Milanov,multiple
+591,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Martin Minchev,1000000.0,False,working,False,Martin Minchev,M Minchev,single
+592,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Iliyan Stefanov,1000000.0,False,working,False,Iliyan Stefanov,Stefanov,single
+593,1845,Nations League 2022-2023,Gibraltar vs Bulgaria,09.06.22,Bulgaria,BG,2022,SUCCESS,Georgi Minchev,200000.0,False,working,False,Georgi Minchev,G Minchev,single
+594,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Damjan Siskovski,350000.0,False,working,False,Damjan Siskovski,Siskovski,single
+595,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Todor Todoroski,350000.0,False,working,False,Todor Todoroski,Todoroski,single
+596,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Kire Ristevski,200000.0,False,working,False,Kire Ristevski,Ristevski,single
+597,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Gjoko Zajkov,750000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+598,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+599,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Nikola Serafimov,450000.0,False,working,False,Nikola Serafimov,Serafimov,single
+600,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+601,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+602,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Darko Churlinov,2200000.0,False,working,False,Darko Churlinov,Churlinov,single
+603,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Boban Nikolov,400000.0,False,working,False,Boban Nikolov,Nikolov,single
+604,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,North Macedonia,MK,2022,SUCCESS,Bojan Miovski,1200000.0,False,working,False,Bojan Miovski,Miovski,single
+605,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Bradley Banda,100000.0,False,working,False,Bradley Banda,B Banda,single
+606,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+607,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+608,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Jayce Olivero,125000.0,False,working,False,Jayce Olivero,Olivero,single
+609,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+610,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Julian Valarino,75000.0,False,working,False,Julian Valarino,Valarino,single
+611,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+612,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+613,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+614,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,"['Dean Torrilla', 'Graeme Torrilla']",75000.0,False,working,False,"['Dean Torrilla', 'Graeme Torrilla']",Torilla,multiple
+615,1846,Nations League 2022-2023,North Macedonia vs Gibraltar,12.06.22,Gibraltar,GI,2022,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+616,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Giorgi Loria,150000.0,False,working,False,Giorgi Loria,G Loria,single
+617,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+618,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Irakli Azarovi,1200000.0,False,working,False,Irakli Azarovi,I Azarov,single
+619,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Lasha Dvali,600000.0,False,working,False,Lasha Dvali,Dvali,single
+620,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+621,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Anzor Mekvabishvili,1000000.0,False,working,False,Anzor Mekvabishvili,Mekvabishvili,single
+622,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+623,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Valeri Qazaishvili,1700000.0,False,working,False,Valeri Qazaishvili,Qazaishvili,single
+624,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Saba Lobjanidze,2800000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+625,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Nika Kvekveskiri,1000000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+626,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Georgia,GE,2022,SUCCESS,Georges Mikautadze,10000000.0,False,working,False,Georges Mikautadze,Mikautadze,single
+627,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Nikolay Mihaylov,200000.0,False,working,False,Nikolay Mihaylov,Mihaylov,single
+628,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Bozhidar Chorbadzhiyski,150000.0,False,working,False,Bozhidar Chorbadzhiyski,Chorbadzhiyski,single
+629,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Plamen Galabov,500000.0,False,working,False,Plamen Galabov,Galabov,single
+630,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Ivan Turitsov,1000000.0,False,working,False,Ivan Turitsov,Turitsov,single
+631,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Anton Nedyalkov,3000000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+632,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Andrian Kraev,1500000.0,False,working,False,Andrian Kraev,A Kraev,single
+633,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Georgi Kostadinov,600000.0,False,working,False,Georgi Kostadinov,Kostadinov,single
+634,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",1000000.0,False,working,False,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Milanov,multiple
+635,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Martin Minchev,1000000.0,False,working,False,Martin Minchev,M Minchev,single
+636,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Iliyan Stefanov,1000000.0,False,working,False,Iliyan Stefanov,Stefanov,single
+637,1847,Nations League 2022-2023,Georgia vs Bulgaria,12.06.22,Bulgaria,BG,2022,SUCCESS,Atanas Iliev,300000.0,False,working,False,Atanas Iliev,A Iliev,single
+638,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Giorgi Mamardashvili,25000000.0,False,working,False,Giorgi Mamardashvili,Mamardashvili,single
+639,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Otar Kakabadze,700000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+640,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+641,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Solomon Kvirkvelia,700000.0,False,working,False,Solomon Kvirkvelia,S Kvirkvelia,single
+642,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+643,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Giorgi Aburjania,800000.0,False,working,False,Giorgi Aburjania,Aburjania,single
+644,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+645,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Zuriko Davitashvili,2500000.0,False,working,False,Zuriko Davitashvili,Davitashvili,single
+646,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Nika Kvekveskiri,1000000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+647,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Budu Zivzivadze,600000.0,False,working,False,Budu Zivzivadze,Zivzivadze,single
+648,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,Georgia,GE,2022,SUCCESS,Georgiy Tsitaishvili,600000.0,False,working,False,Georgiy Tsitaishvili,Tsitaishvili,single
+649,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Stole Dimitrievski,4000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+650,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Gjoko Zajkov,750000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+651,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Visar Musliu,500000.0,False,working,False,Visar Musliu,Musliu,single
+652,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+653,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+654,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+655,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Darko Velkovski,2000000.0,False,working,False,Darko Velkovski,D Velkoski,single
+656,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Stefan Spirovski,150000.0,False,working,False,Stefan Spirovski,Spirovski,single
+657,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Stefan Ashkovski,400000.0,False,working,False,Stefan Ashkovski,Ashkovski,single
+658,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Bojan Miovski,1200000.0,False,working,False,Bojan Miovski,Miovski,single
+659,1848,Nations League 2022-2023,Georgia vs North Macedonia,23.09.22,North Macedonia,MK,2022,SUCCESS,Milan Ristovski,450000.0,False,working,False,Milan Ristovski,M Ristovski,single
+660,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Daniel Naumov,2000000.0,False,working,False,Daniel Naumov,D Naumov,single
+661,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Petko Hristov,900000.0,False,working,False,Petko Hristov,P Hristov,single
+662,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Ivan Turitsov,1000000.0,False,working,False,Ivan Turitsov,Turitsov,single
+663,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Valentin Antov,800000.0,False,working,False,Valentin Antov,Antov,single
+664,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Anton Nedyalkov,3000000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+665,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Ilia Gruev,3000000.0,False,working,False,Ilia Gruev,Gruev,single
+666,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Radoslav Kirilov,700000.0,False,working,False,Radoslav Kirilov,Kirilov,single
+667,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Filip Krastev,4000000.0,False,working,False,Filip Krastev,F Krastev,single
+668,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Iliyan Stefanov,1000000.0,False,working,False,Iliyan Stefanov,Stefanov,single
+669,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Kiril Despodov,4500000.0,False,working,False,Kiril Despodov,Despodov,single
+670,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Bulgaria,BG,2022,SUCCESS,Marin Petkov,1000000.0,False,working,False,Marin Petkov,Ma Petkov,single
+671,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Dayle Coleing,150000.0,False,working,False,Dayle Coleing,Coleing,single
+672,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+673,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+674,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Jayce Olivero,125000.0,False,working,False,Jayce Olivero,Olivero,single
+675,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+676,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+677,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+678,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+679,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,Kian Ronan,100000.0,False,working,False,Kian Ronan,Ronan,single
+680,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,"['Dean Torrilla', 'Graeme Torrilla']",75000.0,False,working,False,"['Dean Torrilla', 'Graeme Torrilla']",Torilla,multiple
+681,1849,Nations League 2022-2023,Bulgaria vs Gibraltar,23.09.22,Gibraltar,GI,2022,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+682,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Stole Dimitrievski,4000000.0,False,working,False,Stole Dimitrievski,Dimitrievski,single
+683,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Todor Todoroski,350000.0,False,working,False,Todor Todoroski,Todoroski,single
+684,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Egzon Bejtulai,700000.0,False,working,False,Egzon Bejtulai,Bejtulai,single
+685,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Gjoko Zajkov,750000.0,False,working,False,Gjoko Zajkov,Zajkov,single
+686,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Visar Musliu,500000.0,False,working,False,Visar Musliu,Musliu,single
+687,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Ezgjan Alioski,4000000.0,False,working,False,Ezgjan Alioski,Alioski,single
+688,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Eljif Elmas,26000000.0,False,working,False,Eljif Elmas,Elmas,single
+689,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Enis Bardhi,4700000.0,False,working,False,Enis Bardhi,Bardhi,single
+690,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Aleksandar Trajkovski,450000.0,False,working,False,Aleksandar Trajkovski,A Trajkovski,single
+691,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Bojan Miovski,1200000.0,False,working,False,Bojan Miovski,Miovski,single
+692,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,North Macedonia,MK,2022,SUCCESS,Milan Ristovski,450000.0,False,working,False,Milan Ristovski,M Ristovski,single
+693,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Daniel Naumov,2000000.0,False,working,False,Daniel Naumov,D Naumov,single
+694,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Plamen Galabov,500000.0,False,working,False,Plamen Galabov,Galabov,single
+695,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Viktor Popov,1000000.0,False,working,False,Viktor Popov,V Popov,single
+696,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Valentin Antov,800000.0,False,working,False,Valentin Antov,Antov,single
+697,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Anton Nedyalkov,3000000.0,False,working,False,Anton Nedyalkov,Nedyalkov,single
+698,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Ilia Gruev,3000000.0,False,working,False,Ilia Gruev,Gruev,single
+699,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Yanis Karabelyov,400000.0,False,working,False,Yanis Karabelyov,Karabelyov,single
+700,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Radoslav Kirilov,700000.0,False,working,False,Radoslav Kirilov,Kirilov,single
+701,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Iliyan Stefanov,1000000.0,False,working,False,Iliyan Stefanov,Stefanov,single
+702,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Kiril Despodov,4500000.0,False,working,False,Kiril Despodov,Despodov,single
+703,1850,Nations League 2022-2023,North Macedonia vs Bulgaria,26.09.22,Bulgaria,BG,2022,SUCCESS,Marin Petkov,1000000.0,False,working,False,Marin Petkov,Ma Petkov,single
+704,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Bradley Banda,100000.0,False,working,False,Bradley Banda,B Banda,single
+705,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Louie Annesley,100000.0,False,working,False,Louie Annesley,Annesley,single
+706,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Scott Wiseman,50000.0,False,working,False,Scott Wiseman,Wiseman,single
+707,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Jayce Olivero,125000.0,False,working,False,Jayce Olivero,Olivero,single
+708,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Roy Chipolina,25000.0,False,working,False,Roy Chipolina,R Chipolina,single
+709,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Ethan Britto,150000.0,False,working,False,Ethan Britto,Britto,single
+710,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Bernardo Lopes,150000.0,False,working,False,Bernardo Lopes,B Lopes,single
+711,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Liam Walker,125000.0,False,working,False,Liam Walker,L Walker,single
+712,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,Kian Ronan,100000.0,False,working,False,Kian Ronan,Ronan,single
+713,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,"['Dean Torrilla', 'Graeme Torrilla']",75000.0,False,working,False,"['Dean Torrilla', 'Graeme Torrilla']",Torilla,multiple
+714,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Gibraltar,GI,2022,SUCCESS,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",25000.0,False,working,False,"['Ryan Casciaro', 'Kyle Casciaro', 'Lee Casciaro']",Casciaro,multiple
+715,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Giorgi Loria,150000.0,False,working,False,Giorgi Loria,G Loria,single
+716,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Otar Kakabadze,700000.0,False,working,False,Otar Kakabadze,Kakabadze,single
+717,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Guram Kashia,350000.0,False,working,False,Guram Kashia,Kashia,single
+718,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Irakli Azarovi,1200000.0,False,working,False,Irakli Azarovi,I Azarov,single
+719,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Davit Khocholava,2000000.0,False,working,False,Davit Khocholava,Khocholava,single
+720,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Anzor Mekvabishvili,1000000.0,False,working,False,Anzor Mekvabishvili,Mekvabishvili,single
+721,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Khvicha Kvaratskhelia,85000000.0,False,working,False,Khvicha Kvaratskhelia,Kvaratskhelia,single
+722,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Saba Lobjanidze,2800000.0,False,working,False,Saba Lobjanidze,S Lobjanidze,single
+723,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Nika Kvekveskiri,1000000.0,False,working,False,Nika Kvekveskiri,N Kvekveskiri,single
+724,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Budu Zivzivadze,600000.0,False,working,False,Budu Zivzivadze,Zivzivadze,single
+725,1851,Nations League 2022-2023,Gibraltar vs Georgia,26.09.22,Georgia,GE,2022,SUCCESS,Georgiy Tsitaishvili,600000.0,False,working,False,Georgiy Tsitaishvili,Tsitaishvili,single
+726,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+727,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+728,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Antonijs Cernomordijs,400000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+729,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+730,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+731,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Roberts Savalnieks', 'Davis Ikaunieks']",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+732,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+733,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Andrejs Ciganiks,550000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+734,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Arturs Zjuzins,300000.0,False,working,False,Arturs Zjuzins,A Zjuzins,single
+735,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Roberts Uldrikis,550000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+736,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+737,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Josep Gomes,10000.0,False,working,False,Josep Gomes,Josep Gomes,single
+738,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Christian Garcia,100000.0,False,working,False,Christian Garcia,C Garcia,single
+739,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Albert Alavedra,100000.0,False,working,False,Albert Alavedra,Alavedra,single
+740,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+741,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Jordi Rubio', 'Jesús Rubio']",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+742,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+743,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Marc García,50000.0,False,working,False,Marc García,M Garcia,single
+744,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,"['Marc Vales', 'Eric Vales']",150000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+745,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+746,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Jordi Aláez,10000.0,False,working,False,Jordi Aláez,Alaez,single
+747,1852,Nations League 2022-2023,Latvia vs Andorra,03.06.22,Andorra,AD,2022,SUCCESS,Berto Rosas,250000.0,False,working,False,Berto Rosas,Rosas,single
+748,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+749,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+750,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Seyhan Yildiz,0.0,False,Large Dataset had 0,False,Seyhan Yildiz,Yildiz,single
+751,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,"['Noah Graber', 'Lukas Graber']",0.0,False,Large Dataset said 0,False,"['Noah Graber', 'Lukas Graber']",Graber,multiple
+752,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Rafael Grünenfelder,0.0,False,Large Dataset had 0,False,Rafael Grünenfelder,Grunenfelder,single
+753,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+754,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+755,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+756,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+757,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+758,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Liechtenstein,LI,2022,SUCCESS,Yanik Frick,0.0,False,Large Dataset had 0,False,Yanik Frick,Y Frick,single
+759,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Dorian Răilean,250000.0,False,working,False,Dorian Răilean,Răilean,single
+760,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Oleg Reabciuk,4000000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+761,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+762,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Veaceslav Posmac,250000.0,False,working,False,Veaceslav Posmac,Posmac,single
+763,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Mihail Platica,200000.0,False,working,False,Mihail Platica,M Plătică,single
+764,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Ioan-Calin Revenco,450000.0,False,working,False,Ioan-Calin Revenco,Revenco,single
+765,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Vadim Bolohan,100000.0,False,working,False,Vadim Bolohan,Bolohan,single
+766,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Marius Iosipoi,450000.0,False,working,False,Marius Iosipoi,Iosipoi,single
+767,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Vadim Rață,1000000.0,False,working,False,Vadim Rață,V Raţă,single
+768,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Mihail Caimacov,400000.0,False,working,False,Mihail Caimacov,Caimacov,single
+769,1853,Nations League 2022-2023,Liechtenstein vs Moldova,03.06.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+770,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+771,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+772,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Antonijs Cernomordijs,400000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+773,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+774,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Eduards Emsis,150000.0,False,working,False,Eduards Emsis,Emsis,single
+775,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+776,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Roberts Savalnieks', 'Davis Ikaunieks']]",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+777,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+778,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Alvis Jaunzems,600000.0,False,working,False,Alvis Jaunzems,Jaunzems,single
+779,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Roberts Uldrikis,550000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+780,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+781,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+782,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+783,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+784,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,"['Noah Graber', 'Lukas Graber']",0.0,False,Large Dataset said 0,False,"['Noah Graber', 'Lukas Graber']",Graber,multiple
+785,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Rafael Grünenfelder,0.0,False,Large Dataset had 0,False,Rafael Grünenfelder,Grunenfelder,single
+786,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+787,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+788,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+789,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+790,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Andrin Netzer,0.0,False,Large Dataset had 0,False,Andrin Netzer,Netzer,single
+791,1854,Nations League 2022-2023,Latvia vs Liechtenstein,06.06.22,Liechtenstein,LI,2022,SUCCESS,Yanik Frick,0.0,False,Large Dataset had 0,False,Yanik Frick,Y Frick,single
+792,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Josep Gomes,10000.0,False,working,False,Josep Gomes,Josep Gomes,single
+793,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Eric de Pablos,250000.0,False,working,False,Eric de Pablos,De Pablos,single
+794,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Christian Garcia,100000.0,False,working,False,Christian Garcia,C Garcia,single
+795,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+796,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+797,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Jordi Rubio,50000.0,False,working,False,Jordi Rubio,Rubio Jordi,single
+798,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,"['Marc Vales', 'Eric Vales']",150000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+799,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+800,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Xavier Vieira,150000.0,False,working,False,Xavier Vieira,X Vieira,single
+801,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Jordi Aláez,10000.0,False,working,False,Jordi Aláez,Alaez,single
+802,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Andorra,AD,2022,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+803,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Dorian Răilean,250000.0,False,working,False,Dorian Răilean,Răilean,single
+804,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Oleg Reabciuk,4000000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+805,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+806,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Veaceslav Posmac,250000.0,False,working,False,Veaceslav Posmac,Posmac,single
+807,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Mihail Platica,200000.0,False,working,False,Mihail Platica,M Plătică,single
+808,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Ioan-Calin Revenco,450000.0,False,working,False,Ioan-Calin Revenco,Revenco,single
+809,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Vadim Bolohan,100000.0,False,working,False,Vadim Bolohan,Bolohan,single
+810,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Vadim Rață,1000000.0,False,working,False,Vadim Rață,V Raţă,single
+811,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,0,400000.0,False,working,False,0,Stînă,none
+812,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+813,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,Dmitri Mandricenco,200000.0,False,working,False,Dmitri Mandricenco,Mandricenco,single
+814,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Dorian Răilean,250000.0,False,working,False,Dorian Răilean,Răilean,single
+815,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Oleg Reabciuk,4000000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+816,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+817,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Veaceslav Posmac,250000.0,False,working,False,Veaceslav Posmac,Posmac,single
+818,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Mihail Platica,200000.0,False,working,False,Mihail Platica,M Plătică,single
+819,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Ioan-Calin Revenco,450000.0,False,working,False,Ioan-Calin Revenco,Revenco,single
+820,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Vadim Bolohan,100000.0,False,working,False,Vadim Bolohan,Bolohan,single
+821,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Vadim Rață,1000000.0,False,working,False,Vadim Rață,V Raţă,single
+822,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Mihail Caimacov,400000.0,False,working,False,Mihail Caimacov,Caimacov,single
+823,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+824,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Moldova,MD,2022,SUCCESS,Sergiu Platica,275000.0,False,working,False,Sergiu Platica,S Platica,single
+825,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+826,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+827,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Antonijs Cernomordijs,400000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+828,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+829,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+830,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Roberts Savalnieks', 'Davis Ikaunieks']]",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+831,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+832,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Andrejs Ciganiks,550000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+833,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Arturs Zjuzins,300000.0,False,working,False,Arturs Zjuzins,A Zjuzins,single
+834,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Roberts Uldrikis,550000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+835,1856,Nations League 2022-2023,Moldova vs Latvia,10.06.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+836,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Josep Gomes,10000.0,False,working,False,Josep Gomes,Josep Gomes,single
+837,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Albert Alavedra,100000.0,False,working,False,Albert Alavedra,Alavedra,single
+838,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+839,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Jordi Rubio', 'Jesús Rubio']]",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+840,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+841,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+842,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Marc Pujol,10000.0,False,working,False,Marc Pujol,M Pujol,single
+843,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Xavier Vieira,150000.0,False,working,False,Xavier Vieira,X Vieira,single
+844,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Jordi Aláez,10000.0,False,working,False,Jordi Aláez,Alaez,single
+845,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Berto Rosas,250000.0,False,working,False,Berto Rosas,Rosas,single
+846,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Andorra,AD,2022,SUCCESS,Víctor Bernat,100000.0,False,working,False,Víctor Bernat,Bernat,single
+847,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+848,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+849,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+850,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,"['Noah Graber', 'Lukas Graber']",0.0,False,Large Dataset said 0,False,"['Noah Graber', 'Lukas Graber']",Graber,multiple
+851,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Rafael Grünenfelder,0.0,False,Large Dataset had 0,False,Rafael Grünenfelder,Grunenfelder,single
+852,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+853,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+854,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Sandro Wolfinger,0.0,False,Large Dataset had 0,False,Sandro Wolfinger,S Wolfinger,single
+855,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Andrin Netzer,0.0,False,Large Dataset had 0,False,Andrin Netzer,Netzer,single
+856,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+857,1857,Nations League 2022-2023,Andorra vs Liechtenstein,10.06.22,Liechtenstein,LI,2022,SUCCESS,Yanik Frick,0.0,False,Large Dataset had 0,False,Yanik Frick,Y Frick,single
+858,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Dorian Răilean,250000.0,False,working,False,Dorian Răilean,Răilean,single
+859,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Oleg Reabciuk,4000000.0,False,working,False,Oleg Reabciuk,Reabciuk,single
+860,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+861,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Maxim Cojocaru,300000.0,False,working,False,Maxim Cojocaru,Cojocaru,single
+862,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Artur Craciun,100000.0,False,working,False,Artur Craciun,Craciun,single
+863,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Vadim Bolohan,100000.0,False,working,False,Vadim Bolohan,Bolohan,single
+864,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,"['Ion Jardan', 'Vasile Jardan']",250000.0,False,working,False,"['Ion Jardan', 'Vasile Jardan']",Jardan,multiple
+865,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Vadim Rață,1000000.0,False,working,False,Vadim Rață,V Raţă,single
+866,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none
+867,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Mihail Caimacov,400000.0,False,working,False,Mihail Caimacov,Caimacov,single
+868,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+869,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Iker Álvarez,500000.0,False,working,False,Iker Álvarez,I Álvarez,single
+870,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Christian Garcia,100000.0,False,working,False,Christian Garcia,C Garcia,single
+871,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Albert Alavedra,100000.0,False,working,False,Albert Alavedra,Alavedra,single
+872,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Jordi Rubio', 'Jesús Rubio']]",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+873,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+874,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Marc García,50000.0,False,working,False,Marc García,M Garcia,single
+875,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Jordi Rubio,50000.0,False,working,False,Jordi Rubio,Rubio Jordi,single
+876,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+877,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+878,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+879,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Andorra,AD,2022,SUCCESS,Ludovic Clemente,10000.0,False,working,False,Ludovic Clemente,Clemente,single
+880,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+881,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+882,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+883,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Rafael Grünenfelder,0.0,False,Large Dataset had 0,False,Rafael Grünenfelder,Grunenfelder,single
+884,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+885,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Noah Frick,0.0,False,Large Dataset had 0,False,Noah Frick,N Frick,single
+886,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+887,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+888,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Andrin Netzer,0.0,False,Large Dataset had 0,False,Andrin Netzer,Netzer,single
+889,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+890,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Liechtenstein,LI,2022,SUCCESS,Yanik Frick,0.0,False,Large Dataset had 0,False,Yanik Frick,Y Frick,single
+891,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+892,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+893,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Antonijs Cernomordijs,400000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+894,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+895,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Roberts Savalnieks', 'Davis Ikaunieks']",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+896,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+897,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+898,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Andrejs Ciganiks,550000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+899,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Arturs Zjuzins,300000.0,False,working,False,Arturs Zjuzins,A Zjuzins,single
+900,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Roberts Uldrikis,550000.0,False,working,False,Roberts Uldrikis,Uldrikis,single
+901,1859,Nations League 2022-2023,Liechtenstein vs Latvia,14.06.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+902,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+903,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+904,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Antonijs Cernomordijs,400000.0,False,working,False,Antonijs Cernomordijs,Černomordijs,single
+905,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+906,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Eduards Emsis,150000.0,False,working,False,Eduards Emsis,Emsis,single
+907,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+908,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Roberts Savalnieks', 'Davis Ikaunieks']]",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+909,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+910,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Andrejs Ciganiks,550000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+911,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Alvis Jaunzems,600000.0,False,working,False,Alvis Jaunzems,Jaunzems,single
+912,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+913,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Dumitru Celeadnic,300000.0,False,working,False,Dumitru Celeadnic,D Celeadnic,single
+914,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+915,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Veaceslav Posmac,250000.0,False,working,False,Veaceslav Posmac,Posmac,single
+916,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Artur Craciun,100000.0,False,working,False,Artur Craciun,Craciun,single
+917,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Ioan-Calin Revenco,450000.0,False,working,False,Ioan-Calin Revenco,Revenco,single
+918,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Artur Ioniță,700000.0,False,working,False,Artur Ioniță,Ioniță,single
+919,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none
+920,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Mihail Caimacov,400000.0,False,working,False,Mihail Caimacov,Caimacov,single
+921,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+922,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,Sergiu Platica,275000.0,False,working,False,Sergiu Platica,S Platica,single
+923,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,FAIL,0,0,True,Lookup Required,False,0,Damașcan,none
+924,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+925,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Andreas Malin,0.0,False,Large Dataset had 0,False,Andreas Malin,Malin,single
+926,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Jens Hofer,25000.0,False,working,False,Jens Hofer,Hofer,single
+927,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,"['Noah Graber', 'Lukas Graber']",0.0,False,Large Dataset said 0,False,"['Noah Graber', 'Lukas Graber']",Graber,multiple
+928,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+929,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+930,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Livio Meier,0.0,False,Large Dataset had 0,False,Livio Meier,L Meier,single
+931,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Noah Frommelt,0.0,False,Large Dataset had 0,False,Noah Frommelt,Frommelt,single
+932,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+933,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+934,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Liechtenstein,LI,2022,SUCCESS,Philipp Gassner,75000.0,False,working,False,Philipp Gassner,Gassner,single
+935,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Iker Álvarez,500000.0,False,working,False,Iker Álvarez,I Álvarez,single
+936,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Albert Alavedra,100000.0,False,working,False,Albert Alavedra,Alavedra,single
+937,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+938,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,FAIL,"['Jordi Rubio', 'Jesús Rubio']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Jordi Rubio', 'Jesús Rubio']]",False,"['Jordi Rubio', 'Jesús Rubio']",Ch Rubio,multiple
+939,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+940,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,"['Marc Vales', 'Eric Vales']",150000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+941,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Xavier Vieira,150000.0,False,working,False,Xavier Vieira,X Vieira,single
+942,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Marc Pujol,10000.0,False,working,False,Marc Pujol,M Pujol,single
+943,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+944,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Berto Rosas,250000.0,False,working,False,Berto Rosas,Rosas,single
+945,1861,Nations League 2022-2023,Liechtenstein vs Andorra,22.09.22,Andorra,AD,2022,SUCCESS,Alex Martínez,200000.0,False,working,False,Alex Martínez,Alex Martínez,single
+946,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Iker Álvarez,500000.0,False,working,False,Iker Álvarez,I Álvarez,single
+947,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Eric de Pablos,250000.0,False,working,False,Eric de Pablos,De Pablos,single
+948,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Albert Alavedra,100000.0,False,working,False,Albert Alavedra,Alavedra,single
+949,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Joan Cervós,175000.0,False,working,False,Joan Cervós,Cervós,single
+950,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Max Llovera,50000.0,False,working,False,Max Llovera,Llovera,single
+951,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Jordi Rubio,50000.0,False,working,False,Jordi Rubio,Rubio Jordi,single
+952,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Kiko Pomares,0.0,False,Large Dataset had 0,False,Kiko Pomares,Pomares,single
+953,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,"['Marc Vales', 'Eric Vales']",150000.0,False,working,False,"['Marc Vales', 'Eric Vales']",Vales,multiple
+954,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Marc Rebés,150000.0,False,working,False,Marc Rebés,Rebés,single
+955,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Márcio Vieira,0.0,False,Large Dataset had 0,False,Márcio Vieira,M Vieira,single
+956,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Andorra,AD,2022,SUCCESS,Izan Fernández,0.0,False,Large Dataset had 0,False,Izan Fernández,R Fernandez,single
+957,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Pavels Steinbors,75000.0,False,working,False,Pavels Steinbors,Steinbors,single
+958,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Kaspars Dubra,250000.0,False,working,False,Kaspars Dubra,Dubra,single
+959,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Kristers Tobers,350000.0,False,working,False,Kristers Tobers,Tobers,single
+960,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Eduards Emsis,150000.0,False,working,False,Eduards Emsis,Emsis,single
+961,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Janis Ikaunieks,500000.0,False,working,False,Janis Ikaunieks,J Ikaunieks,single
+962,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,FAIL,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Roberts Savalnieks', 'Davis Ikaunieks']]",False,"['Roberts Savalnieks', 'Davis Ikaunieks', 'Janis Beks']",Savaļnieks,multiple
+963,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Raivis Jurkovskis,400000.0,False,working,False,Raivis Jurkovskis,Jurkovskis,single
+964,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Andrejs Ciganiks,550000.0,False,working,False,Andrejs Ciganiks,Ciganiks,single
+965,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Vladislavs Gutkovskis,1000000.0,False,working,False,Vladislavs Gutkovskis,Gutkovskis,single
+966,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Elvis Stuglis,225000.0,False,working,False,Elvis Stuglis,E Stuglis,single
+967,1862,Nations League 2022-2023,Andorra vs Latvia,25.09.22,Latvia,LV,2022,SUCCESS,Raimonds Krollis,2500000.0,False,working,False,Raimonds Krollis,Krollis,single
+968,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Dumitru Celeadnic,300000.0,False,working,False,Dumitru Celeadnic,D Celeadnic,single
+969,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Igor Armaş,400000.0,False,working,False,Igor Armaş,Arma,single
+970,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Artur Craciun,100000.0,False,working,False,Artur Craciun,Craciun,single
+971,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Vadim Bolohan,100000.0,False,working,False,Vadim Bolohan,Bolohan,single
+972,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Alexandr Belousov,200000.0,False,working,False,Alexandr Belousov,A Belousov,single
+973,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Vadim Rață,1000000.0,False,working,False,Vadim Rață,V Raţă,single
+974,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Artur Ioniță,700000.0,False,working,False,Artur Ioniță,Ioniță,single
+975,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none
+976,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Ion Nicolaescu,1000000.0,False,working,False,Ion Nicolaescu,I Nicolaescu,single
+977,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,Sergiu Platica,275000.0,False,working,False,Sergiu Platica,S Platica,single
+978,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,FAIL,0,0,True,Lookup Required,False,0,Damașcan,none
+979,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Benjamin Büchel,200000.0,False,working,False,Benjamin Büchel,B Buechel,single
+980,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Niklas Beck,0.0,False,Large Dataset had 0,False,Niklas Beck,N Beck,single
+981,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Jens Hofer,25000.0,False,working,False,Jens Hofer,Hofer,single
+982,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Lars Traber,250000.0,False,working,False,Lars Traber,L Traber,single
+983,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Rafael Grünenfelder,0.0,False,Large Dataset had 0,False,Rafael Grünenfelder,Grunenfelder,single
+984,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Maximilian Göppel,0.0,False,Large Dataset had 0,False,Maximilian Göppel,Goppel,single
+985,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Aron Sele,0.0,False,Large Dataset had 0,False,Aron Sele,A Sele,single
+986,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Nicolas Hasler,200000.0,False,working,False,Nicolas Hasler,N Hasler,single
+987,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Andrin Netzer,0.0,False,Large Dataset had 0,False,Andrin Netzer,Netzer,single
+988,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Simon Lüchinger,50000.0,False,working,False,Simon Lüchinger,Lüchinger,single
+989,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Liechtenstein,LI,2022,SUCCESS,Philipp Gassner,75000.0,False,working,False,Philipp Gassner,Gassner,single
+990,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Karl Hein,1500000.0,False,working,False,Karl Hein,Hein,single
+991,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Märten Kuusk,300000.0,False,working,False,Märten Kuusk,Kuusk,single
+992,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",800000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+993,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Karol Mets,800000.0,False,working,False,Karol Mets,Mets,single
+994,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Mattias Käit,800000.0,False,working,False,Mattias Käit,Käit,single
+995,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Vladislav Kreida,150000.0,False,working,False,Vladislav Kreida,Kreida,single
+996,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Vlasiy Sinyavskiy,400000.0,False,working,False,Vlasiy Sinyavskiy,V Sinyavskiy,single
+997,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+998,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Sergei Zenjov,250000.0,False,working,False,Sergei Zenjov,Zenjov,single
+999,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Robert Kirss,25000.0,False,working,False,Robert Kirss,Kirss,single
+1000,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,Estonia,EE,2022,SUCCESS,Erik Sorga,250000.0,False,working,False,Erik Sorga,Sorga,single
+1001,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Elia Benedettini,75000.0,False,working,False,Elia Benedettini,E Benedettini,single
+1002,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Mirko Palazzi,10000.0,False,working,False,Mirko Palazzi,Palazzi,single
+1003,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Filippo Fabbri,100000.0,False,working,False,Filippo Fabbri,Fabbri,single
+1004,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Manuel Battistini,50000.0,False,working,False,Manuel Battistini,Man Battistini,single
+1005,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Andrea Grandoni,50000.0,False,working,False,Andrea Grandoni,Grandoni,single
+1006,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Michael Battistini,50000.0,False,working,False,Michael Battistini,Mic Battistini,single
+1007,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Tommaso Zafferani,50000.0,False,working,False,Tommaso Zafferani,Zafferani,single
+1008,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Alessandro Golinucci,50000.0,False,working,False,Alessandro Golinucci,A Golinucci,single
+1009,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Marcello Mularoni,0.0,False,Large Dataset had 0,False,Marcello Mularoni,Mularoni,single
+1010,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Matteo Vitaioli,25000.0,False,working,False,Matteo Vitaioli,M Vitaioli,single
+1011,1864,Nations League 2022-2023,Estonia vs San Marino,02.06.22,San Marino,SM,2022,SUCCESS,Nicola Nanni,150000.0,False,working,False,Nicola Nanni,N Nanni,single
+1012,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1013,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1014,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1015,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1016,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1017,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1018,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1019,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1020,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1021,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1022,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,San Marino,SM,2022,FAIL,-,0,False,Null Name,False,,-,none
+1023,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1024,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1025,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1026,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1027,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1028,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1029,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1030,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1031,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1032,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1033,1865,Nations League 2022-2023,San Marino vs Malta,05.06.22,Malta,MT,2022,FAIL,-,0,False,Null Name,False,,-,none
+1034,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Henry Bonello,150000.0,False,working,False,Henry Bonello,Bonello,single
+1035,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Steve Borg,150000.0,False,working,False,Steve Borg,S Borg,single
+1036,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Joseph Mbong,250000.0,False,working,False,Joseph Mbong,J Mbong,single
+1037,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Enrico Pepe,200000.0,False,working,False,Enrico Pepe,E Pepe,single
+1038,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,"['Jacob Borg', 'Jean Borg']",200000.0,False,working,False,"['Jacob Borg', 'Jean Borg']",J Borg,multiple
+1039,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Matthew Guillaumier,400000.0,False,working,False,Matthew Guillaumier,Guillaumier,single
+1040,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Ryan Camenzuli,300000.0,False,working,False,Ryan Camenzuli,Camenzuli,single
+1041,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Brandon Paiber,250000.0,False,working,False,Brandon Paiber,Paiber,single
+1042,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Teddy Teuma,5000000.0,False,working,False,Teddy Teuma,Teuma,single
+1043,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Jurgen Degabriele,350000.0,False,working,False,Jurgen Degabriele,Degabriele,single
+1044,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Malta,MT,2022,SUCCESS,Alexander Satariano,250000.0,False,working,False,Alexander Satariano,Satariano,single
+1045,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Karl Hein,1500000.0,False,working,False,Karl Hein,Hein,single
+1046,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Maksim Paskotsi,200000.0,False,working,False,Maksim Paskotsi,Paskotsi,single
+1047,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",800000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+1048,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Karol Mets,800000.0,False,working,False,Karol Mets,Mets,single
+1049,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Ken Kallaste,125000.0,False,working,False,Ken Kallaste,Kallaste,single
+1050,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Taijo Teniste,100000.0,False,working,False,Taijo Teniste,Teniste,single
+1051,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Mattias Käit,800000.0,False,working,False,Mattias Käit,Käit,single
+1052,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+1053,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Markus Soomets,275000.0,False,working,False,Markus Soomets,Soomets,single
+1054,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Robert Kirss,25000.0,False,working,False,Robert Kirss,Kirss,single
+1055,1866,Nations League 2022-2023,Malta vs Estonia,09.06.22,Estonia,EE,2022,SUCCESS,Erik Sorga,250000.0,False,working,False,Erik Sorga,Sorga,single
+1056,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Henry Bonello,150000.0,False,working,False,Henry Bonello,Bonello,single
+1057,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Joseph Mbong,250000.0,False,working,False,Joseph Mbong,J Mbong,single
+1058,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Enrico Pepe,200000.0,False,working,False,Enrico Pepe,E Pepe,single
+1059,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Ferdinando Apap,300000.0,False,working,False,Ferdinando Apap,Apap,single
+1060,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Matthew Guillaumier,400000.0,False,working,False,Matthew Guillaumier,Guillaumier,single
+1061,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Ryan Camenzuli,300000.0,False,working,False,Ryan Camenzuli,Camenzuli,single
+1062,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Brandon Paiber,250000.0,False,working,False,Brandon Paiber,Paiber,single
+1063,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Teddy Teuma,5000000.0,False,working,False,Teddy Teuma,Teuma,single
+1064,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Luke Gambin,125000.0,False,working,False,Luke Gambin,Gambin,single
+1065,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Zach Muscat,350000.0,False,working,False,Zach Muscat,Z Muscat,single
+1066,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,Malta,MT,2022,SUCCESS,Luke Montebello,300000.0,False,working,False,Luke Montebello,Montebello,single
+1067,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Elia Benedettini,75000.0,False,working,False,Elia Benedettini,E Benedettini,single
+1068,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Mirko Palazzi,10000.0,False,working,False,Mirko Palazzi,Palazzi,single
+1069,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Dante Rossi,0.0,False,Large Dataset had 0,False,Dante Rossi,D Rossi,single
+1070,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Andrea Grandoni,50000.0,False,working,False,Andrea Grandoni,Grandoni,single
+1071,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Filippo Fabbri,100000.0,False,working,False,Filippo Fabbri,Fabbri,single
+1072,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Alessandro D'Addario,75000.0,False,working,False,Alessandro D'Addario,D'Addario,single
+1073,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Luca Ceccaroli,100000.0,False,working,False,Luca Ceccaroli,L Ceccaroli,single
+1074,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Michael Battistini,50000.0,False,working,False,Michael Battistini,Mic Battistini,single
+1075,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Lorenzo Lunadei,25000.0,False,working,False,Lorenzo Lunadei,Lunadei,single
+1076,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,Nicola Nanni,150000.0,False,working,False,Nicola Nanni,N Nanni,single
+1077,1867,Nations League 2022-2023,Malta vs San Marino,12.06.22,San Marino,SM,2022,SUCCESS,David Tomassini,25000.0,False,working,False,David Tomassini,D Tomassini,single
+1078,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Karl Hein,1500000.0,False,working,False,Karl Hein,Hein,single
+1079,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Henrik Pürg,350000.0,False,working,False,Henrik Pürg,Pürg,single
+1080,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,"['Joonas Tamm', 'Alex Tamm']",800000.0,False,working,False,"['Joonas Tamm', 'Alex Tamm']",Tamm,multiple
+1081,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Karol Mets,800000.0,False,working,False,Karol Mets,Mets,single
+1082,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Ken Kallaste,125000.0,False,working,False,Ken Kallaste,Kallaste,single
+1083,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Konstantin Vassiljev,100000.0,False,working,False,Konstantin Vassiljev,K Vassiljev,single
+1084,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Rauno Sappinen,400000.0,False,working,False,Rauno Sappinen,Sappinen,single
+1085,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Markus Soomets,275000.0,False,working,False,Markus Soomets,Soomets,single
+1086,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Sergei Zenjov,250000.0,False,working,False,Sergei Zenjov,Zenjov,single
+1087,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,"['Henrik Ojamaa', 'Hindrek Ojamaa']",225000.0,False,working,False,"['Henrik Ojamaa', 'Hindrek Ojamaa']",Ojamaa,multiple
+1088,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Estonia,EE,2022,SUCCESS,Bogdan Vastsuk,150000.0,False,working,False,Bogdan Vastsuk,B Vastsuk,single
+1089,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Henry Bonello,150000.0,False,working,False,Henry Bonello,Bonello,single
+1090,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Cain Attard,300000.0,False,working,False,Cain Attard,Attard,single
+1091,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Joseph Mbong,250000.0,False,working,False,Joseph Mbong,J Mbong,single
+1092,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Enrico Pepe,200000.0,False,working,False,Enrico Pepe,E Pepe,single
+1093,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,"['Jacob Borg', 'Jean Borg']",200000.0,False,working,False,"['Jacob Borg', 'Jean Borg']",J Borg,multiple
+1094,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Matthew Guillaumier,400000.0,False,working,False,Matthew Guillaumier,Guillaumier,single
+1095,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Ryan Camenzuli,300000.0,False,working,False,Ryan Camenzuli,Camenzuli,single
+1096,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Brandon Paiber,250000.0,False,working,False,Brandon Paiber,Paiber,single
+1097,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Teddy Teuma,5000000.0,False,working,False,Teddy Teuma,Teuma,single
+1098,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Jodi Jones,175000.0,False,working,False,Jodi Jones,J-i Jones,single
+1099,1868,Nations League 2022-2023,Estonia vs Malta,23.09.22,Malta,MT,2022,SUCCESS,Alexander Satariano,250000.0,False,working,False,Alexander Satariano,Satariano,single

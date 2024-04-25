@@ -1,0 +1,101 @@
+,DF index,Match ID,Competition,Date,Match,Season,Nationality,Country Code,ORIGINAL JERSEY,English Name,Match(es) Found,Status
+0,1400,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,8. Йохансен,Johansen,"['Stefan Johansen', 'Eirik Holmen Johansen']",Success
+1,1401,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,14. Абделлауи,Abdellaoui,['Omar Elabdellaoui'],Success
+2,1402,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,15. Шельберд,Shelbird,['Per Ciljan Skjelbred'],Success
+3,1403,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,16. Фло,V ,0,Fail
+4,1404,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,18. Нильсен,Nielsen,['Havard Nielsen'],Success
+5,1405,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,19. Иттергор-Йенсен,Yttergaard Jensen,"['Ruben Yttergård Jenssen', 'Ulrik Yttergård Jenssen']",Success
+6,1406,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,20. Меллер-Дели,Meller Delhi,['Mats Møller Dæhli'],Success
+7,1407,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Norway,NO,21. Форрен,Forren,['Vegard Forren'],Success
+8,1408,565,"Euros 2016, Qualifiers",09.09.14,Norway vs Italy,2014,Italy,IT,5. Астори,Astori,['Davide Astori'],Success
+9,1409,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,1. Стоянов,Stoyanov,"['Vladislav Stoyanov', 'Krum Stoyanov', 'Yoan Stoyanov']",Success
+10,1410,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,2. Попов А,Popova,"['Strahil Popov', 'Ivelin Popov', 'Apostol Popov', 'Viktor Popov']",Success
+11,1411,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,4. Занев,Zanev,['Petar Zanev'],Success
+12,1412,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,5. Бодуров,Bodurov,['Nikolay Bodurov'],Success
+13,1413,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,6. Минев,Minev,"['Veselin Minev', 'Yordan Minev']",Success
+14,1414,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,9. Попов И.,I  Popov,['Ivelin Popov'],Success
+15,1415,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,11. Манолев,Manolev,['Stanislav Manolev'],Success
+16,1416,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,17. Миланов,Milanov,"['Iliya Milanov', 'Georgi Milanov', 'Zhivko Milanov']",Success
+17,1417,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,18. Гаджев,Gadjev,['Vladimir Gadzhev'],Success
+18,1418,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,21. Дьяков,Dyakov,['Svetoslav Dyakov'],Success
+19,1419,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Bulgaria,BG,19. Мицански,Mitzanski,['Iliyan Mitsanski'],Success
+20,1420,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,23. Субашич,Subasic,['Danijel Subasic'],Success
+21,1421,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,3. Праньич,Pranjic,['Danijel Pranjic'],Success
+22,1422,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,5. Чорлука,Chorluka,['Vedran Corluka'],Success
+23,1423,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,11. Срна,Doe,['Darijo Srna'],Success
+24,1424,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,21. Вида,Items,['Domagoj Vida'],Success
+25,1425,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,4. Перишич,Perishich,['Ivan Perisic'],Success
+26,1426,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,7. Ракитич,Ivan Rakitic,['Ivan Rakitic'],Success
+27,1427,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,10. Модрич,Modric,['Luka Modric'],Success
+28,1428,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,14. Брозович,Brozović,['Marcelo Brozovic'],Success
+29,1429,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,17. Манджукич,Mario Mandzukic,['Mario Mandzukic'],Success
+30,1430,566,"Euros 2016, Qualifiers",10.10.14,Bulgaria vs Croatia,2014,Croatia,HR,18. Олич,Olic,['Ivica Olic'],Success
+31,1431,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Italy,IT,21. Пирло,Pirlo,['Andrea Pirlo'],Success
+32,1432,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,1. Агаев,Agayev,"['Kamran Agayev', 'Salahat Agayev']",Success
+33,1433,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,2. Караев,Karaev,0,Fail
+34,1434,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,5. Аллахвердиев,Allahverdiev,['Elnur Allahverdiev'],Success
+35,1435,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,6. Гусейнов Б.,B Guseinov,0,Fail
+36,1436,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,7. Абдуллаев,Abdullaev,['Araz Abdullayev'],Success
+37,1437,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,8. Гыртымов,Gyrtymov,0,Fail
+38,1438,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,10. Дадашов,Dadashov,"['Rufat Dadashov', 'Renat Dadashov']",Success
+39,1439,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,11. Алиев,Aliev,0,Fail
+40,1440,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,13. Назаров,Nazarov,['Dimitrij Nazarov'],Success
+41,1441,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,14. Садыгов,Sadigov,['Rashad Sadiqov'],Success
+42,1442,567,"Euros 2016, Qualifiers",10.10.14,Italy vs Azerbaijan,2014,Azerbaijan,AZ,19. Амиргулиев,Amirguliev,['Rahid Amirquliyev'],Success
+43,1443,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,1. Хогг,Hogg,['Andrew Hogg'],Success
+44,1444,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,2. Мускат З.,Z Muskat,['Zach Muscat'],Success
+45,1445,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,4. Фенек П.,P  Fenek,['Paul Fenech'],Success
+46,1446,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,5. Агиус,Agius,['Andrei Agius'],Success
+47,1447,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,6. Фенек Р.,R Fenech,['Ryan Fenech'],Success
+48,1448,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,7. Фэйла,Fayla,0,Fail
+49,1449,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,8. Бриффа,Briffa,"['Roderick Briffa', 'Emanuel Briffa']",Success
+50,1450,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,9. Мифсуд,Mifsud,"['Michael Mifsud', 'Jean Pierre Mifsud Triganza']",Success
+51,1451,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,11. Мускат Р.,R Muscat,['Rowen Muscat'],Success
+52,1452,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,13. Шембри,Schembri,['André Schembri'],Success
+53,1453,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Malta,MT,17. Камиллери,Camilleri,"['Ryan Camilleri', 'Dale Camilleri']",Success
+54,1454,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,12. Нюланд,Nyland,['Ørjan Nyland'],Success
+55,1455,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,5. Тетти,Tetti,['Alexander Tettey'],Success
+56,1456,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,6. Нордтвейт,Nordtveit,['Håvard Nordtveit'],Success
+57,1457,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,7. Кинг,King,['Joshua King'],Success
+58,1458,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,8. Йохансен,Johansen,"['Stefan Johansen', 'Eirik Holmen Johansen']",Success
+59,1459,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,10. Эльюнусси,Elyounoussi,"['Mohamed Elyounoussi', 'Tarik Elyounoussi']",Success
+60,1460,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,14. Эльабделлауи,Elabdellaoui,['Omar Elabdellaoui'],Success
+61,1461,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,15. Скьелбред,Skjelbred,['Per Ciljan Skjelbred'],Success
+62,1462,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,17. Линнес,Linnes,['Martin Linnes'],Success
+63,1463,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,20. Меллер-Дели,Meller Delhi,['Mats Møller Dæhli'],Success
+64,1464,568,"Euros 2016, Qualifiers",10.10.14,Malta vs Norway,2014,Norway,NO,21. Форрен,Forren,['Vegard Forren'],Success
+65,1465,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,23. Субашич,Subasic,['Danijel Subasic'],Success
+66,1466,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,3. Праньич,Pranjic,['Danijel Pranjic'],Success
+67,1467,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,5. Чорлука,Chorluka,['Vedran Corluka'],Success
+68,1468,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,7. Ракитич,Ivan Rakitic,['Ivan Rakitic'],Success
+69,1469,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,10. Модрич,Modric,['Luka Modric'],Success
+70,1470,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,11. Срна,Doe,['Darijo Srna'],Success
+71,1471,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,14. Брозович,Brozović,['Marcelo Brozovic'],Success
+72,1472,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,17. Манджукич,Mario Mandzukic,['Mario Mandzukic'],Success
+73,1473,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,20. Ковачич,Kovačić,['Mateo Kovacic'],Success
+74,1474,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,21. Вида,Items,['Domagoj Vida'],Success
+75,1475,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Croatia,HR,22. Крамарич,Kramarić,['Andrej Kramaric'],Success
+76,1476,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,1. Агаев,Agayev,"['Kamran Agayev', 'Salahat Agayev']",Success
+77,1477,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,2. Гараев,Garaev,0,Fail
+78,1478,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,3. Рамалданов,Ramaldanov,['Rasim Ramaldanov'],Success
+79,1479,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,5. Аллахвердиев,Allahverdiev,['Elnur Allahverdiev'],Success
+80,1480,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,6. Гусейнов,Huseynov,"['Vurgun Hüseynov', 'Badavi Hüseynov', 'Cavid Hüseynov', 'Abbas Hüseynov', 'Calal Hüseynov']",Success
+81,1481,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,7. Абдуллаев,Abdullaev,['Araz Abdullayev'],Success
+82,1482,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,11. Алиев,Aliev,0,Fail
+83,1483,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,13. Назаров,Nazarov,['Dimitrij Nazarov'],Success
+84,1484,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,14. Садыгов,Sadigov,['Rashad Sadiqov'],Success
+85,1485,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,18. Медведев,Maksim Medvedev,['Maksim Medvedev'],Success
+86,1486,569,"Euros 2016, Qualifiers",13.10.14,Croatia vs Azerbaijan,2014,Azerbaijan,AZ,19. Амиргулиев,Amirguliev,['Rahid Amirquliyev'],Success
+87,1487,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,1. Хогг,Hogg,['Andrew Hogg'],Success
+88,1488,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,2. Мускат З.,Z Muskat,['Zach Muscat'],Success
+89,1489,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,4. Фенек,['Paul Fenech'],['Paul Fenech'],Success
+90,1490,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,5. Агиус,Agius,['Andrei Agius'],Success
+91,1491,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,7. Файлла,Failla,['Clayton Failla'],Success
+92,1492,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,8. Бриффа,Briffa,"['Roderick Briffa', 'Emanuel Briffa']",Success
+93,1493,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,9. Мифсуд,Mifsud,"['Michael Mifsud', 'Jean Pierre Mifsud Triganza']",Success
+94,1494,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,11. Мускат,Muscat,"['Zach Muscat', 'Manny Muscat', 'Alex Muscat', 'Rowen Muscat', 'Nicky Muscat', 'Joe Muscatt']",Success
+95,1495,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,13. Шембри,Schembri,['André Schembri'],Success
+96,1496,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,15. Минтофф,John Mintoff,['John Mintoff'],Success
+97,1497,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Malta,MT,17. Камиллери,Camilleri,"['Ryan Camilleri', 'Dale Camilleri']",Success
+98,1498,570,"Euros 2016, Qualifiers",13.10.14,Malta vs Italy,2014,Italy,IT,17. Пелле,Graziano Pelle,['Graziano Pellè'],Success
+99,1499,571,"Euros 2016, Qualifiers",13.10.14,Norway vs Bulgaria,2014,Norway,NO,12. Нюланн,Nyland,['Ørjan Nyland'],Success

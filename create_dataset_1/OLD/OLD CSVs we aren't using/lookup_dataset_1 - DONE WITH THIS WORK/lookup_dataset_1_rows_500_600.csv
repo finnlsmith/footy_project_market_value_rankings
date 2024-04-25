@@ -1,0 +1,1101 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Kasper Schmeichel,12000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+1,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Andreas Christensen,30000000.0,False,working,False,Andreas Christensen,A Christensen,single
+2,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Henrik Dalsgaard,2500000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+3,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Simon Kjaer,8000000.0,False,working,False,Simon Kjaer,Kjaer,single
+4,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Thomas Delaney,27000000.0,False,working,False,Thomas Delaney,Delaney,single
+5,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",4000000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+6,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Lasse Schöne,3000000.0,False,working,False,Lasse Schöne,Schone,single
+7,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Pione Sisto,8000000.0,False,working,False,Pione Sisto,Sisto,single
+8,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Christian Eriksen,100000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+9,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Nicolai Jörgensen,7500000.0,False,working,False,Nicolai Jörgensen,N Jörgensen,single
+10,253,World Cup 2018,Denmark vs Australia,21.06.18,Denmark,DK,2018,SUCCESS,Yussuf Poulsen,35000000.0,False,working,False,Yussuf Poulsen,Y Poulsen,single
+11,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Mathew Ryan,5000000.0,False,working,False,Mathew Ryan,M Ryan,single
+12,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,FAIL,0,0.0,True,not done yet,False,0,5. Миллигэн,cyrillic
+13,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Aziz Behich,2500000.0,False,working,False,Aziz Behich,Behich,single
+14,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Josh Risdon,750000.0,False,working,False,Josh Risdon,Risdon,single
+15,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Trent Sainsbury,1000000.0,False,working,False,Trent Sainsbury,Sainsbury,single
+16,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Robbie Kruse,650000.0,False,working,False,Robbie Kruse,Kruse,single
+17,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Aaron Mooy,7000000.0,False,working,False,Aaron Mooy,Mooy,single
+18,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Tom Rogic,2000000.0,False,working,False,Tom Rogic,Rogic,single
+19,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Mile Jedinak,5000000.0,False,Data Ended before season : 2018,False,Mile Jedinak,Jedinak,single
+20,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Mathew Leckie,4000000.0,False,working,False,Mathew Leckie,Leckie,single
+21,253,World Cup 2018,Denmark vs Australia,21.06.18,Australia,AU,2018,SUCCESS,Andrew Nabbout,350000.0,False,working,False,Andrew Nabbout,Nabbout,single
+22,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Hugo Lloris,25000000.0,False,working,False,Hugo Lloris,Lloris,single
+23,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Benjamin Pavard,30000000.0,False,working,False,Benjamin Pavard,Pavard,single
+24,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+25,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Samuel Umtiti,45000000.0,False,working,False,Samuel Umtiti,Umtiti,single
+26,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Lucas Hernández,70000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+27,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Paul Pogba,100000000.0,False,working,False,Paul Pogba,Pogba,single
+28,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+29,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Blaise Matuidi,22000000.0,False,working,False,Blaise Matuidi,Matuidi,single
+30,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+31,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+32,254,World Cup 2018,France vs Peru,21.06.18,France,FR,2018,SUCCESS,Kylian Mbappé,200000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+33,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Pedro Gallese,1000000.0,False,working,False,Pedro Gallese,Gallese,single
+34,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Alberto Rodríguez,300000.0,False,Data Ended before season : 2018,False,Alberto Rodríguez,Rodríguez Alberto,single
+35,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Miguel Trauco,2000000.0,False,working,False,Miguel Trauco,Trauco,single
+36,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Christian Ramos,800000.0,False,working,False,Christian Ramos,Ramos,single
+37,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Yoshimar Yotún,900000.0,False,working,False,Yoshimar Yotún,Yotun,single
+38,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Christian Cueva,3000000.0,False,working,False,Christian Cueva,Cueva,single
+39,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Pedro Aquino,425000.0,False,working,False,Pedro Aquino,Aquino,single
+40,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+41,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",1500000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+42,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,André Carrillo,6000000.0,False,working,False,André Carrillo,Carrillo,single
+43,254,World Cup 2018,France vs Peru,21.06.18,Peru,PE,2018,SUCCESS,Edison Flores,400000.0,False,working,False,Edison Flores,Ed Flores,single
+44,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Kasper Schmeichel,12000000.0,False,working,False,Kasper Schmeichel,Schmeichel,single
+45,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Andreas Christensen,30000000.0,False,working,False,Andreas Christensen,A Christensen,single
+46,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Zanka,5000000.0,False,working,False,Zanka,Zanka,single
+47,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Henrik Dalsgaard,2500000.0,False,working,False,Henrik Dalsgaard,Dalsgaard,single
+48,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Simon Kjaer,8000000.0,False,working,False,Simon Kjaer,Kjaer,single
+49,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Thomas Delaney,27000000.0,False,working,False,Thomas Delaney,Delaney,single
+50,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",4000000.0,False,working,False,"['Jens Stryger Larsen', 'Jacob Bruun Larsen']",J Larsen,multiple
+51,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Pione Sisto,8000000.0,False,working,False,Pione Sisto,Sisto,single
+52,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Christian Eriksen,100000000.0,False,working,False,Christian Eriksen,C Eriksen,single
+53,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Martin Braithwaite,8000000.0,False,working,False,Martin Braithwaite,Braithwaite,single
+54,255,World Cup 2018,Denmark vs France,26.06.18,Denmark,DK,2018,SUCCESS,Andreas Cornelius,3000000.0,False,working,False,Andreas Cornelius,Cornelius,single
+55,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Steve Mandanda,2500000.0,False,working,False,Steve Mandanda,Mandanda,single
+56,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Presnel Kimpembe,30000000.0,False,working,False,Presnel Kimpembe,Kimpembe,single
+57,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Raphaël Varane,70000000.0,False,working,False,Raphaël Varane,Varane,single
+58,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Djibril Sidibé,15000000.0,False,working,False,Djibril Sidibé,Dj Sidibé,single
+59,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Lucas Hernández,70000000.0,False,working,False,Lucas Hernández,Lucas Hernandez,single
+60,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Thomas Lemar,40000000.0,False,working,False,Thomas Lemar,Lemar,single
+61,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,N'Golo Kanté,100000000.0,False,working,False,N'Golo Kanté,N Kante,single
+62,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,FAIL,0,0,True,Lookup Required,False,0,N`Zonzi,none
+63,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Antoine Griezmann,130000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+64,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Olivier Giroud,15000000.0,False,working,False,Olivier Giroud,Giroud,single
+65,255,World Cup 2018,Denmark vs France,26.06.18,France,FR,2018,SUCCESS,Ousmane Dembélé,100000000.0,False,working,False,Ousmane Dembélé,O Dembele,single
+66,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Mathew Ryan,5000000.0,False,working,False,Mathew Ryan,M Ryan,single
+67,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,FAIL,0,0,True,not done yet,False,0,5. Миллигэн,cyrillic
+68,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Aziz Behich,2500000.0,False,working,False,Aziz Behich,Behich,single
+69,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Josh Risdon,750000.0,False,working,False,Josh Risdon,Risdon,single
+70,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Trent Sainsbury,1000000.0,False,working,False,Trent Sainsbury,Sainsbury,single
+71,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Robbie Kruse,650000.0,False,working,False,Robbie Kruse,Kruse,single
+72,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Aaron Mooy,7000000.0,False,working,False,Aaron Mooy,Mooy,single
+73,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Tom Rogic,2000000.0,False,working,False,Tom Rogic,Rogic,single
+74,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Mile Jedinak,5000000.0,False,Data Ended before season : 2018,False,Mile Jedinak,Jedinak,single
+75,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Mathew Leckie,4000000.0,False,working,False,Mathew Leckie,Leckie,single
+76,256,World Cup 2018,Australia vs Peru,26.06.18,Australia,AU,2018,SUCCESS,Tomi Juric,1750000.0,False,working,False,Tomi Juric,Juric,single
+77,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Pedro Gallese,1000000.0,False,working,False,Pedro Gallese,Gallese,single
+78,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Anderson Santamaría,500000.0,False,working,False,Anderson Santamaría,Santamaría,single
+79,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Miguel Trauco,2000000.0,False,working,False,Miguel Trauco,Trauco,single
+80,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Christian Ramos,800000.0,False,working,False,Christian Ramos,Ramos,single
+81,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Yoshimar Yotún,900000.0,False,working,False,Yoshimar Yotún,Yotun,single
+82,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Christian Cueva,3000000.0,False,working,False,Christian Cueva,Cueva,single
+83,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Renato Tapia,3000000.0,False,working,False,Renato Tapia,Tapia,single
+84,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Paolo Guerrero,3000000.0,False,working,False,Paolo Guerrero,Guerrero,single
+85,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,"['Luis Advíncula', 'Adrián Zela']",1500000.0,False,working,False,"['Luis Advíncula', 'Adrián Zela']",Advincula,multiple
+86,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,André Carrillo,6000000.0,False,working,False,André Carrillo,Carrillo,single
+87,256,World Cup 2018,Australia vs Peru,26.06.18,Peru,PE,2018,SUCCESS,Edison Flores,400000.0,False,working,False,Edison Flores,Ed Flores,single
+88,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Willy Caballero,1000000.0,False,Used Large Dataset,False,Willy Caballero,Caballero,single
+89,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Nicolás Tagliafico,6000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+90,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Marcos Rojo,12000000.0,False,Used Large Dataset,False,Marcos Rojo,Rojo,single
+91,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Nicolás Otamendi,30000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+92,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Eduardo Salvio,18000000.0,False,working,False,Eduardo Salvio,Salvio,single
+93,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Lucas Biglia,6000000.0,False,Used Large Dataset,False,Lucas Biglia,L Biglia,single
+94,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Javier Mascherano,15000000.0,False,Data Ended before season : 2018,False,Javier Mascherano,Mascherano,single
+95,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Ángel Di María,40000000.0,False,working,False,Ángel Di María,Di Maria,single
+96,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Maximiliano Meza,3500000.0,False,working,False,Maximiliano Meza,Meza,single
+97,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Lionel Messi,120000000.0,False,working,False,Lionel Messi,Messi,single
+98,257,World Cup 2018,Argentina vs Iceland,16.06.18,Argentina,AR,2018,SUCCESS,Sergio Agüero,65000000.0,False,working,False,Sergio Agüero,Aguero,single
+99,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+100,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Birkir Már Saevarsson,350000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+101,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+102,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+103,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+104,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+105,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",2500000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+106,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Aron Gunnarsson,2500000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+107,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,Emil Hallfredsson,500000.0,False,working,False,Emil Hallfredsson,E Hallfredsson,single
+108,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",10000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+109,257,World Cup 2018,Argentina vs Iceland,16.06.18,Iceland,IS,2018,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",15000000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+110,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Danijel Subasic,2000000.0,False,Used Large Dataset,False,Danijel Subasic,Subasic,single
+111,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Sime Vrsaljko,20000000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+112,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Ivan Strinic,2500000.0,False,Used Large Dataset,False,Ivan Strinic,Strinic,single
+113,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Dejan Lovren,20000000.0,False,working,False,Dejan Lovren,Lovren,single
+114,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Domagoj Vida,10000000.0,False,working,False,Domagoj Vida,Vida,single
+115,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Ivan Perisic,30000000.0,False,working,False,Ivan Perisic,I Perišić,single
+116,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Luka Modric,20000000.0,False,working,False,Luka Modric,Modric,single
+117,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Ivan Rakitic,40000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+118,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Andrej Kramaric,38000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+119,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Mario Mandzukic,18000000.0,False,Used Large Dataset,False,Mario Mandzukic,Mandzukic,single
+120,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Croatia,HR,2018,SUCCESS,Ante Rebic,40000000.0,False,working,False,Ante Rebic,Rebic,single
+121,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Francis Uzoho,50000.0,False,working,False,Francis Uzoho,Uzoho,single
+122,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Bryan Idowu,1300000.0,False,working,False,Bryan Idowu,Idowu,single
+123,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Wilfred Ndidi,14000000.0,False,working,False,Wilfred Ndidi,Ndidi,single
+124,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,Troost-Ekong,single
+125,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Abdullahi Shehu,600000.0,False,working,False,Abdullahi Shehu,A Shehu,single
+126,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Leon Balogun,2000000.0,False,working,False,Leon Balogun,Balogun,single
+127,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Peter Etebo,1500000.0,False,working,False,Peter Etebo,Etebo,single
+128,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,John Obi Mikel,4000000.0,False,working,False,John Obi Mikel,Obi Mikel,single
+129,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Odion Ighalo,9000000.0,False,working,False,Odion Ighalo,Ighalo,single
+130,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Victor Moses,11000000.0,False,Used Large Dataset,False,Victor Moses,Moses,single
+131,258,World Cup 2018,Croatia vs Nigeria,16.06.18,Nigeria,NG,2018,SUCCESS,Alex Iwobi,10000000.0,False,working,False,Alex Iwobi,Iwobi,single
+132,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Willy Caballero,1000000.0,False,Used Large Dataset,False,Willy Caballero,Caballero,single
+133,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Gabriel Mercado,5000000.0,False,working,False,Gabriel Mercado,Mercado,single
+134,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Nicolás Tagliafico,6000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+135,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Nicolás Otamendi,30000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+136,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Eduardo Salvio,18000000.0,False,working,False,Eduardo Salvio,Salvio,single
+137,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Marcos Acuña,12000000.0,False,working,False,Marcos Acuña,Acuña,single
+138,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Maximiliano Meza,3500000.0,False,working,False,Maximiliano Meza,Meza,single
+139,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Javier Mascherano,15000000.0,False,Data Ended before season : 2018,False,Javier Mascherano,Mascherano,single
+140,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,FAIL,0,0,True,not done yet,False,0,15. Перес Эн.,cyrillic
+141,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Lionel Messi,120000000.0,False,working,False,Lionel Messi,Messi,single
+142,259,World Cup 2018,Argentina vs Croatia,21.06.18,Argentina,AR,2018,SUCCESS,Sergio Agüero,65000000.0,False,working,False,Sergio Agüero,Aguero,single
+143,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Danijel Subasic,2000000.0,False,Used Large Dataset,False,Danijel Subasic,Subasic,single
+144,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Sime Vrsaljko,20000000.0,False,working,False,Sime Vrsaljko,Vrsaljko,single
+145,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Ivan Strinic,2500000.0,False,Used Large Dataset,False,Ivan Strinic,Strinic,single
+146,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Dejan Lovren,20000000.0,False,working,False,Dejan Lovren,Lovren,single
+147,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Domagoj Vida,10000000.0,False,working,False,Domagoj Vida,Vida,single
+148,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Ivan Perisic,30000000.0,False,working,False,Ivan Perisic,I Perišić,single
+149,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Luka Modric,20000000.0,False,working,False,Luka Modric,Modric,single
+150,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Marcelo Brozovic,50000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+151,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Ivan Rakitic,40000000.0,False,working,False,Ivan Rakitic,Rakitic,single
+152,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Mario Mandzukic,18000000.0,False,Used Large Dataset,False,Mario Mandzukic,Mandzukic,single
+153,259,World Cup 2018,Argentina vs Croatia,21.06.18,Croatia,HR,2018,SUCCESS,Ante Rebic,40000000.0,False,working,False,Ante Rebic,Rebic,single
+154,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Francis Uzoho,50000.0,False,working,False,Francis Uzoho,Uzoho,single
+155,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Bryan Idowu,1300000.0,False,working,False,Bryan Idowu,Idowu,single
+156,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Wilfred Ndidi,14000000.0,False,working,False,Wilfred Ndidi,Ndidi,single
+157,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,Troost-Ekong,single
+158,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Kenneth Omeruo,2000000.0,False,working,False,Kenneth Omeruo,Omeruo,single
+159,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Leon Balogun,2000000.0,False,working,False,Leon Balogun,Balogun,single
+160,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",17000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+161,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Peter Etebo,1500000.0,False,working,False,Peter Etebo,Etebo,single
+162,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,John Obi Mikel,4000000.0,False,working,False,John Obi Mikel,Obi Mikel,single
+163,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Victor Moses,11000000.0,False,Used Large Dataset,False,Victor Moses,Moses,single
+164,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Nigeria,NG,2018,SUCCESS,Kelechi Iheanacho,15000000.0,False,working,False,Kelechi Iheanacho,Iheanacho,single
+165,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+166,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Birkir Már Saevarsson,350000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+167,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+168,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+169,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+170,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+171,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",2500000.0,False,working,False,"['Aron Bjarnason', 'Arnór Smárason', 'Aron Gunnarsson']",Arnason,multiple
+172,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Aron Gunnarsson,2500000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+173,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,Rúrik Gíslason,750000.0,False,working,False,Rúrik Gíslason,Gislason,single
+174,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",15000000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+175,260,World Cup 2018,Nigeria vs Iceland,22.06.18,Iceland,IS,2018,SUCCESS,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",2000000.0,False,working,False,"['Bödvar Bödvarsson', 'Jón Dadi Bödvarsson']",Bodvarsson,multiple
+176,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Francis Uzoho,50000.0,False,working,False,Francis Uzoho,Uzoho,single
+177,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Bryan Idowu,1300000.0,False,working,False,Bryan Idowu,Idowu,single
+178,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Wilfred Ndidi,14000000.0,False,working,False,Wilfred Ndidi,Ndidi,single
+179,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,William Troost-Ekong,1000000.0,False,working,False,William Troost-Ekong,Troost-Ekong,single
+180,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Kenneth Omeruo,2000000.0,False,working,False,Kenneth Omeruo,Omeruo,single
+181,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Leon Balogun,2000000.0,False,working,False,Leon Balogun,Balogun,single
+182,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,"['Ahmed Musa', 'Abdullahi Musa']",17000000.0,False,working,False,"['Ahmed Musa', 'Abdullahi Musa']",A Musa,multiple
+183,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Peter Etebo,1500000.0,False,working,False,Peter Etebo,Etebo,single
+184,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,John Obi Mikel,4000000.0,False,working,False,John Obi Mikel,Obi Mikel,single
+185,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Victor Moses,11000000.0,False,Used Large Dataset,False,Victor Moses,Moses,single
+186,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Nigeria,NG,2018,SUCCESS,Kelechi Iheanacho,15000000.0,False,working,False,Kelechi Iheanacho,Iheanacho,single
+187,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Franco Armani,1600000.0,False,working,False,Franco Armani,Armani,single
+188,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Gabriel Mercado,5000000.0,False,working,False,Gabriel Mercado,Mercado,single
+189,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Nicolás Tagliafico,6000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+190,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Marcos Rojo,12000000.0,False,Used Large Dataset,False,Marcos Rojo,Rojo,single
+191,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Nicolás Otamendi,30000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+192,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Éver Banega,15000000.0,False,Used Large Dataset,False,Éver Banega,Banega,single
+193,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Ángel Di María,40000000.0,False,working,False,Ángel Di María,Di Maria,single
+194,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Javier Mascherano,15000000.0,False,Data Ended before season : 2018,False,Javier Mascherano,Mascherano,single
+195,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,FAIL,0,0,True,not done yet,False,0,15. Перес Эн.,cyrillic
+196,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Gonzalo Higuaín,35000000.0,False,Used Large Dataset,False,Gonzalo Higuaín,Higuain,single
+197,261,World Cup 2018,Nigeria vs Argentina,26.06.18,Argentina,AR,2018,SUCCESS,Lionel Messi,120000000.0,False,working,False,Lionel Messi,Messi,single
+198,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",350000.0,False,working,False,"['Hannes Thór Halldórsson', 'Hilmar Árni Halldórsson']",Halldórsson,multiple
+199,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Birkir Már Saevarsson,350000.0,False,working,False,Birkir Már Saevarsson,Saevarsson,single
+200,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Sverrir Ingi Ingason,5000000.0,False,working,False,Sverrir Ingi Ingason,S Ingason,single
+201,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Ragnar Sigurdsson,3500000.0,False,working,False,Ragnar Sigurdsson,R Sigurdsson,single
+202,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Hördur Magnússon,5000000.0,False,working,False,Hördur Magnússon,H Magnússon,single
+203,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",1500000.0,False,working,False,"['Birkir Bjarnason', 'Brynjar Ingi Bjarnason']",B Bjarnason,multiple
+204,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Gylfi Sigurdsson,35000000.0,False,working,False,Gylfi Sigurdsson,G Sigurdsson,single
+205,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Aron Gunnarsson,2500000.0,False,working,False,Aron Gunnarsson,A Gunnarsson,single
+206,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,Emil Hallfredsson,500000.0,False,working,False,Emil Hallfredsson,E Hallfredsson,single
+207,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",10000000.0,False,working,False,"['Jóhann Berg Gudmundsson', 'Albert Gudmundsson', 'Eggert Aron Gudmundsson']",Gudmundsson,multiple
+208,262,World Cup 2018,Iceland vs Croatia,26.06.18,Iceland,IS,2018,SUCCESS,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",15000000.0,False,working,False,"['Alfred Finnbogason', 'Kjartan Finnbogason', 'Kristján Flóki Finnbogason', 'Kristján Finnbogi Finnbogason']",Finnbogason,multiple
+209,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Lovre Kalinic,6500000.0,False,working,False,Lovre Kalinic,L Kalinić,single
+210,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Tin Jedvaj,7500000.0,False,working,False,Tin Jedvaj,Jedvaj,single
+211,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Duje Caleta-Car,15000000.0,False,working,False,Duje Caleta-Car,Caleta-Car,single
+212,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Josip Pivaric,2500000.0,False,working,False,Josip Pivaric,Pivarić,single
+213,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Vedran Corluka,7000000.0,False,Data Ended before season : 2018,False,Vedran Corluka,Corluka,single
+214,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Ivan Perisic,30000000.0,False,working,False,Ivan Perisic,I Perišić,single
+215,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Mateo Kovacic,35000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+216,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Luka Modric,20000000.0,False,working,False,Luka Modric,Modric,single
+217,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Milan Badelj,9000000.0,False,working,False,Milan Badelj,Badelj,single
+218,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Andrej Kramaric,38000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+219,262,World Cup 2018,Iceland vs Croatia,26.06.18,Croatia,HR,2018,SUCCESS,Marko Pjaca,10000000.0,False,working,False,Marko Pjaca,Pjaca,single
+220,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Keylor Navas,18000000.0,False,working,False,Keylor Navas,K Navas,single
+221,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Jhonny Acosta,250000.0,False,Data Ended before season : 2018,False,Jhonny Acosta,J Acosta,single
+222,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Giancarlo González,2000000.0,False,working,False,Giancarlo González,Gi Gonzalez,single
+223,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Óscar Duarte,2000000.0,False,working,False,Óscar Duarte,Ó Duarte,single
+224,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",1500000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+225,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Francisco Calvo,750000.0,False,working,False,Francisco Calvo,F Calvo,single
+226,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Celso Borges,5000000.0,False,working,False,Celso Borges,C Borges,single
+227,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,"['Johan Venegas', 'Jeikel Venegas']",750000.0,False,working,False,"['Johan Venegas', 'Jeikel Venegas']",Venegas,multiple
+228,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,FAIL,0,0,True,not done yet,False,0,20. Гузман,cyrillic
+229,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",2500000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+230,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Costa Rica,CR,2018,SUCCESS,Marcos Ureña,0,False,Not in either dataset for currect season but present in both seasons around match,True,Marcos Ureña,Ureña,single
+231,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,FAIL,0,0,True,not done yet,False,0,1. Стойкович,cyrillic
+232,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",30000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+233,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,FAIL,"['Branislav Ivanovic', 'Djordje Ivanovic']",0,True,Online Lookup Required,False,"['Branislav Ivanovic', 'Djordje Ivanovic']",Ivanovic,multiple
+234,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,FAIL,Dusko Tosic,0,True,Was in  DB before or after season,True,Dusko Tosic,D Tosic,single
+235,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Kolarov,8000000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+236,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Luka Milivojevic,20000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+237,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Sergej Milinkovic-Savic,65000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+238,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,"['Nemanja Matic', 'Uros Matic']",30000000.0,False,working,False,"['Nemanja Matic', 'Uros Matic']",Matic,multiple
+239,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Adem Ljajic,12000000.0,False,working,False,Adem Ljajic,Ljajic,single
+240,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+241,263,World Cup 2018,Costa Rica vs Serbia,17.06.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+242,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Alisson,16000000.0,False,working,False,Alisson,Alisson,single
+243,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Miranda,9000000.0,False,working,False,Miranda,João Miranda,single
+244,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Marcelo,7000000.0,False,Used Large Dataset,False,Marcelo,Marcelo,single
+245,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Danilo,18000000.0,False,working,False,Danilo,Danilo,single
+246,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Thiago Silva,12000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+247,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Casemiro,30000000.0,False,working,False,Casemiro,Casimiro,single
+248,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Philippe Coutinho,65000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+249,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Paulinho,20000000.0,False,working,False,Paulinho,Paulinho,single
+250,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Willian,32000000.0,False,working,False,Willian,Willian,single
+251,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Gabriel Jesus,45000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+252,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Brazil,BR,2018,SUCCESS,Neymar,150000000.0,False,working,False,Neymar,Neymar,single
+253,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+254,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Manuel Akanji,40000000.0,False,working,False,Manuel Akanji,Akanji,single
+255,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+256,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+257,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Stephan Lichtsteiner,1500000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+258,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+259,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Valon Behrami,1000000.0,False,Used Large Dataset,False,Valon Behrami,Behrami,single
+260,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Blerim Dzemaili,1000000.0,False,Used Large Dataset,False,Blerim Dzemaili,Džemaili,single
+261,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+262,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+263,264,World Cup 2018,Brazil vs Switzerland,17.06.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+264,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Alisson,16000000.0,False,working,False,Alisson,Alisson,single
+265,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Miranda,9000000.0,False,working,False,Miranda,João Miranda,single
+266,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Marcelo,7000000.0,False,Used Large Dataset,False,Marcelo,Marcelo,single
+267,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,FAIL,0,0,True,not done yet,False,0,22. Фагнер,cyrillic
+268,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Thiago Silva,12000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+269,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Casemiro,30000000.0,False,working,False,Casemiro,Casimiro,single
+270,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Philippe Coutinho,65000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+271,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Paulinho,20000000.0,False,working,False,Paulinho,Paulinho,single
+272,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Willian,32000000.0,False,working,False,Willian,Willian,single
+273,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Gabriel Jesus,45000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+274,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Brazil,BR,2018,SUCCESS,Neymar,150000000.0,False,working,False,Neymar,Neymar,single
+275,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Keylor Navas,18000000.0,False,working,False,Keylor Navas,K Navas,single
+276,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Jhonny Acosta,250000.0,False,Data Ended before season : 2018,False,Jhonny Acosta,J Acosta,single
+277,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Giancarlo González,2000000.0,False,working,False,Giancarlo González,Gi Gonzalez,single
+278,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Óscar Duarte,2000000.0,False,working,False,Óscar Duarte,Ó Duarte,single
+279,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Bryan Oviedo,2500000.0,False,working,False,Bryan Oviedo,Oviedo,single
+280,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",1500000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+281,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Celso Borges,5000000.0,False,working,False,Celso Borges,C Borges,single
+282,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,"['Johan Venegas', 'Jeikel Venegas']",750000.0,False,working,False,"['Johan Venegas', 'Jeikel Venegas']",Venegas,multiple
+283,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,FAIL,0,0,True,not done yet,False,0,20. Гузман,cyrillic
+284,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",2500000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+285,265,World Cup 2018,Brazil vs Costa Rica,22.06.18,Costa Rica,CR,2018,SUCCESS,Marcos Ureña,0,False,Not in either dataset for currect season but present in both seasons around match,True,Marcos Ureña,Ureña,single
+286,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,FAIL,0,0,True,not done yet,False,0,1. Стойкович,cyrillic
+287,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",30000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+288,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,FAIL,"['Branislav Ivanovic', 'Djordje Ivanovic']",0,True,Was in  DB before or after season,True,"['Branislav Ivanovic', 'Djordje Ivanovic']",Ivanovic,multiple
+289,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,FAIL,Dusko Tosic,0,True,Was in  DB before or after season,True,Dusko Tosic,D Tosic,single
+290,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Kolarov,8000000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+291,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Luka Milivojevic,20000000.0,False,working,False,Luka Milivojevic,Milivojevic,single
+292,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Sergej Milinkovic-Savic,65000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+293,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,"['Nemanja Matic', 'Uros Matic']",30000000.0,False,working,False,"['Nemanja Matic', 'Uros Matic']",Matic,multiple
+294,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+295,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+296,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Serbia,RS,2018,SUCCESS,Filip Kostic,22000000.0,False,working,False,Filip Kostic,F Kostic,single
+297,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+298,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Manuel Akanji,40000000.0,False,working,False,Manuel Akanji,Akanji,single
+299,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+300,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+301,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Stephan Lichtsteiner,1500000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+302,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+303,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Valon Behrami,1000000.0,False,Used Large Dataset,False,Valon Behrami,Behrami,single
+304,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Blerim Dzemaili,1000000.0,False,Used Large Dataset,False,Blerim Dzemaili,Džemaili,single
+305,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+306,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Haris Seferovic,18000000.0,False,working,False,Haris Seferovic,Seferovic,single
+307,266,World Cup 2018,Serbia vs Switzerland,22.06.18,Switzerland,CH,2018,SUCCESS,Steven Zuber,7000000.0,False,working,False,Steven Zuber,Zuber,single
+308,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,FAIL,0,0,True,not done yet,False,0,1. Стойкович,cyrillic
+309,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Antonio Rukavina,800000.0,False,working,False,Antonio Rukavina,Rukavina,single
+310,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Milos Veljkovic,8000000.0,False,working,False,Milos Veljkovic,Veljkovic,single
+311,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",30000000.0,False,working,False,"['Nikola Milenkovic', 'Milos Veljkovic', 'Milan Pavkov']",Milenković,multiple
+312,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Kolarov,8000000.0,False,working,False,Aleksandar Kolarov,Kolarov,single
+313,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Sergej Milinkovic-Savic,65000000.0,False,working,False,Sergej Milinkovic-Savic,S Milinković-Savić,single
+314,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,"['Nemanja Matic', 'Uros Matic']",30000000.0,False,working,False,"['Nemanja Matic', 'Uros Matic']",Matic,multiple
+315,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Adem Ljajic,12000000.0,False,working,False,Adem Ljajic,Ljajic,single
+316,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Aleksandar Mitrovic,25000000.0,False,working,False,Aleksandar Mitrovic,A Mitrovic,single
+317,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Dusan Tadic,25000000.0,False,working,False,Dusan Tadic,Du Tadic,single
+318,267,World Cup 2018,Serbia vs Brazil,27.06.18,Serbia,RS,2018,SUCCESS,Filip Kostic,22000000.0,False,working,False,Filip Kostic,F Kostic,single
+319,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Alisson,16000000.0,False,working,False,Alisson,Alisson,single
+320,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Miranda,9000000.0,False,working,False,Miranda,João Miranda,single
+321,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Marcelo,7000000.0,False,Used Large Dataset,False,Marcelo,Marcelo,single
+322,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,FAIL,0,0,True,not done yet,False,0,22. Фагнер,cyrillic
+323,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Thiago Silva,12000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+324,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Casemiro,30000000.0,False,working,False,Casemiro,Casimiro,single
+325,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Philippe Coutinho,65000000.0,False,working,False,Philippe Coutinho,Coutinho,single
+326,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Paulinho,20000000.0,False,working,False,Paulinho,Paulinho,single
+327,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Willian,32000000.0,False,working,False,Willian,Willian,single
+328,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Gabriel Jesus,45000000.0,False,working,False,Gabriel Jesus,Gabriel Jesus,single
+329,267,World Cup 2018,Serbia vs Brazil,27.06.18,Brazil,BR,2018,SUCCESS,Neymar,150000000.0,False,working,False,Neymar,Neymar,single
+330,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Yann Sommer,12000000.0,False,working,False,Yann Sommer,Sommer,single
+331,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Manuel Akanji,40000000.0,False,working,False,Manuel Akanji,Akanji,single
+332,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Ricardo Rodríguez,17000000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+333,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Fabian Schär,8000000.0,False,working,False,Fabian Schär,Schär,single
+334,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Stephan Lichtsteiner,1500000.0,False,working,False,Stephan Lichtsteiner,Lichtsteiner,single
+335,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Granit Xhaka,45000000.0,False,working,False,Granit Xhaka,Xhaka,single
+336,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Valon Behrami,1000000.0,False,Used Large Dataset,False,Valon Behrami,Behrami,single
+337,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Blerim Dzemaili,1000000.0,False,Used Large Dataset,False,Blerim Dzemaili,Džemaili,single
+338,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Xherdan Shaqiri,25000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+339,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Breel Embolo,14000000.0,False,working,False,Breel Embolo,Embolo,single
+340,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Switzerland,CH,2018,SUCCESS,Mario Gavranovic,3000000.0,False,working,False,Mario Gavranovic,Gavranović,single
+341,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Keylor Navas,18000000.0,False,working,False,Keylor Navas,K Navas,single
+342,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Jhonny Acosta,250000.0,False,Data Ended before season : 2018,False,Jhonny Acosta,J Acosta,single
+343,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Giancarlo González,2000000.0,False,working,False,Giancarlo González,Gi Gonzalez,single
+344,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Bryan Oviedo,2500000.0,False,working,False,Bryan Oviedo,Oviedo,single
+345,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,"['Cristian Gamboa', 'Alexis Gamboa']",1500000.0,False,working,False,"['Cristian Gamboa', 'Alexis Gamboa']",Gamboa,multiple
+346,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Kendall Waston,850000.0,False,working,False,Kendall Waston,Waston,single
+347,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Celso Borges,5000000.0,False,working,False,Celso Borges,C Borges,single
+348,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Daniel Colindres,300000.0,False,working,False,Daniel Colindres,Colindres,single
+349,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,FAIL,0,0,True,not done yet,False,0,20. Гузман,cyrillic
+350,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",2500000.0,False,working,False,"['Bryan Ruiz', 'John Jairo Ruiz', 'Yendrick Ruiz']",Ruiz,multiple
+351,268,World Cup 2018,Switzerland vs Costa Rica,27.06.18,Costa Rica,CR,2018,SUCCESS,Joel Campbell,6000000.0,False,working,False,Joel Campbell,Campbell,single
+352,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+353,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Marvin Plattenhardt,10000000.0,False,Used Large Dataset,False,Marvin Plattenhardt,Plattenhardt,single
+354,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+355,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Jérôme Boateng,20000000.0,False,working,False,Jérôme Boateng,Boateng,single
+356,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Julian Draxler,35000000.0,False,working,False,Julian Draxler,Draxler,single
+357,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+358,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+359,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Sami Khedira,7000000.0,False,Used Large Dataset,False,Sami Khedira,Khedira,single
+360,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Mesut Özil,25000000.0,False,Used Large Dataset,False,Mesut Özil,Özil,single
+361,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+362,269,World Cup 2018,Germany vs Mexico,17.06.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+363,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",3000000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+364,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Hugo Ayala,2500000.0,False,working,False,Hugo Ayala,Ayala,single
+365,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Carlos Salcedo,4000000.0,False,working,False,Carlos Salcedo,Salcedo,single
+366,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Miguel Layún,6000000.0,False,working,False,Miguel Layún,Layun,single
+367,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Héctor Moreno,5000000.0,False,working,False,Héctor Moreno,H Moreno,single
+368,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Héctor Herrera,22000000.0,False,Used Large Dataset,False,Héctor Herrera,Hec Herrera,single
+369,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Andrés Guardado,6000000.0,False,working,False,Andrés Guardado,Guardado,single
+370,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,"['Hirving Lozano', 'Adrián Lozano']",15000000.0,False,working,False,"['Hirving Lozano', 'Adrián Lozano']",Lozano,multiple
+371,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Jesús Gallardo,2300000.0,False,working,False,Jesús Gallardo,Gallardo,single
+372,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Carlos Vela,15000000.0,False,Data Ended before season : 2018,False,Carlos Vela,Vela,single
+373,269,World Cup 2018,Germany vs Mexico,17.06.18,Mexico,MX,2018,SUCCESS,Javier Güemez,1200000.0,False,working,False,Javier Güemez,Javier Hernandez,single
+374,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Robin Olsen,7500000.0,False,working,False,Robin Olsen,R Olsen,single
+375,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Mikael Lustig,2750000.0,False,working,False,Mikael Lustig,Lustig,single
+376,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Andreas Granqvist,1500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+377,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",12000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+378,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,"['Oscar Jansson', 'Pontus Jansson', 'Robin Jansson']",6000000.0,False,working,False,"['Oscar Jansson', 'Pontus Jansson', 'Robin Jansson']",Jansson,multiple
+379,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",1300000.0,False,working,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+380,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",5000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+381,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Emil Forsberg,25000000.0,False,working,False,Emil Forsberg,Forsberg,single
+382,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Viktor Claesson,18000000.0,False,working,False,Viktor Claesson,Claesson,single
+383,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Marcus Berg,3500000.0,False,working,False,Marcus Berg,M Berg,single
+384,270,World Cup 2018,Sweden vs South Korea,18.06.18,Sweden,SE,2018,SUCCESS,Ola Toivonen,2500000.0,False,Data Ended before season : 2018,False,Ola Toivonen,Toivonen,single
+385,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Hyeon-woo Jo,500000.0,False,working,False,Hyeon-woo Jo,Jo Hyeonwoo,single
+386,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,"['Yong Lee', 'Yong-jae Lee']",500000.0,False,working,False,"['Yong Lee', 'Yong-jae Lee']",Lee Yong,multiple
+387,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Park Jooho,none
+388,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Young-gwon Kim,700000.0,False,working,False,Young-gwon Kim,Kim Younggwon,single
+389,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Jang Hyunsoo,none
+390,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Ja-cheol Koo,3500000.0,False,working,False,Ja-cheol Koo,Koo Jacheol,single
+391,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,"['Sung-yueng Ki', 'Sung-yun Gu']",7000000.0,False,working,False,"['Sung-yueng Ki', 'Sung-yun Gu']",Ki Sungyueng,multiple
+392,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Jae-sung Lee,2000000.0,False,working,False,Jae-sung Lee,Lee Jae-sung,single
+393,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Heung-min Son,30000000.0,False,working,False,Heung-min Son,Son Heungmin,single
+394,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Shin-wook Kim,0,False,Not in either dataset for currect season but present in both seasons around match,True,Shin-wook Kim,Kim Shinwook,single
+395,270,World Cup 2018,Sweden vs South Korea,18.06.18,South Korea,KR,2018,SUCCESS,Hee-chan Hwang,4000000.0,False,working,False,Hee-chan Hwang,H Hwang,single
+396,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Hyeon-woo Jo,500000.0,False,working,False,Hyeon-woo Jo,Jo Hyeonwoo,single
+397,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,"['Yong Lee', 'Yong-jae Lee']",500000.0,False,working,False,"['Yong Lee', 'Yong-jae Lee']",Lee Yong,multiple
+398,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Kim Minwoo,none
+399,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Young-gwon Kim,700000.0,False,working,False,Young-gwon Kim,Kim Younggwon,single
+400,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Jang Hyunsoo,none
+401,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Ju-hun Song,150000.0,False,Data Ended before season : 2018,False,Ju-hun Song,Ju Sejong,single
+402,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,"['Sung-yueng Ki', 'Sung-yun Gu']",7000000.0,False,working,False,"['Sung-yueng Ki', 'Sung-yun Gu']",Ki Sungyueng,multiple
+403,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Jae-sung Lee,2000000.0,False,working,False,Jae-sung Lee,Lee Jae-sung,single
+404,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Moon Seonmin,none
+405,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Heung-min Son,30000000.0,False,working,False,Heung-min Son,Son Heungmin,single
+406,271,World Cup 2018,South Korea vs Mexico,23.06.18,South Korea,KR,2018,SUCCESS,Hee-chan Hwang,4000000.0,False,working,False,Hee-chan Hwang,H Hwang,single
+407,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",3000000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+408,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Carlos Salcedo,4000000.0,False,working,False,Carlos Salcedo,Salcedo,single
+409,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Miguel Layún,6000000.0,False,working,False,Miguel Layún,Layun,single
+410,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Héctor Moreno,5000000.0,False,working,False,Héctor Moreno,H Moreno,single
+411,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Edson Álvarez,1000000.0,False,working,False,Edson Álvarez,Ed Alvarez,single
+412,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Héctor Herrera,22000000.0,False,Used Large Dataset,False,Héctor Herrera,Hec Herrera,single
+413,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Andrés Guardado,6000000.0,False,working,False,Andrés Guardado,Guardado,single
+414,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,"['Hirving Lozano', 'Adrián Lozano']",15000000.0,False,working,False,"['Hirving Lozano', 'Adrián Lozano']",Lozano,multiple
+415,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Jesús Gallardo,2300000.0,False,working,False,Jesús Gallardo,Gallardo,single
+416,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Carlos Vela,15000000.0,False,Data Ended before season : 2018,False,Carlos Vela,Vela,single
+417,271,World Cup 2018,South Korea vs Mexico,23.06.18,Mexico,MX,2018,SUCCESS,Javier Güemez,1200000.0,False,working,False,Javier Güemez,Javier Hernandez,single
+418,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+419,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Jonas Hector,10000000.0,False,working,False,Jonas Hector,Hector,single
+420,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Antonio Rüdiger,50000000.0,False,working,False,Antonio Rüdiger,Rudiger,single
+421,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Jérôme Boateng,20000000.0,False,working,False,Jérôme Boateng,Boateng,single
+422,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Sebastian Rudy,9000000.0,False,working,False,Sebastian Rudy,S Rudy,single
+423,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Julian Draxler,35000000.0,False,working,False,Julian Draxler,Draxler,single
+424,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+425,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+426,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Thomas Müller,35000000.0,False,working,False,Thomas Müller,Muller,single
+427,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+428,272,World Cup 2018,Germany vs Sweden,23.06.18,Germany,DE,2018,SUCCESS,Marco Reus,50000000.0,False,working,False,Marco Reus,Reus,single
+429,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Robin Olsen,7500000.0,False,working,False,Robin Olsen,R Olsen,single
+430,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Mikael Lustig,2750000.0,False,working,False,Mikael Lustig,Lustig,single
+431,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Victor Lindelöf,35000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+432,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Andreas Granqvist,1500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+433,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",12000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+434,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",1300000.0,False,working,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+435,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",5000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+436,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Emil Forsberg,25000000.0,False,working,False,Emil Forsberg,Forsberg,single
+437,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Viktor Claesson,18000000.0,False,working,False,Viktor Claesson,Claesson,single
+438,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Marcus Berg,3500000.0,False,working,False,Marcus Berg,M Berg,single
+439,272,World Cup 2018,Germany vs Sweden,23.06.18,Sweden,SE,2018,SUCCESS,Ola Toivonen,2500000.0,False,Data Ended before season : 2018,False,Ola Toivonen,Toivonen,single
+440,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Hyeon-woo Jo,500000.0,False,working,False,Hyeon-woo Jo,Jo Hyeonwoo,single
+441,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,"['Yong Lee', 'Yong-jae Lee']",500000.0,False,working,False,"['Yong Lee', 'Yong-jae Lee']",Lee Yong,multiple
+442,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Young-sun Yun,400000.0,False,working,False,Young-sun Yun,Yun Youngsun,single
+443,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Chul Hong,750000.0,False,working,False,Chul Hong,Hong Chul,single
+444,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Young-gwon Kim,700000.0,False,working,False,Young-gwon Kim,Kim Younggwon,single
+445,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Jang Hyunsoo,none
+446,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Ja-cheol Koo,3500000.0,False,working,False,Ja-cheol Koo,Koo Jacheol,single
+447,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Jung Wooyoung,none
+448,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Jae-sung Lee,2000000.0,False,working,False,Jae-sung Lee,Lee Jae-sung,single
+449,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,FAIL,0,0,True,Lookup Required,False,0,Moon Seonmin,none
+450,273,World Cup 2018,South Korea vs Germany,27.06.18,South Korea,KR,2018,SUCCESS,Heung-min Son,30000000.0,False,working,False,Heung-min Son,Son Heungmin,single
+451,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Manuel Neuer,18000000.0,False,working,False,Manuel Neuer,Neuer,single
+452,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Jonas Hector,10000000.0,False,working,False,Jonas Hector,Hector,single
+453,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Mats Hummels,35000000.0,False,working,False,Mats Hummels,Hummels,single
+454,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Niklas Süle,60000000.0,False,working,False,Niklas Süle,Süle,single
+455,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Toni Kroos,60000000.0,False,working,False,Toni Kroos,Kroos,single
+456,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Leon Goretzka,50000000.0,False,working,False,Leon Goretzka,Goretzka,single
+457,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Joshua Kimmich,70000000.0,False,working,False,Joshua Kimmich,Kimmich,single
+458,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Sami Khedira,7000000.0,False,Used Large Dataset,False,Sami Khedira,Khedira,single
+459,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Mesut Özil,25000000.0,False,Used Large Dataset,False,Mesut Özil,Özil,single
+460,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Timo Werner,65000000.0,False,working,False,Timo Werner,Werner,single
+461,273,World Cup 2018,South Korea vs Germany,27.06.18,Germany,DE,2018,SUCCESS,Marco Reus,50000000.0,False,working,False,Marco Reus,Reus,single
+462,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,"['Guillermo Ochoa', 'David Ochoa']",3000000.0,False,working,False,"['Guillermo Ochoa', 'David Ochoa']",Ochoa,multiple
+463,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Carlos Salcedo,4000000.0,False,working,False,Carlos Salcedo,Salcedo,single
+464,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Miguel Layún,6000000.0,False,working,False,Miguel Layún,Layun,single
+465,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Héctor Moreno,5000000.0,False,working,False,Héctor Moreno,H Moreno,single
+466,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Edson Álvarez,1000000.0,False,working,False,Edson Álvarez,Ed Alvarez,single
+467,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Héctor Herrera,22000000.0,False,Used Large Dataset,False,Héctor Herrera,Hec Herrera,single
+468,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Andrés Guardado,6000000.0,False,working,False,Andrés Guardado,Guardado,single
+469,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,"['Hirving Lozano', 'Adrián Lozano']",15000000.0,False,working,False,"['Hirving Lozano', 'Adrián Lozano']",Lozano,multiple
+470,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Jesús Gallardo,2300000.0,False,working,False,Jesús Gallardo,Gallardo,single
+471,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Carlos Vela,15000000.0,False,Data Ended before season : 2018,False,Carlos Vela,Vela,single
+472,274,World Cup 2018,Mexico vs Sweden,27.06.18,Mexico,MX,2018,SUCCESS,Javier Güemez,1200000.0,False,working,False,Javier Güemez,Javier Hernandez,single
+473,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Robin Olsen,7500000.0,False,working,False,Robin Olsen,R Olsen,single
+474,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Mikael Lustig,2750000.0,False,working,False,Mikael Lustig,Lustig,single
+475,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Victor Lindelöf,35000000.0,False,working,False,Victor Lindelöf,Lindelöf,single
+476,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Andreas Granqvist,1500000.0,False,working,False,Andreas Granqvist,Granqvist,single
+477,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",12000000.0,False,working,False,"['Ludwig Augustinsson', 'Jonathan Augustinsson']",Augustinsson,multiple
+478,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,"['Sebastian Larsson', 'Sam Larsson']",1300000.0,False,working,False,"['Sebastian Larsson', 'Sam Larsson']",S Larsson,multiple
+479,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,"['Albin Ekdal', 'Hjalmar Ekdal']",5000000.0,False,working,False,"['Albin Ekdal', 'Hjalmar Ekdal']",Ekdal,multiple
+480,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Emil Forsberg,25000000.0,False,working,False,Emil Forsberg,Forsberg,single
+481,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Viktor Claesson,18000000.0,False,working,False,Viktor Claesson,Claesson,single
+482,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Marcus Berg,3500000.0,False,working,False,Marcus Berg,M Berg,single
+483,274,World Cup 2018,Mexico vs Sweden,27.06.18,Sweden,SE,2018,SUCCESS,Ola Toivonen,2500000.0,False,Data Ended before season : 2018,False,Ola Toivonen,Toivonen,single
+484,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+485,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+486,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Jan Vertonghen,28000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+487,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+488,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Dedryck Boyata,2000000.0,False,working,False,Dedryck Boyata,Boyata,single
+489,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+490,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Kevin De Bruyne,130000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+491,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Yannick Carrasco,20000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+492,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+493,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,FAIL,"['Eden Hazard', 'Thorgan Hazard']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Eden Hazard', 'Thorgan Hazard']",False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+494,275,World Cup 2018,Belgium vs Panama,18.06.18,Belgium,BE,2018,SUCCESS,Romelu Lukaku,75000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+495,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Jaime Penedo,200000.0,False,Data Ended before season : 2018,False,Jaime Penedo,Penedo,single
+496,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,"['Amir Murillo', 'Hécgar Murillo', 'José Murillo']",500000.0,False,working,False,"['Amir Murillo', 'Hécgar Murillo', 'José Murillo']",Murillo,multiple
+497,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Fidel Escobar,175000.0,False,working,False,Fidel Escobar,F Escobar,single
+498,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Román Torres,650000.0,False,working,False,Román Torres,Rom Torres,single
+499,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Éric Davis,425000.0,False,working,False,Éric Davis,E Davis,single
+500,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Gabriel Gómez,450000.0,False,Data Ended before season : 2018,False,Gabriel Gómez,G Gomez,single
+501,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Bárcenas,single
+502,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Armando Cooper,450000.0,False,working,False,Armando Cooper,Cooper,single
+503,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Aníbal Godoy,750000.0,False,working,False,Aníbal Godoy,Godoy,single
+504,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,FAIL,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",False,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",Luis Puma Rodríguez,multiple
+505,275,World Cup 2018,Belgium vs Panama,18.06.18,Panama,PA,2018,SUCCESS,Blas Pérez,500000.0,False,Data Ended before season : 2018,False,Blas Pérez,B Perez,single
+506,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,"['Hazem Haj-Hassen', 'Mouez Hassen']",1000000.0,False,working,False,"['Hazem Haj-Hassen', 'Mouez Hassen']",Hassen,multiple
+507,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,FAIL,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",False,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",Ben Youssef,multiple
+508,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Yassine Meriah,650000.0,False,working,False,Yassine Meriah,Meriah,single
+509,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Dylan Bronn,1000000.0,False,working,False,Dylan Bronn,Bronn,single
+510,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,12. Маалул,cyrillic
+511,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,FAIL,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",False,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",Ben Youssef,multiple
+512,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,Khazri,single
+513,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,13. Сасси А.,cyrillic
+514,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Ellyes Skhiri,4000000.0,False,working,False,Ellyes Skhiri,Skhiri,single
+515,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Naïm Sliti,1750000.0,False,working,False,Naïm Sliti,Sliti,single
+516,276,World Cup 2018,Tunisia vs England,18.06.18,Tunisia,TN,2018,SUCCESS,Anice Badri,900000.0,False,working,False,Anice Badri,Badri,single
+517,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Jordan Pickford,40000000.0,False,working,False,Jordan Pickford,Pickford,single
+518,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Kyle Walker,50000000.0,False,working,False,Kyle Walker,Walker,single
+519,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,John Stones,60000000.0,False,working,False,John Stones,Stones,single
+520,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Harry Maguire,50000000.0,False,working,False,Harry Maguire,Maguire,single
+521,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Kieran Trippier,35000000.0,False,working,False,Kieran Trippier,Trippier,single
+522,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,"['Jordan Henderson', 'Dean Henderson']",35000000.0,False,working,False,"['Jordan Henderson', 'Dean Henderson']",Henderson,multiple
+523,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Raheem Sterling,140000000.0,False,working,False,Raheem Sterling,Sterling,single
+524,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Ashley Young,5000000.0,False,Used Large Dataset,False,Ashley Young,Young,single
+525,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Dele Alli,90000000.0,False,working,False,Dele Alli,Alli,single
+526,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Jesse Lingard,40000000.0,False,working,False,Jesse Lingard,Lingard,single
+527,276,World Cup 2018,Tunisia vs England,18.06.18,England,EN,2018,SUCCESS,Harry Kane,150000000.0,False,working,False,Harry Kane,Kane,single
+528,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+529,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Toby Alderweireld,40000000.0,False,working,False,Toby Alderweireld,Alderweireld,single
+530,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Jan Vertonghen,28000000.0,False,working,False,Jan Vertonghen,Vertonghen,single
+531,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Thomas Meunier,30000000.0,False,working,False,Thomas Meunier,Meunier,single
+532,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Dedryck Boyata,2000000.0,False,working,False,Dedryck Boyata,Boyata,single
+533,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Axel Witsel,32000000.0,False,working,False,Axel Witsel,Witsel,single
+534,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Kevin De Bruyne,130000000.0,False,working,False,Kevin De Bruyne,De Bruyne,single
+535,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Yannick Carrasco,20000000.0,False,working,False,Yannick Carrasco,Carrasco,single
+536,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Dries Mertens,25000000.0,False,working,False,Dries Mertens,D Mertens,single
+537,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,FAIL,"['Eden Hazard', 'Thorgan Hazard']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Eden Hazard', 'Thorgan Hazard']]",False,"['Eden Hazard', 'Thorgan Hazard']",Hazard,multiple
+538,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Belgium,BE,2018,SUCCESS,Romelu Lukaku,75000000.0,False,working,False,Romelu Lukaku,R Lukaku,single
+539,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Farouk Ben Mustapha,775000.0,False,working,False,Farouk Ben Mustapha,Ben Mustapha,single
+540,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,FAIL,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Syam Ben Youssef', 'Fakhreddine Ben Youssef']]",False,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",Ben Youssef,multiple
+541,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Yassine Meriah,650000.0,False,working,False,Yassine Meriah,Meriah,single
+542,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Dylan Bronn,1000000.0,False,working,False,Dylan Bronn,Bronn,single
+543,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,12. Маалул,cyrillic
+544,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Saîf-Eddine Khaoui,800000.0,False,working,False,Saîf-Eddine Khaoui,Khaoui,single
+545,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,FAIL,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Syam Ben Youssef', 'Fakhreddine Ben Youssef']]",False,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",Ben Youssef,multiple
+546,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,Khazri,single
+547,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,13. Сасси А.,cyrillic
+548,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Ellyes Skhiri,4000000.0,False,working,False,Ellyes Skhiri,Skhiri,single
+549,277,World Cup 2018,Belgium vs Tunisia,23.06.18,Tunisia,TN,2018,SUCCESS,Anice Badri,900000.0,False,working,False,Anice Badri,Badri,single
+550,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Jordan Pickford,40000000.0,False,working,False,Jordan Pickford,Pickford,single
+551,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Kyle Walker,50000000.0,False,working,False,Kyle Walker,Walker,single
+552,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,John Stones,60000000.0,False,working,False,John Stones,Stones,single
+553,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Harry Maguire,50000000.0,False,working,False,Harry Maguire,Maguire,single
+554,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Kieran Trippier,35000000.0,False,working,False,Kieran Trippier,Trippier,single
+555,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,"['Jordan Henderson', 'Dean Henderson']",35000000.0,False,working,False,"['Jordan Henderson', 'Dean Henderson']",Henderson,multiple
+556,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Raheem Sterling,140000000.0,False,working,False,Raheem Sterling,Sterling,single
+557,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Ashley Young,5000000.0,False,Used Large Dataset,False,Ashley Young,Young,single
+558,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Ruben Loftus-Cheek,30000000.0,False,working,False,Ruben Loftus-Cheek,Loftus-Cheek,single
+559,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Jesse Lingard,40000000.0,False,working,False,Jesse Lingard,Lingard,single
+560,278,World Cup 2018,England vs Panama,24.06.18,England,EN,2018,SUCCESS,Harry Kane,150000000.0,False,working,False,Harry Kane,Kane,single
+561,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Jaime Penedo,200000.0,False,Data Ended before season : 2018,False,Jaime Penedo,Penedo,single
+562,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,"['Amir Murillo', 'Hécgar Murillo', 'José Murillo']",500000.0,False,working,False,"['Amir Murillo', 'Hécgar Murillo', 'José Murillo']",Murillo,multiple
+563,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Fidel Escobar,175000.0,False,working,False,Fidel Escobar,F Escobar,single
+564,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Román Torres,650000.0,False,working,False,Román Torres,Rom Torres,single
+565,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Éric Davis,425000.0,False,working,False,Éric Davis,E Davis,single
+566,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Gabriel Gómez,450000.0,False,Data Ended before season : 2018,False,Gabriel Gómez,G Gomez,single
+567,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Bárcenas,single
+568,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Armando Cooper,450000.0,False,working,False,Armando Cooper,Cooper,single
+569,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Aníbal Godoy,750000.0,False,working,False,Aníbal Godoy,Godoy,single
+570,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,FAIL,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",False,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",Luis Puma Rodríguez,multiple
+571,278,World Cup 2018,England vs Panama,24.06.18,Panama,PA,2018,SUCCESS,Blas Pérez,500000.0,False,Data Ended before season : 2018,False,Blas Pérez,B Perez,single
+572,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Jordan Pickford,40000000.0,False,working,False,Jordan Pickford,Pickford,single
+573,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Eric Dier,40000000.0,False,working,False,Eric Dier,Dier,single
+574,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,John Stones,60000000.0,False,working,False,John Stones,Stones,single
+575,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Gary Cahill,8000000.0,False,Used Large Dataset,False,Gary Cahill,Cahill,single
+576,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Phil Jones,20000000.0,False,Used Large Dataset,False,Phil Jones,P Jones,single
+577,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Danny Rose,25000000.0,False,working,False,Danny Rose,Rose,single
+578,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Fabian Delph,15000000.0,False,working,False,Fabian Delph,Delph,single
+579,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Ruben Loftus-Cheek,30000000.0,False,working,False,Ruben Loftus-Cheek,Loftus-Cheek,single
+580,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Trent Alexander-Arnold,80000000.0,False,working,False,Trent Alexander-Arnold,Alexander-Arnold,single
+581,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Jamie Vardy,20000000.0,False,Used Large Dataset,False,Jamie Vardy,Vardy,single
+582,279,World Cup 2018,England vs Belgium,28.06.18,England,EN,2018,SUCCESS,Marcus Rashford,80000000.0,False,working,False,Marcus Rashford,Rashford,single
+583,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Thibaut Courtois,55000000.0,False,working,False,Thibaut Courtois,Courtois,single
+584,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Thomas Vermaelen,2500000.0,False,working,False,Thomas Vermaelen,Vermaelen,single
+585,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Dedryck Boyata,2000000.0,False,working,False,Dedryck Boyata,Boyata,single
+586,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Leander Dendoncker,18000000.0,False,working,False,Leander Dendoncker,Dendoncker,single
+587,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Marouane Fellaini,12000000.0,False,working,False,Marouane Fellaini,Fellaini,single
+588,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Thorgan Hazard,38000000.0,False,working,False,Thorgan Hazard,T Hazard,single
+589,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Youri Tielemans,38000000.0,False,working,False,Youri Tielemans,Tielemans,single
+590,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Adnan Januzaj,15000000.0,False,working,False,Adnan Januzaj,Januzaj,single
+591,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Mousa Dembélé,12000000.0,False,working,False,Mousa Dembélé,Dembele,single
+592,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Michy Batshuayi,30000000.0,False,working,False,Michy Batshuayi,Batshuayi,single
+593,279,World Cup 2018,England vs Belgium,28.06.18,Belgium,BE,2018,SUCCESS,Nacer Chadli,8000000.0,False,working,False,Nacer Chadli,Chadli,single
+594,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Jaime Penedo,200000.0,False,Data Ended before season : 2018,False,Jaime Penedo,Penedo,single
+595,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Fidel Escobar,175000.0,False,working,False,Fidel Escobar,F Escobar,single
+596,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Román Torres,650000.0,False,working,False,Román Torres,Rom Torres,single
+597,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Adolfo Machado,450000.0,False,working,False,Adolfo Machado,Machado,single
+598,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Luis Ovalle,500000.0,False,working,False,Luis Ovalle,Ovalle,single
+599,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Gabriel Gómez,450000.0,False,Data Ended before season : 2018,False,Gabriel Gómez,G Gomez,single
+600,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Yoel Bárcenas,100000.0,False,working,False,Yoel Bárcenas,Bárcenas,single
+601,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Alberto Quintero,500000.0,False,working,False,Alberto Quintero,A Quintero,single
+602,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Aníbal Godoy,750000.0,False,working,False,Aníbal Godoy,Godoy,single
+603,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,FAIL,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",0,True,"FILTERING USING MATCH DATE LEFT 0 RESULTS. BEFORE FILTERING, CANDIDATE NAMES WERE ['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",False,"['Jhamal Rodríguez', 'Tomás Rodríguez', 'Carlos Rodríguez']",Luis Puma Rodríguez,multiple
+604,280,World Cup 2018,Panama vs Tunisia,28.06.18,Panama,PA,2018,SUCCESS,Gaby Torres,750000.0,False,working,False,Gaby Torres,G Torres,single
+605,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,16. Матиути,cyrillic
+606,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Yassine Meriah,650000.0,False,working,False,Yassine Meriah,Meriah,single
+607,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Oussama Haddadi,700000.0,False,working,False,Oussama Haddadi,Haddadi,single
+608,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Rami Bedoui,600000.0,False,working,False,Rami Bedoui,Bedoui,single
+609,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,21. Наггез,cyrillic
+610,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,FAIL,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Syam Ben Youssef', 'Fakhreddine Ben Youssef']]",False,"['Syam Ben Youssef', 'Fakhreddine Ben Youssef']",Ben Youssef,multiple
+611,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Wahbi Khazri,7000000.0,False,working,False,Wahbi Khazri,Khazri,single
+612,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,FAIL,0,0,True,not done yet,False,0,13. Сасси А.,cyrillic
+613,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Ellyes Skhiri,4000000.0,False,working,False,Ellyes Skhiri,Skhiri,single
+614,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Ghaylen Chaalali,750000.0,False,working,False,Ghaylen Chaalali,Chaalali,single
+615,280,World Cup 2018,Panama vs Tunisia,28.06.18,Tunisia,TN,2018,SUCCESS,Naïm Sliti,1750000.0,False,working,False,Naïm Sliti,Sliti,single
+616,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,David Ospina,7000000.0,False,working,False,David Ospina,Ospina,single
+617,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Óscar Murillo,2500000.0,False,working,False,Óscar Murillo,Murillo Oscar,single
+618,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",28000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+619,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Johan Mojica,3000000.0,False,Used Large Dataset,False,Johan Mojica,Mojica,single
+620,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Davinson Sánchez,25000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+621,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Santiago Arias,8000000.0,False,working,False,Santiago Arias,S Arias,single
+622,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Carlos Sánchez,2000000.0,False,working,False,Carlos Sánchez,C Sánchez,single
+623,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Jefferson Lerma,1500000.0,False,working,False,Jefferson Lerma,Lerma,single
+624,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,"['Juan Fernando Quintero', 'Juan Quintero']",3500000.0,False,working,False,"['Juan Fernando Quintero', 'Juan Quintero']",Ju Quintero,multiple
+625,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,Radamel Falcao,15000000.0,False,working,False,Radamel Falcao,Falcao,single
+626,281,World Cup 2018,Colombia vs Japan,19.06.18,Colombia,CO,2018,SUCCESS,José Izquierdo,10000000.0,False,Used Large Dataset,False,José Izquierdo,Izquierdo,single
+627,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Eiji Kawashima,250000.0,False,working,False,Eiji Kawashima,Kawashima,single
+628,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,0,Shōji,none
+629,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Yuto Nagatomo,3500000.0,False,working,False,Yuto Nagatomo,Nagatomo,single
+630,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Hiroki Sakai,2500000.0,False,working,False,Hiroki Sakai,H Sakai,single
+631,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Maya Yoshida,5000000.0,False,working,False,Maya Yoshida,Yoshida,single
+632,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Gaku Shibasaki,2000000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+633,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Shinji Kagawa,13000000.0,False,working,False,Shinji Kagawa,Kagawa,single
+634,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Takashi Inui,3000000.0,False,working,False,Takashi Inui,Inui,single
+635,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Makoto Hasebe,1000000.0,False,Used Large Dataset,False,Makoto Hasebe,Hasebe,single
+636,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Genki Haraguchi,1750000.0,False,working,False,Genki Haraguchi,Haraguchi,single
+637,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,Yuya Osako,4500000.0,False,working,False,Yuya Osako,Y Osako,single
+638,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+639,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Michal Pazdan,1000000.0,False,working,False,Michal Pazdan,Pazdan,single
+640,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Thiago Cionek,800000.0,False,working,False,Thiago Cionek,Cionek,single
+641,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+642,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Maciej Rybus,3000000.0,False,working,False,Maciej Rybus,Rybus,single
+643,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Jakub Blaszczykowski,1000000.0,False,working,False,Jakub Blaszczykowski,Blaszczykowski,single
+644,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+645,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Lukasz Piszczek,3000000.0,False,working,False,Lukasz Piszczek,Piszczek,single
+646,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Arkadiusz Milik,40000000.0,False,working,False,Arkadiusz Milik,Milik,single
+647,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+648,282,World Cup 2018,Poland vs Senegal,19.06.18,Poland,PL,2018,SUCCESS,Kamil Grosicki,4000000.0,False,working,False,Kamil Grosicki,Grosicki,single
+649,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,FAIL,0,0,True,not done yet,False,0,16. НДиай Х.,cyrillic
+650,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,"['Youssouf Sabaly', 'Cheikh Sabaly']",4500000.0,False,working,False,"['Youssouf Sabaly', 'Cheikh Sabaly']",Sabaly,multiple
+651,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0,True,Online Lookup Required,False,Mor Nguer,M Wague,single
+652,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Kalidou Koulibaly,40000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+653,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Salif Sané,8000000.0,False,working,False,Salif Sané,S Sane,single
+654,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Idrissa Gueye,18000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+655,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Sadio Mané,50000000.0,False,working,False,Sadio Mané,Sa Mane,single
+656,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,Alfred N'Diaye,5000000.0,False,working,False,Alfred N'Diaye,A N`Diaye,single
+657,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",13000000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",Is Sarr,multiple
+658,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,FAIL,"['Mame Diouf', 'Marc Diouf']",0,True,Was in  DB before or after season,True,"['Mame Diouf', 'Marc Diouf']",M Diouf,multiple
+659,282,World Cup 2018,Poland vs Senegal,19.06.18,Senegal,SN,2018,SUCCESS,M'Baye Niang,13000000.0,False,working,False,M'Baye Niang,M Niang,single
+660,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Eiji Kawashima,250000.0,False,working,False,Eiji Kawashima,Kawashima,single
+661,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,0,Shōji,none
+662,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Yuto Nagatomo,3500000.0,False,working,False,Yuto Nagatomo,Nagatomo,single
+663,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Hiroki Sakai,2500000.0,False,working,False,Hiroki Sakai,H Sakai,single
+664,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Maya Yoshida,5000000.0,False,working,False,Maya Yoshida,Yoshida,single
+665,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Gaku Shibasaki,2000000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+666,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Shinji Kagawa,13000000.0,False,working,False,Shinji Kagawa,Kagawa,single
+667,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Takashi Inui,3000000.0,False,working,False,Takashi Inui,Inui,single
+668,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Makoto Hasebe,1000000.0,False,Used Large Dataset,False,Makoto Hasebe,Hasebe,single
+669,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Genki Haraguchi,1750000.0,False,working,False,Genki Haraguchi,Haraguchi,single
+670,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,Yuya Osako,4500000.0,False,working,False,Yuya Osako,Y Osako,single
+671,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,FAIL,0,0,True,not done yet,False,0,16. НДиай Х.,cyrillic
+672,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,"['Youssouf Sabaly', 'Cheikh Sabaly']",4500000.0,False,working,False,"['Youssouf Sabaly', 'Cheikh Sabaly']",Sabaly,multiple
+673,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,FAIL,Mor Nguer,0,True,Online Lookup Required,False,Mor Nguer,M Wague,single
+674,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Kalidou Koulibaly,40000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+675,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Salif Sané,8000000.0,False,working,False,Salif Sané,S Sane,single
+676,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Idrissa Gueye,18000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+677,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Sadio Mané,50000000.0,False,working,False,Sadio Mané,Sa Mane,single
+678,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Alfred N'Diaye,5000000.0,False,working,False,Alfred N'Diaye,A N`Diaye,single
+679,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,Badou Ndiaye,7000000.0,False,working,False,Badou Ndiaye,Badou Ndiaye,single
+680,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",13000000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",Is Sarr,multiple
+681,283,World Cup 2018,Japan vs Senegal,24.06.18,Senegal,SN,2018,SUCCESS,M'Baye Niang,13000000.0,False,working,False,M'Baye Niang,M Niang,single
+682,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Wojciech Szczesny,35000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+683,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Michal Pazdan,1000000.0,False,working,False,Michal Pazdan,Pazdan,single
+684,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+685,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+686,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+687,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Jacek Goralski,3000000.0,False,working,False,Jacek Goralski,Góralski,single
+688,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Maciej Rybus,3000000.0,False,working,False,Maciej Rybus,Rybus,single
+689,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+690,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Lukasz Piszczek,3000000.0,False,working,False,Lukasz Piszczek,Piszczek,single
+691,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+692,284,World Cup 2018,Poland vs Colombia,24.06.18,Poland,PL,2018,SUCCESS,Dawid Kownacki,9000000.0,False,working,False,Dawid Kownacki,Kownacki,single
+693,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,David Ospina,7000000.0,False,working,False,David Ospina,Ospina,single
+694,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",28000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+695,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Johan Mojica,3000000.0,False,Used Large Dataset,False,Johan Mojica,Mojica,single
+696,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Davinson Sánchez,25000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+697,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Santiago Arias,8000000.0,False,working,False,Santiago Arias,S Arias,single
+698,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Yerry Mina,9000000.0,False,working,False,Yerry Mina,Mina,single
+699,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Wilmar Barrios,5000000.0,False,working,False,Wilmar Barrios,Barrios,single
+700,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,FAIL,0,0,True,not done yet,False,0,8. Агилар,cyrillic
+701,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,James Rodríguez,50000000.0,False,working,False,James Rodríguez,J Rodríguez,single
+702,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,"['Juan Fernando Quintero', 'Juan Quintero']",3500000.0,False,working,False,"['Juan Fernando Quintero', 'Juan Quintero']",Ju Quintero,multiple
+703,284,World Cup 2018,Poland vs Colombia,24.06.18,Colombia,CO,2018,SUCCESS,Radamel Falcao,15000000.0,False,working,False,Radamel Falcao,Falcao,single
+704,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Eiji Kawashima,250000.0,False,working,False,Eiji Kawashima,Kawashima,single
+705,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Yuto Nagatomo,3500000.0,False,working,False,Yuto Nagatomo,Nagatomo,single
+706,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Hiroki Sakai,2500000.0,False,working,False,Hiroki Sakai,H Sakai,single
+707,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,FAIL,0,0,True,not done yet,False,0,20. Макино,cyrillic
+708,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,"['Tatsuya Sakai', 'Gotoku Sakai', 'Hiroki Sakai']",2500000.0,False,working,False,"['Tatsuya Sakai', 'Gotoku Sakai', 'Hiroki Sakai']",Sakai,multiple
+709,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Maya Yoshida,5000000.0,False,working,False,Maya Yoshida,Yoshida,single
+710,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Gaku Shibasaki,2000000.0,False,working,False,Gaku Shibasaki,Shibasaki,single
+711,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Takashi Usami,1000000.0,False,working,False,Takashi Usami,Usami,single
+712,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,"['Yoshinori Muto', 'Yuki Muto']",4500000.0,False,working,False,"['Yoshinori Muto', 'Yuki Muto']",Muto,multiple
+713,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,FAIL,0,0,True,not done yet,False,0,16. Ямагучи,cyrillic
+714,285,World Cup 2018,Japan vs Poland,28.06.18,Japan,JP,2018,SUCCESS,Shinji Okazaki,7000000.0,False,working,False,Shinji Okazaki,Okazaki,single
+715,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Lukasz Fabianski,5000000.0,False,working,False,Lukasz Fabianski,Fabianski,single
+716,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Artur Jedrzejczyk,850000.0,False,working,False,Artur Jedrzejczyk,Jedrzejczyk,single
+717,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Jan Bednarek,15000000.0,False,working,False,Jan Bednarek,Bednarek,single
+718,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Grzegorz Krychowiak,18000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+719,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Kamil Glik,8000000.0,False,working,False,Kamil Glik,Glik,single
+720,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Bartosz Bereszynski,10000000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+721,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Jacek Goralski,3000000.0,False,working,False,Jacek Goralski,Góralski,single
+722,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Piotr Zieliński,40000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+723,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Rafal Kurzawa,1500000.0,False,working,False,Rafal Kurzawa,R Kurzawa,single
+724,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Robert Lewandowski,65000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+725,285,World Cup 2018,Japan vs Poland,28.06.18,Poland,PL,2018,SUCCESS,Kamil Grosicki,4000000.0,False,working,False,Kamil Grosicki,Grosicki,single
+726,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,FAIL,0,0,True,not done yet,False,0,16. НДиай Х.,cyrillic
+727,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Cheikhou Kouyaté,12000000.0,False,working,False,Cheikhou Kouyaté,C Kouyate,single
+728,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,"['Youssouf Sabaly', 'Cheikh Sabaly']",4500000.0,False,working,False,"['Youssouf Sabaly', 'Cheikh Sabaly']",Sabaly,multiple
+729,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Lamine Gassama,1500000.0,False,working,False,Lamine Gassama,Gassama,single
+730,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Kalidou Koulibaly,40000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+731,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Salif Sané,8000000.0,False,working,False,Salif Sané,S Sane,single
+732,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Idrissa Gueye,18000000.0,False,working,False,Idrissa Gueye,I Gueye,single
+733,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Sadio Mané,50000000.0,False,working,False,Sadio Mané,Sa Mane,single
+734,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",13000000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",Is Sarr,multiple
+735,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,M'Baye Niang,13000000.0,False,working,False,M'Baye Niang,M Niang,single
+736,286,World Cup 2018,Senegal vs Colombia,28.06.18,Senegal,SN,2018,SUCCESS,Keita Baldé,25000000.0,False,working,False,Keita Baldé,Baldé Keita,single
+737,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,David Ospina,7000000.0,False,working,False,David Ospina,Ospina,single
+738,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,"['Juan Cuadrado', 'José Cuadrado']",28000000.0,False,working,False,"['Juan Cuadrado', 'José Cuadrado']",Cuadrado,multiple
+739,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Johan Mojica,3000000.0,False,Used Large Dataset,False,Johan Mojica,Mojica,single
+740,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Davinson Sánchez,25000000.0,False,working,False,Davinson Sánchez,Davinson Sanchez,single
+741,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Santiago Arias,8000000.0,False,working,False,Santiago Arias,S Arias,single
+742,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Yerry Mina,9000000.0,False,working,False,Yerry Mina,Mina,single
+743,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Carlos Sánchez,2000000.0,False,working,False,Carlos Sánchez,C Sánchez,single
+744,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,James Rodríguez,50000000.0,False,working,False,James Rodríguez,J Rodríguez,single
+745,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Mateus Uribe,1880000.0,False,working,False,Mateus Uribe,Uribe,single
+746,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,"['Juan Fernando Quintero', 'Juan Quintero']",3500000.0,False,working,False,"['Juan Fernando Quintero', 'Juan Quintero']",Ju Quintero,multiple
+747,286,World Cup 2018,Senegal vs Colombia,28.06.18,Colombia,CO,2018,SUCCESS,Radamel Falcao,15000000.0,False,working,False,Radamel Falcao,Falcao,single
+748,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Emiliano Martínez,28000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+749,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Nicolás Tagliafico,9000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+750,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Nicolás Otamendi,2000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+751,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Nahuel Molina,35000000.0,False,working,False,Nahuel Molina,N Molina,single
+752,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Cristian Romero,60000000.0,False,working,False,Cristian Romero,C Romero,single
+753,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Rodrigo de Paul,40000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+754,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Ángel Di María,8000000.0,False,working,False,Ángel Di María,Di Maria,single
+755,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Alexis Mac Allister,65000000.0,False,working,False,Alexis Mac Allister,Mac Allister,single
+756,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Enzo Fernández,80000000.0,False,working,False,Enzo Fernández,E Fernandez,single
+757,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Julián Álvarez,60000000.0,False,working,False,Julián Álvarez,Jul Álvarez,single
+758,288,World Cup 2022,Argentina vs France,18.12.22,Argentina,AR,2022,SUCCESS,Lionel Messi,35000000.0,False,working,False,Lionel Messi,Messi,single
+759,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Hugo Lloris,3000000.0,False,working,False,Hugo Lloris,Lloris,single
+760,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Raphaël Varane,35000000.0,False,working,False,Raphaël Varane,Varane,single
+761,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Jules Koundé,60000000.0,False,working,False,Jules Koundé,Kounde,single
+762,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Dayot Upamecano,60000000.0,False,working,False,Dayot Upamecano,Upamecano,single
+763,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Theo Hernández,60000000.0,False,working,False,Theo Hernández,Theo Hernández,single
+764,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Adrien Rabiot,40000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+765,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Aurélien Tchouaméni,85000000.0,False,working,False,Aurélien Tchouaméni,Tchouaméni,single
+766,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Antoine Griezmann,25000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+767,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Olivier Giroud,4000000.0,False,working,False,Olivier Giroud,Giroud,single
+768,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+769,288,World Cup 2022,Argentina vs France,18.12.22,France,FR,2022,SUCCESS,Ousmane Dembélé,60000000.0,False,working,False,Ousmane Dembélé,O Dembele,single
+770,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Dominik Livakovic,12000000.0,False,working,False,Dominik Livakovic,Livaković,single
+771,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Josip Stanisic,12000000.0,False,working,False,Josip Stanisic,Stanisic,single
+772,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Josko Gvardiol,75000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+773,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Josip Sutalo,18000000.0,False,working,False,Josip Sutalo,J Sutalo,single
+774,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Ivan Perisic,7000000.0,False,working,False,Ivan Perisic,I Perišić,single
+775,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Mateo Kovacic,38000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+776,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+777,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Lovro Majer,20000000.0,False,working,False,Lovro Majer,L Majer,single
+778,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Andrej Kramaric,8000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+779,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,Marko Livaja,8000000.0,False,working,False,Marko Livaja,Livaja,single
+780,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,0,5000000.0,False,working,False,0,Oršić,none
+781,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Bono,15000000.0,False,working,False,Bono,Bounou,single
+782,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Jawad El Yamiq,1200000.0,False,working,False,Jawad El Yamiq,El Yamiq,single
+783,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Achraf Hakimi,70000000.0,False,working,False,Achraf Hakimi,Hakimi,single
+784,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Achraf Dari,1200000.0,False,working,False,Achraf Dari,Dari,single
+785,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Sofyan Amrabat,9000000.0,False,working,False,Sofyan Amrabat,S Amrabat,single
+786,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Abdelhamid Sabiri,2000000.0,False,working,False,Abdelhamid Sabiri,Sabiri,single
+787,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Sofiane Boufal,6500000.0,False,working,False,Sofiane Boufal,Boufal,single
+788,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Hakim Ziyech,35000000.0,False,working,False,Hakim Ziyech,Ziyech,single
+789,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Bilal El Khannouss,0.0,False,Large Dataset had 0,False,Bilal El Khannouss,El Khannouss,single
+790,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Youssef En-Nesyri,40000000.0,False,working,False,Youssef En-Nesyri,En Nesyri,single
+791,289,World Cup 2022,Croatia vs Morocco,17.12.22,Morocco,MA,2022,SUCCESS,Yahia Attiyat Allah,550000.0,False,working,False,Yahia Attiyat Allah,Attiyat-Allah,single
+792,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Emiliano Martínez,28000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+793,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Nicolás Tagliafico,9000000.0,False,working,False,Nicolás Tagliafico,Tagliafico,single
+794,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Nicolás Otamendi,2000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+795,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Nahuel Molina,35000000.0,False,working,False,Nahuel Molina,N Molina,single
+796,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Cristian Romero,60000000.0,False,working,False,Cristian Romero,C Romero,single
+797,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Leandro Paredes,12000000.0,False,working,False,Leandro Paredes,L Paredes,single
+798,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Rodrigo de Paul,40000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+799,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Alexis Mac Allister,65000000.0,False,working,False,Alexis Mac Allister,Mac Allister,single
+800,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Enzo Fernández,80000000.0,False,working,False,Enzo Fernández,E Fernandez,single
+801,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Julián Álvarez,60000000.0,False,working,False,Julián Álvarez,Jul Álvarez,single
+802,290,World Cup 2022,Argentina vs Croatia,13.12.22,Argentina,AR,2022,SUCCESS,Lionel Messi,35000000.0,False,working,False,Lionel Messi,Messi,single
+803,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Dominik Livakovic,12000000.0,False,working,False,Dominik Livakovic,Livaković,single
+804,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Dejan Lovren,2500000.0,False,working,False,Dejan Lovren,Lovren,single
+805,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Borna Sosa,12000000.0,False,working,False,Borna Sosa,B Sosa,single
+806,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Josip Juranovic,12000000.0,False,working,False,Josip Juranovic,Juranovic,single
+807,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Josko Gvardiol,75000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+808,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Ivan Perisic,7000000.0,False,working,False,Ivan Perisic,I Perišić,single
+809,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Mateo Kovacic,38000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+810,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+811,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Marcelo Brozovic,25000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+812,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,"['Mario Pasalic', 'Marco Pasalic']",20000000.0,False,working,False,"['Mario Pasalic', 'Marco Pasalic']",Pasalic,multiple
+813,290,World Cup 2022,Argentina vs Croatia,13.12.22,Croatia,HR,2022,SUCCESS,Andrej Kramaric,8000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+814,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Hugo Lloris,3000000.0,False,working,False,Hugo Lloris,Lloris,single
+815,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Raphaël Varane,35000000.0,False,working,False,Raphaël Varane,Varane,single
+816,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Jules Koundé,60000000.0,False,working,False,Jules Koundé,Kounde,single
+817,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Ibrahima Konaté,38000000.0,False,working,False,Ibrahima Konaté,Konate,single
+818,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Theo Hernández,60000000.0,False,working,False,Theo Hernández,Theo Hernández,single
+819,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Youssouf Fofana,25000000.0,False,working,False,Youssouf Fofana,Y Fofana,single
+820,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Aurélien Tchouaméni,85000000.0,False,working,False,Aurélien Tchouaméni,Tchouaméni,single
+821,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Antoine Griezmann,25000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+822,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Olivier Giroud,4000000.0,False,working,False,Olivier Giroud,Giroud,single
+823,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+824,291,World Cup 2022,France vs Morocco,14.12.22,France,FR,2022,SUCCESS,Ousmane Dembélé,60000000.0,False,working,False,Ousmane Dembélé,O Dembele,single
+825,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Bono,15000000.0,False,working,False,Bono,Bounou,single
+826,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Jawad El Yamiq,1200000.0,False,working,False,Jawad El Yamiq,El Yamiq,single
+827,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Achraf Hakimi,70000000.0,False,working,False,Achraf Hakimi,Hakimi,single
+828,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Achraf Dari,1200000.0,False,working,False,Achraf Dari,Dari,single
+829,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Azzedine Ounahi,1500000.0,False,working,False,Azzedine Ounahi,A Ounahi,single
+830,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Sofyan Amrabat,9000000.0,False,working,False,Sofyan Amrabat,S Amrabat,single
+831,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Romain Saïss,9000000.0,False,working,False,Romain Saïss,Saiss,single
+832,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Sofiane Boufal,6500000.0,False,working,False,Sofiane Boufal,Boufal,single
+833,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Noussair Mazraoui,18000000.0,False,working,False,Noussair Mazraoui,Mazraoui,single
+834,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Hakim Ziyech,35000000.0,False,working,False,Hakim Ziyech,Ziyech,single
+835,291,World Cup 2022,France vs Morocco,14.12.22,Morocco,MA,2022,SUCCESS,Youssef En-Nesyri,40000000.0,False,working,False,Youssef En-Nesyri,En Nesyri,single
+836,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Dominik Livakovic,12000000.0,False,working,False,Dominik Livakovic,Livaković,single
+837,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Dejan Lovren,2500000.0,False,working,False,Dejan Lovren,Lovren,single
+838,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Borna Sosa,12000000.0,False,working,False,Borna Sosa,B Sosa,single
+839,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Josip Juranovic,12000000.0,False,working,False,Josip Juranovic,Juranovic,single
+840,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Josko Gvardiol,75000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+841,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Ivan Perisic,7000000.0,False,working,False,Ivan Perisic,I Perišić,single
+842,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Mateo Kovacic,38000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+843,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+844,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Marcelo Brozovic,25000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+845,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,"['Mario Pasalic', 'Marco Pasalic']",20000000.0,False,working,False,"['Mario Pasalic', 'Marco Pasalic']",Pasalic,multiple
+846,292,World Cup 2022,Croatia vs Brazil,09.12.22,Croatia,HR,2022,SUCCESS,Andrej Kramaric,8000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+847,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Alisson,35000000.0,False,working,False,Alisson,Alisson,single
+848,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Danilo,15000000.0,False,working,False,Danilo,Danilo,single
+849,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Marquinhos,65000000.0,False,working,False,Marquinhos,Marquinhos,single
+850,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Éder Militão,70000000.0,False,working,False,Éder Militão,Militão,single
+851,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Thiago Silva,2000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+852,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Casemiro,40000000.0,False,working,False,Casemiro,Casimiro,single
+853,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Lucas Paquetá,45000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+854,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Raphinha,60000000.0,False,working,False,Raphinha,Raphinha,single
+855,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Richarlison,48000000.0,False,working,False,Richarlison,Richarlison,single
+856,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Neymar,60000000.0,False,working,False,Neymar,Neymar,single
+857,292,World Cup 2022,Croatia vs Brazil,09.12.22,Brazil,BR,2022,SUCCESS,Vinicius Junior,150000000.0,False,working,False,Vinicius Junior,Vinícius Júnior,single
+858,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Andries Noppert,4500000.0,False,working,False,Andries Noppert,Noppert,single
+859,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+860,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Virgil van Dijk,35000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+861,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+862,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+863,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+864,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: ['Luuk de Jong', 'Frenkie de Jong']",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+865,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Marten de Roon,10000000.0,False,working,False,Marten de Roon,de Roon,single
+866,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Memphis Depay,14000000.0,False,working,False,Memphis Depay,Depay,single
+867,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Steven Bergwijn,22000000.0,False,working,False,Steven Bergwijn,Bergwijn,single
+868,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Netherlands,NL,2022,SUCCESS,Cody Gakpo,55000000.0,False,working,False,Cody Gakpo,Gakpo,single
+869,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Emiliano Martínez,28000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+870,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Nicolás Otamendi,2000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+871,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Nahuel Molina,35000000.0,False,working,False,Nahuel Molina,N Molina,single
+872,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Cristian Romero,60000000.0,False,working,False,Cristian Romero,C Romero,single
+873,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Lisandro Martínez,50000000.0,False,working,False,Lisandro Martínez,Li Martínez,single
+874,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Rodrigo de Paul,40000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+875,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Marcos Acuña,10000000.0,False,working,False,Marcos Acuña,Acuña,single
+876,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Alexis Mac Allister,65000000.0,False,working,False,Alexis Mac Allister,Mac Allister,single
+877,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Enzo Fernández,80000000.0,False,working,False,Enzo Fernández,E Fernandez,single
+878,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Julián Álvarez,60000000.0,False,working,False,Julián Álvarez,Jul Álvarez,single
+879,293,World Cup 2022,Netherlands vs Argentina,09.12.22,Argentina,AR,2022,SUCCESS,Lionel Messi,35000000.0,False,working,False,Lionel Messi,Messi,single
+880,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Bono,15000000.0,False,working,False,Bono,Bounou,single
+881,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Jawad El Yamiq,1200000.0,False,working,False,Jawad El Yamiq,El Yamiq,single
+882,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Achraf Hakimi,70000000.0,False,working,False,Achraf Hakimi,Hakimi,single
+883,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Azzedine Ounahi,1500000.0,False,working,False,Azzedine Ounahi,A Ounahi,single
+884,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Sofyan Amrabat,9000000.0,False,working,False,Sofyan Amrabat,S Amrabat,single
+885,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Romain Saïss,9000000.0,False,working,False,Romain Saïss,Saiss,single
+886,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Sofiane Boufal,6500000.0,False,working,False,Sofiane Boufal,Boufal,single
+887,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Hakim Ziyech,35000000.0,False,working,False,Hakim Ziyech,Ziyech,single
+888,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Selim Amallah,6000000.0,False,working,False,Selim Amallah,Amallah,single
+889,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Youssef En-Nesyri,40000000.0,False,working,False,Youssef En-Nesyri,En Nesyri,single
+890,294,World Cup 2022,Morocco vs Portugal,10.12.22,Morocco,MA,2022,SUCCESS,Yahia Attiyat Allah,550000.0,False,working,False,Yahia Attiyat Allah,Attiyat-Allah,single
+891,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+892,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Diogo Dalot,40000000.0,False,working,False,Diogo Dalot,Dalot,single
+893,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+894,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+895,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Raphaël Guerreiro,20000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+896,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+897,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+898,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,João Félix,50000000.0,False,working,False,João Félix,J Félix,single
+899,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Rúben Neves,40000000.0,False,working,False,Rúben Neves,Ruben Neves,single
+900,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Otávio,35000000.0,False,working,False,Otávio,Otávio,single
+901,294,World Cup 2022,Morocco vs Portugal,10.12.22,Portugal,PT,2022,SUCCESS,Gonçalo Ramos,50000000.0,False,working,False,Gonçalo Ramos,G Ramos,single
+902,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Jordan Pickford,22000000.0,False,working,False,Jordan Pickford,Pickford,single
+903,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+904,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Luke Shaw,42000000.0,False,working,False,Luke Shaw,L Shaw,single
+905,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,John Stones,40000000.0,False,working,False,John Stones,Stones,single
+906,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+907,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+908,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,"['Jordan Henderson', 'Dean Henderson']",10000000.0,False,working,False,"['Jordan Henderson', 'Dean Henderson']",Henderson,multiple
+909,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Bukayo Saka,120000000.0,False,working,False,Bukayo Saka,B Saka,single
+910,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Phil Foden,110000000.0,False,working,False,Phil Foden,Foden,single
+911,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+912,295,World Cup 2022,England vs France,10.12.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+913,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Hugo Lloris,3000000.0,False,working,False,Hugo Lloris,Lloris,single
+914,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Raphaël Varane,35000000.0,False,working,False,Raphaël Varane,Varane,single
+915,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Jules Koundé,60000000.0,False,working,False,Jules Koundé,Kounde,single
+916,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Dayot Upamecano,60000000.0,False,working,False,Dayot Upamecano,Upamecano,single
+917,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Theo Hernández,60000000.0,False,working,False,Theo Hernández,Theo Hernández,single
+918,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Adrien Rabiot,40000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+919,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Aurélien Tchouaméni,85000000.0,False,working,False,Aurélien Tchouaméni,Tchouaméni,single
+920,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Antoine Griezmann,25000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+921,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Olivier Giroud,4000000.0,False,working,False,Olivier Giroud,Giroud,single
+922,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+923,295,World Cup 2022,England vs France,10.12.22,France,FR,2022,SUCCESS,Ousmane Dembélé,60000000.0,False,working,False,Ousmane Dembélé,O Dembele,single
+924,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Andries Noppert,4500000.0,False,working,False,Andries Noppert,Noppert,single
+925,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Jurrien Timber,42000000.0,False,working,False,Jurrien Timber,J Timber,single
+926,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Virgil van Dijk,35000000.0,False,working,False,Virgil van Dijk,van Dijk,single
+927,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Nathan Aké,42000000.0,False,working,False,Nathan Aké,Ake,single
+928,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Denzel Dumfries,28000000.0,False,working,False,Denzel Dumfries,Dumfries,single
+929,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Daley Blind,3000000.0,False,working,False,Daley Blind,Blind,single
+930,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,FAIL,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",0,True,"FILTERING USING MATCH DATE LEFT MULTIPLE RESULTS: [['Luuk de Jong', 'Frenkie de Jong']]",False,"['Nigel de Jong', 'Siem de Jong', 'Luuk de Jong', 'Frenkie de Jong']",de Jong,multiple
+931,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Marten de Roon,10000000.0,False,working,False,Marten de Roon,de Roon,single
+932,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Memphis Depay,14000000.0,False,working,False,Memphis Depay,Depay,single
+933,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Cody Gakpo,55000000.0,False,working,False,Cody Gakpo,Gakpo,single
+934,296,World Cup 2022,Netherlands vs United States,03.12.22,Netherlands,NL,2022,SUCCESS,Davy Klaassen,10000000.0,False,working,False,Davy Klaassen,D Klaassen,single
+935,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Matt Turner,3000000.0,False,working,False,Matt Turner,M Turner,single
+936,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Tim Ream,500000.0,False,working,False,Tim Ream,Ream,single
+937,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Sergiño Dest,18000000.0,False,working,False,Sergiño Dest,S Dest,single
+938,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Walker Zimmerman,3500000.0,False,working,False,Walker Zimmerman,Zimmerman,single
+939,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Antonee Robinson,9000000.0,False,working,False,Antonee Robinson,A Robinson,single
+940,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Tyler Adams,20000000.0,False,working,False,Tyler Adams,T Adams,single
+941,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Yunus Musah,15000000.0,False,working,False,Yunus Musah,Y Musah,single
+942,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,"['Weston McKennie', 'Mark McKenzie', 'Kenny Saief']",25000000.0,False,working,False,"['Weston McKennie', 'Mark McKenzie', 'Kenny Saief']",Mc Kennie,multiple
+943,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Christian Pulisic,45000000.0,False,working,False,Christian Pulisic,Pulisic,single
+944,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Jesús Ferreira,5000000.0,False,working,False,Jesús Ferreira,J Ferreira,single
+945,296,World Cup 2022,Netherlands vs United States,03.12.22,United States,US,2022,SUCCESS,Timothy Weah,15000000.0,False,working,False,Timothy Weah,Weah,single
+946,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Emiliano Martínez,28000000.0,False,working,False,Emiliano Martínez,E Martinez,single
+947,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Nicolás Otamendi,2000000.0,False,working,False,Nicolás Otamendi,Otamendi,single
+948,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Nahuel Molina,35000000.0,False,working,False,Nahuel Molina,N Molina,single
+949,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Cristian Romero,60000000.0,False,working,False,Cristian Romero,C Romero,single
+950,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Rodrigo de Paul,40000000.0,False,working,False,Rodrigo de Paul,De Paul,single
+951,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Marcos Acuña,10000000.0,False,working,False,Marcos Acuña,Acuña,single
+952,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Alexis Mac Allister,65000000.0,False,working,False,Alexis Mac Allister,Mac Allister,single
+953,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Enzo Fernández,80000000.0,False,working,False,Enzo Fernández,E Fernandez,single
+954,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Julián Álvarez,60000000.0,False,working,False,Julián Álvarez,Jul Álvarez,single
+955,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Lionel Messi,35000000.0,False,working,False,Lionel Messi,Messi,single
+956,297,World Cup 2022,Argentina vs Australia,03.12.22,Argentina,AR,2022,SUCCESS,Alejandro Garnacho,25000000.0,False,working,False,Alejandro Garnacho,Alejandro Gomez,single
+957,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Mathew Ryan,4000000.0,False,working,False,Mathew Ryan,M Ryan,single
+958,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Milos Degenek,2000000.0,False,working,False,Milos Degenek,Degenek,single
+959,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Aziz Behich,550000.0,False,working,False,Aziz Behich,Behich,single
+960,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Harry Souttar,15000000.0,False,working,False,Harry Souttar,H Souttar,single
+961,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Kye Rowles,1200000.0,False,working,False,Kye Rowles,Rowles,single
+962,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Keanu Baccus,650000.0,False,working,False,Keanu Baccus,Baccus,single
+963,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Aaron Mooy,3500000.0,False,working,False,Aaron Mooy,Mooy,single
+964,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Riley McGree,4000000.0,False,working,False,Riley McGree,Mc Gree,single
+965,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Jackson Irvine,1500000.0,False,working,False,Jackson Irvine,J Irvine,single
+966,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Mathew Leckie,700000.0,False,working,False,Mathew Leckie,Leckie,single
+967,297,World Cup 2022,Argentina vs Australia,03.12.22,Australia,AU,2022,SUCCESS,Mitchell Duke,700000.0,False,working,False,Mitchell Duke,Duke,single
+968,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Hugo Lloris,3000000.0,False,working,False,Hugo Lloris,Lloris,single
+969,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Raphaël Varane,35000000.0,False,working,False,Raphaël Varane,Varane,single
+970,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Jules Koundé,60000000.0,False,working,False,Jules Koundé,Kounde,single
+971,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Dayot Upamecano,60000000.0,False,working,False,Dayot Upamecano,Upamecano,single
+972,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Theo Hernández,60000000.0,False,working,False,Theo Hernández,Theo Hernández,single
+973,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Adrien Rabiot,40000000.0,False,working,False,Adrien Rabiot,Rabiot,single
+974,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Aurélien Tchouaméni,85000000.0,False,working,False,Aurélien Tchouaméni,Tchouaméni,single
+975,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Antoine Griezmann,25000000.0,False,working,False,Antoine Griezmann,Griezmann,single
+976,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Olivier Giroud,4000000.0,False,working,False,Olivier Giroud,Giroud,single
+977,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Kylian Mbappé,180000000.0,False,working,False,Kylian Mbappé,Mbappé,single
+978,298,World Cup 2022,France vs Poland,04.12.22,France,FR,2022,SUCCESS,Ousmane Dembélé,60000000.0,False,working,False,Ousmane Dembélé,O Dembele,single
+979,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Wojciech Szczesny,10000000.0,False,working,False,Wojciech Szczesny,Szczesny,single
+980,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Grzegorz Krychowiak,5000000.0,False,working,False,Grzegorz Krychowiak,Krychowiak,single
+981,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Jakub Kiwior,25000000.0,False,working,False,Jakub Kiwior,Kiwior,single
+982,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Kamil Glik,500000.0,False,working,False,Kamil Glik,Glik,single
+983,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Bartosz Bereszynski,1600000.0,False,working,False,Bartosz Bereszynski,Bereszynski,single
+984,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Matty Cash,25000000.0,False,working,False,Matty Cash,Cash,single
+985,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Jakub Kaminski,12000000.0,False,working,False,Jakub Kaminski,J Kaminski,single
+986,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Sebastian Szymanski,18000000.0,False,working,False,Sebastian Szymanski,S Szymanski,single
+987,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Piotr Zieliński,35000000.0,False,working,False,Piotr Zieliński,P Zielinski,single
+988,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Przemyslaw Frankowski,9000000.0,False,working,False,Przemyslaw Frankowski,Frankowski,single
+989,298,World Cup 2022,France vs Poland,04.12.22,Poland,PL,2022,SUCCESS,Robert Lewandowski,30000000.0,False,working,False,Robert Lewandowski,Lewandowski,single
+990,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Jordan Pickford,22000000.0,False,working,False,Jordan Pickford,Pickford,single
+991,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Kyle Walker,13000000.0,False,working,False,Kyle Walker,Walker,single
+992,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Luke Shaw,42000000.0,False,working,False,Luke Shaw,L Shaw,single
+993,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,John Stones,40000000.0,False,working,False,John Stones,Stones,single
+994,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Harry Maguire,20000000.0,False,working,False,Harry Maguire,Maguire,single
+995,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Declan Rice,90000000.0,False,working,False,Declan Rice,Rice,single
+996,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,"['Jordan Henderson', 'Dean Henderson']",10000000.0,False,working,False,"['Jordan Henderson', 'Dean Henderson']",Henderson,multiple
+997,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Bukayo Saka,120000000.0,False,working,False,Bukayo Saka,B Saka,single
+998,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Phil Foden,110000000.0,False,working,False,Phil Foden,Foden,single
+999,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Jude Bellingham,120000000.0,False,working,False,Jude Bellingham,Bellingham,single
+1000,299,World Cup 2022,England vs Senegal,04.12.22,England,EN,2022,SUCCESS,Harry Kane,90000000.0,False,working,False,Harry Kane,Kane,single
+1001,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Edouard Mendy,12000000.0,False,Used Large Dataset,False,Edouard Mendy,Ed Mendy,single
+1002,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Ismail Jakobs,7000000.0,False,working,False,Ismail Jakobs,I Jakobs,single
+1003,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,"['Youssouf Sabaly', 'Cheikh Sabaly']",3000000.0,False,working,False,"['Youssouf Sabaly', 'Cheikh Sabaly']",Sabaly,multiple
+1004,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,"['Abdoulaye Diallo', 'Abdou Diallo']",25000000.0,False,working,False,"['Abdoulaye Diallo', 'Abdou Diallo']",A Diallo,multiple
+1005,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Kalidou Koulibaly,45000000.0,False,working,False,Kalidou Koulibaly,K Koulibaly,single
+1006,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,"['Nestor Mendy', 'Nampalys Mendy']",5000000.0,False,working,False,"['Nestor Mendy', 'Nampalys Mendy']",N Mendy,multiple
+1007,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Pathé Ciss,1200000.0,False,working,False,Pathé Ciss,P Ciss,single
+1008,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,"['Issa Sarr', 'Ismaïla Sarr']",27000000.0,False,working,False,"['Issa Sarr', 'Ismaïla Sarr']",Is Sarr,multiple
+1009,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Iliman Ndiaye,700000.0,False,working,False,Iliman Ndiaye,Il Ndiaye,single
+1010,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Boulaye Dia,14000000.0,False,working,False,Boulaye Dia,B Dia,single
+1011,299,World Cup 2022,England vs Senegal,04.12.22,Senegal,SN,2022,SUCCESS,Krépin Diatta,15000000.0,False,working,False,Krépin Diatta,Diatta,single
+1012,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Shuichi Gonda,300000.0,False,Data Ended before season : 2022,False,Shuichi Gonda,Gonda,single
+1013,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Yuto Nagatomo,800000.0,False,Data Ended before season : 2022,False,Yuto Nagatomo,Nagatomo,single
+1014,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Wataru Endo,6500000.0,False,working,False,Wataru Endo,W Endo,single
+1015,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Maya Yoshida,900000.0,False,Used Large Dataset,False,Maya Yoshida,Yoshida,single
+1016,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Shogo Taniguchi,1500000.0,False,working,False,Shogo Taniguchi,Taniguchi,single
+1017,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Takehiro Tomiyasu,25000000.0,False,working,False,Takehiro Tomiyasu,Tomiyasu,single
+1018,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Ritsu Doan,18000000.0,False,working,False,Ritsu Doan,Doan,single
+1019,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Hidemasa Morita,12000000.0,False,working,False,Hidemasa Morita,Morita,single
+1020,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Daichi Kamada,27000000.0,False,working,False,Daichi Kamada,Kamada,single
+1021,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Junya Ito,10000000.0,False,working,False,Junya Ito,J Ito,single
+1022,300,World Cup 2022,Japan vs Croatia,05.12.22,Japan,JP,2022,SUCCESS,Daizen Maeda,6000000.0,False,working,False,Daizen Maeda,Maeda,single
+1023,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Dominik Livakovic,12000000.0,False,working,False,Dominik Livakovic,Livaković,single
+1024,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Dejan Lovren,2500000.0,False,working,False,Dejan Lovren,Lovren,single
+1025,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Josip Juranovic,12000000.0,False,working,False,Josip Juranovic,Juranovic,single
+1026,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Josko Gvardiol,75000000.0,False,working,False,Josko Gvardiol,Gvardiol,single
+1027,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Borna Barisic,6500000.0,False,working,False,Borna Barisic,B Barišić,single
+1028,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Ivan Perisic,7000000.0,False,working,False,Ivan Perisic,I Perišić,single
+1029,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Mateo Kovacic,38000000.0,False,working,False,Mateo Kovacic,M Kovacic,single
+1030,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Luka Modric,10000000.0,False,working,False,Luka Modric,Modric,single
+1031,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Marcelo Brozovic,25000000.0,False,working,False,Marcelo Brozovic,Brozovic,single
+1032,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Andrej Kramaric,8000000.0,False,working,False,Andrej Kramaric,Kramaric,single
+1033,300,World Cup 2022,Japan vs Croatia,05.12.22,Croatia,HR,2022,SUCCESS,Bruno Petkovic,5000000.0,False,working,False,Bruno Petkovic,B Petković,single
+1034,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Alisson,35000000.0,False,working,False,Alisson,Alisson,single
+1035,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Danilo,15000000.0,False,working,False,Danilo,Danilo,single
+1036,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Marquinhos,65000000.0,False,working,False,Marquinhos,Marquinhos,single
+1037,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Éder Militão,70000000.0,False,working,False,Éder Militão,Militão,single
+1038,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Thiago Silva,2000000.0,False,working,False,Thiago Silva,Thiago Silva,single
+1039,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Casemiro,40000000.0,False,working,False,Casemiro,Casimiro,single
+1040,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Lucas Paquetá,45000000.0,False,working,False,Lucas Paquetá,Paqueta,single
+1041,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Raphinha,60000000.0,False,working,False,Raphinha,Raphinha,single
+1042,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Richarlison,48000000.0,False,working,False,Richarlison,Richarlison,single
+1043,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Neymar,60000000.0,False,working,False,Neymar,Neymar,single
+1044,301,World Cup 2022,Brazil vs South Korea,05.12.22,Brazil,BR,2022,SUCCESS,Vinicius Junior,150000000.0,False,working,False,Vinicius Junior,Vinícius Júnior,single
+1045,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,"['Seung-gyu Kim', 'Seung-gyu Han']",900000.0,False,working,False,"['Seung-gyu Kim', 'Seung-gyu Han']",Kim Seunggyu,multiple
+1046,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,FAIL,0,0,True,Lookup Required,False,0,Kim Jin-Su,none
+1047,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Min-jae Kim,60000000.0,False,working,False,Min-jae Kim,Kim Min-jae,single
+1048,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Young-gwon Kim,600000.0,False,working,False,Young-gwon Kim,Kim Younggwon,single
+1049,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,FAIL,0,0,True,Lookup Required,False,0,Jung Wooyoung,none
+1050,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,In-beom Hwang,4500000.0,False,working,False,In-beom Hwang,In-beom,single
+1051,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Jae-sung Lee,4000000.0,False,working,False,Jae-sung Lee,Lee Jae-sung,single
+1052,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Moon-hwan Kim,800000.0,False,working,False,Moon-hwan Kim,Kim Moon-hwan,single
+1053,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Heung-min Son,50000000.0,False,working,False,Heung-min Son,Son Heungmin,single
+1054,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Gue-sung Cho,2500000.0,False,working,False,Gue-sung Cho,Cho Gue-sung,single
+1055,301,World Cup 2022,Brazil vs South Korea,05.12.22,South Korea,KR,2022,SUCCESS,Hee-chan Hwang,12000000.0,False,working,False,Hee-chan Hwang,H Hwang,single
+1056,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Bono,15000000.0,False,working,False,Bono,Bounou,single
+1057,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Achraf Hakimi,70000000.0,False,working,False,Achraf Hakimi,Hakimi,single
+1058,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Nayef Aguerd,9000000.0,False,working,False,Nayef Aguerd,Aguerd,single
+1059,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Azzedine Ounahi,1500000.0,False,working,False,Azzedine Ounahi,A Ounahi,single
+1060,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Sofyan Amrabat,9000000.0,False,working,False,Sofyan Amrabat,S Amrabat,single
+1061,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Romain Saïss,9000000.0,False,working,False,Romain Saïss,Saiss,single
+1062,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Sofiane Boufal,6500000.0,False,working,False,Sofiane Boufal,Boufal,single
+1063,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Noussair Mazraoui,18000000.0,False,working,False,Noussair Mazraoui,Mazraoui,single
+1064,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Hakim Ziyech,35000000.0,False,working,False,Hakim Ziyech,Ziyech,single
+1065,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Selim Amallah,6000000.0,False,working,False,Selim Amallah,Amallah,single
+1066,302,World Cup 2022,Morocco vs Spain,06.12.22,Morocco,MA,2022,SUCCESS,Youssef En-Nesyri,40000000.0,False,working,False,Youssef En-Nesyri,En Nesyri,single
+1067,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Unai Simón,25000000.0,False,working,False,Unai Simón,U Simón,single
+1068,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Jordi Alba,5000000.0,False,working,False,Jordi Alba,J Alba,single
+1069,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Aymeric Laporte,25000000.0,False,working,False,Aymeric Laporte,Laporte,single
+1070,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Sergio Busquets,5000000.0,False,working,False,Sergio Busquets,Busquets,single
+1071,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Marcos Llorente,35000000.0,False,working,False,Marcos Llorente,M Llorente,single
+1072,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Gavi,90000000.0,False,working,False,Gavi,Gavi,single
+1073,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Marco Asensio,25000000.0,False,working,False,Marco Asensio,Asensio,single
+1074,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Rodri,90000000.0,False,working,False,Rodri,Rodri,single
+1075,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Dani Olmo,40000000.0,False,working,False,Dani Olmo,Olmo,single
+1076,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,"['Fernando Torres', 'Ferran Torres']",30000000.0,False,working,False,"['Fernando Torres', 'Ferran Torres']",F Torres,multiple
+1077,302,World Cup 2022,Morocco vs Spain,06.12.22,Spain,ES,2022,SUCCESS,Pedri,100000000.0,False,working,False,Pedri,Pedri,single
+1078,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Diogo Costa,45000000.0,False,working,False,Diogo Costa,D Costa,single
+1079,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Diogo Dalot,40000000.0,False,working,False,Diogo Dalot,Dalot,single
+1080,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Pepe,1000000.0,False,working,False,Pepe,Pepe,single
+1081,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Rúben Dias,80000000.0,False,working,False,Rúben Dias,R Dias,single
+1082,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Raphaël Guerreiro,20000000.0,False,working,False,Raphaël Guerreiro,Guerreiro,single
+1083,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,William Carvalho,14000000.0,False,working,False,William Carvalho,W Carvalho,single
+1084,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Bruno Fernandes,75000000.0,False,working,False,Bruno Fernandes,B Fernandes,single
+1085,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Bernardo Silva,80000000.0,False,working,False,Bernardo Silva,Bernardo Silva,single
+1086,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,João Félix,50000000.0,False,working,False,João Félix,J Félix,single
+1087,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Otávio,35000000.0,False,working,False,Otávio,Otávio,single
+1088,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Portugal,PT,2022,SUCCESS,Gonçalo Ramos,50000000.0,False,working,False,Gonçalo Ramos,G Ramos,single
+1089,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Yann Sommer,5000000.0,False,working,False,Yann Sommer,Sommer,single
+1090,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Manuel Akanji,38000000.0,False,working,False,Manuel Akanji,Akanji,single
+1091,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Ricardo Rodríguez,3500000.0,False,working,False,Ricardo Rodríguez,Rodriguez,single
+1092,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Fabian Schär,10000000.0,False,working,False,Fabian Schär,Schär,single
+1093,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Edimilson Fernandes,5500000.0,False,working,False,Edimilson Fernandes,Edimilson Fernandes,single
+1094,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Granit Xhaka,20000000.0,False,working,False,Granit Xhaka,Xhaka,single
+1095,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Djibril Sow,22000000.0,False,working,False,Djibril Sow,Dj Sow,single
+1096,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Remo Freuler,8000000.0,False,working,False,Remo Freuler,Freuler,single
+1097,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Xherdan Shaqiri,4000000.0,False,working,False,Xherdan Shaqiri,X Shaqiri,single
+1098,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Breel Embolo,20000000.0,False,working,False,Breel Embolo,Embolo,single
+1099,303,World Cup 2022,Portugal vs Switzerland,06.12.22,Switzerland,CH,2022,SUCCESS,Rubén Vargas,6500000.0,False,working,False,Rubén Vargas,Vargas,single
