@@ -52,21 +52,21 @@ from datetime import datetime, timedelta
 
 def load_csv_dataset(file_path):
     return pd.read_csv(file_path)
-result_names_null = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/nullnames_salaries.csv')
+result_names_null = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/nullnames_salaries.csv')
 result_names_null = list(result_names_null['Name'])
 
-result_names_null_values = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/nullnames_values.csv')
+result_names_null_values = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/nullnames_values.csv')
 result_names_null_values = list(result_names_null_values['Name'])
 
 # Usage
-leagues_salary = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/latest_capology_data_money_fixed.csv')
+leagues_salary = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/latest_capology_data_money_fixed.csv')
 
 #leagues_value = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/most_updated_transfermarkt_dataset.csv')
 #leagues_value = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/Fixed TransferMarkt Market Values - MarketValues.csv')
-leagues_value = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/Most Updated Edited Transfermarkt Dataset.csv')
-leagues_value_large = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/most_updated_transfermarkt_dataset.csv')
+leagues_value = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/MarketValuesComplete.csv') #was Most Updated Edited Transfermarkt Dataset
+leagues_value_large = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/most_updated_transfermarkt_dataset.csv')
 
-countries_codes = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/countries_and_codes.csv')
+countries_codes = load_csv_dataset('/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/countries_and_codes.csv')
 
 
 def get_names_with_conditions_salary(df):

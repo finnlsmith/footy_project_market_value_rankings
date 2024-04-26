@@ -1,0 +1,721 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case,To Remove
+0,554,554,554,3158,"World Cup Qualifiers, Europe, 2018",Montenegro vs Denmark,05-10-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+1,774,774,774,3168,"World Cup Qualifiers, Europe, 2018",Montenegro vs Armenia,10-06-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+2,4477,4477,77,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,25000.0,False,working,False,0,L Kazapua,none,False
+3,4478,4478,78,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,1200000.0,False,working,False,0,R Nyambe,none,False
+4,4479,4479,79,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,I Kamberipa,none,False
+5,4480,4480,80,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,150000.0,False,working,False,0,A Gebhardt,none,False
+6,4481,4481,81,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,750000.0,False,working,False,0,R Hanamub,none,False
+7,4482,4482,82,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,200000.0,False,working,False,0,P Shitembi,none,False
+8,4483,4483,83,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,100000.0,False,working,False,0,K Amutenya,none,False
+9,4484,4484,84,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,A Petrus,none,False
+10,4485,4485,85,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,500000.0,False,working,False,0,D Hotto,none,False
+11,4486,4486,86,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,B Muzeu,none,False
+12,4487,4487,87,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,,2023,SUCCESS,0,125000.0,False,working,False,0,P Tjiueza,none,False
+13,4543,4543,143,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,25000.0,False,working,False,0,L Kazapua,none,False
+14,4544,4544,144,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,I Kamberipa,none,False
+15,4545,4545,145,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,100000.0,False,working,False,0,K Amutenya,none,False
+16,4546,4546,146,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,150000.0,False,working,False,0,A Gebhardt,none,False
+17,4547,4547,147,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,750000.0,False,working,False,0,R Hanamub,none,False
+18,4548,4548,148,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,50000.0,False,working,False,0,A Iimbondi,none,False
+19,4549,4549,149,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,200000.0,False,working,False,0,P Shitembi,none,False
+20,4550,4550,150,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,A Petrus,none,False
+21,4551,4551,151,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,500000.0,False,working,False,0,D Hotto,none,False
+22,4552,4552,152,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,,2023,SUCCESS,0,75000.0,False,working,False,0,B Muzeu,none,False
+23,4597,4597,197,2232,"World Cup Qualifiers, Africa, 2026",Sierra Leone vs Egypt,19-11-2023,Egypt,EG,2023,SUCCESS,0,9000000.0,False,working,False,0,Trézéguet,none,False
+24,4896,4896,496,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,550000.0,False,working,False,0,Y Andzouana,none,False
+25,4897,4897,497,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,500000.0,False,working,False,0,B Passi,none,False
+26,4899,4899,499,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,500000.0,False,working,False,0,M Poaty,none,False
+27,4900,4900,500,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,3000000.0,False,working,False,0,G Makouta,none,False
+28,4902,4902,502,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,4500000.0,False,working,False,0,A Makoumbou,none,False
+29,4904,4904,504,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Congo, CG,2023,SUCCESS,0,800000.0,False,working,False,0,S Ganvoula,none,False
+30,6021,6021,521,3307,"World Cup Qualifiers, Europe, 2022",Turkey vs Montenegro,01-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+31,6688,6688,22,1669,Nations League 2020-2021,Moldova vs Greece,15.11.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none,False
+32,6743,6743,77,1671,Nations League 2020-2021,Kosovo vs Moldova,18.11.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none,False
+33,7241,7241,575,1694,Nations League 2020-2021,Latvia vs Faroe Islands,14.11.20,Latvia,LV,2020,SUCCESS,0,275000.0,False,working,False,0,Kamešs,none,False
+34,7296,7296,630,1696,Nations League 2020-2021,Andorra vs Latvia,17.11.20,Latvia,LV,2020,SUCCESS,0,275000.0,False,working,False,0,Kamešs,none,False
+35,7633,7633,967,1712,Nations League 2022-2023,Denmark vs Croatia,10.06.22,Croatia,HR,2022,SUCCESS,0,5000000.0,False,working,False,0,Oršić,none,False
+36,7816,7816,50,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+37,7823,7823,57,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+38,7829,7829,63,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,0,Hložek,none,False
+39,7851,7851,85,961,"Euros 2024, Qualifiers",Albania vs Moldova,17.06.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+40,7866,7866,100,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+41,7869,7869,103,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,0,Král,none,False
+42,7873,7873,107,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,0,Hložek,none,False
+43,7943,7943,177,966,"Euros 2024, Qualifiers",Czech vs Albania,07.09.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+44,7946,7946,180,966,"Euros 2024, Qualifiers",Czech vs Albania,07.09.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,0,Král,none,False
+45,7982,7982,216,967,"Euros 2024, Qualifiers",Faroe Islands vs Moldova,10.09.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+46,7983,7983,217,967,"Euros 2024, Qualifiers",Faroe Islands vs Moldova,10.09.23,Moldova,MD,2023,SUCCESS,0,350000.0,False,working,False,0,Stînă,none,False
+47,8020,8020,254,969,"Euros 2024, Qualifiers",Albania vs Czech,12.10.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+48,8053,8053,287,971,"Euros 2024, Qualifiers",Czech vs Faroe Islands,15.10.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+49,8060,8060,294,971,"Euros 2024, Qualifiers",Czech vs Faroe Islands,15.10.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,0,Hložek,none,False
+50,8093,8093,327,972,"Euros 2024, Qualifiers",Poland vs Moldova,15.10.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+51,8103,8103,337,974,"Euros 2024, Qualifiers",Moldova vs Albania,17.11.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+52,8131,8131,365,973,"Euros 2024, Qualifiers",Poland vs Czech,17.11.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+53,8141,8141,375,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+54,8143,8143,377,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,5000000.0,False,working,False,0,Vitík,none,False
+55,8149,8149,383,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,0,Hložek,none,False
+56,8150,8150,384,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,2000000.0,False,working,False,0,Chorý,none,False
+57,8158,8158,392,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,0,Moțpan,none,False
+58,8643,8643,877,997,"Euros 2024, Qualifiers",Bulgaria vs Montenegro,24.03.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,0,Marušić,none,False
+59,8692,8692,926,1000,"Euros 2024, Qualifiers",Montenegro vs Serbia,27.03.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,0,Tomašević,none,False
+60,8697,8697,931,1000,"Euros 2024, Qualifiers",Montenegro vs Serbia,27.03.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,0,Marušić,none,False
+61,8736,8736,970,1002,"Euros 2024, Qualifiers",Montenegro vs Hungary,17.06.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,0,Tomašević,none,False
+62,8813,8813,1047,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,0,Tomašević,none,False
+63,8818,8818,1052,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,0,Marušić,none,False
+64,8819,8819,1053,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,600000.0,False,working,False,0,Mugoša,none,False
+65,8820,8820,1054,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,450000.0,False,working,False,0,Jovović,none,False
+66,8848,8848,1082,1007,"Euros 2024, Qualifiers",Montenegro vs Bulgaria,10.09.23,Montenegro,ME,2023,SUCCESS,0,600000.0,False,working,False,0,ipčić,none,False
+67,8852,8852,1086,1007,"Euros 2024, Qualifiers",Montenegro vs Bulgaria,10.09.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,0,Marušić,none,False
+68,8950,8950,84,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Congo, CG,2015,SUCCESS,0,3000000.0,False,working,False,0,P Oniangué,none,False
+69,8951,8951,85,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Congo, CG,2015,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none,False
+70,8952,8952,86,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+71,8953,8953,87,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Congo, CG,2015,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+72,9027,9027,161,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Congo, CG,2015,SUCCESS,0,3000000.0,False,working,False,0,P Oniangué,none,False
+73,9028,9028,162,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Congo, CG,2015,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none,False
+74,9029,9029,163,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Congo, CG,2015,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+75,9030,9030,164,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+76,9304,9304,438,3505,"African Cup of Nations, 2017",Mali vs Egypt,17-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+77,9337,9337,471,3507,"African Cup of Nations, 2017",Egypt vs Morocco,29-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+78,9359,9359,493,3508,"African Cup of Nations, 2017",Egypt vs Cameroon,05-02-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+79,9513,9513,647,3515,"African Cup of Nations, 2017",Egypt vs Ghana,25-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+80,9707,9707,841,3524,"African Cup of Nations, 2017",Egypt vs Uganda,21-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+81,9788,9788,922,3527,"African Cup of Nations, 2017",Burkina Faso vs Egypt,01-02-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+82,11105,11105,39,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+83,11121,11121,55,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+84,11182,11182,116,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+85,11313,11313,247,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+86,11366,11366,300,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+87,11380,11380,314,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+88,11424,11424,358,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+89,11440,11440,374,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+90,11442,11442,376,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+91,11501,11501,435,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+92,11506,11506,440,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+93,11556,11556,490,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+94,11585,11585,519,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+95,11601,11601,535,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+96,11609,11609,543,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+97,11678,11678,612,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,0,Verbič,none,False
+98,11708,11708,642,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,0,Kamešs,none,False
+99,13705,13705,439,2192,"World Cup Qualifiers, Africa, 2022",Senegal vs Egypt,29-03-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,0,Trézéguet,none,False
+100,16807,16807,241,616,"Euros 2020, Qualifiers",Northern Ireland vs Slovakia,12.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+101,16918,16918,352,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,0,ehić,none,False
+102,16925,16925,359,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,0,Krunić,none,False
+103,16926,16926,360,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,0,Pjanić,none,False
+104,16927,16927,361,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,0,Višća,none,False
+105,16948,16948,382,623,"Euros 2020, Qualifiers",Slovakia vs Ireland,08.10.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+106,16950,16950,384,623,"Euros 2020, Qualifiers",Slovakia vs Ireland,08.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+107,17019,17019,453,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,0,Tomašević,none,False
+108,17021,17021,455,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+109,17024,17024,458,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+110,17026,17026,460,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+111,17044,17044,478,627,"Euros 2020, Qualifiers",England vs Czech,22.03.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+112,17052,17052,486,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,0,Tomašević,none,False
+113,17055,17055,489,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+114,17057,17057,491,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+115,17059,17059,493,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+116,17097,17097,531,630,"Euros 2020, Qualifiers",Czech vs Bulgaria,07.06.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+117,17099,17099,533,630,"Euros 2020, Qualifiers",Czech vs Bulgaria,07.06.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+118,17117,17117,551,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,0,Tomašević,none,False
+119,17119,17119,553,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+120,17124,17124,558,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+121,17125,17125,559,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+122,17140,17140,574,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+123,17143,17143,577,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+124,17157,17157,591,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+125,17158,17158,592,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+126,17159,17159,593,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,0,Jovović,none,False
+127,17196,17196,630,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,Bořil,none,False
+128,17197,17197,631,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+129,17198,17198,632,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+130,17250,17250,684,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,0,Tomašević,none,False
+131,17256,17256,690,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+132,17258,17258,692,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+133,17262,17262,696,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,Bořil,none,False
+134,17263,17263,697,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+135,17264,17264,698,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+136,17273,17273,707,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,Bořil,none,False
+137,17274,17274,708,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+138,17275,17275,709,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+139,17295,17295,729,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+140,17298,17298,732,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+141,17300,17300,734,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,0,Jovović,none,False
+142,17348,17348,782,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+143,17354,17354,788,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,0,Marušić,none,False
+144,17355,17355,789,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+145,17356,17356,790,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,0,Jovović,none,False
+146,17373,17373,807,642,"Euros 2020, Qualifiers",England vs Montenegro,14.11.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,0,Simić,none,False
+147,17378,17378,812,642,"Euros 2020, Qualifiers",England vs Montenegro,14.11.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,0,Jovović,none,False
+148,17383,17383,817,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,Bořil,none,False
+149,17384,17384,818,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+150,17385,17385,819,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+151,17390,17390,824,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,3500000.0,False,working,False,0,Krmenčík,none,False
+152,17416,17416,850,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,Bořil,none,False
+153,17417,17417,851,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,0,Král,none,False
+154,17418,17418,852,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,0,Čelůstka,none,False
+155,17420,17420,854,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,0,evčík,none,False
+156,17625,17625,1059,654,"Euros 2020, Qualifiers",Lithuania vs Ukraine,07.09.19,Lithuania,LT,2019,SUCCESS,0,1000000.0,False,working,False,0,Žulpa,none,False
+157,18878,18878,112,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none,False
+158,18882,18882,116,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,0,Barák,none,False
+159,18978,18978,212,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none,False
+160,18981,18981,215,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,0,Barák,none,False
+161,19528,19528,762,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Král,none,False
+162,19549,19549,783,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none,False
+163,19604,19604,838,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,0,Holeš,none,False
+164,19685,19685,919,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,0,3500000.0,False,working,False,0,Hrošovský,none,False
+165,19919,19919,53,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none,False
+166,19995,19995,129,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none,False
+167,20092,20092,226,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,7000000.0,False,working,False,0,Král,none,False
+168,20093,20093,227,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,0,Barák,none,False
+169,20095,20095,229,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,0,Hložek,none,False
+170,20146,20146,280,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,0,Barák,none,False
+171,20471,20471,605,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,0,4500000.0,False,working,False,0,Drągowski,none,False
+172,22137,22137,71,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,0,Lulić,none,False
+173,22140,22140,74,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,0,Pjanić,none,False
+174,22141,22141,75,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,0,Višća,none,False
+175,22215,22215,149,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,0,Lulić,none,False
+176,22217,22217,151,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,0,Pjanić,none,False
+177,22218,22218,152,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,0,Višća,none,False
+178,22306,22306,240,415,"Euros 2016, Qualifiers",Ukraine vs Slovakia,08.09.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,0,Hamšík,none,False
+179,22352,22352,286,418,"Euros 2016, Qualifiers",Slovakia vs Spain,09.10.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+180,22361,22361,295,418,"Euros 2016, Qualifiers",Slovakia vs Spain,09.10.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,0,Hamšík,none,False
+181,22407,22407,341,420,"Euros 2016, Qualifiers",Belarus vs Slovakia,12.10.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+182,22416,22416,350,420,"Euros 2016, Qualifiers",Belarus vs Slovakia,12.10.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,0,Hamšík,none,False
+183,22473,22473,407,423,"Euros 2016, Qualifiers",North Macedonia vs Slovakia,15.11.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+184,22481,22481,415,423,"Euros 2016, Qualifiers",North Macedonia vs Slovakia,15.11.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,0,Hamšík,none,False
+185,22528,22528,462,426,"Euros 2016, Qualifiers",Slovakia vs Luxembourg,27.03.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+186,22535,22535,469,426,"Euros 2016, Qualifiers",Slovakia vs Luxembourg,27.03.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,0,Hamšík,none,False
+187,22693,22693,627,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+188,22698,22698,632,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,650000.0,False,working,False,0,Saláta,none,False
+189,22703,22703,637,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,0,Hamšík,none,False
+190,22748,22748,682,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+191,22755,22755,689,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,0,Pečovský,none,False
+192,22756,22756,690,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,0,Hamšík,none,False
+193,22792,22792,726,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+194,22795,22795,729,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,650000.0,False,working,False,0,Saláta,none,False
+195,22798,22798,732,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,0,Pečovský,none,False
+196,22801,22801,735,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,0,Hamšík,none,False
+197,22869,22869,803,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+198,22876,22876,810,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,0,Pečovský,none,False
+199,22878,22878,812,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,0,Hamšík,none,False
+200,26466,26466,0,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,75000.0,False,working,False,0,L Kazapua,none,False
+201,26469,26469,3,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,225000.0,False,working,False,0,A Gebhardt,none,False
+202,26470,26470,4,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,400000.0,False,working,False,0,R Hanamub,none,False
+203,26473,26473,7,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,J Kamatuka,none,False
+204,26474,26474,8,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,W Stephanus,none,False
+205,26475,26475,9,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,1000000.0,False,working,False,0,D Hotto,none,False
+206,26476,26476,10,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+207,26481,26481,15,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,1300000.0,False,working,False,0,B Mazikou,none,False
+208,26482,26482,16,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,N Mbemba,none,False
+209,26483,26483,17,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,1500000.0,False,working,False,0,G Makouta,none,False
+210,26484,26484,18,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,225000.0,False,working,False,0,Y Mabella,none,False
+211,26485,26485,19,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,A Makoumbou,none,False
+212,26487,26487,21,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Congo, CG,2021,SUCCESS,0,600000.0,False,working,False,0,S Ganvoula,none,False
+213,26587,26587,121,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none,False
+214,26589,26589,123,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,T Lombard,none,False
+215,26590,26590,124,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,C Katjiukua,none,False
+216,26592,26592,126,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,W Stephanus,none,False
+217,26595,26595,129,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none,False
+218,26596,26596,130,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,75000.0,False,working,False,0,J Kamatuka,none,False
+219,26597,26597,131,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none,False
+220,26998,26998,532,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Congo, CG,2021,SUCCESS,0,1300000.0,False,working,False,0,B Mazikou,none,False
+221,26999,26999,533,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,Y Andzouana,none,False
+222,27001,27001,535,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Congo, CG,2021,SUCCESS,0,300000.0,False,working,False,0,D Avounou,none,False
+223,27004,27004,538,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Congo, CG,2021,SUCCESS,0,600000.0,False,working,False,0,S Ganvoula,none,False
+224,27296,27296,830,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,N Mbemba,none,False
+225,27297,27297,831,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Congo, CG,2021,SUCCESS,0,1500000.0,False,working,False,0,G Makouta,none,False
+226,27298,27298,832,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,Y Andzouana,none,False
+227,27299,27299,833,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,A Makoumbou,none,False
+228,27300,27300,834,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,B Makouana,none,False
+229,27416,27416,950,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Congo, CG,2021,SUCCESS,0,1300000.0,False,working,False,0,B Mazikou,none,False
+230,27417,27417,951,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Congo, CG,2021,SUCCESS,0,300000.0,False,working,False,0,D Avounou,none,False
+231,27419,27419,953,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Congo, CG,2021,SUCCESS,0,1500000.0,False,working,False,0,G Makouta,none,False
+232,27420,27420,954,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Congo, CG,2021,SUCCESS,0,2200000.0,False,working,False,0,D Saint-Louis,none,False
+233,27422,27422,956,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Congo, CG,2021,SUCCESS,0,600000.0,False,working,False,0,S Ganvoula,none,False
+234,27681,27681,115,1422,Nations League 2018-2020,Czech vs Ukraine,06.09.18,Czech Republic,CZ,2018,SUCCESS,0,1500000.0,False,working,False,0,Bořil,none,False
+235,27685,27685,119,1422,Nations League 2018-2020,Czech vs Ukraine,06.09.18,Czech Republic,CZ,2018,SUCCESS,0,4000000.0,False,working,False,0,Krmenčík,none,False
+236,27718,27718,152,1423,Nations League 2018-2020,Ukraine vs Slovakia,09.09.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,0,Hamšík,none,False
+237,27729,27729,163,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,0,Hamšík,none,False
+238,27735,27735,169,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,0,Čelůstka,none,False
+239,27740,27740,174,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Czech Republic,CZ,2018,SUCCESS,0,4000000.0,False,working,False,0,Krmenčík,none,False
+240,27757,27757,191,1425,Nations League 2018-2020,Ukraine vs Czech,16.10.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,0,Čelůstka,none,False
+241,27758,27758,192,1425,Nations League 2018-2020,Ukraine vs Czech,16.10.18,Czech Republic,CZ,2018,SUCCESS,0,12000000.0,False,working,False,0,Barák,none,False
+242,27773,27773,207,1426,Nations League 2018-2020,Slovakia vs Ukraine,16.11.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,0,Hamšík,none,False
+243,27790,27790,224,1427,Nations League 2018-2020,Czech vs Slovakia,19.11.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,0,Čelůstka,none,False
+244,27805,27805,239,1427,Nations League 2018-2020,Czech vs Slovakia,19.11.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,0,Hamšík,none,False
+245,27951,27951,385,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,ehić,none,False
+246,27952,27952,386,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,Civič,none,False
+247,27959,27959,393,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,0,Pjanić,none,False
+248,27960,27960,394,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,0,Višća,none,False
+249,27962,27962,396,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,ehić,none,False
+250,27963,27963,397,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,Civič,none,False
+251,27970,27970,404,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,0,Pjanić,none,False
+252,27971,27971,405,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,0,Višća,none,False
+253,28006,28006,440,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,ehić,none,False
+254,28007,28007,441,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,Civič,none,False
+255,28014,28014,448,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,0,Pjanić,none,False
+256,28015,28015,449,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,0,Višća,none,False
+257,28039,28039,473,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,ehić,none,False
+258,28040,28040,474,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,0,Civič,none,False
+259,28047,28047,481,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,0,Pjanić,none,False
+260,28048,28048,482,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,0,Višća,none,False
+261,28607,28607,1041,1464,Nations League 2018-2020,Slovenia vs Bulgaria,06.09.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none,False
+262,28747,28747,81,3035,"World Cup Qualifiers, Europe, 2018",Denmark vs Montenegro,11-10-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+263,28945,28945,279,3044,"World Cup Qualifiers, Europe, 2018",Kazakhstan vs Montenegro,01-09-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+264,28999,28999,333,3047,"World Cup Qualifiers, Europe, 2018",Montenegro vs Romania,04-09-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+265,31313,31313,447,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none,False
+266,31412,31412,546,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none,False
+267,31553,31553,687,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none,False
+268,31653,31653,787,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none,False
+269,31828,31828,962,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,0,Krunić,none,False
+270,31900,31900,1034,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,0,Pirić,none,False
+271,31905,31905,1039,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,0,Bašić,none,False
+272,31918,31918,1052,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,0,4500000.0,False,working,False,0,Hrošovský,none,False
+273,39635,39635,35,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+274,39678,39678,78,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+275,39841,39841,241,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,0,Almási,none,False
+276,39852,39852,252,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,0,Almási,none,False
+277,39903,39903,303,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+278,39948,39948,348,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+279,40005,40005,405,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,0,500000.0,False,working,False,0,Regáli,none,False
+280,40048,40048,448,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,0,500000.0,False,working,False,0,Ozobić,none,False
+281,40411,40411,811,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,0,400000.0,False,working,False,0,Stînă,none,False
+282,40466,40466,866,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none,False
+283,40519,40519,919,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none,False
+284,40575,40575,975,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,0,Moțpan,none,False
+285,41261,41261,561,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei,07-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,0,Shin Shin-an,none,False
+286,41734,41734,1034,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait,15-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,0,Shin Shin-an,none,False
+287,42885,42885,1085,354,"Euros 2016, Qualifiers",Czech vs Netherlands,09.09.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,0,Vácha,none,False
+288,42900,42900,0,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none,False
+289,42902,42902,2,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none,False
+290,42903,42903,3,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none,False
+291,42905,42905,5,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none,False
+292,42906,42906,6,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,200000.0,False,working,False,0,D Hotto,none,False
+293,42907,42907,7,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none,False
+294,42909,42909,9,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shalulile,none,False
+295,42910,42910,10,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,,2015,SUCCESS,0,25000.0,False,working,False,0,B Shilongo,none,False
+296,43164,43164,264,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none,False
+297,43166,43166,266,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none,False
+298,43168,43168,268,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none,False
+299,43169,43169,269,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none,False
+300,43170,43170,270,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none,False
+301,43171,43171,271,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,W Gome,none,False
+302,43173,43173,273,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,25000.0,False,working,False,0,B Shilongo,none,False
+303,43174,43174,274,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,,2015,SUCCESS,0,200000.0,False,working,False,0,D Hotto,none,False
+304,43202,43202,302,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+305,43292,43292,392,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+306,43294,43294,394,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Congo, CG,2015,SUCCESS,0,400000.0,False,working,False,0,K Koubemba,none,False
+307,43840,43840,940,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none,False
+308,43841,43841,941,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,350000.0,False,working,False,0,M Ndockyt,none,False
+309,43844,43844,944,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,1250000.0,False,working,False,0,D Delarge,none,False
+310,43845,43845,945,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Congo, CG,2016,SUCCESS,0,400000.0,False,working,False,0,F Doré,none,False
+311,43848,43848,948,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,50000.0,False,working,False,0,F Mayembo,none,False
+312,43850,43850,950,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,300000.0,False,working,False,0,T Badila,none,False
+313,43854,43854,954,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,D Bahamboula,none,False
+314,43855,43855,955,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+315,43856,43856,956,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Congo, CG,2017,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+316,44110,44110,110,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none,False
+317,44112,44112,112,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none,False
+318,44113,44113,113,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none,False
+319,44114,44114,114,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none,False
+320,44115,44115,115,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none,False
+321,44118,44118,118,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none,False
+322,44119,44119,119,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none,False
+323,44120,44120,120,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,,2019,SUCCESS,0,75000.0,False,working,False,0,J Kamatuka,none,False
+324,44153,44153,153,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none,False
+325,44339,44339,339,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none,False
+326,44537,44537,537,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none,False
+327,44759,44759,759,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none,False
+328,44761,44761,761,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none,False
+329,44762,44762,762,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none,False
+330,44763,44763,763,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none,False
+331,44764,44764,764,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none,False
+332,44766,44766,766,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,250000.0,False,working,False,0,M Starke,none,False
+333,44767,44767,767,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none,False
+334,44768,44768,768,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none,False
+335,44769,44769,769,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,,2019,SUCCESS,0,325000.0,False,working,False,0,B Shilongo,none,False
+336,44847,44847,847,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none,False
+337,44849,44849,849,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,725000.0,False,working,False,0,R Nyambe,none,False
+338,44850,44850,850,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,D Haoseb,none,False
+339,44851,44851,851,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,R Hanamub,none,False
+340,44852,44852,852,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none,False
+341,44854,44854,854,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,250000.0,False,working,False,0,M Starke,none,False
+342,44855,44855,855,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none,False
+343,44856,44856,856,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none,False
+344,44933,44933,933,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,0,Trézéguet,none,False
+346,46222,46222,22,1870,Nations League 2022-2023,Moldova vs Kazakhstan,24.03.22,Moldova,MD,2022,SUCCESS,0,100000.0,False,working,False,0,Namașco,none,False
+347,46279,46279,79,1872,Nations League 2022-2023,Estonia vs Cyprus,24.03.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+348,46290,46290,90,1873,Nations League 2022-2023,Cyprus vs Estonia,29.03.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+349,46651,46651,451,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Congo, CG,2013,SUCCESS,0,400000.0,False,working,False,0,B Mouko,none,False
+350,46656,46656,456,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Congo, CG,2013,SUCCESS,0,800000.0,False,working,False,0,C Malonga,none,False
+351,46659,46659,459,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Congo, CG,2013,SUCCESS,0,900000.0,False,working,False,0,P Oniangué,none,False
+352,46660,46660,460,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Congo, CG,2013,SUCCESS,0,500000.0,False,working,False,0,L Douniama,none,False
+353,47119,47119,919,1912,"World Cup Qualifiers, Africa, 2014",Kenya vs Namibia,08-09-2013,Namibia,,2013,SUCCESS,0,100000.0,False,working,False,0,H Isaacks,none,False
+354,47120,47120,920,1912,"World Cup Qualifiers, Africa, 2014",Kenya vs Namibia,08-09-2013,Namibia,,2013,SUCCESS,0,75000.0,False,working,False,0,P Jacob,none,False
+355,47287,47287,1087,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Congo, CG,2016,SUCCESS,0,1750000.0,False,working,False,0,T Bifouma,none,False
+356,47288,47288,1088,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Congo, CG,2016,SUCCESS,0,400000.0,False,working,False,0,F Doré,none,False
+357,47297,47297,1097,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Egypt,EG,2016,SUCCESS,0,1800000.0,False,working,False,0,Trézéguet,none,False
+358,48054,48054,754,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+359,48061,48061,761,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,0,Bořil,none,False
+360,48062,48062,762,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,0,Král,none,False
+361,48063,48063,763,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,0,Čelůstka,none,False
+362,48069,48069,769,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,17000000.0,False,working,False,0,Hložek,none,False
+363,48071,48071,771,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,4000000.0,False,working,False,0,Holeš,none,False
+364,48072,48072,772,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,200000.0,False,working,False,0,Hubník,none,False
+365,48075,48075,775,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,0,Jánoš,none,False
+366,48078,48078,778,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,800000.0,False,working,False,0,Havlík,none,False
+367,48133,48133,833,1605,Nations League 2020-2021,Scotland vs Slovakia,11.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+368,48150,48150,850,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,0,Bořil,none,False
+369,48151,48151,851,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,0,Král,none,False
+370,48152,48152,852,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,0,Čelůstka,none,False
+371,48172,48172,872,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,0,Bořil,none,False
+372,48173,48173,873,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,0,Král,none,False
+373,48174,48174,874,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,0,Čelůstka,none,False
+374,48187,48187,887,1608,Nations League 2020-2021,Slovakia vs Israel,14.10.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+375,48189,48189,889,1608,Nations League 2020-2021,Slovakia vs Israel,14.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+376,48209,48209,909,1609,Nations League 2020-2021,Slovakia vs Scotland,15.11.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,0,Hrošovský,none,False
+377,48211,48211,911,1609,Nations League 2020-2021,Slovakia vs Scotland,15.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+378,48228,48228,928,1610,Nations League 2020-2021,Czech vs Israel,15.11.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,0,Král,none,False
+379,48250,48250,950,1611,Nations League 2020-2021,Czech vs Slovakia,18.11.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,0,Král,none,False
+380,48266,48266,966,1611,Nations League 2020-2021,Czech vs Slovakia,18.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,0,Hamšík,none,False
+381,48631,48631,231,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,SUCCESS,0,4500000.0,False,working,False,0,Brkić,none,False
+382,50237,50237,737,941,"Euros 2024, Qualifiers",Wales vs Armenia,16.06.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+383,50270,50270,770,943,"Euros 2024, Qualifiers",Armenia vs Latvia,19.06.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+384,50347,50347,847,946,"Euros 2024, Qualifiers",Turkey vs Armenia,08.09.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+385,50358,50358,858,947,"Euros 2024, Qualifiers",Armenia vs Croatia,11.09.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+386,50413,50413,913,949,"Euros 2024, Qualifiers",Latvia vs Armenia,12.10.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+387,50490,50490,990,953,"Euros 2024, Qualifiers",Armenia vs Wales,18.11.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+388,50545,50545,1045,955,"Euros 2024, Qualifiers",Croatia vs Armenia,21.11.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,0,Čančarević,none,False
+389,50579,50579,1079,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,0,Holeš,none,False
+390,50583,50583,1083,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,0,Král,none,False
+391,50586,50586,1086,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,0,Hložek,none,False
+392,50971,50971,371,1988,"World Cup Qualifiers, Africa, 2018",Uganda vs Egypt,31-08-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,0,Trézéguet,none,False
+393,51029,51029,429,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none,False
+394,51031,51031,431,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none,False
+395,51032,51032,432,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none,False
+396,51034,51034,434,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none,False
+397,51035,51035,435,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,W Gome,none,False
+398,51036,51036,436,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none,False
+399,51037,51037,437,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shalulile,none,False
+400,51039,51039,439,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,,2015,SUCCESS,0,100000.0,False,working,False,0,H Somaeb,none,False
+401,51361,51361,761,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Congo, CG,2017,SUCCESS,0,50000.0,False,working,False,0,F Mayembo,none,False
+402,51363,51363,763,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Congo, CG,2017,SUCCESS,0,300000.0,False,working,False,0,T Badila,none,False
+403,51367,51367,767,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,D Bahamboula,none,False
+404,51368,51368,768,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+405,51369,51369,769,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Congo, CG,2017,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+406,51614,51614,1014,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,50000.0,False,working,False,0,F Mayembo,none,False
+407,51616,51616,1016,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,300000.0,False,working,False,0,T Badila,none,False
+408,51617,51617,1017,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,1200000.0,False,working,False,0,D Delarge,none,False
+409,51618,51618,1018,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,2000000.0,False,working,False,0,P Oniangué,none,False
+410,51621,51621,1021,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,150000.0,False,working,False,0,D Saint-Louis,none,False
+411,51622,51622,1022,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Congo, CG,2017,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+412,51643,51643,1043,2019,"World Cup Qualifiers, Africa, 2018",Egypt vs Ghana,13-11-2016,Egypt,EG,2016,SUCCESS,0,1800000.0,False,working,False,0,Trézéguet,none,False
+413,51669,51669,1069,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,50000.0,False,working,False,0,F Mayembo,none,False
+414,51671,51671,1071,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,300000.0,False,working,False,0,T Badila,none,False
+415,51672,51672,1072,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,1200000.0,False,working,False,0,D Delarge,none,False
+416,51673,51673,1073,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,2000000.0,False,working,False,0,P Oniangué,none,False
+417,51675,51675,1075,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,600000.0,False,working,False,0,D Bahamboula,none,False
+418,51676,51676,1076,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,150000.0,False,working,False,0,D Saint-Louis,none,False
+419,51677,51677,1077,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Congo, CG,2017,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+420,52866,52866,66,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+421,52872,52872,72,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,0,Krunić,none,False
+422,52873,52873,73,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+423,52875,52875,75,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+424,52921,52921,121,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+425,52929,52929,129,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+426,52930,52930,130,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+427,52976,52976,176,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+428,52984,52984,184,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+429,52985,52985,185,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+430,53075,53075,275,868,"Euros 2020, Qualifiers",Greece vs Bosnia-Herzegovina,15.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+431,53084,53084,284,868,"Euros 2020, Qualifiers",Greece vs Bosnia-Herzegovina,15.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+432,53152,53152,352,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+433,53158,53158,358,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,0,Krunić,none,False
+434,53160,53160,360,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+435,53161,53161,361,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+436,53229,53229,429,875,"Euros 2020, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,18.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,Pirić,none,False
+437,53230,53230,430,875,"Euros 2020, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,18.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,Civič,none,False
+438,53253,53253,453,877,"Euros 2024, Qualifiers",Scotland vs Cyprus,25.03.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+439,53352,53352,552,882,"Euros 2024, Qualifiers",Cyprus vs Georgia,17.06.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+440,53407,53407,607,884,"Euros 2024, Qualifiers",Norway vs Cyprus,20.06.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+441,53473,53473,673,887,"Euros 2024, Qualifiers",Spain vs Cyprus,12.09.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+442,53528,53528,728,890,"Euros 2024, Qualifiers",Cyprus vs Norway,12.10.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+443,53562,53562,762,891,"Euros 2024, Qualifiers",Georgia vs Cyprus,15.10.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+444,53617,53617,817,894,"Euros 2024, Qualifiers",Cyprus vs Spain,16.11.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,0,Gogić,none,False
+445,53913,53913,13,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+446,53915,53915,15,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,0,Simić,none,False
+447,53918,53918,18,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,0,Marušić,none,False
+448,53989,53989,89,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+449,53991,53991,91,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,0,Simić,none,False
+450,53995,53995,95,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,0,Marušić,none,False
+451,53998,53998,98,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,500000.0,False,working,False,0,Mugoša,none,False
+452,57739,57739,539,1542,Nations League 2020-2021,Italy vs Bosnia-Herzegovina,04.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,0,ehić,none,False
+453,57747,57747,547,1542,Nations League 2020-2021,Italy vs Bosnia-Herzegovina,04.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,0,Višća,none,False
+454,57773,57773,573,1544,Nations League 2020-2021,Bosnia-Herzegovina vs Poland,07.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,1500000.0,False,working,False,0,Civič,none,False
+455,57782,57782,582,1544,Nations League 2020-2021,Bosnia-Herzegovina vs Poland,07.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,1700000.0,False,working,False,0,Koljić,none,False
+456,57794,57794,594,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,0,ehić,none,False
+457,57801,57801,601,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,0,Krunić,none,False
+458,57802,57802,602,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,0,Pjanić,none,False
+459,57871,57871,671,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,0,ehić,none,False
+460,57878,57878,678,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,0,Krunić,none,False
+461,57879,57879,679,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,0,Pjanić,none,False
+462,57880,57880,680,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,0,Višća,none,False
+463,57893,57893,693,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,0,ehić,none,False
+464,57900,57900,700,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,0,Krunić,none,False
+465,57901,57901,701,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,0,Pjanić,none,False
+466,57902,57902,702,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,0,Višća,none,False
+467,57926,57926,726,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,600000.0,False,working,False,0,Pirić,none,False
+468,57933,57933,733,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,0,Krunić,none,False
+469,57934,57934,734,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,0,Pjanić,none,False
+470,60302,60302,902,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+471,60303,60303,903,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,Civič,none,False
+472,60309,60309,909,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,0,Krunić,none,False
+473,60310,60310,910,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+474,60311,60311,911,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+475,60390,60390,990,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+476,60398,60398,998,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+477,60399,60399,999,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+478,60423,60423,1023,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+479,60424,60424,1024,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,Civič,none,False
+480,60432,60432,1032,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+481,60489,60489,1089,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,ehić,none,False
+482,60490,60490,1090,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,0,Civič,none,False
+483,60497,60497,1097,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,0,Pjanić,none,False
+484,60498,60498,1098,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,0,Višća,none,False
+485,61176,61176,676,3618,"African Cup of Nations, 2021",Nigeria vs Egypt,11-01-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,0,Trézéguet,none,False
+486,61683,61683,83,358,"Euros 2016, Qualifiers",Turkey vs Czech,10.10.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,0,Vácha,none,False
+487,61705,61705,105,359,"Euros 2016, Qualifiers",Kazakhstan vs Czech,13.10.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,0,Vácha,none,False
+488,61782,61782,182,363,"Euros 2016, Qualifiers",Czech vs Iceland,16.11.14,Czech Republic,CZ,2014,SUCCESS,0,1000000.0,False,working,False,0,Plašil,none,False
+489,62187,62187,587,381,"Euros 2016, Qualifiers",Netherlands vs Czech,13.10.15,Czech Republic,CZ,2015,SUCCESS,0,1000000.0,False,working,False,0,Plašil,none,False
+490,62353,62353,753,389,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Belgium,13.10.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,0,Lulić,none,False
+491,62356,62356,756,389,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Belgium,13.10.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,0,Pjanić,none,False
+492,62454,62454,854,393,"Euros 2016, Qualifiers",Israel vs Bosnia-Herzegovina,16.11.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,0,Lulić,none,False
+493,62457,62457,857,393,"Euros 2016, Qualifiers",Israel vs Bosnia-Herzegovina,16.11.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,0,Pjanić,none,False
+494,62629,62629,1029,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,0,Lulić,none,False
+495,62631,62631,1031,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,0,Pjanić,none,False
+496,62632,62632,1032,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,0,Višća,none,False
+497,62799,62799,99,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,250000.0,False,working,False,0,M Mbaeva,none,False
+498,62801,62801,101,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,125000.0,False,working,False,0,C Katjiukua,none,False
+499,62803,62803,103,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,225000.0,False,working,False,0,W Mwedihanga,none,False
+500,62804,62804,104,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,P Shitembi,none,False
+501,62805,62805,105,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,300000.0,False,working,False,0,R Ketjijere,none,False
+502,62806,62806,106,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,75000.0,False,working,False,0,W Gome,none,False
+503,62808,62808,108,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,25000.0,False,working,False,0,B Shilongo,none,False
+504,62809,62809,109,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,,2015,SUCCESS,0,200000.0,False,working,False,0,D Hotto,none,False
+505,62949,62949,249,2033,"World Cup Qualifiers, Africa, 2018",Congo vs Ethiopia,17-11-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+506,62951,62951,251,2033,"World Cup Qualifiers, Africa, 2018",Congo vs Ethiopia,17-11-2015,Congo, CG,2015,SUCCESS,0,400000.0,False,working,False,0,K Koubemba,none,False
+507,63175,63175,475,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,F Mayembo,none,False
+508,63177,63177,477,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,650000.0,False,working,False,0,M Poaty,none,False
+509,63178,63178,478,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,N Mbemba,none,False
+510,63179,63179,479,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,Y Andzouana,none,False
+511,63180,63180,480,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,1500000.0,False,working,False,0,G Makouta,none,False
+512,63181,63181,481,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,W Tchimbembé,none,False
+513,63183,63183,483,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Congo, CG,2021,SUCCESS,0,600000.0,False,working,False,0,S Ganvoula,none,False
+514,63239,63239,539,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,,2021,SUCCESS,0,75000.0,False,working,False,0,L Kazapua,none,False
+515,63242,63242,542,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,,2021,SUCCESS,0,225000.0,False,working,False,0,A Gebhardt,none,False
+516,63243,63243,543,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,,2021,SUCCESS,0,400000.0,False,working,False,0,R Hanamub,none,False
+517,63247,63247,547,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+518,63248,63248,548,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,,2021,SUCCESS,0,1000000.0,False,working,False,0,D Hotto,none,False
+519,63470,63470,770,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,L Kazapua,none,False
+520,63472,63472,772,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,100000.0,False,working,False,0,T Lombard,none,False
+521,63473,63473,773,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,C Katjiukua,none,False
+522,63476,63476,776,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,150000.0,False,working,False,0,P Shitembi,none,False
+523,63477,63477,777,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,50000.0,False,working,False,0,D Fredericks,none,False
+524,63478,63478,778,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,950000.0,False,working,False,0,D Hotto,none,False
+525,63479,63479,779,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,600000.0,False,working,False,0,P Shalulile,none,False
+526,63480,63480,780,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,,2019,SUCCESS,0,325000.0,False,working,False,0,B Shilongo,none,False
+527,64265,64265,465,3355,"World Cup Qualifiers, Europe, 2022",Montenegro vs Gibraltar,27-03-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+528,65819,65819,919,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Congo, CG,2015,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+529,65821,65821,921,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Congo, CG,2015,SUCCESS,0,3000000.0,False,working,False,0,P Oniangué,none,False
+530,65822,65822,922,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Congo, CG,2015,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none,False
+531,65823,65823,923,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+532,65850,65850,950,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Congo, CG,2015,SUCCESS,0,800000.0,False,working,False,0,A Bouka Moutou,none,False
+533,65853,65853,953,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Congo, CG,2015,SUCCESS,0,2500000.0,False,working,False,0,T Bifouma,none,False
+534,65854,65854,954,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Congo, CG,2015,SUCCESS,0,3000000.0,False,working,False,0,P Oniangué,none,False
+535,65856,65856,956,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Congo, CG,2015,SUCCESS,0,600000.0,False,working,False,0,F Doré,none,False
+536,66079,66079,79,1011,"Euros 2024, Qualifiers",Serbia vs Montenegro,17.10.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,0,Tomašević,none,False
+537,66083,66083,83,1011,"Euros 2024, Qualifiers",Serbia vs Montenegro,17.10.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,0,Marušić,none,False
+538,66136,66136,136,1013,"Euros 2024, Qualifiers",Montenegro vs Lithuania,16.11.23,Montenegro,ME,2023,SUCCESS,0,1700000.0,False,working,False,0,Rubežić,none,False
+539,66170,66170,170,1015,"Euros 2024, Qualifiers",Hungary vs Montenegro,19.11.23,Montenegro,ME,2023,SUCCESS,0,1700000.0,False,working,False,0,Rubežić,none,False
+540,66215,66215,215,1017,"Euros 2024, Qualifiers",Kazakhstan vs Slovenia,23.03.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,0,Verbič,none,False
+541,66290,66290,290,1021,"Euros 2024, Qualifiers",Slovenia vs San Marino,26.03.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,0,Verbič,none,False
+542,66419,66419,419,1027,"Euros 2024, Qualifiers",Slovenia vs Denmark,19.06.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+543,66508,66508,508,1031,"Euros 2024, Qualifiers",Slovenia vs Northern Ireland,07.09.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+544,66619,66619,619,1036,"Euros 2024, Qualifiers",Slovenia vs Finland,14.10.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+545,66696,66696,696,1039,"Euros 2024, Qualifiers",Northern Ireland vs Slovenia,17.10.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+546,66784,66784,784,1043,"Euros 2024, Qualifiers",Denmark vs Slovenia,17.11.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+547,66786,66786,786,1043,"Euros 2024, Qualifiers",Denmark vs Slovenia,17.11.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,0,Verbič,none,False
+548,66795,66795,795,1044,"Euros 2024, Qualifiers",Slovenia vs Kazakhstan,20.11.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,0,Janža,none,False
+549,67257,67257,157,3391,"World Cup Qualifiers, Europe, 2022",Montenegro vs Norway,30-03-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+550,67631,67631,531,3408,"World Cup Qualifiers, Europe, 2022",Montenegro vs Latvia,07-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+551,67906,67906,806,3420,"World Cup Qualifiers, Europe, 2022",Gibraltar vs Montenegro,08-10-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+552,68380,68380,180,3091,"World Cup Qualifiers, Europe, 2018",Montenegro vs Kazakhstan,08-10-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+553,68413,68413,213,3092,"World Cup Qualifiers, Europe, 2018",Romania vs Montenegro,04-09-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+554,69758,69758,458,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none,False
+555,69779,69779,479,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none,False
+556,69831,69831,531,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none,False
+557,69876,69876,576,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none,False
+558,69911,69911,611,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none,False
+559,69913,69913,613,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,0,Mugoša,none,False
+560,69961,69961,661,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,0,Simić,none,False
+561,69966,69966,666,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,0,Marušić,none,False
+562,69967,69967,667,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,0,Mugoša,none,False
+563,70355,70355,1055,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,0,Verbič,none,False
+564,70367,70367,1067,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none,False
+565,70378,70378,1078,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,0,Namașco,none,False
+566,70398,70398,1098,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,0,Verbič,none,False
+568,72632,72632,32,707,"Euros 2020, Qualifiers",Slovakia vs Hungary,21.03.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+569,72665,72665,65,708,"Euros 2020, Qualifiers",Wales vs Slovakia,24.03.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+570,72752,72752,152,712,"Euros 2020, Qualifiers",Azerbaijan vs Slovakia,11.06.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+571,72808,72808,208,715,"Euros 2020, Qualifiers",Slovakia vs Croatia,06.09.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+572,72862,72862,262,717,"Euros 2020, Qualifiers",Hungary vs Slovakia,09.09.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+573,72895,72895,295,719,"Euros 2020, Qualifiers",Slovakia vs Wales,10.10.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+574,72975,72975,375,723,"Euros 2020, Qualifiers",Croatia vs Slovakia,16.11.19,Croatia,HR,2019,SUCCESS,0,4800000.0,False,working,False,0,Perić,none,False
+575,72994,72994,394,723,"Euros 2020, Qualifiers",Croatia vs Slovakia,16.11.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+576,73027,73027,427,725,"Euros 2020, Qualifiers",Slovakia vs Azerbaijan,19.11.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,0,Hamšík,none,False
+577,73953,73953,253,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,ehić,none,False
+578,73959,73959,259,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,0,Prcić,none,False
+579,73960,73960,260,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,0,Krunić,none,False
+580,73962,73962,262,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,0,Pjanić,none,False
+581,73966,73966,266,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+582,73971,73971,271,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,0,Marušić,none,False
+583,73972,73972,272,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,0,Mugoša,none,False
+584,73973,73973,273,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,0,Jovović,none,False
+585,73999,73999,299,1782,Nations League 2022-2023,Finland vs Montenegro,07.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+586,74001,74001,301,1782,Nations League 2022-2023,Finland vs Montenegro,07.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,0,ipčić,none,False
+587,74008,74008,308,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,ehić,none,False
+588,74009,74009,309,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,Civič,none,False
+589,74016,74016,316,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,0,Prcić,none,False
+590,74054,74054,354,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+591,74059,74059,359,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,0,Marušić,none,False
+592,74060,74060,360,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,0,Mugoša,none,False
+593,74061,74061,361,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,0,Jovović,none,False
+594,74063,74063,363,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,ehić,none,False
+595,74069,74069,369,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1500000.0,False,working,False,0,Hotić,none,False
+596,74070,74070,370,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,0,Krunić,none,False
+597,74072,74072,372,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,0,Pjanić,none,False
+598,74074,74074,374,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,ehić,none,False
+599,74081,74081,381,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,0,Prcić,none,False
+600,74082,74082,382,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,0,Krunić,none,False
+601,74083,74083,383,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,0,Pjanić,none,False
+602,74109,74109,409,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+603,74115,74115,415,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,0,Mugoša,none,False
+604,74116,74116,416,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,0,Jovović,none,False
+605,74118,74118,418,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,ehić,none,False
+606,74126,74126,426,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,0,Pjanić,none,False
+607,74131,74131,431,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+608,74137,74137,437,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,2000000.0,False,working,False,0,Osmajić,none,False
+609,74138,74138,438,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,0,Marušić,none,False
+610,74174,74174,474,1790,Nations League 2022-2023,Romania vs Bosnia-Herzegovina,26.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,0,Civič,none,False
+611,74177,74177,477,1790,Nations League 2022-2023,Romania vs Bosnia-Herzegovina,26.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,450000.0,False,working,False,0,erbečić,none,False
+612,74186,74186,486,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,0,Tomašević,none,False
+613,74191,74191,491,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,0,Mugoša,none,False
+614,74193,74193,493,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,0,Jovović,none,False
+615,74229,74229,529,1793,Nations League 2022-2023,Slovenia vs Sweden,02.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,0,Sikošek,none,False
+616,74328,74328,628,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,0,Sikošek,none,False
+617,74334,74334,634,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,0,Verbič,none,False
+618,74361,74361,661,1799,Nations League 2022-2023,Slovenia vs Serbia,12.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,0,Sikošek,none,False
+619,74383,74383,683,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,0,Sikošek,none,False
+620,74389,74389,689,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,0,Verbič,none,False
+621,74439,74439,739,1802,Nations League 2022-2023,Sweden vs Slovenia,27.09.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,0,Sikošek,none,False
+622,74444,74444,744,1802,Nations League 2022-2023,Sweden vs Slovenia,27.09.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,0,Verbič,none,False
+623,74736,74736,1036,1816,Nations League 2022-2023,Cyprus vs Kosovo,02.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+624,74780,74780,1080,1818,Nations League 2022-2023,Cyprus vs Northern Ireland,05.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,0,Gogić,none,False
+625,77828,77828,828,3221,"World Cup Qualifiers, Europe, 2022",Norway vs Montenegro,11-10-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+626,79431,79431,231,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+627,79437,79437,237,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,2250000.0,False,working,False,0,Hrošovský,none,False
+628,79440,79440,240,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,0,Hamšík,none,False
+629,79651,79651,451,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+630,79655,79655,455,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,2250000.0,False,working,False,0,Hrošovský,none,False
+631,79660,79660,460,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,0,Hamšík,none,False
+632,79695,79695,495,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+633,79702,79702,502,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,275000.0,False,working,False,0,Pečovský,none,False
+634,79704,79704,504,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,0,Hamšík,none,False
+635,79750,79750,550,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,0,Kozáčik,none,False
+636,79758,79758,558,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,275000.0,False,working,False,0,Pečovský,none,False
+637,79760,79760,560,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,0,Hamšík,none,False
+638,79955,79955,755,1143,Euros 2016,Czech vs Croatia,17.06.16,Czech Republic,CZ,2016,SUCCESS,0,1500000.0,False,working,False,0,Skalák,none,False
+639,81480,81480,80,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,0,1000000.0,False,working,False,0,Žulpa,none,False
+640,87027,87027,4461,204,World Cup 2014,Argentina vs Bosnia-Herzegovina,16.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,0,Lulić,none,False
+641,87030,87030,4464,204,World Cup 2014,Argentina vs Bosnia-Herzegovina,16.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,0,Pjanić,none,False
+642,87092,87092,4526,207,World Cup 2014,Nigeria vs Bosnia-Herzegovina,22.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,0,Lulić,none,False
+643,87096,87096,4530,207,World Cup 2014,Nigeria vs Bosnia-Herzegovina,22.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,0,Pjanić,none,False
+644,87127,87127,4561,209,World Cup 2014,Bosnia-Herzegovina vs Iran,25.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,1750000.0,False,working,False,0,Vršajević,none,False
+645,87128,87128,4562,209,World Cup 2014,Bosnia-Herzegovina vs Iran,25.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,0,Pjanić,none,False
+646,87704,87704,5138,236,World Cup 2018,Belgium vs Japan,02.07.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,0,Shōji,none,False
+647,88275,88275,209,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei,03-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,0,Shin Shin-an,none,False
+648,90320,90320,54,2125,"World Cup Qualifiers, Africa, 2022",Egypt vs Senegal,25-03-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,0,Trézéguet,none,False
+649,90574,90574,308,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,,2021,SUCCESS,0,75000.0,False,working,False,0,L Kazapua,none,False
+650,90575,90575,309,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,,2021,SUCCESS,0,2500000.0,False,working,False,0,R Nyambe,none,False
+651,90584,90584,318,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+652,90772,90772,506,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,75000.0,False,working,False,0,L Kazapua,none,False
+653,90775,90775,509,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,225000.0,False,working,False,0,A Gebhardt,none,False
+654,90776,90776,510,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,400000.0,False,working,False,0,R Hanamub,none,False
+655,90779,90779,513,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,1000000.0,False,working,False,0,D Hotto,none,False
+656,90780,90780,514,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,J Kamatuka,none,False
+657,90781,90781,515,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,W Stephanus,none,False
+658,90782,90782,516,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+659,91138,91138,872,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,,2021,SUCCESS,0,225000.0,False,working,False,0,A Gebhardt,none,False
+660,91139,91139,873,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,,2021,SUCCESS,0,400000.0,False,working,False,0,R Hanamub,none,False
+661,91140,91140,874,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+662,91144,91144,878,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,,2021,SUCCESS,0,1000000.0,False,working,False,0,D Hotto,none,False
+663,91173,91173,907,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Congo, CG,2021,SUCCESS,0,400000.0,False,working,False,0,N Mbemba,none,False
+664,91175,91175,909,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Congo, CG,2021,SUCCESS,0,800000.0,False,working,False,0,A Makoumbou,none,False
+665,91176,91176,910,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Congo, CG,2021,SUCCESS,0,1500000.0,False,working,False,0,G Makouta,none,False
+666,91179,91179,913,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,75000.0,False,working,False,0,L Kazapua,none,False
+667,91180,91180,914,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,2500000.0,False,working,False,0,R Nyambe,none,False
+668,91186,91186,920,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,W Stephanus,none,False
+669,91187,91187,921,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,100000.0,False,working,False,0,J Kamatuka,none,False
+670,91188,91188,922,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,1000000.0,False,working,False,0,D Hotto,none,False
+671,91189,91189,923,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,,2021,SUCCESS,0,2000000.0,False,working,False,0,P Shalulile,none,False
+672,91994,91994,628,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,0,Shōji,none,False
+673,92027,92027,661,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,0,Shōji,none,False
+674,92146,92146,780,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,0,5000000.0,False,working,False,0,Oršić,none,False
+675,94483,94483,917,3023,"World Cup Qualifiers, Europe, 2018",Poland vs Montenegro,08-10-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,0,Tomašević,none,False
+676,95010,95010,344,3249,"World Cup Qualifiers, Europe, 2022",Netherlands vs Montenegro,04-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+677,95066,95066,400,3252,"World Cup Qualifiers, Europe, 2022",Montenegro vs Netherlands,13-11-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+678,95418,95418,752,3268,"World Cup Qualifiers, Europe, 2022",Montenegro vs Turkey,16-11-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,0,Tomašević,none,False
+679,95785,95785,19,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none,False
+680,95906,95906,140,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none,False
+681,95960,95960,194,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,0,Verbič,none,False
+682,95972,95972,206,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+683,95999,95999,233,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none,False
+684,96001,96001,235,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+685,96006,96006,240,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+686,96007,96007,241,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+687,96032,96032,266,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none,False
+688,96034,96034,268,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+689,96040,96040,274,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+690,96049,96049,283,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+691,96059,96059,293,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+692,96076,96076,310,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none,False
+693,96078,96078,312,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+694,96081,96081,315,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none,False
+695,96084,96084,318,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+696,96124,96124,358,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+697,96132,96132,366,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,0,Tomašević,none,False
+698,96134,96134,368,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+699,96138,96138,372,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+700,96139,96139,373,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+701,96154,96154,388,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+702,96158,96158,392,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none,False
+703,96160,96160,394,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+704,96161,96161,395,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+705,96176,96176,410,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+706,96199,96199,433,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,0,Žulpa,none,False
+707,96209,96209,443,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,0,Simić,none,False
+708,96212,96212,446,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,0,Marušić,none,False
+709,96214,96214,448,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,0,Mugoša,none,False
+710,96216,96216,450,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,0,Jovović,none,False
+711,96228,96228,462,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none,False
+712,96250,96250,484,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+713,96283,96283,517,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+714,96305,96305,539,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none,False
+715,96338,96338,572,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+716,96349,96349,583,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none,False
+717,96360,96360,594,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none,False
+718,96382,96382,616,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+719,96404,96404,638,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,0,Erić,none,False
+720,96415,96415,649,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
+721,96459,96459,693,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,0,Vaņins,none,False
