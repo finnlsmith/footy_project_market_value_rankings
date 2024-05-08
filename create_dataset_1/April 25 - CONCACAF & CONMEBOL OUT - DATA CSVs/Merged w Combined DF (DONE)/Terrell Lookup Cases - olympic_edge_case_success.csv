@@ -1,0 +1,17 @@
+,Unnamed: 0,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,25653,1328,"Olympics, 2016",Iraq vs Denmark,2016-08-04,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",100000,FALSE,Found in Curr Season,FALSE,['Ahmed Ibrahim Khalaf'],Ahmad Ibrahim,multiple
+1,25730,1331,"Olympics, 2016",Brazil vs Iraq,2016-08-07,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",100000,FALSE,Found in Curr Season,FALSE,['Ahmed Ibrahim Khalaf'],Ahmad Ibrahim,multiple
+2,25774,1333,"Olympics, 2016",South Africa vs Iraq,2016-08-10,Iraq,IQ,2016,FAIL,"['Khaldoun Ibrahim', 'Ahmed Ibrahim Khalaf', 'Ahmed Nadhim']",100000,FALSE,Found in Curr Season,FALSE,['Ahmed Ibrahim Khalaf'],Ahmad Ibrahim,multiple
+3,25797,1334,"Olympics, 2016",Sweden vs Colombia,2016-08-04,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",400000,FALSE,Found in Curr Season,FALSE,[‘Deivy Balanta’],Deivy Balanta,multiple
+4,25863,1337,"Olympics, 2016",Japan vs Colombia,2016-08-07,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",400000,FALSE,Found in Curr Season,FALSE,[‘Deivy Balanta’],Deivy Balanta,multiple
+5,25896,1339,"Olympics, 2016",Colombia vs Nigeria,2016-08-10,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",400000,FALSE,Found in Curr Season,FALSE,[‘Deivy Balanta’],Deivy Balanta,multiple
+6,26259,1355,"Olympics, 2016",Brazil vs Colombia,2016-08-13,Colombia,CO,2016,FAIL,"['Kevin Balanta', 'Leyvin Balanta', 'Éder Balanta']",400000,FALSE,Found in Curr Season,FALSE,[‘Deivy Balanta’],Deivy Balanta,multiple
+7,26368,1361,"Olympics, 2020",Mexico vs France,2021-07-22,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",2500000,FALSE,Found in Curr Season,FALSE,['Clément Michelin'],Clément Michelin,multiple
+8,26401,1363,"Olympics, 2020",France vs South Africa,2021-07-25,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",2500000,FALSE,Found in Curr Season,FALSE,['Clément Michelin'],Clément Michelin,multiple
+9,26445,1365,"Olympics, 2020",France vs Japan,2021-07-28,France,FR,2021,FAIL,"['Clément Lenglet', 'Clément Grenier']",2500000,FALSE,Found in Curr Season,FALSE,['Clément Michelin'],Clément Michelin,multiple
+10,30082,1380,"Olympics, 2020",Brazil vs Germany,2021-07-22,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
+11,30105,1381,"Olympics, 2020",Brazil vs Ivory Coast,2021-07-25,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
+12,30160,1383,"Olympics, 2020",Saudi Arabia vs Brazil,2021-07-28,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
+13,30236,1387,"Olympics, 2020",Brazil vs Egypt,2021-07-31,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
+14,30291,1389,"Olympics, 2020",Mexico vs Brazil,2021-08-03,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
+15,30346,1392,"Olympics, 2020",Brazil vs Spain,2021-08-06,Brazil,BR,2021,FAIL,"['Paulinho', 'Marquinhos', 'Fabinho']",11000000,FALSE,Found in Curr Season,FALSE,['Claudinho'],Claudinho,multiple
