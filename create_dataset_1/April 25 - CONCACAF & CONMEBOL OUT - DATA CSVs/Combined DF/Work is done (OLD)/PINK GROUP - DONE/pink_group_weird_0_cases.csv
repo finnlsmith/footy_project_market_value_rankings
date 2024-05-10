@@ -1,0 +1,721 @@
+,Match ID,Competition,Match,Date,Nationality,Team Country Code,Season,Status,Name,Market Value,Lookup Still Required?,Lookup Return Case,Impute Required?,Name(s) Found,ORIGINAL JERSEY,Match Case
+0,3158,"World Cup Qualifiers, Europe, 2018",Montenegro vs Denmark,05-10-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+1,3168,"World Cup Qualifiers, Europe, 2018",Montenegro vs Armenia,10-06-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+2,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,25000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+3,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,1200000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+4,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Ivan Kamberipa,I Kamberipa,single
+5,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,150000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+6,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,750000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+7,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,200000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+8,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,100000.0,False,working,False,Kennedy Amutenya,K Amutenya,single
+9,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Aprocius Petrus,A Petrus,single
+10,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,500000.0,False,working,False,Deon Hotto,D Hotto,single
+11,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Bethuel Muzeu,B Muzeu,single
+12,2227,"World Cup Qualifiers, Africa, 2026",São Tomé and Príncipe vs Namibia,21-11-2023,Namibia,NB,2023,SUCCESS,0,125000.0,False,working,False,Prins Tjiueza,P Tjiueza,single
+13,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,25000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+14,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Ivan Kamberipa,I Kamberipa,single
+15,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,100000.0,False,working,False,Kennedy Amutenya,K Amutenya,single
+16,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,150000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+17,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,750000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+18,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,50000.0,False,working,False,Absalom Iimbondi,A Iimbondi,single
+19,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,200000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+20,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Aprocius Petrus,A Petrus,single
+21,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,500000.0,False,working,False,Deon Hotto,D Hotto,single
+22,2230,"World Cup Qualifiers, Africa, 2026",Equatorial Guinea vs Namibia,15-11-2023,Namibia,NB,2023,SUCCESS,0,75000.0,False,working,False,Bethuel Muzeu,B Muzeu,single
+23,2232,"World Cup Qualifiers, Africa, 2026",Sierra Leone vs Egypt,19-11-2023,Egypt,EG,2023,SUCCESS,0,9000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+24,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,550000.0,False,working,False,Yhoan Andzouana,Y Andzouana,single
+25,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,500000.0,False,working,False,Bryan Passi,B Passi,single
+26,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,500000.0,False,working,False,Morgan Poaty,M Poaty,single
+27,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,3000000.0,False,working,False,Gaius Makouta,G Makouta,single
+28,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,4500000.0,False,working,False,Antoine Makoumbou,A Makoumbou,single
+29,2246,"World Cup Qualifiers, Africa, 2026",Zambia vs Congo,17-11-2023,Republic of the Congo,CG,2023,SUCCESS,0,800000.0,False,working,False,Silvere Ganvoula,S Ganvoula,single
+30,3307,"World Cup Qualifiers, Europe, 2022",Turkey vs Montenegro,01-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+31,1669,Nations League 2020-2021,Moldova vs Greece,15.11.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,Stanislav Namasco,Namașco,single
+32,1671,Nations League 2020-2021,Kosovo vs Moldova,18.11.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,Stanislav Namasco,Namașco,single
+33,1694,Nations League 2020-2021,Latvia vs Faroe Islands,14.11.20,Latvia,LV,2020,SUCCESS,0,275000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+34,1696,Nations League 2020-2021,Andorra vs Latvia,17.11.20,Latvia,LV,2020,SUCCESS,0,275000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+35,1712,Nations League 2022-2023,Denmark vs Croatia,10.06.22,Croatia,HR,2022,SUCCESS,0,5000000.0,False,working,False,Mislav Orsic,Oršić,single
+36,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+37,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+38,960,"Euros 2024, Qualifiers",Moldova vs Czech,27.03.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,Adam Hlozek,Hložek,single
+39,961,"Euros 2024, Qualifiers",Albania vs Moldova,17.06.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+40,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+41,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,Alex Kral,Král,single
+42,962,"Euros 2024, Qualifiers",Faroe Islands vs Czech,17.06.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,Adam Hlozek,Hložek,single
+43,966,"Euros 2024, Qualifiers",Czech vs Albania,07.09.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+44,966,"Euros 2024, Qualifiers",Czech vs Albania,07.09.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,Alex Kral,Král,single
+45,967,"Euros 2024, Qualifiers",Faroe Islands vs Moldova,10.09.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+46,967,"Euros 2024, Qualifiers",Faroe Islands vs Moldova,10.09.23,Moldova,MD,2023,SUCCESS,0,350000.0,False,working,False,Victor Stina,Stînă,single
+47,969,"Euros 2024, Qualifiers",Albania vs Czech,12.10.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+48,971,"Euros 2024, Qualifiers",Czech vs Faroe Islands,15.10.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+49,971,"Euros 2024, Qualifiers",Czech vs Faroe Islands,15.10.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,Adam Hlozek,Hložek,single
+50,972,"Euros 2024, Qualifiers",Poland vs Moldova,15.10.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+51,974,"Euros 2024, Qualifiers",Moldova vs Albania,17.11.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+52,973,"Euros 2024, Qualifiers",Poland vs Czech,17.11.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+53,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+54,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,5000000.0,False,working,False,Martin Vitik,Vitík,single
+55,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,Adam Hlozek,Hložek,single
+56,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Czech Republic,CZ,2023,SUCCESS,0,2000000.0,False,working,False,Tomas Chory,Chorý,single
+57,975,"Euros 2024, Qualifiers",Czech vs Moldova,20.11.23,Moldova,MD,2023,SUCCESS,0,700000.0,False,working,False,Nichita Motpan,Moțpan,single
+58,997,"Euros 2024, Qualifiers",Bulgaria vs Montenegro,24.03.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,Adam Marusic,Marušić,single
+59,1000,"Euros 2024, Qualifiers",Montenegro vs Serbia,27.03.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+60,1000,"Euros 2024, Qualifiers",Montenegro vs Serbia,27.03.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,Adam Marusic,Marušić,single
+61,1002,"Euros 2024, Qualifiers",Montenegro vs Hungary,17.06.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+62,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+63,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,Adam Marusic,Marušić,single
+64,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,600000.0,False,working,False,Stefan Mugosa,Mugoša,single
+65,1005,"Euros 2024, Qualifiers",Lithuania vs Montenegro,07.09.23,Montenegro,ME,2023,SUCCESS,0,450000.0,False,working,False,Vladimir Jovovic,Jovović,single
+66,1007,"Euros 2024, Qualifiers",Montenegro vs Bulgaria,10.09.23,Montenegro,ME,2023,SUCCESS,0,600000.0,False,working,False,Nikola Sipcic,ipčić,single
+67,1007,"Euros 2024, Qualifiers",Montenegro vs Bulgaria,10.09.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,Adam Marusic,Marušić,single
+68,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,3000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+69,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,800000.0,False,working,False,Arnold Bouka Moutou,A Bouka Moutou,single
+70,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+71,3488,"African Cup of Nations, 2015",Equatorial Guinea vs Congo,17-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+72,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,3000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+73,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,800000.0,False,working,False,Arnold Bouka Moutou,A Bouka Moutou,single
+74,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+75,3492,"African Cup of Nations, 2015",Congo vs Congo DR,31-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+76,3505,"African Cup of Nations, 2017",Mali vs Egypt,17-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+77,3507,"African Cup of Nations, 2017",Egypt vs Morocco,29-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+78,3508,"African Cup of Nations, 2017",Egypt vs Cameroon,05-02-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+79,3515,"African Cup of Nations, 2017",Egypt vs Ghana,25-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+80,3524,"African Cup of Nations, 2017",Egypt vs Uganda,21-01-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+81,3527,"African Cup of Nations, 2017",Burkina Faso vs Egypt,01-02-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+82,757,"Euros 2020, Qualifiers",Israel vs Slovenia,21.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+83,758,"Euros 2020, Qualifiers",North Macedonia vs Latvia,21.03.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+84,761,"Euros 2020, Qualifiers",Slovenia vs North Macedonia,24.03.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+85,767,"Euros 2020, Qualifiers",Latvia vs Slovenia,10.06.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+86,769,"Euros 2020, Qualifiers",Austria vs Latvia,06.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+87,770,"Euros 2020, Qualifiers",Slovenia vs Poland,06.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+88,772,"Euros 2020, Qualifiers",Slovenia vs Israel,09.09.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+89,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+90,773,"Euros 2020, Qualifiers",Latvia vs North Macedonia,09.09.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+91,775,"Euros 2020, Qualifiers",North Macedonia vs Slovenia,10.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+92,776,"Euros 2020, Qualifiers",Latvia vs Poland,10.10.19,Latvia,LV,2019,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+93,778,"Euros 2020, Qualifiers",Slovenia vs Austria,13.10.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+94,779,"Euros 2020, Qualifiers",Israel vs Latvia,15.10.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+95,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+96,780,"Euros 2020, Qualifiers",Slovenia vs Latvia,16.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+97,783,"Euros 2020, Qualifiers",Poland vs Slovenia,19.11.19,Slovenia,SI,2019,SUCCESS,0,4800000.0,False,working,False,Benjamin Verbic,Verbič,single
+98,785,"Euros 2020, Qualifiers",Latvia vs Austria,19.11.19,Latvia,LV,2019,SUCCESS,0,300000.0,False,working,False,Vladimirs Kamess,Kamešs,single
+99,2192,"World Cup Qualifiers, Africa, 2022",Senegal vs Egypt,29-03-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+100,616,"Euros 2020, Qualifiers",Northern Ireland vs Slovakia,12.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+101,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,Ibrahim Sehic,ehić,single
+102,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,Rade Krunic,Krunić,single
+103,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+104,622,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Northern Ireland,08.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,Edin Visca,Višća,single
+105,623,"Euros 2020, Qualifiers",Slovakia vs Ireland,08.10.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+106,623,"Euros 2020, Qualifiers",Slovakia vs Ireland,08.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+107,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+108,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+109,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+110,626,"Euros 2020, Qualifiers",Bulgaria vs Montenegro,22.03.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+111,627,"Euros 2020, Qualifiers",England vs Czech,22.03.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+112,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+113,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+114,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+115,628,"Euros 2020, Qualifiers",Montenegro vs England,25.03.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+116,630,"Euros 2020, Qualifiers",Czech vs Bulgaria,07.06.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+117,630,"Euros 2020, Qualifiers",Czech vs Bulgaria,07.06.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+118,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+119,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+120,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+121,631,"Euros 2020, Qualifiers",Montenegro vs Kosovo,07.06.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+122,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+123,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+124,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+125,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+126,632,"Euros 2020, Qualifiers",Czech vs Montenegro,10.06.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,Vladimir Jovovic,Jovović,single
+127,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Jan Boril,Bořil,single
+128,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+129,634,"Euros 2020, Qualifiers",Kosovo vs Czech,07.09.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+130,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,725000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+131,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+132,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+133,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Jan Boril,Bořil,single
+134,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+135,637,"Euros 2020, Qualifiers",Montenegro vs Czech,10.09.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+136,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Jan Boril,Bořil,single
+137,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+138,638,"Euros 2020, Qualifiers",Czech vs England,11.10.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+139,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+140,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+141,639,"Euros 2020, Qualifiers",Montenegro vs Bulgaria,11.10.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,Vladimir Jovovic,Jovović,single
+142,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+143,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,5500000.0,False,working,False,Adam Marusic,Marušić,single
+144,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+145,641,"Euros 2020, Qualifiers",Kosovo vs Montenegro,14.10.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,Vladimir Jovovic,Jovović,single
+146,642,"Euros 2020, Qualifiers",England vs Montenegro,14.11.19,Montenegro,ME,2019,SUCCESS,0,950000.0,False,working,False,Marko Simic,Simić,single
+147,642,"Euros 2020, Qualifiers",England vs Montenegro,14.11.19,Montenegro,ME,2019,SUCCESS,0,800000.0,False,working,False,Vladimir Jovovic,Jovović,single
+148,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Jan Boril,Bořil,single
+149,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+150,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+151,643,"Euros 2020, Qualifiers",Czech vs Kosovo,14.11.19,Czech Republic,CZ,2019,SUCCESS,0,3500000.0,False,working,False,Michael Krmencik,Krmenčík,single
+152,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Jan Boril,Bořil,single
+153,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,6700000.0,False,working,False,Alex Kral,Král,single
+154,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,800000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+155,644,"Euros 2020, Qualifiers",Bulgaria vs Czech,17.11.19,Czech Republic,CZ,2019,SUCCESS,0,1600000.0,False,working,False,Petr Sevcik,evčík,single
+156,654,"Euros 2020, Qualifiers",Lithuania vs Ukraine,07.09.19,Lithuania,LT,2019,SUCCESS,0,1000000.0,False,working,False,Arturas Zulpa,Žulpa,single
+157,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,Tomas Holes,Holeš,single
+158,1165,Euros 2020,Czech vs Denmark,03.07.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,Antonin Barak,Barák,single
+159,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,Tomas Holes,Holeš,single
+160,1169,Euros 2020,Netherlands vs Czech,27.06.21,Czech Republic,CZ,2021,SUCCESS,0,20000000.0,False,working,False,Antonin Barak,Barák,single
+161,1194,Euros 2020,Scotland vs Czech,14.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,Alex Kral,Král,single
+162,1195,Euros 2020,Croatia vs Czech,18.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,Tomas Holes,Holeš,single
+163,1198,Euros 2020,Czech vs England,22.06.21,Czech Republic,CZ,2021,SUCCESS,0,7000000.0,False,working,False,Tomas Holes,Holeš,single
+164,1201,Euros 2020,Sweden vs Slovakia,18.06.21,Slovakia,SK,2021,SUCCESS,0,3500000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+165,1721,Nations League 2022-2023,Czech vs Switzerland,02.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,Adam Hlozek,Hložek,single
+166,1724,Nations League 2022-2023,Portugal vs Czech,09.06.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,Adam Hlozek,Hložek,single
+167,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,7000000.0,False,working,False,Alex Kral,Král,single
+168,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,Antonin Barak,Barák,single
+169,1729,Nations League 2022-2023,Czech vs Portugal,24.09.22,Czech Republic,CZ,2022,SUCCESS,0,18000000.0,False,working,False,Adam Hlozek,Hložek,single
+170,1731,Nations League 2022-2023,Switzerland vs Czech,27.09.22,Czech Republic,CZ,2022,SUCCESS,0,10000000.0,False,working,False,Antonin Barak,Barák,single
+171,1746,Nations League 2022-2023,Belgium vs Poland,08.06.22,Poland,PL,2022,SUCCESS,0,4500000.0,False,working,False,Bartlomiej Dragowski,Drągowski,single
+172,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,Senad Lulic,Lulić,single
+173,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+174,408,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Wales,10.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,Edin Visca,Višća,single
+175,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,Senad Lulic,Lulić,single
+176,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+177,411,"Euros 2016, Qualifiers",Cyprus vs Bosnia-Herzegovina,13.10.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,Edin Visca,Višća,single
+178,415,"Euros 2016, Qualifiers",Ukraine vs Slovakia,08.09.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,Marek Hamsik,Hamšík,single
+179,418,"Euros 2016, Qualifiers",Slovakia vs Spain,09.10.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+180,418,"Euros 2016, Qualifiers",Slovakia vs Spain,09.10.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,Marek Hamsik,Hamšík,single
+181,420,"Euros 2016, Qualifiers",Belarus vs Slovakia,12.10.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+182,420,"Euros 2016, Qualifiers",Belarus vs Slovakia,12.10.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,Marek Hamsik,Hamšík,single
+183,423,"Euros 2016, Qualifiers",North Macedonia vs Slovakia,15.11.14,Slovakia,SK,2014,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+184,423,"Euros 2016, Qualifiers",North Macedonia vs Slovakia,15.11.14,Slovakia,SK,2014,SUCCESS,0,30000000.0,False,working,False,Marek Hamsik,Hamšík,single
+185,426,"Euros 2016, Qualifiers",Slovakia vs Luxembourg,27.03.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+186,426,"Euros 2016, Qualifiers",Slovakia vs Luxembourg,27.03.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,Marek Hamsik,Hamšík,single
+187,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+188,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,650000.0,False,working,False,Kornel Salata,Saláta,single
+189,433,"Euros 2016, Qualifiers",Spain vs Slovakia,05.09.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,Marek Hamsik,Hamšík,single
+190,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+191,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,Viktor Pecovsky,Pečovský,single
+192,436,"Euros 2016, Qualifiers",Slovakia vs Ukraine,08.09.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,Marek Hamsik,Hamšík,single
+193,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+194,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,650000.0,False,working,False,Kornel Salata,Saláta,single
+195,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,Viktor Pecovsky,Pečovský,single
+196,438,"Euros 2016, Qualifiers",Slovakia vs Belarus,09.10.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,Marek Hamsik,Hamšík,single
+197,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+198,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,350000.0,False,working,False,Viktor Pecovsky,Pečovský,single
+199,441,"Euros 2016, Qualifiers",Luxembourg vs Slovakia,12.10.15,Slovakia,SK,2015,SUCCESS,0,35000000.0,False,working,False,Marek Hamsik,Hamšík,single
+200,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,75000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+201,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,225000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+202,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,400000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+203,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Joslin Kamatuka,J Kamatuka,single
+204,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Willy Stephanus,W Stephanus,single
+205,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,1000000.0,False,working,False,Deon Hotto,D Hotto,single
+206,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+207,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,1300000.0,False,working,False,Bradley Mazikou,B Mazikou,single
+208,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Nolan Mbemba,N Mbemba,single
+209,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,1500000.0,False,working,False,Gaius Makouta,G Makouta,single
+210,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,225000.0,False,working,False,Yann Mabella,Y Mabella,single
+211,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Antoine Makoumbou,A Makoumbou,single
+212,2073,"World Cup Qualifiers, Africa, 2022",Namibia vs Congo,02-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,600000.0,False,working,False,Silvere Ganvoula,S Ganvoula,single
+213,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+214,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Tiberius Lombard,T Lombard,single
+215,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+216,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Willy Stephanus,W Stephanus,single
+217,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,950000.0,False,working,False,Deon Hotto,D Hotto,single
+218,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,75000.0,False,working,False,Joslin Kamatuka,J Kamatuka,single
+219,2078,"World Cup Qualifiers, Africa, 2022",Eritrea vs Namibia,04-09-2019,Namibia,NB,2019,SUCCESS,0,600000.0,False,working,False,Peter Shalulile,P Shalulile,single
+220,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,1300000.0,False,working,False,Bradley Mazikou,B Mazikou,single
+221,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Yhoan Andzouana,Y Andzouana,single
+222,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,300000.0,False,working,False,Durel Avounou,D Avounou,single
+223,2097,"World Cup Qualifiers, Africa, 2022",Congo vs Togo,12-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,600000.0,False,working,False,Silvere Ganvoula,S Ganvoula,single
+224,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Nolan Mbemba,N Mbemba,single
+225,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,1500000.0,False,working,False,Gaius Makouta,G Makouta,single
+226,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Yhoan Andzouana,Y Andzouana,single
+227,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Antoine Makoumbou,A Makoumbou,single
+228,2110,"World Cup Qualifiers, Africa, 2022",Senegal vs Congo,14-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Béni Makouana,B Makouana,single
+229,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,1300000.0,False,working,False,Bradley Mazikou,B Mazikou,single
+230,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,300000.0,False,working,False,Durel Avounou,D Avounou,single
+231,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,1500000.0,False,working,False,Gaius Makouta,G Makouta,single
+232,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,2200000.0,False,working,False,Dylan Saint-Louis,D Saint-Louis,single
+233,2116,"World Cup Qualifiers, Africa, 2022",Congo vs Senegal,07-09-2021,Republic of the Congo,CG,2021,SUCCESS,0,600000.0,False,working,False,Silvere Ganvoula,S Ganvoula,single
+234,1422,Nations League 2018-2020,Czech vs Ukraine,06.09.18,Czech Republic,CZ,2018,SUCCESS,0,1500000.0,False,working,False,Jan Boril,Bořil,single
+235,1422,Nations League 2018-2020,Czech vs Ukraine,06.09.18,Czech Republic,CZ,2018,SUCCESS,0,4000000.0,False,working,False,Michael Krmencik,Krmenčík,single
+236,1423,Nations League 2018-2020,Ukraine vs Slovakia,09.09.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,Marek Hamsik,Hamšík,single
+237,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,Marek Hamsik,Hamšík,single
+238,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+239,1424,Nations League 2018-2020,Slovakia vs Czech,13.10.18,Czech Republic,CZ,2018,SUCCESS,0,4000000.0,False,working,False,Michael Krmencik,Krmenčík,single
+240,1425,Nations League 2018-2020,Ukraine vs Czech,16.10.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+241,1425,Nations League 2018-2020,Ukraine vs Czech,16.10.18,Czech Republic,CZ,2018,SUCCESS,0,12000000.0,False,working,False,Antonin Barak,Barák,single
+242,1426,Nations League 2018-2020,Slovakia vs Ukraine,16.11.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,Marek Hamsik,Hamšík,single
+243,1427,Nations League 2018-2020,Czech vs Slovakia,19.11.18,Czech Republic,CZ,2018,SUCCESS,0,1000000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+244,1427,Nations League 2018-2020,Czech vs Slovakia,19.11.18,Slovakia,SK,2018,SUCCESS,0,22000000.0,False,working,False,Marek Hamsik,Hamšík,single
+245,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Ibrahim Sehic,ehić,single
+246,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Eldar Civic,Civič,single
+247,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+248,1434,Nations League 2018-2020,Northern Ireland vs Bosnia-Herzegovina,08.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,Edin Visca,Višća,single
+249,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Ibrahim Sehic,ehić,single
+250,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Eldar Civic,Civič,single
+251,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+252,1435,Nations League 2018-2020,Bosnia-Herzegovina vs Austria,11.09.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,Edin Visca,Višća,single
+253,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Ibrahim Sehic,ehić,single
+254,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Eldar Civic,Civič,single
+255,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+256,1437,Nations League 2018-2020,Bosnia-Herzegovina vs Northern Ireland,15.10.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,Edin Visca,Višća,single
+257,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Ibrahim Sehic,ehić,single
+258,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,1000000.0,False,working,False,Eldar Civic,Civič,single
+259,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,70000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+260,1438,Nations League 2018-2020,Austria vs Bosnia-Herzegovina,15.11.18,Bosnia-Herzegovina,BA,2018,SUCCESS,0,12000000.0,False,working,False,Edin Visca,Višća,single
+261,1464,Nations League 2018-2020,Slovenia vs Bulgaria,06.09.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,Benjamin Verbic,Verbič,single
+262,3035,"World Cup Qualifiers, Europe, 2018",Denmark vs Montenegro,11-10-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+263,3044,"World Cup Qualifiers, Europe, 2018",Kazakhstan vs Montenegro,01-09-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+264,3047,"World Cup Qualifiers, Europe, 2018",Montenegro vs Romania,04-09-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+265,1078,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Iceland,23.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,Rade Krunic,Krunić,single
+266,1082,"Euros 2024, Qualifiers",Slovakia vs Bosnia-Herzegovina,26.03.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,Rade Krunic,Krunić,single
+267,1089,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,08.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,Rade Krunic,Krunić,single
+268,1093,"Euros 2024, Qualifiers",Iceland vs Bosnia-Herzegovina,11.09.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,Rade Krunic,Krunić,single
+269,1101,"Euros 2024, Qualifiers",Luxembourg vs Bosnia-Herzegovina,16.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,8500000.0,False,working,False,Rade Krunic,Krunić,single
+270,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,Kenan Piric,Pirić,single
+271,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Bosnia-Herzegovina,BA,2023,SUCCESS,0,800000.0,False,working,False,Ivan Basic,Bašić,single
+272,1105,"Euros 2024, Qualifiers",Bosnia-Herzegovina vs Slovakia,19.11.23,Slovakia,SK,2023,SUCCESS,0,4500000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+273,1820,Nations League 2022-2023,Greece vs Cyprus,09.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+274,1822,Nations League 2022-2023,Northern Ireland vs Cyprus,12.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+275,1829,Nations League 2022-2023,Belarus vs Slovakia,03.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,Ladislav Almasi,Almási,single
+276,1830,Nations League 2022-2023,Slovakia vs Kazakhstan,06.06.22,Slovakia,SK,2022,SUCCESS,0,1400000.0,False,working,False,Ladislav Almasi,Almási,single
+277,1832,Nations League 2022-2023,Azerbaijan vs Slovakia,10.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+278,1834,Nations League 2022-2023,Kazakhstan vs Slovakia,13.06.22,Slovakia,SK,2022,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+279,1837,Nations League 2022-2023,Slovakia vs Azerbaijan,22.09.22,Slovakia,SK,2022,SUCCESS,0,500000.0,False,working,False,Martin Regali,Regáli,single
+280,1839,Nations League 2022-2023,Azerbaijan vs Kazakhstan,25.09.22,Azerbaijan,AZ,2022,SUCCESS,0,500000.0,False,working,False,Filip Ozobic,Ozobić,single
+281,1855,Nations League 2022-2023,Andorra vs Moldova,06.06.22,Moldova,MD,2022,SUCCESS,0,400000.0,False,working,False,Victor Stina,Stînă,single
+282,1858,Nations League 2022-2023,Moldova vs Andorra,14.06.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,Nichita Motpan,Moțpan,single
+283,1860,Nations League 2022-2023,Latvia vs Moldova,22.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,Nichita Motpan,Moțpan,single
+284,1863,Nations League 2022-2023,Moldova vs Liechtenstein,25.09.22,Moldova,MD,2022,SUCCESS,0,275000.0,False,working,False,Nichita Motpan,Moțpan,single
+285,2604,"World Cup Qualifiers, Asia, 2022",Australia vs Chinese Taipei,07-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,Shin-An Shih,Shin Shin-an,single
+286,2626,"World Cup Qualifiers, Asia, 2022",Chinese Taipei vs Kuwait,15-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,Shin-An Shih,Shin Shin-an,single
+287,354,"Euros 2016, Qualifiers",Czech vs Netherlands,09.09.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,Lukas Vacha,Vácha,single
+288,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,250000.0,False,working,False,Maximilian Mbaeva,M Mbaeva,single
+289,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,225000.0,False,working,False,Willem Mwedihanga,W Mwedihanga,single
+290,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,125000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+291,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,300000.0,False,working,False,Ronald Ketjijere,R Ketjijere,single
+292,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,200000.0,False,working,False,Deon Hotto,D Hotto,single
+293,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+294,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Peter Shalulile,P Shalulile,single
+295,1922,"World Cup Qualifiers, Africa, 2018",Namibia vs Guinea,12-11-2015,Namibia,NB,2015,SUCCESS,0,25000.0,False,working,False,Benson Shilongo,B Shilongo,single
+296,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,250000.0,False,working,False,Maximilian Mbaeva,M Mbaeva,single
+297,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,125000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+298,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,225000.0,False,working,False,Willem Mwedihanga,W Mwedihanga,single
+299,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+300,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,300000.0,False,working,False,Ronald Ketjijere,R Ketjijere,single
+301,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Wangu Gome,W Gome,single
+302,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,25000.0,False,working,False,Benson Shilongo,B Shilongo,single
+303,1934,"World Cup Qualifiers, Africa, 2018",Namibia vs Gambia,13-10-2015,Namibia,NB,2015,SUCCESS,0,200000.0,False,working,False,Deon Hotto,D Hotto,single
+304,1935,"World Cup Qualifiers, Africa, 2018",Ghana vs Egypt,12-11-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+305,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+306,1939,"World Cup Qualifiers, Africa, 2018",Ethiopia vs Congo,14-11-2015,Republic of the Congo,CG,2015,SUCCESS,0,400000.0,False,working,False,Kevin Koubemba,K Koubemba,single
+307,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Republic of the Congo,CG,2016,SUCCESS,0,800000.0,False,working,False,Arnold Bouka Moutou,A Bouka Moutou,single
+308,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Republic of the Congo,CG,2016,SUCCESS,0,350000.0,False,working,False,Merveil Ndockyt,M Ndockyt,single
+309,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Republic of the Congo,CG,2016,SUCCESS,0,1250000.0,False,working,False,Dzon Delarge,D Delarge,single
+310,1964,"World Cup Qualifiers, Africa, 2018",Uganda vs Congo,12-11-2016,Republic of the Congo,CG,2016,SUCCESS,0,400000.0,False,working,False,Férébory Doré,F Doré,single
+311,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,50000.0,False,working,False,Fernand Mayembo,F Mayembo,single
+312,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,300000.0,False,working,False,Tobias Badila,T Badila,single
+313,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,600000.0,False,working,False,Dylan Bahamboula,D Bahamboula,single
+314,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+315,1965,"World Cup Qualifiers, Africa, 2018",Congo vs Ghana,05-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+316,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+317,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,725000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+318,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Denzil Haoseb,D Haoseb,single
+319,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+320,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+321,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,950000.0,False,working,False,Deon Hotto,D Hotto,single
+322,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,600000.0,False,working,False,Peter Shalulile,P Shalulile,single
+323,3542,"African Cup of Nations, 2019",Namibia vs Cote d'Ivoire,01-07-2019,Namibia,NB,2019,SUCCESS,0,75000.0,False,working,False,Joslin Kamatuka,J Kamatuka,single
+324,3543,"African Cup of Nations, 2019",Uganda vs Egypt,30-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+325,3552,"African Cup of Nations, 2019",Egypt vs Congo DR,26-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+326,3561,"African Cup of Nations, 2019",Egypt vs Zimbabwe,21-06-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+327,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+328,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,725000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+329,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Denzil Haoseb,D Haoseb,single
+330,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+331,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+332,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,250000.0,False,working,False,Manfred Starke,M Starke,single
+333,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,950000.0,False,working,False,Deon Hotto,D Hotto,single
+334,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,600000.0,False,working,False,Peter Shalulile,P Shalulile,single
+335,3571,"African Cup of Nations, 2019",South Africa vs Namibia,28-06-2019,Namibia,NB,2019,SUCCESS,0,325000.0,False,working,False,Benson Shilongo,B Shilongo,single
+336,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+337,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,725000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+338,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Denzil Haoseb,D Haoseb,single
+339,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+340,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+341,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,250000.0,False,working,False,Manfred Starke,M Starke,single
+342,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,950000.0,False,working,False,Deon Hotto,D Hotto,single
+343,3575,"African Cup of Nations, 2019",Morocco vs Namibia,23-06-2019,Namibia,NB,2019,SUCCESS,0,600000.0,False,working,False,Peter Shalulile,P Shalulile,single
+344,3579,"African Cup of Nations, 2019",Egypt vs South Africa,06-07-2019,Egypt,EG,2019,SUCCESS,0,8000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+345,1870,Nations League 2022-2023,Moldova vs Kazakhstan,24.03.22,Moldova,MD,2022,SUCCESS,0,100000.0,False,working,False,Stanislav Namasco,Namașco,single
+346,1872,Nations League 2022-2023,Estonia vs Cyprus,24.03.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+347,1873,Nations League 2022-2023,Cyprus vs Estonia,29.03.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+348,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Republic of the Congo,CG,2013,SUCCESS,0,400000.0,False,working,False,Barel Mouko,B Mouko,single
+349,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Republic of the Congo,CG,2013,SUCCESS,0,800000.0,False,working,False,Dominique Malonga,C Malonga,single
+350,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Republic of the Congo,CG,2013,SUCCESS,0,900000.0,False,working,False,Prince Oniangué,P Oniangué,single
+351,1891,"World Cup Qualifiers, Africa, 2014",Niger vs Congo,07-09-2013,Republic of the Congo,CG,2013,SUCCESS,0,500000.0,False,working,False,Ladislas Douniama,L Douniama,single
+352,1912,"World Cup Qualifiers, Africa, 2014",Kenya vs Namibia,08-09-2013,Namibia,NB,2013,SUCCESS,0,100000.0,False,working,False,Heinrich Isaacks,H Isaacks,single
+353,1912,"World Cup Qualifiers, Africa, 2014",Kenya vs Namibia,08-09-2013,Namibia,NB,2013,SUCCESS,0,75000.0,False,working,False,Pineas Jacob,P Jacob,single
+354,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Republic of the Congo,CG,2016,SUCCESS,0,1750000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+355,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Republic of the Congo,CG,2016,SUCCESS,0,400000.0,False,working,False,Férébory Doré,F Doré,single
+356,1921,"World Cup Qualifiers, Africa, 2018",Congo vs Egypt,09-10-2016,Egypt,EG,2016,SUCCESS,0,1800000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+357,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+358,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,Jan Boril,Bořil,single
+359,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,Alex Kral,Král,single
+360,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+361,1602,Nations League 2020-2021,Slovakia vs Czech,04.09.20,Czech Republic,CZ,2020,SUCCESS,0,17000000.0,False,working,False,Adam Hlozek,Hložek,single
+362,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,4000000.0,False,working,False,Tomas Holes,Holeš,single
+363,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,200000.0,False,working,False,Roman Hubnik,Hubník,single
+364,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,Adam Janos,Jánoš,single
+365,1603,Nations League 2020-2021,Czech vs Scotland,07.09.20,Czech Republic,CZ,2020,SUCCESS,0,800000.0,False,working,False,Marek Havlik,Havlík,single
+366,1605,Nations League 2020-2021,Scotland vs Slovakia,11.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+367,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,Jan Boril,Bořil,single
+368,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,Alex Kral,Král,single
+369,1606,Nations League 2020-2021,Israel vs Czech,11.10.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+370,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,2500000.0,False,working,False,Jan Boril,Bořil,single
+371,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,Alex Kral,Král,single
+372,1607,Nations League 2020-2021,Scotland vs Czech,14.10.20,Czech Republic,CZ,2020,SUCCESS,0,700000.0,False,working,False,Ondrej Celustka,Čelůstka,single
+373,1608,Nations League 2020-2021,Slovakia vs Israel,14.10.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+374,1608,Nations League 2020-2021,Slovakia vs Israel,14.10.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+375,1609,Nations League 2020-2021,Slovakia vs Scotland,15.11.20,Slovakia,SK,2020,SUCCESS,0,5000000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+376,1609,Nations League 2020-2021,Slovakia vs Scotland,15.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+377,1610,Nations League 2020-2021,Czech vs Israel,15.11.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,Alex Kral,Král,single
+378,1611,Nations League 2020-2021,Czech vs Slovakia,18.11.20,Czech Republic,CZ,2020,SUCCESS,0,10000000.0,False,working,False,Alex Kral,Král,single
+379,1611,Nations League 2020-2021,Czech vs Slovakia,18.11.20,Slovakia,SK,2020,SUCCESS,0,3000000.0,False,working,False,Marek Hamsik,Hamšík,single
+380,2841,"World Cup Qualifiers, Europe, 2014",Croatia vs Serbia,22-03-2013,Serbia,RS,2013,SUCCESS,0,4500000.0,False,working,False,Zeljko Brkic,Brkić,single
+381,941,"Euros 2024, Qualifiers",Wales vs Armenia,16.06.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+382,943,"Euros 2024, Qualifiers",Armenia vs Latvia,19.06.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+383,946,"Euros 2024, Qualifiers",Turkey vs Armenia,08.09.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+384,947,"Euros 2024, Qualifiers",Armenia vs Croatia,11.09.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+385,949,"Euros 2024, Qualifiers",Latvia vs Armenia,12.10.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+386,953,"Euros 2024, Qualifiers",Armenia vs Wales,18.11.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+387,955,"Euros 2024, Qualifiers",Croatia vs Armenia,21.11.23,Armenia,AM,2023,SUCCESS,0,200000.0,False,working,False,Ognjen Cancarevic,Čančarević,single
+388,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,3000000.0,False,working,False,Tomas Holes,Holeš,single
+389,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,7500000.0,False,working,False,Alex Kral,Král,single
+390,957,"Euros 2024, Qualifiers",Czech vs Poland,24.03.23,Czech Republic,CZ,2023,SUCCESS,0,15000000.0,False,working,False,Adam Hlozek,Hložek,single
+391,1988,"World Cup Qualifiers, Africa, 2018",Uganda vs Egypt,31-08-2017,Egypt,EG,2017,SUCCESS,0,1500000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+392,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,250000.0,False,working,False,Maximilian Mbaeva,M Mbaeva,single
+393,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,225000.0,False,working,False,Willem Mwedihanga,W Mwedihanga,single
+394,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,125000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+395,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,300000.0,False,working,False,Ronald Ketjijere,R Ketjijere,single
+396,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Wangu Gome,W Gome,single
+397,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+398,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Peter Shalulile,P Shalulile,single
+399,1991,"World Cup Qualifiers, Africa, 2018",Guinea vs Namibia,15-11-2015,Namibia,NB,2015,SUCCESS,0,100000.0,False,working,False,Hendrik Somaeb,H Somaeb,single
+400,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,50000.0,False,working,False,Fernand Mayembo,F Mayembo,single
+401,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,300000.0,False,working,False,Tobias Badila,T Badila,single
+402,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,600000.0,False,working,False,Dylan Bahamboula,D Bahamboula,single
+403,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+404,2006,"World Cup Qualifiers, Africa, 2018",Ghana vs Congo,01-09-2017,Republic of the Congo,CG,2017,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+405,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,50000.0,False,working,False,Fernand Mayembo,F Mayembo,single
+406,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,300000.0,False,working,False,Tobias Badila,T Badila,single
+407,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,1200000.0,False,working,False,Dzon Delarge,D Delarge,single
+408,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,2000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+409,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,150000.0,False,working,False,Dylan Saint-Louis,D Saint-Louis,single
+410,2018,"World Cup Qualifiers, Africa, 2018",Congo vs Uganda,12-11-2017,Republic of the Congo,CG,2017,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+411,2019,"World Cup Qualifiers, Africa, 2018",Egypt vs Ghana,13-11-2016,Egypt,EG,2016,SUCCESS,0,1800000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+412,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,50000.0,False,working,False,Fernand Mayembo,F Mayembo,single
+413,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,300000.0,False,working,False,Tobias Badila,T Badila,single
+414,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,1200000.0,False,working,False,Dzon Delarge,D Delarge,single
+415,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,2000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+416,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,600000.0,False,working,False,Dylan Bahamboula,D Bahamboula,single
+417,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,150000.0,False,working,False,Dylan Saint-Louis,D Saint-Louis,single
+418,2020,"World Cup Qualifiers, Africa, 2018",Egypt vs Congo,08-10-2017,Republic of the Congo,CG,2017,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+419,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+420,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,Rade Krunic,Krunić,single
+421,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+422,859,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Liechtenstein,05.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+423,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+424,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+425,861,"Euros 2020, Qualifiers",Armenia vs Bosnia-Herzegovina,08.09.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+426,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+427,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+428,864,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Finland,12.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+429,868,"Euros 2020, Qualifiers",Greece vs Bosnia-Herzegovina,15.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+430,868,"Euros 2020, Qualifiers",Greece vs Bosnia-Herzegovina,15.10.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+431,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+432,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,Rade Krunic,Krunić,single
+433,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+434,872,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Italy,15.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+435,875,"Euros 2020, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,18.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Kenan Piric,Pirić,single
+436,875,"Euros 2020, Qualifiers",Liechtenstein vs Bosnia-Herzegovina,18.11.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Eldar Civic,Civič,single
+437,877,"Euros 2024, Qualifiers",Scotland vs Cyprus,25.03.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+438,882,"Euros 2024, Qualifiers",Cyprus vs Georgia,17.06.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+439,884,"Euros 2024, Qualifiers",Norway vs Cyprus,20.06.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+440,887,"Euros 2024, Qualifiers",Spain vs Cyprus,12.09.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+441,890,"Euros 2024, Qualifiers",Cyprus vs Norway,12.10.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+442,891,"Euros 2024, Qualifiers",Georgia vs Cyprus,15.10.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+443,894,"Euros 2024, Qualifiers",Cyprus vs Spain,16.11.23,Cyprus,CY,2023,SUCCESS,0,450000.0,False,working,False,Alex Gogic,Gogić,single
+444,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+445,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,Marko Simic,Simić,single
+446,555,"Euros 2016, Qualifiers",Moldova vs Montenegro,08.09.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,Adam Marusic,Marušić,single
+447,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+448,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,2000000.0,False,working,False,Marko Simic,Simić,single
+449,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,900000.0,False,working,False,Adam Marusic,Marušić,single
+450,559,"Euros 2016, Qualifiers",Montenegro vs Austria,09.10.15,Montenegro,ME,2015,SUCCESS,0,500000.0,False,working,False,Stefan Mugosa,Mugoša,single
+451,1542,Nations League 2020-2021,Italy vs Bosnia-Herzegovina,04.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,Ibrahim Sehic,ehić,single
+452,1542,Nations League 2020-2021,Italy vs Bosnia-Herzegovina,04.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,Edin Visca,Višća,single
+453,1544,Nations League 2020-2021,Bosnia-Herzegovina vs Poland,07.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,1500000.0,False,working,False,Eldar Civic,Civič,single
+454,1544,Nations League 2020-2021,Bosnia-Herzegovina vs Poland,07.09.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,1700000.0,False,working,False,Elvir Koljic,Koljić,single
+455,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,Ibrahim Sehic,ehić,single
+456,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,Rade Krunic,Krunić,single
+457,1545,Nations League 2020-2021,Bosnia-Herzegovina vs Netherlands,11.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+458,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,Ibrahim Sehic,ehić,single
+459,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,Rade Krunic,Krunić,single
+460,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+461,1548,Nations League 2020-2021,Poland vs Bosnia-Herzegovina,14.10.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,Edin Visca,Višća,single
+462,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,900000.0,False,working,False,Ibrahim Sehic,ehić,single
+463,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,Rade Krunic,Krunić,single
+464,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+465,1549,Nations League 2020-2021,Netherlands vs Bosnia-Herzegovina,15.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,8000000.0,False,working,False,Edin Visca,Višća,single
+466,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,600000.0,False,working,False,Kenan Piric,Pirić,single
+467,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,6000000.0,False,working,False,Rade Krunic,Krunić,single
+468,1551,Nations League 2020-2021,Bosnia-Herzegovina vs Italy,18.11.20,Bosnia-Herzegovina,BA,2020,SUCCESS,0,20000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+469,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+470,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Eldar Civic,Civič,single
+471,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,6500000.0,False,working,False,Rade Krunic,Krunić,single
+472,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+473,847,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Armenia,23.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+474,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+475,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+476,851,"Euros 2020, Qualifiers",Bosnia-Herzegovina vs Greece,26.03.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+477,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+478,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Eldar Civic,Civič,single
+479,852,"Euros 2020, Qualifiers",Finland vs Bosnia-Herzegovina,08.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+480,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Ibrahim Sehic,ehić,single
+481,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,800000.0,False,working,False,Eldar Civic,Civič,single
+482,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,52000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+483,855,"Euros 2020, Qualifiers",Italy vs Bosnia-Herzegovina,11.06.19,Bosnia-Herzegovina,BA,2019,SUCCESS,0,10500000.0,False,working,False,Edin Visca,Višća,single
+484,3618,"African Cup of Nations, 2021",Nigeria vs Egypt,11-01-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+485,358,"Euros 2016, Qualifiers",Turkey vs Czech,10.10.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,Lukas Vacha,Vácha,single
+486,359,"Euros 2016, Qualifiers",Kazakhstan vs Czech,13.10.14,Czech Republic,CZ,2014,SUCCESS,0,2000000.0,False,working,False,Lukas Vacha,Vácha,single
+487,363,"Euros 2016, Qualifiers",Czech vs Iceland,16.11.14,Czech Republic,CZ,2014,SUCCESS,0,1000000.0,False,working,False,Jaroslav Plasil,Plašil,single
+488,381,"Euros 2016, Qualifiers",Netherlands vs Czech,13.10.15,Czech Republic,CZ,2015,SUCCESS,0,1000000.0,False,working,False,Jaroslav Plasil,Plašil,single
+489,389,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Belgium,13.10.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,Senad Lulic,Lulić,single
+490,389,"Euros 2016, Qualifiers",Bosnia-Herzegovina vs Belgium,13.10.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+491,393,"Euros 2016, Qualifiers",Israel vs Bosnia-Herzegovina,16.11.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,Senad Lulic,Lulić,single
+492,393,"Euros 2016, Qualifiers",Israel vs Bosnia-Herzegovina,16.11.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+493,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,9500000.0,False,working,False,Senad Lulic,Lulić,single
+494,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,35000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+495,401,"Euros 2016, Qualifiers",Belgium vs Bosnia-Herzegovina,03.09.15,Bosnia-Herzegovina,BA,2015,SUCCESS,0,6750000.0,False,working,False,Edin Visca,Višća,single
+496,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,250000.0,False,working,False,Maximilian Mbaeva,M Mbaeva,single
+497,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,125000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+498,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,225000.0,False,working,False,Willem Mwedihanga,W Mwedihanga,single
+499,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+500,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,300000.0,False,working,False,Ronald Ketjijere,R Ketjijere,single
+501,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,75000.0,False,working,False,Wangu Gome,W Gome,single
+502,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,25000.0,False,working,False,Benson Shilongo,B Shilongo,single
+503,2026,"World Cup Qualifiers, Africa, 2018",Gambia vs Namibia,09-10-2015,Namibia,NB,2015,SUCCESS,0,200000.0,False,working,False,Deon Hotto,D Hotto,single
+504,2033,"World Cup Qualifiers, Africa, 2018",Congo vs Ethiopia,17-11-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+505,2033,"World Cup Qualifiers, Africa, 2018",Congo vs Ethiopia,17-11-2015,Republic of the Congo,CG,2015,SUCCESS,0,400000.0,False,working,False,Kevin Koubemba,K Koubemba,single
+506,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Fernand Mayembo,F Mayembo,single
+507,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,650000.0,False,working,False,Morgan Poaty,M Poaty,single
+508,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Nolan Mbemba,N Mbemba,single
+509,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Yhoan Andzouana,Y Andzouana,single
+510,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,1500000.0,False,working,False,Gaius Makouta,G Makouta,single
+511,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Warren Tchimbembé,W Tchimbembé,single
+512,2044,"World Cup Qualifiers, Africa, 2022",Togo vs Congo,09-10-2021,Republic of the Congo,CG,2021,SUCCESS,0,600000.0,False,working,False,Silvere Ganvoula,S Ganvoula,single
+513,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,NB,2021,SUCCESS,0,75000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+514,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,NB,2021,SUCCESS,0,225000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+515,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,NB,2021,SUCCESS,0,400000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+516,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+517,2047,"World Cup Qualifiers, Africa, 2022",Togo vs Namibia,05-09-2021,Namibia,NB,2021,SUCCESS,0,1000000.0,False,working,False,Deon Hotto,D Hotto,single
+518,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+519,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,100000.0,False,working,False,Tiberius Lombard,T Lombard,single
+520,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Chris Katjiukua,C Katjiukua,single
+521,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,150000.0,False,working,False,Petrus Shitembi,P Shitembi,single
+522,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,50000.0,False,working,False,Dynamo Fredericks,D Fredericks,single
+523,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,950000.0,False,working,False,Deon Hotto,D Hotto,single
+524,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,600000.0,False,working,False,Peter Shalulile,P Shalulile,single
+525,2058,"World Cup Qualifiers, Africa, 2022",Namibia vs Eritrea,10-09-2019,Namibia,NB,2019,SUCCESS,0,325000.0,False,working,False,Benson Shilongo,B Shilongo,single
+526,3355,"World Cup Qualifiers, Europe, 2022",Montenegro vs Gibraltar,27-03-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+527,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+528,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,3000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+529,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,800000.0,False,working,False,Arnold Bouka Moutou,A Bouka Moutou,single
+530,3476,"African Cup of Nations, 2015",Gabon vs Congo,21-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+531,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,800000.0,False,working,False,Arnold Bouka Moutou,A Bouka Moutou,single
+532,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,2500000.0,False,working,False,Thievy Bifouma,T Bifouma,single
+533,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,3000000.0,False,working,False,Prince Oniangué,P Oniangué,single
+534,3478,"African Cup of Nations, 2015",Congo vs Burkina Faso,25-01-2015,Republic of the Congo,CG,2015,SUCCESS,0,600000.0,False,working,False,Férébory Doré,F Doré,single
+535,1011,"Euros 2024, Qualifiers",Serbia vs Montenegro,17.10.23,Montenegro,ME,2023,SUCCESS,0,300000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+536,1011,"Euros 2024, Qualifiers",Serbia vs Montenegro,17.10.23,Montenegro,ME,2023,SUCCESS,0,5000000.0,False,working,False,Adam Marusic,Marušić,single
+537,1013,"Euros 2024, Qualifiers",Montenegro vs Lithuania,16.11.23,Montenegro,ME,2023,SUCCESS,0,1700000.0,False,working,False,Slobodan Rubezic,Rubežić,single
+538,1015,"Euros 2024, Qualifiers",Hungary vs Montenegro,19.11.23,Montenegro,ME,2023,SUCCESS,0,1700000.0,False,working,False,Slobodan Rubezic,Rubežić,single
+539,1017,"Euros 2024, Qualifiers",Kazakhstan vs Slovenia,23.03.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,Benjamin Verbic,Verbič,single
+540,1021,"Euros 2024, Qualifiers",Slovenia vs San Marino,26.03.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,Benjamin Verbic,Verbič,single
+541,1027,"Euros 2024, Qualifiers",Slovenia vs Denmark,19.06.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+542,1031,"Euros 2024, Qualifiers",Slovenia vs Northern Ireland,07.09.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+543,1036,"Euros 2024, Qualifiers",Slovenia vs Finland,14.10.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+544,1039,"Euros 2024, Qualifiers",Northern Ireland vs Slovenia,17.10.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+545,1043,"Euros 2024, Qualifiers",Denmark vs Slovenia,17.11.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+546,1043,"Euros 2024, Qualifiers",Denmark vs Slovenia,17.11.23,Slovenia,SI,2023,SUCCESS,0,2500000.0,False,working,False,Benjamin Verbic,Verbič,single
+547,1044,"Euros 2024, Qualifiers",Slovenia vs Kazakhstan,20.11.23,Slovenia,SI,2023,SUCCESS,0,700000.0,False,working,False,Erik Janza,Janža,single
+548,3391,"World Cup Qualifiers, Europe, 2022",Montenegro vs Norway,30-03-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+549,3408,"World Cup Qualifiers, Europe, 2022",Montenegro vs Latvia,07-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+550,3420,"World Cup Qualifiers, Europe, 2022",Gibraltar vs Montenegro,08-10-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+551,3091,"World Cup Qualifiers, Europe, 2018",Montenegro vs Kazakhstan,08-10-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+552,3092,"World Cup Qualifiers, Europe, 2018",Romania vs Montenegro,04-09-2016,Montenegro,ME,2016,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+553,1638,Nations League 2020-2021,Cyprus vs Montenegro,05.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,Adam Marusic,Marušić,single
+554,1639,Nations League 2020-2021,Luxembourg vs Montenegro,08.09.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,Adam Marusic,Marušić,single
+555,1642,Nations League 2020-2021,Montenegro vs Azerbaijan,10.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,Marko Simic,Simić,single
+556,1644,Nations League 2020-2021,Montenegro vs Luxembourg,13.10.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,Marko Simic,Simić,single
+557,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,Adam Marusic,Marušić,single
+558,1645,Nations League 2020-2021,Azerbaijan vs Montenegro,14.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,Stefan Mugosa,Mugoša,single
+559,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,400000.0,False,working,False,Marko Simic,Simić,single
+560,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,10000000.0,False,working,False,Adam Marusic,Marušić,single
+561,1648,Nations League 2020-2021,Montenegro vs Cyprus,17.11.20,Montenegro,ME,2020,SUCCESS,0,750000.0,False,working,False,Stefan Mugosa,Mugoša,single
+562,1665,Nations League 2020-2021,Kosovo vs Slovenia,11.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,Benjamin Verbic,Verbič,single
+563,1666,Nations League 2020-2021,Greece vs Moldova,11.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,Stanislav Namasco,Namașco,single
+564,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Moldova,MD,2020,SUCCESS,0,150000.0,False,working,False,Stanislav Namasco,Namașco,single
+565,1667,Nations League 2020-2021,Moldova vs Slovenia,14.10.20,Slovenia,SI,2020,SUCCESS,0,5500000.0,False,working,False,Benjamin Verbic,Verbič,single
+566,707,"Euros 2020, Qualifiers",Slovakia vs Hungary,21.03.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+567,708,"Euros 2020, Qualifiers",Wales vs Slovakia,24.03.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+568,712,"Euros 2020, Qualifiers",Azerbaijan vs Slovakia,11.06.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+569,715,"Euros 2020, Qualifiers",Slovakia vs Croatia,06.09.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+570,717,"Euros 2020, Qualifiers",Hungary vs Slovakia,09.09.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+571,719,"Euros 2020, Qualifiers",Slovakia vs Wales,10.10.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+572,723,"Euros 2020, Qualifiers",Croatia vs Slovakia,16.11.19,Croatia,HR,2019,SUCCESS,0,4800000.0,False,working,False,Dino Peric,Perić,single
+573,723,"Euros 2020, Qualifiers",Croatia vs Slovakia,16.11.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+574,725,"Euros 2020, Qualifiers",Slovakia vs Azerbaijan,19.11.19,Slovakia,SK,2019,SUCCESS,0,6800000.0,False,working,False,Marek Hamsik,Hamšík,single
+575,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Ibrahim Sehic,ehić,single
+576,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,Sanjin Prcic,Prcić,single
+577,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,Rade Krunic,Krunić,single
+578,1780,Nations League 2022-2023,Finland vs Bosnia-Herzegovina,04.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+579,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+580,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,Adam Marusic,Marušić,single
+581,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,Stefan Mugosa,Mugoša,single
+582,1781,Nations League 2022-2023,Montenegro vs Romania,04.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,Vladimir Jovovic,Jovović,single
+583,1782,Nations League 2022-2023,Finland vs Montenegro,07.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+584,1782,Nations League 2022-2023,Finland vs Montenegro,07.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,Nikola Sipcic,ipčić,single
+585,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Ibrahim Sehic,ehić,single
+586,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Eldar Civic,Civič,single
+587,1783,Nations League 2022-2023,Bosnia-Herzegovina vs Romania,07.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,Sanjin Prcic,Prcić,single
+588,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+589,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,Adam Marusic,Marušić,single
+590,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,Stefan Mugosa,Mugoša,single
+591,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,Vladimir Jovovic,Jovović,single
+592,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Ibrahim Sehic,ehić,single
+593,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1500000.0,False,working,False,Dino Hotic,Hotić,single
+594,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,Rade Krunic,Krunić,single
+595,1785,Nations League 2022-2023,Montenegro vs Bosnia-Herzegovina,11.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+596,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Ibrahim Sehic,ehić,single
+597,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,3000000.0,False,working,False,Sanjin Prcic,Prcić,single
+598,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,10000000.0,False,working,False,Rade Krunic,Krunić,single
+599,1786,Nations League 2022-2023,Bosnia-Herzegovina vs Finland,14.06.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+600,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+601,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,Stefan Mugosa,Mugoša,single
+602,1787,Nations League 2022-2023,Romania vs Montenegro,14.06.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,Vladimir Jovovic,Jovović,single
+603,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Ibrahim Sehic,ehić,single
+604,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,6000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+605,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+606,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,2000000.0,False,working,False,Milutin Osmajic,Osmajić,single
+607,1788,Nations League 2022-2023,Bosnia-Herzegovina vs Montenegro,23.09.22,Montenegro,ME,2022,SUCCESS,0,8000000.0,False,working,False,Adam Marusic,Marušić,single
+608,1790,Nations League 2022-2023,Romania vs Bosnia-Herzegovina,26.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,1200000.0,False,working,False,Eldar Civic,Civič,single
+609,1790,Nations League 2022-2023,Romania vs Bosnia-Herzegovina,26.09.22,Bosnia-Herzegovina,BA,2022,SUCCESS,0,450000.0,False,working,False,Besim Serbecic,erbečić,single
+610,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,400000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+611,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,600000.0,False,working,False,Stefan Mugosa,Mugoša,single
+612,1791,Nations League 2022-2023,Montenegro vs Finland,26.09.22,Montenegro,ME,2022,SUCCESS,0,450000.0,False,working,False,Vladimir Jovovic,Jovović,single
+613,1793,Nations League 2022-2023,Slovenia vs Sweden,02.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,Gregor Sikosek,Sikošek,single
+614,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,Gregor Sikosek,Sikošek,single
+615,1797,Nations League 2022-2023,Norway vs Slovenia,09.06.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,Benjamin Verbic,Verbič,single
+616,1799,Nations League 2022-2023,Slovenia vs Serbia,12.06.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,Gregor Sikosek,Sikošek,single
+617,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,Gregor Sikosek,Sikošek,single
+618,1800,Nations League 2022-2023,Slovenia vs Norway,24.09.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,Benjamin Verbic,Verbič,single
+619,1802,Nations League 2022-2023,Sweden vs Slovenia,27.09.22,Slovenia,SI,2022,SUCCESS,0,500000.0,False,working,False,Gregor Sikosek,Sikošek,single
+620,1802,Nations League 2022-2023,Sweden vs Slovenia,27.09.22,Slovenia,SI,2022,SUCCESS,0,3000000.0,False,working,False,Benjamin Verbic,Verbič,single
+621,1816,Nations League 2022-2023,Cyprus vs Kosovo,02.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+622,1818,Nations League 2022-2023,Cyprus vs Northern Ireland,05.06.22,Cyprus,CY,2022,SUCCESS,0,400000.0,False,working,False,Alex Gogic,Gogić,single
+623,3221,"World Cup Qualifiers, Europe, 2022",Norway vs Montenegro,11-10-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+624,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+625,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,2250000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+626,1119,Euros 2016,Germany vs Slovakia,26.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,Marek Hamsik,Hamšík,single
+627,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+628,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,2250000.0,False,working,False,Patrik Hrosovsky,Hrošovský,single
+629,1129,Euros 2016,Wales vs Slovakia,11.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,Marek Hamsik,Hamšík,single
+630,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+631,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,275000.0,False,working,False,Viktor Pecovsky,Pečovský,single
+632,1131,Euros 2016,Russia vs Slovakia,15.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,Marek Hamsik,Hamšík,single
+633,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,1000000.0,False,working,False,Matus Kozacik,Kozáčik,single
+634,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,275000.0,False,working,False,Viktor Pecovsky,Pečovský,single
+635,1134,Euros 2016,Slovakia vs England,20.06.16,Slovakia,SK,2016,SUCCESS,0,40000000.0,False,working,False,Marek Hamsik,Hamšík,single
+636,1143,Euros 2016,Czech vs Croatia,17.06.16,Czech Republic,CZ,2016,SUCCESS,0,1500000.0,False,working,False,Jiri Skalak,Skalák,single
+637,659,"Euros 2020, Qualifiers",Ukraine vs Lithuania,11.10.19,Lithuania,LT,2019,SUCCESS,0,1000000.0,False,working,False,Arturas Zulpa,Žulpa,single
+638,204,World Cup 2014,Argentina vs Bosnia-Herzegovina,16.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,Senad Lulic,Lulić,single
+639,204,World Cup 2014,Argentina vs Bosnia-Herzegovina,16.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+640,207,World Cup 2014,Nigeria vs Bosnia-Herzegovina,22.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,14000000.0,False,working,False,Senad Lulic,Lulić,single
+641,207,World Cup 2014,Nigeria vs Bosnia-Herzegovina,22.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+642,209,World Cup 2014,Bosnia-Herzegovina vs Iran,25.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,1750000.0,False,working,False,Avdija Vrsajevic,Vršajević,single
+643,209,World Cup 2014,Bosnia-Herzegovina vs Iran,25.06.14,Bosnia-Herzegovina,BA,2014,SUCCESS,0,28000000.0,False,working,False,Miralem Pjanic,Pjanić,single
+644,236,World Cup 2018,Belgium vs Japan,02.07.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,Gen Shoji,Shōji,single
+645,2488,"World Cup Qualifiers, Asia, 2022",Nepal vs Chinese Taipei,03-06-2021,Chinese Taipei,TW,2021,SUCCESS,0,75000.0,False,working,False,Shin-An Shih,Shin Shin-an,single
+646,2125,"World Cup Qualifiers, Africa, 2022",Egypt vs Senegal,25-03-2022,Egypt,EG,2022,SUCCESS,0,10000000.0,False,working,False,Mahmoud Trezeguet,Trézéguet,single
+647,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,NB,2021,SUCCESS,0,75000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+648,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,NB,2021,SUCCESS,0,2500000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+649,2137,"World Cup Qualifiers, Africa, 2022",Namibia vs Togo,15-11-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+650,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,75000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+651,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,225000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+652,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,400000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+653,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,1000000.0,False,working,False,Deon Hotto,D Hotto,single
+654,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Joslin Kamatuka,J Kamatuka,single
+655,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Willy Stephanus,W Stephanus,single
+656,2146,"World Cup Qualifiers, Africa, 2022",Namibia vs Senegal,12-10-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+657,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,NB,2021,SUCCESS,0,225000.0,False,working,False,Ananias Gebhardt,A Gebhardt,single
+658,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,NB,2021,SUCCESS,0,400000.0,False,working,False,Riaan Hanamub,R Hanamub,single
+659,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+660,2162,"World Cup Qualifiers, Africa, 2022",Senegal vs Namibia,09-10-2021,Namibia,NB,2021,SUCCESS,0,1000000.0,False,working,False,Deon Hotto,D Hotto,single
+661,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,400000.0,False,working,False,Nolan Mbemba,N Mbemba,single
+662,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,800000.0,False,working,False,Antoine Makoumbou,A Makoumbou,single
+663,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Republic of the Congo,CG,2021,SUCCESS,0,1500000.0,False,working,False,Gaius Makouta,G Makouta,single
+664,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,75000.0,False,working,False,Lloyd Junior Kazapua,L Kazapua,single
+665,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,2500000.0,False,working,False,Ryan Nyambe,R Nyambe,single
+666,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Willy Stephanus,W Stephanus,single
+667,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,100000.0,False,working,False,Joslin Kamatuka,J Kamatuka,single
+668,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,1000000.0,False,working,False,Deon Hotto,D Hotto,single
+669,2164,"World Cup Qualifiers, Africa, 2022",Congo vs Namibia,11-11-2021,Namibia,NB,2021,SUCCESS,0,2000000.0,False,working,False,Peter Shalulile,P Shalulile,single
+670,281,World Cup 2018,Colombia vs Japan,19.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,Gen Shoji,Shōji,single
+671,283,World Cup 2018,Japan vs Senegal,24.06.18,Japan,JP,2018,SUCCESS,0,1300000.0,False,working,False,Gen Shoji,Shōji,single
+672,289,World Cup 2022,Croatia vs Morocco,17.12.22,Croatia,HR,2022,SUCCESS,0,5000000.0,False,working,False,Mislav Orsic,Oršić,single
+673,3023,"World Cup Qualifiers, Europe, 2018",Poland vs Montenegro,08-10-2017,Montenegro,ME,2017,SUCCESS,0,1500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+674,3249,"World Cup Qualifiers, Europe, 2022",Netherlands vs Montenegro,04-09-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+675,3252,"World Cup Qualifiers, Europe, 2022",Montenegro vs Netherlands,13-11-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+676,3268,"World Cup Qualifiers, Europe, 2022",Montenegro vs Turkey,16-11-2021,Montenegro,ME,2021,SUCCESS,0,500000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+677,1467,Nations League 2018-2020,Cyprus vs Slovenia,09.09.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,Benjamin Verbic,Verbič,single
+678,1473,Nations League 2018-2020,Slovenia vs Norway,16.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,Benjamin Verbic,Verbič,single
+679,1475,Nations League 2018-2020,Bulgaria vs Slovenia,19.11.18,Slovenia,SI,2018,SUCCESS,0,6000000.0,False,working,False,Benjamin Verbic,Verbič,single
+680,1476,Nations League 2018-2020,Lithuania vs Serbia,07.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+681,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+682,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+683,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+684,1477,Nations League 2018-2020,Romania vs Montenegro,07.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+685,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+686,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+687,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+688,1479,Nations League 2018-2020,Montenegro vs Lithuania,10.09.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+689,1480,Nations League 2018-2020,Lithuania vs Romania,11.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+690,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+691,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+692,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,Adam Marusic,Marušić,single
+693,1481,Nations League 2018-2020,Montenegro vs Serbia,11.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+694,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+695,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1200000.0,False,working,False,Zarko Tomasevic,Tomašević,single
+696,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+697,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+698,1483,Nations League 2018-2020,Lithuania vs Montenegro,14.10.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+699,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+700,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,Adam Marusic,Marušić,single
+701,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+702,1484,Nations League 2018-2020,Serbia vs Montenegro,17.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+703,1485,Nations League 2018-2020,Romania vs Lithuania,17.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+704,1486,Nations League 2018-2020,Serbia vs Lithuania,20.11.18,Lithuania,LT,2018,SUCCESS,0,1200000.0,False,working,False,Arturas Zulpa,Žulpa,single
+705,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,1500000.0,False,working,False,Marko Simic,Simić,single
+706,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,7000000.0,False,working,False,Adam Marusic,Marušić,single
+707,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,650000.0,False,working,False,Stefan Mugosa,Mugoša,single
+708,1487,Nations League 2018-2020,Montenegro vs Romania,20.11.18,Montenegro,ME,2018,SUCCESS,0,900000.0,False,working,False,Vladimir Jovovic,Jovović,single
+709,1488,Nations League 2018-2020,Kazakhstan vs Georgia,06.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,Nenad Eric,Erić,single
+710,1489,Nations League 2018-2020,Latvia vs Andorra,06.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+711,1490,Nations League 2018-2020,Georgia vs Latvia,09.09.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+712,1491,Nations League 2018-2020,Andorra vs Kazakhstan,10.09.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,Nenad Eric,Erić,single
+713,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+714,1493,Nations League 2018-2020,Latvia vs Kazakhstan,13.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,Nenad Eric,Erić,single
+715,1494,Nations League 2018-2020,Kazakhstan vs Andorra,16.10.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,Nenad Eric,Erić,single
+716,1495,Nations League 2018-2020,Latvia vs Georgia,16.10.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+717,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Kazakhstan,KZ,2018,SUCCESS,0,300000.0,False,working,False,Nenad Eric,Erić,single
+718,1496,Nations League 2018-2020,Kazakhstan vs Latvia,15.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single
+719,1498,Nations League 2018-2020,Andorra vs Latvia,19.11.18,Latvia,LV,2018,SUCCESS,0,100000.0,False,working,False,Andris Vanins,Vaņins,single

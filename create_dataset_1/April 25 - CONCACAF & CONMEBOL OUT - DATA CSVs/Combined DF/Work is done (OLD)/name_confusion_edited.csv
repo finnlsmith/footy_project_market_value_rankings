@@ -1,0 +1,112 @@
+,Unnamed: 0,Unnamed: 0.2,Match ID,Competition,Season,Country Code,Lookup Still Required?,Lookup Return Case,Translated Name,Original Case,To Remove,Nationality,Name(s) Found,ORIGINAL JERSEY,Match,Date,Market Value New,Status New,Match Case
+0,0,0,310,World Cup 2022,2022,IR,TRUE,Name Confusion,,Group 1 Fail,FALSE,Iran,Majid Hosseini,Majid Hosseini,England vs Iran,21.11.22,1400000.0,Done,single
+1,1,1,318,World Cup 2022,2022,SA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Saudi Arabia,Salem Al-Dawsari,Al-Dawsari,Poland vs Saudi Arabia,26.11.22,1700000.0,Done,single
+2,2,2,1873,Nations League 2022-2023,2022,CY,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Cyprus,Charalampos Kyriakou,Cham Kyriakou,Cyprus vs Estonia,29.03.22,800000.0,Done,single
+3,3,3,951,"Euros 2024, Qualifiers",2023,WA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Wales,Jordan James,James,Wales vs Croatia,15.10.23,3800000.0,Done,single
+4,4,4,953,"Euros 2024, Qualifiers",2023,WA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Wales,Jordan James,James,Armenia vs Wales,18.11.23,3800000.0,Done,single
+5,5,5,956,"Euros 2024, Qualifiers",2023,WA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Wales,Jordan James,James,Wales vs Turkey,21.11.23,3800000.0,Done,single
+6,6,6,1985,"World Cup Qualifiers, Africa, 2018",2016,CV,TRUE,Name Confusion,,Group 1 Fail,FALSE,Cape Verde,Ricardo Silva,Ricardo,Cape Verde vs Burkina Faso,12-11-2016,160000.0,Done,single
+7,7,7,857,"Euros 2020, Qualifiers",2019,LI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Liechtenstein,Marcel Büchel,M Büchel,Liechtenstein vs Finland,11.06.19,500000.0,Done,single
+8,8,8,1086,"Euros 2024, Qualifiers",2023,LU,TRUE,Name Confusion,,Group 1 Fail,FALSE,Luxembourg,Danel Sinani,Sinani,Bosnia-Herzegovina vs Luxembourg,20.06.23,1000000.0,Done,single
+9,9,9,1531,Nations League 2018-2020,2018,GI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Gibraltar,Lee Casciaro,Casciaro,Gibraltar vs Liechtenstein,16.10.18,25000.0,Done,single
+10,10,10,1534,Nations League 2018-2020,2018,LI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Liechtenstein,Marcel Büchel,M Büchel,Liechtenstein vs Armenia,19.11.18,500000.0,Done,single
+11,11,11,2057,"World Cup Qualifiers, Africa, 2022",2021,GN,TRUE,Name Confusion,,Group 1 Fail,FALSE,Guinea,Mady Camara,M Camara,Sudan vs Guinea,06-10-2021,15000000.0,Done,single
+12,12,12,2057,"World Cup Qualifiers, Africa, 2022",2021,GN,TRUE,Name Confusion,,Group 1 Fail,FALSE,Guinea,Mohamed Camara,M Camara,Sudan vs Guinea,06-10-2021,3000000.0,Done,single
+13,13,13,1632,Nations League 2020-2021,2020,WA,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Wales,Ben Davies,Davies,Bulgaria vs Wales,14.10.20,16000000.0,Done,single
+14,14,14,1701,Nations League 2020-2021,2020,GI,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Gibraltar,Lee Casciaro,Casciaro,San Marino vs Gibraltar,14.11.20,25000.0,Done,single
+15,15,15,3641,"Gold Cup, 2013",2013,MX,TRUE,Used Average of Season Before and After,,Group 1 Fail,FALSE,Mexico,Jonathan Orozco,J Orozco,Mexico vs Canada,12-07-2013,4500000.0,Done,single
+16,16,16,3656,"Gold Cup, 2013",2013,MX,TRUE,Used Average of Season Before and After,,Group 1 Fail,FALSE,Mexico,Jonathan Orozco,J Orozco,Panama vs Mexico,25-07-2013,4500000.0,Done,single
+17,17,17,3658,"Gold Cup, 2013",2013,MX,TRUE,Used Average of Season Before and After,,Group 1 Fail,FALSE,Mexico,Jonathan Orozco,J Orozco,Mexico vs Trinidad and Tobago,20-07-2013,4500000.0,Done,single
+18,18,18,2180,"World Cup Qualifiers, Africa, 2022",2021,NE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Niger,Abdoul Moumouni,A Moumouni,Burkina Faso vs Niger,12-11-2021,350000.0,Done,single
+19,19,19,2185,"World Cup Qualifiers, Africa, 2022",2019,LR,TRUE,Name Confusion,,Group 1 Fail,FALSE,Liberia,Terrence Tisdell,T Tisdell,Liberia vs Sierra Leone,04-09-2019,25000.0,Done,single
+20,20,20,3765,"Gold Cup, 2021",2021,MX,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Mexico,Edson Álvarez,E Álvarez,Mexico vs Trinidad and Tobago,11-07-2021,8000000.0,Done,single
+21,21,21,3770,"Gold Cup, 2021",2021,MX,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Mexico,Edson Álvarez,E Álvarez,Guatemala vs Mexico,15-07-2021,8000000.0,Done,single
+22,22,22,668,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Netherlands vs Germany,24.03.19,72000000.0,Done,single
+23,23,23,675,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Germany vs Netherlands,06.09.19,72000000.0,Done,single
+24,24,24,677,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Estonia vs Netherlands,09.09.19,72000000.0,Done,single
+25,25,25,679,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Netherlands vs Northern Ireland,10.10.19,72000000.0,Done,single
+26,26,26,680,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Belarus vs Netherlands,13.10.19,72000000.0,Done,single
+27,27,27,683,"Euros 2020, Qualifiers",2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Northern Ireland vs Netherlands,16.11.19,72000000.0,Done,single
+28,28,28,228,World Cup 2018,2018,BE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Belgium,Eden Hazard,Hazard,Brazil vs Belgium,06.07.18,110000000.0,Done,single
+29,29,29,2157,"World Cup Qualifiers, Africa, 2022",2019,SO,TRUE,Name Confusion,,Group 1 Fail,FALSE,Somalia,Omar Mohamed,A Sheikuna Mohamed,Somalia vs Zimbabwe,05-09-2019,175000.0,Done,single
+30,30,30,2157,"World Cup Qualifiers, Africa, 2022",2019,SO,TRUE,Name Confusion,,Group 1 Fail,FALSE,Somalia,Hussein Mohamed,A Mohamed,Somalia vs Zimbabwe,05-09-2019,25000.0,Done,single
+31,31,31,262,World Cup 2018,2018,IS,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Iceland,Jóhann Berg Gudmundsson,Gudmundsson,Iceland vs Croatia,26.06.18,10000000.0,Done,single
+32,32,32,2750,"World Cup Qualifiers, Asia, 2026",2023,IN,TRUE,Name Confusion,,Group 1 Fail,FALSE,India,Manvir Singh,M Singh,Kuwait vs India,16-11-2023,250000.0,Done,single
+33,33,33,1188,Euros 2020,2021,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Netherlands vs Ukraine,13.06.21,70000000.0,Done,single
+34,34,34,1190,Euros 2020,2021,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Netherlands vs Austria,17.06.21,70000000.0,Done,single
+35,35,35,1746,Nations League 2022-2023,2022,BE,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Belgium,Eden Hazard,Hazard,Belgium vs Poland,08.06.22,5000000.0,Done,single
+36,36,36,451,"Euros 2016, Qualifiers",2014,SC,TRUE,Name Confusion,,Group 1 Fail,FALSE,Scotland,Russell Martin,Martin,Poland vs Scotland,14.10.14,3000000.0,Done,single
+37,37,37,464,"Euros 2016, Qualifiers",2015,GI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Gibraltar,Lee Casciaro,Casciaro,Poland vs Gibraltar,07.09.15,25000.0,Done,single
+38,38,38,2099,"World Cup Qualifiers, Africa, 2022",2021,GN,TRUE,Name Confusion,,Group 1 Fail,FALSE,Guinea,Mohamed Camara,M Camara,Guinea vs Sudan,09-10-2021,3000000.0,Done,single
+39,39,39,2710,"World Cup Qualifiers, Asia, 2026",2023,BD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bangladesh,Sohel Rana,Sohel Rana,Maldives vs Bangladesh,12-10-2023,175000.0,Done,single
+40,40,40,2719,"World Cup Qualifiers, Asia, 2026",2023,BT,TRUE,Name Confusion,,Group 1 Fail,FALSE,Bhutan,Tenzin Dorji,T Dorji,Bhutan vs Hong Kong,17-10-2023,75000.0,Done,single
+41,41,41,2725,"World Cup Qualifiers, Asia, 2026",2023,NP,TRUE,Name Confusion,,Group 1 Fail,FALSE,Nepal,Anjan Bista,A Bista,Nepal vs Laos,12-10-2023,125000.0,Done,single
+42,42,42,2218,"World Cup Qualifiers, Africa, 2026",2023,NE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Niger,Abdoul Moumouni,A Moumouni,Niger vs Zambia,21-11-2023,300000.0,Done,single
+43,43,43,2740,"World Cup Qualifiers, Asia, 2026",2023,BD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bangladesh,Sohel Rana,Sohel Rana,Bangladesh vs Lebanon,21-11-2023,175000.0,Done,single
+44,44,44,2756,"World Cup Qualifiers, Asia, 2026",2023,BD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bangladesh,Sohel Rana,Sohel Rana,Bangladesh vs Maldives,17-10-2023,175000.0,Done,single
+45,45,45,609,"Euros 2016, Qualifiers",2015,RS,TRUE,Name Confusion,,Group 1 Fail,FALSE,Serbia,Zoran Tosic,Tosic,Albania vs Serbia,08.10.15,8000000.0,Done,single
+46,46,46,617,"Euros 2020, Qualifiers",2020,IS,TRUE,Name Confusion,,Group 1 Fail,FALSE,Iceland,Jóhann Berg Gudmundsson,Gudmundsson,Hungary vs Iceland,12.11.20,5000000.0,Done,single
+47,47,47,1747,Nations League 2022-2023,2022,WA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Wales,Ben Davies,Davies,Wales vs Netherlands,08.06.22,20000000.0,Done,single
+48,48,48,444,"Euros 2016, Qualifiers",2014,SC,TRUE,Name Confusion,,Group 1 Fail,FALSE,Scotland,Darren Fletcher,Fletcher,Germany vs Scotland,07.09.14,3000000.0,Done,single
+49,49,49,466,"Euros 2016, Qualifiers",2015,SC,TRUE,Name Confusion,,Group 1 Fail,FALSE,Scotland,Russell Martin,Martin,Scotland vs Germany,07.09.15,3000000.0,Done,single
+50,50,50,2377,"World Cup Qualifiers, Asia, 2018",2015,MY,TRUE,Name Confusion,,Group 1 Fail,FALSE,Malaysia,Safee Sali,Sali,Malaysia vs Palestine,16-06-2015,0.0,Done,single
+51,51,51,2384,"World Cup Qualifiers, Asia, 2018",2015,KH,TRUE,Had Both but Both Were Empty,,Group 1 Fail,FALSE,Cambodia,Souhana Sos,Sos Suhana,Cambodia vs Syria,08-09-2015,0.0,Done,single
+52,52,52,1395,Nations League 2018-2020,2019,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Portugal vs Netherlands,09.06.19,72000000.0,Done,single
+53,53,53,1399,Nations League 2018-2020,2018,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,France vs Netherlands,09.09.18,85000000.0,Done,single
+54,54,54,1403,Nations League 2018-2020,2018,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Germany vs Netherlands,19.11.18,85000000.0,Done,single
+55,55,55,1405,Nations League 2018-2020,2018,BE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Belgium,Eden Hazard,Hazard,Iceland vs Belgium,11.09.18,120000000.0,Done,single
+56,56,56,1406,Nations League 2018-2020,2018,BE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Belgium,Eden Hazard,Hazard,Belgium vs Switzerland,12.10.18,120000000.0,Done,single
+57,57,57,1407,Nations League 2018-2020,2018,IS,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Iceland,Jóhann Berg Gudmundsson,Gudmundsson,Iceland vs Switzerland,15.10.18,10000000.0,Done,single
+58,58,58,1059,"Euros 2024, Qualifiers",2023,AD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Andorra,Marc Vales,Vales,Andorra vs Belarus,09.09.23,150000.0,Done,single
+59,59,59,1071,"Euros 2024, Qualifiers",2023,AD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Andorra,Marc Vales,Vales,Belarus vs Andorra,18.11.23,150000.0,Done,single
+60,60,60,2327,"World Cup Qualifiers, Asia, 2018",2017,QA,TRUE,Name Confusion,,Group 1 Fail,FALSE,Qatar,Abdulkareem Salem Al-Ali,Abdulkarim Salem,Qatar vs China PR,05-09-2017,50000.0,Done,single
+61,61,61,2606,"World Cup Qualifiers, Asia, 2022",2019,MY,TRUE,Name Confusion,,Group 1 Fail,FALSE,Malaysia,Syafiq Ahmad,Sya,Malaysia vs United Arab Emirates,10-09-2019,175000.0,Done,single
+62,62,62,2611,"World Cup Qualifiers, Asia, 2022",2019,MY,TRUE,Name Confusion,,Group 1 Fail,FALSE,Malaysia,Syafiq Ahmad,Sya,Indonesia vs Malaysia,5-9-2019,175000.0,Done,single
+63,63,63,316,World Cup 2022,2022,AR,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Argentina,Lautaro Martínez,L Martínez,Argentina vs Saudi Arabia,22.11.22,85000000.0,Done,single
+64,64,64,350,World Cup 2022,2022,PT,TRUE,Name Confusion,,Group 1 Fail,FALSE,Portugal,António Silva,A Silva,South Korea vs Portugal,02.12.22,15000000.0,Done,single
+65,65,65,2539,"World Cup Qualifiers, Asia, 2022",2021,NP,TRUE,Name Confusion,,Group 1 Fail,FALSE,Nepal,Anjan Bista,A Bista,Nepal vs Jordan,07-06-2021,125000.0,Done,single
+66,66,66,2546,"World Cup Qualifiers, Asia, 2022",2019,BD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bangladesh,Raihan Hasan,R Hasan,India vs Bangladesh,15-10-2019,100000.0,Done,single
+67,67,67,895,"Euros 2024, Qualifiers",2023,GE,TRUE,Name Confusion,,Group 1 Fail,FALSE,Georgia,Lochoshvili,Lochoschvili,Spain vs Georgia,19.11.23,1200000,Done,single
+68,68,68,1541,Nations League 2020-2021,2020,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Netherlands vs Poland,04.09.20,90000000.0,Done,single
+69,69,69,1543,Nations League 2020-2021,2020,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Luuk de Jong,de Jong,Netherlands vs Italy,07.09.20,10000000.0,Done,single
+70,70,70,1552,Nations League 2020-2021,2020,NL,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Netherlands,Frenkie de Jong,de Jong,Poland vs Netherlands,18.11.20,90000000.0,Done,single
+71,71,71,373,"Euros 2016, Qualifiers",2015,LV,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Latvia,Aleksejs Visnakovs,Visnakovs,Turkey vs Latvia,03.09.15,200000.0,Done,single
+72,72,72,380,"Euros 2016, Qualifiers",2015,LV,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Latvia,Aleksejs Visnakovs,Visnakovs,Latvia vs Kazakhstan,13.10.15,200000.0,Done,single
+73,73,73,1049,"Euros 2024, Qualifiers",2023,AD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Andorra,Marc Vales,Vales,Andorra vs Romania,25.03.23,150000.0,Done,single
+74,74,74,728,"Euros 2020, Qualifiers",2019,NO,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Norway,Tarik Elyounoussi,Elyounoussi,Spain vs Norway,23.03.19,950000.0,Done,single
+75,75,75,1771,Nations League 2022-2023,2022,IS,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Iceland,Andri Gudjohnsen,Gudjohnsen,Iceland vs Albania,06.06.22,600000.0,Done,single
+76,76,76,1775,Nations League 2022-2023,2022,IS,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Iceland,Andri Gudjohnsen,Gudjohnsen,Iceland vs Israel,13.06.22,600000.0,Done,single
+77,77,77,2636,"World Cup Qualifiers, Asia, 2022",2019,MY,TRUE,Name Confusion,,Group 1 Fail,FALSE,Malaysia,Syafiq Ahmad,Sya,Vietnam vs Malaysia,10-10-2019,175000.0,Done,single
+78,78,78,2488,"World Cup Qualifiers, Asia, 2022",2021,NP,TRUE,Name Confusion,,Group 1 Fail,FALSE,Nepal,Anjan Bista,A Bista,Nepal vs Chinese Taipei,03-06-2021,125000.0,Done,single
+79,79,79,2502,"World Cup Qualifiers, Asia, 2022",2019,BD,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bangladesh,Raihan Hasan,R Hasan,Oman vs Bangladesh,14-11-2019,100000.0,Done,single
+80,80,80,2516,"World Cup Qualifiers, Asia, 2022",2021,NP,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Nepal,Arik Bista,A Bista,Nepal vs Australia,11-06-2021,50000.0,Done,single
+81,81,81,275,World Cup 2018,2018,BE,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Belgium,Eden Hazard,Hazard,Belgium vs Panama,18.06.18,150000000.0,Done,single
+82,82,82,293,World Cup 2022,2022,NL,TRUE,Only Before,,Group 1 Fail,FALSE,Netherlands,Luuk de Jong,de Jong,Netherlands vs Argentina,09.12.22,9600000.0,Done,single
+83,83,83,571,"Euros 2016, Qualifiers",2014,BG,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Bulgaria,Veselin Minev,Minev,Norway vs Bulgaria,13.10.14,500000.0,Done,single
+84,84,84,481,"Euros 2016, Qualifiers",2014,SM,TRUE,Had Both but Both Were Empty,,Group 1 Fail,FALSE,San Marino,Alex Gasperoni,Gasperoni,San Marino vs Switzerland,14.10.14,0.0,Done,single
+85,85,85,360,"Euros 2016, Qualifiers",2014,IS,TRUE,Name Confusion,,Group 1 Fail,FALSE,Iceland,Elmar Bjarnason,Bjarnason,Iceland vs Netherlands,13.10.14,750000.0,Done,single
+86,86,86,499,"Euros 2016, Qualifiers",2015,SM,TRUE,Had Both but Both Were Empty,,Group 1 Fail,FALSE,San Marino,Matteo Vitaioli,Vitaioli,Switzerland vs San Marino,09.10.15,0.0,Done,single
+87,87,87,390,"Euros 2016, Qualifiers",2014,WA,TRUE,Found in Curr Season,,Group 1 Fail,FALSE,Wales,Neil Taylor,Taylor,Wales vs Cyprus,13.10.14,3500000.0,Done,single
+88,88,88,467,"Euros 2016, Qualifiers",2015,GI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Gibraltar,Jordan Perez,Perez,Georgia vs Gibraltar,08.10.15,0.0,Done,single
+89,89,89,471,"Euros 2016, Qualifiers",2015,GI,TRUE,Name Confusion,,Group 1 Fail,FALSE,Gibraltar,Daniel Duarte,Duarte,Gibraltar vs Scotland,11.10.15,0.0,Done,single
+90,90,90,447,"Euros 2016, Qualifiers",2014,SC,TRUE,Name Confusion,,Group 1 Fail,FALSE,Scotland,Russell Martin,Martin,Scotland vs Georgia,11.10.14,3000000.0,Done,single
+91,91,91,569,"Euros 2016, Qualifiers",2014,AZ,TRUE,Name Confusion,,Group 1 Fail,FALSE,Azerbaijan,Badavi Hüseynov,Huseynov,Croatia vs Azerbaijan,13.10.14,0.0,Done,single
+92,92,92,1930,"World Cup Qualifiers, Africa, 2018",2015,SO,TRUE,Name Confusion,,Group 1 Fail,FALSE,Somalia,Abdinasir Yusuf Ahmed,A Ahmed,Niger vs Somalia,13-10-2015,0.0,Done,single
+93,93,93,1930,"World Cup Qualifiers, Africa, 2018",2015,SO,TRUE,Name Confusion,,Group 1 Fail,FALSE,Somalia,Mohamed Ali Mohamed,A Mohamed,Niger vs Somalia,13-10-2015,0.0,Done,single
+94,94,94,2394,"World Cup Qualifiers, Asia, 2018",2015,BH,TRUE,Name Confusion,,Group 1 Fail,FALSE,Bahrain,Husain Ali Baba,Ali Al Sa,North Korea vs Bahrain,17-11-2015,0.0,Done,single
+95,95,95,2203,"World Cup Qualifiers, Africa, 2026",2023,SO,TRUE,Name Confusion,,Group 1 Fail,FALSE,Somalia,Abdi Mohamed,A Mohamed,Algeria vs Somalia,16-11-2023,150000.0,Done,single
+96,96,96,1064,"Euros 2024, Qualifiers",2023,XK,TRUE,Only Before,,Group 1 Fail,FALSE,Kosovo,Amir Rrahmani,Rrahmani,Romania vs Kosovo,12.09.23,30000000.0,Done,single
+97,97,97,2267,"World Cup Qualifiers, Asia, 2018",2015,VN,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Vietnam,Thanh Hien Nguyen,Nguyn Thanh Hin,Chinese Taipei vs Vietnam,08-09-2015,0.0,Done,single
+98,98,98,2274,"World Cup Qualifiers, Asia, 2018",2015,VN,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Vietnam,Thanh Hien Nguyen,Nguyn Thanh Hin,Vietnam vs Iraq,08-10-2015,0.0,Done,single
+99,99,99,3653,"Gold Cup, 2013",2013,HN,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Honduras,Johnny Palacios,J Palacios,Honduras vs Trinidad and Tobago,16-07-2013,200000.0,Done,single
+100,100,100,3653,"Gold Cup, 2013",2013,HN,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Honduras,Jerry Palacios,J Palacios,Honduras vs Trinidad and Tobago,16-07-2013,600000.0,Done,single
+101,101,101,2194,"World Cup Qualifiers, Africa, 2022",2021,LY,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Libya,Mohamed Zaabia,Mohammad Zubya,Angola vs Libya,07-09-2021,0.0,Done,single
+102,102,102,2198,"World Cup Qualifiers, Africa, 2022",2021,LY,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Libya,Mohamed Zaabia,Mohammad Zubya,Gabon vs Libya,12-11-2021,0.0,Done,single
+103,103,103,2118,"World Cup Qualifiers, Africa, 2022",2021,LY,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Libya,Mohamed Zaabia,Mohammad Zubya,Libya vs Gabon,01-09-2021,0.0,Done,single
+104,104,104,2926,"World Cup Qualifiers, Europe, 2014",2013,SM,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,San Marino,Alessandro Della Valle,A Della Valle,San Marino vs Ukraine,15-10-2013,0.0,Done,single
+105,105,105,2834,"World Cup Qualifiers, Europe, 2014",2013,SM,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,San Marino,Alessandro Della Valle,A Della Valle,Poland vs San Marino,26-03-2013,0.0,Done,single
+106,106,106,1986,"World Cup Qualifiers, Africa, 2018",2015,MG,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Madagascar,Tahiana Randrianarisoa,G Randrianarisoa,Central African Republic vs Madagascar,10-10-2015,0.0,Done,single
+107,107,107,2282,"World Cup Qualifiers, Asia, 2018",2015,IN,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,India,Sehnaj Singh,S Singh,India vs Oman,11-06-2015,0.0,Done,single
+108,108,108,2157,"World Cup Qualifiers, Africa, 2022",2019,SO,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Somalia,Mohamud Ali,M Ali Mohamed,Somalia vs Zimbabwe,05-09-2019,0.0,Done,single
+109,109,109,2163,"World Cup Qualifiers, Africa, 2022",2021,DJ,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Djibouti,Mohamed Bourhan Mohamed,M Mohamed,Djibouti vs Burkina Faso,08-10-2021,0.0,Done,single
+110,110,110,2165,"World Cup Qualifiers, Africa, 2022",2021,DJ,TRUE,Name Confusion,,Large Dataset Said 0 Complete,FALSE,Djibouti,Mohamed Bourhan Mohamed,M Mohamed,Burkina Faso vs Djibouti,11-10-2021,0.0,Done,single
