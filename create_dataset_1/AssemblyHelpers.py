@@ -22,6 +22,7 @@ import urllib.parse
 from datetime import datetime
 
 from urllib.parse import urlsplit
+from unidecode import unidecode
 
 import wikipediaapi
 
@@ -1883,6 +1884,8 @@ def getSeleniumURL(input_name_for_lookup, input_nationality, input_date_of_match
         result_array_aftertest = []
         players_pagesoup_dictionary = {}
 
+        url_dict = {}
+
         for i in range(0, len(df)):
             this_url_name = df.at[i, 'Name URL style']
             this_code_name = df.at[i, 'Spieler']
@@ -1890,9 +1893,13 @@ def getSeleniumURL(input_name_for_lookup, input_nationality, input_date_of_match
 
             print(df.at[i, 'Name'], find_national_team_history_URL)
 
+            market_value_url = f"https://www.transfermarkt.us/{this_url_name}/marktwertverlauf/spieler/{this_code_name}"
+            
+
             page_soup_history_pg = grab_transfer_pagesoup(find_national_team_history_URL)
 
             if(find_national_team_in_player_history(page_soup_history_pg, input_nationality) == True):
+                url_dict[df.at[i, 'Name']] = market_value_url
                 result_array_aftertest.append(df.at[i, 'Name'])
                 players_pagesoup_dictionary[df.at[i, 'Name']] = page_soup_history_pg
 
@@ -1921,11 +1928,27 @@ def getSeleniumURL(input_name_for_lookup, input_nationality, input_date_of_match
 
         if(len(date_match_array_players) == 1):
             candidate_name_r6 = date_match_array_players[0]
-            print('match found. you never finished this!!')
+            print(candidate_name_r6, 'match found. you never finished this!!', url_dict[candidate_name_r6])
+            return url_dict[candidate_name_r6], True
             #you have to return this guy's profile URL 
 
         elif(len(date_match_array_players) >= 2):
-            print('multiple matches', date_match_array_players)
+            if 'Nicki Bille' in date_match_array_players:
+                candidate_name_r6 = date_match_array_players[0]
+                print('were here', url_dict[candidate_name_r6])
+                return url_dict[candidate_name_r6], True
+            else:
+                for name in date_match_array_players:
+                    if name == unidecode(input_name_for_lookup):
+                        0==0
+                    else:
+                        date_match_array_players.remove(name)
+                if len(date_match_array_players) == 1:
+                    candidate_name_r6 = date_match_array_players[0]
+                    return url_dict[candidate_name_r6], True
+                else:
+                    #threshold match?
+                    print('multiple matches', date_match_array_players)
         else:
             print('0 matches', filtered_names)
             url_tosplit = ""
@@ -2361,9 +2384,9 @@ def findMarketValueFromTable(df, input_date_str):
     if(days_from_match.days >= 375):
         print(days_from_match)
         
-        return 0#, days_from_match
+        return 0, False#, days_from_match
     else:
-        return market_value#, days_from_match
+        return market_value, True#, days_from_match
 #the return statement from this last function is the market value at that time
 
 
@@ -2408,9 +2431,12 @@ def seleniumLookUpValueWrapperFunction (input_name_player, input_nationality_pla
 
             #findMarketValueFromTable
 
-            result_value_time_of_match = findMarketValueFromTable(data_points_table_df_updated, input_match_date_player)
-            print(result_value_time_of_match, '12345')
-            return result_value_time_of_match
+            result_value_time_of_match, status = findMarketValueFromTable(data_points_table_df_updated, input_match_date_player)
+            if status == True:
+                print(result_value_time_of_match, '12345')
+                return result_value_time_of_match
+            else:
+                return 0
     else:
         0==0
         #print('Link wasnt transfermarkt, and Searching for links did not yield any results.')
