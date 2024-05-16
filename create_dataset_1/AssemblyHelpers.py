@@ -2407,7 +2407,7 @@ def seleniumLookUpValueWrapperFunction (input_name_player, input_nationality_pla
         if(market_value_graph_html == ""):
             #then it didn't work
             print('wrapper function nayem case working')
-            return 0
+            return -1
 
         else:
             print(selenium_URL)
