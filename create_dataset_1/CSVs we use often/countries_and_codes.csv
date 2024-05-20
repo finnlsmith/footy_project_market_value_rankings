@@ -49,6 +49,7 @@
 47,Caribbean Netherlands,BQ
 48,Cayman Islands,KY
 49,Central African Rep,CF
+,Central Africa,CF
 50,Central African Republic,CF
 51,Central African Republic,CF
 52,C.A.R.,CF
@@ -75,12 +76,14 @@
 73,Cyprus,CY
 74,Czech,CZ
 75,Czech Rep,CZ
+,Czechia,CZ
 76,Czech Republic,CZ
 77,Denmark,DK
 78,Diego Garcia,DG
 79,Djibouti,DJ
 80,Dominica,DM
 81,Dominicana,DO
+,Dominican,DO
 82,Dominican Republic,DO
 83,DR Congo,DR
 84,Democratic Republic of the Congo,DR
@@ -90,6 +93,7 @@
 88,El Salvador,SV
 89,England,EN
 90,Eq. Guinea,GQ
+,Equat. Guinea,GQ
 91,Equatorial Guinea,GQ
 92,Eritrea,ER
 93,Estonia,EE
@@ -198,8 +202,10 @@
 196,North Korea,KP
 197,N. Macedonia,MK
 198,N.Macedonia,MK
+,Macedonia,MK
 199,North Macedonia,MK
 200,North. Ireland, NI
+,N. Ireland,NI
 201,Northern Ireland, NI
 202,Northern Mariana Islands,MP
 203,Norway,NO
@@ -227,8 +233,10 @@
 225,Samoa,WS
 226,San Marino,SM
 227,São Tomé and Príncipe,ST
+,São Tomé and P.,ST
 228,Sao Tome e Principe,ST
 229,Sao Tome,ST
+,S. Arabia,SA
 230,Saudi Arabia,SA
 231,Scotland,SC
 232,Senegal,SN
@@ -241,6 +249,7 @@
 239,Slovenia,SI
 240,Solomon Islands,SB
 241,Somalia,SO
+,S. Africa,ZA
 242,South Africa,ZA
 243,South Georgia & South Sandwich Islands,GS
 244,South Korea,KR
@@ -250,6 +259,7 @@
 248,St. Barthélemy,BL
 249,St. Helena,SH
 250,St. Kitts and Nevis,KN
+,St. Kitts/Nevis,KN
 251,Saint Kitts and Nevis,KN
 252,Saint Lucia,LC
 253,St. Martin,MF
@@ -262,6 +272,7 @@
 260,Sweden,SE
 261,Switzerland,CH
 262,Syria,SY
+,C. Taipei,TW
 263,Chinese Taipei,TW
 264,Tahiti, TI
 265,Tajikistan,TJ
@@ -273,6 +284,7 @@
 271,Togo,TG
 272,Tokelau,TK
 273,Tonga,TO
+,Trinidad,TT
 274,Trinidad and Tobago,TT
 275,Tristan da Cunha,TA
 276,Tunisia,TN
@@ -287,6 +299,7 @@
 285,Uganda,UG
 286,Ukraine,UA
 287,United Arab Emirates,AE
+,U. A. E.,AE
 288,UAE,AE
 289,United Kingdom,GB
 290,United States,US
