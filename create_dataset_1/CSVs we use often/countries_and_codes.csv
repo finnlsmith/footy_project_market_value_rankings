@@ -36,6 +36,7 @@
 34,Brazil,BR
 35,Brunei,BN
 36,Brunei Darussalam,BN
+,B. Virgin, BVI
 37,British Virgin Islands, BVI
 38,Bulgaria,BG
 39,Burkina,BF
@@ -45,13 +46,13 @@
 43,Cameroon,CM
 44,Canada,CA
 45,Cape Verde,CV
+,Cabo Verde,CV
 46,Cape Verde Islands,CV
 47,Caribbean Netherlands,BQ
 48,Cayman Islands,KY
 49,Central African Rep,CF
 ,Central Africa,CF
 50,Central African Republic,CF
-51,Central African Republic,CF
 52,C.A.R.,CF
 53,Chad,TD
 54,Chile,CL
@@ -130,11 +131,13 @@
 124,Guyana,GY
 125,Haiti,HT
 126,Honduras,HN
+,"Hong Kong, China",HK
 127,Hong Kong,HK
 128,Hungary,HU
 129,Iceland,IS
 130,India,IN
 131,Indonesia,ID
+,IR Iran,IR
 132,Iran,IR
 133,Iraq,IQ
 134,Ireland,IE
@@ -143,6 +146,7 @@
 137,Israel,IL
 138,Italy,IT
 139,Ivory Coast,CI
+,Côte d'Ivoire,CI
 140,Cote d'Ivoire,CI
 141,Jamaica,JM
 142,Japan,JP
@@ -154,6 +158,7 @@
 148,Kosovo,XK
 149,Korea Republic,KR
 150,Kuwait,KW
+,Kyrgyz Republic,KG
 151,Kyrgyzstan,KG
 152,Laos,LA
 153,Latvia,LV
@@ -187,11 +192,13 @@
 181,Morocco,MA
 182,Mozambique,MZ
 183,Myanmar,MM
-184,Namibia,
+184,Namibia,NB
 185,Nauru,NR
 186,Nepal,NP
+,Netherlands Antilles,NL
 187,Netherlands,NL
 188,New Caledonia,NC
+,Aotearoa New Zealand,NZ
 189,New Zealand,NZ
 190,Nicaragua,NI
 191,Niger,NE
@@ -202,10 +209,11 @@
 196,North Korea,KP
 197,N. Macedonia,MK
 198,N.Macedonia,MK
+,FYR Macedonia,MK
 ,Macedonia,MK
 199,North Macedonia,MK
 200,North. Ireland, NI
-,N. Ireland,NI
+,N. Ireland, NI
 201,Northern Ireland, NI
 202,Northern Mariana Islands,MP
 203,Norway,NO
@@ -233,6 +241,7 @@
 225,Samoa,WS
 226,San Marino,SM
 227,São Tomé and Príncipe,ST
+,São Tomé e Príncipe,ST
 ,São Tomé and P.,ST
 228,Sao Tome e Principe,ST
 229,Sao Tome,ST
@@ -260,10 +269,14 @@
 249,St. Helena,SH
 250,St. Kitts and Nevis,KN
 ,St. Kitts/Nevis,KN
+,St Kitts and Nevis,KN
 251,Saint Kitts and Nevis,KN
+,St Lucia,LC
+,St. Lucia,LC
 252,Saint Lucia,LC
 253,St. Martin,MF
 254,St. Pierre & Miquelon,PM
+,St. Vincent and the Grenadines,VC
 255,Saint Vincent and the Grenadines,VC
 256,Sudan,SD
 257,Suriname,SR
