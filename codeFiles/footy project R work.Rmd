@@ -1,0 +1,146 @@
+---
+title: "Regressions big dataset 1"
+author: "Finn Laister Smith"
+date: "2024-05-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#install.packages("tidyverse")
+#install.packages("glmnet")
+#install.packages("ggplot2")
+#install.packages("caret")
+```
+
+
+```{r}
+library(tidyverse)
+library(glmnet)
+library(ggplot2)
+library(dplyr)
+library(caret)
+
+```
+
+```{r}
+
+#boxScoreTrain <- read_csv("/Users/finneganlaister-smith/downloads/2012-18_officialBoxScoreTrain.csv")
+
+
+#getwd()
+#setwd("/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/")
+
+results_data <- read_csv("/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/match_dataset_3.csv")
+
+
+```
+
+```{r}
+results_data_w_scores<- results_data %>%
+  separate(Result, into = c("Team.1.Score", "Team.2.Score", "Extra.Text"),
+           sep = "[: ]", extra = "merge", fill = "right") %>%
+  mutate(
+    Team.1.Score = as.numeric(Team.1.Score),
+    Team.2.Score = as.numeric(Team.2.Score),
+    score = paste0(Team.1.Score, ":", Team.2.Score, " ", Extra.Text)
+  ) %>%
+  select(-Extra.Text)
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  rename(
+    Team.1.Total.Market.Value = `Team 1 Total Market Value`,
+    Team.2.Total.Market.Value = `Team 2 Total Market Value`
+  )
+```
+
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  mutate(
+    Score.Difference = Team.1.Score - Team.2.Score,
+    Market.Value.Difference = Team.1.Total.Market.Value - Team.2.Total.Market.Value
+  )
+
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  rename(
+    Team.1.Rank = `Team 1 Rank`,
+    Team.2.Rank = `Team 2 Rank`
+  )
+
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  mutate(
+    Rank.Difference = (Team.1.Rank - Team.2.Rank) * -1,
+  )
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  rename(
+    Team.1.Values.By.Player = `Team 1 Values by Player`,
+    Team.2.Values.By.Player = `Team 2 Values by Player`
+  )
+
+```
+
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  mutate(
+    Team.1.Values.By.Player = lapply(strsplit(gsub("\\[|\\]", "", Team.1.Values.By.Player), ", "), as.numeric),
+    Team.2.Values.By.Player = lapply(strsplit(gsub("\\[|\\]", "", Team.2.Values.By.Player), ", "), as.numeric)
+  )
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  mutate(
+    `Team.1.Num.of.0.Value.Players` = sapply(Team.1.Values.By.Player, function(x) sum(x == 0)),
+    `Team.2.Num.of.0.Value.Players` = sapply(Team.2.Values.By.Player, function(x) sum(x == 0))
+  )
+```
+
+```{r}
+results_data_w_scores <- results_data_w_scores %>%
+  mutate(
+    Number.of.Valuable.Players.Difference = (Team.1.Num.of.0.Value.Players - Team.2.Num.of.0.Value.Players) * -1,
+  )
+```
+
+```{r}
+results_data_w_scores$Team.1.Values.By.Player <- sapply(results_data_w_scores$Team.1.Values.By.Player, function(x) paste(x, collapse = ","))
+results_data_w_scores$Team.2.Values.By.Player <- sapply(results_data_w_scores$Team.2.Values.By.Player, function(x) paste(x, collapse = ","))
+
+```
+
+
+```{r}
+file_path <- "/Users/finneganlaister-smith/Downloads/DEV ENVIRONMENT/data-science-jupyter-template-main/footy_project_market_value_rankings/create_dataset_1/CSVs we use often/edited_match_dataset_3.csv"
+
+# Save the data frame as a CSV file
+write.csv(results_data_w_scores, file = file_path, row.names = FALSE)
+```
+
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
